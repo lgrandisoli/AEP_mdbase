@@ -1,0 +1,285 @@
+---
+title: "Use arrays of objects"
+url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays"
+category: "other"
+topic: "analytics-platform/using/cja-usecases/complex-data"
+created_at: "2026-06-23T20:43:27.923958+00:00"
+---
+Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
+
+# Use arrays of objects
+
+Last update: June 5, 2026
+- Topics:
+- [Data management](#)
+
+CREATED FOR:
+
+- Admin
+
+Some platform schemas can have object arrays. Adobe Customer Journey Analytics supports ingestion and reporting of object arrays within event, lookup, and profile data. One of the most common examples would be a shopping cart, which contain multiple products. Each product has a name, SKU, category, price, quantity, and any other dimensions you want to track. All of these facets have separate requirements, but must all fit into the same hit.
+
+In previous versions of Adobe Analytics, this feat was accomplished using the products variable. It was a concatenated string separated by semicolons (;) to separate facets of a product, while commas (,) delineated products. It was the only variable with limited support of “object arrays”. Multi-value variables such as list vars could support the equivalent of arrays, but they could not support “object arrays”. Customer Journey Analytics expands on this concept by supporting arbitrarily deep hierarchies within a single row of data, a feature unavailable in any previous version of Adobe Analytics.
+
+## Same event example
+
+The following event is a JSON object that represents a purchase a customer made of a washing machine and dryer.
+
+```
+{
+  "ID": "1",
+  "product": [
+    {
+      "SKU": "1234",
+      "category": "Washing Machines",
+      "name": "LG Washing Machine 2000",
+      "orders": 1,
+      "revenue": 1600,
+      "units": 1,
+      "order_id":"abc123",
+      "warranty": [
+        {
+          "coverage": "full coverage",
+          "length": "2 year",
+          "name": "LG 2000 standard",
+          "orders": 1,
+          "revenue": 200
+        },
+        {
+          "coverage": "extended",
+          "length": "1 year",
+          "orders": 1,
+          "revenue": 50,
+          "type": "LG 2000 addon"
+        }
+      ]
+    },
+    {
+      "SKU": "4567",
+      "category": "Dryers",
+      "name": "LG Dryer 2000",
+      "orders": 1,
+      "revenue": 500,
+      "units": 1
+    }
+  ],
+  "timestamp": 1534219229
+}
+```
+
+When creating a data view, the following dimensions and metric are available (based on schema):
+
+- Dimensions: ID product : SKU product : name product : order_id product : warranty : coverage prodcut : warranty : length product : warranty : name product : warranty : type
+- Metrics: product : orders product : units product : revenue product : warranty product : warranty : revenue
+
+### Same event examples (reporting behavior)
+
+Using just the above event, the following tables show Workspace reports with some dimension and metric combinations.
+
+product : name
+product : orders
+product : revenue
+LG Washing Machine 2000
+1
+1600
+LG Dryer 2000
+1
+500
+Total
+1
+2100
+Customer Journey Analytics selectively looks at the dimension and metrics of the object based on the table.
+
+```
+{
+  "ID": "1",
++  "product": [
++    {
+      "SKU": "1234",
+      "category": "Washing Machines",
++      "name": "LG Washing Machine 2000",
++      "orders": 1,
++      "revenue": 1600,
+      "units": 1,
+      "order_id":"abc123",
+      "warranty": [
+        {
+          "coverage": "full coverage",
+          "length": "2 year",
+          "name": "LG 2000 standard",
+          "orders": 1,
+          "revenue": 200
+        },
+        {
+          "coverage": "extended",
+          "length": "1 year",
+          "orders": 1,
+          "revenue": 50,
+          "type": "LG 2000 addon"
+        }
+      ]
++    },
++    {
+      "SKU": "4567",
+      "category": "Dryers",
++      "name": "LG Dryer 2000",
++      "orders": 1,
++      "revenue": 500,
+      "units": 1
++    }
++  ],
++  "timestamp": 1534219229
++}
+```
+
+If you wanted to report on just warranty revenue, your project would look similar to the following:
+
+product : warranty : coverage
+product : warranty : revenue
+full coverage
+200
+extended
+50
+Total
+250
+Customer Journey Analytics looks at these parts of the event to generate the report:
+
+```
+{
+  "ID": "1",
++  "product": [
++    {
+      "SKU": "1234",
+      "category": "Washing Machines",
+      "name": "LG Washing Machine 2000",
+      "orders": 1,
+      "revenue": 1600,
+      "units": 1,
+      "order_id":"abc123",
++      "warranty": [
++        {
++          "coverage": "full coverage",
+          "length": "2 year",
+          "name": "LG 2000 standard",
+          "orders": 1,
++          "revenue": 200
++        },
++        {
++          "coverage": "extended",
+          "length": "1 year",
+          "orders": 1,
++          "revenue": 50,
+          "type": "LG 2000 addon"
++        }
++      ]
++    },
+    {
+      "SKU": "4567",
+      "category": "Dryers",
+      "name": "LG Dryer 2000",
+      "orders": 1,
+      "revenue": 500,
+      "units": 1
+    }
++  ],
++  "timestamp": 1534219229
++}
+```
+
+Since the dryer did not include a warranty, it is not included in the table.
+
+Since you can combine any dimension with any metric, the following table shows how data would with unspecified dimension items:
+
+product : warranty : name
+product : orders
+product : warranty : orders
+LG 2000 standard
+1
+1
+Unspecified
+2
+1
+Total
+2
+2
+A product order exists without a warranty name tied to it, so the dimension item attributes to ‘Unspecified’. The same situation also applies to the product warranty order:
+
+```
+{
+  "ID": "1",
++  "product": [
++    {
+      "SKU": "1234",
+      "category": "Washing Machines",
+      "name": "LG Washing Machine 2000",
++      "orders": 1,
+      "revenue": 1600,
+      "units": 1,
+      "order_id":"abc123",
++      "warranty": [
++        {
+          "coverage": "full coverage",
+          "length": "2 year",
++          "name": "LG 2000 standard",
++          "orders": 1,
+          "revenue": 200
++        },
++        {
+          "coverage": "extended",
+          "length": "1 year",
++          "orders": 1,
+          "revenue": 50,
+          "type": "LG 2000 addon"
++        }
++      ]
++    },
++    {
+      "SKU": "4567",
+      "category": "Dryers",
+      "name": "LG Dryer 2000",
++      "orders": 1,
+      "revenue": 500,
+      "units": 1
++    }
++  ],
++  "timestamp": 1534219229
++}
+```
+
+Note the orders that don’t have a name tied to them. These are the orders attributed to the ‘Unspecified’ dimension item.
+
+### Combining metrics
+
+Customer Journey Analytics does not natively combine similarly named metrics if they are on different object levels.
+
+product : category
+product : revenue
+product : warranty : revenue
+Washing Machines
+1600
+250
+Dryers
+500
+0
+Total
+2100
+250
+However, you can create a calculated metric that combines the desired metrics:
+
+Calculated metric “Total revenue”: [product : revenue] + [product : warranty : revenue]
+
+Applying this calculated metric displays the desired results:
+
+product : warranty : name
+Total revenue (calculated metric)
+Washing Machines
+1850
+Dryers
+500
+Total
+2350
+## Limitations
+
+Limitations do apply for arrays in data used by Customer Journey Analytics and modelled as part of a schema in Experience Platform. See [Data model limits](/en/docs/experience-platform/profile/guardrails#data-model-limits) and [Data size limits](/en/docs/experience-platform/profile/guardrails#data-size-limits) in the [Default Guardrails for Real-Time Customer Profile data and segmentation](/en/docs/experience-platform/profile/guardrails).
+
+recommendation-more-help

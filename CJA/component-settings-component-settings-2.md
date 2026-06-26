@@ -1,0 +1,496 @@
+---
+title: "Component settings component-settings"
+url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-settings/overview"
+category: "overview"
+topic: "analytics-platform/using/cja-dataviews/component-settings"
+created_at: "2026-06-23T20:42:44.916264+00:00"
+---
+Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
+
+# Component settings component-settings
+
+Last update: June 6, 2026
+- Topics:
+- [Analysis Workspace](#)
+- [Components](#)
+- [Integrations](#)
+
+CREATED FOR:
+
+- Admin
+
+The following information describes the settings that a data view component uses.
+
+Setting
+Description/Use case
+Component type
+Required. Allow you to change a component from Metric to Dimension or the opposite way. Changing this drop-down selection shifts the component to its respective included components area.
+Component name
+Required. Lets you specify the friendly name that appears in Analysis Workspace. You can rename a component to give it a name specific to the data view.
+Description
+Optional, but recommended. Provides information on the component to other users.
+Tags
+Optional. Let you tag the component with custom or out-of-the-box tags for easier searching/filtering in the Analysis Workspace UI.
+Context labels
+Optional. A drop-down menu of available system-defined
+context labels
+that can be applied to a component.
+Schema field name
+The name of the schema field.
+Dataset type
+Required. A non-editable field showing which dataset type (event, lookup, or profile) the component came from.
+Dataset
+A non-editable field showing which dataset that the component originated from. This field can contain multiple datasets.
+Schema type
+A non-editable field showing the data type of the component. While you can use any supported schema field type in Platform, not all fields types are supported in Customer Journey Analytics. The following data types are supported:
+Integer
+,
+Int
+,
+Long
+,
+Double
+,
+Float
+,
+Number
+,
+Short
+,
+Byte
+,
+String
+, and
+Boolean
+. Only the
+String
+schema data type is allowed in Lookup datasets currently.
+Component ID
+Required. The
+Customer Journey Analytics API
+uses this field to reference the component. Each component in a data view must be unique. Adobe automatically generates an ID for each component; however, you can click the edit icon and modify the component ID. Changing the component ID breaks all existing Workspace projects that contain this component. While each component needs a unique ID in a single data view, you can use the same component ID in other data views. If you use the same component ID in other data views, you can make Workspace projects compatible across data views.
+For profile and lookup based components, the component ID has an ID prefix based on the dataset ID (for example:
+642b28fcc1f0ee1c074265a0.person.name.firstName
+). When you want to reuse a profile or lookup based component, like
+person.name.firstName
+, in your Workspace project, and configure this component in different data views, ensure you rename the component ID uniquely (for example:
+myUniqueID.person.name.firstName
+) across your data views.
+Path
+Required. A non-editable field showing the schema path that the component came from.
+Data Usage Labels
+Any data usage labels that are assigned to this component in Adobe Experience Platform.
+Learn more
+.
+Hide component in reporting
+Let you curate the component out of the data view for non-admins. Admins can still access it by clicking Show All Components in an Analysis Workspace project.
+See [Component type settings](/en/docs/customer-journey-analytics-learn/tutorials/data-views/component-type-settings-in-data-views#_blank) for a demo video.
+
+style
+shade-box
+## Context labels
+
+Context labels are system-defined tags applied to components within a data view. When context labels are applied to components (dimension or metrics), Customer Journey Analytics is instructed to use these context-labeled components automatically in certain visualizations or features.
+
+Context labels allow you to provide semantic context to individual pieces of data. In general, Customer Journey Analytics does not need to know the semantic meaning of a dimension or metric to perform its analysis. However, some situations (project templates and a few selected visualizations) require Customer Journey Analytics to understand semantic meaning to perform some type of analysis. Context labels are created for those situations.
+
+Context labels operate at the component (dimension or metric) level, and allow for great flexibility within the data view for the customer. For example, you can assign a context label to a dimension after you have applied several post-processing transforms to a field. Or even to a dimension that is based on a derived field. Context labels provide a layer of abstraction on top of components and fields.
+
+For reasons of convenience, smart default context labels are applied automatically to components based on fields with a specific XDM path. For example, the **Commerce: Product Category** context label is applied automatically to a **Category name** dimension that is based on the productListItems.productCategories.categoryName schema path. You can, however, move the context label to a different component without any issue.
+
+To streamline Adobe provided project templates, several integrations (like Journey Optimizer, Content Analytics, and more) set up data views where out of the box components are constructed in a specific way. And appropriate context labels are applied automatically. Again, you can simply move any of those context labels to other components that are created in the data view and your custom component is used instead.
+
+Context labels are relevant for the disclosure of project templates as well. Project templates quickly realize the reporting foundation for several different purpose-built use cases. However, not every template does make sense for every data view and you don’t want to show non-applicable templates. Context labels are used to show templates based on whether the context labels are included in the selected data view. You can simply add more context labels to your data view (components), and more templates become available. Or remove context labels to hide specific templates.
+
+NOTE
+You can apply more than one context label to a component, but you cannot apply one context label to multiple components within one data view.
+The benefits of context labels are:
+
+- Convenience : You don’t have to re-select the same component in every panel or visualization.
+- Unlocks functionality : Some visualizations (like Map ) require knowledge about which component is latitude and longitude. Assigning context labels discloses that information to the visualization.
+- Consistency : Everyone in your organization that works on one or more projects that are based on a data view that uses context labels gets the same behavior.
+- Visibility of features and templates : Certain visualizations and features only appear when the proper context label is assigned. For example: A Map visualization does display properly only when Customer Journey Analytics knows which components represent latitude and longitude. Specific templates are visible only when the correct context labels are applied and the associated components become available.
+
+Context labels may be required in the following situations:
+
+- To define a set of components, you can use in experimentation reporting using the Experimentation panel in Analysis Workspace projects. For more information, see Integrate with Journey Optimizer and Target reporting .
+- To define a set of components, you can use within the Map visualization in Analysis Workspace projects. For more information, see Add context labels in data views in Map . Note : The Map visualization is in the Limited Testing phase of release and might not be available yet in your environment.
+- To reveal templates provided by Adobe . Some templates provided by Adobe might not work because certain components are not in your data view. For each missing component, a matching context label is available in your data view. You need to either add the matching context label to a component that is already in your data view. Or you need to add a new component to your data view and add the context label to the component (if not already provided automatically). For more information, see Add missing components to the data view for a given template in the article Create and manage templates .
+
+The following groups of context labels are available, each with a list of specific context labels.
+
+Campaign
+| table 0-row-2 1-row-2 2-row-2 |  |
+| --- | --- |
+| Name | Description |
+| Tracking Code | Tracking code. |
+| Tracking Code Instances | Tracking code instances. |
+
+Commerce
+| table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 8-row-2 9-row-2 10-row-2 11-row-2 12-row-2 |  |
+| --- | --- |
+| Name | Description |
+| Cart Additions | Cart Additions |
+| Cart Opens | The cart opens. |
+| Cart Removals | Cart Removals |
+| Cart Views | Cart Views |
+| Checkouts | Checkouts. |
+| Orders | Orders. |
+| Product | Product. |
+| Product Category | Product category. |
+| Product Views | Product views. |
+| Revenue | Revenue. |
+| Store | Store. |
+| Units | Units. |
+
+Experimentation
+| table 0-row-2 1-row-2 2-row-2 |  |
+| --- | --- |
+| Name | Description |
+| Experimentation Experiment | An experiment is a set of variations on an experience that were exposed to end users to determine which is best to keep in perpetuity. |
+| Experimentation Variant | Variant is one of two or more alterations in an end user’s experience that are being compared for the purpose of identifying the better alternative. |
+
+Media
+| table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 8-row-2 9-row-2 10-row-2 11-row-2 12-row-2 13-row-2 |  |
+| --- | --- |
+| Name | Description |
+| [Content ID](/en/docs/media-analytics/using/reporting/dimensions/content) | The unique identifier for the content being played. Enables the **Content ID** radio button in the [Media average minute audience](/en/docs/analytics-platform/using/cja-workspace/panels/average-minute-audience-panel) panel. |
+| [Content Time Spent](/en/docs/media-analytics/using/reporting/metrics/content-time-spent) | Time spent viewing content, excluding ads. Powers the **Content Time Spent** advanced setting in the [Media average minute audience](/en/docs/analytics-platform/using/cja-workspace/panels/average-minute-audience-panel) panel. |
+| [Episode](/en/docs/media-analytics/using/reporting/dimensions/episode) | Episode number within a series. Enables filtering by episode in the [Media average minute audience](/en/docs/analytics-platform/using/cja-workspace/panels/average-minute-audience-panel) panel. |
+| Event Type | The media event type, such as media.play or media.ping. Required for Customer Journey Analytics to compute the [Media concurrent viewers](/en/docs/analytics-platform/using/cja-workspace/panels/media-concurrent-viewers) derived metric. |
+| [Media Time Spent](/en/docs/media-analytics/using/reporting/metrics/media-time-spent) | Total time including content, ads, buffering, and pausing. Powers the [Media playback time spent](/en/docs/analytics-platform/using/cja-workspace/panels/media-playback-time-spent) panel and the **Media Time Spent** advanced setting in the [Media average minute audience](/en/docs/analytics-platform/using/cja-workspace/panels/average-minute-audience-panel) panel. |
+| [Season](/en/docs/media-analytics/using/reporting/dimensions/season) | Season number within a series. Enables filtering by season in the [Media average minute audience](/en/docs/analytics-platform/using/cja-workspace/panels/average-minute-audience-panel) panel. |
+| Seconds Since Last Call | Time in seconds since the previous heartbeat ping. Required for Customer Journey Analytics to compute the [Media concurrent viewers](/en/docs/analytics-platform/using/cja-workspace/panels/media-concurrent-viewers) derived metric, which identifies when a session is still active. |
+| [Show](/en/docs/media-analytics/using/reporting/dimensions/show) | The program or series name. Enables filtering by show in the [Media average minute audience](/en/docs/analytics-platform/using/cja-workspace/panels/average-minute-audience-panel) panel. |
+| [Time to Start](/en/docs/media-analytics/using/reporting/metrics/time-to-start) | Time from content selection to when playback begins. Included in the [Media playback time spent](/en/docs/analytics-platform/using/cja-workspace/panels/media-playback-time-spent) calculation. |
+| [Total Buffer Duration](/en/docs/media-analytics/using/reporting/metrics/total-buffer-duration) | Total time spent buffering during a session. Included in the [Media playback time spent](/en/docs/analytics-platform/using/cja-workspace/panels/media-playback-time-spent) calculation. |
+| [Total Pause Duration](/en/docs/media-analytics/using/reporting/metrics/total-pause-duration) | Total time spent paused during a session. Included in the [Media playback time spent](/en/docs/analytics-platform/using/cja-workspace/panels/media-playback-time-spent) calculation. |
+| [Video Length](/en/docs/media-analytics/using/reporting/dimensions/content-length) | Duration of the content in seconds. Required for the **Specific content** mode in the [Media average minute audience](/en/docs/analytics-platform/using/cja-workspace/panels/average-minute-audience-panel) panel. |
+| [Video Name](/en/docs/media-analytics/using/reporting/dimensions/content-name) | The display name of the content. Enables the **Video Name** radio button in the [Media average minute audience](/en/docs/analytics-platform/using/cja-workspace/panels/average-minute-audience-panel) panel. |
+
+Call Center
+| table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 |  |
+| --- | --- |
+| Name | Description |
+| Call Center Name | Call center name. |
+| Call Costs | Call costs. |
+| Call Hours | Call hours. |
+| Call Length | Call length. |
+| Call Reason | Call reason. |
+| Call Survey Score | Call survey score. |
+| Calls | Calls. |
+
+Demographic
+| table 0-row-2 1-row-2 |  |
+| --- | --- |
+| Name | Description |
+| Gender | Gender. |
+
+Environment
+| table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 |  |
+| --- | --- |
+| Name | Description |
+| Browser | Browser. |
+| Browser Type | Browser type. |
+| Language | Language. |
+| Operating System | Operating system. |
+| Operating System Group | Operating system group. |
+| Operating System Name | Operating system name. |
+
+General
+| table 0-row-2 1-row-2 2-row-2 3-row-2 |  |
+| --- | --- |
+| Name | Description |
+| Action Name | Action name. |
+| Actions | Actions. |
+| Interaction Channel | Interaction channel. |
+
+Geo
+| table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 8-row-2 |  |
+| --- | --- |
+| Name | Description |
+| Geo City | Geo city. |
+| Geo Country | Geo country. |
+| Geo Dma | Geo dma. |
+| Geo Region | Geo region. |
+| Latitude | Latitude. |
+| Longitude | Longitude. |
+| Point Of Interest | Point of interest. |
+| State | State. |
+
+Marketing Channel
+| table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 |  |
+| --- | --- |
+| Name | Description |
+| First Touch Channel | First touch channel. |
+| First Touch Channel Detail | First touch channel detail. |
+| Last Touch Channel | Last touch channel. |
+| Last Touch Channel Detail | Last touch channel detail. |
+| Marketing Channel | Marketing channel. |
+
+Mobile
+| table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 8-row-2 9-row-2 10-row-2 11-row-2 12-row-2 13-row-2 14-row-2 15-row-2 16-row-2 |  |
+| --- | --- |
+| Name | Description |
+| Application Id | Application id. |
+| Mobile Carrier | Mobile carrier. |
+| Mobile Crashes | Mobile crashes. |
+| Mobile Device Name | Mobile device name. |
+| Mobile Device Type | Mobile device type. |
+| Mobile In App Message Name | Mobile in app message name. |
+| Mobile Installs | Mobile installs. |
+| Mobile Launches | Mobile launches. |
+| Mobile Manufacturer | Mobile manufacturer. |
+| Mobile Message Cancels | Mobile message cancels. |
+| Mobile Message Clicks | Mobile message clicks. |
+| Mobile Message Impressions | Mobile message impressions. |
+| Mobile Message Push Opt In | Mobile message push opt-in. |
+| Mobile Push Message Name | Mobile push message name. |
+| Mobile Upgrades | Mobile upgrades. |
+| Time Spent Per Timed Action | Time spent per timed action. |
+
+Search
+| table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 |  |
+| --- | --- |
+| Name | Description |
+| Search Engine | Search engine. |
+| Search Engine Keyword | Search engine keyword. |
+| Search Engine Natural | Search engine natural. |
+| Search Engine Natural Keyword | Search engine natural keyword. |
+| Search Engine Paid | Search engine paid. |
+| Search Engine Paid Keyword | Search engine paid keyword. |
+
+Survey
+| table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 |  |
+| --- | --- |
+| Name | Description |
+| Survey | Survey. |
+| Survey Answer | Survey answer. |
+| Survey Completes | Survey completes. |
+| Survey Question | Survey question. |
+| Survey Starts | The survey starts. |
+
+Web
+| table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 8-row-2 9-row-2 10-row-2 11-row-2 12-row-2 13-row-2 |  |
+| --- | --- |
+| Name | Description |
+| Average Page Time | Average page time. |
+| Bounces | Bounces. |
+| Entry Page | Entry page. |
+| Exit Page | Exit page. |
+| Page | Page. |
+| Page Views | Page views. |
+| Referrer | Referrer. |
+| Referrer Type | Referrer type. |
+| Referring Domain | Referring domain. |
+| Referring Domain Original | Referring domain original. |
+| Reloads | Reloads. |
+| Single Page Visits | Single page visits. |
+| Site Sections | Site sections. |
+
+B2B
+| table 0-row-2 1-row-2 2-row-2 3-row-2 |  |
+| --- | --- |
+| Name | Description |
+| Account Name | Account name. |
+| Buying Group Name | Buying group name |
+| Opportunity Name | Opportunity name |
+
+Content Analytics
+| table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 8-row-2 9-row-2 10-row-2 11-row-2 12-row-2 13-row-2 14-row-2 15-row-2 16-row-2 17-row-2 18-row-2 19-row-2 20-row-2 21-row-2 22-row-2 23-row-2 24-row-2 25-row-2 26-row-2 27-row-2 28-row-2 29-row-2 30-row-2 31-row-2 32-row-2 33-row-2 34-row-2 35-row-2 36-row-2 37-row-2 38-row-2 39-row-2 40-row-2 41-row-2 42-row-2 43-row-2 44-row-2 45-row-2 46-row-2 47-row-2 48-row-2 49-row-2 50-row-2 |  |
+| --- | --- |
+| Name | Description |
+| Asset Absolute Left | Asset Absolute Left. |
+| Asset Absolute Top | Asset Absolute Top. |
+| Asset Attributes | Asset Attributes. |
+| Asset Background Colors | Asset Background Colors. |
+| Asset Camera Positions | Asset Camera Positions. |
+| Asset Camera Proximities | Asset Camera Proximities. |
+| Asset Camera Settings | Asset Camera Settings. |
+| Asset Clicks | Asset Clicks. |
+| Asset Created By | Asset Created By. |
+| Asset Created Date | Asset Created Dat.e |
+| Asset Display Height | Asset Display Height. |
+| Asset Display Width | Asset Display Width. |
+| Asset Foreground Colors | Asset Foreground Colors. |
+| Asset Id | Asset Id. |
+| Asset Image Types | Asset Image Types. |
+| Asset Last Updated By | Asset Last Updated. |
+| Asset Last Updated Date | Asset Last Updated Date. |
+| Asset Lighting Conditions | Asset Lighting Conditions. |
+| Asset Link Url | Asset Link Url. |
+| Asset Name | Asset Name. |
+| Asset People Categories | Asset People Categories. |
+| Asset Perception ID | Unique identifier of assets that are perceptually the same. |
+| Asset Photography Styles | Asset Photography Styles. |
+| Asset Scenes | Asset Scenes. |
+| Asset Source | Asset Source. |
+| Asset Tags | Asset Tags. |
+| Asset Type | Asset Type. |
+| Asset Views | Asset Views. |
+| Asset Visual Attention Spread | Asset Visual Attention Spread. |
+| Asset Visual Content Density | Asset Visual Content Density. |
+| Experience Attributes | Experience Attributes. |
+| Experience channel | Experience Channel. |
+| Experience Clicks | Experience Clicks. |
+| Experience Emoji Count | Experience Emoji Count. |
+| Experience Hashtag Count | Experience Hashtag Count. |
+| Experience Horizontal Percentage Depth | Experience Horizontal Percentage Depth. |
+| Experience Keywords | Experience Keywords. |
+| Experience Marketing Emotions | Experience Marketing Emotions. |
+| Experience Narratives | Experience Narratives. |
+| Experience Persuasion Strategies | Experience Persuasion Strategies. |
+| Experience Readability Word Count Per Sentence Count | Experience Readability Word Count Per Sentence Count. |
+| Experience Readability Score | Experience Readability Score. |
+| Experience Readability Sentences Count | Experience Readability Sentences Count. |
+| Experience Readability Stop Words Count | Experience Readability Stop Words Count. |
+| Experience Readability Text Quotes Count | Experience Readability Text Quotes Count. |
+| Experience Readability Word Count | Experience Readability Word Count. |
+| Experience Source | Experience Source. |
+| Experience Tones | Experience Tones. |
+| Experience Vertical Percentage Depth | Experience Vertical Percentage Depth. |
+| Experience Views | Experience Views. |
+
+Journey Optimizer
+| table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 8-row-2 9-row-2 10-row-2 11-row-2 12-row-2 13-row-2 14-row-2 15-row-2 16-row-2 17-row-2 18-row-2 19-row-2 20-row-2 21-row-2 22-row-2 23-row-2 24-row-2 25-row-2 26-row-2 27-row-2 28-row-2 29-row-2 30-row-2 31-row-2 32-row-2 33-row-2 34-row-2 35-row-2 36-row-2 37-row-2 38-row-2 39-row-2 40-row-2 41-row-2 42-row-2 43-row-2 44-row-2 45-row-2 46-row-2 47-row-2 48-row-2 49-row-2 50-row-2 51-row-2 52-row-2 53-row-2 54-row-2 55-row-2 56-row-2 57-row-2 58-row-2 59-row-2 60-row-2 61-row-2 62-row-2 63-row-2 64-row-2 65-row-2 66-row-2 67-row-2 68-row-2 69-row-2 70-row-2 71-row-2 72-row-2 73-row-2 74-row-2 75-row-2 76-row-2 77-row-2 78-row-2 79-row-2 80-row-2 81-row-2 82-row-2 83-row-2 84-row-2 85-row-2 86-row-2 87-row-2 88-row-2 89-row-2 90-row-2 91-row-2 92-row-2 93-row-2 94-row-2 95-row-2 96-row-2 97-row-2 98-row-2 99-row-2 100-row-2 101-row-2 102-row-2 103-row-2 104-row-2 105-row-2 106-row-2 107-row-2 108-row-2 109-row-2 110-row-2 111-row-2 112-row-2 113-row-2 114-row-2 115-row-2 116-row-2 117-row-2 118-row-2 119-row-2 120-row-2 121-row-2 122-row-2 123-row-2 124-row-2 125-row-2 126-row-2 127-row-2 128-row-2 129-row-2 130-row-2 131-row-2 132-row-2 133-row-2 134-row-2 135-row-2 136-row-2 137-row-2 |  |
+| --- | --- |
+| Name | Description |
+| Action Error (AJO) | Count of errors generated by journey actions. |
+| Action Execution Error | Error condition that prevented Journey Runtime from executing the action. |
+| Action Label (AJO) | The customer generated display name of the element with which the end-user interacted. |
+| Alternative Exits (AJO) | The count of exits that did not occur due to a profile reaching an end node or failing due to an error. |
+| App Installs (AJO) | Number of app installs. |
+| App Launches (AJO) | Number of times a mobile app is launched. |
+| Batch Id (AJO) | GUID created at invocation of each new batch instance for a scheduled Journey or Campaign Action. For example: If a scheduled Journey or Campaign Action runs at 8.00am and 10.00am, there will be two separate different batchInstanceID’s. |
+| Batch Instance Timestamp (AJO) | The timestamp of the batch instance. |
+| Bounces For Outbound Channels(deprecated) | The total count of messages bounced across outbound channels. |
+| Campaign Action Name (AJO) | The name of the campaign action. |
+| Campaign Id (AJO) | The id of the campaign. |
+| Campaign Name (AJO) | The name of the campaign. |
+| Campaign Version ID (AJO) | The version id of the campaign. |
+| Channel | The channel to which this data should be correlated. |
+| Clicks (AJO) | Total count of clicks across all channels. |
+| Consent Policy Rejections (AJO) | Count of journey actions that are rejected due to one or more consent policies. |
+| Content Decision Error (AJO) | Error messages generated by content decision nodes of journey. |
+| Content Decision Errors (AJO) | Count of errors generated by content decision nodes of journey. |
+| Content Decision Node Name (AJO) | The content decision node name of the journey. |
+| Correlation Id | Correlation Id. |
+| Count of Offers (AJO) | The number of offer items in the proposition. |
+| Decision Item Binding Key | A composite identifier that combines item ID with Experience Decisioning request ID, enabling data persistence across interactions. |
+| Decision Provider (AJO) | The provider that was asked to make the decision. This dimension is used when multiple services can make decisions for the same placement or activity. |
+| Decision Provider (Persisted) (AJO) | The decision provider with persistence binding enabled. |
+| Decision Policy Id (AJO) | The id of the decision policy used when deciding which items to include in this proposition. |
+| Dedup Metric (AJO) | Dedup Metric. |
+| Delivered (deprecated) | Total count of messages delivered. |
+| Displays (AJO) | This count displays of AJO messages. This count includes email opens, web displays, and in app displays. Mobile platforms do not report SMS and Push message displays, therefore they are not counted. |
+| Dismissed (AJO) | Counts every time the inApp message is closed by the Adobe SDK regardless of which action the end user chooses to close it. |
+| Dry Run Id (AJO) | Unique Identifier for Dry Run. |
+| Email Bot Opens (AJO) | Total count of email opens performed by bots. |
+| Email Opens (AJO) | Total count of email opens. |
+| Email Recipient Domain (AJO) | Domain of Email Address. |
+| Email Subject | Email subject, non-personalized. |
+| Event Id | A unique identifier for the time-series event. |
+| Exit Criteria Id (AJO) | The id of the exit criteria used to determine if the journey should exit. |
+| Exit Criteria Name (AJO) | Name of exit criteria. |
+| Experiment Id (AJO) | The id of the experiment. |
+| Experiment Name (AJO) | The name of the experiment. |
+| Fall Back Offer Count (AJO) | The number of fall back offers. |
+| Fetch Error | Error condition that prevented Journey Runtime from executing the fetch. |
+| Inbound Clicks (AJO) | Total count of clicks across inbound channels. |
+| Inbound Dismisses (AJO) | Total count of dismiss across inbound channels. |
+| Inbound Impressions (AJO) | Total count of impressions across inbound channels. |
+| Inbound Sends (AJO) | Total count of sends across inbound channels. |
+| Inbound Triggered (AJO) | Proposition was chosen to be displayed by the Adobe SDK. Other factors may prevent it from actually being displayed. |
+| Is Send-Time Optimized (AJO) | Is message execution SendTimeOptimized? |
+| Is Test Journey | Is the event part of a test journey execution? |
+| Is Test Message (AJO) | Is message sent as a test execution? |
+| Item ID (Persisted) (AJO) | The ID of the item with persistence binding enabled. |
+| Item Id (AJO) | The id of the item. |
+| Item Name (AJO) | The name of the item. |
+| Item Name (Persisted) (AJO) | The name of the item with persistence binding enabled. |
+| Journey Action Error (AJO) | Error messages generated by journey actions. |
+| Journey Action Node Name | The node name of the journey action. |
+| Journey Enters | True if the step event was a journey entrance event for a profile. |
+| Journey End (AJO) | The end of the journey. |
+| Journey Event Node Name | This value is set whenever a segment or external event occurs in a journey. |
+| Journey Exclusion Reason | Reason for journey instance exclusion. |
+| Journey Exclusion Rule Name | Name of the Rule that caused the denial of Journey Entry. |
+| Journey Exclusions (AJO) | Indicate whether the current step event resulted in a journey discard for a profile. This typically occurs due to capping or concurrency rules being applied, preventing further progression in the journey. |
+| Journey Exit Type (AJO) | The type of exit that occurred for the journey instance. |
+| Journey Failures | Gives the current state of the step that has finished executing. |
+| Journey Id | The id of the journey. |
+| Journey Name | The name of the journey. |
+| Journey Name and Version | The name and version of the journey. |
+| Journey Version Id | The version id of the journey. |
+| JourneyExits | True if the current step led to ending an instance of the journey. That is the last step in a journey for a given profile was executed successfully. |
+| Landing Page Conversions (AJO) | Total count of conversions on landing page. |
+| Landing Page Id (AJO) | Unique Identifier for Landing Page. |
+| Landing Page Source (AJO) | The source of the landing page. |
+| Landing Page Views (AJO) | Total count of views on landing page. |
+| Landing page clicks (AJO) | Total count of clicks on landing page. |
+| Link URL (AJO) | The URL clicked by the user. |
+| Message Bounce Reason (AJO) | The reason for the message bounce. |
+| Message Error Reason (AJO) | The reason for the message error. |
+| Message Exclusion Reason (AJO) | Exclusion reason. |
+| Message Failure Category (AJO) | Failure category . |
+| Message Failure Reason (AJO) | Failure reason. |
+| Message Failure Type (AJO) | Failure Type. |
+| Message ID (AJO) | The message id to which this data should be correlated. |
+| Message Language (AJO) | The language of the message. |
+| Message Name (AJO) | The name of the message. |
+| Message Retry (AJO) | Retry count. |
+| Message Status (AJO) | Message status (for example, sent, bounced, error, etc.) |
+| Message Type (AJO) | Whether the message is marketing or transactional. |
+| Message Feedback Status (deprecated) | Feedback status. |
+| Node Enters | True if the step event was a node entrance event for a profile. |
+| Node Id | The node id of the journey node. |
+| Node Name | The node name of the journey node. |
+| Node Type | The node type of the journey node. |
+| Orchestrated Campaign Action Identity Namespace (AJO) | The identity namespace of the orchestrated campaign action. |
+| Orchestrated Campaign Action Name (AJO) | The action name of orchestrated campaign. |
+| Orchestrated Campaign Action Node ID (AJO) | The action id of the orchestrated campaign. |
+| Orchestrated Campaign ID (AJO) | The id of the orchestrated campaign. |
+| Orchestrated Campaign Name (AJO) | The name of the orchestrated campaign. |
+| Orchestrated Campaign Version ID (AJO) | The version id of the orchestrated campaign. |
+| Outbound Clicks (AJO) | Total count of clicks across outbound channels. |
+| Outbound Errors (deprecated) | Total count of messages having errors across outbound channels. |
+| Outbound Exclusions (deprecated) | Total count of exclude events across outbound channels. |
+| Outbound Sends (deprecated) | Total count of messages sent across outbound channels. |
+| Point Of Interest | point of interest. |
+| Proposition Id (AJO) | The id of the proposition. |
+| Push Custom Actions (AJO) | Total count of custom actions in push interaction. |
+| Push Interactions (AJO) | Number of times a mobile app is launched due to a direct push message interaction. |
+| Push Platform (AJO) | Push provider service, for example, APNS or FCM. |
+| Push Title | Push Title, non-personalized. |
+| Ranking Strategy Id (AJO) | The Ranking Strategy Id. |
+| Rejected Consent Policy Name | Name of the corresponding rejected consent policy. |
+| Retry Count (AJO) | Number of times a message send was retried before either success or failure. |
+| Rule Name | Name of the Rule that caused the denial of Journey Entry. |
+| Selection Type (AJO) | This is the type of selection used when an item is derived as part of a decision. |
+| Sends (deprecated) | Total count of messages sent across all channels. |
+| SMS Inbound Message (AJO) | SMS inbound reply, for example, stop, start, subscribe, etc. |
+| SMS Inbound Messages (AJO) | SMS inbound reply, e.g. stop, start, subscribe, etc. |
+| SMS Message Type (AJO) | SMS provider, for example, inbound, inboundReply or send. |
+| SMS Provider (AJO) | SMS provider, for example, Sinch or Twilio. |
+| Spam Complaint (AJO) | Total count of spam complaint. |
+| Strategy Name (AJO) | Strategy name. The strategy name of which the item was derived from. |
+| Strategy Name (Persisted) (AJO) | The strategy name with persistence binding enabled. |
+| Subscription List Adds (AJO) | Total count of adds to a subscription list. |
+| Subscription List Id (AJO) | Unique Identifier for Subscription List. |
+| Subscription List Removes (AJO) | Total count of removes from a subscription list. |
+| Surface (AJO) | The channel surface on which the message was displayed. |
+| Targeted (deprecated) | This count of the number of times a proposition was targeted to a person. This is the number of times a proposition was considered for display to a person. |
+| Targeting Rule Name (AJO) | The name of the targeting rule. |
+| Test Event (AJO) | Test event. |
+| Time to Start | Time to Start. |
+| Total Buffer Duration | Total Buffer Duration. |
+| Total Pause Duration | Total Pause Duration. |
+| Traffic Type (AJO) | The Ranking Traffic Type. |
+| Treatment Id (AJO) | The id of selected treatment for the experiment. |
+| Treatment Name (AJO) | The name of the treatment for the experiment. |
+| Unique Visitors In Experiment (AJO) | The unique visitors in the experiment. |
+| Unsubscribes (AJO) | Total count of unsubscribes. |
+| Url Label (AJO) | Human-Friendly label for URL. |
+| URL ID (AJO) | Unique Identifier of the URL clicked by the user. |
+
+recommendation-more-help

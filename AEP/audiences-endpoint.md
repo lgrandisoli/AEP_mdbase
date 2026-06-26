@@ -1,0 +1,347 @@
+---
+title: "Audiences endpoint"
+url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/audiences"
+category: "reference"
+topic: "experience-platform/segmentation-service-guide"
+created_at: "2026-05-29T17:07:33.741813+00:00"
+---
+Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
+
+# Audiences endpoint
+
+Last update: May 23, 2026
+- Topics:
+- [Segments](#)
+
+CREATED FOR:
+
+- Developer
+
+An audience is a collection of people who share similar behaviors and/or characteristics. These collections of people can be generated either by using Adobe Experience Platform or from external sources. You can use the /audiences endpoint in the Segmentation API, which allows you to programmatically retrieve, create, update, and delete audiences.
+
+## Getting started
+
+The endpoints used in this guide are part of the Adobe Experience Platform Segmentation Service API. Before continuing, please review the [getting started guide](/en/docs/experience-platform/segmentation/api/getting-started) for important information that you need to know in order to successfully make calls to the API, including required headers and how to read example API calls.
+
+## Retrieve a list of audiences list
+
+You can retrieve a list of all audiences for your organization by making a GET request to the /audiences endpoint.
+
+**API format**
+
+The /audiences endpoint supports several query parameters to help filter your results. While these parameters are optional, their use is strongly recommended to help reduce expensive overhead when listing resources. If you make a call to this endpoint with no parameters, all audiences available for your organization will be retrieved. Multiple parameters can be included, separated by ampersands (&).
+
+```
+GET /audiences
+GET /audiences?{QUERY_PARAMETERS}
+```
+
+NOTE
+If you use this endpoint without any query parameters, inactive audiences will
+not
+be returned. However, if you use this endpoint in conjunction with the
+property=audienceId
+query parameter, inactive audiences
+will
+be returned.
+The following query parameters can be used when retrieving a list of audiences:
+
+Query parameter
+Description
+Example
+start
+Specifies the starting offset for the audiences returned.
+start=5
+limit
+Specifies the maximum number of audiences returned per page.
+limit=10
+sort
+Specifies the order to sort the results by. This is written in the format
+attributeName:[desc/asc]
+.
+sort=updateTime:desc
+property
+A filter that allows you to specify audiences that
+exactly
+match an attribute’s value. This is written in the format
+property=
+property=audienceId==test-audience-id
+name
+A filter that allows you to specify audiences whose names
+contain
+the provided value. This value is case insensitive.
+name=Sample
+description
+A filter that allows you to specify audiences whose descriptions
+contain
+the provided value. This value is case insensitive.
+description=Test Description
+entityType
+A filter that allows you to specify the type of audience you’re looking for.
+entityType=_xdm.context.account
+**Request**
+
+The following request retrieves the last two audiences created in your organization.
+
+A sample request to retrieve a list of audiences.
+| code language-shell |
+| --- |
+| curl -X GET https://platform.adobe.io/data/core/ups/audiences?limit=2 \ -H 'Authorization: Bearer {ACCESS_TOKEN}' \ -H 'x-gw-ims-org-id: {IMS_ORG}' \ -H 'x-api-key: {API_KEY}' \ -H 'x-sandbox-name: {SANDBOX_NAME}' |
+
+**Response**
+
+A successful response returns HTTP status 200 with a list of audiences that were created in your organization as JSON.
+
+A sample response that contains the last two created audiences that belong to your organization
+| code language-json |
+| --- |
+| { "children": [ { "id": "60ccea95-1435-4180-97a5-58af4aa285ab", "audienceId": "60ccea95-1435-4180-97a5-58af4aa285ab", "schema": { "name": "_xdm.context.profile" }, "profileInstanceId": "ups", "imsOrgId": "{ORG_ID}", "sandbox": { "sandboxId": "6ed34f6f-fe21-4a30-934f-6ffe21fa3075", "sandboxName": "prod", "type": "production", "default": true }, "name": "People who ordered in the last 30 days", "description": "Last 30 days", "expression": { "type": "PQL", "format": "pql/text", "value": "workAddress.country = \"US\"" }, "mergePolicyId": "ef006bbe-750e-4e81-85f0-0c6902192dcc", "evaluationInfo": { "batch": { "enabled": false }, "continuous": { "enabled": true }, "synchronous": { "enabled": false } }, "dataGovernancePolicy": { "excludeOptOut": true }, "isSystem": false, "creationTime": 1650374572000, "updateEpoch": 1650374573, "updateTime": 1650374573000, "createEpoch": 1650374572, "_etag": "\"33120d7c-0000-0200-0000-625eb7ad0000\"", "dependents": [], "definedOn": [ { "meta: resourceType": "unions", "meta: containerId": "tenant", "$ref": "https: //ns.adobe.com/xdm/context/profile__union" } ], "dependencies": [], "type": "SegmentDefinition", "originName": "REAL_TIME_CUSTOMER_PROFILE", "overridePerformanceWarnings": false, "createdBy": "{CREATED_BY_ID}", "lifecycleState": "published", "labels": [ "core/C1" ], "namespace": "AEPSegments" }, { "id": "32a83b5d-a118-4bd6-b3cb-3aee2f4c30a1", "audienceId": "test-external-audience-id", "name": "externalSegment1", "namespace": "aam", "imsOrgId": "{ORG_ID}", "sandbox":{ "sandboxId": "6ed34f6f-fe21-4a30-934f-6ffe21fa3075", "sandboxName": "prod", "type": "production", "default": true }, "isSystem": false, "description": "Last 30 days", "type": "ExternalSegment", "originName": "CUSTOM_UPLOAD", "lifecycleState": "published", "createdBy": "{CREATED_BY_ID}", "datasetId": "6254cf3c97f8e31b639fb14d", "labels":[ "core/C1" ], "linkedAudienceRef": { "flowId": "4685ea90-d2b6-11ec-9d64-0242ac120002" }, "creationTime": 1642745034000000, "updateEpoch": 1649926314, "updateTime": 1649926314000, "createEpoch": 1642745034 } ], "_page":{ "totalCount": 111, "totalPages": 21, "sortField": "name", "sort": "asc", "pageSize": 5, "limit": 5, "start": "0", "next": "1" }, "_links":{ "next":{ "href":"@/audiences?start=1&limit=2&totalCount=111" } } } |
+
+| table 0-row-3 1-row-3 2-row-3 3-row-3 4-row-3 5-row-3 6-row-3 7-row-3 8-row-3 9-row-3 10-row-3 11-row-3 12-row-3 13-row-3 14-row-3 15-row-3 16-row-3 17-row-3 18-row-3 |  |  |
+| --- | --- | --- |
+| Property | Audience type | Description |
+| id | Both | A system-generated read-only identifier for the audience. |
+| audienceId | Both | If the audience is a Platform-generated audience, this is the same value as the id. If the audience is externally generated, this value is provided by the client. |
+| schema | Both | The Experience Data Model (XDM) schema of the audience. |
+| imsOrgId | Both | The ID of the organization that the audience belongs to. |
+| sandbox | Both | Information about the sandbox that the audience belongs to. More information about sandboxes can be found in the [sandboxes overview](/en/docs/experience-platform/sandbox/home). |
+| name | Both | The name of the audience. |
+| description | Both | A description of the audience. |
+| expression | Platform-generated | The Profile Query Language (PQL) expression of the audience. More information about PQL expressions can be found in the [PQL expressions guide](/en/docs/experience-platform/segmentation/pql/overview). |
+| mergePolicyId | Platform-generated | The ID of the merge policy that the audience is associated with. More information about merge policies can be found in the [merge policies guide](/en/docs/experience-platform/profile/merge-policies/merge-policies). |
+| evaluationInfo | Platform-generated | Shows how the audience will be evaluated. Possible evaluation methods include batch, synchronous (streaming), or continuous (edge). More information about the evaluation methods can be found in the [segmentation overview](/en/docs/experience-platform/segmentation/home) |
+| dependents | Both | An array of audience IDs that depend on the current audience. This would be used if you are creating an audience that is a segment of a segment. |
+| dependencies | Both | An array of audience IDs that the audience depends on. This would be used if you are creating an audience that is a segment of a segment. |
+| type | Both | A system-generated field that displays whether the audience is Platform-generated or is an externally generated audience. Possible values include SegmentDefinition and ExternalSegment. A SegmentDefinition refers to an audience that was generated in Platform, while an ExternalSegment refers to an audience that was not generated in Platform. |
+| originName | Both | A field that refers to the name of the audience’s origin. For Platform-generated audiences, this value will be REAL_TIME_CUSTOMER_PROFILE. For audiences generated in Audience Orchestration, this value will be AUDIENCE_ORCHESTRATION. For audiences generated in Adobe Audience Manager, this value will be AUDIENCE_MANAGER. For other externally generated audiences, this value will be CUSTOM_UPLOAD. |
+| createdBy | Both | The ID of the user who created the audience. |
+| labels | Both | Object-level data usage and attribute-based access control labels that are relevant to the audience. |
+| namespace | Both | The namespace that the audience belongs to. Possible values include AAM, AAMSegments, AAMTraits, and AEPSegments. |
+| linkedAudienceRef | Both | An object that contains identifiers to other audience-related systems. |
+
+## Create a new audience create
+
+You can create a new audience by making a POST request to the /audiences endpoint.
+
+**API format**
+
+```
+POST /audiences
+```
+
+**Request**
+
+A sample request for creating a Platform-generated audience
+| code language-shell |
+| --- |
+| curl -X POST https://platform.adobe.io/data/core/ups/audiences -H 'Authorization: Bearer {ACCESS_TOKEN}' \ -H 'Content-Type: application/json' \ -H 'x-gw-ims-org-id: {IMS_ORG}' \ -H 'x-api-key: {API_KEY}' \ -H 'x-sandbox-name: {SANDBOX_NAME}' -d '{ "name": "People who ordered in the last 30 days", "profileInstanceId": "AEPSegments", "description": "Last 30 days", "type": "SegmentDefinition", "expression": { "type": "PQL", "format": "pql/text", "value": "workAddress.country = \"US\"" }, "schema": { "name": "_xdm.context.profile" }, "labels": [ "core/C1" ] }' |
+
+| table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 |  |
+| --- | --- |
+| Property | Description |
+| name | The name of the audience. |
+| description | A description of the audience. |
+| type | A field that displays whether the audience is Platform-generated or is an externally generated audience. Possible values include SegmentDefinition and ExternalSegment. A SegmentDefinition refers to an audience that was generated in Platform, while an ExternalSegment refers to an audience that was not generated in Platform. |
+| expression | The Profile Query Language (PQL) expression of the audience. More information about PQL expressions can be found in the [PQL expressions guide](/en/docs/experience-platform/segmentation/pql/overview). |
+| schema | The Experience Data Model (XDM) schema of the audience. |
+| labels | Object-level data usage and attribute-based access control labels that are relevant to the audience. |
+
+**Response**
+
+A successful response returns HTTP status 200 with information about your newly created audience.
+
+A sample response when creating a Platform-generated audience.
+| code language-json |
+| --- |
+| { "id": "60ccea95-1435-4180-97a5-58af4aa285ab", "audienceId": "60ccea95-1435-4180-97a5-58af4aa285ab", "schema": { "name": "_xdm.context.profile" }, "profileInstanceId": "ups", "imsOrgId": "{ORG_ID}", "sandbox": { "sandboxId": "6ed34f6f-fe21-4a30-934f-6ffe21fa3075", "sandboxName": "prod", "type": "production", "default": true }, "isSystem":false, "name": "People who ordered in the last 30 days", "description": "Last 30 days", "expression": { "type": "PQL", "format": "pql/text", "value": "workAddress.country = \"US\"" }, "mergePolicyId": "ef006bbe-750e-4e81-85f0-0c6902192dcc", "evaluationInfo": { "batch": { "enabled": false }, "continuous": { "enabled": true }, "synchronous": { "enabled": false } }, "dataGovernancePolicy": { "excludeOptOut": true }, "creationTime": 1650374572000, "updateEpoch": 1650374573, "updateTime": 1650374573000, "createEpoch": 1650374572, "_etag": "\"33120d7c-0000-0200-0000-625eb7ad0000\"", "dependents": [], "definedOn": [ { "meta:resourceType": "unions", "meta:containerId": "tenant", "$ref": "https://ns.adobe.com/xdm/context/profile__union" } ], "dependencies": [], "type": "SegmentDefinition", "originName": "REAL_TIME_CUSTOMER_PROFILE", "overridePerformanceWarnings": false, "createdBy": "{CREATED_BY_ID}", "lifecycleState": "active", "labels": [ "core/C1" ], "namespace": "AEPSegments" } |
+
+## Look up a specified audience get
+
+You can look up detailed information about a specific audience by making a GET request to the /audiences endpoint and providing the ID of the audience you wish to retrieve in the request path.
+
+**API format**
+
+```
+GET /audiences/{AUDIENCE_ID}
+```
+
+Parameter
+Description
+{AUDIENCE_ID}
+The ID of the audience you are trying to retrieve. Please note that this is the
+id
+field, and is
+not
+the
+audienceId
+field.
+**Request**
+
+A sample request for retrieving an audience
+| code language-shell |
+| --- |
+| curl -X GET https://platform.adobe.io/data/core/ups/audiences/60ccea95-1435-4180-97a5-58af4aa285ab \ -H 'Authorization: Bearer {ACCESS_TOKEN}' \ -H 'x-gw-ims-org-id: {IMS_ORG}' \ -H 'x-api-key: {API_KEY}' \ -H 'x-sandbox-name: {SANDBOX_NAME}' |
+
+**Response**
+
+A successful response returns HTTP status 200 with information about the specified audience.
+
+A sample response when retrieving a Platform-generated audience.
+| code language-json |
+| --- |
+| { "id": "60ccea95-1435-4180-97a5-58af4aa285ab", "audienceId": "60ccea95-1435-4180-97a5-58af4aa285ab", "schema": { "name": "_xdm.context.profile" }, "profileInstanceId": "ups", "imsOrgId": "{ORG_ID}", "sandbox": { "sandboxId": "6ed34f6f-fe21-4a30-934f-6ffe21fa3075", "sandboxName": "prod", "type": "production", "default": true }, "isSystem": false, "name": "People who ordered in the last 30 days", "description": "Last 30 days", "expression": { "type": "PQL", "format": "pql/text", "value": "workAddress.country = \"US\"" }, "mergePolicyId": "ef006bbe-750e-4e81-85f0-0c6902192dcc", "evaluationInfo": { "batch": { "enabled": false }, "continuous": { "enabled": true }, "synchronous": { "enabled": false } }, "dataGovernancePolicy": { "excludeOptOut": true }, "creationTime": 1650374572000, "updateEpoch": 1650374573, "updateTime": 1650374573000, "createEpoch": 1650374572, "_etag": "\"33120d7c-0000-0200-0000-625eb7ad0000\"", "dependents": [], "definedOn": [ { "meta:resourceType": "unions", "meta:containerId": "tenant", "$ref": "https://ns.adobe.com/xdm/context/profile__union" } ], "dependencies": [], "type": "SegmentDefinition", "overridePerformanceWarnings": false, "createdBy": "{CREATED_BY_ID}", "lifecycleState": "active", "labels": [ "core/C1" ], "namespace": "AEPSegments" } |
+
+## Overwrite an audience put
+
+You can update (overwrite) a specific audience by making a PUT request to the /audiences endpoint and providing the ID of the audience you wish to update in the request path.
+
+**API format**
+
+```
+PUT /audiences/{AUDIENCE_ID}
+```
+
+Parameter
+Description
+{AUDIENCE_ID}
+The ID of the audience that you want to update. Please note that this is the
+id
+field, and is
+not
+the
+audienceId
+field.
+**Request**
+
+A sample request for updating an entire audience.
+| code language-shell |
+| --- |
+| curl -X PUT https://platform.adobe.io/data/core/ups/audiences/4afe34ae-8c98-4513-8a1d-67ccaa54bc05 \ -H 'Authorization: Bearer {ACCESS_TOKEN}' \ -H 'Content-Type: application/json' \ -H 'x-gw-ims-org-id: {IMS_ORG}' \ -H 'x-api-key: {API_KEY}' \ -H 'x-sandbox-name: {SANDBOX_NAME}' \ -d '{ "audienceId": "test-platform-audience-id", "name": "New Platform audience", "namespace": "AEPSegments", "description": "Last 30 days", "type": "SegmentDefinition", "expression": { "type": "PQL", "format": "pql/text", "value": "workAddress.country=\"US\"" } "lifecycleState": "published", "datasetId": "6254cf3c97f8e31b639fb14d", "labels": [ "core/C1" ] }' |
+
+| table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 8-row-2 9-row-2 |  |
+| --- | --- |
+| Property | Description |
+| audienceId | The ID of the audience. For externally generated audiences, this value may be supplied by the user. |
+| name | The name of the audience. |
+| namespace | The namespace for the audience. |
+| description | A description of the audience. |
+| type | A system-generated field that displays whether the audience is Platform-generated or is an externally generated audience. Possible values include SegmentDefinition and ExternalSegment. A SegmentDefinition refers to an audience that was generated in Experience Platform, while an ExternalSegment refers to an audience that was not generated in Experience Platform. |
+| expression | An object that contains the PQL expression of the audience. |
+| lifecycleState | The status of the audience. Possible values include draft, published, and inactive. draft represents when the audience is created, published when the audience is published, and inactive when the audience is no longer active. |
+| datasetId | The ID of the dataset that the audience data can be found. |
+| labels | Object-level data usage and attribute-based access control labels that are relevant to the audience. |
+
+**Response**
+
+A successful response returns HTTP status 200 with details of your newly updated audience. Please note that the details of your audience will differ depending if it is an Experience-Platform-generated audience or an externally generated audience.
+
+A sample response when updating an entire audience.
+| code language-json |
+| --- |
+| { "id": "4afe34ae-8c98-4513-8a1d-67ccaa54bc05", "audienceId": "test-platform-audience-id", "name": "New Experience Platform audience", "namespace": "AEPSegments", "imsOrgId": "{ORG_ID}", "sandbox": { "sandboxId": "6ed34f6f-fe21-4a30-934f-6ffe21fa3075", "sandboxName": "prod", "type": "production", "default": true }, "description": "Last 30 days", "type": "SegmentDefinition", "lifecycleState": "published", "createdBy": "{CREATED_BY_ID}", "datasetId": "6254cf3c97f8e31b639fb14d", "_etag": "\"f4102699-0000-0200-0000-625cd61a0000\"", "creationTime": 1650251290000, "updateEpoch": 1650251290, "updateTime": 1650251290000, "createEpoch": 1650251290 } |
+
+## Update an audience patch
+
+You can update a specific audience by making a PATCH request to the /audiences endpoint and providing the ID of the audience you wish to update in the request path.
+
+**API format**
+
+```
+PATCH /audiences/{AUDIENCE_ID}
+```
+
+Parameter
+Description
+{AUDIENCE_ID}
+The ID of the audience that you want to update. Please note that this is the
+id
+field, and is
+not
+the
+audienceId
+field.
+**Request**
+
+A sample request for updating an audience.
+| code language-shell |
+| --- |
+| curl -X PATCH https://platform.adobe.io/data/core/ups/audiences/60ccea95-1435-4180-97a5-58af4aa285ab5 -H 'Authorization: Bearer {ACCESS_TOKEN}' \ -H 'x-gw-ims-org-id: {ORG_ID}' \ -H 'x-api-key: {API_KEY}' \ -H 'x-sandbox-name: {SANDBOX_NAME}' \ -d '[ { "op": "add", "path": "/lifecycleState", "value": "inactive" } ]' |
+
+| table 0-row-2 1-row-2 2-row-2 3-row-2 |  |
+| --- | --- |
+| Property | Description |
+| op | The type of PATCH operation performed. For this endpoint, this value is **always** /add. |
+| path | The path of the field to be updated. System-generated fields, such as id, audienceId, and namespace **cannot** be edited. |
+| value | The new value assigned to the property specified in path. |
+
+**Response**
+
+A successful response returns HTTP status 200 with the updated audience.
+
+A sample response when patching a field in an audience.
+| code language-json |
+| --- |
+| { "id": "60ccea95-1435-4180-97a5-58af4aa285ab5", "audienceId": "test-platform-audience-id", "name": "New Experience Platform audience", "namespace": "AEPSegments", "imsOrgId": "{ORG_ID}", "sandbox": { "sandboxId": "6ed34f6f-fe21-4a30-934f-6ffe21fa3075", "sandboxName": "prod", "type": "production", "default": true }, "description": "Last 30 days", "type": "SegmentDefinition", "lifecycleState": "inactive", "createdBy": "{CREATED_BY_ID}", "datasetId": "6254cf3c97f8e31b639fb14d", "_etag": "\"f4102699-0000-0200-0000-625cd61a0000\"", "creationTime": 1650251290000, "updateEpoch": 1650251290, "updateTime": 1650251290000, "createEpoch": 1650251290 } |
+
+## Delete an audience delete
+
+You can delete a specific audience by making a DELETE request to the /audiences endpoint and providing the ID of the audience you wish to delete in the request path.
+
+**API format**
+
+```
+DELETE /audiences/{AUDIENCE_ID}
+```
+
+Parameter
+Description
+{AUDIENCE_ID}
+The ID of the audience that you want to delete. Please note that this is the
+id
+field, and is
+not
+the
+audienceId
+field.
+**Request**
+
+A sample request for deleting an audience.
+| code language-shell |
+| --- |
+| curl -X DELETE https://platform.adobe.io/data/core/ups/audiences/60ccea95-1435-4180-97a5-58af4aa285ab5 \ -H 'Authorization: Bearer {ACCESS_TOKEN}' \ -H 'x-gw-ims-org-id: {ORG_ID}' \ -H 'x-api-key: {API_KEY}' \ -H 'x-sandbox-name: {SANDBOX_NAME}' |
+
+**Response**
+
+A successful response returns HTTP status 204 with no message.
+
+## Retrieve multiple audiences bulk-get
+
+You can retrieve multiple audiences by making a POST request to the /audiences/bulk-get endpoint and providing the IDs of the audiences you wish to retrieve.
+
+**API format**
+
+```
+POST /audiences/bulk-get
+```
+
+**Request**
+
+A sample request for retrieving multiple audiences.
+| code language-shell |
+| --- |
+| curl -X POST https://platform.adobe.io/data/core/ups/audiences/bulk-get -H 'Authorization: Bearer {ACCESS_TOKEN}' \ -H 'Content-Type: application/json' \ -H 'x-gw-ims-org-id: {IMS_ORG}' \ -H 'x-api-key: {API_KEY}' \ -H 'x-sandbox-name: {SANDBOX_NAME}' \ -d ' { "ids": [ { "id": "72c393ea-caed-441a-9eb6-5f66bb1bd6cd" }, { "id": "QU9fLTEzOTgzNTE0MzY0NzY0NDg5NzkyOTkx_6ed34f6f-fe21-4a30-934f-6ffe21fa3075" } ] } |
+
+**Response**
+
+A successful response returns HTTP status 207 with information with your requested audiences.
+
+A sample response when retrieving multiple audiences.
+| code language-json |
+| --- |
+| { "results":{ "72c393ea-caed-441a-9eb6-5f66bb1bd6cd":{ "id": "72c393ea-caed-441a-9eb6-5f66bb1bd6cd", "audienceId": "72c393ea-caed-441a-9eb6-5f66bb1bd6cd", "schema": { "name": "_xdm.context.profile" }, "imsOrgId": "{ORG_ID}", "sandbox": { "sandboxId": "6ed34f6f-fe21-4a30-934f-6ffe21fa3075", "sandboxName": "prod", "type": "production", "default": true }, "name": "Sample audience", "expression": { "type": "pql", "format": "pql/text", "value": "_id = \"abc\"" }, "mergePolicyId": "87c94d51-239c-4391-932c-29c2412100e5", "evaluationInfo": { "batch": { "enabled": false }, "continuous": { "enabled": true }, "synchronous": { "enabled": false } }, "ansibleUiEnabled": false, "dataGovernancePolicy": { "excludeOptOut": true }, "creationTime": 1623889553000000, "updateEpoch": 1674646369, "updateTime": 1674646369000, "createEpoch": 1623889552, "_etag": "\"61030ec7-0000-0200-0000-63d113610000\"", "dependents": [], "definedOn": [ { "meta:resourceType": "unions", "meta:containerId": "tenant", "$ref": "https://ns.adobe.com/xdm/context/profile__union" } ], "dependencies": [], "type": "SegmentDefinition", "state": "enabled", "overridePerformanceWarnings": false, "lastModifiedBy": "{CREATED_ID}", "lifecycleState": "published", "namespace": "AEPSegments", "isSystem": false, "saveSegmentMembership": true, "originName": "REAL_TIME_CUSTOMER_PROFILE" }, "QU9fLTEzOTgzNTE0MzY0NzY0NDg5NzkyOTkx_6ed34f6f-fe21-4a30-934f-6ffe21fa3075":{ "id": "QU9fLTEzOTgzNTE0MzY0NzY0NDg5NzkyOTkx_6ed34f6f-fe21-4a30-934f-6ffe21fa3075", "name": "label test24764489707692", "namespace": "AO", "imsOrgId": "{ORG_ID}", "sandbox":{ "sandboxId": "6ed34f6f-fe21-4a30-934f-6ffe21fa3075", "sandboxName": "prod", "type": "production", "default": true }, "type": "ExternalSegment", "lifecycleState": "published", "sourceId": "source-id", "createdBy": "{USER_ID}", "datasetId": "62bf31a105e9891b63525c92", "_etag": "\"3100da6d-0000-0200-0000-62bf31a10000\"", "creationTime": 1656697249000, "updateEpoch": 1656697249, "updateTime": 1656697249000, "createEpoch": 1656697249, "audienceId": "test-audience-id", "isSystem": false, "saveSegmentMembership": true, "linkedAudienceRef": { "aoWorkflowId": "62bf31858e87e34c8364befa" }, "originName": "AUDIENCE_ORCHESTRATION" } } } |
+
+## Next steps
+
+After reading this guide, you now have a better understanding of how to create, manage, and delete audiences using the Adobe Experience Platform API. For more information about audience management using the UI, please read the [segmentation UI guide](/en/docs/experience-platform/segmentation/ui/overview).
+
+recommendation-more-help

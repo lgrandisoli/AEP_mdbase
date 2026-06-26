@@ -1,0 +1,530 @@
+# Experience Platform Knowledge Index
+
+Generated from Adobe Experience Platform documentation.
+
+## overview
+
+- experience-platform/access-control-guide
+  - access-control-overview.md
+- experience-platform/adobe-experience-platform-accessibility
+  - accessibility-in-adobe-experience-platform.md
+- experience-platform/adobe-experience-platform-debugger-guide
+  - adobe-experience-platform-debugger-overview.md
+- experience-platform/advanced-data-lifecycle-management-guide
+  - advanced-data-lifecycle-management-in-adobe-experience-platform.md
+- experience-platform/ai-assistant-in-adobe-experience-platform-guide
+  - ai-assistant-legacy-in-adobe-experience-platform.md
+- experience-platform/assurance-guide
+  - adobe-experience-platform-assurance.md
+- experience-platform/catalog-and-datasets-guide
+  - catalog-service-overview.md
+- experience-platform/dashboards-guide
+  - dashboards-overview-dashboards.md
+- experience-platform/data-access-guide
+  - data-access-overview.md
+- experience-platform/data-collection
+  - data-collection-overview-2.md
+  - data-collection-overview.md
+- experience-platform/data-governance-guide
+  - data-governance-overview-data-governance-overview.md
+- experience-platform/data-ingestion-guide
+  - data-ingestion-overview.md
+- experience-platform/data-prep-guide
+  - data-prep-overview.md
+- experience-platform/data-science-workspace-guide
+  - data-science-workspace-overview.md
+- experience-platform/dataflows-guide
+  - dataflows-overview.md
+- experience-platform/destinations-guide
+  - destinations-overview-overview.md
+- experience-platform/etl-guide
+  - developing-etl-integrations-for-adobe-experience-platform.md
+- experience-platform/experience-data-model-xdm-guide
+  - xdm-system-overview.md
+- experience-platform/experience-platform-identity-service-guide
+  - adobe-experience-platform-identity-service.md
+- experience-platform/experience-platform-overview
+  - adobe-experience-platform-overview.md
+- experience-platform/intelligent-services-guide
+  - intelligent-services-overview-intelligent-services-overview.md
+- experience-platform/observability-insights-guide
+  - observability-insights-overview.md
+- experience-platform/privacy-service-guide
+  - privacy-service-overview.md
+- experience-platform/query-service-guide
+  - query-service-overview.md
+- experience-platform/real-time-customer-data-platform-guide
+  - adobe-real-time-cdp-documentation-rtcdp-documentation.md
+- experience-platform/real-time-customer-profile-guide
+  - real-time-customer-profile-overview.md
+- experience-platform/sandboxes-guide
+  - sandboxes-overview.md
+- experience-platform/segmentation-service-guide
+  - segmentation-service-overview.md
+- experience-platform/source-connectors-guide
+  - source-connectors-overview.md
+- experience-platform/tags
+  - tags-overview.md
+
+## guides
+
+- experience-platform/access-control-guide
+  - access-control-troubleshooting-guide.md
+  - attribute-based-access-control-end-to-end-guide.md
+- experience-platform/ai-assistant-in-adobe-experience-platform-guide
+  - ai-assistant-ui-guide-legacy.md
+- experience-platform/catalog-and-datasets-guide
+  - datasets-ui-guide.md
+  - manage-experience-event-dataset-retention-in-the-data-lake-using-ttl.md
+- experience-platform/dashboards-guide
+  - account-profiles-dashboard.md
+  - audiences-dashboard-audiences-dashboard.md
+  - destinations-dashboard.md
+  - license-usage-dashboard-license-usage-dashboard.md
+  - profiles-dashboard.md
+- experience-platform/data-governance-guide
+  - manage-data-usage-labels-in-the-ui-user-guide.md
+  - manage-data-usage-policies-in-the-ui-user-guide.md
+- experience-platform/data-science-workspace-guide
+  - data-science-workspace-troubleshooting-guide.md
+- experience-platform/destinations-guide
+  - configure-a-file-based-destination-to-export-prospect-audiences-to-a-storage-location.md
+  - configure-an-amazon-s3-destination-with-predefined-file-formatting-options-and-custom-file-name-configuration.md
+  - configure-file-formatting-options-for-file-based-destinations.md
+  - submit-a-productized-destination-for-review.md
+  - use-destination-sdk-to-configure-a-file-based-destination.md
+  - use-destination-sdk-to-configure-a-streaming-destination.md
+- experience-platform/experience-data-model-xdm-guide
+  - xdm-system-troubleshooting-guide.md
+- experience-platform/experience-platform-identity-service-guide
+  - identity-service-troubleshooting-guide.md
+  - implementation-guide-for-identity-graph-linking-rules.md
+- experience-platform/experience-platform-overview
+  - adobe-experience-platform-ui-guide.md
+  - getting-started-with-adobe-experience-platform-apis.md
+- experience-platform/intelligent-services-guide
+  - attribution-ai-ui-guide.md
+  - configure-a-customer-ai-instance.md
+  - create-customer-segments-with-predicted-scores.md
+  - discover-insights-with-customer-ai.md
+  - download-scores-in-customer-ai.md
+- experience-platform/privacy-service-guide
+  - manage-privacy-jobs-in-the-privacy-service-ui-user-guide.md
+  - privacy-service-troubleshooting-guide.md
+- experience-platform/query-service-guide
+  - query-editor-ui-guide.md
+  - query-service-and-data-distiller-frequently-asked-questions.md
+  - query-service-audit-log-integration.md
+- experience-platform/real-time-customer-data-platform-guide
+  - account-profile-ui-guide.md
+- experience-platform/real-time-customer-profile-guide
+  - merge-policies-ui-guide.md
+  - real-time-customer-profile-ui-guide.md
+- experience-platform/sandboxes-guide
+  - sandbox-ui-guide.md
+  - sandboxes-troubleshooting-guide.md
+- experience-platform/tags
+  - encrypting-values.md
+  - relationships-in-the-reactor-api.md
+  - secrets-in-the-reactor-api.md
+- tags/api/guides
+  - delegate-descriptor-ids.md
+  - filtering-responses-in-the-reactor-api.md
+  - searching-resources-in-the-reactor-api.md
+- tags/event-forwarding/guided-setup
+  - event-forwarding-guided-setup-overview.md
+
+## tutorials
+
+- experience-platform/assurance-guide
+  - implementing-the-adobe-experience-platform-assurance-extension.md
+  - using-adobe-experience-platform-assurance.md
+- experience-platform/data-access-guide
+  - view-dataset-data-using-data-access-api.md
+- experience-platform/data-ingestion-guide
+  - create-a-streaming-connection-using-the-ui.md
+  - create-an-authenticated-streaming-connection.md
+  - creating-a-streaming-connection-using-the-api.md
+  - ingest-data-into-adobe-experience-platform.md
+  - map-a-csv-file-to-an-existing-xdm-schema.md
+  - map-a-csv-file-to-an-xdm-schema-using-ai-generated-recommendations.md
+  - map-a-csv-file-to-an-xdm-schema.md
+  - send-multiple-messages-in-a-single-http-request.md
+  - stream-record-data-using-streaming-ingestion-apis.md
+  - stream-time-series-data-using-streaming-ingestion-apis.md
+- experience-platform/experience-data-model-xdm-guide
+  - create-a-schema-using-the-schema-editor.md
+  - create-a-schema-using-the-schema-registry-api.md
+  - create-an-ad-hoc-schema.md
+  - define-a-many-to-one-relationship-between-two-schemas-in-real-time-customer-data-platform-b2b-edition-relationship-b2b.md
+  - define-a-one-to-one-relationship-between-two-schemas-using-the-schema-editor-relationship-ui.md
+  - define-a-relationship-between-two-schemas-using-the-schema-registry-api.md
+  - define-xdm-fields-in-the-schema-registry-api.md
+  - deprecate-an-xdm-field-in-the-api.md
+  - deprecate-an-xdm-field-in-the-ui.md
+  - manage-data-usage-labels-for-a-schema.md
+  - manage-suggested-values-in-the-api.md
+- experience-platform/experience-platform-overview
+  - adobe-experience-platform-end-to-end-example-workflow.md
+- experience-platform/real-time-customer-data-platform-guide
+  - getting-started-with-real-time-customer-data-platform-b2b-edition.md
+- experience-platform/real-time-customer-profile-guide
+  - add-data-to-real-time-customer-profile.md
+  - configure-a-dataset-for-profile-using-apis.md
+  - generate-the-dataset-overlap-report.md
+- experience-platform/segmentation-service-guide
+  - create-a-dataset-for-exporting-an-audience.md
+  - create-a-segment-definition-using-the-segmentation-service-api.md
+  - enforce-data-usage-compliance-for-a-segment-definition-using-apis.md
+  - evaluate-and-access-segment-definition-results.md
+  - honoring-consent-in-segment-definitions.md
+  - multi-entity-segmentation-overview.md
+- experience-platform/source-connectors-guide
+  - configure-a-dataflow-to-ingest-batch-data-from-a-cloud-storage-source-in-the-ui.md
+  - connect-adobe-analytics-to-experience-platform.md
+  - connect-amazon-s3-to-experience-platform-using-the-flow-service-api.md
+  - connect-aws-redshift-to-experience-platform-using-the-flow-service-api.md
+  - connect-aws-redshift-to-experience-platform-using-the-ui.md
+  - connect-azure-blob-storage-to-experience-platform-using-the-api.md
+  - connect-azure-blob-storage-to-experience-platform-using-the-ui.md
+  - connect-azure-synapse-analytics-to-experience-platform-using-the-flow-service-api.md
+  - connect-bombora-intent-to-experience-platform-using-the-ui.md
+  - connect-capillary-streaming-events-to-experience-platform-using-the-ui.md
+  - connect-data-landing-zone-to-adobe-experience-platform-using-the-flow-service-api.md
+  - connect-data-landing-zone-to-experience-platform-using-the-ui.md
+  - connect-databricks-to-experience-platform-in-the-ui.md
+  - connect-databricks-to-experience-platform-using-the-flow-service-api.md
+  - connect-demandbase-intent-to-experience-platform-using-the-ui.md
+  - connect-didomi-to-experience-platform.md
+  - connect-google-ads-to-experience-platform-using-the-flow-service-api.md
+  - connect-google-ads-to-experience-platform-using-the-ui.md
+  - connect-google-bigquery-to-experience-platform-using-the-flow-service-api.md
+  - connect-google-bigquery-to-experience-platform-using-the-ui.md
+  - connect-mariadb-to-experience-platform-using-the-flow-service-api.md
+  - connect-mariadb-to-experience-platform-using-the-ui.md
+  - connect-microsoft-dynamics-to-experience-platform-using-the-flow-service-api.md
+  - connect-mysql-to-experience-platform-using-the-flow-service-api.md
+  - connect-mysql-to-experience-platform-using-the-ui.md
+  - connect-oracle-db-to-experience-platform-using-the-flow-service-api.md
+  - connect-oracle-db-to-experience-platform-using-the-ui.md
+  - connect-oracle-eloqua-v2-to-experience-platform-in-the-ui.md
+  - connect-postgresql-to-experience-platform-using-the-flow-service-api.md
+  - connect-postgresql-to-experience-platform-using-the-ui.md
+  - connect-relay-to-experience-platform-in-the-ui.md
+  - connect-salesforce-marketing-cloud-to-experience-platform-using-the-flow-service-api.md
+  - connect-salesforce-marketing-cloud-to-experience-platform.md
+  - connect-salesforce-to-experience-platform-using-the-flow-service-api.md
+  - connect-snowflake-to-experience-platform-using-the-flow-service-api.md
+  - connect-snowflake-to-experience-platform-using-the-ui.md
+  - connect-your-pathfactory-account-to-experience-platform-through-the-ui.md
+  - connect-your-rainfocus-account-to-experience-platform-using-the-ui.md
+  - connect-your-salesforce-account-to-experience-platform-using-the-ui.md
+  - connect-your-salesforce-marketing-cloud-account-to-experience-platform-through-the-ui.md
+  - connect-your-salesforce-service-cloud-account-to-experience-platform-using-the-ui.md
+  - create-a-amazon-s3-source-connection-in-the-ui.md
+  - create-a-braze-currents-source-connection-in-the-ui.md
+  - create-a-chatlio-source-connection-in-the-ui.md
+  - create-a-customer-attributes-source-connection-in-the-ui.md
+  - create-a-customerio-source-connection-and-dataflow-in-the-ui.md
+  - create-a-dataflow-for-a-onetrust-integration-source-using-the-flow-service-api.md
+  - create-a-dataflow-for-a-payments-source-in-the-ui.md
+  - create-a-dataflow-for-advertising-sources-using-the-flow-service-api.md
+  - create-a-dataflow-for-cloud-storage-sources-using-the-flow-service-api.md
+  - create-a-dataflow-for-customer-success-sources-using-the-flow-service-api.md
+  - create-a-dataflow-for-database-sources-using-the-flow-service-api.md
+  - create-a-dataflow-for-e-commerce-sources-using-the-flow-service-api.md
+  - create-a-dataflow-for-mailchimp-campaign-using-the-flow-service-api.md
+  - create-a-dataflow-for-mailchimp-members-using-the-flow-service-api.md
+  - create-a-dataflow-for-marketing-automation-sources-using-the-flow-service-api.md
+  - create-a-dataflow-for-payments-sources-using-the-flow-service-api.md
+  - create-a-dataflow-for-protocols-sources-using-the-flow-service-api.md
+  - create-a-dataflow-for-zendesk-using-the-flow-service-api.md
+  - create-a-dataflow-to-ingest-data-from-a-crm-into-experience-platform.md
+  - create-a-dataflow-using-a-consent-and-preferences-source-in-the-ui.md
+  - create-a-dataflow-using-a-crm-source-in-the-ui.md
+  - create-a-dataflow-using-a-customer-success-source-in-the-ui.md
+  - create-a-dataflow-using-a-database-source-in-the-ui.md
+  - create-a-dataflow-using-a-marketing-automation-source-in-the-ui.md
+  - create-a-dataflow-using-a-protocols-source-in-the-ui.md
+  - create-a-dataflow-using-an-advertising-source-in-the-ui.md
+  - create-a-dataflow-using-an-analytics-source-in-the-ui.md
+  - create-a-dataflow-using-an-e-commerce-source-in-the-ui.md
+  - create-a-generic-odata-base-connection-using-the-flow-service-api.md
+  - create-a-generic-odata-source-connection-in-the-ui.md
+  - create-a-generic-rest-api-base-connection-using-the-flow-service-api.md
+  - create-a-google-cloud-storage-base-connection-using-the-flow-service-api.md
+  - create-a-google-cloud-storage-source-connection-in-the-ui.md
+  - create-a-google-pubsub-source-connection-in-the-ui.md
+  - create-a-google-pubsub-source-connection-using-the-flow-service-api.md
+  - create-a-greenplum-base-connection-using-the-flow-service-api.md
+  - create-a-greenplum-source-connection-in-the-ui.md
+  - create-a-hubspot-base-connection-using-the-flow-service-api.md
+  - create-a-hubspot-source-connection-in-the-ui.md
+  - create-a-local-file-upload-source-connector-in-the-ui.md
+  - create-a-mailchimp-campaigns-source-connection-using-experience-platform-ui.md
+  - create-a-mailchimp-members-source-connection-using-experience-platform-ui.md
+  - create-a-marketo-engage-source-connection-and-dataflow-for-custom-activity-data-in-the-ui.md
+  - create-a-marketo-engage-source-connection-and-dataflow-in-the-ui.md
+  - create-a-merkury-enterprise-identity-resolution-source-connection-and-dataflow-in-the-ui.md
+  - create-a-microsoft-dynamics-source-connection-in-the-ui.md
+  - create-a-microsoft-sql-server-base-connection-using-the-flow-service-api.md
+  - create-a-microsoft-sql-server-source-connection-in-the-ui.md
+  - create-a-mixpanel-source-connection-in-the-ui.md
+  - create-a-onetrust-integration-source-connection-in-the-ui.md
+  - create-a-oracle-netsuite-activities-source-connection-in-the-ui.md
+  - create-a-oracle-netsuite-entities-source-connection-in-the-ui.md
+  - create-a-pathfactory-base-connection-using-the-flow-service-api.md
+  - create-a-pendo-source-connection-dataflow-and-in-the-ui.md
+  - create-a-salesforce-service-cloud-source-connection-using-the-flow-service-api.md
+  - create-a-sap-commerce-source-connection-in-the-ui.md
+  - create-a-servicenow-base-connection-using-the-flow-service-api.md
+  - create-a-servicenow-source-connection-in-the-ui.md
+  - create-a-shopify-base-connection-using-the-flow-service-api.md
+  - create-a-shopify-source-connection-in-the-ui.md
+  - create-a-source-connection-and-dataflow-for-chatlio-using-the-flow-service-api.md
+  - create-a-source-connection-and-dataflow-for-customerio-using-the-flow-service-api.md
+  - create-a-source-connection-and-dataflow-for-mixpanel-using-the-flow-service-api.md
+  - create-a-source-connection-and-dataflow-for-oracle-netsuite-activities-using-the-flow-service-api.md
+  - create-a-source-connection-and-dataflow-for-oracle-netsuite-entities-using-the-flow-service-api.md
+  - create-a-source-connection-and-dataflow-for-pendo-using-the-flow-service-api.md
+  - create-a-source-connection-and-dataflow-for-sap-commerce-using-the-flow-service-api.md
+  - create-a-source-connection-and-dataflow-for-shopify-streaming-data-using-the-ui.md
+  - create-a-source-connection-and-dataflow-for-sugarcrm-accounts-contacts-using-the-flow-service-api.md
+  - create-a-source-connection-and-dataflow-to-stream-lava-data-using-the-flow-service-api.md
+  - create-a-source-connection-and-dataflow-to-stream-lava-data-using-the-ui.md
+  - create-a-sources-dataflow-using-templates-in-the-ui-create-a-sources-dataflow-using-templates-in-the-ui.md
+  - create-a-square-base-connection-using-the-flow-service-api.md
+  - create-a-square-source-connection-in-the-ui.md
+  - create-a-streaming-dataflow-for-a-cloud-storage-source-in-the-ui.md
+  - create-a-streaming-dataflow-for-raw-data-using-the-flow-service-api.md
+  - create-a-streaming-source-connection-and-dataflow-for-shopify-data-using-the-flow-service-api.md
+  - create-a-sugarcrm-accounts-contacts-source-connection-in-the-ui.md
+  - create-a-sugarcrm-events-source-connection-in-the-ui.md
+  - create-a-teradata-vantage-base-connection-using-the-flow-service-api.md
+  - create-a-teradata-vantage-source-connection-in-the-ui.md
+  - create-a-veeva-crm-base-connection-using-the-flow-service-api.md
+  - create-a-veeva-crm-source-connection-in-the-ui.md
+  - create-a-zendesk-source-connection-in-the-ui.md
+  - create-an-acxiom-data-ingestion-source-connection-and-dataflow-in-the-ui.md
+  - create-an-acxiom-prospecting-data-import-source-connection-and-dataflow-in-the-ui.md
+  - create-an-adobe-analytics-source-connection-for-classifications-data-in-the-ui.md
+  - create-an-adobe-audience-manager-source-connection-in-the-ui.md
+  - create-an-adobe-campaign-managed-cloud-services-source-connection-using-experience-platform-ui.md
+  - create-an-amazon-kinesis-source-connection-in-the-ui.md
+  - create-an-amazon-kinesis-source-connection-using-the-flow-service-api.md
+  - create-an-apache-hdfs-base-connection-using-the-flow-service-api.md
+  - create-an-apache-hdfs-source-connection-in-the-ui.md
+  - create-an-apache-hive-on-azure-hdinsights-base-connection-using-the-flow-service-api.md
+  - create-an-apache-hive-on-azure-hdinsights-source-connection-in-the-ui.md
+  - create-an-apache-spark-on-azure-hdinsights-base-connection-using-the-flow-service-api.md
+  - create-an-apache-spark-on-azure-hdinsights-source-connection-in-the-ui.md
+  - create-an-azure-azure-data-explorer-base-connection-using-the-flow-service-api.md
+  - create-an-azure-data-explorer-source-connection-in-the-ui.md
+  - create-an-azure-data-lake-storage-gen2-base-connection-using-the-flow-service-api.md
+  - create-an-azure-data-lake-storage-gen2-source-connection-in-the-ui.md
+  - create-an-azure-event-hubs-source-connection-in-the-ui.md
+  - create-an-azure-event-hubs-source-connection-using-the-flow-service-api.md
+  - create-an-azure-file-storage-base-connection-using-the-flow-service-api.md
+  - create-an-azure-file-storage-source-connection-in-the-ui.md
+  - create-an-azure-synapse-analytics-source-connection-in-the-ui.md
+  - create-an-azure-table-storage-base-connection-using-the-flow-service-api.md
+  - create-an-azure-table-storage-source-connection-in-the-ui.md
+  - create-an-ftp-base-connection-using-the-flow-service-api.md
+  - create-an-ftp-source-connection-in-the-ui.md
+  - create-an-hp-vertica-base-connection-using-the-flow-service-api.md
+  - create-an-hp-vertica-source-connection-in-the-ui.md
+  - create-an-http-api-streaming-connection-using-the-flow-service-api.md
+  - create-an-http-api-streaming-connection-using-the-ui.md
+  - create-an-ibm-db2-source-connection-in-the-ui.md
+  - create-an-ibm-ibm-db2-base-connection-using-the-flow-service-api.md
+  - create-an-oracle-eloqua-base-connection-using-the-flow-service-api.md
+  - create-an-oracle-eloqua-source-connection-using-experience-platform-ui.md
+  - create-an-oracle-object-storage-base-connection-using-the-flow-service-api.md
+  - create-an-oracle-object-storage-source-connection-in-the-ui.md
+  - create-an-sftp-base-connection-using-the-flow-service-api.md
+  - create-an-sftp-source-connection-in-the-ui.md
+  - create-drafts-of-your-flow-service-entities-using-the-api.md
+  - delete-a-dataflow-using-the-flow-service-api.md
+  - delete-an-account-using-the-flow-service-api.md
+  - delete-dataflows-in-the-ui.md
+  - delete-source-connection-accounts.md
+  - enable-change-data-capture-for-source-connections-in-the-api.md
+  - encrypted-data-ingestion.md
+  - explore-a-payment-system-using-the-flow-service-api.md
+  - explore-data-tables-using-the-flow-service-api.md
+  - explore-your-cloud-storage-folders-using-the-flow-service-api.md
+  - filter-row-level-data-for-a-source-using-the-flow-service-api.md
+  - filter-sources-objects-in-the-ui.md
+  - ingest-algolia-user-profiles-data-into-experience-platform-using-the-ui.md
+  - ingest-batch-data-from-talonone-into-experience-platform-using-the-ui.md
+  - ingest-payments-data-from-your-stripe-account-to-experience-platform-using-apis.md
+  - ingest-payments-data-from-your-stripe-account-to-experience-platform-using-the-user-interface.md
+  - monitor-dataflows-for-streaming-sources-in-the-ui.md
+  - monitor-dataflows-in-the-ui.md
+  - monitor-sources-dataflows-using-the-flow-service-api.md
+  - on-demand-ingestion-for-sources-dataflows-in-the-ui.md
+  - stream-data-from-your-snowflake-database-to-experience-platform-using-the-ui.md
+  - stream-snowflake-data-to-experience-platform-using-the-flow-service-api.md
+  - stream-talonone-data-to-experience-platform-using-the-ui.md
+  - subscribe-to-alerts-for-sources-dataflows-in-the-ui.md
+  - update-account-details-in-the-ui.md
+  - update-accounts-using-the-flow-service-api.md
+  - update-dataflows-in-the-ui.md
+  - update-dataflows-using-the-flow-service-api.md
+- sources/ui-tutorials/draft
+  - draft-dataflows-in-the-ui.md
+
+## reference
+
+- experience-platform/access-control-guide
+  - access-control-api-guide.md
+  - effective-policies-endpoint.md
+  - reference-endpoint.md
+- experience-platform/advanced-data-lifecycle-management-guide
+  - data-hygiene-api-guide.md
+  - dataset-expiration-endpoint.md
+  - quota-endpoint.md
+  - record-delete-work-orders-work-order-endpoint.md
+- experience-platform/catalog-and-datasets-guide
+  - catalog-service-api-guide-appendix.md
+  - catalog-service-api-guide.md
+  - create-a-dataset-in-the-api.md
+  - filter-catalog-data-using-query-parameters.md
+  - list-catalog-objects.md
+  - look-up-a-catalog-object.md
+- experience-platform/data-access-guide
+  - data-access-api-guide.md
+- experience-platform/data-governance-guide
+  - consent-policy-rule-building-reference.md
+  - data-governance-policies-endpoint.md
+  - data-usage-labels-glossary-data-usage-labels-glossary.md
+  - enforce-data-usage-policies-using-the-policy-service-api.md
+  - getting-started-with-the-policy-service-api.md
+  - labels-endpoint.md
+  - marketing-actions-endpoint.md
+  - policy-evaluation-endpoints.md
+  - policy-service-api-guide.md
+- experience-platform/data-ingestion-guide
+  - batch-ingestion-developer-guide.md
+- experience-platform/data-prep-guide
+  - functions-endpoints.md
+  - getting-started-with-the-data-prep-api-getting-started.md
+  - mapping-service-api-guide.md
+  - mapping-sets-endpoint.md
+- experience-platform/data-science-workspace-guide
+  - adobe-ai-machine-learning-api-guide-appendix.md
+  - adobe-ai-machine-learning-api-guide.md
+  - engines-endpoint.md
+  - experiments-endpoint.md
+  - insights-endpoint.md
+  - mlinstances-endpoint.md
+  - mlservices-endpoint.md
+  - models-endpoint.md
+- experience-platform/dataflows-guide
+  - monitor-dataflows-using-the-flow-service-api.md
+- experience-platform/destinations-guide
+  - activate-audiences-on-demand-to-batch-destinations-via-the-ad-hoc-activation-api.md
+  - activate-audiences-to-file-based-destinations-by-using-the-flow-service-api.md
+  - connect-to-file-based-email-marketing-destinations-and-activate-data-using-the-flow-service-api.md
+  - connect-to-streaming-destinations-and-activate-data-using-the-flow-service-api.md
+  - delete-a-destination-account-using-the-flow-service-api.md
+  - delete-a-destination-dataflow-using-the-flow-service-api.md
+  - edit-destination-connections-using-the-flow-service-api.md
+  - export-datasets-by-using-the-flow-service-api.md
+  - update-destination-dataflows-using-the-flow-service-api.md
+- experience-platform/experience-data-model-xdm-guide
+  - ad-hoc-schemas.md
+  - audit-log-endpoint.md
+  - behaviors-endpoint.md
+  - classes-endpoint.md
+  - csv-template-to-schema-conversion-api-endpoint.md
+  - data-types-endpoint.md
+  - descriptors-endpoint.md
+  - export-endpoint.md
+  - getting-started-with-the-schema-registry-api.md
+  - import-endpoint.md
+  - sample-data-endpoint.md
+  - schema-field-groups-endpoint.md
+  - schema-registry-api-guide-appendix.md
+  - schema-registry-api-guide.md
+  - schemas-endpoint.md
+  - unions-endpoint.md
+- experience-platform/experience-platform-identity-service-guide
+  - create-a-custom-namespace-in-the-identity-service-api.md
+  - get-the-cluster-history-of-an-identity.md
+  - get-the-native-id-for-an-identity.md
+  - identity-service-api-guide.md
+  - list-all-identities-in-a-cluster.md
+  - list-available-identity-namespaces.md
+  - list-identity-mappings.md
+- experience-platform/experience-platform-overview
+  - authenticate-and-access-experience-platform-apis.md
+  - experience-platform-api-fundamentals.md
+- experience-platform/observability-insights-guide
+  - getting-started-with-the-observability-insights-api.md
+  - metrics-endpoint.md
+  - observability-insights-api-guide.md
+- experience-platform/privacy-service-guide
+  - authenticate-and-access-the-privacy-service-api.md
+  - consent-endpoint.md
+  - privacy-jobs-endpoint.md
+  - privacy-service-api-guide-appendix.md
+  - privacy-service-api-guide.md
+- experience-platform/query-service-guide
+  - accelerated-queries-endpoint.md
+  - alert-subscriptions-endpoint.md
+  - connection-parameters-endpoint.md
+  - queries-endpoint.md
+  - query-service-api-guide.md
+  - query-templates-endpoint.md
+  - scheduled-query-runs-endpoint.md
+  - schedules-endpoint-2.md
+- experience-platform/real-time-customer-profile-guide
+  - computed-attributes-api-endpoint.md
+  - entities-endpoint-profile-access.md
+  - getting-started-with-the-real-time-customer-profile-api-getting-started.md
+  - preview-sample-status-endpoint-profile-preview.md
+  - profile-export-jobs-endpoint.md
+  - profile-system-jobs-endpoint-delete-requests.md
+  - real-time-customer-profile-api-guide.md
+- experience-platform/sandboxes-guide
+  - available-sandboxes-endpoint.md
+  - getting-started-with-the-sandbox-api.md
+  - sandbox-api-guide-appendix.md
+  - sandbox-api-guide.md
+  - sandbox-management-endpoint.md
+  - sandbox-types-endpoint.md
+- experience-platform/segmentation-service-guide
+  - audiences-endpoint.md
+  - external-audiences-endpoint.md
+  - getting-started-with-the-segmentation-service-api-getting-started.md
+  - previews-and-estimates-endpoints.md
+  - schedules-endpoint.md
+  - segment-definitions-endpoint.md
+  - segment-export-jobs-endpoint.md
+  - segment-jobs-endpoint.md
+  - segment-search-endpoint.md
+  - segmentation-service-api-guide.md
+- experience-platform/source-connectors-guide
+  - self-serve-sources-batch-sdk-api-guide.md
+- experience-platform/tags
+  - authenticate-and-access-the-reactor-api.md
+  - builds-endpoint.md
+  - data-elements-endpoint.md
+  - extension-packages-endpoint.md
+  - hosts-endpoint.md
+  - libraries-endpoint.md
+  - profile-endpoint.md
+  - properties-endpoint.md
+  - reactor-api-guide.md
+  - search-endpoint.md
+  - secrets-endpoint.md
+- tags/api/endpoints
+  - app-configurations-endpoint.md
+  - audit-events-endpoint.md
+  - callbacks-endpoint.md
+  - companies-endpoint.md
+  - environments-endpoint.md
+  - extensions-endpoint.md
+  - rule-components-endpoint.md
+  - rules-endpoint.md

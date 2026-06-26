@@ -1,0 +1,3993 @@
+[
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/home",
+    "title": "Adobe Real-Time CDP Documentation rtcdp-documentation",
+    "category": "overview",
+    "topic_path": "experience-platform/real-time-customer-data-platform-guide",
+    "section_slug": null,
+    "saved_path": "AEP/adobe-real-time-cdp-documentation-rtcdp-documentation.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/landing/home",
+    "title": "Adobe Experience Platform overview",
+    "category": "overview",
+    "topic_path": "experience-platform/experience-platform-overview",
+    "section_slug": null,
+    "saved_path": "AEP/adobe-experience-platform-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/landing/platform-ui/ui-guide",
+    "title": "Adobe Experience Platform UI guide",
+    "category": "guides",
+    "topic_path": "experience-platform/experience-platform-overview",
+    "section_slug": null,
+    "saved_path": "AEP/adobe-experience-platform-ui-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/landing/getting-started/end-to-end-tutorial",
+    "title": "Adobe Experience Platform end-to-end example workflow",
+    "category": "tutorials",
+    "topic_path": "experience-platform/experience-platform-overview",
+    "section_slug": null,
+    "saved_path": "AEP/adobe-experience-platform-end-to-end-example-workflow.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/home",
+    "title": "Source connectors overview",
+    "category": "overview",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/source-connectors-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/query/home",
+    "title": "Query Service overview",
+    "category": "overview",
+    "topic_path": "experience-platform/query-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/query-service-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/home",
+    "title": "Segmentation Service overview",
+    "category": "overview",
+    "topic_path": "experience-platform/segmentation-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/segmentation-service-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/profile/home",
+    "title": "Real-Time Customer Profile overview",
+    "category": "overview",
+    "topic_path": "experience-platform/real-time-customer-profile-guide",
+    "section_slug": null,
+    "saved_path": "AEP/real-time-customer-profile-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/identity/home",
+    "title": "Adobe Experience Platform Identity Service",
+    "category": "overview",
+    "topic_path": "experience-platform/experience-platform-identity-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/adobe-experience-platform-identity-service.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/license-usage",
+    "title": "License usage dashboard license-usage-dashboard",
+    "category": "guides",
+    "topic_path": "experience-platform/dashboards-guide",
+    "section_slug": null,
+    "saved_path": "AEP/license-usage-dashboard-license-usage-dashboard.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/home",
+    "title": "Privacy Service overview",
+    "category": "overview",
+    "topic_path": "experience-platform/privacy-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/privacy-service-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/home",
+    "title": "Data Governance overview data-governance-overview",
+    "category": "overview",
+    "topic_path": "experience-platform/data-governance-guide",
+    "section_slug": null,
+    "saved_path": "AEP/data-governance-overview-data-governance-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/home",
+    "title": "Access control overview",
+    "category": "overview",
+    "topic_path": "experience-platform/access-control-guide",
+    "section_slug": null,
+    "saved_path": "AEP/access-control-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/end-to-end-guide",
+    "title": "Attribute-based access control end-to-end guide",
+    "category": "guides",
+    "topic_path": "experience-platform/access-control-guide",
+    "section_slug": null,
+    "saved_path": "AEP/attribute-based-access-control-end-to-end-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/home",
+    "title": "Sandboxes overview",
+    "category": "overview",
+    "topic_path": "experience-platform/sandboxes-guide",
+    "section_slug": null,
+    "saved_path": "AEP/sandboxes-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/landing/platform-apis/api-authentication",
+    "title": "Authenticate and access Experience Platform APIs",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-platform-overview",
+    "section_slug": null,
+    "saved_path": "AEP/authenticate-and-access-experience-platform-apis.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/landing/platform-apis/api-fundamentals",
+    "title": "Experience Platform API fundamentals",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-platform-overview",
+    "section_slug": null,
+    "saved_path": "AEP/experience-platform-api-fundamentals.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home",
+    "title": "AI Assistant (Legacy) in Adobe Experience Platform",
+    "category": "overview",
+    "topic_path": "experience-platform/ai-assistant-in-adobe-experience-platform-guide",
+    "section_slug": null,
+    "saved_path": "AEP/ai-assistant-legacy-in-adobe-experience-platform.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/accessibility/home",
+    "title": "Accessibility in Adobe Experience Platform",
+    "category": "overview",
+    "topic_path": "experience-platform/adobe-experience-platform-accessibility",
+    "section_slug": null,
+    "saved_path": "AEP/accessibility-in-adobe-experience-platform.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/home",
+    "title": "XDM System overview",
+    "category": "overview",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/xdm-system-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/collection/home",
+    "title": "Data collection overview",
+    "category": "overview",
+    "topic_path": "experience-platform/data-collection",
+    "section_slug": null,
+    "saved_path": "AEP/data-collection-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/web-sdk/home",
+    "title": "Data collection overview",
+    "category": "overview",
+    "topic_path": "experience-platform/data-collection",
+    "section_slug": null,
+    "saved_path": "AEP/data-collection-overview-2.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/assurance/home",
+    "title": "Adobe Experience Platform Assurance",
+    "category": "overview",
+    "topic_path": "experience-platform/assurance-guide",
+    "section_slug": null,
+    "saved_path": "AEP/adobe-experience-platform-assurance.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/debugger/home",
+    "title": "Adobe Experience Platform Debugger overview",
+    "category": "overview",
+    "topic_path": "experience-platform/adobe-experience-platform-debugger-guide",
+    "section_slug": null,
+    "saved_path": "AEP/adobe-experience-platform-debugger-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/home",
+    "title": "Catalog Service overview",
+    "category": "overview",
+    "topic_path": "experience-platform/catalog-and-datasets-guide",
+    "section_slug": null,
+    "saved_path": "AEP/catalog-service-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/home",
+    "title": "Dashboards overview dashboards",
+    "category": "overview",
+    "topic_path": "experience-platform/dashboards-guide",
+    "section_slug": null,
+    "saved_path": "AEP/dashboards-overview-dashboards.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-access/home",
+    "title": "Data Access overview",
+    "category": "overview",
+    "topic_path": "experience-platform/data-access-guide",
+    "section_slug": null,
+    "saved_path": "AEP/data-access-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/home",
+    "title": "Data Ingestion overview",
+    "category": "overview",
+    "topic_path": "experience-platform/data-ingestion-guide",
+    "section_slug": null,
+    "saved_path": "AEP/data-ingestion-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-prep/home",
+    "title": "Data Prep overview",
+    "category": "overview",
+    "topic_path": "experience-platform/data-prep-guide",
+    "section_slug": null,
+    "saved_path": "AEP/data-prep-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/dataflows/home",
+    "title": "Dataflows overview",
+    "category": "overview",
+    "topic_path": "experience-platform/dataflows-guide",
+    "section_slug": null,
+    "saved_path": "AEP/dataflows-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/observability/home",
+    "title": "Observability Insights overview",
+    "category": "overview",
+    "topic_path": "experience-platform/observability-insights-guide",
+    "section_slug": null,
+    "saved_path": "AEP/observability-insights-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-lifecycle/home",
+    "title": "Advanced Data Lifecycle Management in Adobe Experience Platform",
+    "category": "overview",
+    "topic_path": "experience-platform/advanced-data-lifecycle-management-guide",
+    "section_slug": null,
+    "saved_path": "AEP/advanced-data-lifecycle-management-in-adobe-experience-platform.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/home",
+    "title": "Data Science Workspace overview",
+    "category": "overview",
+    "topic_path": "experience-platform/data-science-workspace-guide",
+    "section_slug": null,
+    "saved_path": "AEP/data-science-workspace-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/intelligent-services/home",
+    "title": "Intelligent Services overview intelligent-services-overview",
+    "category": "overview",
+    "topic_path": "experience-platform/intelligent-services-guide",
+    "section_slug": null,
+    "saved_path": "AEP/intelligent-services-overview-intelligent-services-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/home",
+    "title": "Destinations overview overview",
+    "category": "overview",
+    "topic_path": "experience-platform/destinations-guide",
+    "section_slug": null,
+    "saved_path": "AEP/destinations-overview-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/export-datasets",
+    "title": "Export datasets by using the Flow Service API",
+    "category": "reference",
+    "topic_path": "experience-platform/destinations-guide",
+    "section_slug": null,
+    "saved_path": "AEP/export-datasets-by-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/external-audiences",
+    "title": "External audiences endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/segmentation-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/external-audiences-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/ui/user-guide",
+    "title": "Sandbox UI guide",
+    "category": "guides",
+    "topic_path": "experience-platform/sandboxes-guide",
+    "section_slug": null,
+    "saved_path": "AEP/sandbox-ui-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/api/getting-started",
+    "title": "Getting started with the Sandbox API",
+    "category": "reference",
+    "topic_path": "experience-platform/sandboxes-guide",
+    "section_slug": null,
+    "saved_path": "AEP/getting-started-with-the-sandbox-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/profile/computed-attributes/api",
+    "title": "Computed attributes API endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/real-time-customer-profile-guide",
+    "section_slug": null,
+    "saved_path": "AEP/computed-attributes-api-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/ingest-batch-data",
+    "title": "Ingest data into Adobe Experience Platform",
+    "category": "tutorials",
+    "topic_path": "experience-platform/data-ingestion-guide",
+    "section_slug": null,
+    "saved_path": "AEP/ingest-data-into-adobe-experience-platform.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/ui/assets/common/part-00000-tid-253136349007858095-a93bcf2e-d8c5-4dd6-8619-5c662e261097-672704-1-c000",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/en/docs/experience-platform/destinations/ui/assets/common/part-00000-tid-253136349007858095-a93bcf2e-d8c5-4dd6-8619-5c662e261097-672704-1-c000"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/ad-hoc-activation-api",
+    "title": "Activate audiences on-demand to batch destinations via the ad-hoc activation API",
+    "category": "reference",
+    "topic_path": "experience-platform/destinations-guide",
+    "section_slug": null,
+    "saved_path": "AEP/activate-audiences-on-demand-to-batch-destinations-via-the-ad-hoc-activation-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui",
+    "title": "Create a schema using the Schema Editor",
+    "category": "tutorials",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-schema-using-the-schema-editor.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/reference",
+    "title": "Data usage labels glossary data-usage-labels-glossary",
+    "category": "reference",
+    "topic_path": "experience-platform/data-governance-guide",
+    "section_slug": null,
+    "saved_path": "AEP/data-usage-labels-glossary-data-usage-labels-glossary.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/profile/ui/user-guide",
+    "title": "Real-Time Customer Profile UI guide",
+    "category": "guides",
+    "topic_path": "experience-platform/real-time-customer-profile-guide",
+    "section_slug": null,
+    "saved_path": "AEP/real-time-customer-profile-ui-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/user-guide",
+    "title": "Manage data usage policies in the UI user-guide",
+    "category": "guides",
+    "topic_path": "experience-platform/data-governance-guide",
+    "section_slug": null,
+    "saved_path": "AEP/manage-data-usage-policies-in-the-ui-user-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/ui/user-guide",
+    "title": "Manage privacy jobs in the Privacy Service UI user-guide",
+    "category": "guides",
+    "topic_path": "experience-platform/privacy-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/manage-privacy-jobs-in-the-privacy-service-ui-user-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/user-guide",
+    "title": "Datasets UI guide",
+    "category": "guides",
+    "topic_path": "experience-platform/catalog-and-datasets-guide",
+    "section_slug": null,
+    "saved_path": "AEP/datasets-ui-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/profile/tutorials/dataset-configuration",
+    "title": "Configure a dataset for Profile using APIs",
+    "category": "tutorials",
+    "topic_path": "experience-platform/real-time-customer-profile-guide",
+    "section_slug": null,
+    "saved_path": "AEP/configure-a-dataset-for-profile-using-apis.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/s3",
+    "title": "Connect Amazon S3 to Experience Platform using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-amazon-s3-to-experience-platform-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/s3",
+    "title": "Create a Amazon S3 source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-amazon-s3-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/profile/api/entities",
+    "title": "Entities endpoint (Profile access)",
+    "category": "reference",
+    "topic_path": "experience-platform/real-time-customer-profile-guide",
+    "section_slug": null,
+    "saved_path": "AEP/entities-endpoint-profile-access.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/tutorials/create-a-segment",
+    "title": "Create a segment definition using the Segmentation Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/segmentation-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-segment-definition-using-the-segmentation-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/profile/merge-policies/ui-guide",
+    "title": "Merge policies UI guide",
+    "category": "guides",
+    "topic_path": "experience-platform/real-time-customer-profile-guide",
+    "section_slug": null,
+    "saved_path": "AEP/merge-policies-ui-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/segment-jobs",
+    "title": "Segment jobs endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/segmentation-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/segment-jobs-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/schedules",
+    "title": "Schedules endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/segmentation-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/schedules-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/tutorials/evaluate-a-segment",
+    "title": "Evaluate and access segment definition results",
+    "category": "tutorials",
+    "topic_path": "experience-platform/segmentation-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/evaluate-and-access-segment-definition-results.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/export-jobs",
+    "title": "Segment export jobs endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/segmentation-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/segment-export-jobs-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/connect-activate-batch-destinations",
+    "title": "Connect to file-based email marketing destinations and activate data using the Flow Service API",
+    "category": "reference",
+    "topic_path": "experience-platform/destinations-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-to-file-based-email-marketing-destinations-and-activate-data-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/landing/platform-apis/api-guide",
+    "title": "Getting started with Adobe Experience Platform APIs",
+    "category": "guides",
+    "topic_path": "experience-platform/experience-platform-overview",
+    "section_slug": null,
+    "saved_path": "AEP/getting-started-with-adobe-experience-platform-apis.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/getting-started",
+    "title": "Getting started with the Schema Registry API",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/getting-started-with-the-schema-registry-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/batch/api-overview",
+    "title": "Batch ingestion developer guide",
+    "category": "reference",
+    "topic_path": "experience-platform/data-ingestion-guide",
+    "section_slug": null,
+    "saved_path": "AEP/batch-ingestion-developer-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/create-streaming-connection",
+    "title": "Creating a streaming connection using the API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/data-ingestion-guide",
+    "section_slug": null,
+    "saved_path": "AEP/creating-a-streaming-connection-using-the-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/audience-manager",
+    "title": "Create an Adobe Audience Manager source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-adobe-audience-manager-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications",
+    "title": "Create an Adobe Analytics source connection for classifications data in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-adobe-analytics-source-connection-for-classifications-data-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics",
+    "title": "Connect Adobe Analytics to Experience Platform",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-adobe-analytics-to-experience-platform.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/campaign",
+    "title": "Create an Adobe Campaign Managed Cloud Services source connection using Experience Platform UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-adobe-campaign-managed-cloud-services-source-connection-using-experience-platform-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/customer-attributes",
+    "title": "Create a Customer Attributes source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-customer-attributes-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/marketo",
+    "title": "Create a Marketo Engage source connection and dataflow in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-marketo-engage-source-connection-and-dataflow-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/marketo-custom-activities",
+    "title": "Create a Marketo Engage source connection and dataflow for custom activity data in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-marketo-engage-source-connection-and-dataflow-for-custom-activity-data-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/relay-connector",
+    "title": "Connect Relay to Experience Platform in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-relay-to-experience-platform-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/descriptors",
+    "title": "Descriptors endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/descriptors-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/relationship-ui",
+    "title": "Define a one-to-one relationship between two schemas using the Schema Editor relationship-ui",
+    "category": "tutorials",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/define-a-one-to-one-relationship-between-two-schemas-using-the-schema-editor-relationship-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/identity/troubleshooting-guide",
+    "title": "Identity Service troubleshooting guide",
+    "category": "guides",
+    "topic_path": "experience-platform/experience-platform-identity-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/identity-service-troubleshooting-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/audit-log",
+    "title": "Audit log endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/audit-log-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-api",
+    "title": "Create a schema using the Schema Registry API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-schema-using-the-schema-registry-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/custom-fields-api",
+    "title": "Define XDM fields in the Schema Registry API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/define-xdm-fields-in-the-schema-registry-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/user-guide",
+    "title": "Manage data usage labels in the UI user-guide",
+    "category": "guides",
+    "topic_path": "experience-platform/data-governance-guide",
+    "section_slug": null,
+    "saved_path": "AEP/manage-data-usage-labels-in-the-ui-user-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/getting-started",
+    "title": "Query Service API guide",
+    "category": "reference",
+    "topic_path": "experience-platform/query-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/query-service-api-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/tutorials/multi-entity-segmentation",
+    "title": "Multi-entity segmentation overview",
+    "category": "tutorials",
+    "topic_path": "experience-platform/segmentation-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/multi-entity-segmentation-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/relationship-b2b",
+    "title": "Define a many-to-one relationship between two schemas in Real-Time Customer Data Platform B2B Edition relationship-b2b",
+    "category": "tutorials",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/define-a-many-to-one-relationship-between-two-schemas-in-real-time-customer-data-platform-b2b-edition-relationship-b2b.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/profile/tutorials/add-profile-data",
+    "title": "Add data to Real-Time Customer Profile",
+    "category": "tutorials",
+    "topic_path": "experience-platform/real-time-customer-profile-guide",
+    "section_slug": null,
+    "saved_path": "AEP/add-data-to-real-time-customer-profile.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/observability/api/overview",
+    "title": "Observability Insights API guide",
+    "category": "reference",
+    "topic_path": "experience-platform/observability-insights-guide",
+    "section_slug": null,
+    "saved_path": "AEP/observability-insights-api-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/observability/api/metrics",
+    "title": "Metrics endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/observability-insights-guide",
+    "section_slug": null,
+    "saved_path": "AEP/metrics-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/tutorials/consents",
+    "title": "Honoring consent in segment definitions",
+    "category": "tutorials",
+    "topic_path": "experience-platform/segmentation-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/honoring-consent-in-segment-definitions.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/profile/api/overview",
+    "title": "Real-Time Customer Profile API guide",
+    "category": "reference",
+    "topic_path": "experience-platform/real-time-customer-profile-guide",
+    "section_slug": null,
+    "saved_path": "AEP/real-time-customer-profile-api-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/overview",
+    "title": "Privacy Service API guide",
+    "category": "reference",
+    "topic_path": "experience-platform/privacy-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/privacy-service-api-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/labels",
+    "title": "Manage data usage labels for a schema",
+    "category": "tutorials",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/manage-data-usage-labels-for-a-schema.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/api/labels",
+    "title": "Labels endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/data-governance-guide",
+    "section_slug": null,
+    "saved_path": "AEP/labels-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/api/getting-started",
+    "title": "Getting started with the Policy Service API",
+    "category": "reference",
+    "topic_path": "experience-platform/data-governance-guide",
+    "section_slug": null,
+    "saved_path": "AEP/getting-started-with-the-policy-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/api/overview",
+    "title": "Sandbox API guide",
+    "category": "reference",
+    "topic_path": "experience-platform/sandboxes-guide",
+    "section_slug": null,
+    "saved_path": "AEP/sandbox-api-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/intelligent-services/customer-ai/user-guide/configure",
+    "title": "Configure a Customer AI instance",
+    "category": "guides",
+    "topic_path": "experience-platform/intelligent-services-guide",
+    "section_slug": null,
+    "saved_path": "AEP/configure-a-customer-ai-instance.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/intelligent-services/customer-ai/user-guide/discover-insights",
+    "title": "Discover insights with Customer AI",
+    "category": "guides",
+    "topic_path": "experience-platform/intelligent-services-guide",
+    "section_slug": null,
+    "saved_path": "AEP/discover-insights-with-customer-ai.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/account/account-profile-ui-guide",
+    "title": "Account profile UI guide",
+    "category": "guides",
+    "topic_path": "experience-platform/real-time-customer-data-platform-guide",
+    "section_slug": null,
+    "saved_path": "AEP/account-profile-ui-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/profile/tutorials/dataset-overlap-report",
+    "title": "Generate the dataset overlap report",
+    "category": "tutorials",
+    "topic_path": "experience-platform/real-time-customer-profile-guide",
+    "section_slug": null,
+    "saved_path": "AEP/generate-the-dataset-overlap-report.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/profile/api/preview-sample-status",
+    "title": "Preview sample status endpoint (Profile preview)",
+    "category": "reference",
+    "topic_path": "experience-platform/real-time-customer-profile-guide",
+    "section_slug": null,
+    "saved_path": "AEP/preview-sample-status-endpoint-profile-preview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/filter",
+    "title": "Filter row-level data for a source using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/filter-row-level-data-for-a-source-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide",
+    "title": "Manage Experience Event Dataset Retention in the data lake using TTL",
+    "category": "guides",
+    "topic_path": "experience-platform/catalog-and-datasets-guide",
+    "section_slug": null,
+    "saved_path": "AEP/manage-experience-event-dataset-retention-in-the-data-lake-using-ttl.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/troubleshooting-guide",
+    "title": "XDM System troubleshooting guide",
+    "category": "guides",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/xdm-system-troubleshooting-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/privacy-jobs",
+    "title": "Privacy jobs endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/privacy-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/privacy-jobs-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/troubleshooting-guide",
+    "title": "Privacy Service troubleshooting guide",
+    "category": "guides",
+    "topic_path": "experience-platform/privacy-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/privacy-service-troubleshooting-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/api/sandboxes",
+    "title": "Sandbox management endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/sandboxes-guide",
+    "section_slug": null,
+    "saved_path": "AEP/sandbox-management-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/getting-started",
+    "title": "Authenticate and access the Privacy Service API",
+    "category": "reference",
+    "topic_path": "experience-platform/privacy-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/authenticate-and-access-the-privacy-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/guides/configure-destination-instructions",
+    "title": "Use Destination SDK to configure a streaming destination",
+    "category": "guides",
+    "topic_path": "experience-platform/destinations-guide",
+    "section_slug": null,
+    "saved_path": "AEP/use-destination-sdk-to-configure-a-streaming-destination.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/guides/configure-file-based-destination-instructions",
+    "title": "Use Destination SDK to configure a file-based destination",
+    "category": "guides",
+    "topic_path": "experience-platform/destinations-guide",
+    "section_slug": null,
+    "saved_path": "AEP/use-destination-sdk-to-configure-a-file-based-destination.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/guides/configure-file-based-destinations/configure-prospect-audience-destination",
+    "title": "Configure a file-based destination to export prospect audiences to a storage location",
+    "category": "guides",
+    "topic_path": "experience-platform/destinations-guide",
+    "section_slug": null,
+    "saved_path": "AEP/configure-a-file-based-destination-to-export-prospect-audiences-to-a-storage-location.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/guides/submit-destination",
+    "title": "Submit a productized destination for review",
+    "category": "guides",
+    "topic_path": "experience-platform/destinations-guide",
+    "section_slug": null,
+    "saved_path": "AEP/submit-a-productized-destination-for-review.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/guides/configure-file-based-destinations/configure-file-formatting-options",
+    "title": "Configure file formatting options for file-based destinations",
+    "category": "guides",
+    "topic_path": "experience-platform/destinations-guide",
+    "section_slug": null,
+    "saved_path": "AEP/configure-file-formatting-options-for-file-based-destinations.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/guides/configure-file-based-destinations/configure-amazon-s3-destination-with-predefined-file-formatting",
+    "title": "Configure an Amazon S3 destination with predefined file formatting options and custom file name configuration",
+    "category": "guides",
+    "topic_path": "experience-platform/destinations-guide",
+    "section_slug": null,
+    "saved_path": "AEP/configure-an-amazon-s3-destination-with-predefined-file-formatting-options-and-custom-file-name-configuration.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/sdk/self-serve-api/api-overview",
+    "title": "Self-Serve Sources (Batch SDK) API Guide",
+    "category": "reference",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/self-serve-sources-batch-sdk-api-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/intro/rtcdpb2b-intro/b2b-tutorial",
+    "title": "Getting started with Real-Time Customer Data Platform B2B Edition",
+    "category": "tutorials",
+    "topic_path": "experience-platform/real-time-customer-data-platform-guide",
+    "section_slug": null,
+    "saved_path": "AEP/getting-started-with-real-time-customer-data-platform-b2b-edition.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/api/filter-data",
+    "title": "Filter Catalog data using query parameters",
+    "category": "reference",
+    "topic_path": "experience-platform/catalog-and-datasets-guide",
+    "section_slug": null,
+    "saved_path": "AEP/filter-catalog-data-using-query-parameters.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/troubleshooting-guide",
+    "title": "Access control troubleshooting guide",
+    "category": "guides",
+    "topic_path": "experience-platform/access-control-guide",
+    "section_slug": null,
+    "saved_path": "AEP/access-control-troubleshooting-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/troubleshooting-guide",
+    "title": "Data Science Workspace troubleshooting guide",
+    "category": "guides",
+    "topic_path": "experience-platform/data-science-workspace-guide",
+    "section_slug": null,
+    "saved_path": "AEP/data-science-workspace-troubleshooting-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/query/troubleshooting-guide",
+    "title": "Query Service and Data Distiller frequently asked questions",
+    "category": "guides",
+    "topic_path": "experience-platform/query-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/query-service-and-data-distiller-frequently-asked-questions.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/troubleshooting-guide",
+    "title": "Sandboxes troubleshooting guide",
+    "category": "guides",
+    "topic_path": "experience-platform/sandboxes-guide",
+    "section_slug": null,
+    "saved_path": "AEP/sandboxes-troubleshooting-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/ui-guide",
+    "title": "AI Assistant UI Guide (Legacy)",
+    "category": "guides",
+    "topic_path": "experience-platform/ai-assistant-in-adobe-experience-platform-guide",
+    "section_slug": null,
+    "saved_path": "AEP/ai-assistant-ui-guide-legacy.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/overview",
+    "title": "Schema Registry API guide",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/schema-registry-api-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/ad-hoc",
+    "title": "Create an ad-hoc schema",
+    "category": "tutorials",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-ad-hoc-schema.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/schemas",
+    "title": "Schemas endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/schemas-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/change-data-capture",
+    "title": "Enable change data capture for source connections in the API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/enable-change-data-capture-for-source-connections-in-the-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/assurance/tutorials/using-assurance",
+    "title": "Using Adobe Experience Platform Assurance",
+    "category": "tutorials",
+    "topic_path": "experience-platform/assurance-guide",
+    "section_slug": null,
+    "saved_path": "AEP/using-adobe-experience-platform-assurance.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/home",
+    "title": "Tags overview",
+    "category": "overview",
+    "topic_path": "experience-platform/tags",
+    "section_slug": null,
+    "saved_path": "AEP/tags-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/api/getting-started",
+    "title": "Catalog Service API guide",
+    "category": "reference",
+    "topic_path": "experience-platform/catalog-and-datasets-guide",
+    "section_slug": null,
+    "saved_path": "AEP/catalog-service-api-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-access/api",
+    "title": "Data Access API guide",
+    "category": "reference",
+    "topic_path": "experience-platform/data-access-guide",
+    "section_slug": null,
+    "saved_path": "AEP/data-access-api-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-prep/api/mapping-set",
+    "title": "Mapping sets endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/data-prep-guide",
+    "section_slug": null,
+    "saved_path": "AEP/mapping-sets-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-prep/api/overview",
+    "title": "Mapping Service API guide",
+    "category": "reference",
+    "topic_path": "experience-platform/data-prep-guide",
+    "section_slug": null,
+    "saved_path": "AEP/mapping-service-api-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/dataflows/api/monitor",
+    "title": "Monitor dataflows using the Flow Service API",
+    "category": "reference",
+    "topic_path": "experience-platform/dataflows-guide",
+    "section_slug": null,
+    "saved_path": "AEP/monitor-dataflows-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-lifecycle/api/dataset-expiration",
+    "title": "Dataset expiration endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/advanced-data-lifecycle-management-guide",
+    "section_slug": null,
+    "saved_path": "AEP/dataset-expiration-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-lifecycle/api/workorder",
+    "title": "Record delete work orders work-order-endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/advanced-data-lifecycle-management-guide",
+    "section_slug": null,
+    "saved_path": "AEP/record-delete-work-orders-work-order-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-lifecycle/api/overview",
+    "title": "Data Hygiene API guide",
+    "category": "reference",
+    "topic_path": "experience-platform/advanced-data-lifecycle-management-guide",
+    "section_slug": null,
+    "saved_path": "AEP/data-hygiene-api-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-lifecycle/api/quota",
+    "title": "Quota endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/advanced-data-lifecycle-management-guide",
+    "section_slug": null,
+    "saved_path": "AEP/quota-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/profiles",
+    "title": "Profiles dashboard",
+    "category": "guides",
+    "topic_path": "experience-platform/dashboards-guide",
+    "section_slug": null,
+    "saved_path": "AEP/profiles-dashboard.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/update",
+    "title": "Update account details in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/update-account-details-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/activate-segments-file-based-destinations",
+    "title": "Activate audiences to file-based destinations by using the Flow Service API",
+    "category": "reference",
+    "topic_path": "experience-platform/destinations-guide",
+    "section_slug": null,
+    "saved_path": "AEP/activate-audiences-to-file-based-destinations-by-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/assets/common/part-00000-tid-253136349007858095-a93bcf2e-d8c5-4dd6-8619-5c662e261097-672704-1-c000",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/en/docs/experience-platform/destinations/assets/common/part-00000-tid-253136349007858095-a93bcf2e-d8c5-4dd6-8619-5c662e261097-672704-1-c000"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/update-destination-dataflows",
+    "title": "Update destination dataflows using the Flow Service API",
+    "category": "reference",
+    "topic_path": "experience-platform/destinations-guide",
+    "section_slug": null,
+    "saved_path": "AEP/update-destination-dataflows-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/encrypt-data",
+    "title": "Encrypted data ingestion",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/encrypted-data-ingestion.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/cloud-storage",
+    "title": "Configure a dataflow to ingest batch data from a cloud storage source in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/configure-a-dataflow-to-ingest-batch-data-from-a-cloud-storage-source-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/loyalty/lava",
+    "title": "Create a source connection and dataflow to stream LAVA data using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-source-connection-and-dataflow-to-stream-lava-data-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/loyalty/lava",
+    "title": "Create a source connection and dataflow to stream LAVA data using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-source-connection-and-dataflow-to-stream-lava-data-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/ecommerce/shopify",
+    "title": "Create a Shopify base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-shopify-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/explore/tabular",
+    "title": "Explore data tables using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/explore-data-tables-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/ecommerce",
+    "title": "Create a dataflow for E-commerce sources using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataflow-for-e-commerce-sources-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/ecommerce/shopify",
+    "title": "Create a Shopify source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-shopify-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/ecommerce",
+    "title": "Create a dataflow using an e-commerce source in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataflow-using-an-e-commerce-source-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/api/available",
+    "title": "Available sandboxes endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/sandboxes-guide",
+    "section_slug": null,
+    "saved_path": "AEP/available-sandboxes-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/profile/api/getting-started",
+    "title": "Getting started with the Real-Time Customer Profile API getting-started",
+    "category": "reference",
+    "topic_path": "experience-platform/real-time-customer-profile-guide",
+    "section_slug": null,
+    "saved_path": "AEP/getting-started-with-the-real-time-customer-profile-api-getting-started.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/query/ui/user-guide",
+    "title": "Query Editor UI guide",
+    "category": "guides",
+    "topic_path": "experience-platform/query-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/query-editor-ui-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/ui/assets/common/sample_export_file_segment12341e18-abcd-49c2-836d-123c88e76c39_20200408061804",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/en/docs/experience-platform/destinations/ui/assets/common/sample_export_file_segment12341e18-abcd-49c2-836d-123c88e76c39_20200408061804"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/monitor",
+    "title": "Monitor sources dataflows using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/monitor-sources-dataflows-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/identity/api/create-custom-namespace",
+    "title": "Create a custom namespace in the Identity Service API",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-platform-identity-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-custom-namespace-in-the-identity-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/map-csv/recommendations",
+    "title": "Map a CSV file to an XDM schema using AI-generated recommendations",
+    "category": "tutorials",
+    "topic_path": "experience-platform/data-ingestion-guide",
+    "section_slug": null,
+    "saved_path": "AEP/map-a-csv-file-to-an-xdm-schema-using-ai-generated-recommendations.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/explore/cloud-storage",
+    "title": "Explore your cloud storage folders using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/explore-your-cloud-storage-folders-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/cloud-storage",
+    "title": "Create a dataflow for cloud storage sources using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataflow-for-cloud-storage-sources-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/sftp",
+    "title": "Create an SFTP base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-sftp-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/sftp",
+    "title": "Create an SFTP source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-sftp-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/map-csv/overview",
+    "title": "Map a CSV file to an XDM schema",
+    "category": "tutorials",
+    "topic_path": "experience-platform/data-ingestion-guide",
+    "section_slug": null,
+    "saved_path": "AEP/map-a-csv-file-to-an-xdm-schema.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/audiences",
+    "title": "Audiences dashboard audiences-dashboard",
+    "category": "guides",
+    "topic_path": "experience-platform/dashboards-guide",
+    "section_slug": null,
+    "saved_path": "AEP/audiences-dashboard-audiences-dashboard.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/overview",
+    "title": "Segmentation Service API guide",
+    "category": "reference",
+    "topic_path": "experience-platform/segmentation-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/segmentation-service-api-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/consent-policy-rule-building-reference",
+    "title": "Consent policy rule building reference",
+    "category": "reference",
+    "topic_path": "experience-platform/data-governance-guide",
+    "section_slug": null,
+    "saved_path": "AEP/consent-policy-rule-building-reference.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/profile/api/profile-system-jobs",
+    "title": "Profile system jobs endpoint (Delete requests)",
+    "category": "reference",
+    "topic_path": "experience-platform/real-time-customer-profile-guide",
+    "section_slug": null,
+    "saved_path": "AEP/profile-system-jobs-endpoint-delete-requests.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/scheduled-queries",
+    "title": "Schedules endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/query-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/schedules-endpoint-2.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/getting-started",
+    "title": "Getting started with the Segmentation Service API getting-started",
+    "category": "reference",
+    "topic_path": "experience-platform/segmentation-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/getting-started-with-the-segmentation-service-api-getting-started.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/segment-definitions",
+    "title": "Segment definitions endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/segmentation-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/segment-definitions-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/previews-and-estimates",
+    "title": "Previews and estimates endpoints",
+    "category": "reference",
+    "topic_path": "experience-platform/segmentation-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/previews-and-estimates-endpoints.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-access/tutorials/dataset-data",
+    "title": "View dataset data using Data Access API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/data-access-guide",
+    "section_slug": null,
+    "saved_path": "AEP/view-dataset-data-using-data-access-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/profile/api/export-jobs",
+    "title": "Profile export jobs endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/real-time-customer-profile-guide",
+    "section_slug": null,
+    "saved_path": "AEP/profile-export-jobs-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/api/getting-started",
+    "title": "Access Control API guide",
+    "category": "reference",
+    "topic_path": "experience-platform/access-control-guide",
+    "section_slug": null,
+    "saved_path": "AEP/access-control-api-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/identity/api/getting-started",
+    "title": "Identity Service API guide",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-platform-identity-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/identity-service-api-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/api/overview",
+    "title": "Policy Service API guide",
+    "category": "reference",
+    "topic_path": "experience-platform/data-governance-guide",
+    "section_slug": null,
+    "saved_path": "AEP/policy-service-api-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/getting-started",
+    "title": "Adobe AI Machine Learning API guide",
+    "category": "reference",
+    "topic_path": "experience-platform/data-science-workspace-guide",
+    "section_slug": null,
+    "saved_path": "AEP/adobe-ai-machine-learning-api-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/data-types",
+    "title": "Data types endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/data-types-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/ad-hoc",
+    "title": "Ad-hoc schemas",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/ad-hoc-schemas.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/streaming/http",
+    "title": "Create an HTTP API streaming connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-http-api-streaming-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/analytics/rainfocus",
+    "title": "Connect your RainFocus account to Experience Platform using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-your-rainfocus-account-to-experience-platform-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/alerts",
+    "title": "Subscribe to alerts for sources dataflows in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/subscribe-to-alerts-for-sources-dataflows-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/delete",
+    "title": "Delete dataflows in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/delete-dataflows-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/update-dataflows",
+    "title": "Update dataflows in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/update-dataflows-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/kinesis",
+    "title": "Create an Amazon Kinesis source connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-amazon-kinesis-source-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/streaming",
+    "title": "Create a streaming dataflow for raw data using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-streaming-dataflow-for-raw-data-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/kinesis",
+    "title": "Create an Amazon Kinesis source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-amazon-kinesis-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/cloud-storage-streaming",
+    "title": "Create a streaming dataflow for a cloud storage source in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-streaming-dataflow-for-a-cloud-storage-source-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/redshift",
+    "title": "Connect AWS Redshift to Experience Platform using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-aws-redshift-to-experience-platform-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/database-nosql",
+    "title": "Create a dataflow for database sources using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataflow-for-database-sources-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/redshift",
+    "title": "Connect AWS Redshift to Experience Platform using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-aws-redshift-to-experience-platform-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/databases",
+    "title": "Create a dataflow using a database source in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataflow-using-a-database-source-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/databricks",
+    "title": "Connect Databricks to Experience Platform using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-databricks-to-experience-platform-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/databricks",
+    "title": "Connect Databricks to Experience Platform in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-databricks-to-experience-platform-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/eventhub",
+    "title": "Create an Azure Event Hubs source connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-azure-event-hubs-source-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/eventhub",
+    "title": "Create an Azure Event Hubs source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-azure-event-hubs-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/synapse-analytics",
+    "title": "Connect Azure Synapse Analytics to Experience Platform using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-azure-synapse-analytics-to-experience-platform-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/synapse-analytics",
+    "title": "Create an Azure Synapse Analytics source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-azure-synapse-analytics-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/bigquery",
+    "title": "Connect Google BigQuery to Experience Platform using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-google-bigquery-to-experience-platform-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/bigquery",
+    "title": "Connect Google BigQuery to Experience Platform using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-google-bigquery-to-experience-platform-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/google-pubsub",
+    "title": "Create a Google PubSub Source Connection Using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-google-pubsub-source-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/google-pubsub",
+    "title": "Create a Google PubSub source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-google-pubsub-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/connectors/databases/%5Bhttps:/docs.snowflake.com/en/user-guide/admin-account-identifier.html%5D(https:/docs.snowflake.com/en/user-guide/admin-account-identifier.html)",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/en/docs/experience-platform/sources/connectors/databases/%5Bhttps:/docs.snowflake.com/en/user-guide/admin-account-identifier.html%5D(https:/docs.snowflake.com/en/user-guide/admin-account-identifier.html)"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/connectors/databases/%5Bhttps:/docs.snowflake.com/en/sql-reference/sql/grant-privilege%5D(https:/docs.snowflake.com/en/sql-reference/sql/grant-privilege)",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/en/docs/experience-platform/sources/connectors/databases/%5Bhttps:/docs.snowflake.com/en/sql-reference/sql/grant-privilege%5D(https:/docs.snowflake.com/en/sql-reference/sql/grant-privilege)"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/snowflake-streaming",
+    "title": "Stream Snowflake data to Experience Platform using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/stream-snowflake-data-to-experience-platform-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/snowflake-streaming",
+    "title": "Stream data from your Snowflake database to Experience Platform using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/stream-data-from-your-snowflake-database-to-experience-platform-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/snowflake",
+    "title": "Connect Snowflake to Experience Platform using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-snowflake-to-experience-platform-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/snowflake",
+    "title": "Connect Snowflake to Experience Platform using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-snowflake-to-experience-platform-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/advertising/ads",
+    "title": "Connect Google Ads to Experience Platform using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-google-ads-to-experience-platform-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/advertising",
+    "title": "Create a dataflow for advertising sources using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataflow-for-advertising-sources-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/advertising/ads",
+    "title": "Connect Google Ads to Experience Platform using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-google-ads-to-experience-platform-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/advertising",
+    "title": "Create a dataflow using an advertising source in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataflow-using-an-advertising-source-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/analytics/mixpanel",
+    "title": "Create a Mixpanel source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-mixpanel-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/analytics/mixpanel",
+    "title": "Create a source connection and dataflow for Mixpanel using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-source-connection-and-dataflow-for-mixpanel-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/analytics",
+    "title": "Create a dataflow using an analytics source in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataflow-using-an-analytics-source-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/analytics/pendo-webhook",
+    "title": "Create a Pendo source connection dataflow and in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-pendo-source-connection-dataflow-and-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/analytics/pendo-webhook",
+    "title": "Create a source connection and dataflow for Pendo using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-source-connection-and-dataflow-for-pendo-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/adls-gen2",
+    "title": "Create an Azure Data Lake Storage Gen2 base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-azure-data-lake-storage-gen2-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/adls-gen2",
+    "title": "Create an Azure Data Lake Storage Gen2 source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-azure-data-lake-storage-gen2-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/blob",
+    "title": "Connect Azure Blob Storage to Experience Platform using the API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-azure-blob-storage-to-experience-platform-using-the-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/blob",
+    "title": "Connect Azure Blob Storage to Experience Platform using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-azure-blob-storage-to-experience-platform-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/hdfs",
+    "title": "Create an Apache HDFS base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-apache-hdfs-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/hdfs",
+    "title": "Create an Apache HDFS source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-apache-hdfs-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/azure-file-storage",
+    "title": "Create an Azure File Storage base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-azure-file-storage-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/azure-file-storage",
+    "title": "Create an Azure File Storage source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-azure-file-storage-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/data-landing-zone",
+    "title": "Connect Data Landing Zone to Experience Platform using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-data-landing-zone-to-experience-platform-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/data-landing-zone",
+    "title": "Connect Data Landing Zone to Adobe Experience Platform using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-data-landing-zone-to-adobe-experience-platform-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/ftp",
+    "title": "Create an FTP base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-ftp-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/ftp",
+    "title": "Create an FTP source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-ftp-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/google",
+    "title": "Create a Google Cloud Storage base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-google-cloud-storage-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/google-cloud-storage",
+    "title": "Create a Google Cloud Storage source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-google-cloud-storage-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/oracle-object-storage",
+    "title": "Create an Oracle Object Storage base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-oracle-object-storage-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/oracle-object-storage",
+    "title": "Create an Oracle Object Storage Source Connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-oracle-object-storage-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/consent/didomi",
+    "title": "Connect Didomi to Experience Platform",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-didomi-to-experience-platform.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/consent/onetrust",
+    "title": "Create a dataflow for a OneTrust Integration source using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataflow-for-a-onetrust-integration-source-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/consent/onetrust",
+    "title": "Create a OneTrust Integration source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-onetrust-integration-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/consent-and-preferences",
+    "title": "Create a dataflow using a consent and preferences source in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataflow-using-a-consent-and-preferences-source-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/crm/ms-dynamics",
+    "title": "Connect Microsoft Dynamics to Experience Platform using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-microsoft-dynamics-to-experience-platform-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/crm",
+    "title": "Create a dataflow to ingest data from a CRM into Experience Platform",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataflow-to-ingest-data-from-a-crm-into-experience-platform.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/crm/dynamics",
+    "title": "Create a Microsoft Dynamics source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-microsoft-dynamics-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/crm",
+    "title": "Create a dataflow using a CRM source in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataflow-using-a-crm-source-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/crm/salesforce",
+    "title": "Connect Salesforce to Experience Platform using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-salesforce-to-experience-platform-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/crm/salesforce",
+    "title": "Connect your Salesforce account to Experience Platform using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-your-salesforce-account-to-experience-platform-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/crm/sugarcrm-accounts-contacts",
+    "title": "Create a source connection and dataflow for SugarCRM Accounts & Contacts using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-source-connection-and-dataflow-for-sugarcrm-accounts-contacts-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/crm/sugarcrm-accounts-contacts",
+    "title": "Create a SugarCRM Accounts & Contacts source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-sugarcrm-accounts-contacts-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/crm/sugarcrm-events",
+    "title": "Create a SugarCRM Events source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-sugarcrm-events-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/crm/veeva",
+    "title": "Create a Veeva CRM base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-veeva-crm-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/crm/veeva",
+    "title": "Create a Veeva CRM source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-veeva-crm-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/customer-success/salesforce-service-cloud",
+    "title": "Create a Salesforce Service Cloud source connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-salesforce-service-cloud-source-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/customer-success",
+    "title": "Create a dataflow for customer success sources using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataflow-for-customer-success-sources-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/customer-success/salesforce-service-cloud",
+    "title": "Connect your Salesforce Service Cloud account to Experience Platform using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-your-salesforce-service-cloud-account-to-experience-platform-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/customer-success",
+    "title": "Create a Dataflow using a customer success source in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataflow-using-a-customer-success-source-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/customer-success/servicenow",
+    "title": "Create a ServiceNow base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-servicenow-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/customer-success/servicenow",
+    "title": "Create a ServiceNow source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-servicenow-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/connectors/customer-success/%5Bhttps:/support.zendesk.com/hc/en-us/articles/4409381383578-Where-can-I-find-my-Zendesk-subdomain-%5D(https:/support.zendesk.com/hc/en-us/articles/4409381383578-Where-can-I-find-my-Zendesk-subdomain-)",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/en/docs/experience-platform/sources/connectors/customer-success/%5Bhttps:/support.zendesk.com/hc/en-us/articles/4409381383578-Where-can-I-find-my-Zendesk-subdomain-%5D(https:/support.zendesk.com/hc/en-us/articles/4409381383578-Where-can-I-find-my-Zendesk-subdomain-)"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/connectors/customer-success/%5Bhttps:/support.zendesk.com/hc/en-us/articles/4408889192858-Generating-a-new-API-token%5D(https:/support.zendesk.com/hc/en-us/articles/4408889192858-Generating-a-new-API-token)",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/en/docs/experience-platform/sources/connectors/customer-success/%5Bhttps:/support.zendesk.com/hc/en-us/articles/4408889192858-Generating-a-new-API-token%5D(https:/support.zendesk.com/hc/en-us/articles/4408889192858-Generating-a-new-API-token)"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/customer-success/zendesk",
+    "title": "Create a dataflow for Zendesk using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataflow-for-zendesk-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/customer-success/zendesk",
+    "title": "Create a Zendesk source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-zendesk-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/hive",
+    "title": "Create an Apache Hive on Azure HDInsights base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-apache-hive-on-azure-hdinsights-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/hive",
+    "title": "Create an Apache Hive on Azure HDInsights source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-apache-hive-on-azure-hdinsights-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/spark",
+    "title": "Create an Apache Spark on Azure HDInsights base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-apache-spark-on-azure-hdinsights-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/spark",
+    "title": "Create an Apache Spark on Azure HDInsights source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-apache-spark-on-azure-hdinsights-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/data-explorer",
+    "title": "Create an Azure Azure Data Explorer base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-azure-azure-data-explorer-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/data-explorer",
+    "title": "Create an Azure Data Explorer source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-azure-data-explorer-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/ats",
+    "title": "Create an Azure Table Storage base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-azure-table-storage-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/ats",
+    "title": "Create an Azure Table Storage source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-azure-table-storage-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/greenplum",
+    "title": "Create a GreenPlum base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-greenplum-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/greenplum",
+    "title": "Create a GreenPlum source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-greenplum-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/hp-vertica",
+    "title": "Create an HP Vertica base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-hp-vertica-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/hp-vertica",
+    "title": "Create an HP Vertica source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-hp-vertica-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/ibm-db2",
+    "title": "Create an IBM IBM DB2 base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-ibm-ibm-db2-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/ibm-db2",
+    "title": "Create an IBM DB2 source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-ibm-db2-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/mariadb",
+    "title": "Connect MariaDB to Experience Platform using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-mariadb-to-experience-platform-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/mariadb",
+    "title": "Connect MariaDB to Experience Platform using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-mariadb-to-experience-platform-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/sql-server",
+    "title": "Create a Microsoft SQL Server base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-microsoft-sql-server-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/sql-server",
+    "title": "Create a Microsoft SQL Server source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-microsoft-sql-server-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/mysql",
+    "title": "Connect MySQL to Experience Platform using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-mysql-to-experience-platform-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/mysql",
+    "title": "Connect MySQL to Experience Platform using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-mysql-to-experience-platform-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/oracle",
+    "title": "Connect Oracle DB to Experience Platform using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-oracle-db-to-experience-platform-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/oracle",
+    "title": "Connect Oracle DB to Experience Platform using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-oracle-db-to-experience-platform-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/postgres",
+    "title": "Connect PostgreSQL to Experience Platform using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-postgresql-to-experience-platform-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/postgres",
+    "title": "Connect PostgreSQL to Experience Platform using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-postgresql-to-experience-platform-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/teradata-vantage",
+    "title": "Create a Teradata Vantage base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-teradata-vantage-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/teradata-vantage",
+    "title": "Create a Teradata Vantage source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-teradata-vantage-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/data-partner/acxiom-data-ingestion",
+    "title": "Create an Acxiom Data Ingestion source connection and dataflow in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-acxiom-data-ingestion-source-connection-and-dataflow-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/data-partner/acxiom-prospecting-data-import",
+    "title": "Create an Acxiom Prospecting Data Import source connection and dataflow in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-acxiom-prospecting-data-import-source-connection-and-dataflow-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/data-partner/algolia-user-profiles",
+    "title": "Ingest Algolia User Profiles data into Experience Platform using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/ingest-algolia-user-profiles-data-into-experience-platform-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/data-partner/bombora",
+    "title": "Connect Bombora Intent to Experience Platform using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-bombora-intent-to-experience-platform-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/data-partner/demandbase",
+    "title": "Connect Demandbase Intent to Experience Platform using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-demandbase-intent-to-experience-platform-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/data-partner/merkury",
+    "title": "Create a Merkury Enterprise Identity Resolution source connection and dataflow in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-merkury-enterprise-identity-resolution-source-connection-and-dataflow-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/ecommerce/sap-commerce",
+    "title": "Create a source connection and dataflow for SAP Commerce using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-source-connection-and-dataflow-for-sap-commerce-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/ecommerce/sap-commerce",
+    "title": "Create a SAP Commerce source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-sap-commerce-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/ecommerce/shopify-streaming",
+    "title": "Create a streaming source connection and dataflow for Shopify data using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-streaming-source-connection-and-dataflow-for-shopify-data-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/ecommerce/shopify-streaming",
+    "title": "Create a source connection and dataflow for Shopify Streaming data using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-source-connection-and-dataflow-for-shopify-streaming-data-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/local-system/local-file-upload",
+    "title": "Create a local file upload source connector in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-local-file-upload-source-connector-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/loyalty/capillary",
+    "title": "Connect Capillary Streaming Events to Experience Platform using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-capillary-streaming-events-to-experience-platform-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/loyalty/talon-one-streaming",
+    "title": "Stream Talon.One data to Experience Platform using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/stream-talonone-data-to-experience-platform-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/loyalty/talon-one-batch",
+    "title": "Ingest batch data from Talon.One into Experience Platform using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/ingest-batch-data-from-talonone-into-experience-platform-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/braze",
+    "title": "Create a Braze Currents source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-braze-currents-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/chatlio-webhook",
+    "title": "Create a Chatlio source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-chatlio-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/chatlio-webhook",
+    "title": "Create a source connection and dataflow for Chatlio using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-source-connection-and-dataflow-for-chatlio-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/customerio-webhook",
+    "title": "Create a Customer.io source connection and dataflow in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-customerio-source-connection-and-dataflow-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/customerio-webhook",
+    "title": "Create a source connection and dataflow for Customer.io using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-source-connection-and-dataflow-for-customerio-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/hubspot",
+    "title": "Create a HubSpot base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-hubspot-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/marketing-automation",
+    "title": "Create a dataflow for marketing automation sources using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataflow-for-marketing-automation-sources-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/hubspot",
+    "title": "Create a HubSpot source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-hubspot-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/marketing-automation",
+    "title": "Create a dataflow using a marketing automation source in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataflow-using-a-marketing-automation-source-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/mailchimp-campaign",
+    "title": "Create a dataflow for Mailchimp Campaign using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataflow-for-mailchimp-campaign-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/mailchimp-campaigns",
+    "title": "Create a Mailchimp Campaigns source connection using Experience Platform UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-mailchimp-campaigns-source-connection-using-experience-platform-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/mailchimp-members",
+    "title": "Create a dataflow for Mailchimp Members using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataflow-for-mailchimp-members-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/mailchimp-members",
+    "title": "Create a Mailchimp Members source connection using Experience Platform UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-mailchimp-members-source-connection-using-experience-platform-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/eloqua",
+    "title": "Connect Oracle Eloqua (V2) to Experience Platform in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-oracle-eloqua-v2-to-experience-platform-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/oracle-netsuite-activities",
+    "title": "Create a source connection and dataflow for Oracle NetSuite Activities using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-source-connection-and-dataflow-for-oracle-netsuite-activities-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/oracle-netsuite-activities",
+    "title": "Create a Oracle NetSuite Activities source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-oracle-netsuite-activities-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/oracle-netsuite-entities",
+    "title": "Create a source connection and dataflow for Oracle NetSuite Entities using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-source-connection-and-dataflow-for-oracle-netsuite-entities-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/oracle-netsuite-entities",
+    "title": "Create a Oracle NetSuite Entities source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-oracle-netsuite-entities-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/pathfactory",
+    "title": "Create a PathFactory base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-pathfactory-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/pathfactory",
+    "title": "Connect your PathFactory account to Experience Platform through the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-your-pathfactory-account-to-experience-platform-through-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/sfmc",
+    "title": "Connect Salesforce Marketing Cloud to Experience Platform",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-salesforce-marketing-cloud-to-experience-platform.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/payments/square",
+    "title": "Create a Square base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-square-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/payments",
+    "title": "Create a dataflow for payments sources using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataflow-for-payments-sources-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/payments/square",
+    "title": "Create a Square source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-square-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/payments",
+    "title": "Create a dataflow for a payments source in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataflow-for-a-payments-source-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/payments/stripe",
+    "title": "Ingest payments data from your Stripe account to Experience Platform using APIs",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/ingest-payments-data-from-your-stripe-account-to-experience-platform-using-apis.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/payments/stripe",
+    "title": "Ingest payments data from your Stripe account to Experience Platform using the user interface",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/ingest-payments-data-from-your-stripe-account-to-experience-platform-using-the-user-interface.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/streaming/http",
+    "title": "Create an HTTP API streaming connection using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-http-api-streaming-connection-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/protocols/odata",
+    "title": "Create a Generic OData base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-generic-odata-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/protocols",
+    "title": "Create a dataflow for protocols sources Using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataflow-for-protocols-sources-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/protocols/odata",
+    "title": "Create a Generic OData source connection in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-generic-odata-source-connection-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/protocols",
+    "title": "Create a dataflow using a protocols source in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataflow-using-a-protocols-source-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/protocols/generic-rest",
+    "title": "Create a Generic REST API base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-generic-rest-api-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/unions",
+    "title": "Unions endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/unions-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/relationship-api",
+    "title": "Define a relationship between two schemas using the Schema Registry API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/define-a-relationship-between-two-schemas-using-the-schema-registry-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/field-deprecation-api",
+    "title": "Deprecate an XDM field in the API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/deprecate-an-xdm-field-in-the-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/identity/api/list-cluster-identites",
+    "title": "List all identities in a cluster",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-platform-identity-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/list-all-identities-in-a-cluster.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/identity/api/list-namespaces",
+    "title": "List available identity namespaces",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-platform-identity-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/list-available-identity-namespaces.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/field-groups",
+    "title": "Schema field groups endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/schema-field-groups-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/suggested-values",
+    "title": "Manage suggested values in the API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/manage-suggested-values-in-the-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/etl/home",
+    "title": "Developing ETL Integrations for Adobe Experience Platform",
+    "category": "overview",
+    "topic_path": "experience-platform/etl-guide",
+    "section_slug": null,
+    "saved_path": "AEP/developing-etl-integrations-for-adobe-experience-platform.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/api/list-objects",
+    "title": "List Catalog objects",
+    "category": "reference",
+    "topic_path": "experience-platform/catalog-and-datasets-guide",
+    "section_slug": null,
+    "saved_path": "AEP/list-catalog-objects.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/queries",
+    "title": "Queries endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/query-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/queries-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/connection-parameters",
+    "title": "Connection parameters endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/query-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connection-parameters-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/runs-scheduled-queries",
+    "title": "Scheduled query runs endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/query-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/scheduled-query-runs-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/query-templates",
+    "title": "Query templates endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/query-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/query-templates-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/accelerated-queries",
+    "title": "Accelerated queries endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/query-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/accelerated-queries-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/alert-subscriptions",
+    "title": "Alert Subscriptions endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/query-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/alert-subscriptions-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/destinations",
+    "title": "Destinations dashboard",
+    "category": "guides",
+    "topic_path": "experience-platform/dashboards-guide",
+    "section_slug": null,
+    "saved_path": "AEP/destinations-dashboard.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/streaming-record-data",
+    "title": "Stream record data using Streaming Ingestion APIs",
+    "category": "tutorials",
+    "topic_path": "experience-platform/data-ingestion-guide",
+    "section_slug": null,
+    "saved_path": "AEP/stream-record-data-using-streaming-ingestion-apis.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/observability/api/getting-started",
+    "title": "Getting started with the Observability Insights API",
+    "category": "reference",
+    "topic_path": "experience-platform/observability-insights-guide",
+    "section_slug": null,
+    "saved_path": "AEP/getting-started-with-the-observability-insights-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/appendix",
+    "title": "Privacy Service API guide appendix",
+    "category": "reference",
+    "topic_path": "experience-platform/privacy-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/privacy-service-api-guide-appendix.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/consent",
+    "title": "Consent endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/privacy-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/consent-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/enforcement/api-enforcement",
+    "title": "Enforce data usage policies using the Policy Service API",
+    "category": "reference",
+    "topic_path": "experience-platform/data-governance-guide",
+    "section_slug": null,
+    "saved_path": "AEP/enforce-data-usage-policies-using-the-policy-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/tutorials/governance",
+    "title": "Enforce data usage compliance for a segment definition using APIs",
+    "category": "tutorials",
+    "topic_path": "experience-platform/segmentation-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/enforce-data-usage-compliance-for-a-segment-definition-using-apis.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/streaming-destinations",
+    "title": "Connect to streaming destinations and activate data using the Flow Service API",
+    "category": "reference",
+    "topic_path": "experience-platform/destinations-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-to-streaming-destinations-and-activate-data-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/api/types",
+    "title": "Sandbox Types endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/sandboxes-guide",
+    "section_slug": null,
+    "saved_path": "AEP/sandbox-types-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/intelligent-services/customer-ai/user-guide/create-segment",
+    "title": "Create customer segments with predicted scores",
+    "category": "guides",
+    "topic_path": "experience-platform/intelligent-services-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-customer-segments-with-predicted-scores.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/intelligent-services/customer-ai/user-guide/download-scores",
+    "title": "Download scores in Customer AI",
+    "category": "guides",
+    "topic_path": "experience-platform/intelligent-services-guide",
+    "section_slug": null,
+    "saved_path": "AEP/download-scores-in-customer-ai.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/account-profiles",
+    "title": "Account Profiles dashboard",
+    "category": "guides",
+    "topic_path": "experience-platform/dashboards-guide",
+    "section_slug": null,
+    "saved_path": "AEP/account-profiles-dashboard.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/identity/api/list-native-id",
+    "title": "Get the native ID for an identity",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-platform-identity-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/get-the-native-id-for-an-identity.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/draft",
+    "title": "Draft dataflows in the UI",
+    "category": "tutorials",
+    "topic_path": "sources/ui-tutorials/draft",
+    "section_slug": null,
+    "saved_path": "AEP/draft-dataflows-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/draft",
+    "title": "Create drafts of your Flow Service entities using the API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-drafts-of-your-flow-service-entities-using-the-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/classes",
+    "title": "Classes endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/classes-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/api/appendix",
+    "title": "Sandbox API guide appendix",
+    "category": "reference",
+    "topic_path": "experience-platform/sandboxes-guide",
+    "section_slug": null,
+    "saved_path": "AEP/sandbox-api-guide-appendix.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/assets/guides/sample-email-submit-destination",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/assets/guides/sample-email-submit-destination"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/api/create-dataset",
+    "title": "Create a dataset in the API",
+    "category": "reference",
+    "topic_path": "experience-platform/catalog-and-datasets-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataset-in-the-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/update-dataflows",
+    "title": "Update dataflows using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/update-dataflows-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/update",
+    "title": "Update accounts using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/update-accounts-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/delete-dataflows",
+    "title": "Delete a dataflow using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/delete-a-dataflow-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/delete",
+    "title": "Delete an account using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/delete-an-account-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/api/effective-policies",
+    "title": "Effective policies endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/access-control-guide",
+    "section_slug": null,
+    "saved_path": "AEP/effective-policies-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/create-authenticated-streaming-connection",
+    "title": "Create an authenticated streaming connection",
+    "category": "tutorials",
+    "topic_path": "experience-platform/data-ingestion-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-authenticated-streaming-connection.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/streaming-multiple-messages",
+    "title": "Send multiple messages in a single HTTP request",
+    "category": "tutorials",
+    "topic_path": "experience-platform/data-ingestion-guide",
+    "section_slug": null,
+    "saved_path": "AEP/send-multiple-messages-in-a-single-http-request.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/query/data-governance/audit-log-guide",
+    "title": "Query Service audit log integration",
+    "category": "guides",
+    "topic_path": "experience-platform/query-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/query-service-audit-log-integration.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/behaviors",
+    "title": "Behaviors endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/behaviors-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/export",
+    "title": "Export endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/export-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/import",
+    "title": "Import endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/import-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/sample-data",
+    "title": "Sample data endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/sample-data-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/appendix",
+    "title": "Schema Registry API guide appendix",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/schema-registry-api-guide-appendix.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/assurance/tutorials/implement-assurance",
+    "title": "Implementing the Adobe Experience Platform Assurance extension",
+    "category": "tutorials",
+    "topic_path": "experience-platform/assurance-guide",
+    "section_slug": null,
+    "saved_path": "AEP/implementing-the-adobe-experience-platform-assurance-extension.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/guides/secrets",
+    "title": "Secrets in the Reactor API",
+    "category": "guides",
+    "topic_path": "experience-platform/tags",
+    "section_slug": null,
+    "saved_path": "AEP/secrets-in-the-reactor-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/secrets",
+    "title": "Secrets endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/tags",
+    "section_slug": null,
+    "saved_path": "AEP/secrets-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-prep/api/getting-started",
+    "title": "Getting started with the Data Prep API getting-started",
+    "category": "reference",
+    "topic_path": "experience-platform/data-prep-guide",
+    "section_slug": null,
+    "saved_path": "AEP/getting-started-with-the-data-prep-api-getting-started.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-prep/api/functions",
+    "title": "Functions endpoints",
+    "category": "reference",
+    "topic_path": "experience-platform/data-prep-guide",
+    "section_slug": null,
+    "saved_path": "AEP/functions-endpoints.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/intelligent-services/attribution-ai/user-guide",
+    "title": "Attribution AI UI guide",
+    "category": "guides",
+    "topic_path": "experience-platform/intelligent-services-guide",
+    "section_slug": null,
+    "saved_path": "AEP/attribution-ai-ui-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/identity/features/identity-graph-linking-rules/implementation-guide",
+    "title": "Implementation guide for Identity Graph Linking Rules",
+    "category": "guides",
+    "topic_path": "experience-platform/experience-platform-identity-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/implementation-guide-for-identity-graph-linking-rules.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/api/marketing-actions",
+    "title": "Marketing actions endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/data-governance-guide",
+    "section_slug": null,
+    "saved_path": "AEP/marketing-actions-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/edit-destination",
+    "title": "Edit destination connections using the Flow Service API",
+    "category": "reference",
+    "topic_path": "experience-platform/destinations-guide",
+    "section_slug": null,
+    "saved_path": "AEP/edit-destination-connections-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/monitor",
+    "title": "Monitor dataflows in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/monitor-dataflows-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/map-csv/existing-schema",
+    "title": "Map a CSV file to an existing XDM schema",
+    "category": "tutorials",
+    "topic_path": "experience-platform/data-ingestion-guide",
+    "section_slug": null,
+    "saved_path": "AEP/map-a-csv-file-to-an-existing-xdm-schema.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/audiences",
+    "title": "Audiences endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/segmentation-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/audiences-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/segment-search",
+    "title": "Segment Search endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/segmentation-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/segment-search-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment",
+    "title": "Create a dataset for exporting an audience",
+    "category": "tutorials",
+    "topic_path": "experience-platform/segmentation-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-dataset-for-exporting-an-audience.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/api/permissions-and-resource-types",
+    "title": "Reference endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/access-control-guide",
+    "section_slug": null,
+    "saved_path": "AEP/reference-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/api/policies",
+    "title": "Data governance policies endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/data-governance-guide",
+    "section_slug": null,
+    "saved_path": "AEP/data-governance-policies-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/api/evaluation",
+    "title": "Policy evaluation endpoints",
+    "category": "reference",
+    "topic_path": "experience-platform/data-governance-guide",
+    "section_slug": null,
+    "saved_path": "AEP/policy-evaluation-endpoints.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/engines",
+    "title": "Engines endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/data-science-workspace-guide",
+    "section_slug": null,
+    "saved_path": "AEP/engines-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/experiments",
+    "title": "Experiments endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/data-science-workspace-guide",
+    "section_slug": null,
+    "saved_path": "AEP/experiments-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/insights",
+    "title": "Insights endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/data-science-workspace-guide",
+    "section_slug": null,
+    "saved_path": "AEP/insights-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/mlinstances",
+    "title": "MLInstances endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/data-science-workspace-guide",
+    "section_slug": null,
+    "saved_path": "AEP/mlinstances-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/mlservices",
+    "title": "MLServices endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/data-science-workspace-guide",
+    "section_slug": null,
+    "saved_path": "AEP/mlservices-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/models",
+    "title": "Models endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/data-science-workspace-guide",
+    "section_slug": null,
+    "saved_path": "AEP/models-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/appendix",
+    "title": "Adobe AI Machine Learning API guide appendix",
+    "category": "reference",
+    "topic_path": "experience-platform/data-science-workspace-guide",
+    "section_slug": null,
+    "saved_path": "AEP/adobe-ai-machine-learning-api-guide-appendix.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/streaming-time-series-data",
+    "title": "Stream time-series data using Streaming Ingestion APIs",
+    "category": "tutorials",
+    "topic_path": "experience-platform/data-ingestion-guide",
+    "section_slug": null,
+    "saved_path": "AEP/stream-time-series-data-using-streaming-ingestion-apis.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/templates",
+    "title": "Create a sources dataflow using templates in the UI create-a-sources-dataflow-using-templates-in-the-ui",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-sources-dataflow-using-templates-in-the-ui-create-a-sources-dataflow-using-templates-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/filter",
+    "title": "Filter sources objects in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/filter-sources-objects-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/monitor-streaming",
+    "title": "Monitor Dataflows for Streaming Sources in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/monitor-dataflows-for-streaming-sources-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/%5Bhttps:/www.adobe.io/experience-platform-apis/references/flow-service/%5D(https:/www.adobe.io/experience-platform-apis/references/flow-service/)",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/%5Bhttps:/www.adobe.io/experience-platform-apis/references/flow-service/%5D(https:/www.adobe.io/experience-platform-apis/references/flow-service/)"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/%5Bhttps:/www.adobe.io/experience-platform-apis/references/flow-service/%5D(https:/www.adobe.io/experience-platform-apis/references/flow-service/)",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/%5Bhttps:/www.adobe.io/experience-platform-apis/references/flow-service/%5D(https:/www.adobe.io/experience-platform-apis/references/flow-service/)"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/customer-success/%5Bhttps:/www.adobe.io/experience-platform-apis/references/flow-service/%5D(https:/www.adobe.io/experience-platform-apis/references/flow-service/)",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/customer-success/%5Bhttps:/www.adobe.io/experience-platform-apis/references/flow-service/%5D(https:/www.adobe.io/experience-platform-apis/references/flow-service/)"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/oracle-eloqua",
+    "title": "Create an Oracle Eloqua base connection using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-oracle-eloqua-base-connection-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/oracle-eloqua",
+    "title": "Create an Oracle Eloqua source connection using Experience Platform UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-an-oracle-eloqua-source-connection-using-experience-platform-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/%5Bhttps:/www.adobe.io/experience-platform-apis/references/flow-service/%5D(https:/www.adobe.io/experience-platform-apis/references/flow-service/)",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/%5Bhttps:/www.adobe.io/experience-platform-apis/references/flow-service/%5D(https:/www.adobe.io/experience-platform-apis/references/flow-service/)"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/connectors/marketing-automation/%5Bhttps:/developer.salesforce.com/docs/marketing/marketing-cloud/guide/data-access-permissions.html%5D(https:/developer.salesforce.com/docs/marketing/marketing-cloud/guide/data-access-permissions.html)",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/en/docs/experience-platform/sources/connectors/marketing-automation/%5Bhttps:/developer.salesforce.com/docs/marketing/marketing-cloud/guide/data-access-permissions.html%5D(https:/developer.salesforce.com/docs/marketing/marketing-cloud/guide/data-access-permissions.html)"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/connectors/marketing-automation/%5Bhttps:/developer.salesforce.com/docs/marketing/marketing-cloud/guide/rest-permissions-and-scopes.html%5D(https:/developer.salesforce.com/docs/marketing/marketing-cloud/guide/rest-permissions-and-scopes.html)",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/en/docs/experience-platform/sources/connectors/marketing-automation/%5Bhttps:/developer.salesforce.com/docs/marketing/marketing-cloud/guide/rest-permissions-and-scopes.html%5D(https:/developer.salesforce.com/docs/marketing/marketing-cloud/guide/rest-permissions-and-scopes.html)"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/salesforce-marketing-cloud",
+    "title": "Connect Salesforce Marketing Cloud to Experience Platform using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-salesforce-marketing-cloud-to-experience-platform-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/salesforce-marketing-cloud",
+    "title": "Connect your Salesforce Marketing Cloud account to Experience Platform through the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/connect-your-salesforce-marketing-cloud-account-to-experience-platform-through-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/explore/payments",
+    "title": "Explore a payment system using the Flow Service API",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/explore-a-payment-system-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/field-deprecation-ui",
+    "title": "Deprecate an XDM field in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/deprecate-an-xdm-field-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/identity/api/list-cluster-history",
+    "title": "Get the cluster history of an identity",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-platform-identity-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/get-the-cluster-history-of-an-identity.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/api/look-up-object",
+    "title": "Look up a Catalog object",
+    "category": "reference",
+    "topic_path": "experience-platform/catalog-and-datasets-guide",
+    "section_slug": null,
+    "saved_path": "AEP/look-up-a-catalog-object.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/create-streaming-connection-ui",
+    "title": "Create a streaming connection using the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/data-ingestion-guide",
+    "section_slug": null,
+    "saved_path": "AEP/create-a-streaming-connection-using-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/overview",
+    "title": "Reactor API guide",
+    "category": "reference",
+    "topic_path": "experience-platform/tags",
+    "section_slug": null,
+    "saved_path": "AEP/reactor-api-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/%5Bhttps:/www.adobe.io/experience-platform-apis/references/flow-service/%5D(https:/www.adobe.io/experience-platform-apis/references/flow-service/)",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/%5Bhttps:/www.adobe.io/experience-platform-apis/references/flow-service/%5D(https:/www.adobe.io/experience-platform-apis/references/flow-service/)"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/delete-accounts",
+    "title": "Delete source connection accounts",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/delete-source-connection-accounts.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/csv-to-schema",
+    "title": "CSV template to schema conversion API endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-data-model-xdm-guide",
+    "section_slug": null,
+    "saved_path": "AEP/csv-template-to-schema-conversion-api-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/environments",
+    "title": "Environments endpoint",
+    "category": "reference",
+    "topic_path": "tags/api/endpoints",
+    "section_slug": null,
+    "saved_path": "AEP/environments-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/getting-started",
+    "title": "Authenticate and access the Reactor API",
+    "category": "reference",
+    "topic_path": "experience-platform/tags",
+    "section_slug": null,
+    "saved_path": "AEP/authenticate-and-access-the-reactor-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/guides/relationships",
+    "title": "Relationships in the Reactor API",
+    "category": "guides",
+    "topic_path": "experience-platform/tags",
+    "section_slug": null,
+    "saved_path": "AEP/relationships-in-the-reactor-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/delete-destination-account",
+    "title": "Delete a destination account using the Flow Service API",
+    "category": "reference",
+    "topic_path": "experience-platform/destinations-guide",
+    "section_slug": null,
+    "saved_path": "AEP/delete-a-destination-account-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/on-demand-ingestion",
+    "title": "On-demand ingestion for sources dataflows in the UI",
+    "category": "tutorials",
+    "topic_path": "experience-platform/source-connectors-guide",
+    "section_slug": null,
+    "saved_path": "AEP/on-demand-ingestion-for-sources-dataflows-in-the-ui.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/identity/api/list-identity-mappings",
+    "title": "List identity mappings",
+    "category": "reference",
+    "topic_path": "experience-platform/experience-platform-identity-service-guide",
+    "section_slug": null,
+    "saved_path": "AEP/list-identity-mappings.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/api/appendix",
+    "title": "Catalog Service API guide appendix",
+    "category": "reference",
+    "topic_path": "experience-platform/catalog-and-datasets-guide",
+    "section_slug": null,
+    "saved_path": "AEP/catalog-service-api-guide-appendix.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/companies",
+    "title": "Companies endpoint",
+    "category": "reference",
+    "topic_path": "tags/api/endpoints",
+    "section_slug": null,
+    "saved_path": "AEP/companies-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/properties",
+    "title": "Properties endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/tags",
+    "section_slug": null,
+    "saved_path": "AEP/properties-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/data-elements",
+    "title": "Data elements endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/tags",
+    "section_slug": null,
+    "saved_path": "AEP/data-elements-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/rules",
+    "title": "Rules endpoint",
+    "category": "reference",
+    "topic_path": "tags/api/endpoints",
+    "section_slug": null,
+    "saved_path": "AEP/rules-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/extension-packages",
+    "title": "Extension packages endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/tags",
+    "section_slug": null,
+    "saved_path": "AEP/extension-packages-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/extensions",
+    "title": "Extensions endpoint",
+    "category": "reference",
+    "topic_path": "tags/api/endpoints",
+    "section_slug": null,
+    "saved_path": "AEP/extensions-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/libraries",
+    "title": "Libraries endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/tags",
+    "section_slug": null,
+    "saved_path": "AEP/libraries-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/builds",
+    "title": "Builds endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/tags",
+    "section_slug": null,
+    "saved_path": "AEP/builds-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/hosts",
+    "title": "Hosts endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/tags",
+    "section_slug": null,
+    "saved_path": "AEP/hosts-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/app-configurations",
+    "title": "App configurations endpoint",
+    "category": "reference",
+    "topic_path": "tags/api/endpoints",
+    "section_slug": null,
+    "saved_path": "AEP/app-configurations-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/audit-events",
+    "title": "Audit events endpoint",
+    "category": "reference",
+    "topic_path": "tags/api/endpoints",
+    "section_slug": null,
+    "saved_path": "AEP/audit-events-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/callbacks",
+    "title": "Callbacks endpoint",
+    "category": "reference",
+    "topic_path": "tags/api/endpoints",
+    "section_slug": null,
+    "saved_path": "AEP/callbacks-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/profile",
+    "title": "Profile endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/tags",
+    "section_slug": null,
+    "saved_path": "AEP/profile-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/search",
+    "title": "Search endpoint",
+    "category": "reference",
+    "topic_path": "experience-platform/tags",
+    "section_slug": null,
+    "saved_path": "AEP/search-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/assets/sample-csv-template",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/en/docs/experience-platform/xdm/assets/sample-csv-template"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/guides/filtering",
+    "title": "Filtering responses in the Reactor API",
+    "category": "guides",
+    "topic_path": "tags/api/guides",
+    "section_slug": null,
+    "saved_path": "AEP/filtering-responses-in-the-reactor-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/rule-components",
+    "title": "Rule components endpoint",
+    "category": "reference",
+    "topic_path": "tags/api/endpoints",
+    "section_slug": null,
+    "saved_path": "AEP/rule-components-endpoint.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/assets/DSW-course-sample-assets",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/assets/DSW-course-sample-assets"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/delete-destination-dataflow",
+    "title": "Delete a destination dataflow using the Flow Service API",
+    "category": "reference",
+    "topic_path": "experience-platform/destinations-guide",
+    "section_slug": null,
+    "saved_path": "AEP/delete-a-destination-dataflow-using-the-flow-service-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/guides/encrypting-values",
+    "title": "Encrypting values",
+    "category": "guides",
+    "topic_path": "experience-platform/tags",
+    "section_slug": null,
+    "saved_path": "AEP/encrypting-values.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/guides/delegate-descriptor-ids",
+    "title": "Delegate descriptor IDs",
+    "category": "guides",
+    "topic_path": "tags/api/guides",
+    "section_slug": null,
+    "saved_path": "AEP/delegate-descriptor-ids.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/guides/search",
+    "title": "Searching resources in the Reactor API",
+    "category": "guides",
+    "topic_path": "tags/api/guides",
+    "section_slug": null,
+    "saved_path": "AEP/searching-resources-in-the-reactor-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-platform/tags/event-forwarding/guided-setup",
+    "title": "Event Forwarding guided setup overview",
+    "category": "guides",
+    "topic_path": "tags/event-forwarding/guided-setup",
+    "section_slug": null,
+    "saved_path": "AEP/event-forwarding-guided-setup-overview.md",
+    "status": "saved"
+  }
+]

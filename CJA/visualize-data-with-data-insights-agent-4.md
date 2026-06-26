@@ -1,0 +1,257 @@
+---
+title: "Visualize data with Data Insights Agent"
+url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai"
+category: "overview"
+topic: "analytics-platform/using/cja-overview/cja-b2c-overview"
+created_at: "2026-06-23T20:42:46.374694+00:00"
+---
+Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
+
+# Visualize data with Data Insights Agent
+
+Last update: June 5, 2026
+- Topics:
+- [Analytics dashboards](#)
+- [Analysis Workspace](#)
+- [Components](#)
+
+CREATED FOR:
+
+- User
+- Admin
+
+AVAILABILITY
+Data Insights Agent is available to eligible customers for a limited time. Access to Data Insights Agent is available through March 31, 2026. To continue using Data Insights Agent beyond this date without interruption, please contact your Adobe account representative to learn more about licensing Adobe Experience Platform Agent Orchestrator.
+Data Insights Agent, accessible from the [AI Assistant](/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant) in Customer Journey Analytics, is a generative AI conversation agent that quickly and efficiently answers questions about your data. It builds relevant visualizations in Analysis Workspace using components from your data view and your actual data.
+
+Using Data Insights Agent to answer data-centric questions in Analysis Workspace can save significant time that you might otherwise spend manually building visualizations in Analysis Workspace and familiarizing yourself with your data view components.
+
+## In-scope vs. out-of-scope features
+
+Feature
+In scope
+Out of scope
+Visualization types
+- Line
+- Multi-line
+- Freeform table
+- Bar
+- Donut
+- Summary number
+
+- Flow
+- Fallout
+- Cohort Table
+- Area, Area Stacked
+- Bar Stacked
+- Bullet
+- Combo
+- Histogram
+- Horizontal Bar, Horizontal Bar Stacked
+- Key Metric Summary
+- Scatter
+- Summary Change
+- Text
+- Treemap
+- Venn
+- Guided analysis: Active growth, Conversion trends, Engagement, First use impact, Frequency, Funnel, Net growth, Release impact, Retention, Timeline, Trends
+
+Workspace actions and agent capabilities
+- Build and update visualizations Generates a freeform table and associated visualization (such as a line, bar, donut, and so forth). For example, What is the profit across SKUs from February to May?
+- Ask follow-up questions Respond to a prompt in the context from any prior prompts. For example: Prompt 1: Trend events from March. Prompt 2: Show me the data from March to April instead
+- Out-of-scope prompt detection If you submit a prompt that is out of scope, such as Export this project , Data Insights Agent responds by informing you that the question is out of scope.
+
+- Share
+- Export
+- Download
+- Manage user preferences
+- Manage data view
+- Analytics Dashboards app
+- Attribution
+- In-line summary or response Data Insights Agent cannot respond in-line in the chat rail with a summary answer of a user prompt. Examples of out-of-scope prompts are, Give me a summary of the insights from my last prompt and Summarize the highlights from the line visualization.
+
+Clarifying questions
+If you ask a question that does not have enough context for Data Insights Agent to answer, or is too generic, Data Insights Agent responds with a clarifying question or suggested options.
+
+The following clarifying questions are examples of component-related questions:
+
+- Metric: *Which “revenue” metric did you mean?*
+- Dimension: *Which of the below “regions” do you want to focus on?*
+- Segment: *Which “Account” segment did you want to apply?*
+- Date Range: *By “last month,” did you mean the last full month or the last 30 days?*
+
+The following clarifying question is an example of a question related to dimension items:
+
+- Which “store name” did you mean? (For example, Store #5274, Store #2949, and so forth.)
+
+Clarifying questions are limited to components and dimension items. Data Insights Agent cannot clarify things such as data views, visualizations, data granularity, comparison, and scope. When clarifying questions cannot be used, the agent defaults to what you are most likely asking for. If it returns an unexpected visualization or data granularity, you can ask a follow-up question or adjust the visualization and data.
+Data verifiability and correctness
+Data verifiability and correctness can be confirmed by viewing the generated freeform table and data visualization.
+
+For example, if you ask Data Insights Agent to *Trend orders last month*, you can confirm that the correct metric (“orders”) and date range (“last month”) were selected in the newly generated panel, data visualization, and freeform table.
+
+Data Insights Agent does not respond by informing you which components or visualizations were added.
+Feedback mechanisms
+- Thumbs up
+- Thumbs down
+- Flag
+
+## Manage access to Data Insights Agent manage-access
+
+The following parameters govern access to Data Insights Agent in Customer Journey Analytics:
+
+- Solution access : Data Insights Agent is available for eligible customers for a limited time. Access to Data Insights Agent is available through February 28, 2026. It is not available in Adobe Analytics.
+- Contractual access : If you are not able to use Data Insights Agent in the AI Assistant, please contact your organization’s administrator or Adobe account team. Before your organization can use Data Insights Agent, you must agree to certain legal terms related to generative AI.
+- Permissions : Necessary permissions must be granted in the Adobe Admin Console before users can access Data Insights Agent. To grant permissions, a product profile administrator must complete the following steps in the Admin Console: In the Admin Console , select the Products tab to view the All products and services page. Select Customer Journey Analytics . On the Product Profiles tab, select the title of the product profile for which you want to provide access to AI Assistant: Product Knowledge. In the specific product profile, select the Permissions tab. In the Reporting Tools row in the provided table, select the edit icon . Scroll to or search for AI Assistant: Product Knowledge , then select the plus icon next to this permission. Scroll to or search for Data Insights Agent , then select the plus icon next to this permission. The AI Assistant: Product Knowledge permission and the Data Insights Agent permission are added to the Included permission items column. . Select Save to save the permissions. For additional information about access control, see Access control .
+- Data view access : Data views must be enabled for Data Insights Agent. note important IMPORTANT Consider the following when enabling data views: You can enable a maximum of 50 data views per IMS organization. If you enable more than 50 data views across all product profiles for a given organization, the Data Insights Agent will use the 50 most-used data views. You can use the info on the Data Insights Agent column in Data views to view the number of data views that are enabled for Data Insights Agent in your IMS organization. The Data Insights Agent can reference the included data views sometime during the same day that you enable them. To enable data views for Data Insights Agent: In Customer Journey Analytics, select Data Management > Data views . Select one or more data views that you want to enable for Data Insights Agent, then select Enable for Data Insights Agent . For more information about enabling data views for Data Insights Agent, see the AI Settings for a data view . To view the number of data views that are enabled for Data Insights Agent in your IMS organization: In Customer Journey Analytics, select Data Management > Data views . Select the info icon at the top of the Data Insights Agent column.
+
+## Access Data Insights Agent in the AI Assistant
+
+- Go to experience.adobe.com and log in with your Adobe ID.
+- Select Customer Journey Analytics from Adobe CX Enterprise Home.
+- Select Blank project in the banner at the top of the projects page to open a new blank project.
+- Ensure that the selected data view for the panel is a data view that was enabled for use with Data Insights Agent, as described in Manage access to Data Insights Agent in Customer Journey Analytics .
+- Select the AI Assistant chat icon at the top-right area of the page. If you do not see the chat icon, contact your administrator so they can enable the following features in the Admin Console: Reporting Tools: AI Assistant: Product Knowledge Data View Tools: Data Insights Agent For additional details, see Manage access to Data Insights Agent in Customer Journey Analytics .
+- In the Ask about Customer Journey Analytics dialog at the bottom of the page, ask a data visualization question using Data Insights Agent. For more information, see the following examples.
+
+### Example 1
+
+For example, let’s say you are interested in the orders your business received in July.
+
+**Prompt:** Enter *“Trend orders in July.”*
+
+**Response:** Data Insights Agent gathers insights by looking through the data in the data view, including the metrics and components. It translates the prompt into the right dimensions and metrics within the data range.
+
+As you can see, it automatically generated a line graph and a freeform table to show orders for July.
+
+### Example 2
+
+Next, you want to see how your revenue compares by region.
+
+**Prompt:** In the prompt window, enter *“Show revenue by region.”*
+
+**Response:** Data Insights Agent intelligently understands that by “region,” you mean “customer region.” It produces a bar chart that best shows revenue by region:
+
+### Example 3
+
+Next, in addition to understanding revenue by region, you also want to see data for profit by region. Instead of repeating the previous prompt, you can ask Data Insights Agent to update the most recent visualization and freeform table.
+
+**Prompt:** In the prompt window, type *“Add profit.”*
+
+**Response:** The **Bar** chart still provides the most concise answer, but the profit metric has been added as a column in the freeform table:
+
+### Example 4
+
+Finally, let’s look at the revenue by product category.
+
+**Prompt:** In the prompt window, enter *“Proportion of revenue by product category.”*
+
+**Response:** Again, Data Insights Agent picks the most appropriate visualization, in this case the **Donut** visualization, to answer the question.
+
+## Access Data Insights Agent across CX Enterprise applications
+
+Adobe Experience Platform Agent Orchestrator allows you to access the functionality of Data Insights Agent in multiple CX Enterprise applications, such as Adobe Journey Optimizer and Real-Time CDP.
+
+Agent Orchestrator interprets your request, determines which specialized agents are needed, and orchestrates them to deliver the right response. It keeps track of context across multi-turn interactions, so you can build on prior queries naturally.
+
+For more information, see [Adobe Experience Platform Agent Orchestrator](https://business.adobe.com/products/experience-platform/agent-orchestrator.html).
+
+## Example data visualization prompts
+
+The following are some examples of common prompts and the visualizations used by Data Insights Agent to respond to those prompts.
+
+Example prompt
+Expected visualization
+Show me profits in [Month]
+Line
+
+Asking for a trend or metric within a certain time range by default returns a line visualization.
+
+Trend orders in [Month]
+Line
+Show revenue by region in [Month]
+Bar
+Share of revenue by product category
+Donut
+Orders by day of week, from January to May
+Bar
+Show orders by gender, from March to June
+Bar
+What is the profit across SKUs from February to May
+Bar
+Revenue by store name in [Month]
+Bar
+What were my top 10 SKUs by profit in [Month]?
+Bar
+Proportion of purchases by month of year
+Donut
+Total profit in [Month]
+Summary Number
+
+Asking for the “total” of a metric across a certain time range should return a Summary number visualization.
+
+## Prompting best practices
+
+Data Insights Agent processes the context provided by each user prompt and tries to respond intelligently with the most appropriate visualization and components in a freeform table.
+
+Responses can vary based on the specific words and phrases used in the prompt, and slight changes in language can lead to different results.
+
+To achieve the best results, consider the following guidelines:
+
+- Be specific: Include exact terms to narrow down the response. The following is an example of a specific prompt: “Last month’s sales in California”
+- Use clear metrics, dimensions, and segments: Adding specific metrics (such as “Revenue”), dimensions (such as “website name”), segments (such as “iPhone users”), and date ranges (such as “last three months”) helps Data Insights Agent focus on the right data.
+- Ask direct questions: Phrasing questions directly makes it easier for Data Insights Agent to provide clear, relevant insights. The following is an example of asking a direct question in a prompt: “What is the average revenue by product category this year?”
+
+Review the following table of example terms and phrases that you can use in prompts with Data Insights Agent, along with the types of responses you can expect.
+
+These examples are designed to help you get familiar with how specific words or structures can influence the output of the Data Insights Agent, ensuring more precise and valuable insights. Data Insights Agent uses generative AI, so visualizations or selected data may vary slightly across similar prompts.
+
+Desired outcome
+Example terms and phrases
+Summary number visualization
+- Total
+
+Compare components
+- Compare
+- VS
+- Contrast
+- Week-to-Week
+- Month-over-Month
+- Quarter-over-Quarter
+- Year-over-Year
+
+Donut visualization
+- Proportion
+- Share of
+- Distribution
+- Percentage
+- Contribution
+- Portion
+- Parts
+
+Line visualization
+- Trend
+- [Metric] in [Time range]
+
+Bar visualization
+- [Metric] by [Dimension]
+
+## Configuration best practices
+
+Below are best practices for your Customer Journey Analytics configuration (data view, calculated metrics, segments, and more) to ensure that the Data Insights Agent can locate the correct components and return cleaner answers without having to prompt you for additional information.
+
+- **Balance what components you need**. Do not add all the fields of your datasets as metrics or dimension components to your data view, especially those you don’t expect to use in your analysis. On the other hand, do not strictly limit yourself only to the fields you anticipate you require for your analysis. A too limited data view restricts the flexibility in your analysis and the Data Insights Agent functionality.
+- **Always use friendly display names**. Ensure that all fields you define in your data view, either as a metric or dimension component, have a friendly component name. The process of renaming fields with a friendly name is especially relevant for fields from Adobe Analytics source connector datasets. These fields often have non-friendly unidentifiable names, like eVar41 or prop25.
+- **Use distinctive names**. Distinctive names are especially relevant when you use the same field as both a metric and a dimension component in your data view. Or when you use a field in multiple components of the same type (such as in two different metrics), each with different component settings.
+- **Use a component naming convention**. You can use a component naming convention to group components. For example, **Orders | Product** and **Orders | Customer** can distinguish between different order metrics that might exist in your data.
+- **Use the Data Dictionary**. Add descriptions and other relevant data for components in the Data Dictionary. The Data Insights Agent currently does not use description and tags from the Data Dictionary, but it might in the future.
+- **Use approved calculated metrics**. Agree on a process to use only approved calculated metrics as components in your data view, and avoid using experimental calculated metrics.
+- **Share required segments**. Ensure that you share segments and make segments visible that are required for Data Insights Agent prompts.
+- **Standardize on component names across data views**. If you use the same fields as a component in multiple data views, ensure that you use a single friendly name and a single identifier for that component. A single name and identifier allows the Data Insights Agent to switch data views without losing context.
+
+Related Articles
+Component settings
+Data Dictionary
+Approve calculated metric
+Share segments
+recommendation-more-help

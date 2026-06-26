@@ -1,0 +1,571 @@
+---
+title: "Schedules endpoint"
+url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/scheduled-queries"
+category: "reference"
+topic: "experience-platform/query-service-guide"
+created_at: "2026-05-29T17:01:19.179484+00:00"
+---
+Breadcrumbs: Documentation > Experience Platform > Query Service Guide
+
+# Schedules endpoint
+
+Last update: May 23, 2026
+- Topics:
+- [Queries](#)
+
+CREATED FOR:
+
+- Developer
+
+Learn how to create, manage, and monitor scheduled queries programmatically using the Query Service schedules API with detailed information and examples.
+
+## Requirements and prerequisites
+
+You can create scheduled queries using either a technical account (authenticated via OAuth Server-to-Server credentials) or a personal user account (user token). However, Adobe strongly recommends using a technical account to ensure uninterrupted, secure execution of scheduled queries—especially for long-term or production workloads.
+
+Queries created with a personal user account will fail if that user’s access is revoked or their account is disabled. Technical accounts provide greater stability because they are not tied to an individual user’s employment status or access rights.
+
+AVAILABILITY
+Support for scheduled queries without an end date is currently available to a limited set of customers.
+If this capability is enabled for your organization, you can create scheduled queries that run continuously without specifying an end date. In some system responses and UI views, schedules without an end date may appear with a far-future date such as
+31.12.9999
+.
+IMPORTANT
+Consider the following behavior when you manage scheduled queries:
+- Scheduled queries fail if the account used to create the schedule loses access or permissions.
+- You must disable a scheduled query before you delete it through the API or UI.
+
+For detailed guidance on account requirements, permission setup, and managing scheduled queries, see the [Query schedules documentation](/en/docs/experience-platform/query/ui/query-schedules#technical-account-user-requirements). For step-by-step instructions on creating and configuring a technical account, refer to [Developer Console setup](/en/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/set-up-developer-console-and-postman) and [End-to-end technical account setup](/en/docs/platform-learn/tutorial-comprehensive-technical/setup).
+
+## Sample API calls
+
+Once you have configured the necessary authentication headers (see the [API authentication guide](/en/docs/experience-platform/landing/platform-apis/api-authentication)), you can begin making calls to the Query Service API. The following sections demonstrate various API calls with general formats, example requests including required headers, and sample responses.
+
+### Retrieve a list of scheduled queries
+
+You can retrieve a list of all scheduled queries for your organization by making a GET request to the /schedules endpoint.
+
+**API format**
+
+```
+GET /schedules
+GET /schedules?{QUERY_PARAMETERS}
+```
+
+Property
+Description
+{QUERY_PARAMETERS}
+(
+Optional
+) Parameters added to the request path which configure the results returned in the response. Multiple parameters can be included, separated by ampersands (
+&
+). The available parameters are listed below.
+**Query parameters**
+
+The following is a list of available query parameters for listing scheduled queries. All of these parameters are optional. Making a call to this endpoint with no parameters will retrieve all scheduled queries available for your organization.
+
+Parameter
+Description
+orderby
+Specifies the field by which to order results. The supported fields are
+created
+and
+updated
+. For example,
+orderby=created
+will sort results by created in ascending order. Adding a
+-
+before created (
+orderby=-created
+) will sort items by created in descending order.
+limit
+Specifies the page size limit to control the number of results that are included in a page. (
+Default value: 20
+)
+start
+Specify an ISO format timestamp to order the results. If no start date is specified, the API call will return the oldest created scheduled query first, then continue to list more recent results.
+ISO timestamps allow for different levels of granularity in the date and time. The basic ISO timestamps take the format of:
+2020-09-07
+to express the date September 7, 2020. A more complex example would be written as
+2022-11-05T08:15:30-05:00
+and corresponds to November 5, 2022, 8:15:30 am, US Eastern Standard Time. A timezone can be provided with a UTC offset and is denoted by the suffix “Z” (
+2020-01-01T01:01:01Z
+). If no timezone is provided, it defaults to zero.
+property
+Filter results based on fields. The filters
+must
+be HTML escaped. Commas are used to combine multiple sets of filters. The supported fields are
+created
+,
+templateId
+, and
+userId
+. The list of supported operators are
+>
+(greater than),
+<
+(less than), and
+==
+(equal to). For example,
+userId==6ebd9c2d-494d-425a-aa91-24033f3abeec
+will return all scheduled queries where the user ID is as specified.
+**Request**
+
+The following request retrieves the latest scheduled query created for your organization.
+
+```
+curl -X GET https://platform.adobe.io/data/foundation/query/schedules?limit=1
+ -H 'Authorization: Bearer {ACCESS_TOKEN}' \
+ -H 'x-gw-ims-org-id: {ORG_ID}' \
+ -H 'x-api-key: {API_KEY}' \
+ -H 'x-sandbox-name: {SANDBOX_NAME}'
+```
+
+**Response**
+
+A successful response returns HTTP status 200 with a list of scheduled queries for the specified organization. The following response returns the latest scheduled query created for your organization.
+
+```
+{
+    "schedules": [
+        {
+            "state": "ENABLED",
+            "query": {
+                "dbName": "prod:all",
+                "sql": "SELECT * FROM accounts;",
+                "name": "Sample Scheduled Query",
+                "description": "A sample of a scheduled query."
+            },
+            "updatedUserId": "{USER_ID}",
+            "version": 2,
+            "id": "e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm",
+            "updated": "1578523458919",
+            "schedule": {
+                "schedule": "30 * * * *",
+                "startDate": "2020-01-08T12:30:00.000Z",
+                "maxActiveRuns": 1
+            },
+            "userId": "{USER_ID}",
+            "created": "1578523458919",
+            "_links": {
+                "enable": {
+                    "href": "https://platform.adobe.io/data/foundation/query/schedules/e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm",
+                    "method": "PATCH",
+                    "body": "{ \"op\": \"enable\" }"
+                },
+                "runs": {
+                    "href": "https://platform.adobe.io/data/foundation/query/schedules/e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm/runs",
+                    "method": "GET"
+                },
+                "self": {
+                    "href": "https://platform.adobe.io/data/foundation/query/schedules/e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm",
+                    "method": "GET"
+                },
+                "delete": {
+                    "href": "https://platform.adobe.io/data/foundation/query/schedules/e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm",
+                    "method": "DELETE"
+                },
+                "disable": {
+                    "href": "https://platform.adobe.io/data/foundation/query/schedules/e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm",
+                    "method": "PATCH",
+                    "body": "{ \"op\": \"disable\" }"
+                },
+                "trigger": {
+                    "href": "https://platform.adobe.io/data/foundation/query/schedules/e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm/runs",
+                    "method": "POST"
+                }
+            }
+        }
+    ],
+    "_page": {
+        "orderby": "+created",
+        "start": "2020-01-08T22:44:18.919Z",
+        "count": 1
+    },
+    "_links": {},
+    "version": 2
+}
+```
+
+### Create a new scheduled query
+
+You can create a new scheduled query by making a POST request to the /schedules endpoint. When you create a scheduled query in the API, you can also see it in the Query Editor. For more information on scheduled queries in the UI, please read the [Query Editor documentation](/en/docs/experience-platform/query/ui/user-guide#scheduled-queries).
+
+**API format**
+
+```
+POST /schedules
+```
+
+**Request**
+
+```
+curl -X POST https://platform.adobe.io/data/foundation/query/schedules
+ -H 'Authorization: Bearer {ACCESS_TOKEN}' \
+ -H 'x-gw-ims-org-id: {ORG_ID}' \
+ -H 'x-api-key: {API_KEY}' \
+ -H 'x-sandbox-name: {SANDBOX_NAME}'
+ -d '
+ {
+     "query": {
+         "dbName": "prod:all",
+         "sql": "SELECT * FROM accounts;",
+         "name": "Sample Scheduled Query",
+         "description": "A sample of a scheduled query."
+     },
+     "schedule": {
+         "schedule": "30 * * * *",
+         "startDate": "2020-01-08T12:30:00.000Z"
+     }
+ }
+ '
+```
+
+Property
+Description
+query.dbName
+The name of the database where the scheduled query will run.
+query.sql
+The SQL query to be executed on the defined schedule.
+query.name
+The name of the scheduled query.
+query.description
+An optional description for the scheduled query.
+schedule.schedule
+The cron schedule for the query. Refer to [Crontab.guru](https://crontab.guru/) for an interactive way to create, validate, and understand cron expressions. In this example, “30 * * * *” means that the query will run every hour at the 30 minute mark.Alternatively, you can use the following shorthand expressions:
+
+- @once: The query only runs once.
+- @hourly: The query runs every hour at the beginning of the hour. This is equivalent to the cron expression 0 * * * *.
+- @daily: The query runs once a day at midnight. This is equivalent to the cron expression 0 0 * * *.
+- @weekly: The query runs once a week, on Sunday, at midnight. This is equivalent to the cron expression 0 0 * * 0.
+- @monthly: The query runs once a month, on the first day of the month, at midnight. This is equivalent to the cron expression 0 0 1 * *.
+- @yearly: The query runs once a year, on January 1st, at midnight. This is equivalent to the cron expression 0 0 1 1 *.
+
+schedule.startDate
+The start date for your scheduled query, written as a UTC timestamp.
+**Response**
+
+A successful response returns HTTP status 202 (Accepted) with details of your newly created scheduled query. Once the scheduled query is finished activating, the state will change from REGISTERING to ENABLED.
+
+```
+{
+    "state": "REGISTERING",
+    "query": {
+        "dbName": "prod:all",
+        "sql": "SELECT * FROM accounts;",
+        "name": "Sample Scheduled Query",
+        "description": "A sample of a scheduled query."
+    },
+    "updatedUserId": "{USER_ID}",
+    "version": 2,
+    "id": "e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm",
+    "schedule": {
+        "schedule": "30 * * * *",
+        "startDate": "2020-01-08T12:30:00.000Z",
+        "maxActiveRuns": 1
+    },
+    "userId": "{USER_ID}",
+    "_links": {
+        "enable": {
+            "href": "https://platform.adobe.io/data/foundation/query/schedules/e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm",
+            "method": "PATCH",
+            "body": "{ \"op\": \"enable\" }"
+        },
+        "runs": {
+            "href": "https://platform.adobe.io/data/foundation/query/schedules/e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm/runs",
+            "method": "GET"
+        },
+        "self": {
+            "href": "https://platform.adobe.io/data/foundation/query/schedules/e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm",
+            "method": "GET"
+        },
+        "delete": {
+            "href": "https://platform.adobe.io/data/foundation/query/schedules/e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm",
+            "method": "DELETE"
+        },
+        "disable": {
+            "href": "https://platform.adobe.io/data/foundation/query/schedules/e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm",
+            "method": "PATCH",
+            "body": "{ \"op\": \"disable\" }"
+        },
+        "trigger": {
+            "href": "https://platform.adobe.io/data/foundation/query/schedules/e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm/runs",
+            "method": "POST"
+        }
+    }
+}
+```
+
+NOTE
+You can use the value of
+_links.delete
+to
+delete your created scheduled query
+.
+### Request details of a specified scheduled query
+
+You can retrieve information for a specific scheduled query by making a GET request to the /schedules endpoint and providing its ID in the request path.
+
+**API format**
+
+```
+GET /schedules/{SCHEDULE_ID}
+```
+
+Property
+Description
+{SCHEDULE_ID}
+The
+id
+value of the scheduled query you want to retrieve.
+**Request**
+
+```
+curl -X GET https://platform.adobe.io/data/foundation/query/schedules/e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm
+ -H 'Authorization: Bearer {ACCESS_TOKEN}' \
+ -H 'x-gw-ims-org-id: {ORG_ID}' \
+ -H 'x-api-key: {API_KEY}' \
+ -H 'x-sandbox-name: {SANDBOX_NAME}'
+```
+
+**Response**
+
+A successful response returns HTTP status 200 with details of the specified scheduled query.
+
+```
+{
+    "state": "ENABLED",
+    "query": {
+        "dbName": "prod:all",
+        "sql": "SELECT * FROM accounts;",
+        "name": "Sample Scheduled Query",
+        "description": "A sample of a scheduled query."
+    },
+    "updatedUserId": "{USER_ID}",
+    "version": 2,
+    "id": "e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm",
+    "updated": "1578523458919",
+    "schedule": {
+        "schedule": "30 * * * *",
+        "startDate": "2020-01-08T12:30:00.000Z",
+        "maxActiveRuns": 1
+    },
+    "userId": "{USER_ID}",
+    "created": "1578523458919",
+    "_links": {
+        "enable": {
+            "href": "https://platform.adobe.io/data/foundation/query/schedules/e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm",
+            "method": "PATCH",
+            "body": "{ \"op\": \"enable\" }"
+        },
+        "runs": {
+            "href": "https://platform.adobe.io/data/foundation/query/schedules/e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm/runs",
+            "method": "GET"
+        },
+        "self": {
+            "href": "https://platform.adobe.io/data/foundation/query/schedules/e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm",
+            "method": "GET"
+        },
+        "delete": {
+            "href": "https://platform.adobe.io/data/foundation/query/schedules/e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm",
+            "method": "DELETE"
+        },
+        "disable": {
+            "href": "https://platform.adobe.io/data/foundation/query/schedules/e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm",
+            "method": "PATCH",
+            "body": "{ \"op\": \"disable\" }"
+        },
+        "trigger": {
+            "href": "https://platform.adobe.io/data/foundation/query/schedules/e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm/runs",
+            "method": "POST"
+        }
+    }
+}
+```
+
+NOTE
+You can use the value of
+_links.delete
+to
+delete your created scheduled query
+.
+### Update details of a specified scheduled query
+
+You can update the details for a specified scheduled query by making a PATCH request to the /schedules endpoint and by providing its ID in the request path.
+
+The PATCH request supports two different paths: /state and /schedule/schedule.
+
+### Update scheduled query state
+
+You can update the state of the selected scheduled query by setting the path property to /state and the value property as either enable or disable.
+
+**API format**
+
+```
+PATCH /schedules/{SCHEDULE_ID}
+```
+
+Property
+Description
+{SCHEDULE_ID}
+The
+id
+value of the scheduled query you want to PATCH.
+**Request**
+
+This API request uses the JSON Patch syntax for its payload. For more information on how JSON Patch works, please read the API fundamentals document.
+
+```
+curl -X PATCH https://platform.adobe.io/data/foundation/query/schedules/e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm
+ -H 'Authorization: Bearer {ACCESS_TOKEN}' \
+ -H 'x-gw-ims-org-id: {ORG_ID}' \
+ -H 'x-api-key: {API_KEY}' \
+ -H 'x-sandbox-name: {SANDBOX_NAME}'
+ -d '{
+     "body": [
+         {
+             "op": "replace",
+             "path": "/state",
+             "value": "disable"
+         }
+     ]
+ }'
+```
+
+Property
+Description
+op
+The operation to be performed on the query schedule. The accepted value is
+replace
+.
+path
+The path of the value you want to patch. In this case, since you are updating the scheduled query’s state, you need to set the value of
+path
+to
+/state
+.
+value
+The updated value of the
+/state
+. This value can either be set as
+enable
+or
+disable
+to enable or disable the scheduled query.
+**Response**
+
+A successful response returns HTTP status 202 (Accepted) with the following message.
+
+```
+{
+    "message": "Request to patch accepted",
+    "statusCode": 202
+}
+```
+
+### Update scheduled query schedule
+
+You can update the cron schedule of the scheduled query by setting the path property to /schedule/schedule in the request body. For more information about cron schedules, please read the [cron expression format](https://www.quartz-scheduler.org/documentation/quartz-2.3.0/tutorials/crontrigger.html) documentation.
+
+**API format**
+
+```
+PATCH /schedules/{SCHEDULE_ID}
+```
+
+Property
+Description
+{SCHEDULE_ID}
+The
+id
+value of the scheduled query you want to PATCH.
+**Request**
+
+This API request uses the JSON Patch syntax for its payload. For more information on how JSON Patch works, please read the API fundamentals document.
+
+```
+curl -X PATCH https://platform.adobe.io/data/foundation/query/schedules/e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm
+ -H 'Authorization: Bearer {ACCESS_TOKEN}' \
+ -H 'x-gw-ims-org-id: {ORG_ID}' \
+ -H 'x-api-key: {API_KEY}' \
+ -H 'x-sandbox-name: {SANDBOX_NAME}'
+ -d '{
+     "body": [
+         {
+             "op": "replace",
+             "path": "/schedule/schedule",
+             "value": "45 * * * *"
+         }
+     ]
+ }'
+```
+
+Property
+Description
+op
+The operation to be performed on the query schedule. The accepted value is
+replace
+.
+path
+The path of the value you want to patch. In this case, since you are updating the scheduled query’s schedule, you need to set the value of
+path
+to
+/schedule/schedule
+.
+value
+The updated value of the
+/schedule
+. This value needs to be in the form of a cron schedule. So, in this example, the scheduled query will run every hour at the 45 minute mark.
+**Response**
+
+A successful response returns HTTP status 202 (Accepted) with the following message.
+
+```
+{
+    "message": "Request to patch accepted",
+    "statusCode": 202
+}
+```
+
+### Delete a specified scheduled query
+
+You can delete a specified scheduled query by making a DELETE request to the /schedules endpoint and providing the ID of the scheduled query you want to delete in the request path.
+
+NOTE
+The schedule
+must
+be disabled before being deleted.
+**API format**
+
+```
+DELETE /schedules/{SCHEDULE_ID}
+```
+
+Property
+Description
+{SCHEDULE_ID}
+The
+id
+value of the scheduled query you want to DELETE.
+**Request**
+
+```
+curl -X DELETE https://platform.adobe.io/data/foundation/query/schedules/e95186d65a28abf00a495d82_28e74200-e3de-11e9-8f5d-7f27416c5f0d_sample_scheduled_query7omob151bm_birvwm
+ -H 'Authorization: Bearer {ACCESS_TOKEN}' \
+ -H 'x-gw-ims-org-id: {ORG_ID}' \
+ -H 'x-api-key: {API_KEY}' \
+ -H 'x-sandbox-name: {SANDBOX_NAME}'
+```
+
+**Response**
+
+A successful response returns HTTP status 202 (Accepted) with the following message.
+
+```
+{
+    "message": "Schedule deleted successfully",
+    "statusCode": 202
+}
+```
+
+recommendation-more-help

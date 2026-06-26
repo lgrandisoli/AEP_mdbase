@@ -1,0 +1,2707 @@
+[
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/ajo-home",
+    "title": "Adobe Journey Optimizer Documentation section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/adobe-journey-optimizer-documentation-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey",
+    "title": "Get started with journeys jo-general-principle",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-journeys-jo-general-principle.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/get-started-with-campaigns",
+    "title": "Get started with campaigns get-started-campaigns",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-campaigns-get-started-campaigns.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/gs-conflict-prioritization",
+    "title": "Conflict management & prioritization conflict-prioritization",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/conflict-management-prioritization-conflict-prioritization.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/test-landing-page",
+    "title": "Test, validate & approve section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/test-validate-approve-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/troubleshoot-journey-landing-page",
+    "title": "Track, monitor and troubleshoot section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/track-monitor-and-troubleshoot-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/gs-channels",
+    "title": "Get started with Adobe Journey Optimizer channels get-started-email",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-adobe-journey-optimizer-channels-get-started-email.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-management-landing-page",
+    "title": "Content management section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/content-management-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/audiences-profiles-identities-landing-page",
+    "title": "Audiences, profiles & identity section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/audiences-profiles-identity-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reporting-landing-page",
+    "title": "Reporting section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/reporting-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/decisioning-landing-page",
+    "title": "Decision capabilities section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/decision-capabilities-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/data-management-landing-page",
+    "title": "Data management section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/data-management-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/access-control-landing-page",
+    "title": "Access control section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/access-control-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/action-privacy",
+    "title": "Data Governance restrict-fields",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/data-governance-restrict-fields.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/cmk",
+    "title": "Set up & manage customer managed keys cmk",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/set-up-manage-customer-managed-keys-cmk.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes",
+    "title": "Release notes release-notes",
+    "category": "release-notes",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/release-notes/documentation/journey-optimizer/journey-optimizer-guide/release-notes-release-notes.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/generative-personalization-expressions",
+    "title": "AI assistant for personalization expressions generative-personalization-expressions",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/ai-assistant-for-personalization-expressions-generative-personalization-expressions.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/iterate-contextual-data",
+    "title": "Iterate over contextual data personalization-contexts",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/iterate-over-contextual-data-personalization-contexts.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/gs-orchestrated-campaigns",
+    "title": "Get started with Orchestrated campaigns orchestrated-camp",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-orchestrated-campaigns-orchestrated-camp.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/get-started-landing-page",
+    "title": "Get Started with Adobe Journey Optimizer get-started",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-adobe-journey-optimizer-get-started.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/configuration-landing-page",
+    "title": "Channel configuration section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/channel-configuration-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/configure-journeys-landing-page",
+    "title": "Journey configuration section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/journey-configuration-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/connect-systems-landing-page",
+    "title": "Connect your systems and environments section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/connect-your-systems-and-environments-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page",
+    "title": "Privacy section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/privacy-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/overview",
+    "title": "Journey Optimizer Tutorials",
+    "category": "tutorials",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-tutorials",
+    "section_slug": null,
+    "saved_path": "rfp_guide/tutorials/documentation/journey-optimizer/journey-optimizer-tutorials/journey-optimizer-tutorials.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-gs",
+    "title": "Create your first journey jo-quick-start",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/create-your-first-journey-jo-quick-start.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/using-the-journey-designer",
+    "title": "Design your journey design-your-journey",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/design-your-journey-design-your-journey.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/entry-management",
+    "title": "Profile entrance management entry-management",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/profile-entrance-management-entry-management.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/journey-action",
+    "title": "Use the Action activity add-a-message-in-a-journey",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/use-the-action-activity-add-a-message-in-a-journey.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/optimize-activity/conditions",
+    "title": "Conditions conditions",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/conditions-conditions.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/data-source-journeys/about-data-sources",
+    "title": "Get started with data sources about-data-sources",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-data-sources-about-data-sources.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/about-custom-action-configuration",
+    "title": "Configure a custom action configure-a-custom-action",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/configure-a-custom-action-configure-a-custom-action.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/about-journey-activities",
+    "title": "Get started with journey activities about-journey-activities",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-journey-activities-about-journey-activities.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/jo-use-cases",
+    "title": "Learn through use cases jo-uc-gs",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/learn-through-use-cases-jo-uc-gs.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/testing-the-journey",
+    "title": "Test your journey testing_the_journey",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/test-your-journey-testing-the-journey.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run",
+    "title": "Journey Dry run journey-dry-run",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/journey-dry-run-journey-dry-run.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/publish-journey",
+    "title": "Publish your journey publishing-the-journey",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/publish-your-journey-publishing-the-journey.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/report-journey",
+    "title": "Live report in the journey canvas report-journey",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/live-report-in-the-journey-canvas-report-journey.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts",
+    "title": "Access and subscribe to system alerts alerts",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/access-and-subscribe-to-system-alerts-alerts.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/optimize-activity/optimize",
+    "title": "Get started with the Optimize activity journey-path-optimization",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-the-optimize-activity-journey-path-optimization.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/send-time-optimization",
+    "title": "Send-Time Optimization send-time-optimization",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/send-time-optimization-send-time-optimization.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/message-to-subscribers-uc",
+    "title": "Send a message to the subscribers of a list send-a-message-to-the-subscribers-of-a-list",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/send-a-message-to-the-subscribers-of-a-list-send-a-message-to-the-subscribers-of-a-list.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/ramp-up-deliveries-uc",
+    "title": "Use case: ramp up your deliveries use-case-ramp-up-your-deliveries",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/use-case-ramp-up-your-deliveries-use-case-ramp-up-your-deliveries.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/weekday-email-uc",
+    "title": "Send emails only on weekdays send-emails-only-on-weekdays",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/send-emails-only-on-weekdays-send-emails-only-on-weekdays.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/journeys-uc",
+    "title": "Learn through use cases jo-uc-gs",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/learn-through-use-cases-jo-uc-gs-2.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/journey-use-cases-landing-page",
+    "title": "Use cases section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/use-cases-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/building-advanced-conditions-journeys-landing-page",
+    "title": "Build expressions section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/build-expressions-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/timezone-management",
+    "title": "Time zone management timezone_management",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/time-zone-management-timezone-management.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/copy-to-sandbox",
+    "title": "Copy a journey to another sandbox copy-to-sandbox",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/copy-a-journey-to-another-sandbox-copy-to-sandbox.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/tags",
+    "title": "Manage tags in journeys journey_tags",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/manage-tags-in-journeys-journey-tags.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/limit-throughput",
+    "title": "Use case: limit throughput with external data sources & custom actions limit-throughput",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/use-case-limit-throughput-with-external-data-sources-custom-actions-limit-throughput.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/manage-journey-landing-page",
+    "title": "Manage your journeys section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/manage-your-journeys-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-designer-overview",
+    "title": "Journey Designer - Overview",
+    "category": "tutorials",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-tutorials",
+    "section_slug": null,
+    "saved_path": "rfp_guide/tutorials/documentation/journey-optimizer/journey-optimizer-tutorials/journey-designer-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-faq",
+    "title": "Journey orchestration - frequently asked questions faq-journeys",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/journey-orchestration-frequently-asked-questions-faq-journeys.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/monitor-alerts-errors/error-codes-reference",
+    "title": "Error codes reference error-codes",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/error-codes-reference-error-codes.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/guardrails",
+    "title": "Guardrails and limitations limitations",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/guardrails-and-limitations-limitations.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/about-journey-building-landing-page",
+    "title": "Activities section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/activities-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/troubleshooting/troubleshoot-journey/troubleshooting-execution",
+    "title": "Troubleshoot your live journey execution troubleshooting-execution",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/troubleshoot-your-live-journey-execution-troubleshooting-execution.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/troubleshooting/troubleshoot-journey/troubleshooting-inbound",
+    "title": "Troubleshoot inbound actions in journeys troubleshooting-inbound-actions",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/troubleshoot-inbound-actions-in-journeys-troubleshooting-inbound-actions.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/create-campaign",
+    "title": "Work with Action campaigns gs-action-campaigns",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/work-with-action-campaigns-gs-action-campaigns.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/api-triggered-campaigns/api-triggered-campaigns",
+    "title": "Work with API triggered campaigns trigger-campaigns",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/work-with-api-triggered-campaigns-trigger-campaigns.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/audiences/about-audiences",
+    "title": "Get started with audiences about-segments",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-audiences-about-segments.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/channel-surfaces",
+    "title": "Set up channel configurations set-up-channel-surfaces",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/set-up-channel-configurations-set-up-channel-surfaces.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/ootb-product-profiles",
+    "title": "Built-in roles ootb-product-profiles",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/built-in-roles-ootb-product-profiles.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/send-using-waves",
+    "title": "Send using waves in campaigns send-using-waves",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/send-using-waves-in-campaigns-send-using-waves.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/campaign-properties",
+    "title": "Define the Action campaign properties action-campaign-properties",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/define-the-action-campaign-properties-action-campaign-properties.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/api-triggered-campaigns/api-triggered-campaign-properties",
+    "title": "Define the API triggered campaign properties api-properties",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/define-the-api-triggered-campaign-properties-api-properties.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/launch/create-orchestrated-campaign",
+    "title": "Create and schedule an Orchestrated campaign create-first-campaign",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/create-and-schedule-an-orchestrated-campaign-create-first-campaign.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/campaign-content",
+    "title": "Edit the Action campaign content action-campaign-content",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/edit-the-action-campaign-content-action-campaign-content.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/api-triggered-campaigns/api-triggered-campaign-content",
+    "title": "Edit the API triggered campaign content api-content",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/edit-the-api-triggered-campaign-content-api-content.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/review-activate-campaign",
+    "title": "Review and activate the Action campaign action-campaign-review",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/review-and-activate-the-action-campaign-action-campaign-review.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/api-triggered-campaigns/review-activate-api-triggered-campaign",
+    "title": "Review & activate the API triggered campaign api-review",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/review-activate-the-api-triggered-campaign-api-review.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/campaign-reporting/campaign-global-report-cja",
+    "title": "Campaign report campaign-global-report-cja",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/campaign-report-campaign-global-report-cja.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/campaign-schedule",
+    "title": "Schedule the Action campaign action-campaign-schedule",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/schedule-the-action-campaign-action-campaign-schedule.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/campaign-audience",
+    "title": "Define the Action campaign audience action-campaign-audience",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/define-the-action-campaign-audience-action-campaign-audience.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/quiet-hours",
+    "title": "Set quiet hours quiet-hours",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/set-quiet-hours-quiet-hours.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/message-optimization/gs-message-optimization",
+    "title": "Get started with content optimization message-optimization",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-content-optimization-message-optimization.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/conflicts",
+    "title": "Detect potential conflicts in journeys & campaigns conflict",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/detect-potential-conflicts-in-journeys-campaigns-conflict.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/priority-scores",
+    "title": "Assign priority scores priority",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/assign-priority-scores-priority.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/capping-rules-landing-page",
+    "title": "Set message & journey capping rules section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/set-message-journey-capping-rules-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping",
+    "title": "Journey capping & arbitration journey-capping",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/journey-capping-arbitration-journey-capping.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/channel-capping",
+    "title": "Frequency capping by channel and communication type rule-sets",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/frequency-capping-by-channel-and-communication-type-rule-sets.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/rule-sets",
+    "title": "Work with rule sets rule-sets",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/work-with-rule-sets-rule-sets.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts",
+    "title": "Identify potential conflicts",
+    "category": "tutorials",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-tutorials",
+    "section_slug": null,
+    "saved_path": "rfp_guide/tutorials/documentation/journey-optimizer/journey-optimizer-tutorials/identify-potential-conflicts.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/preview-test/preview-test-landing-page",
+    "title": "Preview & test content section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/preview-test-content-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/approve/approve-landing-page",
+    "title": "Approve journeys & campaigns section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/approve-journeys-campaigns-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/personalize",
+    "title": "Get started with personalization add-personalization",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-personalization-add-personalization.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/get-started-experiment",
+    "title": "Get started with content experiments get-started-experiment",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-content-experiments-get-started-experiment.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/seed-lists",
+    "title": "Use seed lists seed-lists",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/use-seed-lists-seed-lists.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/preview-test/test-profiles",
+    "title": "Select test profiles select-test-profiles",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/select-test-profiles-select-test-profiles.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/preview-test/simulate-sample-input",
+    "title": "Simulate content variations custom-profiles",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/simulate-content-variations-custom-profiles.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/preview-test/rendering",
+    "title": "Test email rendering email-rendering",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/test-email-rendering-email-rendering.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/preview-test/spam-report",
+    "title": "Email spam report spam-report",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/email-spam-report-spam-report.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/approve/gs-approval",
+    "title": "Get started with journeys & campaigns approval send-proofs",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-journeys-campaigns-approval-send-proofs.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/preview-test/preview-test",
+    "title": "Preview & test your content preview-test",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/preview-test-your-content-preview-test.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/profiles/creating-test-profiles",
+    "title": "Create test profiles create-test-profiles",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/create-test-profiles-create-test-profiles.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/content-experiment",
+    "title": "Create a content experiment content-experiment",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/create-a-content-experiment-content-experiment.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/preview-test/proofs",
+    "title": "Send proofs using test profiles data send-proofs",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/send-proofs-using-test-profiles-data-send-proofs.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/approve/approval-policies",
+    "title": "Create & manage approval policies approval-policies",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/create-manage-approval-policies-approval-policies.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/get-started-tracking",
+    "title": "Get started with tracking in Journey Optimizer get-started-tracking",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-tracking-in-journey-optimizer-get-started-tracking.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/journey-reporting/journey-global-report-cja",
+    "title": "Journey report journey-global-report",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/journey-report-journey-global-report.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/live-report/journey-live-report",
+    "title": "Journey live report journey-live-report",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/journey-live-report-journey-live-report.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/journey-step-events-overview",
+    "title": "Work with journey step events work-with-journey-step-events",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/work-with-journey-step-events-work-with-journey-step-events.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/report-gs-cja",
+    "title": "Get started with all time report channel-report-gs-cja",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-all-time-report-channel-report-gs-cja.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/deliverability/deliverability",
+    "title": "Get started with deliverability manage-deliverability",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-deliverability-manage-deliverability.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/troubleshooting/troubleshoot-journey/troubleshooting",
+    "title": "Troubleshoot errors before testing your journey troubleshooting",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/troubleshoot-errors-before-testing-your-journey-troubleshooting.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/troubleshooting/troubleshoot-journey/troubleshoot-custom-action",
+    "title": "Troubleshoot your custom actions troubleshoot-a-custom-action",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/troubleshoot-your-custom-actions-troubleshoot-a-custom-action.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/work-efficiently/user-interface",
+    "title": "Navigate the interface user-interface",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/navigate-the-interface-user-interface.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/email-landing-page",
+    "title": "Email channel section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/email-channel-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-landing-page",
+    "title": "Push notification channel section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/push-notification-channel-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/get-started-mobile-live",
+    "title": "Get started with Live activities get-started-mobile-live",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-live-activities-get-started-mobile-live.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/sms-landing-page",
+    "title": "SMS / MMS / RCS channel section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/sms-mms-rcs-channel-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/direct-mail/direct-mail-landing-page",
+    "title": "Direct mail section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/direct-mail-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/whatsapp-landing-page",
+    "title": "WhatsApp section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/whatsapp-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/line/line-landing-page",
+    "title": "LINE section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/line-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/in-app-landing-page",
+    "title": "In-app channel section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/in-app-channel-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/web/web-landing-page",
+    "title": "Web channel section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/web-channel-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/code-based-experience-landing-page",
+    "title": "Code-based experience section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/code-based-experience-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/content-card-landing-page",
+    "title": "Content cards section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/content-cards-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/personalization-landing-page",
+    "title": "Personalization section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/personalization-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/landing-pages/get-started-lp",
+    "title": "Get started with landing pages get-started-lp",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-landing-pages-get-started-lp.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-templates/content-templates-landing-page",
+    "title": "Content templates section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/content-templates-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/fragments-landing-page",
+    "title": "Reusable content fragments section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/reusable-content-fragments-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/dynamic/dynamic-landing-page",
+    "title": "Dynamic content section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/dynamic-content-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/combine-landing-page",
+    "title": "Cross-solution use cases section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/cross-solution-use-cases-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/ai-assistant-landing-page",
+    "title": "AI Assistant for content generation section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/ai-assistant-for-content-generation-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-multilingual/content-multilingual-landing-page",
+    "title": "Multilingual content section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/multilingual-content-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/audiences/audiences-landing-page",
+    "title": "Audiences section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/audiences-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/profiles/profiles-landing-page",
+    "title": "Profiles section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/profiles-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/get-started-identity",
+    "title": "Get Started with identities identities-gs",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-identities-identities-gs.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/license-usage",
+    "title": "License usage dashboard license-usage",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/license-usage-dashboard-license-usage.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/gs-reports",
+    "title": "Get started with reporting capabilities get-started-report",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-reporting-capabilities-get-started-report.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/live-report/live-report-landing-page",
+    "title": "Live report section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/live-report-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/channel-report-landing-page",
+    "title": "All time report section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/all-time-report-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reports/reports-landing-page",
+    "title": "Custom journey reports section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/custom-journey-reports-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/gs-decision",
+    "title": "Get started with decision capabilities in Journey Optimizer gs-decision",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-decision-capabilities-in-journey-optimizer-gs-decision.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-landing-page",
+    "title": "Decisioning section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/decisioning-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/offer-decisioning-landing-page",
+    "title": "Decision management section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/decision-management-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/gs-data",
+    "title": "Get started with data management about-data",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-data-management-about-data.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/get-started-schemas",
+    "title": "Get Started with schemas schemas-gs",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-schemas-schemas-gs.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/datasets/datasets-landing-page",
+    "title": "Journey Optimizer datasets section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/journey-optimizer-datasets-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/lookup-aep-data",
+    "title": "Use Adobe Experience Platform data aep-data",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/use-adobe-experience-platform-data-aep-data.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/get-started-queries",
+    "title": "Get Started with queries queries-gs",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-queries-queries-gs.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/permissions-overview",
+    "title": "Get started with access control permissions-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-access-control-permissions-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/permissions",
+    "title": "Manage users & roles manage-permissions",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/manage-users-roles-manage-permissions.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/ootb-permissions",
+    "title": "Built-in permissions ootb-permissions",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/built-in-permissions-ootb-permissions.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/high-low-permissions",
+    "title": "Permission levels high-low-permissions",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/permission-levels-high-low-permissions.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/attribute-based-access",
+    "title": "Attribute-based access control attribute-based-access",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/attribute-based-access-control-attribute-based-access.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/object-based-access",
+    "title": "Object level access control object-level-access",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/object-level-access-control-object-level-access.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent",
+    "title": "Work with consent policies consent-management",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/work-with-consent-policies-consent-management.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/releases",
+    "title": "Journey Optimizer release cycle releases",
+    "category": "release-notes",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/release-notes/documentation/journey-optimizer/journey-optimizer-guide/journey-optimizer-release-cycle-releases.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/journey-fragments",
+    "title": "Journey Fragments journey-fragments",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/journey-fragments-journey-fragments.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/configure-email/deeplinks",
+    "title": "Configure deeplinks in emails email-deeplinks",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/configure-deeplinks-in-emails-email-deeplinks.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/simulate-journey",
+    "title": "Simulate your journey simulate-journey",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/simulate-your-journey-simulate-journey.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/ai-features",
+    "title": "AI & intelligent features ai-features",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/ai-intelligent-features-ai-features.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/integrations",
+    "title": "Work with Integrations external-sources",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/work-with-integrations-external-sources.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/migrate-to-decisioning/decisioning-migration-api",
+    "title": "Decisioning Migration API decisioning-migration-api",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/decisioning-migration-api-decisioning-migration-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/create-sms",
+    "title": "Create a SMS/MMS/RCS message create-sms",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/create-a-smsmmsrcs-message-create-sms.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/configure-sms/sms-webhook",
+    "title": "Create Webhook webhook",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/create-webhook-webhook.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/incremental-query",
+    "title": "Incremental query incremental-query",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/incremental-query-incremental-query.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/configure-email/header-parameters",
+    "title": "Header parameters email-header",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/header-parameters-email-header.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/cc-email-field",
+    "title": "Add a CC field to emails cc-email-field",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/add-a-cc-field-to-emails-cc-email-field.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/sandbox/copy-objects-to-sandbox",
+    "title": "Export objects to another sandbox copy-to-sandbox",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/export-objects-to-another-sandbox-copy-to-sandbox.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/ajo-mcp",
+    "title": "Work with MCP clients ajo-mcp",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/work-with-mcp-clients-ajo-mcp.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/journey-arbitration/journey-ai-models",
+    "title": "Use AI models to rank journeys journey-ai-models",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/use-ai-models-to-rank-journeys-journey-ai-models.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/express",
+    "title": "Edit assets with Adobe Express express",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/edit-assets-with-adobe-express-express.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/llm-email-optimizer",
+    "title": "Optimize email for AI inboxes email-text-optimizer",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/optimize-email-for-ai-inboxes-email-text-optimizer.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/optimize-activity/path-experimentation",
+    "title": "Use path experimentation experimentation",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/use-path-experimentation-experimentation.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/inbox/inbox-gs",
+    "title": "Get started with Inbox inbox-gs",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-inbox-inbox-gs.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/decision-policies/create-decision-policy",
+    "title": "Create decision policies create-decision",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/create-decision-policies-create-decision.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/ai-assistant-prompting-guide",
+    "title": "AI Assistant prompt best practices ai-assistant-prompting-guide",
+    "category": "guides",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/guides/documentation/journey-optimizer/journey-optimizer-guide/ai-assistant-prompt-best-practices-ai-assistant-prompting-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-configuration",
+    "title": "Configure mobile app push notification channel push-notification-configuration",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/configure-mobile-app-push-notification-channel-push-notification-configuration.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/decision-policies/fragments-decision-policies",
+    "title": "Leverage fragments in decision policies fragments",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/leverage-fragments-in-decision-policies-fragments.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem/aem-fragments",
+    "title": "Work with Adobe Experience Manager content fragments aem-fragments",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/work-with-adobe-experience-manager-content-fragments-aem-fragments.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/email-expert-mode",
+    "title": "Edit email content with the advanced HTML editor email-expert-mode",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/edit-email-content-with-the-advanced-html-editor-email-expert-mode.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-properties",
+    "title": "Set your journey properties jo-properties",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/set-your-journey-properties-jo-properties.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/orchestrated-advanced/global-variables",
+    "title": "Define global variables in Orchestrated campaigns define-global-variables",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/define-global-variables-in-orchestrated-campaigns-define-global-variables.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/data-configuration/schemas-datasets/gs-schemas",
+    "title": "Get started with relational schemas and datasets gs-schemas",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-relational-schemas-and-datasets-gs-schemas.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/gs-generative",
+    "title": "Get started with AI Assistant gs-content-assistant",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-ai-assistant-gs-content-assistant.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/personalization-build-expressions",
+    "title": "Add personalization build-personalization-expressions",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/add-personalization-build-personalization-expressions.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/get-started-email-design",
+    "title": "Get started with email design get-started-content-design",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-email-design-get-started-content-design.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push",
+    "title": "Create a push notification create-push-notification",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/create-a-push-notification-create-push-notification.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/helpers",
+    "title": "Helpers gs-helpers",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/helpers-gs-helpers.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/events-journeys/about-events",
+    "title": "Work with journey events about-events",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/work-with-journey-events-about-events.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/dates",
+    "title": "Date time functions date-time",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/date-time-functions-date-time.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/events-journeys/experience-event-schema",
+    "title": "About experienceevent schemas for Journey Optimizer events about-experienceevent-schemas",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/about-experienceevent-schemas-for-journey-optimizer-events-about-experienceevent-schemas.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/action-response",
+    "title": "Use API call responses in custom actions custom-action-enhancements",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/use-api-call-responses-in-custom-actions-custom-action-enhancements.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/dataset-lookup",
+    "title": "Use Adobe Experience Platform data in journeys datalookup",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/use-adobe-experience-platform-data-in-journeys-datalookup.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier",
+    "title": "Use supplemental identifiers in journeys supplemental-id",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/use-supplemental-identifiers-in-journeys-supplemental-id.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning",
+    "title": "Get started with decision management about-decision-management",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-decision-management-about-decision-management.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/channels",
+    "title": "Channel activities channel",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/channel-activities-channel.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/personalization-syntax",
+    "title": "Personalization syntax personalization-syntax",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/personalization-syntax-personalization-syntax.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/expressionadvanced",
+    "title": "Work with the advanced expression editor about-the-advanced-expression-editor",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/work-with-the-advanced-expression-editor-about-the-advanced-expression-editor.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/collections",
+    "title": "Pass collections into custom action parameters passing-collection",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/pass-collections-into-custom-action-parameters-passing-collection.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/syntax/collection-management-functions",
+    "title": "Collection management functions collection-management-functions",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/collection-management-functions-collection-management-functions.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/main-functions-journey/list-functions",
+    "title": "List functions list-functions",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/list-functions-list-functions.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/profiles/computed-attributes",
+    "title": "Work with computed attributes computed-attributes",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/work-with-computed-attributes-computed-attributes.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/use-expression-fragments",
+    "title": "Leverage expression fragments use-expression-fragments",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/leverage-expression-fragments-use-expression-fragments.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/dynamic/create-conditions",
+    "title": "Work with conditional rules conditions",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/work-with-conditional-rules-conditions.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/arrays-list",
+    "title": "Arrays and list functions arrays",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/arrays-and-list-functions-arrays.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/preview-test/preview",
+    "title": "Preview your content using test profiles preview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/preview-your-content-using-test-profiles-preview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/personalization-use-cases/personalization-use-case-helper-functions",
+    "title": "Personalization use case: cart abandonment email personalization-use-case-helper-functions",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/personalization-use-case-cart-abandonment-email-personalization-use-case-helper-functions.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/personalization-use-cases/personalization-use-case",
+    "title": "Personalization use case: order status notification personalization-use-case",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/personalization-use-case-order-status-notification-personalization-use-case.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/about-activities",
+    "title": "About Orchestrated campaign activities orchestrated-campaign-activities",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/about-orchestrated-campaign-activities-orchestrated-campaign-activities.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/fork",
+    "title": "Fork fork",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/fork-fork.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/launch/gs-campaign-creation",
+    "title": "Key steps to create an Orchestrated campaign orchestrated-campaign-creation",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/key-steps-to-create-an-orchestrated-campaign-orchestrated-campaign-creation.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/query-database/build-query",
+    "title": "Build your first rule build-query",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/build-your-first-rule-build-query.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/launch/reporting-campaigns",
+    "title": "Orchestrated campaigns reporting report-campaigns",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/orchestrated-campaigns-reporting-report-campaigns.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/launch/start-monitor-campaigns",
+    "title": "Start and monitor your Orchestrated campaigns start-monitor",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/start-and-monitor-your-orchestrated-campaigns-start-monitor.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/guardrails",
+    "title": "Guardrails and limitations guardrails",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/guardrails-and-limitations-guardrails.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/orchestrated-campaigns-faq",
+    "title": "Frequently asked questions faq-oc",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/frequently-asked-questions-faq-oc.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns",
+    "title": "Introduction to Orchestrated Campaigns in Adobe Journey Optimizer",
+    "category": "tutorials",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-tutorials",
+    "section_slug": null,
+    "saved_path": "rfp_guide/tutorials/documentation/journey-optimizer/journey-optimizer-tutorials/introduction-to-orchestrated-campaigns-in-adobe-journey-optimizer.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/get-started",
+    "title": "Get Started with Journey Optimizer ajo-gs",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-journey-optimizer-ajo-gs.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/understanding-ajo",
+    "title": "Understanding Journey Optimizer understanding-ajo",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/understanding-journey-optimizer-understanding-ajo.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/terminology",
+    "title": "Key Terminology key-terminology",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/key-terminology-key-terminology.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/by-role/marketer",
+    "title": "Get started for Marketers get-started-marketers",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-for-marketers-get-started-marketers.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/by-role/data-engineer",
+    "title": "Get started for data engineer data-engineer",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-for-data-engineer-data-engineer.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/by-role/administrator",
+    "title": "Get started for system administrators get-started-sys-admins",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-for-system-administrators-get-started-sys-admins.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/by-role/developer",
+    "title": "Get started for developers get-started-developers",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-for-developers-get-started-developers.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/by-role/quick-start",
+    "title": "Roles and Responsibilities",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/roles-and-responsibilities.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/work-efficiently/search-filter-categorize",
+    "title": "Search, filter, organize search-filter-organize",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/search-filter-organize-search-filter-organize.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/troubleshooting/troubleshooting",
+    "title": "Troubleshooting FAQ ajo-troubleshooting",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/troubleshooting-faq-ajo-troubleshooting.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/work-efficiently/accessibility",
+    "title": "Accessibility in Journey Optimizer accessibility",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/accessibility-in-journey-optimizer-accessibility.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/documentation-updates",
+    "title": "Documentation updates latest-updates",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/documentation-updates-latest-updates.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/audiences/create/creating-a-segment-definition",
+    "title": "Build segment definitions build-segments",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/build-segment-definitions-build-segments.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/get-started-configuration",
+    "title": "Get started with channels configuration start-optimizer-configuration",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-channels-configuration-start-optimizer-configuration.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config",
+    "title": "Get started with Guided channel setup set-mobile-config",
+    "category": "guides",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/guides/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-guided-channel-setup-set-mobile-config.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/delegate-subdomains/delegate-subdomains-landing-page",
+    "title": "Delegate email subdomains section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/delegate-email-subdomains-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-gs",
+    "title": "Get started with IP warmup plans ip-warmup-gs",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-ip-warmup-plans-ip-warmup-gs.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/monitor-reputation/monitor-reputation-landing-page",
+    "title": "Monitor email addresses section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/monitor-email-addresses-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/archiving-support",
+    "title": "Support for archiving archiving-support",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/support-for-archiving-archiving-support.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/primary-email-addresses",
+    "title": "Manage the default execution fields change-primary-email",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/manage-the-default-execution-fields-change-primary-email.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/about-data-sources-events-actions",
+    "title": "Get started with journeys configuration configure-journeys",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-journeys-configuration-configure-journeys.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/events-journeys/events-journeys-landing-page",
+    "title": "Event configuration section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/event-configuration-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/data-source-journeys/data-source-journeys-landing-page",
+    "title": "Data source configuration section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/data-source-configuration-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/action-journeys-landing-page",
+    "title": "Action configuration section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/action-configuration-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/ajo-integrations",
+    "title": "Integrations with other solutions integration",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/integrations-with-other-solutions-integration.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/ajo-apis",
+    "title": "Work with Journey Optimizer APIs apis-gs",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/work-with-journey-optimizer-apis-apis-gs.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/external-systems/external-systems-landing-page",
+    "title": "Integrate your journeys with external systems section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/integrate-your-journeys-with-external-systems-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/adobe-solutions/adobe-solutions-landing-page",
+    "title": "Send with Adobe solutions section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/send-with-adobe-solutions-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/sandbox/sandboxes",
+    "title": "Use and assign sandboxes sandboxes",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/use-and-assign-sandboxes-sandboxes.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/get-started-sources",
+    "title": "Get started with sources connectors sources-gs",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-sources-connectors-sources-gs.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/get-started-privacy",
+    "title": "Get started with privacy privacy",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-privacy-privacy.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/requests",
+    "title": "Privacy requests track-changes",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/privacy-requests-track-changes.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/audit-logs",
+    "title": "Audit actions on Journey Optimizer resources track-changes",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/audit-actions-on-journey-optimizer-resources-track-changes.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/data-hygiene",
+    "title": "Perform data lifecycle operations data-hygiene",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/perform-data-lifecycle-operations-data-hygiene.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent-landing-page",
+    "title": "Manage consent section-overview",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/manage-consent-section-overview.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites",
+    "title": "Journey Optimizer challenges - Introduction and prerequisites",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-challenges",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-challenges/journey-optimizer-challenges-introduction-and-prerequisites.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview",
+    "title": "Journey Optimizer - Mobile Learning Hub",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/ajo-mobile-learning-hub",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/ajo-mobile-learning-hub/journey-optimizer-mobile-learning-hub.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface",
+    "title": "Key capabilities and the user interface",
+    "category": "tutorials",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-tutorials",
+    "section_slug": null,
+    "saved_path": "rfp_guide/tutorials/documentation/journey-optimizer/journey-optimizer-tutorials/key-capabilities-and-the-user-interface.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey",
+    "title": "Introduction to building a journey",
+    "category": "tutorials",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-tutorials",
+    "section_slug": null,
+    "saved_path": "rfp_guide/tutorials/documentation/journey-optimizer/journey-optimizer-tutorials/introduction-to-building-a-journey.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder",
+    "title": "Create an audience using the rule builder",
+    "category": "tutorials",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-tutorials",
+    "section_slug": null,
+    "saved_path": "rfp_guide/tutorials/documentation/journey-optimizer/journey-optimizer-tutorials/create-an-audience-using-the-rule-builder.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation",
+    "title": "Create content using AI Assistant for content generation",
+    "category": "tutorials",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-tutorials",
+    "section_slug": null,
+    "saved_path": "rfp_guide/tutorials/documentation/journey-optimizer/journey-optimizer-tutorials/create-content-using-ai-assistant-for-content-generation.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end",
+    "title": "Decisioning end-to-end walkthrough",
+    "category": "tutorials",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-tutorials",
+    "section_slug": null,
+    "saved_path": "rfp_guide/tutorials/documentation/journey-optimizer/journey-optimizer-tutorials/decisioning-end-to-end-walkthrough.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages",
+    "title": "Configure content experiments for in-app messages",
+    "category": "tutorials",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-tutorials",
+    "section_slug": null,
+    "saved_path": "rfp_guide/tutorials/documentation/journey-optimizer/journey-optimizer-tutorials/configure-content-experiments-for-in-app-messages.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/journey-ui",
+    "title": "Browse & filter your journeys browse-journeys",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/browse-filter-your-journeys-browse-journeys.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/read-audience",
+    "title": "Use an audience in a journey segment-trigger-activity",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/use-an-audience-in-a-journey-segment-trigger-activity.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/audience-qualification-events",
+    "title": "Audience Qualification events segment-qualification",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/audience-qualification-events-segment-qualification.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/events-journeys/about-creating-business",
+    "title": "Configure a business event configure-a-business-event",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/configure-a-business-event-configure-a-business-event.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/action",
+    "title": "Get started with custom actions about_actions",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-custom-actions-about-actions.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/jump",
+    "title": "Jump from one journey to another jump",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/jump-from-one-journey-to-another-jump.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/live-report/live-report",
+    "title": "Get started with live report live-report",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-live-report-live-report.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding",
+    "title": "Implement a customer onboarding journey",
+    "category": "tutorials",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-tutorials",
+    "section_slug": null,
+    "saved_path": "rfp_guide/tutorials/documentation/journey-optimizer/journey-optimizer-tutorials/implement-a-customer-onboarding-journey.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart",
+    "title": "Use Case Playbook - Abandoned shopping cart",
+    "category": "tutorials",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-tutorials",
+    "section_slug": null,
+    "saved_path": "rfp_guide/tutorials/documentation/journey-optimizer/journey-optimizer-tutorials/use-case-playbook-abandoned-shopping-cart.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/reaction-events",
+    "title": "Reaction events reaction-events",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/reaction-events-reaction-events.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/general-events",
+    "title": "General events general-events",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/general-events-general-events.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/entry-exit-criteria-guide",
+    "title": "Work with journey entry and exit criteria entry-exit-criteria-guide",
+    "category": "guides",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/guides/documentation/journey-optimizer/journey-optimizer-guide/work-with-journey-entry-and-exit-criteria-entry-exit-criteria-guide.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/external-systems/external-systems",
+    "title": "Integrate with external systems external-systems",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/integrate-with-external-systems-external-systems.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/end-journey",
+    "title": "End a journey journey-ending",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/end-a-journey-journey-ending.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/create-email",
+    "title": "Create an email create-email",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/create-an-email-create-email.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app",
+    "title": "Create an In-app message create-in-app",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/create-an-in-app-message-create-in-app.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/web/create-web",
+    "title": "Create web experiences create-web",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/create-web-experiences-create-web.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card",
+    "title": "Create content cards create-content-card",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/create-content-cards-create-content-card.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based",
+    "title": "Create code-based experiences create-code-based",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/create-code-based-experiences-create-code-based.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/wait-activity",
+    "title": "Wait activity wait-activity",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/wait-activity-wait-activity.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-multilingual/multilingual-gs",
+    "title": "Get started with multilingual content multilingual-gs",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/get-started-with-multilingual-content-multilingual-gs.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/adobe-solutions/acc-action",
+    "title": "Integrate with Adobe Campaign v7/v8 integrating-with-adobe-campaign-v7-v8",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/integrate-with-adobe-campaign-v7v8-integrating-with-adobe-campaign-v7-v8.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/adobe-solutions/acs-action",
+    "title": "Integrate with Adobe Campaign Standard using_adobe_campaign_standard",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/integrate-with-adobe-campaign-standard-using-adobe-campaign-standard.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/syntax/journey-properties",
+    "title": "Journey properties attributes journey-properties",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/journey-properties-attributes-journey-properties.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/data-source-journeys/external-data-sources",
+    "title": "External data sources external-data-sources",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/external-data-sources-external-data-sources.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/data-source-journeys/adobe-experience-platform-data-source",
+    "title": "Adobe Experience Platform data source adobe-experience-platform-data-source",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/adobe-experience-platform-data-source-adobe-experience-platform-data-source.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/data-source-journeys/configure-data-sources",
+    "title": "Configure a data source configure-data-source",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/configure-a-data-source-configure-data-source.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/journey-configuration/configure-data-sources",
+    "title": "Configure data sources",
+    "category": "tutorials",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-tutorials",
+    "section_slug": null,
+    "saved_path": "rfp_guide/tutorials/documentation/journey-optimizer/journey-optimizer-tutorials/configure-data-sources.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/external-systems/throttling",
+    "title": "Work with the Throttling API",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/work-with-the-throttling-api.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/external-systems/capping",
+    "title": "Work with the Capping API work",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/work-with-the-capping-api-work.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/using-custom-actions",
+    "title": "Use custom actions use-custom-actions",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/use-custom-actions-use-custom-actions.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/content-decision",
+    "title": "Content decision activity content-decision",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/content-decision-activity-content-decision.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/adobe-solutions/marketo-engage",
+    "title": "Integrate with Marketo Engage integrating-with-marketo-engage",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/integrate-with-marketo-engage-integrating-with-marketo-engage.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/exp-event-lookup",
+    "title": "Experience event lookup in journeys ee-journeys",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/experience-event-lookup-in-journeys-ee-journeys.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/datasets/datasets-query-examples",
+    "title": "Query examples query-examples",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/query-examples-query-examples.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reports/query-examples",
+    "title": "Examples of queries query-examples",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/examples-of-queries-query-examples.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/ajo-ac",
+    "title": "Send a message with Campaign v7/v8 campaign-v7-v8-use-case",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/send-a-message-with-campaign-v7v8-campaign-v7-v8-use-case.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-pause",
+    "title": "Pause a journey journey-pause",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/pause-a-journey-journey-pause.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction",
+    "title": "Use case description",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/personalize-offers-with-real-time-weather-data-using-web-sdk",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/personalize-offers-with-real-time-weather-data-using-web-sdk/use-case-description.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction",
+    "title": "Personalize offers with ranking formulas based on user zip code and income",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/personalize-offers-with-ranking-formulas-based-on-user-zip-code-and-income.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction",
+    "title": "Scaling orchestration to omnichannel engagement in Adobe Journey Optimizer - Introduction",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/scaling-orchestration-to-omnichannel-engagement",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/scaling-orchestration-to-omnichannel-engagement/scaling-orchestration-to-omnichannel-engagement-in-adobe-journey-optimizer-introduction.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/audiences/create/custom-upload",
+    "title": "Custom Upload custom-upload",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/custom-upload-custom-upload.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/success-metrics",
+    "title": "Configure and track your journey metrics success-metrics",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/configure-and-track-your-journey-metrics-success-metrics.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reports/sharing-overview",
+    "title": "Create journey reports design-jo-reports",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/create-journey-reports-design-jo-reports.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/delegate-subdomains/about-subdomain-delegation",
+    "title": "Subdomain delegation in Journey Optimizer subdomain-delegation",
+    "category": "other",
+    "topic_path": "documentation/journey-optimizer/journey-optimizer-guide",
+    "section_slug": null,
+    "saved_path": "rfp_guide/other/documentation/journey-optimizer/journey-optimizer-guide/subdomain-delegation-in-journey-optimizer-subdomain-delegation.md",
+    "status": "saved"
+  }
+]

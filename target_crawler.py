@@ -131,7 +131,7 @@ def normalize_url(base_url: str, href: str) -> Optional[str]:
 def fetch_html(url: str, session: requests.Session, delay_s: float = 0.0) -> str:
     if delay_s:
         time.sleep(delay_s)
-    resp = session.get(url, headers=DEFAULT_HEADERS, timeout=40)
+    resp = session.get(url, headers=DEFAULT_HEADERS, timeout=120)
     resp.raise_for_status()
     return resp.text
 

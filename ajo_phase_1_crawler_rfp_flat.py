@@ -160,7 +160,7 @@ def is_doc_url(url: str) -> bool:
 def fetch(url: str, session: requests.Session, delay_s: float = 0.0) -> str:
     if delay_s:
         time.sleep(delay_s)
-    resp = session.get(url, headers=DEFAULT_HEADERS, timeout=40)
+    resp = session.get(url, headers=DEFAULT_HEADERS, timeout=120)
     resp.raise_for_status()
     return resp.text
 

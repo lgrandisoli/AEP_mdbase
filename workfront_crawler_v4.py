@@ -98,7 +98,7 @@ def allowed_url(url, prefixes):
 
 
 def fetch(url):
-    r = session.get(url, timeout=40)
+    r = session.get(url, timeout=120)
     r.raise_for_status()
     return r.text
 

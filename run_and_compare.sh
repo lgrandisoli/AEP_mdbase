@@ -22,7 +22,7 @@ AEP_OUT="$BASE_DIR/aep_guides"
 AJO_OUT="$BASE_DIR/ajob2c_guides"
 CJA_OUT="$BASE_DIR/cja_guides"
 TARGET_OUT="$BASE_DIR/target_guides"
-AGENTS_OUT="$BASE_DIR/agents"
+AGENTS_OUT="$BASE_DIR/agents_guides"
 WORKFRONT_OUT="$BASE_DIR/workfront_guides"
 
 mkdir -p "$AEP_OUT" "$AJO_OUT" "$CJA_OUT" "$TARGET_OUT" "$AGENTS_OUT" "$WORKFRONT_OUT"

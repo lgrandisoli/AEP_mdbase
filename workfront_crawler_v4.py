@@ -24,10 +24,15 @@ DEFAULT_START_URLS = [
 
 DEFAULT_ALLOWED_PREFIXES = [
     "/en/docs/workfront",
-    "/en/docs/workfront-learn",
     "/en/browse/workfront",
     # Product Description
     "/br/legal/product-descriptions",
+]
+
+# Paths excluídos mesmo que comecem com um prefixo permitido
+BLOCKED_PREFIXES = [
+    "/en/docs/workfront/using/product-announcements",
+    "/en/docs/workfront-learn",
 ]
 
 USER_AGENT = (
@@ -89,6 +94,9 @@ def allowed_url(url, prefixes):
         return False
 
     path = parsed.path
+
+    if any(path.startswith(blocked) for blocked in BLOCKED_PREFIXES):
+        return False
 
     for prefix in prefixes:
         if path.startswith(prefix):
@@ -324,7 +332,7 @@ def main():
 
     parser.add_argument(
         "--output-dir",
-        default="Workfront"
+        default="workfront_guides"
     )
 
     parser.add_argument(

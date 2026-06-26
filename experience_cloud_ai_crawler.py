@@ -40,7 +40,7 @@ ROOT_PREFIX = "/en/docs/experience-cloud-ai"
 HELPX_DOMAIN = "helpx.adobe.com"
 HELPX_PREFIX = "/legal/product-descriptions"
 
-DEFAULT_OUTPUT_DIR = "./agents"
+DEFAULT_OUTPUT_DIR = "./agents_guides"
 DEFAULT_MAX_PAGES = 2000
 
 DEFAULT_START_URLS = [

@@ -37,6 +37,9 @@ from bs4 import BeautifulSoup, NavigableString, Tag
 DOMAIN = "experienceleague.adobe.com"
 ROOT_PREFIX = "/en/docs/experience-cloud-ai"
 
+HELPX_DOMAIN = "helpx.adobe.com"
+HELPX_PREFIX = "/legal/product-descriptions"
+
 DEFAULT_OUTPUT_DIR = "./agents"
 DEFAULT_MAX_PAGES = 2000
 
@@ -52,6 +55,7 @@ DEFAULT_START_URLS = [
     "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/mcp/rtcdp-mcp",
     "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/ai-assistant/prompt-library",
     "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/ai-assistant/legal-disclaimer",
+    "https://helpx.adobe.com/legal/product-descriptions/adobe-experience-platform-agents.html",
 ]
 
 DEFAULT_HEADERS = {
@@ -94,6 +98,10 @@ def normalize_url(base_url: str, href: str) -> Optional[str]:
 
     if parsed.scheme not in {"http", "https"}:
         return None
+    if parsed.netloc == HELPX_DOMAIN:
+        if not parsed.path.startswith(HELPX_PREFIX):
+            return None
+        return abs_url
     if parsed.netloc != DOMAIN:
         return None
     if not parsed.path.startswith(ROOT_PREFIX):

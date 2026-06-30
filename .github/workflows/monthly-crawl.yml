@@ -9,7 +9,7 @@ on:
 jobs:
   crawl:
     runs-on: ubuntu-latest
-    timeout-minutes: 180 # 3h de margem
+    timeout-minutes: 240 # 4h de margem
 
     permissions:
       contents: write # necessário para commitar de volta
@@ -134,7 +134,7 @@ jobs:
 
           echo "==> Concluido."
 
-      - name: Atualiza Vector Store AEP no ChatGPT
+      - name: Atualiza Vector Stores no ChatGPT
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
@@ -145,37 +145,47 @@ jobs:
           from openai import OpenAI
 
           client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
-          aep_file = Path(os.environ["GITHUB_WORKSPACE"]) / "consolidados" / "AEP_Consolidado.md"
+          base = Path(os.environ["GITHUB_WORKSPACE"]) / "consolidados"
 
-          if not aep_file.exists():
-              print("AEP_Consolidado.md não encontrado, pulando.")
-              sys.exit(0)
+          VECTOR_STORES = [
+              ("AEP_RTCDP_Knowledge",  base / "AEP_Consolidado.md"),
+              ("CJA_Knowledge",        base / "CJA_Consolidado.md"),
+              ("Agents_Knowledge",     base / "Agents_Consolidado.md"),
+              ("Target_Knowledge",     base / "Target_Consolidado.md"),
+              ("AJO_Knowledge",        base / "AJOB2C_Consolidado.md"),
+          ]
 
-          # Busca ou cria a Vector Store pelo nome
-          vs_name = "AEP_RTCDP_Knowledge"
           stores = client.beta.vector_stores.list()
-          vs = next((s for s in stores.data if s.name == vs_name), None)
 
-          if vs:
-              # Remove arquivos antigos
-              old_files = client.beta.vector_stores.files.list(vector_store_id=vs.id)
-              for f in old_files.data:
-                  client.beta.vector_stores.files.delete(vector_store_id=vs.id, file_id=f.id)
-                  client.files.delete(f.id)
-              print(f"Vector Store '{vs_name}' limpa ({len(old_files.data)} arquivos removidos).")
-          else:
-              vs = client.beta.vector_stores.create(name=vs_name)
-              print(f"Vector Store '{vs_name}' criada: {vs.id}")
+          for vs_name, md_file in VECTOR_STORES:
+              print(f"\n==> {vs_name}")
 
-          # Faz upload do novo consolidado
-          with open(aep_file, "rb") as f:
-              uploaded = client.files.create(file=f, purpose="assistants")
+              if not md_file.exists():
+                  print(f"    {md_file.name} não encontrado, pulando.")
+                  continue
 
-          client.beta.vector_stores.files.create(
-              vector_store_id=vs.id,
-              file_id=uploaded.id
-          )
-          print(f"Upload concluído. File ID: {uploaded.id} | Vector Store ID: {vs.id}")
+              vs = next((s for s in stores.data if s.name == vs_name), None)
+
+              if vs:
+                  old_files = client.beta.vector_stores.files.list(vector_store_id=vs.id)
+                  for f in old_files.data:
+                      client.beta.vector_stores.files.delete(vector_store_id=vs.id, file_id=f.id)
+                      client.files.delete(f.id)
+                  print(f"    Limpa ({len(old_files.data)} arquivos removidos).")
+              else:
+                  vs = client.beta.vector_stores.create(name=vs_name)
+                  print(f"    Criada: {vs.id}")
+
+              with open(md_file, "rb") as f:
+                  uploaded = client.files.create(file=f, purpose="assistants")
+
+              client.beta.vector_stores.files.create(
+                  vector_store_id=vs.id,
+                  file_id=uploaded.id
+              )
+              print(f"    Upload OK. File ID: {uploaded.id} | Vector Store ID: {vs.id}")
+
+          print("\n==> Todas as Vector Stores atualizadas.")
           EOF
 
       - name: Commit e push dos consolidados

@@ -1,0 +1,191 @@
+name: Monthly RFP Knowledge Crawl
+
+on:
+  schedule:
+    # Todo dia 1 às 07:00 UTC
+    - cron: "0 7 1 * *"
+  workflow_dispatch: # permite rodar manualmente pelo GitHub
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180 # 3h de margem
+
+    permissions:
+      contents: write # necessário para commitar de volta
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run all crawlers
+        env:
+          BASE_DIR: ${{ github.workspace }}
+          PYTHON_BIN: python3
+        run: |
+          set -euo pipefail
+          cd "$BASE_DIR"
+
+          CONSOLIDATED_DIR="$BASE_DIR/consolidados"
+          mkdir -p "$CONSOLIDATED_DIR"
+
+          AEP_OUT="$BASE_DIR/aep_guides"
+          AJO_OUT="$BASE_DIR/ajob2c_guides"
+          CJA_OUT="$BASE_DIR/cja_guides"
+          TARGET_OUT="$BASE_DIR/target_guides"
+          AGENTS_OUT="$BASE_DIR/agents_guides"
+          WORKFRONT_OUT="$BASE_DIR/workfront_guides"
+          COMMERCE_OUT="$BASE_DIR/commerce_guides"
+
+          mkdir -p "$AEP_OUT" "$AJO_OUT" "$CJA_OUT" "$TARGET_OUT" "$AGENTS_OUT" "$WORKFRONT_OUT" "$COMMERCE_OUT"
+
+          run_crawler() {
+            local label="$1"; local script="$2"; local out_dir="$3"
+            echo "==> Executando $label ..."
+            find "$out_dir" -maxdepth 1 -type f -name "*.md" -delete 2>/dev/null || true
+            python3 "$BASE_DIR/$script" \
+              --output-dir "$out_dir" \
+              --max-pages 5000 \
+              --delay-s 0.5
+          }
+
+          run_crawler "AEP"       "AEPRTCDP_crawler.py"              "$AEP_OUT"
+          run_crawler "AJO B2C"   "ajo_phase_1_crawler_rfp_flat.py"  "$AJO_OUT"
+          run_crawler "CJA"       "cja_crawler_v4.py"                "$CJA_OUT"
+          run_crawler "Target"    "target_crawler.py"                "$TARGET_OUT"
+          run_crawler "Agents"    "experience_cloud_ai_crawler.py"   "$AGENTS_OUT"
+          run_crawler "Workfront" "workfront_crawler_v4.py"          "$WORKFRONT_OUT"
+          run_crawler "Commerce"  "commerce_crawler_v1.py"           "$COMMERCE_OUT"
+
+          concat_dir() {
+            local dir="$1"; local out_file="$2"
+            : > "$out_file"
+            while IFS= read -r f; do
+              {
+                echo ""
+                echo "---"
+                echo "# FILE: $(basename "$f")"
+                echo "---"
+                echo ""
+                cat "$f"
+                echo ""
+              } >> "$out_file"
+            done < <(find "$dir" -maxdepth 1 -type f -name "*.md" ! -name "README.md" | sort)
+            echo "    Gerado: $(basename "$out_file")"
+          }
+
+          echo "==> Gerando consolidados ..."
+          concat_dir "$AEP_OUT"       "$CONSOLIDATED_DIR/AEP_Consolidado.md"
+          concat_dir "$AGENTS_OUT"    "$CONSOLIDATED_DIR/Agents_Consolidado.md"
+          concat_dir "$AJO_OUT"       "$CONSOLIDATED_DIR/AJOB2C_Consolidado.md"
+          concat_dir "$CJA_OUT"       "$CONSOLIDATED_DIR/CJA_Consolidado.md"
+          concat_dir "$TARGET_OUT"    "$CONSOLIDATED_DIR/Target_Consolidado.md"
+          concat_dir "$WORKFRONT_OUT" "$CONSOLIDATED_DIR/Workfront_Consolidado.md"
+          concat_dir "$COMMERCE_OUT"  "$CONSOLIDATED_DIR/Commerce_Consolidado.md"
+
+          echo "==> Gerando README.md combinado ..."
+          COMBINED_README="$CONSOLIDATED_DIR/README.md"
+          {
+            echo "# RFP Knowledge - Indice consolidado dos guias"
+            echo ""
+            echo "Gerado em: $(date '+%Y-%m-%d %H:%M:%S UTC')"
+            echo ""
+          } > "$COMBINED_README"
+
+          GUIDE_SETS=(
+            "$AEP_OUT|AEP / RT-CDP"
+            "$AGENTS_OUT|Experience Cloud AI Agents"
+            "$AJO_OUT|AJO B2C"
+            "$CJA_OUT|CJA"
+            "$TARGET_OUT|Target"
+            "$WORKFRONT_OUT|Workfront"
+            "$COMMERCE_OUT|Commerce"
+          )
+
+          for entry in "${GUIDE_SETS[@]}"; do
+            dir="${entry%%|*}"; label="${entry#*|}"
+            echo "" >> "$COMBINED_README"
+            echo "## $label" >> "$COMBINED_README"
+            echo "" >> "$COMBINED_README"
+            if [ -f "$dir/README.md" ]; then
+              cat "$dir/README.md" >> "$COMBINED_README"
+            else
+              echo "_(README nao gerado para este conjunto)_" >> "$COMBINED_README"
+            fi
+            echo "" >> "$COMBINED_README"
+          done
+
+          echo "==> Limpando arquivos individuais das pastas de origem ..."
+          for entry in "${GUIDE_SETS[@]}"; do
+            dir="${entry%%|*}"
+            find "$dir" -maxdepth 1 -type f -name "*.md" -delete 2>/dev/null || true
+            rm -f "$dir/manifest.json"
+          done
+
+          echo "==> Concluido."
+
+      - name: Atualiza Vector Store AEP no ChatGPT
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          pip install openai -q
+          python3 << 'EOF'
+          import os, sys
+          from pathlib import Path
+          from openai import OpenAI
+
+          client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+          aep_file = Path(os.environ["GITHUB_WORKSPACE"]) / "consolidados" / "AEP_Consolidado.md"
+
+          if not aep_file.exists():
+              print("AEP_Consolidado.md não encontrado, pulando.")
+              sys.exit(0)
+
+          # Busca ou cria a Vector Store pelo nome
+          vs_name = "AEP_RTCDP_Knowledge"
+          stores = client.beta.vector_stores.list()
+          vs = next((s for s in stores.data if s.name == vs_name), None)
+
+          if vs:
+              # Remove arquivos antigos
+              old_files = client.beta.vector_stores.files.list(vector_store_id=vs.id)
+              for f in old_files.data:
+                  client.beta.vector_stores.files.delete(vector_store_id=vs.id, file_id=f.id)
+                  client.files.delete(f.id)
+              print(f"Vector Store '{vs_name}' limpa ({len(old_files.data)} arquivos removidos).")
+          else:
+              vs = client.beta.vector_stores.create(name=vs_name)
+              print(f"Vector Store '{vs_name}' criada: {vs.id}")
+
+          # Faz upload do novo consolidado
+          with open(aep_file, "rb") as f:
+              uploaded = client.files.create(file=f, purpose="assistants")
+
+          client.beta.vector_stores.files.create(
+              vector_store_id=vs.id,
+              file_id=uploaded.id
+          )
+          print(f"Upload concluído. File ID: {uploaded.id} | Vector Store ID: {vs.id}")
+          EOF
+
+      - name: Commit e push dos consolidados
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add consolidados/
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteracao nos consolidados."
+          else
+            git commit -m "chore: atualiza base de conhecimento RFP ($(date '+%Y-%m'))"
+            git push
+          fi

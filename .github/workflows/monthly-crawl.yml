@@ -4,15 +4,25 @@ on:
   schedule:
     # Todo dia 1 às 07:00 UTC
     - cron: "0 7 1 * *"
-  workflow_dispatch: # permite rodar manualmente pelo GitHub
+  workflow_dispatch:
+    inputs:
+      skip_crawl:
+        description: "Pular crawlers e ir direto ao upload (use se crawl já rodou)"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
 
 jobs:
   crawl:
     runs-on: ubuntu-latest
     timeout-minutes: 240 # 4h de margem
+    if: ${{ github.event.inputs.skip_crawl != 'true' }}
 
     permissions:
-      contents: write # necessário para commitar de volta
+      contents: write
 
     steps:
       - name: Checkout repo
@@ -55,7 +65,8 @@ jobs:
             find "$out_dir" -maxdepth 1 -type f -name "*.md" -delete 2>/dev/null || true
             python3 "$BASE_DIR/$script" \
               --output-dir "$out_dir" \
-              --max-pages 5000
+              --max-pages 5000 \
+              --delay-s 0.5
           }
 
           run_crawler "AEP"       "AEPRTCDP_crawler.py"              "$AEP_OUT"
@@ -133,6 +144,31 @@ jobs:
 
           echo "==> Concluido."
 
+      - name: Commit e push dos consolidados
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add consolidados/
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteracao nos consolidados."
+          else
+            git commit -m "chore: atualiza base de conhecimento RFP ($(date '+%Y-%m'))"
+            git push
+          fi
+
+  update-vector-stores:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    needs: crawl
+    if: always() && (needs.crawl.result == 'success' || github.event.inputs.skip_crawl == 'true')
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
       - name: Atualiza Vector Stores no ChatGPT
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -187,15 +223,3 @@ jobs:
 
           print("\n==> Todas as Vector Stores atualizadas.")
           EOF
-
-      - name: Commit e push dos consolidados
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add consolidados/
-          if git diff --cached --quiet; then
-            echo "Nenhuma alteracao nos consolidados."
-          else
-            git commit -m "chore: atualiza base de conhecimento RFP ($(date '+%Y-%m'))"
-            git push
-          fi

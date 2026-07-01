@@ -29,11 +29,37 @@ DEFAULT_ALLOWED_PREFIXES = [
     "/br/legal/product-descriptions",
 ]
 
-# Paths excluídos mesmo que comecem com um prefixo permitido
+# Paths excluídos mesmo que comecem com um prefixo permitido.
+# Doc sets de OUTROS produtos que compartilham o radical "workfront"
+# (Fusion, Learn, Known Issues) ficam de fora por padrão.
 BLOCKED_PREFIXES = [
-    "/en/docs/workfront/using/product-announcements",
     "/en/docs/workfront-learn",
+    "/en/docs/workfront-known-issues",
+    "/en/docs/workfront-fusion",
 ]
+
+# Trechos de path excluídos em qualquer posição (não só prefixo) -
+# usados para cortar tutoriais, betas, known issues e logs de
+# atividade de release (que não são amarrados a um trimestre
+# específico), reduzindo o número de páginas/.md gerados
+BLOCKED_PATH_SUBSTRINGS = [
+    "/tutorial",
+    "/learn/",
+    "/beta/",
+    "known-issue",
+    "known-issues",
+    "release-activity",
+]
+
+# Release notes trimestrais: mantemos SOMENTE a release mais recente.
+# Ajuste este valor sempre que uma nova release sair (ex.: "release-26-q3").
+# Qualquer página dentro de product-releases/ que NÃO contenha esse
+# slug é considerada uma release antiga e é bloqueada.
+LATEST_RELEASE_SLUG = "release-26-q3"
+
+RELEASE_NOTES_PREFIX = (
+    "/en/docs/workfront/using/product-announcements/product-releases/"
+)
 
 USER_AGENT = (
     "Mozilla/5.0 "
@@ -87,6 +113,13 @@ def infer_category(path):
     return "guides"
 
 
+def path_matches_prefix(path, prefix):
+    """startswith, mas exigindo fronteira de path (evita que
+    '/en/docs/workfront' combine com '/en/docs/workfront-fusion')."""
+    prefix = prefix.rstrip("/")
+    return path == prefix or path.startswith(prefix + "/")
+
+
 def allowed_url(url, prefixes):
     parsed = urlparse(url)
 
@@ -95,11 +128,22 @@ def allowed_url(url, prefixes):
 
     path = parsed.path
 
-    if any(path.startswith(blocked) for blocked in BLOCKED_PREFIXES):
+    if any(
+        path_matches_prefix(path, blocked)
+        for blocked in BLOCKED_PREFIXES
+    ):
         return False
 
+    if any(blocked in path for blocked in BLOCKED_PATH_SUBSTRINGS):
+        return False
+
+    # Release notes trimestrais: só a release mais recente passa
+    if path.startswith(RELEASE_NOTES_PREFIX):
+        if LATEST_RELEASE_SLUG not in path:
+            return False
+
     for prefix in prefixes:
-        if path.startswith(prefix):
+        if path_matches_prefix(path, prefix):
             return True
 
     return False
@@ -218,6 +262,8 @@ def build_readme(output_dir, manifest):
     ]
 
     for item in manifest[:200]:
+        if "title" not in item:
+            continue
         lines.append(
             f"- [{item['title']}]({item['url']})"
         )
@@ -233,6 +279,7 @@ def crawl(
     output_dir,
     allowed_prefixes,
     max_pages,
+    delay_s=0.2,
 ):
 
     output_dir.mkdir(
@@ -268,22 +315,36 @@ def crawl(
                 html
             )
 
-            saved_path = save_page(
-                page,
-                output_dir
-            )
+            if page.category == "tutorials":
 
-            manifest.append(
-                {
-                    "url": page.url,
-                    "title": page.title,
-                    "category": page.category,
-                    "topic_path": page.topic_path,
-                    "section_slug": page.section_slug,
-                    "saved_path": str(saved_path),
-                    "status": "saved",
-                }
-            )
+                manifest.append(
+                    {
+                        "url": page.url,
+                        "title": page.title,
+                        "category": page.category,
+                        "topic_path": page.topic_path,
+                        "status": "skipped-tutorial",
+                    }
+                )
+
+            else:
+
+                saved_path = save_page(
+                    page,
+                    output_dir
+                )
+
+                manifest.append(
+                    {
+                        "url": page.url,
+                        "title": page.title,
+                        "category": page.category,
+                        "topic_path": page.topic_path,
+                        "section_slug": page.section_slug,
+                        "saved_path": str(saved_path),
+                        "status": "saved",
+                    }
+                )
 
             for link in extract_urls_from_html(
                 html,
@@ -304,7 +365,7 @@ def crawl(
                 }
             )
 
-        time.sleep(0.2)
+        time.sleep(delay_s)
 
     (output_dir / "manifest.json").write_text(
         json.dumps(
@@ -341,6 +402,13 @@ def main():
         default=5000
     )
 
+    parser.add_argument(
+        "--delay-s",
+        type=float,
+        default=0.2,
+        help="Delay in seconds between requests"
+    )
+
     args = parser.parse_args()
 
     crawl(
@@ -348,9 +416,9 @@ def main():
         output_dir=Path(args.output_dir),
         allowed_prefixes=DEFAULT_ALLOWED_PREFIXES,
         max_pages=args.max_pages,
+        delay_s=args.delay_s,
     )
 
 
 if __name__ == "__main__":
     main()
-

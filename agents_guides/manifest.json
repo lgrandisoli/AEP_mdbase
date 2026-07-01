@@ -1,0 +1,79 @@
+[
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/agent-orchestrator",
+    "title": "Adobe Experience Platform Agent Orchestrator",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/agents_guides/adobe-experience-platform-agent-orchestrator-a589b105.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/audience",
+    "title": "Audience Agent",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/agents_guides/audience-agent-1970cf91.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/cja-data-insights-agent",
+    "title": "Visualize data with Data Insights Agent",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/agents_guides/visualize-data-with-data-insights-agent-4b07cf3c.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/agent-experiment",
+    "title": "Experimentation Agent",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/agents_guides/experimentation-agent-9ecc71c8.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/field-discovery-agent",
+    "title": "Field Discovery Agent",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/agents_guides/field-discovery-agent-af866654.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ajo-agent",
+    "title": "Journey Agent: Overview and User Guide",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/agents_guides/journey-agent-overview-and-user-guide-b7af047d.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/product-support",
+    "title": "Product Support Agent",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/agents_guides/product-support-agent-2a9e6a4c.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms",
+    "title": "Adobe Marketing Agent for Microsoft 365 Copilot",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/agents_guides/adobe-marketing-agent-for-microsoft-365-copilot-28add5c2.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/mcp/rtcdp-mcp",
+    "title": "Real-Time CDP MCP (Beta) rtcdp-mcp",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/agents_guides/real-time-cdp-mcp-beta-rtcdp-mcp-bf707ef3.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/ai-assistant/prompt-library",
+    "title": "AI Assistant Prompt Library",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/agents_guides/ai-assistant-prompt-library-7ea238db.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/ai-assistant/legal-disclaimer",
+    "title": "Legal Disclaimer: Personal Data, Language Support, and Verifying Responses",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/agents_guides/legal-disclaimer-personal-data-language-support-and-verifying-responses-5fc97ff7.md",
+    "status": "saved"
+  },
+  {
+    "url": "https://helpx.adobe.com/legal/product-descriptions/adobe-experience-platform-agents.html",
+    "status": "error",
+    "error": "HTTPSConnectionPool(host='helpx.adobe.com', port=443): Read timed out. (read timeout=120)"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui",
+    "title": "AI Assistant",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/agents_guides/ai-assistant-a63c275e.md",
+    "status": "saved"
+  }
+]

@@ -1,0 +1,2692 @@
+[
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/browse/target",
+    "title": "Adobe Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/adobe-target-434039db.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/target-home",
+    "title": "Guia do profissional de negócios do Adobe Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/guia-do-profissional-de-negócios-do-adobe-target-84d5e9e3.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/release-notes",
+    "title": "Notas de versão do Target (atuais)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/notas-de-versão-do-target-atuais-4f345b28.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/intro",
+    "title": "Introdução ao Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/introdução-ao-target-e04fed40.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/understand-the-target-ui",
+    "title": "Compreensão da interface do Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/compreensão-da-interface-do-target-8e77b374.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/assistant-ai/ai-assistant",
+    "title": "Visão geral de Adobe Experience Platform AI Assistant",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-de-adobe-experience-platform-ai-assistant-e6f6b30c.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-learn/tutorials/overview",
+    "title": "Tutoriais do Adobe Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/tutoriais-do-adobe-target-c34f89d4.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/mobile-apps/overview",
+    "title": "Target para aplicativos móveis",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/target-para-aplicativos-móveis-4198844f.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/activities",
+    "title": "Visão geral das atividades",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-das-atividades-140659ec.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/target",
+    "title": "Públicos-alvo",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/públicos-alvo-16069ec0.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/experiences",
+    "title": "Experiências e ofertas",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/experiências-e-ofertas-c5955836.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/overview",
+    "title": "Guia do desenvolvedor do Adobe Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/guia-do-desenvolvedor-do-adobe-target-c7a9d9c2.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/administrating-target",
+    "title": "Administrar visão geral do Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/administrar-visão-geral-do-target-ec597ea9.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/reports",
+    "title": "Relatórios",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/relatórios-eee10774.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://helpx.adobe.com/legal/product-descriptions/adobe-target.html",
+    "status": "error",
+    "error": "HTTPSConnectionPool(host='helpx.adobe.com', port=443): Read timed out. (read timeout=120)"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/doc-change",
+    "title": "Alterações de documentação",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/alterações-de-documentação-a38aaf27.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/updated-ui-faq",
+    "title": "Perguntas frequentes sobre atualização da interface do usuário do Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/perguntas-frequentes-sobre-atualização-da-interface-do-usuário-do-target-01f05535.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/target-documentation",
+    "title": "Visão geral da documentação e dos recursos do Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-da-documentação-e-dos-recursos-do-target-b769078b.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4t",
+    "title": "Adobe Analytics como origem de relatório do Adobe Target (A4T)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/adobe-analytics-como-origem-de-relatório-do-adobe-target-a4t-24b0e7ce.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/mmp",
+    "title": "Públicos-alvo da Experience Cloud",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/públicos-alvo-da-experience-cloud-cd7a6b25.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/campaign-and-target",
+    "title": "Integrar o Target ao Adobe Campaign",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/integrar-o-target-ao-adobe-campaign-b418f55b.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/troubleshoot/troubleshooting-target",
+    "title": "Solução de problemas do Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/solução-de-problemas-do-target-417beb5b.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/cmp-resources-and-contact-information",
+    "title": "Recursos e informações de contato",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/recursos-e-informações-de-contato-4fd5394a.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations",
+    "title": "Recomendações",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/recomendações-26748b64.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/target-api-overview",
+    "title": "Visão geral da API do Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-da-api-do-target-ffc80823.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/target-atjs-versions",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/target-atjs-versions"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/release-notes-for-previous-releases",
+    "title": "Notas de versão para versões anteriores",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/notas-de-versão-para-versões-anteriores-62f56a4a.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/target-release-notes",
+    "title": "Notas de versão do Target (pré-lançamento)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/notas-de-versão-do-target-pré-lançamento-cedcfc81.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/visual-experience-composer",
+    "title": "Visual Experience Composer (VEC)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visual-experience-composer-vec-1a488450.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/automated-personalization",
+    "title": "Automated Personalization (AP)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/automated-personalization-ap-9da785e7.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/auto-target/auto-target-to-optimize",
+    "title": "Visão geral das Auto-Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-das-auto-target-12c97e0c.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-as-an-offer",
+    "title": "Recommendations como uma oferta",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/recommendations-como-uma-oferta-a3cce0d3.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/manage-users/enterprise/property-channel",
+    "title": "Permissões de usuário empresarial",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/permissões-de-usuário-empresarial-3cff23e6.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/welcome/target-welcome-kit",
+    "title": "Kit de boas-vindas do Adobe Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/kit-de-boas-vindas-do-adobe-target-e608144d.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/vec-changes",
+    "title": "Visual Experience Composer alterado",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visual-experience-composer-alterado-09946352.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/viztarget-options",
+    "title": "Visual Experience Composer opções",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visual-experience-composer-opções-c0124408.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/create-audience",
+    "title": "Criar públicos em Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/criar-públicos-em-target-0b939be1.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/offers/manage-content",
+    "title": "Ofertas",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/ofertas-38f3afe1.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/assistant-ai/enabling-ai-assistant",
+    "title": "Habilitar Adobe Experience Platform AI Assistant em Adobe Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/habilitar-adobe-experience-platform-ai-assistant-em-adobe-target-b5c04b26.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/assistant-ai/ai-assistant-product-knowledge",
+    "title": "Use o AI Assistant no Adobe Target para saber mais sobre o produto",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/use-o-ai-assistant-no-adobe-target-para-saber-mais-sobre-o-produto-dcea7122.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application",
+    "title": "Implementar a at.js 2.0 do Adobe Target em um aplicativo de página única (SPA)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/implementar-a-atjs-20-do-adobe-target-em-um-aplicativo-de-página-única-spa-f7a55e7e.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/create/test-create-ab",
+    "title": "Criar uma atividade de Teste A/B",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/criar-uma-atividade-de-teste-ab-bbf15753.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/auto-allocate/create-auto-allocate-activity",
+    "title": "Criar uma atividade Auto-Allocate",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/criar-uma-atividade-auto-allocate-fb5b8b74.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/auto-target/create-auto-target",
+    "title": "Criar uma atividade Auto-Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/criar-uma-atividade-auto-target-c0dd9ebb.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/create-ap-activity",
+    "title": "Criar uma atividade Automated Personalization",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/criar-uma-atividade-automated-personalization-cc7af467.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/experience-targeting/create-targeting/xt-create",
+    "title": "Criar uma atividade Experience Targeting (XT)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/criar-uma-atividade-experience-targeting-xt-0eb3b9ea.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/multivariate-test/create-mvt/create-multivariate-test",
+    "title": "Criar um teste multivariado",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/criar-um-teste-multivariado-e09ec3f9.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/mobile-apps/target-mobile-preview",
+    "title": "Visualização móvel de Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visualização-móvel-de-target-329e9253.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/reporting/reporting",
+    "title": "Configurar relatórios em Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/configurar-relatórios-em-target-340986aa.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/create/ab-goals-and-settings",
+    "title": "Metas e Configurações",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/metas-e-configurações-b8acc75e.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/reporting/estimating-lift-in-revenue",
+    "title": "Aumento estimado na receita",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/aumento-estimado-na-receita-2cec521a.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/on-device-decisioning/overview",
+    "title": "Visão geral da decisão no dispositivo",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-da-decisão-no-dispositivo-a5aa42b3.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/on-device-decisioning/on-device-decisioning",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/on-device-decisioning/on-device-decisioning"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/target-activities-guide",
+    "title": "Tipos de atividade do Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/tipos-de-atividade-do-target-941f19b0.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/test-ab",
+    "title": "Visão geral do teste A/B",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-do-teste-ab-1964cd30.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/auto-allocate/automated-traffic-allocation",
+    "title": "Visão geral das Auto-Allocate",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-das-auto-allocate-20067a22.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/multivariate-test/multivariate-testing",
+    "title": "Visão geral das Multivariate Test",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-das-multivariate-test-4a87bce5.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/experience-targeting/experience-target",
+    "title": "Experience Targeting (XT)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/experience-targeting-xt-6f39ceb8.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/cja/target-reporting-in-cja",
+    "title": "Target relatórios em Adobe Customer Journey Analytics",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/target-relatórios-em-adobe-customer-journey-analytics-702587ff.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/form-experience-composer",
+    "title": "Experience Composer baseado em formulário",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/experience-composer-baseado-em-formulário-ea65aa02.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/success-metrics/success-metrics",
+    "title": "Success metrics",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/success-metrics-5b809f32.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/edit-activity",
+    "title": "Editar uma atividade",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/editar-uma-atividade-b6ac891b.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/experience-composer-best-practices",
+    "title": "Práticas recomendadas e limitações do Visual Experience Composer",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/práticas-recomendadas-e-limitações-do-visual-experience-composer-bff1cd48.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/spa-visual-experience-composer",
+    "title": "Aplicativo de página única (SPA) no Visual Experience Composer",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/aplicativo-de-página-única-spa-no-visual-experience-composer-c1cfa323.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/before-implement/considerations-before-you-implement-target",
+    "title": "Antes da implementação",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/antes-da-implementação-ebc7bb93.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/aep/aep-web-sdk-overview",
+    "title": "SDK da Web da Adobe Experience Platform",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/sdk-da-web-da-adobe-experience-platform-5a57103c.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/overview",
+    "title": "Visão geral: implementar o Target para Web no lado do cliente",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-implementar-o-target-para-web-no-lado-do-cliente-b7e524fb.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/server-side-overview",
+    "title": "Lado do servidor: implementar o Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/lado-do-servidor-implementar-o-target-3018a963.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/node-js/overview",
+    "title": "Visão geral do SDK Node.js",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-do-sdk-nodejs-beb87496.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/java/overview",
+    "title": "Visão geral do Java SDK",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-do-java-sdk-b3dabbb0.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/net/overview",
+    "title": "Visão geral do .NET SDK",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-do-net-sdk-3aba7461.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/python/overview",
+    "title": "Visão geral do Python SDK",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-do-python-sdk-a5510da8.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/hybrid-overview",
+    "title": "Implementação híbrida",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/implementação-híbrida-513e0489.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/recommendations",
+    "title": "Planejar e implementar o Recommendations",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/planejar-e-implementar-o-recommendations-dd277b2e.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implement-email/overview",
+    "title": "Email: implementação de Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/email-implementação-de-target-c077a2a4.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/delivery-api/overview",
+    "title": "Visão geral da API de entrega",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-da-api-de-entrega-12255cf1.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/admin-api/admin-api-overview-new",
+    "title": "API de administração do Adobe Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/api-de-administração-do-adobe-target-d9370be1.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/profile-apis/profiles-api",
+    "title": "Visão geral das Adobe Target Profiles API",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-das-adobe-target-profiles-api-abf694e2.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/models-api/models-api-overview",
+    "title": "Adobe Target Models API",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/adobe-target-models-api-e0068dba.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/before-implement/prepare-to-implement-target",
+    "title": "Preparação para implementar o Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/preparação-para-implementar-o-target-0d5853d5.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/visual-experience-composer-set-up",
+    "title": "Configurar o Visual Experience Composer",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/configurar-o-visual-experience-composer-e0ba9af7.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/scene7-settings",
+    "title": "Configuração do Dynamic Media Classic (antigo Scene7)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/configuração-do-dynamic-media-classic-antigo-scene7-49b9fc2b.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/implement-target/implementing-target",
+    "title": "Implementar o Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/implementar-o-target-ded78efc.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/hosts",
+    "title": "Hosts",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/hosts-04eee173.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/environments",
+    "title": "Ambientes",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/ambientes-e013d201.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/response-tokens",
+    "title": "Tokens de resposta",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/tokens-de-resposta-bfc20a17.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/manage-users/user-management",
+    "title": "Gerenciamento do usuário",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/gerenciamento-do-usuário-d22e555c.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/recommendations-settings",
+    "title": "Definir configurações para Recommendations",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/definir-configurações-para-recommendations-33de178f.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/auto-allocate/determine-winner",
+    "title": "Interpretar relatórios de Auto-Allocate",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/interpretar-relatórios-de-auto-allocate-f139e528.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/settings/report-settings",
+    "title": "Configurações do relatório",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/configurações-do-relatório-e21963c2.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/settings/downloading-data-in-csv-file",
+    "title": "Download de dados em um arquivo CSV",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/download-de-dados-em-um-arquivo-csv-36e30a6b.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/insights/automated-segments-report",
+    "title": "Relatório de Automated Segments",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/relatório-de-automated-segments-32e07fae.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/insights/important-attributes-report",
+    "title": "Relatório de atributos importantes",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/relatório-de-atributos-importantes-1ac44282.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/personalization-reports/reports-ap",
+    "title": "Relatórios de resumo de Automated Personalization",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/relatórios-de-resumo-de-automated-personalization-b2aa5705.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/multivariate-test-reports/experience-performance-report",
+    "title": "Relatório Experience Performance (MVT)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/relatório-experience-performance-mvt-3a10d520.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/multivariate-test-reports/location-contribution-report",
+    "title": "Relatório Location Contribution (MVT)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/relatório-location-contribution-mvt-d4a4fb95.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/sample-size-determination",
+    "title": "Por quanto tempo você deve executar um teste A/B?",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/por-quanto-tempo-você-deve-executar-um-teste-ab-a8733a52.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/personalization-reports/auto-target-summary-report",
+    "title": "Auto-Target Summary report",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/auto-target-summary-report-d1f5d6d6.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/insights/personalization-insights-reports",
+    "title": "Personalization Insights relatórios",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/personalization-insights-relatórios-1a77a795.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/analytics-for-target-a4t-reporting",
+    "title": "Relatórios do Analytics for Adobe Target (A4T)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/relatórios-do-analytics-for-adobe-target-a4t-aa9fabae.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/troubleshoot-composer/visual-editing-helper-extension",
+    "title": "Extensão Visual Editing Helper",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/extensão-visual-editing-helper-16d20d2c.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-activity/create-recs-activity",
+    "title": "Criar uma atividade Recommendations",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/criar-uma-atividade-recommendations-14961e89.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/profile-apis/profile-bulk-api",
+    "title": "Adobe Target Bulk Profile Update API",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/adobe-target-bulk-profile-update-api-99f3a74c.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/privacy/allowlist-edges",
+    "title": "Incluir na lista de permissões Target nós de borda",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/incluir-na-lista-de-permissões-target-nós-de-borda-d5b46534.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/troubleshoot/target-limits",
+    "title": "Limites",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/limites-8aa205ae.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/managing-exclusions",
+    "title": "Gerenciar exclusões",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/gerenciar-exclusões-e5d764ab.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/implement-cname-support-in-target",
+    "title": "CNAME e Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/cname-e-target-b539fee8.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/offers/about-remote-offers",
+    "title": "Criar ofertas remotas",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/criar-ofertas-remotas-9ec59f88.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-activity/previewing-and-launching-your-recommendations-activity",
+    "title": "Pré-visualizar e iniciar atividade do Recomendações",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/pré-visualizar-e-iniciar-atividade-do-recomendações-ab63c2d6.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/vec-selectors",
+    "title": "Seletores de elementos usados no Visual Experience Composer",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/seletores-de-elementos-usados-no-visual-experience-composer-90367145.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/integration/a4t-reporting",
+    "title": "Relatórios do Analytics for Target (A4T)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/relatórios-do-analytics-for-target-a4t-b813f5a9.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/a4t/overview-a4t",
+    "title": "Adobe Analytics for Target (A4T) fazendo logon no Experience Platform Web SDK",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/adobe-analytics-for-target-a4t-fazendo-logon-no-experience-platform-web-sdk-cdc5a389.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/entities/feeds",
+    "title": "Feeds",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/feeds-124e3bf1.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/integrating-with-rtcdp",
+    "title": "Integrar com a Real-Time Customer Data Platform",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/integrar-com-a-real-time-customer-data-platform-8ffea4fc.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/start-target",
+    "title": "Primeiros passos do administrador",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/primeiros-passos-do-administrador-d435b35e.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-faq/recommendations-faq",
+    "title": "Perguntas frequentes do Recomendações",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/perguntas-frequentes-do-recomendações-f2677e72.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/entities/collections",
+    "title": "Coleções",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/coleções-31fded18.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/troubleshoot-composer/troubleshooting-issues-related-to-the-enhanced-experience-composer-eec",
+    "title": "Solução de problemas relacionados ao Enhanced Experience Composer",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/solução-de-problemas-relacionados-ao-enhanced-experience-composer-0ca3d939.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4t-at-aa",
+    "title": "Suporte do A4T para atividades de Auto-Allocate e Auto-Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/suporte-do-a4t-para-atividades-de-auto-allocate-e-auto-target-6e1199cc.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/supported-browsers",
+    "title": "Navegadores compatíveis",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/navegadores-compatíveis-ad2b808b.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/activity-qa/activity-qa-bookmark",
+    "title": "Bookmarklet de controle de qualidade da atividade",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/bookmarklet-de-controle-de-qualidade-da-atividade-bbadd545.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-faq/ip-addresses-marketing-cloud",
+    "title": "Endereços IP usados por Recommendations servidores de processamento de feed",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/endereços-ip-usados-por-recommendations-servidores-de-processamento-de-feed-38a9a108.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/recommendations-api/overview",
+    "title": "Visão geral da API do Adobe Recommendations",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-da-api-do-adobe-recommendations-5b36f31e.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/getting-started",
+    "title": "Introdução aos Target SDKs",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/introdução-aos-target-sdks-3630c600.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/deploy-at-js/implement-target-using-adobe-launch",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/deploy-at-js/implement-target-using-adobe-launch"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/troubleshoot-a4t/a4t-troubleshooting",
+    "title": "Solução de problemas da integração do Analytics e do Target (A4T)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/solução-de-problemas-da-integração-do-analytics-e-do-target-a4t-4aaae28e.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4timplementation",
+    "title": "Implementação do Analytics para Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/implementação-do-analytics-para-target-58582a6a.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4t-faq/a4t-faq-redirect-offers",
+    "title": "Ofertas de redirecionamento - Perguntas frequentes sobre o A4T",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/ofertas-de-redirecionamento-perguntas-frequentes-sobre-o-a4t-1021c80e.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/offers/offer-redirect",
+    "title": "Criar Ofertas de redirecionamento",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/criar-ofertas-de-redirecionamento-160ebe4e.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/redirect-offer",
+    "title": "Redirecionar para um URL",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/redirecionar-para-um-url-8c7c097d.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/cmp-target-standard-cheatsheet",
+    "title": "Perguntas frequentes sobre otimização e personalização do Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/perguntas-frequentes-sobre-otimização-e-personalização-do-target-229cfbd3.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/troubleshoot-activities/troubleshooting-activities",
+    "title": "Solução de problemas de atividades",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/solução-de-problemas-de-atividades-1c2ba5b3.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/common-ab-testing-pitfalls",
+    "title": "Dez erros comuns em testes A/B e como evitá-los",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/dez-erros-comuns-em-testes-ab-e-como-evitá-los-810d9c25.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/auto-target/auto-target-troubleshooting-faqs",
+    "title": "Auto-Target Perguntas frequentes e solução de problemas",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/auto-target-perguntas-frequentes-e-solução-de-problemas-5b8760e7.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/automated-personalization-faq",
+    "title": "Perguntas frequentes sobre o Automated Personalization",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/perguntas-frequentes-sobre-o-automated-personalization-5d6cd55c.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/ap-trouble",
+    "title": "Solução de problemas Automated Personalization",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/solução-de-problemas-automated-personalization-9b7a5e9b.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/multivariate-test/best-practices",
+    "title": "Multivariate Test práticas recomendadas",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/multivariate-test-práticas-recomendadas-d0a58e33.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/multivariate-test/create-mvt/traffic-estimator",
+    "title": "Estimar o tráfego necessário para uma atividade Multivariate Test bem-sucedida",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/estimar-o-tráfego-necessário-para-uma-atividade-multivariate-test-bem-sucedida-4248ebc7.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-design/template-faq",
+    "title": "Perguntas e respostas sobre design",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/perguntas-e-respostas-sobre-design-ba9e620b.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4t-faq/a4t-faq-initial-provisioning",
+    "title": "Provisionamento inicial - Perguntas frequentes sobre o A4T",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/provisionamento-inicial-perguntas-frequentes-sobre-o-a4t-d4b4429b.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4t-faq/a4t-faq-activity-setup",
+    "title": "Configurações de atividade - Perguntas frequentes sobre o A4T",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/configurações-de-atividade-perguntas-frequentes-sobre-o-a4t-7e4079b4.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4t-faq/a4t-faq-viewing-reports",
+    "title": "Exibição de relatórios - Perguntas frequentes sobre o A4T",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/exibição-de-relatórios-perguntas-frequentes-sobre-o-a4t-e1ec6659.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4t-faq/a4t-faq-lift-and-confidence",
+    "title": "Aumento e Confiança - Perguntas frequentes sobre o A4T",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/aumento-e-confiança-perguntas-frequentes-sobre-o-a4t-7a6b1028.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4t-faq/a4t-faq-metric-definition",
+    "title": "Definições de métricas - Perguntas frequentes sobre o A4T",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/definições-de-métricas-perguntas-frequentes-sobre-o-a4t-061b4c09.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4t-faq/a4t-faq-sharing-metrics-audiences-reports",
+    "title": "Compartilhamento de métricas, segmentos e relatórios - Perguntas frequentes sobre o A4T",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/compartilhamento-de-métricas-segmentos-e-relatórios-perguntas-frequentes-sobre-o-a4t-90c5fd3f.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4t-faq/a4t-faq-classifications",
+    "title": "Classificações - Perguntas frequentes sobre o A4T",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/classificações-perguntas-frequentes-sobre-o-a4t-3a8add1c.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4t-faq/a4t-faq-old-integration",
+    "title": "Integração herdada do SiteCatalyst ao Test&Target - Perguntas frequentes sobre o A4T",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/integração-herdada-do-sitecatalyst-ao-testtarget-perguntas-frequentes-sobre-o-a4t-e188cabd.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/faq-audiences/troubleshooting-targets-and-audiences",
+    "title": "Perguntas frequentes sobre direcionamentos e públicos",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/perguntas-frequentes-sobre-direcionamentos-e-públicos-e47c7baa.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/visitor-profiles/profile-parameters",
+    "title": "Atributos do perfil",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/atributos-do-perfil-30e7c3a3.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/site-pages",
+    "title": "Páginas do site",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/páginas-do-site-d10e9709.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/troubleshoot-activities/content-trouble",
+    "title": "Soluções de problemas da entrega de conteúdo",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/soluções-de-problemas-da-entrega-de-conteúdo-16b03644.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/troubleshoot-composer/troubleshoot-composer",
+    "title": "Solução de problemas do Visual Experience Composer e no Enhanced Experience Composer",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/solução-de-problemas-do-visual-experience-composer-e-no-enhanced-experience-composer-15a971b5.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/activity-collisions",
+    "title": "Conflitos de atividades",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/conflitos-de-atividades-1ed2e35b.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/global-mbox/global-mbox-faq",
+    "title": "Perguntas frequentes sobre a Mbox global",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/perguntas-frequentes-sobre-a-mbox-global-5305a2ba.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/targeting-using-cloud-based-instances",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/targeting-using-cloud-based-instances"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/target-atjs-faq",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/target-atjs-faq"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/target-debugging-atjs",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/target-debugging-atjs"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/mobile-apps/mobile-faq",
+    "title": "Perguntas frequentes sobre o Target for mobile apps",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/perguntas-frequentes-sobre-o-target-for-mobile-apps-9dc2a9f1.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/reporting-frequently-asked-questions",
+    "title": "Perguntas frequentes de geração de relatórios",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/perguntas-frequentes-de-geração-de-relatórios-9d8c18b3.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/at-js/how-atjs-works",
+    "title": "Como a at.js funciona",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/como-a-atjs-funciona-001d5a3b.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/privacy/content-security-policy",
+    "title": "Diretivas da Política de segurança de conteúdo (CSP)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/diretivas-da-política-de-segurança-de-conteúdo-csp-58d01211.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/system-status-updates",
+    "title": "Atualizações do status do sistema e notificações proativas",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/atualizações-do-status-do-sistema-e-notificações-proativas-2bd6a9c8.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/geo",
+    "title": "Geografia",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/geografia-bb0ac320.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/manage-users/users/troubleshooting-user-management",
+    "title": "Solução de problemas de gerenciamento de usuários",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/solução-de-problemas-de-gerenciamento-de-usuários-d95d18ac.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/modifications/vec-code-editor",
+    "title": "Modificações",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/modificações-607a606e.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-faq/recommendations-classic-versus-recommendations-activities-target-premium",
+    "title": "Atividades do Recommendations Classic versus Recommendations no Target Premium",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/atividades-do-recommendations-classic-versus-recommendations-no-target-premium-46c89057.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/algorithms",
+    "title": "Criteria",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/criteria-3ec42a88.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/entities/products",
+    "title": "Entidades",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/entidades-55884edf.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-design/create-design",
+    "title": "Criar um design",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/criar-um-design-c6d6df4a.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/delivery-api/getting-started",
+    "title": "Introdução à API de entrega do Adobe Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/introdução-à-api-de-entrega-do-adobe-target-3ebc9ad7.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/configure-authentication",
+    "title": "Configurar autenticação para Adobe Target APIs",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/configurar-autenticação-para-adobe-target-apis-ae8cfcf4.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/mcp/target-mcp",
+    "title": "Adobe Target servidor MCP target-mcp",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/adobe-target-servidor-mcp-target-mcp-dc3a6590.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/insights-dashboard",
+    "title": "Painel do Adobe Target Insights",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/painel-do-adobe-target-insights-9b07039d.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/a4t/overview-a4t?lang=en",
+    "title": "Adobe Analytics for Target (A4T) fazendo logon no Experience Platform Web SDK",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/adobe-analytics-for-target-a4t-fazendo-logon-no-experience-platform-web-sdk-f5106885.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/audiences",
+    "title": "Criar públicos-alvo",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/criar-públicos-alvo-d00a7bc3.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/change-log",
+    "title": "Log de alterações da atividade",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/log-de-alterações-da-atividade-72ba2ae8.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/entities/catalog-search",
+    "title": "Catalog Search",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/catalog-search-6dece71d.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/offers/create-json-offer",
+    "title": "Criar ofertas JSON",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/criar-ofertas-json-89a46314.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/troubleshoot-composer/vec-helper-browser-extension",
+    "title": "Extensão auxiliar do Visual Experience Composer",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/extensão-auxiliar-do-visual-experience-composer-9f104eb7.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/browser",
+    "title": "Browser",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/browser-152ad38a.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/target-rules",
+    "title": "Categorias para públicos",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/categorias-para-públicos-c8162c15.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/activity-qa/activity-qa",
+    "title": "Controle de qualidade da atividade",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/controle-de-qualidade-da-atividade-c1a2bc0a.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation-patterns/atjs/recs-implementation-pattern-atjs",
+    "title": "Visão geral do padrão de implementação Recommendations usando at.js",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-do-padrão-de-implementação-recommendations-usando-atjs-1c2ca70d.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/aem/fragments/content-fragments-aem",
+    "title": "AEM Content Fragments",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/aem-content-fragments-74e26780.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities",
+    "title": "Configurar relatórios do A4T em Analysis Workspace para Auto-Allocate atividades",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/configurar-relatórios-do-a4t-em-analysis-workspace-para-auto-allocate-atividades-0305be3f.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities",
+    "title": "Configurar relatórios do A4T em Analysis Workspace para Auto-Target atividades",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/configurar-relatórios-do-a4t-em-analysis-workspace-para-auto-target-atividades-fe5d11e3.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/combining-multiple-audiences",
+    "title": "Combinar vários públicos",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/combinar-vários-públicos-46069275.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/offers/aem-experience-fragments",
+    "title": "Fragmentos de experiência e conteúdo do AEM",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/fragmentos-de-experiência-e-conteúdo-do-aem-be874a13.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/models-api/models-api",
+    "title": "Visão geral da API de modelos",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-da-api-de-modelos-2323f873.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/user-agent-and-client-hints",
+    "title": "User-agent e Client Hints",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/user-agent-e-client-hints-cee6ab62.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/visitor-profiles/visitor-profile",
+    "title": "Perfis do visitante",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/perfis-do-visitante-64161aed.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/targetglobalsettings",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/targetglobalsettings"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/create-new-algorithm",
+    "title": "Criar critérios",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/criar-critérios-1ae450a0.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/base-the-recommendation-on-a-recommendation-key",
+    "title": "Basear a recomendação em uma chave de recomendação",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/basear-a-recomendação-em-uma-chave-de-recomendação-5cd63117.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/troubleshoot-composer/issues-related-to-the-visual-experience-composer-vec-and-enhanced-experience-composer-eec",
+    "title": "Solução de problemas relacionados ao Adobe Target Visual Experience Composer e Enhanced Experience Composer",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/solução-de-problemas-relacionados-ao-adobe-target-visual-experience-composer-e-enhanced-experience-composer-de181bc7.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/dynamic-static/use-dynamic-and-static-inclusion-rules",
+    "title": "Uso das regras de inclusão estática e dinâmica",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/uso-das-regras-de-inclusão-estática-e-dinâmica-d7cc73a2.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/create-criteria-sequence",
+    "title": "Criar sequências de critérios",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/criar-sequências-de-critérios-37135796.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/experience-as-control",
+    "title": "Selecione o controle para sua atividade Automated Personalization ou Auto-Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/selecione-o-controle-para-sua-atividade-automated-personalization-ou-auto-target-d8c00553.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/manage-users/users/user-management",
+    "title": "Usuários",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/usuários-356944ce.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/manage-users/enterprise/properties-overview",
+    "title": "Configuração de permissões empresariais",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/configuração-de-permissões-empresariais-f1db3202.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/reporting",
+    "title": "Relatórios do A4T",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/relatórios-do-a4t-3296af99.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/work-with-multi-value-attributes",
+    "title": "Trabalhar com atributos de vários valores",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/trabalhar-com-atributos-de-vários-valores-61cc7b9a.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/manage-users/enterprise/configure-adobe-io-integration",
+    "title": "Conceder acesso às integrações do Adobe I/O para espaços de trabalho e atribuir funções",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/conceder-acesso-às-integrações-do-adobe-io-para-espaços-de-trabalho-e-atribuir-funções-0b36f1df.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/privacy/apple-itp-2x",
+    "title": "Apple Intelligent Tracking Prevention (ITP) 2.x",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/apple-intelligent-tracking-prevention-itp-2x-8f4f4961.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/success-metrics/click-tracking",
+    "title": "Rastreamento de cliques",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/rastreamento-de-cliques-ce379cbe.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/ap-data",
+    "title": "Dados usados por algoritmos de aprendizado de máquina do Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/dados-usados-por-algoritmos-de-aprendizado-de-máquina-do-target-ce436298.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/privacy/google-chrome-samesite-cookie-policies",
+    "title": "Políticas de cookies do Google Chrome para SameSite",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/políticas-de-cookies-do-google-chrome-para-samesite-8752ae62.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/privacy/cmp-privacy-and-general-data-protection-regulation",
+    "title": "Privacidade e regulamentos sobre proteção de dados",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/privacidade-e-regulamentos-sobre-proteção-de-dados-7b5ba6b0.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/before-implement",
+    "title": "Antes de implementar o Analytics for Target (A4T) com a at.js",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/antes-de-implementar-o-analytics-for-target-a4t-com-a-atjs-bf1a5bf2.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/adobe-target-sendnotifications-atjs-21",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/adobe-target-sendnotifications-atjs-21"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/offers/assets-working",
+    "title": "Trabalhar com conteúdo na biblioteca Asset",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/trabalhar-com-conteúdo-na-biblioteca-asset-060d7c85.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/deploy-at-js/target-atjs-single-page-application",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/deploy-at-js/target-atjs-single-page-application"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/entities/exclusions",
+    "title": "Exclusões",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/exclusões-cda86825.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/experience-targeting/create-targeting/xt-add-experience",
+    "title": "Criar experiência em atividades do Experience Targeting (XT)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/criar-experiência-em-atividades-do-experience-targeting-xt-12dee41b.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/create/ab-add-experience",
+    "title": "Adicionar experiência",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/adicionar-experiência-a724fcbd.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/creating-a-profile-attribute-comparison-audience",
+    "title": "Criar um público-alvo de comparação do atributo de perfil",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/criar-um-público-alvo-de-comparação-do-atributo-de-perfil-1557e2b3.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/modifications/experience-templates",
+    "title": "Modelos de experiência",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/modelos-de-experiência-7b4288db.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/mobile",
+    "title": "Dispositivo móvel",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/dispositivo-móvel-c7459128.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/custom-parameters",
+    "title": "Parâmetros personalizados",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/parâmetros-personalizados-a6d98a8f.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/tls-transport-layer-security-encryption",
+    "title": "Alterações na criptografia do TLS (Transport Layer Security)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/alterações-na-criptografia-do-tls-transport-layer-security-ff3eff94.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/deploy-at-js/implement-target-without-a-tag-manager",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/deploy-at-js/implement-target-without-a-tag-manager"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/atjs-functions",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/atjs-functions"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/statistical-methodology/statistical-calculations",
+    "title": "Cálculos estatísticos em testes A/Bn",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/cálculos-estatísticos-em-testes-abn-c70a40db.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/time-frame",
+    "title": "Time Frame",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/time-frame-3b75c58e.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/creating-activity-only-audience",
+    "title": "Criar um público-alvo com apenas uma atividade",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/criar-um-público-alvo-com-apenas-uma-atividade-edb8b29c.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/recommendations-csv",
+    "title": "Upload dos critérios personalizados",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/upload-dos-critérios-personalizados-72cf7227.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/apply-reporting-audience-success-metric",
+    "title": "Aplicar um relatório de público-alvo a uma métrica de sucesso",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/aplicar-um-relatório-de-público-alvo-a-uma-métrica-de-sucesso-dd71ef0d.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/create/ab-audience",
+    "title": "Seleção do público-alvo",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/seleção-do-público-alvo-233facbc.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/settings/view-multiple-metrics",
+    "title": "Exibir várias métricas em um relatório",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/exibir-várias-métricas-em-um-relatório-e34f4b4d.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/methods/profile-api-settings",
+    "title": "Configurações da API de perfil",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/configurações-da-api-de-perfil-df3f80f2.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/troubleshoot-composer/mixed-content",
+    "title": "Ativar conteúdo misto no navegador",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/ativar-conteúdo-misto-no-navegador-88c9dc4b.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-design/customizing-a-template",
+    "title": "Personalizar um design usando o Velocity",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/personalizar-um-design-usando-o-velocity-e43391ae.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/experience-targeting/create-targeting/xt-goals-and-settings",
+    "title": "Metas e Configurações nas atividades de Experience Targeting (XT)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/metas-e-configurações-nas-atividades-de-experience-targeting-xt-b40de8da.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/multivariate-test/create-mvt/goals-and-settings",
+    "title": "Metas e Configurações (Multivariate Test)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/metas-e-configurações-multivariate-test-d49357a1.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/multivariate-test/create-mvt/preview-experiences",
+    "title": "Visualizar experiências para um Multivariate Test",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visualizar-experiências-para-um-multivariate-test-ed0815d7.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-activity/adding-promotions",
+    "title": "Adicionar promoções",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/adicionar-promoções-9f14538a.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/offers/filter-and-search-content",
+    "title": "Pesquisar e filtrar conteúdo",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/pesquisar-e-filtrar-conteúdo-0a1f29a5.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/visitor-profiles/category-affinity",
+    "title": "Afinidade de categorias",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/afinidade-de-categorias-6109703d.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/activity-settings",
+    "title": "Configurações de atividade",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/configurações-de-atividade-6ccfd5a3.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/entities/custom-entity-attributes",
+    "title": "Atributos de entidade personalizados",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/atributos-de-entidade-personalizados-75a822ae.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/create/target-experience-to-multiple-audiences",
+    "title": "Vários públicos-alvo de uma experiência em um Teste A/B",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/vários-públicos-alvo-de-uma-experiência-em-um-teste-ab-1af015b6.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/analytics-tracking-server",
+    "title": "Usar um servidor de rastreamento do Analytics",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/usar-um-servidor-de-rastreamento-do-analytics-380c7069.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/target-access-from-mac",
+    "title": "Acessar o Target pela Adobe Experience Cloud",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/acessar-o-target-pela-adobe-experience-cloud-2734c929.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/visitor-profiles/variables-profiles-parameters-methods",
+    "title": "Glossário de variáveis e perfis",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/glossário-de-variáveis-e-perfis-d39777df.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/temtest",
+    "title": "Incluir a mesma experiência em páginas semelhantes",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/incluir-a-mesma-experiência-em-páginas-semelhantes-c634dd52.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/mobile-viewports",
+    "title": "Visores móveis para experiências responsivas",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visores-móveis-para-experiências-responsivas-591264bf.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/ap-target-offers",
+    "title": "Ofertas do Target Automated Personalization",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/ofertas-do-target-automated-personalization-214ed187.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/multipage-activity",
+    "title": "Atividade multipáginas",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/atividade-multipáginas-63d6995e.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/visitor-profile",
+    "title": "Perfil do visitante",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/perfil-do-visitante-67ef73f7.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/ap-traffic-estimator",
+    "title": "Estimativa de tráfego exigido para o sucesso",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/estimativa-de-tráfego-exigido-para-o-sucesso-418f63bd.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/ap-preview-experiences",
+    "title": "Visualizar experiências em Automated Personalization atividades no Visual Experience Composer (VEC)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visualizar-experiências-em-automated-personalization-atividades-no-visual-experience-composer-vec-c9de16d0.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/priority",
+    "title": "Prioridade",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/prioridade-379c4427.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/create/create-a4t",
+    "title": "Usando dados de Adobe Analytics",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/usando-dados-de-adobe-analytics-c1a6bf88.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/algo-random-forest",
+    "title": "Algoritmo Random Forest",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/algoritmo-random-forest-2d79c3a4.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/methods/methods-to-get-data-into-target",
+    "title": "Visão geral dos métodos",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-dos-métodos-e8826049.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/uploading-data-for-the-target-personalization-algorithms",
+    "title": "Carregar dados para os algoritmos de personalização do Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/carregar-dados-para-os-algoritmos-de-personalização-do-target-8177506f.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/auto-target/reporting-and-auto-target",
+    "title": "Relatórios e Auto-Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/relatórios-e-auto-target-f01a574b.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-design/design-overview",
+    "title": "Visão geral do design",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-do-design-594de780.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/welcome/target-welcome-kit-1",
+    "title": "Capítulo 1: Introdução",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/capítulo-1-introdução-5aef1089.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/welcome/target-welcome-kit-2",
+    "title": "Capítulo 2: Principais características do Adobe Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/capítulo-2-principais-características-do-adobe-target-6d54ee7f.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/welcome/target-welcome-kit-3",
+    "title": "Capítulo 3: desenvolver ideias de teste e personalização",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/capítulo-3-desenvolver-ideias-de-teste-e-personalização-b083572a.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/welcome/target-welcome-kit-4",
+    "title": "Capítulo 4: dicas para usar o Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/capítulo-4-dicas-para-usar-o-target-f0041a30.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/welcome/target-welcome-kit-5",
+    "title": "Capítulo 5: Inspiração para atividades de teste e personalização.",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/capítulo-5-inspiração-para-atividades-de-teste-e-personalização-a8061dae.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/welcome/target-welcome-kit-6",
+    "title": "Capítulo 6: Armadilhas que podem ser evitadas facilmente",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/capítulo-6-armadilhas-que-podem-ser-evitadas-facilmente-5949787d.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/welcome/target-welcome-kit-7",
+    "title": "Capítulo 7: Criar e executar a primeira atividade do Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/capítulo-7-criar-e-executar-a-primeira-atividade-do-target-cc605ad7.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/welcome/target-welcome-kit-8",
+    "title": "Capítulo 8: Comunicar os resultados da atividade",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/capítulo-8-comunicar-os-resultados-da-atividade-2a013fc9.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/welcome/target-welcome-kit-9",
+    "title": "Capítulo 9: Próximas etapas e recursos",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/capítulo-9-próximas-etapas-e-recursos-c18b3321.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/aem/fragments/experience-fragments-aem",
+    "title": "AEM Experience Fragments",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/aem-experience-fragments-d31f04e7.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/offers/create-content-folder",
+    "title": "Criar pastas de ofertas",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/criar-pastas-de-ofertas-3a164260.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/aem/fragments/aem-experience-and-content-fragments",
+    "title": "Visão geral do AEM Experience Fragments e Content Fragments",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-do-aem-experience-fragments-e-content-fragments-94614737.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-learn/tutorials/implementation/understanding-how-atjs-20-works",
+    "title": "Entender como a at.js 2.0 do Adobe Target funciona",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/entender-como-a-atjs-20-do-adobe-target-funciona-460b3367.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-learn/tutorials/experiences/use-the-visual-experience-composer-for-single-page-applications",
+    "title": "Uso do Visual Experience Composer para Aplicativos de Página Única (SPA VEC) no Adobe Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/uso-do-visual-experience-composer-para-aplicativos-de-página-única-spa-vec-no-adobe-target-f1cfa12f.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/create/ab-activity-url",
+    "title": "URL da atividade",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/url-da-atividade-05d8c106.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/offer-reporting-groups-in-automated-personalization",
+    "title": "Oferecer grupos de relatório em Automated Personalization",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/oferecer-grupos-de-relatório-em-automated-personalization-7658d88b.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/experience-targeting/create-targeting/xt-activity-url",
+    "title": "URL da atividade em Experience Targeting (XT) atividades",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/url-da-atividade-em-experience-targeting-xt-atividades-4462bb72.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/multivariate-test/create-mvt/url",
+    "title": "URL da atividade",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/url-da-atividade-1831aaa3.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/multivariate-test/create-mvt/add-offers",
+    "title": "Criar combinações",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/criar-combinações-ae195825.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/multivariate-test/create-mvt/test-summary",
+    "title": "Resumo do teste (Multivariate Test)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/resumo-do-teste-multivariate-test-55e3218f.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/create/ab-set-metrics",
+    "title": "Definir métricas",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/definir-métricas-73ea708f.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/on-device-decisioning/supported-features",
+    "title": "Visão geral dos recursos compatíveis",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-dos-recursos-compatíveis-2b4c3629.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/on-device-decisioning/on-device-decisioning",
+    "title": "Decisão no dispositivo para at.js",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/decisão-no-dispositivo-para-atjs-18b847b6.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/network",
+    "title": "Rede",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/rede-293929c3.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/operating-system",
+    "title": "Sistema operacional",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/sistema-operacional-dcc45f65.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/traffic-sources",
+    "title": "Fontes de tráfego",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/fontes-de-tráfego-ab513041.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/auto-allocate/faster-results-higher-revenue",
+    "title": "Auto-Allocate fornece resultados de teste mais rápidos e receita maior do que um teste manual",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/auto-allocate-fornece-resultados-de-teste-mais-rápidos-e-receita-maior-do-que-um-teste-manual-63ccc774.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/overview",
+    "title": "Visão geral da biblioteca JavaScript do at.js",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-da-biblioteca-javascript-do-atjs-3289b053.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/ajo/offer-decision",
+    "title": "Usar decisões de oferta",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/usar-decisões-de-oferta-9fd52398.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/adobe-target-triggerview-atjs-2",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/adobe-target-triggerview-atjs-2"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/methods/customer-attributes",
+    "title": "Atributos do cliente",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/atributos-do-cliente-0d8b429a.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/privacy/privacy",
+    "title": "Privacidade",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/privacidade-3a6609f2.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/target-security-overview",
+    "title": "Visão geral da segurança do Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-da-segurança-do-target-9c2a7926.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/at-js/overview",
+    "title": "Visão geral da biblioteca JavaScript do at.js",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-da-biblioteca-javascript-do-atjs-64c9416f.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/aep/web-sdk-atjs-comparison",
+    "title": "Comparar a biblioteca at.js com a Adobe Experience Platform Web SDK",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/comparar-a-biblioteca-atjs-com-a-adobe-experience-platform-web-sdk-47bba26f.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/sample-apps",
+    "title": "Visão geral dos aplicativos de exemplo",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-dos-aplicativos-de-exemplo-d2f83acc.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/node-js/install-sdk",
+    "title": "Instale o Node js. SDK",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/instale-o-node-js-sdk-ae265abe.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/java/install-sdk",
+    "title": "Instalar o Java SDK",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/instalar-o-java-sdk-56ee48c0.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/net/install-sdk",
+    "title": "Instalar o .NET SDK",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/instalar-o-net-sdk-e4b70a6c.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/python/install-sdk",
+    "title": "Instalar o Python SDK",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/instalar-o-python-sdk-75a123e8.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-learn/tutorials/implementation/hybrid-deployment",
+    "title": "Implantação híbrida do Adobe Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/implantação-híbrida-do-adobe-target-ca926fef.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/deploy-at-js/implement-target-without-a-tag-manager",
+    "title": "Implementar o Target sem um gerenciador de tags",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/implementar-o-target-sem-um-gerenciador-de-tags-e4328a2a.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implement-email/working-with-redirectors",
+    "title": "Trabalhar com redirecionadores",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/trabalhar-com-redirecionadores-7bd40c51.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/aep-web-sdk",
+    "title": "SDK da Web da Adobe Experience Platform",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/sdk-da-web-da-adobe-experience-platform-daf51f9c.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/atjs-custom-events",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/atjs-custom-events"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/aa-testing",
+    "title": "Teste A/A",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/teste-aa-08c6d543.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/settings/excluding-extreme-orders",
+    "title": "Excluir valores extremos",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/excluir-valores-extremos-0e3a89f8.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-activity/recs-activity-settings",
+    "title": "Configurações de atividade do Recommendations",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/configurações-de-atividade-do-recommendations-bfe7d579.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/how-target-works",
+    "title": "Como o Adobe Target funciona",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/como-o-adobe-target-funciona-7c0fe9f0.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/targetglobalsettings",
+    "title": "targetGlobalSettings()",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/targetglobalsettings-3f9f6b9b.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/backup-recs",
+    "title": "Usar uma recomendação de backup",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/usar-uma-recomendação-de-backup-feb91ca6.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/a4t/client-side-logging",
+    "title": "Logon do lado do cliente para dados A4T no Experience Platform Web SDK",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/logon-do-lado-do-cliente-para-dados-a4t-no-experience-platform-web-sdk-27a99aeb.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/atjs-cookies",
+    "title": "Cookies do at.js",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/cookies-do-atjs-bf894e09.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/on-device-decisioning/rule-artifact/rule-artifact-overview",
+    "title": "Visão geral do artefato da regra",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-do-artefato-da-regra-98d272c5.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/account-reqs",
+    "title": "Exigências de permissão do usuário",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/exigências-de-permissão-do-usuário-bbc140e6.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/adobe-target-getoffers-atjs-2",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/adobe-target-getoffers-atjs-2"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/understanding-expected-data-variances",
+    "title": "Variações de dados esperadas entre o Adobe Target e o Adobe Analytics ao usar e não usar A4T",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/variações-de-dados-esperadas-entre-o-adobe-target-e-o-adobe-analytics-ao-usar-e-não-usar-a4t-84867c71.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/troubleshoot-composer/vec-scenarios",
+    "title": "Cenários de modificação da página",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/cenários-de-modificação-da-página-1dba7b8c.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/visitor-profiles/3rd-party-id",
+    "title": "Sincronização de perfil em tempo real para mbox3rdPartyId",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/sincronização-de-perfil-em-tempo-real-para-mbox3rdpartyid-fdc2eef9.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/global-mbox/pass-parameters-to-global-mbox",
+    "title": "Envio de parâmetros para uma mbox global",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/envio-de-parâmetros-para-uma-mbox-global-4eb0256a.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/profile-apis/profile-api-overview",
+    "title": "Atualizar perfis",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/atualizar-perfis-3f994a21.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/troubleshoot-composer/troubleshooting-issues-related-to-the-visual-experience-composer-vec",
+    "title": "Solução de problemas relacionados ao Visual Experience Composer",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/solução-de-problemas-relacionados-ao-visual-experience-composer-d5ae6dd0.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/targetpageparams",
+    "title": "targetPageParams()",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/targetpageparams-ec4ee06f.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/visitor-profiles/visitor-profile-lifetime",
+    "title": "Duração do perfil do visitante",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/duração-do-perfil-do-visitante-16ef1039.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/target-atjs-versions",
+    "title": "Detalhes da versão da at.js",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/detalhes-da-versão-da-atjs-f94c22d7.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/upgrading-from-atjs-1x-to-atjs-20",
+    "title": "Atualização da at.js 1. x para at.js 2. x",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/atualização-da-atjs-1-x-para-atjs-2-x-37e9c5c3.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/deploy-at-js/target-atjs-single-page-application",
+    "title": "Implementação do aplicativo de página única",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/implementação-do-aplicativo-de-página-única-c3e3c41b.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/deploy-at-js/implement-target-using-adobe-launch",
+    "title": "Implementar o Targetusando a Adobe Experience Platform",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/implementar-o-targetusando-a-adobe-experience-platform-60557c3d.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/mcp/target-mcp-tools-reference",
+    "title": "Referência de ferramentas do servidor MCP Adobe Target target-mcp-tools-reference",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/referência-de-ferramentas-do-servidor-mcp-adobe-target-target-mcp-tools-reference-4fe27d11.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/mcp/target-mcp-use-cases",
+    "title": "Servidor MCP Adobe Target — casos de uso e apresentações target-mcp-use-cases",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/servidor-mcp-adobe-target-casos-de-uso-e-apresentações-target-mcp-use-cases-82a99d4d.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/mcp/target-mcp-get-started",
+    "title": "Introdução ao servidor MCP Adobe Target target-mcp-get-started",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/introdução-ao-servidor-mcp-adobe-target-target-mcp-get-started-8cc1fb3f.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/adobe-target-getoffer",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/adobe-target-getoffer"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation-patterns/atjs/initialize-sdk",
+    "title": "Inicializar SDKs",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/inicializar-sdks-d9639df4.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation-patterns/atjs/data-collection",
+    "title": "Configurar coleção de dados",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/configurar-coleção-de-dados-5c1787a7.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation-patterns/atjs/render-experiences",
+    "title": "Renderizar experiências",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/renderizar-experiências-010516d0.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation-patterns/atjs/notify-target",
+    "title": "Notificar Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/notificar-target-80d4e7d3.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/core-principles/audience-targeting",
+    "title": "Direcionamento de público",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/direcionamento-de-público-74e540c7.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/use-adobe-analytics-with-recommendations",
+    "title": "Usar Adobe Analytics com Recommendations",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/usar-adobe-analytics-com-recommendations-9f928224.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/dynamic-static/entity-attribute-matching",
+    "title": "Correspondência de atributos de entidade",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/correspondência-de-atributos-de-entidade-e1e41fa6.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/dynamic-static/profile-attribute-matching",
+    "title": "Correspondência de atributo de perfil",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/correspondência-de-atributo-de-perfil-12c04290.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/dynamic-static/parameter-matching",
+    "title": "Parameter Matching",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/parameter-matching-aef5034b.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/dynamic-static/static-value",
+    "title": "Static Filter",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/static-filter-e09da726.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/targetpageparamsall",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/targetpageparamsall"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/entities/entity-attributes",
+    "title": "Atributos da entidade",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/atributos-da-entidade-5b9a8b4c.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/methods/page-parameters",
+    "title": "Parâmetros da página",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/parâmetros-da-página-e1735055.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/methods/in-page-profile-attributes",
+    "title": "Atributos de perfil na página",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/atributos-de-perfil-na-página-e40640f2.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/methods/script-profile-attributes",
+    "title": "Atributos de perfil de script",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/atributos-de-perfil-de-script-44544138.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/methods/data-providers",
+    "title": "Provedores de dados",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/provedores-de-dados-145f0f97.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/methods/bulk-profile-update-api",
+    "title": "API de atualização de perfil em massa",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/api-de-atualização-de-perfil-em-massa-22eab125.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/methods/single-profile-update-api",
+    "title": "API de atualização de perfil único",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/api-de-atualização-de-perfil-único-b3b30d0c.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/audience-manager-target-integration",
+    "title": "Integrar Target a Adobe Audience Manager (AAM)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/integrar-target-a-adobe-audience-manager-aam-1f9c812e.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/apis/api-overview",
+    "title": "SDKs e APIs do Adobe Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/sdks-e-apis-do-adobe-target-a45a440b.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/visitor-profiles/working-with-customer-attributes",
+    "title": "Atributos do cliente",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/atributos-do-cliente-0f2792d3.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/target-standard-premium-training-videos",
+    "title": "Vídeos de treinamento do Adobe Target Standard e Premium",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/vídeos-de-treinamento-do-adobe-target-standard-e-premium-86e5cba6.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/training-and-certification",
+    "title": "Treinamento e certificado",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/treinamento-e-certificado-fa25b056.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/on-device-decisioning/supported-features",
+    "title": "Recursos com suporte para decisão no dispositivo",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/recursos-com-suporte-para-decisão-no-dispositivo-373779ce.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/on-device-decisioning/rule-artifact",
+    "title": "Artefato da regra de decisão no dispositivo",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/artefato-da-regra-de-decisão-no-dispositivo-676561bf.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/adobe-target-getoffers-atjs-2",
+    "title": "adobe.target.getOffers() - at.js 2.x",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/adobetargetgetoffers-atjs-2x-c24880f9.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/at-js/manage-flicker-with-atjs",
+    "title": "Como a at.js gerencia a cintilação",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/como-a-atjs-gerencia-a-cintilação-27ba85e7.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/at-js/target-atjs-integrations",
+    "title": "Integrações da at.js",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/integrações-da-atjs-50fbd9a2.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/adobe-target-trackevent",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/adobe-target-trackevent"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/adobe-target-triggerview-atjs-2",
+    "title": "adobe.target.triggerView (viewName, options) - at.js 2.x",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/adobetargettriggerview-viewname-options-atjs-2x-4acf7909.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/aep/spa-implementation",
+    "title": "Implementação de aplicativos de página única",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/implementação-de-aplicativos-de-página-única-fed3f5bf.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/aep/accessing-response-tokens",
+    "title": "Acesso aos tokens de resposta",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/acesso-aos-tokens-de-resposta-86fc2b42.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/targetpageparams",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/targetpageparams"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-learn/tutorials/implementation/on-device-decisioning-overview",
+    "title": "Visão geral da decisão no dispositivo",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/visão-geral-da-decisão-no-dispositivo-0bf1fd1c.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/atjs-functions",
+    "title": "Funções da at.js",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/funções-da-atjs-803b70b5.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/deploy-at-js/how-to-deployatjs",
+    "status": "error",
+    "error": "404 Client Error: Not Found for url: https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/deploy-at-js/how-to-deployatjs"
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-learn/tutorials/integrations/use-data-providers-to-integrate-third-party-data",
+    "title": "Usar provedores de dados para integrar dados de terceiros ao Adobe Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/usar-provedores-de-dados-para-integrar-dados-de-terceiros-ao-adobe-target-7881ce9e.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-learn/tutorials/integrations/implement-data-providers-to-integrate-third-party-data",
+    "title": "Implementar Provedores de dados para integrar dados de terceiros ao Adobe Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/implementar-provedores-de-dados-para-integrar-dados-de-terceiros-ao-adobe-target-412dcbc4.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/a4t/server-side-a4t",
+    "title": "Logon do lado do servidor para dados A4T em Experience Platform Web SDK",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/logon-do-lado-do-servidor-para-dados-a4t-em-experience-platform-web-sdk-18fd1ead.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/on-device-decisioning/rule-artifact/rule-artifact-sdk",
+    "title": "Baixando, armazenando e atualizando automaticamente o artefato de regra por meio do SDK Adobe Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/baixando-armazenando-e-atualizando-automaticamente-o-artefato-de-regra-por-meio-do-sdk-adobe-target-a382560a.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/on-device-decisioning/rule-artifact/rule-artifact-json",
+    "title": "Baixar, armazenar e atualizar o artefato da regra por meio da carga JSON",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/baixar-armazenar-e-atualizar-o-artefato-da-regra-por-meio-da-carga-json-c83cf13f.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/on-device-decisioning/rule-artifact/rule-artifact-example",
+    "title": "Exemplo de artefato de regra",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/exemplo-de-artefato-de-regra-a7173698.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/targetpageparamsall",
+    "title": "targetPageParamsAll()",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/targetpageparamsall-f2193ddf.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/profile-apis/profile-single-api",
+    "title": "Adobe Target Single Profile Update API",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/adobe-target-single-profile-update-api-f25be675.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/adobe-target-sendnotifications-atjs-21",
+    "title": "adobe.target.sendNotifications(options)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/adobetargetsendnotificationsoptions-9863f621.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/atjs-custom-events",
+    "title": "Eventos personalizados da at.js",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/eventos-personalizados-da-atjs-81a1ef02.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/target-atjs-faq",
+    "title": "Perguntas frequentes sobre at.js",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/perguntas-frequentes-sobre-atjs-53a91bde.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/adobe-target-getoffer",
+    "title": "adobe.target.getOffer(options)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/adobetargetgetofferoptions-2619266a.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/deploy-at-js/how-to-deployatjs",
+    "title": "Como implantar a at.js",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/como-implantar-a-atjs-66a15e0d.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/adobe-target-trackevent",
+    "title": "adobe.target.trackEvent(options)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/adobetargettrackeventoptions-d93268c6.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/adobe-target-applyoffers-atjs-2",
+    "title": "adobe.target.applyOffers(options) - at.js 2.x",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/adobetargetapplyoffersoptions-atjs-2x-9c98f761.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/target-library",
+    "title": "Biblioteca do Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/biblioteca-do-target-5cf6ed20.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/plan-implement",
+    "title": "Planejar e implementar o Recommendations",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/planejar-e-implementar-o-recommendations-1156f299.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/global-mbox/customize-global-mbox",
+    "title": "Personalizar uma mbox global",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/personalizar-uma-mbox-global-c9698c35.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/adobe-target-applyoffer",
+    "title": "adobe.target.applyOffer(options)",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/adobetargetapplyofferoptions-6e24fce0.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/mboxcreate-atjs",
+    "title": "mboxCreate(mbox,params) - at.js 1.x",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/mboxcreatemboxparams-atjs-1x-98689d40.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/mboxdefine-mboxupdate-atjs-1x",
+    "title": "mboxDefine() e mboxUpdate() - at.js 1.x",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/mboxdefine-e-mboxupdate-atjs-1x-fc3db8d9.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/registerextension-atjs-1x",
+    "title": "registerExtension() - at.js 1.x",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/registerextension-atjs-1x-21500cdb.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/targeting-using-cloud-based-instances",
+    "title": "Usar instâncias baseadas em nuvem com Target",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/usar-instâncias-baseadas-em-nuvem-com-target-1abeeafb.md",
+    "status": "saved",
+    "section_title": null
+  },
+  {
+    "url": "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/target-debugging-atjs",
+    "title": "Depurar a at.js usando o Adobe Experience Cloud Debugger",
+    "saved_path": "/Users/luizcarlosgrandisoli/Library/CloudStorage/OneDrive-Adobe/RFP_knowledge/target_guides/depurar-a-atjs-usando-o-adobe-experience-cloud-debugger-3df40a83.md",
+    "status": "saved",
+    "section_title": null
+  }
+]

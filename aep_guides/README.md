@@ -359,10 +359,12 @@ Generated from Adobe Experience Platform documentation.
   - ingest-batch-data-from-talonone-into-experience-platform-using-the-ui.md
   - ingest-payments-data-from-your-stripe-account-to-experience-platform-using-apis.md
   - ingest-payments-data-from-your-stripe-account-to-experience-platform-using-the-user-interface.md
+  - manage-sources-dataflows-in-the-ui.md
   - monitor-dataflows-for-streaming-sources-in-the-ui.md
   - monitor-dataflows-in-the-ui.md
   - monitor-sources-dataflows-using-the-flow-service-api.md
   - on-demand-ingestion-for-sources-dataflows-in-the-ui.md
+  - private-link-support-for-sources-in-the-ui.md
   - stream-data-from-your-snowflake-database-to-experience-platform-using-the-ui.md
   - stream-snowflake-data-to-experience-platform-using-the-flow-service-api.md
   - stream-talonone-data-to-experience-platform-using-the-ui.md
@@ -517,6 +519,7 @@ Generated from Adobe Experience Platform documentation.
   - profile-endpoint.md
   - properties-endpoint.md
   - reactor-api-guide.md
+  - repair-data-element-references-repair-data-element-references.md
   - search-endpoint.md
   - secrets-endpoint.md
 - tags/api/endpoints

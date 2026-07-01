@@ -1,0 +1,703 @@
+# Customer Journey Analytics Knowledge Index
+
+Generated from Experience League Customer Journey Analytics documentation.
+
+## overview
+
+- analytics-platform/using/cja-components/alerts
+  - alerts-overview.md
+- analytics-platform/using/cja-components/annotations
+  - annotations-overview.md
+- analytics-platform/using/cja-components/audiences
+  - audience-publishing-overview.md
+- analytics-platform/using/cja-components/cja-calcmetrics
+  - calculated-metrics-overview.md
+- analytics-platform/using/cja-components/cja-date-ranges
+  - date-ranges-overview.md
+- analytics-platform/using/cja-components/data-dictionary
+  - data-dictionary-overview-data-dictionary-overview.md
+- analytics-platform/using/cja-components/dimensions
+  - dimensions-overview.md
+- analytics-platform/using/cja-components/overview
+  - components-overview.md
+- analytics-platform/using/cja-components/real-time-reporting
+  - real-time-reporting-overview.md
+- analytics-platform/using/cja-components/segments
+  - segmentation-overview.md
+- analytics-platform/using/cja-connections/audience-analysis
+  - audience-analysis-overview.md
+- analytics-platform/using/cja-connections/overview
+  - connections-overview.md
+- analytics-platform/using/cja-dashboards/home
+  - analytics-dashboards-overview.md
+- analytics-platform/using/cja-data-ingestion/data-ingestion
+  - data-ingestion-overview.md
+- analytics-platform/using/cja-data-mirror/data-mirror
+  - experience-platform-data-mirror-overview.md
+- analytics-platform/using/cja-dataviews/component-settings
+  - component-settings-component-settings.md
+- analytics-platform/using/cja-dataviews/data-views
+  - data-views-overview.md
+- analytics-platform/using/cja-dataviews/shared-metrics-dimensions
+  - shared-metrics-dimensions-overview.md
+- analytics-platform/using/cja-landing
+  - customer-journey-analytics-guide.md
+- analytics-platform/using/cja-overview/cja-b2b
+  - b2b-edition-concepts-and-features.md
+  - b2b-edition-quick-start-guide.md
+  - customer-journey-analytics-b2b-edition-2.md
+  - customer-journey-analytics-b2b-edition.md
+  - transition-guide.md
+- analytics-platform/using/cja-overview/cja-b2c-overview
+  - ai-assistant-for-adobe-customer-journey-analytics.md
+  - compare-customer-journey-analytics-to-bi-solutions.md
+  - customer-journey-analytics-landing-page.md
+  - customer-journey-analytics-overview.md
+  - frequently-asked-questions-2.md
+  - quick-start-guide.md
+  - visualize-data-with-data-insights-agent-2.md
+  - visualize-data-with-data-insights-agent.md
+- analytics-platform/using/cja-overview/cja-faq
+  - frequently-asked-questions-3.md
+- analytics-platform/using/cja-overview/cja-getting-started
+  - quick-start-guide-2.md
+- analytics-platform/using/cja-overview/cja-overview
+  - customer-journey-analytics-overview-2.md
+- analytics-platform/using/cja-overview/landing
+  - customer-journey-analytics-landing-page-3.md
+- analytics-platform/using/cja-privacy/privacy-overview
+  - adobe-customer-journey-analytics-and-data-governance.md
+- analytics-platform/using/cja-reportbuilder/rb-overview
+  - report-builder-overview.md
+- analytics-platform/using/cja-usecases/b2b
+  - b2b-edition-use-cases-overview.md
+- analytics-platform/using/cja-usecases/data-export
+  - data-export-use-cases-data-export-use-cases.md
+- analytics-platform/using/cja-usecases/third-party
+  - migrate-data-from-google-analytics.md
+  - quantum-metric-integration-use-cases.md
+- analytics-platform/using/cja-workspace/anomaly-detection
+  - anomaly-detection-overview.md
+- analytics-platform/using/cja-workspace/build-workspace-project
+  - folders-overview.md
+  - projects-overview.md
+- analytics-platform/using/cja-workspace/curate-share
+  - curate-and-share-projects-overview.md
+- analytics-platform/using/cja-workspace/export
+  - export-overview.md
+- analytics-platform/using/cja-workspace/forecasting
+  - forecasting-overview.md
+- analytics-platform/using/cja-workspace/home
+  - analysis-workspace-overview-analysis-workspace-overview.md
+- analytics-platform/using/cja-workspace/panels
+  - panels-overview-panels-overview.md
+- analytics-platform/using/cja-workspace/visualizations
+  - cohort-table-overview-cohort-table-overview.md
+  - fallout-overview-fallout-overview.md
+  - flow-overview-flow.md
+  - freeform-table-overview-freeform-table-overview.md
+  - journey-canvas-overview-journey-canvas-overview-2.md
+  - journey-canvas-overview-journey-canvas-overview.md
+  - visualizations-overview.md
+- analytics-platform/using/compare-aa-cja/cja-aa-comparison
+  - comparison-with-adobe-analytics.md
+- analytics-platform/using/compare-aa-cja/ga-to-cja
+  - transitioning-from-google-analytics-4-to-customer-journey-analytics.md
+- analytics-platform/using/content-analytics/content-analytics
+  - content-analytics-overview.md
+- analytics-platform/using/content-analytics/report
+  - content-analytics-reporting-overview.md
+- analytics-platform/using/guided-analysis/overview
+  - guided-analysis-overview.md
+- analytics-platform/using/integrations/overview
+  - integrate-adobe-solutions-with-customer-journey-analytics.md
+- analytics-platform/using/reporting-activity-manager/reporting-activity-overview
+  - reporting-activity-manager-overview.md
+- analytics-platform/using/stitching/overview
+  - stitching-overview.md
+- analytics-platform/using/tools/product-usage
+  - product-usage-overview.md
+- analytics/analytics-tutorials
+  - analysis-workspace-overview-analysis-workspace-overview-2.md
+  - analytics-tutorials.md
+- customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects
+  - analysis-workspace-overview.md
+- customer-journey-analytics-learn/tutorials/cja-basics/customer-journey-analytics-landing-page
+  - customer-journey-analytics-landing-page-2.md
+- customer-journey-analytics-learn/tutorials/data-views/overview-of-configuring-data-views-for-cja
+  - overview-of-configuring-data-views-for-customer-journey-analytics.md
+- customer-journey-analytics-learn/tutorials/overview
+  - customer-journey-analytics-tutorials.md
+
+## guides
+
+- analytics-platform/using/cja-dashboards/executive
+  - executive-user-quick-start-guide.md
+- analytics-platform/using/cja-data-ingestion/ingest-use-guides
+  - ingest-and-use-ad-hoc-data.md
+  - ingest-and-use-batch-data.md
+  - ingest-and-use-data-from-adobe-analytics.md
+  - ingest-and-use-data-using-source-connectors.md
+  - ingest-and-use-streaming-data.md
+  - ingest-data-via-the-edge-network-server-api.md
+  - ingest-data-via-the-mobile-sdk.md
+  - ingest-data-via-the-web-sdk.md
+- analytics-platform/using/cja-usecases/data-views
+  - derived-fields-guidelines.md
+- analytics-platform/using/compare-aa-cja/aa-to-cja-user
+  - user-guide-for-adobe-analytics-users.md
+- analytics-platform/using/content-analytics/configuration
+  - content-analytics-guided-configuration.md
+- analytics-platform/using/guided-analysis/active-growth
+  - active-growth-analysis-active-growth.md
+- analytics-platform/using/guided-analysis/conversion-trends
+  - conversion-trends-analysis-conversion-trends.md
+- analytics-platform/using/guided-analysis/engagement
+  - engagement-analysis-engagement.md
+- analytics-platform/using/guided-analysis/first-use-impact
+  - first-use-impact-analysis-first-use-impact.md
+- analytics-platform/using/guided-analysis/frequency
+  - frequency-analysis-frequency.md
+- analytics-platform/using/guided-analysis/funnel
+  - funnel-analysis-funnel-2.md
+  - funnel-analysis-funnel.md
+- analytics-platform/using/guided-analysis/net-growth
+  - net-growth-analysis-net-growth.md
+- analytics-platform/using/guided-analysis/release-impact
+  - release-impact-analysis-release-impact.md
+- analytics-platform/using/guided-analysis/retention
+  - retention-analysis-retention.md
+- analytics-platform/using/guided-analysis/timeline
+  - timeline-analysis-timeline.md
+- analytics-platform/using/guided-analysis/trends
+  - trends-analysis-trends.md
+- analytics-platform/using/labs/labs
+  - labs-user-guide.md
+- customer-journey-analytics-learn/tutorials/guided-analysis/funnel
+  - funnel.md
+
+## tutorials
+
+- analytics/analytics-tutorials
+  - adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md
+  - adobe-analytics-dashboards-in-app-experience.md
+  - adobe-analytics-dashboards-scorecard-builder.md
+  - algorithmic-model-in-attribution-iq.md
+  - anomaly-detection-in-analysis-workspace-anomaly-detection-in-analysis-workspace.md
+  - approximate-count-distinct-function-in-calculated-metrics-approximate-count-distinct-function-in-calculated-metrics.md
+  - calculated-metrics-segmented-metrics-calculated-metrics-segmented-metrics.md
+  - cohort-analysis-in-analysis-workspace-cohort-analysis-in-analysis-workspace.md
+  - create-a-fallout-visualization.md
+  - create-a-flow-visualization.md
+  - create-a-table-of-contents-in-analysis-workspace-create-a-table-of-contents-in-analysis-workspace.md
+  - create-hyperlinks-in-freeform-tables-2.md
+  - easy-drag-and-drop-to-blank-projects.md
+  - intelligent-alerts-in-adobe-analytics-intelligent-alerts-in-adobe-analytics.md
+  - link-inside-or-outside-of-your-project.md
+  - media-concurrent-viewers-panel-in-analysis-workspace.md
+  - media-playback-time-spent-panel.md
+  - rolling-date-ranges-in-segments-rolling-date-ranges-in-segments.md
+  - row-and-column-settings-in-freeform-tables.md
+  - sequential-segmentation-in-adobe-analytics-sequential-segmentation-in-adobe-analytics.md
+  - training-tutorial-template-in-analysis-workspace.md
+  - using-date-ranges-and-comparisons-in-analysis-workspace.md
+  - using-drop-down-filters-in-analysis-workspace-using-drop-down-filters-in-analysis-workspace.md
+  - venn-diagram-visualization-in-analysis-workspace.md
+  - work-with-dimensions-in-a-freeform-table.md
+- customer-journey-analytics-learn/tutorials/analysis-workspace/curate-and-share
+  - share-with-anyone-in-analysis-workspace.md
+- customer-journey-analytics-learn/tutorials/analysis-workspace/panels
+  - add-components-to-the-freeform-panel.md
+- customer-journey-analytics-learn/tutorials/analysis-workspace/tips-and-tricks
+  - create-dynamic-drop-down-segments-in-analysis-workspace.md
+- customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations
+  - add-area-visualizations-to-analysis-workspace-projects-in-customer-journey-analytics.md
+  - add-bar-visualizations-to-analysis-workspace-projects-in-customer-journey-analytics.md
+  - add-bullet-graph-visualizations-to-analysis-workspace-projects-in-customer-journey-analytics.md
+  - add-donut-visualizations-to-analysis-workspace-projects-in-customer-journey-analytics.md
+  - add-scatter-visualizations-in-analysis-workspace-projects-in-customer-journey-analytics.md
+  - add-summary-visualizations-to-analysis-workspace-projects-in-customer-journey-analytics.md
+  - add-text-visualizations-to-analysis-workspace-projects-in-customer-journey-analytics.md
+  - add-the-tree-map-visualization-to-analysis-workspace-projects-in-customer-journey-analytics.md
+  - configure-and-use-the-map-visualization.md
+  - create-intelligent-captions.md
+  - cross-channel-attribution-in-customer-journey-analytics.md
+  - line-visualization-in-customer-journey-analytics.md
+- customer-journey-analytics-learn/tutorials/architecture/architecture-and-integrations-of-cja
+  - architecture-and-integrations-of-customer-journey-analytics.md
+- customer-journey-analytics-learn/tutorials/cja-basics/understanding-customer-journey-analytics
+  - introduction-to-customer-journey-analytics.md
+- customer-journey-analytics-learn/tutorials/cja-basics/what-is-customer-journey-analytics
+  - what-is-customer-journey-analytics.md
+- customer-journey-analytics-learn/tutorials/components/calc-metrics
+  - introduction-to-calculated-metrics-in-customer-journey-analytics.md
+  - move-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md
+- customer-journey-analytics-learn/tutorials/components/data-dictionary
+  - use-the-data-dictionary.md
+- customer-journey-analytics-learn/tutorials/components/filters
+  - create-a-quick-segment.md
+  - move-adobe-analytics-segments-to-customer-journey-analytics.md
+  - use-segments-as-dimensions-in-analysis-workspace-projects.md
+- customer-journey-analytics-learn/tutorials/connections/connecting-customer-journey-analytics-to-data-sources-in-platform
+  - connect-customer-journey-analytics-to-experience-platform-data-sources.md
+- customer-journey-analytics-learn/tutorials/connections/connections-details-experience-in-cja
+  - view-troubleshoot-and-modify-connection-settings.md
+- customer-journey-analytics-learn/tutorials/dashboards/assist-executives-to-access-mobile-scorecards
+  - assist-executives-to-access-mobile-scorecards.md
+- customer-journey-analytics-learn/tutorials/dashboards/create-a-mobile-scorecard
+  - create-a-mobile-scorecard.md
+- customer-journey-analytics-learn/tutorials/data-prep/working-with-data-in-cja
+  - working-with-data-in-customer-journey-analytics.md
+- customer-journey-analytics-learn/tutorials/data-views/binding-dimensions-in-data-views
+  - binding-dimensions-in-data-views.md
+- customer-journey-analytics-learn/tutorials/data-views/component-type-settings-in-data-views
+  - component-type-settings-in-data-views.md
+- customer-journey-analytics-learn/tutorials/data-views/derived-fields
+  - create-derived-fields-in-customer-journey-analytics-2.md
+- customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja
+  - create-derived-fields-in-customer-journey-analytics.md
+- customer-journey-analytics-learn/tutorials/exporting/report-builder
+  - report-builder-for-customer-journey-analytics.md
+  - schedule-customer-journey-analytics-workbooks-using-report-builder.md
+- customer-journey-analytics-learn/tutorials/visitor-id/stitching-enablement-and-validation
+  - cja-stitching-enablement-and-validation.md
+- customer-journey-analytics-learn/tutorials/visitor-id/understanding-how-customer-journey-analytics-uses-identity
+  - understanding-how-customer-journey-analytics-uses-identity.md
+
+## reference
+
+- analytics-platform/using/cja-dataviews/component-reference
+  - standard-component-reference.md
+- analytics-platform/using/cja-workspace/user-preferences
+  - user-preferences.md
+
+## release-notes
+
+- analytics-platform/using/releases/2026
+  - 2026-customer-journey-analytics-release-notes.md
+- analytics-platform/using/releases/latest
+  - current-customer-journey-analytics-release-notes-june-2026.md
+
+## other
+
+- analytics-platform/using/cja-components/add-component-descriptions
+  - add-component-descriptions.md
+- analytics-platform/using/cja-components/alerts
+  - alert-use-cases.md
+  - alerts-feature-comparison.md
+  - create-alerts-create-alerts.md
+  - manage-alerts.md
+- analytics-platform/using/cja-components/annotations
+  - create-annotations.md
+  - manage-annotations.md
+  - mobile-scorecard-annotations.md
+- analytics-platform/using/cja-components/apply-create-metrics
+  - metrics.md
+- analytics-platform/using/cja-components/audiences
+  - create-and-publish-audiences-create-and-publish-audiences-2.md
+  - create-and-publish-audiences-create-and-publish-audiences.md
+  - manage-published-audiences.md
+- analytics-platform/using/cja-components/cja-calcmetrics
+  - advanced-functions.md
+  - approve-calculated-metrics.md
+  - basic-functions.md
+  - build-calculated-metrics-build-metrics.md
+  - calculated-metrics-templates.md
+  - copy-calculated-metrics.md
+  - create-calculated-metrics.md
+  - filter-the-list-of-calculated-metrics.md
+  - find-metrics.md
+  - manage-calculated-metrics-2.md
+  - manage-calculated-metrics.md
+  - mark-calculated-metrics-as-favorite.md
+  - metric-type-and-attribution.md
+  - participation-metrics.md
+  - segmented-metrics.md
+  - share-calculated-metrics.md
+  - tag-calculated-metrics.md
+  - use-functions.md
+- analytics-platform/using/cja-components/cja-date-ranges
+  - create-date-ranges.md
+  - date-comparison.md
+  - example-custom-date-ranges.md
+  - manage-date-ranges.md
+- analytics-platform/using/cja-components/cja-filters
+  - manage-segments-2.md
+  - manage-segments-3.md
+- analytics-platform/using/cja-components/cja-segments
+  - create-segments-2.md
+  - quick-segments-2.md
+- analytics-platform/using/cja-components/data-dictionary
+  - edit-component-entries.md
+  - monitor-data-dictionary-health-monitor-data-dictionary.md
+  - view-component-information.md
+- analytics-platform/using/cja-components/dimensions
+  - break-down-dimensions.md
+  - high-cardinality-dimensions.md
+  - preview-dimensions.md
+  - time-parting-dimensions.md
+- analytics-platform/using/cja-components/exports
+  - configure-cloud-export-accounts.md
+  - configure-cloud-export-locations-configure-cloud-export-locations.md
+  - manage-cloud-export-locations-and-accounts.md
+  - manage-export-logs.md
+  - manage-exports.md
+  - troubleshoot-failed-exports.md
+- analytics-platform/using/cja-components/real-time-reporting
+  - use-real-time-reporting-use-real-time-reporting.md
+- analytics-platform/using/cja-components/scheduled-projects-manager
+  - scheduled-projects.md
+- analytics-platform/using/cja-components/segments
+  - approve-segments.md
+  - build-segments-build-segments.md
+  - copy-segments.md
+  - create-segments.md
+  - filter-the-list-of-segments.md
+  - manage-segments.md
+  - mark-segments-as-favorite.md
+  - operators.md
+  - quick-segments.md
+  - sequential-segments.md
+  - share-segments.md
+  - tag-segments.md
+- analytics-platform/using/cja-components/use-components-in-workspace
+  - use-components-in-a-project.md
+- analytics-platform/using/cja-connections/audience-analysis
+  - analyze-experience-platform-audiences-in-customer-journey-analytics-analyze-audiences-rtcdp.md
+  - audience-analysis-use-cases-analyze-audiences-use-cases.md
+  - configure-audience-analysis-configure-audience-analysis.md
+  - manage-audience-analysis-configurations-manage-audience-analysis.md
+- analytics-platform/using/cja-connections/combined-dataset
+  - combined-event-datasets.md
+- analytics-platform/using/cja-connections/create-connection
+  - create-or-edit-a-connection-create-or-edit-a-connection.md
+- analytics-platform/using/cja-connections/manage-connections
+  - manage-connections-manage-connections-2.md
+  - manage-connections-manage-connections.md
+- analytics-platform/using/cja-connections/standard-lookups
+  - add-standard-lookups-to-your-datasets.md
+- analytics-platform/using/cja-connections/transform-datasets-b2b-lookups
+  - transform-datasets-for-b2b-lookups.md
+- analytics-platform/using/cja-dashboards/create-scorecard
+  - create-a-mobile-scorecard-create-a-mobile-scorecard.md
+- analytics-platform/using/cja-dashboards/curator
+  - curator-tasks.md
+- analytics-platform/using/cja-dashboards/manage-scorecard
+  - manage-scorecards.md
+- analytics-platform/using/cja-dashboards/set-up-execs
+  - set-up-executive-users-to-use-dashboards.md
+- analytics-platform/using/cja-data-mirror/configure
+  - configure-customer-journey-analytics.md
+  - configure-data-warehouse-native-solutions.md
+  - configure-experience-platform.md
+- analytics-platform/using/cja-data-mirror/considerations
+  - experience-platform-data-mirror-considerations.md
+- analytics-platform/using/cja-data-mirror/relational
+  - mirror-and-use-relational-data.md
+- analytics-platform/using/cja-dataviews/bi-extension
+  - customer-journey-analytics-bi-extension.md
+- analytics-platform/using/cja-dataviews/component-settings
+  - attribution-component-settings-attribution-component-settings.md
+  - behavior-component-settings-behavior-component-settings.md
+  - format-component-settings-format-component-settings.md
+  - include-exclude-values-component-settings-include-exclude-values-component-settings.md
+  - metric-deduplication-component-settings-metric-deduplication-component-settings.md
+  - no-value-options-component-settings-no-value-options-component-settings.md
+  - persistence-component-settings-persistence-component-settings.md
+  - substring-component-settings-substring-component-settings.md
+  - summary-data-group-component-settings-summary-data-group-component-settings.md
+  - value-bucketing-component-settings-value-bucketing-component-settings.md
+- analytics-platform/using/cja-dataviews/create-dataview
+  - create-or-edit-a-data-view.md
+- analytics-platform/using/cja-dataviews/data-governance
+  - labels-and-policies.md
+- analytics-platform/using/cja-dataviews/derived-fields
+  - derived-fields-derived-fields.md
+- analytics-platform/using/cja-dataviews/manage-dataviews
+  - manage-data-views.md
+- analytics-platform/using/cja-dataviews/session-settings
+  - session-settings-session-settings.md
+- analytics-platform/using/cja-dataviews/shared-metrics-dimensions
+  - shared-component-editor.md
+- analytics-platform/using/cja-dataviews/summary-data
+  - summary-data.md
+- analytics-platform/using/cja-privacy/audit-log
+  - audit-logs-audit-logs.md
+- analytics-platform/using/cja-privacy/cmk
+  - customer-managed-keys.md
+- analytics-platform/using/cja-reportbuilder/create-a-data-block
+  - create-a-data-block.md
+- analytics-platform/using/cja-reportbuilder/filter-dimensions
+  - filter-dimensions.md
+- analytics-platform/using/cja-reportbuilder/manage-reportbuilder
+  - manage-data-blocks.md
+- analytics-platform/using/cja-reportbuilder/manage-schedules-reportbuilder
+  - manage-scheduled-workbooks.md
+- analytics-platform/using/cja-reportbuilder/report-builder-export
+  - schedule-workbooks-by-exporting-to-cloud-destinations.md
+- analytics-platform/using/cja-reportbuilder/restricted-labels
+  - restricted-labels-in-report-builder.md
+- analytics-platform/using/cja-reportbuilder/schedule-reportbuilder
+  - schedule-workbooks-by-sharing-through-email.md
+- analytics-platform/using/cja-reportbuilder/select-data-view
+  - select-a-data-view.md
+- analytics-platform/using/cja-reportbuilder/select-date-range
+  - select-a-date-range.md
+- analytics-platform/using/cja-reportbuilder/work-with-filters
+  - work-with-segments.md
+- analytics-platform/using/cja-usecases/aa-data
+  - combine-report-suites-with-different-schemas.md
+  - use-marketing-channel-dimensions.md
+- analytics-platform/using/cja-usecases/b2b
+  - an-example-person-based-b2b-project.md
+  - build-product-value.md
+  - grow-key-accounts.md
+  - optimize-account-marketing.md
+  - setup-for-b2b-edition-use-cases.md
+- analytics-platform/using/cja-usecases/complex-data
+  - use-arrays-of-objects.md
+- analytics-platform/using/cja-usecases/cross-channel
+  - cross-channel-analysis-cross-channel.md
+  - import-call-center-and-web-data.md
+- analytics-platform/using/cja-usecases/data-export
+  - bi-extension.md
+  - export-datasets.md
+  - export-full-table.md
+  - query-service-data-distiller-export-datasets.md
+- analytics-platform/using/cja-usecases/data-ingestion
+  - ingest-and-use-experience-platform-audiences.md
+- analytics-platform/using/cja-usecases/data-views
+  - bi-extension-use-cases.md
+  - caveats.md
+  - connect-and-validate.md
+  - count-distinct-values-dimensions.md
+  - daily-trend.md
+  - data-views-use-cases.md
+  - hourly-trend.md
+  - limits.md
+  - monthly-trend.md
+  - multiple-dimension-ranked.md
+  - report-on-llm-and-ai-generated-traffic.md
+  - single-dimension-ranked.md
+  - sort.md
+  - transformations.md
+  - use-binding-dimensions-and-metrics.md
+  - use-date-range-names-to-filter.md
+  - use-derived-fields-to-report-on-goals.md
+  - use-dimension-values-to-segment.md
+  - use-segment-names-to-segment.md
+  - use-summary-data.md
+  - visualizations.md
+- analytics-platform/using/cja-usecases/product-analysis
+  - product-analysis-in-customer-journey-analytics.md
+- analytics-platform/using/cja-usecases/stitching
+  - shared-devices.md
+- analytics-platform/using/cja-usecases/third-party
+  - add-quantum-metric-friction-events-to-customer-journey-analytics.md
+  - configure-streaming-google-analytics-data.md
+  - ingest-google-analytics-historical-data.md
+  - report-on-google-analytics-data.md
+  - tie-quantum-metric-session-replays-to-data-in-customer-journey-analytics.md
+  - use-quantum-metric-heatmaps-with-customer-journey-analytics.md
+- analytics-platform/using/cja-workspace/anomaly-detection
+  - statistical-techniques-2.md
+  - view-anomalies.md
+- analytics-platform/using/cja-workspace/build-workspace-project
+  - add-and-manage-comments-in-projects-comment-on-projects-2.md
+  - add-and-manage-comments-in-projects-comment-on-projects.md
+  - add-or-move-projects-to-folders.md
+  - create-folders.md
+  - create-projects-create-projects.md
+  - hotkeys.md
+  - manage-folders.md
+  - open-projects.md
+  - save-projects-save-projects.md
+  - table-of-contents.md
+  - view-density.md
+  - visualization-color-palettes-visualization-color-palettes.md
+- analytics-platform/using/cja-workspace/curate-share
+  - create-shareable-links.md
+  - curate-projects.md
+  - data-storytelling-generate-slide-presentations-from-workspace-reports-generate-powerpoint.md
+  - read-only-projects.md
+  - share-projects-share-projects.md
+- analytics-platform/using/cja-workspace/export
+  - download-projects-and-data.md
+  - export-full-tables-to-the-cloud-full-table-export.md
+  - send-and-schedule-projects.md
+- analytics-platform/using/cja-workspace/forecasting
+  - statistical-techniques.md
+- analytics-platform/using/cja-workspace/panels
+  - attribution-panel-attribution-panel.md
+  - blank-panel-blank-panel.md
+  - experimentation-panel-experimentation-panel.md
+  - freeform-panel.md
+  - media-average-minute-audience-panel-media-average-minute-audience-panel.md
+  - media-concurrent-viewers-panel-media-concurrent-viewers-panel.md
+  - media-playback-time-spent-panel-media-playback-time-spent-panel.md
+  - next-or-previous-item-panel-next-or-previous-item-panel.md
+  - quick-insights-panel-quick-insights-panel.md
+- analytics-platform/using/cja-workspace/perform-adv-analysis
+  - perform-advanced-analysis.md
+- analytics-platform/using/cja-workspace/perform-basic-analysis
+  - perform-basic-analysis.md
+- analytics-platform/using/cja-workspace/templates
+  - create-and-manage-templates-2.md
+  - create-and-manage-templates.md
+  - use-templates.md
+- analytics-platform/using/cja-workspace/visualizations
+  - area-stacked.md
+  - bar-stacked.md
+  - bullet-bullet.md
+  - cohort-analysis-use-cases.md
+  - column-settings.md
+  - combo-combo.md
+  - configure-a-cohort-table.md
+  - configure-a-fallout-visualization-configure-fallout-visualization.md
+  - configure-a-flow-visualization-configure-a-flow-visualization.md
+  - configure-a-journey-canvas-visualization.md
+  - create-hyperlinks-in-freeform-tables.md
+  - donut-donut.md
+  - dynamic-and-static-dimension-items.md
+  - filter-and-sort-freeform-tables.md
+  - histogram-histogram.md
+  - horizontal-bar-stacked.md
+  - include-multiple-dimension-columns-in-a-freeform-table.md
+  - intelligent-captions-intelligent-captions-2.md
+  - intelligent-captions-intelligent-captions.md
+  - inter-dimensional-flows.md
+  - key-metric-summary-key-metric-summary.md
+  - line-line.md
+  - manage-data-sources-manage-data-sources.md
+  - map-map.md
+  - row-settings.md
+  - scatter-scatter.md
+  - section-header-section-header.md
+  - summary-number-and-change.md
+  - text-text-visualization.md
+  - totals-workspace-totals.md
+  - treemap-treemap.md
+  - venn-venn.md
+  - view-trended-data-for-a-freeform-table.md
+- analytics-platform/using/cja-workspace/workspace-faq
+  - errors-and-troubleshooting.md
+- analytics-platform/using/compare-aa-cja/aa-to-cja
+  - evolution-from-adobe-analytics.md
+- analytics-platform/using/compare-aa-cja/cja-aa-comparison
+  - aaid-ecid-aacustomid-and-the-analytics-source-connector.md
+  - compare-data-processing-across-adobe-analytics-and-customer-journey-analytics.md
+  - compare-terminology-for-analytics-data-passed-through-the-analytics-source-connector.md
+  - cross-ims-data-mapping.md
+  - customer-journey-analytics-feature-support.md
+  - processing-rules-vista-and-classifications-versus-data-prep.md
+  - use-adobe-analytics-report-suite-data.md
+  - virtual-report-suites-data-views-adobe-experience-platform-sandboxes-and-the-analytics-source-connector.md
+- analytics-platform/using/compare-aa-cja/ga-to-cja
+  - ga4-reports-in-customer-journey-analytics.md
+  - why-ga4-and-customer-journey-analytics-data-differs.md
+- analytics-platform/using/compare-aa-cja/upgrade-to-cja
+  - add-platform-as-a-service-to-your-datastream-upgrade-addplatform-datastream.md
+  - add-the-analytics-source-connector-dataset-to-the-connection-upgrade-source-connector-dataset.md
+  - add-the-web-sdk-extension-to-your-tag-upgrade-tag-extension.md
+  - add-xdm-data-collection-logic-to-your-tag-upgrade-tag-xdm.md
+  - architect-your-schema-for-use-with-customer-journey-analytics-upgrade-schema-architect.md
+  - choose-your-schema-for-customer-journey-analytics-choose-schema.md
+  - configure-your-existing-adobe-analytics-web-sdk-implementation-to-send-data-to-platform-existing-websdk-implementation.md
+  - create-a-custom-schema-for-the-analytics-source-connector-create-custom-schema.md
+  - create-a-custom-schema-to-use-with-customer-journey-analytics-create-custom-schema.md
+  - create-a-data-view-in-customer-journey-analytics-upgrade-create-dataview.md
+  - create-a-dataset-to-use-with-customer-journey-analytics-upgrade-create-dataset.md
+  - create-a-datastream-to-use-with-customer-journey-analytics-upgrade-create-datastream.md
+  - create-a-marketing-channel-derived-field-for-customer-journey-analytics-create-marketing-channel-derived-field.md
+  - create-a-tag-for-your-property-upgrade-tag-property.md
+  - create-and-configure-a-connection-to-use-with-customer-journey-analytics-upgrade-create-connection.md
+  - create-lookup-datasets-to-classify-data-in-customer-journey-analytics-upgrade-lookup-dataset.md
+  - create-the-analytics-source-connector-and-map-fields-create-source-connector.md
+  - disable-adobe-analytics-disable-appmeasurement.md
+  - evaluate-when-to-disable-adobe-analytics-after-upgrading-to-customer-journey-analytics-evaluate-aa-needs.md
+  - implement-the-loader-tag-for-the-web-sdk-extension-upgrade-tag-loader.md
+  - monitor-dataset-ingestion-when-upgrading-to-customer-journey-analytics-monitor-ingestion.md
+  - prepare-your-organization-to-upgrade-to-customer-journey-analytics.md
+  - step-1-get-started-with-the-upgrade-to-customer-journey-analytics.md
+  - step-2-choose-your-upgrade-path.md
+  - step-3-send-data-to-adobe-experience-platform-when-upgrading.md
+  - step-4-retain-historical-data-when-upgrading.md
+  - transition-from-the-analytics-source-connector-to-the-web-sdk-for-customer-journey-analytics-transition-from-source-connector.md
+  - understand-adobe-analytics-feature-support-when-upgrading-to-customer-journey-analytics-feature-support-upgrade.md
+  - understand-features-unique-to-customer-journey-analytics-feature-support-upgrade.md
+  - understand-web-sdk-implementation-options-when-upgrading-to-customer-journey-analytics-web-sdk-implementation-options.md
+  - understand-your-adobe-analytics-implementation-and-how-it-affects-your-upgrade-to-customer-journey-analytics-implementation-affects-upgrade.md
+  - upgrade-alternative-send-your-data-layer-to-customer-journey-analytics-data-collection-data-layer.md
+  - upgrade-alternative-use-appmeasurement-data-collection-with-the-experience-platform-web-sdk-and-customer-journey-analytics-data-collection-appmeasurement.md
+  - upgrade-alternative-use-the-analytics-source-connector-exclusively-to-upgrade-to-customer-journey-analytics-use-source-connector-exclusively.md
+  - upgrade-from-a-third-party-analytics-solution-to-customer-journey-analytics-upgrade-from-third-party.md
+  - upgrade-from-adobe-analytics-to-customer-journey-analytics.md
+  - validate-that-data-is-flowing-to-customer-journey-analytics-validate-data.md
+- analytics-platform/using/content-analytics/configuration
+  - configure-content-analytics.md
+  - content-analytics-data-collection.md
+  - content-analytics-javascript-library.md
+  - content-analytics-manual-configuration.md
+  - standalone-configuration.md
+- analytics-platform/using/content-analytics/report
+  - content-analytics-components.md
+- analytics-platform/using/integrations/aa
+  - integrate-adobe-analytics-with-customer-journey-analytics.md
+- analytics-platform/using/integrations/advertising
+  - integrate-adobe-advertising-with-customer-journey-analytics.md
+- analytics-platform/using/integrations/ajo
+  - integrate-journey-optimizer.md
+- analytics-platform/using/integrations/ajo-od
+  - integrate-decision-management.md
+- analytics-platform/using/integrations/at
+  - target-reporting.md
+- analytics-platform/using/integrations/customer-ai
+  - integrate-customer-ai-data.md
+- analytics-platform/using/releases/doc-changes
+  - customer-journey-analytics-documentation-updates.md
+- analytics-platform/using/releases/releases
+  - customer-journey-analytics-feature-release-strategy.md
+- analytics-platform/using/reporting-activity-manager/reporting-activity
+  - view-reporting-activity-view-reporting-activity.md
+- analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests
+  - cancel-reporting-requests-in-the-reporting-activity-manager.md
+- analytics-platform/using/stitching/faq
+  - frequently-asked-questions.md
+- analytics-platform/using/stitching/fbs
+  - field-based-stitching.md
+- analytics-platform/using/stitching/gbs
+  - graph-based-stitching.md
+- analytics-platform/using/stitching/use-stitching
+  - request-stitching.md
+- analytics-platform/using/stitching/use-stitching-ui
+  - enable-stitching.md
+- analytics-platform/using/stitching/validate
+  - validate-stitching.md
+- analytics-platform/using/technotes/access-control
+  - access-control.md
+- analytics-platform/using/technotes/badids
+  - bad-ids.md
+- analytics-platform/using/technotes/data-centers
+  - customer-journey-analytics-hosting-locations.md
+- analytics-platform/using/technotes/deletion
+  - deletion-and-reset-implications.md
+- analytics-platform/using/technotes/domains
+  - domains-used-by-customer-journey-analytics.md
+- analytics-platform/using/technotes/estimate-usage
+  - manage-your-customer-journey-analytics-usage.md
+- analytics-platform/using/technotes/guardrails
+  - customer-journey-analytics-guardrails.md
+- analytics-platform/using/technotes/ip-addresses
+  - ip-addresses-used-by-customer-journey-analytics.md
+- analytics-platform/using/technotes/optimizing-performance
+  - optimize-customer-journey-analytics-and-analysis-workspace-performance.md
+- analytics-platform/using/tools/asset-transfer
+  - transfer-assets.md
+- analytics-platform/using/tools/product-usage
+  - product-usage-data-settings-product-usage-data-settings.md
+- analytics-platform/using/troubleshooting/compare
+  - compare-analytics-source-connector-data-to-adobe-analytics.md
+- analytics-platform/using/troubleshooting/lack-of-permissions
+  - lack-of-permissions.md
+- customer-journey-analytics
+  - customer-journey-analytics-documentation.md

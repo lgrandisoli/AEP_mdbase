@@ -24,9 +24,8 @@ CJA_OUT="$BASE_DIR/cja_guides"
 TARGET_OUT="$BASE_DIR/target_guides"
 AGENTS_OUT="$BASE_DIR/agents_guides"
 WORKFRONT_OUT="$BASE_DIR/workfront_guides"
-COMMERCE_OUT="$BASE_DIR/commerce_guides"
 
-mkdir -p "$AEP_OUT" "$AJO_OUT" "$CJA_OUT" "$TARGET_OUT" "$AGENTS_OUT" "$WORKFRONT_OUT" "$COMMERCE_OUT"
+mkdir -p "$AEP_OUT" "$AJO_OUT" "$CJA_OUT" "$TARGET_OUT" "$AGENTS_OUT" "$WORKFRONT_OUT"
 
 # -----------------------------------------------------------------------------
 # 1. Renomeia os consolidados atuais para *_old.md (mantem como base de comparacao)
@@ -55,13 +54,12 @@ run_crawler() {
     --delay-s 0.5
 }
 
-run_crawler "AEP"      "AEPRTCDP_crawler.py"              "$AEP_OUT"
-run_crawler "AJO B2C"  "ajo_phase_1_crawler_rfp_flat.py" "$AJO_OUT"
-run_crawler "CJA"      "cja_crawler_v4.py"               "$CJA_OUT"
-run_crawler "Target"   "target_crawler.py"               "$TARGET_OUT"
-run_crawler "Agents"    "experience_cloud_ai_crawler.py"  "$AGENTS_OUT"
+# run_crawler "AEP"      "AEPRTCDP_crawler.py"              "$AEP_OUT"
+# run_crawler "AJO B2C"  "ajo_phase_1_crawler_rfp_flat.py" "$AJO_OUT"
+# run_crawler "CJA"      "cja_crawler_v4.py"               "$CJA_OUT"
+# run_crawler "Target"   "target_crawler.py"               "$TARGET_OUT"
+# run_crawler "Agents"     "experience_cloud_ai_crawler.py"  "$AGENTS_OUT"
 run_crawler "Workfront" "workfront_crawler_v4.py"         "$WORKFRONT_OUT"
-run_crawler "Commerce"  "commerce_crawler_v1.py"          "$COMMERCE_OUT"
 
 # -----------------------------------------------------------------------------
 # 3. Concatena os .md de cada pasta gerando os novos consolidados
@@ -93,9 +91,8 @@ concat_dir "$AEP_OUT"    "$CONSOLIDATED_DIR/AEP_Consolidado.md"
 concat_dir "$AGENTS_OUT" "$CONSOLIDATED_DIR/Agents_Consolidado.md"
 concat_dir "$AJO_OUT"    "$CONSOLIDATED_DIR/AJOB2C_Consolidado.md"
 concat_dir "$CJA_OUT"    "$CONSOLIDATED_DIR/CJA_Consolidado.md"
-concat_dir "$TARGET_OUT"    "$CONSOLIDATED_DIR/Target_Consolidado.md"
+concat_dir "$TARGET_OUT"     "$CONSOLIDATED_DIR/Target_Consolidado.md"
 concat_dir "$WORKFRONT_OUT" "$CONSOLIDATED_DIR/Workfront_Consolidado.md"
-concat_dir "$COMMERCE_OUT"  "$CONSOLIDATED_DIR/Commerce_Consolidado.md"
 
 # -----------------------------------------------------------------------------
 # 3b. Combina os README.md e os manifest.json de cada crawler em um unico
@@ -110,7 +107,6 @@ GUIDE_SETS=(
   "$CJA_OUT|CJA"
   "$TARGET_OUT|Target"
   "$WORKFRONT_OUT|Workfront"
-  "$COMMERCE_OUT|Commerce"
 )
 
 echo "==> Gerando README.md combinado em consolidados ..."
@@ -242,7 +238,6 @@ summarize_diff "$CONSOLIDATED_DIR/AJOB2C_Consolidado.md"
 summarize_diff "$CONSOLIDATED_DIR/CJA_Consolidado.md"
 summarize_diff "$CONSOLIDATED_DIR/Target_Consolidado.md"
 summarize_diff "$CONSOLIDATED_DIR/Workfront_Consolidado.md"
-summarize_diff "$CONSOLIDATED_DIR/Commerce_Consolidado.md"
 
 echo ""
 echo "============================================================"

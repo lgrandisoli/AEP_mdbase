@@ -173,7 +173,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
-          pip install "openai>=1.30.0" -q
+          pip install "openai==1.35.0" -q
           python3 << 'EOF'
           import os, sys
           from pathlib import Path

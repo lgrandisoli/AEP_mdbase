@@ -210,14 +210,16 @@ def save_page(page, output_dir):
 
 def build_readme(output_dir, manifest):
 
+    saved_items = [item for item in manifest if item.get("status") == "saved"]
+
     lines = [
         "# Adobe Workfront Documentation",
         "",
-        f"Total pages: {len(manifest)}",
+        f"Total pages: {len(saved_items)}",
         ""
     ]
 
-    for item in manifest[:200]:
+    for item in saved_items[:200]:
         lines.append(
             f"- [{item['title']}]({item['url']})"
         )

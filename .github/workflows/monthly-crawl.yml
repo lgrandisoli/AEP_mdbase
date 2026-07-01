@@ -191,7 +191,7 @@ jobs:
               ("Commerce_Knowledge",   base / "Commerce_Consolidado.md"),
           ]
 
-          stores = client.beta.vector_stores.list()
+          stores = client.vector_stores.list()
 
           for vs_name, md_file in VECTOR_STORES:
               print(f"\n==> {vs_name}")
@@ -203,19 +203,19 @@ jobs:
               vs = next((s for s in stores.data if s.name == vs_name), None)
 
               if vs:
-                  old_files = client.beta.vector_stores.files.list(vector_store_id=vs.id)
+                  old_files = client.vector_stores.files.list(vector_store_id=vs.id)
                   for f in old_files.data:
-                      client.beta.vector_stores.files.delete(vector_store_id=vs.id, file_id=f.id)
+                      client.vector_stores.files.delete(vector_store_id=vs.id, file_id=f.id)
                       client.files.delete(f.id)
                   print(f"    Limpa ({len(old_files.data)} arquivos removidos).")
               else:
-                  vs = client.beta.vector_stores.create(name=vs_name)
+                  vs = client.vector_stores.create(name=vs_name)
                   print(f"    Criada: {vs.id}")
 
               with open(md_file, "rb") as f:
                   uploaded = client.files.create(file=f, purpose="assistants")
 
-              client.beta.vector_stores.files.create(
+              client.vector_stores.files.create(
                   vector_store_id=vs.id,
                   file_id=uploaded.id
               )

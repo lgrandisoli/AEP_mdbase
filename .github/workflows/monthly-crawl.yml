@@ -152,6 +152,7 @@ jobs:
               ("Agents_Knowledge",     base / "Agents_Consolidado.md"),
               ("Target_Knowledge",     base / "Target_Consolidado.md"),
               ("AJO_Knowledge",        base / "AJOB2C_Consolidado.md"),
+              ("Commerce_Knowledge",   base / "Commerce_Consolidado.md"),
           ]
 
           stores = client.beta.vector_stores.list()

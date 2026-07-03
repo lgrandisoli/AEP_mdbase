@@ -1,5 +1,7 @@
 # Adobe RFP Knowledge Base
 
+![Pipeline Automatizado de Geração de Conhecimento](docs/pipeline.png)
+
 Base de conhecimento em Markdown gerada automaticamente a partir da documentação pública da Adobe Experience Cloud. Utilizada como fonte de contexto para respostas a RFPs (Request for Proposal).
 
 ## Produtos cobertos

@@ -12,7 +12,7 @@ Base de conhecimento em Markdown gerada automaticamente a partir da documentaç�
 | Adobe Journey Optimizer B2C | `ajo_phase_1_crawler_rfp_flat.py` | `AJOB2C_Consolidado.md` | [AJO](https://chatgpt.com/g/g-69fb53441bfc8191b4241dd6d501a89e-ajo) |
 | Customer Journey Analytics | `cja_crawler_v4.py` | `CJA_Consolidado.md` | [CJA](https://chatgpt.com/g/g-6a3aa4aa3b4c819191288504d723319f-cja) |
 | Adobe Target | `target_crawler.py` | `Target_Consolidado.md` | [Target](https://chatgpt.com/g/g-6a04c27208e881919cc331cfe90e0828-target) |
-| Adobe Workfront | `workfront_crawler_v4.py` | `Workfront_Consolidado.md` | — |
+| Adobe Workfront | `workfront_crawler_v4.py` | `Workfront_Consolidado.md` | [Workfront](https://chatgpt.com/g/g-6a3ebff01e0881918e9babcfe7457fbf-workfront) |
 | Experience Cloud AI / Agent Orchestrator | `experience_cloud_ai_crawler.py` | `Agents_Consolidado.md` | [Agent Orchestration](https://chatgpt.com/g/g-6a26dbb1eed88191b2e0f28514216d6f-agent-orchestration) |
 | Adobe Commerce | `commerce_crawler_v1.py` | `Commerce_Consolidado.md` | [Commerce](https://chatgpt.com/g/g-6a453c8d6f388191b9f53006cc7f6fb8-commerce) |
 

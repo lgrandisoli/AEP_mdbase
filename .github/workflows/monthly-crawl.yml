@@ -79,8 +79,12 @@ jobs:
 
           concat_dir() {
             local dir="$1"; local out_file="$2"
-            : > "$out_file"
+            local old_file="${out_file%.md}_old.md"
+            local tmp_file="${out_file}.tmp"
+            : > "$tmp_file"
+            local found=0
             while IFS= read -r f; do
+              found=1
               {
                 echo ""
                 echo "---"
@@ -89,9 +93,16 @@ jobs:
                 echo ""
                 cat "$f"
                 echo ""
-              } >> "$out_file"
+              } >> "$tmp_file"
             done < <(find "$dir" -maxdepth 1 -type f -name "*.md" ! -name "README.md" | sort)
-            echo "    Gerado: $(basename "$out_file")"
+            if [ "$found" -eq 1 ]; then
+              [ -f "$out_file" ] && mv "$out_file" "$old_file"
+              mv "$tmp_file" "$out_file"
+              echo "    Gerado: $(basename "$out_file") (anterior salvo como $(basename "$old_file"))"
+            else
+              rm -f "$tmp_file"
+              echo "    AVISO: nenhum .md encontrado em $dir — consolidado anterior mantido."
+            fi
           }
 
           echo "==> Gerando consolidados ..."

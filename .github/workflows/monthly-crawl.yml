@@ -160,12 +160,12 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add consolidados/
-          git stash --include-untracked || true
           if git diff --cached --quiet; then
             echo "Nenhuma alteracao nos consolidados."
           else
             git commit -m "chore: atualiza base de conhecimento RFP ($(date '+%Y-%m'))"
-            git pull --rebase origin main
+            git fetch origin main
+            git rebase origin/main
             git push
           fi
 

@@ -164,6 +164,7 @@ jobs:
             echo "Nenhuma alteracao nos consolidados."
           else
             git commit -m "chore: atualiza base de conhecimento RFP ($(date '+%Y-%m'))"
+            git pull --rebase origin main
             git push
           fi
 

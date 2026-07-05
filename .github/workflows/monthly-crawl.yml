@@ -164,6 +164,11 @@ jobs:
             echo "Nenhuma alteracao nos consolidados."
           else
             git commit -m "chore: atualiza base de conhecimento RFP ($(date '+%Y-%m'))"
+            # Descarta artefatos transitorios do crawler (README.md/manifest.json
+            # apagados nas pastas de origem) para deixar a working tree limpa.
+            # Sem isso o rebase falha com "cannot rebase: You have unstaged changes".
+            git checkout -- .
+            git clean -fd
             git fetch origin main
             git rebase origin/main
             git push

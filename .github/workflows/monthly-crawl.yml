@@ -207,6 +207,7 @@ jobs:
               ("Target_Knowledge",     base / "Target_Consolidado.md"),
               ("AJO_Knowledge",        base / "AJOB2C_Consolidado.md"),
               ("Commerce_Knowledge",   base / "Commerce_Consolidado.md"),
+              ("Workfront_Knowledge",  base / "Workfront_Consolidado.md"),
           ]
 
           stores = client.vector_stores.list()
@@ -261,6 +262,7 @@ jobs:
               base / "Target_Consolidado.md",
               base / "AJOB2C_Consolidado.md",
               base / "Commerce_Consolidado.md",
+              base / "Workfront_Consolidado.md",
           ]
 
           for md_file in all_files:

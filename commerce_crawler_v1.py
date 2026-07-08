@@ -60,6 +60,7 @@ from typing import List
 # --------------------------------------------------------------------------
 
 SEED_URLS = [
+    # developer.adobe.com/commerce
     "https://developer.adobe.com/commerce/extensibility/",
     "https://developer.adobe.com/commerce/extensibility/events/",
     "https://developer.adobe.com/commerce/webapi/",
@@ -69,10 +70,20 @@ SEED_URLS = [
     "https://developer.adobe.com/commerce/testing/",
     "https://developer.adobe.com/commerce/contributor/",
     "https://developer.adobe.com/commerce/marketplace/",
+    # experienceleague.adobe.com/developer/commerce
+    "https://experienceleague.adobe.com/developer/commerce/storefront/",
+    "https://experienceleague.adobe.com/developer/commerce/storefront/sdk/",
 ]
 
 ALLOWED_DOMAINS = {
     "developer.adobe.com",
+    "experienceleague.adobe.com",
+}
+
+# Paths that qualify as "commerce" content per domain
+COMMERCE_PATH_RULES = {
+    "developer.adobe.com": "/commerce",
+    "experienceleague.adobe.com": "/developer/commerce",
 }
 
 def _parse_args():
@@ -336,9 +347,11 @@ def crawl():
 
         for link in extract_links(url, soup):
             link_parsed = urlparse(link)
-            if link_parsed.netloc not in ALLOWED_DOMAINS:
+            netloc = link_parsed.netloc
+            if netloc not in ALLOWED_DOMAINS:
                 continue
-            if "/commerce" not in link_parsed.path:
+            required_prefix = COMMERCE_PATH_RULES.get(netloc)
+            if not required_prefix or not link_parsed.path.startswith(required_prefix):
                 continue
             if link not in visited:
                 queue.append((link, allowed_prefix))

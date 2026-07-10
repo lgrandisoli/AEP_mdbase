@@ -73,6 +73,8 @@ SEED_URLS = [
     # experienceleague.adobe.com/developer/commerce
     "https://experienceleague.adobe.com/developer/commerce/storefront/",
     "https://experienceleague.adobe.com/developer/commerce/storefront/sdk/",
+    # experienceleague.adobe.com - B2B docs
+    "https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/guide-overview",
 ]
 
 ALLOWED_DOMAINS = {
@@ -80,11 +82,16 @@ ALLOWED_DOMAINS = {
     "experienceleague.adobe.com",
 }
 
-# Paths that qualify as "commerce" content per domain
+# Paths that qualify as "commerce" content per domain (startswith check)
 COMMERCE_PATH_RULES = {
-    "developer.adobe.com": "/commerce",
-    "experienceleague.adobe.com": "/developer/commerce",
+    "developer.adobe.com": ["/commerce"],
+    "experienceleague.adobe.com": ["/developer/commerce", "/pt-br/docs/commerce-admin/b2b", "/en/docs/commerce-admin/b2b"],
 }
+
+# URL substrings that should never be crawled
+EXCLUDED_PATH_FRAGMENTS = [
+    "release-notes",
+]
 
 def _parse_args():
     p = argparse.ArgumentParser(description="Crawler de documentação Adobe Commerce")
@@ -350,8 +357,10 @@ def crawl():
             netloc = link_parsed.netloc
             if netloc not in ALLOWED_DOMAINS:
                 continue
-            required_prefix = COMMERCE_PATH_RULES.get(netloc)
-            if not required_prefix or not link_parsed.path.startswith(required_prefix):
+            allowed_prefixes = COMMERCE_PATH_RULES.get(netloc, [])
+            if not any(link_parsed.path.startswith(p) for p in allowed_prefixes):
+                continue
+            if any(frag in link_parsed.path for frag in EXCLUDED_PATH_FRAGMENTS):
                 continue
             if link not in visited:
                 queue.append((link, allowed_prefix))

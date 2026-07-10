@@ -195,6 +195,7 @@ jobs:
           python3 << 'EOF'
           import os, sys
           from pathlib import Path
+          import openai
           from openai import OpenAI
 
           client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
@@ -223,8 +224,16 @@ jobs:
               """
               files = _all(client.vector_stores.files.list, vector_store_id=vs_id)
               for f in files:
-                  client.vector_stores.files.delete(vector_store_id=vs_id, file_id=f.id)
-                  client.files.delete(f.id)
+                  # Tolera 404: associação/arquivo já removido em run anterior
+                  # (evita entulho "dangling" derrubar o job).
+                  try:
+                      client.vector_stores.files.delete(vector_store_id=vs_id, file_id=f.id)
+                  except openai.NotFoundError:
+                      pass
+                  try:
+                      client.files.delete(f.id)
+                  except openai.NotFoundError:
+                      pass
               return len(files)
 
           VECTOR_STORES = [

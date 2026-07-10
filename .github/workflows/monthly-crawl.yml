@@ -200,24 +200,32 @@ jobs:
           client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
           base = Path(os.environ["GITHUB_WORKSPACE"]) / "consolidados"
 
-          def purge_store(vs_id):
-              """Remove TODOS os arquivos da store (paginando) e devolve a contagem.
+          def _all(list_fn, **kwargs):
+              """Pagina qualquer endpoint .list() da OpenAI via cursor `after`.
 
-              A limpeza antiga só lia a 1a página de files.list() (default ~20),
-              então cópias antigas podiam sobrar e acumular duplicatas na store.
-              Coleta todos os IDs primeiro e só então deleta, para não invalidar
-              o cursor de paginação durante os deletes.
+              Sem isso, .list() lê só a 1a página (default ~20 itens).
               """
-              file_ids = [
-                  f.id
-                  for f in client.vector_stores.files.list(
-                      vector_store_id=vs_id
-                  ).auto_paging_iter()
-              ]
-              for fid in file_ids:
-                  client.vector_stores.files.delete(vector_store_id=vs_id, file_id=fid)
-                  client.files.delete(fid)
-              return len(file_ids)
+              items = []
+              after = None
+              while True:
+                  page = list_fn(after=after, **kwargs) if after else list_fn(**kwargs)
+                  items.extend(page.data)
+                  if not getattr(page, "has_more", False) or not page.data:
+                      break
+                  after = page.data[-1].id
+              return items
+
+          def purge_store(vs_id):
+              """Remove TODOS os arquivos da store e devolve a contagem.
+
+              Cópias antigas sobrando acumulavam duplicatas; coleta todos os
+              IDs (paginando) antes de deletar.
+              """
+              files = _all(client.vector_stores.files.list, vector_store_id=vs_id)
+              for f in files:
+                  client.vector_stores.files.delete(vector_store_id=vs_id, file_id=f.id)
+                  client.files.delete(f.id)
+              return len(files)
 
           VECTOR_STORES = [
               ("AEP_RTCDP_Knowledge",  base / "AEP_Consolidado.md"),
@@ -231,7 +239,7 @@ jobs:
 
           # Pagina todas as stores; sem isso, contas com >20 stores não
           # encontrariam a existente e criariam uma DUPLICADA com o mesmo nome.
-          stores = list(client.vector_stores.list().auto_paging_iter())
+          stores = _all(client.vector_stores.list)
 
           for vs_name, md_file in VECTOR_STORES:
               print(f"\n==> {vs_name}")

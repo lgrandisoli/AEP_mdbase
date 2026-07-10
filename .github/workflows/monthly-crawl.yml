@@ -200,6 +200,25 @@ jobs:
           client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
           base = Path(os.environ["GITHUB_WORKSPACE"]) / "consolidados"
 
+          def purge_store(vs_id):
+              """Remove TODOS os arquivos da store (paginando) e devolve a contagem.
+
+              A limpeza antiga só lia a 1a página de files.list() (default ~20),
+              então cópias antigas podiam sobrar e acumular duplicatas na store.
+              Coleta todos os IDs primeiro e só então deleta, para não invalidar
+              o cursor de paginação durante os deletes.
+              """
+              file_ids = [
+                  f.id
+                  for f in client.vector_stores.files.list(
+                      vector_store_id=vs_id
+                  ).auto_paging_iter()
+              ]
+              for fid in file_ids:
+                  client.vector_stores.files.delete(vector_store_id=vs_id, file_id=fid)
+                  client.files.delete(fid)
+              return len(file_ids)
+
           VECTOR_STORES = [
               ("AEP_RTCDP_Knowledge",  base / "AEP_Consolidado.md"),
               ("CJA_Knowledge",        base / "CJA_Consolidado.md"),
@@ -210,7 +229,9 @@ jobs:
               ("Workfront_Knowledge",  base / "Workfront_Consolidado.md"),
           ]
 
-          stores = client.vector_stores.list()
+          # Pagina todas as stores; sem isso, contas com >20 stores não
+          # encontrariam a existente e criariam uma DUPLICADA com o mesmo nome.
+          stores = list(client.vector_stores.list().auto_paging_iter())
 
           for vs_name, md_file in VECTOR_STORES:
               print(f"\n==> {vs_name}")
@@ -219,14 +240,11 @@ jobs:
                   print(f"    {md_file.name} não encontrado, pulando.")
                   continue
 
-              vs = next((s for s in stores.data if s.name == vs_name), None)
+              vs = next((s for s in stores if s.name == vs_name), None)
 
               if vs:
-                  old_files = client.vector_stores.files.list(vector_store_id=vs.id)
-                  for f in old_files.data:
-                      client.vector_stores.files.delete(vector_store_id=vs.id, file_id=f.id)
-                      client.files.delete(f.id)
-                  print(f"    Limpa ({len(old_files.data)} arquivos removidos).")
+                  removed = purge_store(vs.id)
+                  print(f"    Limpa ({removed} arquivos removidos).")
               else:
                   vs = client.vector_stores.create(name=vs_name)
                   print(f"    Criada: {vs.id}")
@@ -243,14 +261,11 @@ jobs:
           # Vector Store combinada para o GPT Criar RFP (todos os consolidados)
           print("\n==> RFP_All_Knowledge (GPT Criar RFP)")
           vs_name = "RFP_All_Knowledge"
-          vs = next((s for s in stores.data if s.name == vs_name), None)
+          vs = next((s for s in stores if s.name == vs_name), None)
 
           if vs:
-              old_files = client.vector_stores.files.list(vector_store_id=vs.id)
-              for f in old_files.data:
-                  client.vector_stores.files.delete(vector_store_id=vs.id, file_id=f.id)
-                  client.files.delete(f.id)
-              print(f"    Limpa ({len(old_files.data)} arquivos removidos).")
+              removed = purge_store(vs.id)
+              print(f"    Limpa ({removed} arquivos removidos).")
           else:
               vs = client.vector_stores.create(name=vs_name)
               print(f"    Criada: {vs.id}")

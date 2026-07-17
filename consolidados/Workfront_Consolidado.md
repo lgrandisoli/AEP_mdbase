@@ -2694,6 +2694,366 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
+# FILE: access-needed-for-adobe-workfront-planning-as-a-standalone-product-adobe-workfront.md
+---
+
+Access Needed for Adobe Workfront Planning as a Standalone Product | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Access needed for Adobe Workfront Planning as a standalone product
+
+Last update: April 1, 2026
+
+CREATED FOR:
+
+User
+
+IMPORTANT
+
+The information in this article refers to Adobe Workfront Planning, when purchased as a standalone product. Refer to this article when your company purchased an Adobe Workfront Planning only package, and they did not purchase a Workfront Workflow package.
+
+For information about Adobe Workfront Planning when purchased together with a Workfront Workflow package, see
+
+Get started with Adobe Workfront Planning
+
+.
+
+This article describes licenses, access levels and user capabilities for the Adobe Workfront Planning as a standalone product.
+
+Workfront Planning packages
+
+Your organization can purchase one of the following standalone Workfront Planning packages:
+
+Prime
+
+Select
+
+Ultimate
+
+The following table describes what is included in each package:
+
+Planning Capability
+
+Select
+
+Prime
+
+Ultimate
+
+Planning, orchestration, campaign management
+
+✓
+
+✓
+
+✓
+
+Unlimited workspaces
+
+✓
+
+✓
+
+✓
+
+Records per workspace
+
+25,000
+
+500,000
+
+1,000,000
+
+Total records (all workspaces)
+
+500,000
+
+2,000,000
+
+Unlimited
+
+Global Record Types and cross-workspace connections
+
+—
+
+✓
+
+✓
+
+Access to future features at release
+
+Some
+
+Some
+
+Most
+
+Workfront Planning package availability
+
+Workfront Planning is accessible when your organization purchases one of the following Workfront packages:
+
+Workfront Workflow and Workfront Planning purchased together. Every user in the organization has a Workflow and a Planning license. This gives all users full access to all Workfront’s features for both modules.
+
+Workfront Workflow for everyone in your organization and Workfront Planning only for some users in your organization. This gives users full access to all Workflow’s features and a more limited access to Planning features for the users who are assigned a Planning license.
+
+Workfront Planning as a standalone product for users in your organization. This gives users no access to any Workfront Workflow features and access to Planning features.
+
+For information about capabilities included in Planning as a standalone product, see the section “Functionality included in Workfront Planning as a standalone product” in the article
+
+Get started with Adobe Workfront Planning as a standalone product
+
+.
+
+User license and access levels
+
+Planning licenses are part of the access level assigned to users.
+
+For Planning as a standalone product, you cannot assign licenses to the access levels - they are already hard coded to be included in the access levels assigned to users.
+
+Depending on which Workfront Planning package combination your organization purchases, you might have one of the following access levels for your users:
+
+Planning Administrator
+
+: Available for Workfront Planning packages. Planning Administrators are automatically assigned when users are added to the Admin Console.
+
+Planning Standard
+
+: Available for all Workfront Planning packages. You can assign this access levels to users when you create them.
+
+Each standalone Planning license maps to a role in the system and controls what areas of the product are accessible.
+
+The following table illustrates each Planning license type and its capabilities in Workfront Planning, when purchased as a standalone product:
+
+Feature / License type
+
+Planning Administrator
+
+Planning Standard
+
+Access level description
+
+Full system access
+
+Can manage workspaces and content
+
+Planning area in the Main Menu
+
+✔
+
+✔
+
+Users area in the Main Menu
+
+✔
+
+View only
+
+Requests area in the Main Menu
+
+✔
+
+✔
+
+Setup area in the Main Menu
+
+✔
+
+Manage Workspaces and their content
+
+✔
+
+✔
+
+Share Planning data with teams
+
+✔
+
+✔
+
+Submit requests
+
+✔
+
+✔
+
+Create or edit users
+
+✔
+
+View users list
+
+✔
+
+View only
+
+Setup > Teams
+
+✔
+
+Setup > Log In As
+
+✔
+
+Setup > Custom Quarters
+
+✔
+
+Setup > System > Customer info
+
+✔
+
+Setup > System > Preferences
+
+✔
+
+For information about assigning users access levels, see
+
+Manage Users in Adobe Workfront Planning as a standalone product
+
+.
+
+Navigation areas and access level dependencies
+
+Depending on the Planning license, users might have different areas available in their global navigation.
+
+Planning Administrator navigation overview
+
+A user with a Planning Administrator access level has the following capabilities:
+
+Has full manage access to the system.
+
+Can create and edit users, manage teams, configure custom quarters, and access all Setup sub-pages.
+
+For information, see:
+
+Manage users in Adobe Workfront Planning as a standalone product
+
+Manage teams in Adobe Workfront Planning as a standalone product
+
+Can submit and manage requests.
+
+For information, see
+
+Adobe Workfront Planning requests: article index
+
+.
+
+Has the following areas in the Main menu:
+
+Planning
+
+: Has full capabilities for Planning objects, to create, delete, share, and connect them.
+
+Users
+
+: You can add users and edit their profiles.
+
+Requests
+
+Setup
+
+Has the following sections in the Setup area:
+
+Teams
+
+: You can add, remove, or edit teams. Editing is limited to team name, description, and members; no filter, view, grouping, or export controls are available.
+
+Log In As
+
+: Impersonate another user for troubleshooting purposes.
+
+Custom Quarters
+
+: Configure custom fiscal quarters that appear in Planning timeline views.
+
+System
+
+Has the following sections in the System area:
+
+Customer Info
+
+: View customer and organization details.
+
+Preferences
+
+: Review and configure system-level preferences.
+
+Planning Standard navigation overview
+
+A user with a Planning Standard access level has the following capabilities:
+
+Can manage workspaces and their content.
+
+Can submit and manage requests.
+
+For information, see
+
+Adobe Workfront Planning requests: article index
+
+.
+
+Planning Standard users can access the following areas in the Main menu:
+
+Planning
+
+Users
+
+: They have view-only access to users. They cannot create or edit users.
+
+Requests
+
+Have no access to Setup or any of its sections.
+
+Configure Access Levels for Planning as a standalone product
+
+Access levels are built-in when you purchase Planning as a standalone product and you cannot configure them for Planning users.
+
+To assign access levels to users, as a Planning Administrator:
+
+Create users in the Adobe Console.
+
+The following scenarios exist:
+
+Users added to the Adobe Console as Administrators receive a Planning Administrator access level in Workfront Planning.
+
+Users added to the Adobe Console as users can be assigned a Planning Standard access level in Workfront Planning. This is the only access available to assign to new users in Workfront Planning as a standalone product.
+
+For more information, see
+
+Manage users
+
+.
+
+Grant permissions in Workfront Planning as a standalone product
+
+You can share the following objects in Workfront Planning as a standalone product:
+
+Workspaces
+
+Record types
+
+Records
+
+Views
+
+Sharing objects in Planning as a standalone product is identical to sharing them in Planning when purchased together with a Workflow package.
+
+For more information, see
+
+Adobe Workfront Planning access information: article index
+
+.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
 # FILE: access-needed-to-budget-resources-in-workfront-adobe-workfront.md
 ---
 
@@ -3013,7 +3373,7 @@ Workfront Guide
 
 Access requirements in Workfront documentation
 
-Last update: June 12, 2026
+Last update: July 16, 2026
 
 Topics:
 
@@ -3075,9 +3435,17 @@ Adobe Workfront license
 
 Adobe Workfront licenses refer to the set of Workfront features included with the license assigned to you. For example, one user might have a license that includes marking work items complete and logging time, while another user has a license that allows them only to approve assets or submit requests.
 
+Adobe Workfront licenses can refer to the following types of licenses:
+
+Workfront Workflow licenses
+
+Workfront Planning licenses
+
 To find out which license you are assigned, contact your Workfront administrator.
 
 For information about licenses see:
+
+Create and modify custom access levels
 
 New licenses overview
 
@@ -3653,7 +4021,7 @@ Workfront Guide
 
 Access to a shared custom field
 
-Last update: June 12, 2026
+Last update: July 13, 2026
 
 Topics:
 
@@ -3689,13 +4057,13 @@ If you add the field to a custom form:
 
 You can edit form-related settings for the field, such as its display logic, it's order among other fields on the form, whether it's a required field on the form, and the ability to remove it from the form.
 
-You cannot edit field-related settings for the field, such as its label, name, and type.
+You cannot edit field-related settings for the field, such as its label, API name, and type.
 
 Manage
 
 Editable system-wide
 
-You can add the field to custom forms and edit any field-related settings for it, such as the label, name, and type.
+You can add the field to custom forms and edit any field-related settings for it, such as the label, API name, and type.
 
 Manage
 
@@ -7125,14 +7493,6 @@ User
 
 Admin
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 You can view information from connected records or objects by adding a tab for a Connected records page to a record in Adobe Workfront Planning. This adds the connected records in a table view to the tab.
 
 Consider the following when adding a Connected records page to a record:
@@ -7207,9 +7567,7 @@ Standard
 
 Object permissions
 
-Contribute or higher permissions to a workspace, record type, and
-
-manage permissions to a record
+Contribute or higher permissions to a workspace, record type, and manage permissions to a record
 
 System Administrators have permissions to all workspaces, including the ones they did not create
 
@@ -7575,7 +7933,7 @@ Workfront
 
 Workfront Guide
 
-Add a cover image to a record
+Add a
 
 Last update: April 1, 2026
 
@@ -7589,27 +7947,21 @@ User
 
 Admin
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -7649,9 +8001,7 @@ Standard
 
 Object permissions
 
-Contribute or higher permissions to a workspace, record type, and
-
-manage permissions to a record
+Contribute or higher permissions to a workspace, record type, and manage permissions to a record
 
 System Administrators have permissions to all workspaces, including the ones they did not create
 
@@ -7890,6 +8240,16 @@ Iterations
 Expenses
 
 Billing records
+
+Teams
+
+If you are on the Workflow Ultimate package, you can attach custom forms to these additional objects:
+
+Job roles
+
+Rate cards
+
+Assignments
 
 You can add a custom form only to the types of objects for which the form was created.
 
@@ -9729,27 +10089,21 @@ CREATED FOR:
 
 User
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -9783,9 +10137,7 @@ Standard
 
 Object permissions
 
-Contribute or higher permissions to a workspace, record type, and
-
-manage permissions to a record
+Contribute or higher permissions to a workspace, record type, and manage permissions to a record
 
 System Administrators have permissions to all workspaces, including the ones they did not create
 
@@ -10315,7 +10667,7 @@ Access requirements in Workfront documentation
 
 .
 
-Add additional approvers or reviewers from the Document Summary in the legacy documents area
+Add additional approvers or reviewers in the legacy documents area
 
 If your organization is on Workfront storage, you will see the legacy documents area when you access documents in Workfront. For more information about Workfront storage, see
 
@@ -10331,9 +10683,9 @@ Documents
 
 in the left panel.
 
-Click on the document you need and the Document Summary panel for that document will open.
+Click on the document you need. The Document Summary panel for that document opens.
 
-Select the version of the document you would like to add an approver or reviewer to in the version drop-down menu. The latest version is selected by default.
+Select the version of the document you want to add an approver or reviewer to in the version drop-down menu. The latest version is selected by default.
 
 Scroll down to the
 
@@ -10343,15 +10695,41 @@ section, then click
 
 Edit workflow
 
+. The Request approval dialog opens in the mode the approval was last saved in: Basic for single-stage approvals, or Advanced for multi-stage approvals and approvals with parallel paths.
+
+Add the user, team, or email:
+
+In Basic mode, type the name or email in the
+
+Add names or emails
+
+field.
+
+In Advanced mode, select the path that contains the stage you want to update, then type the name or email in the stage’s
+
+Add names or emails
+
+field.
+
+For each person you added, choose whether they’re an approver or reviewer.
+
+Click
+
+Save
+
+. The participants you added receive an email notification that their approval or review is needed on the document.
+
+TIP
+
+To restructure a Basic-mode approval into a multi-stage or multi-path approval, click
+
+Go to advanced
+
+in the upper-right corner. Your existing participants are preserved as Path 1, Stage 1. After you save, you can’t switch back to Basic mode. For details, see
+
+Create a document approval workflow
+
 .
-
-Locate the stage you would like to add approvers or reviewers to, then add the user’s name or email in the text box. You can also add an entire team if needed.
-
-Once their name is added, choose if they are an approver or reviewer.
-
-Repeat steps 5-6 to add additional approvers or reviewers.
-
-Once you save, the participants added receive an email notification that their approval or review is needed on the document.
 
 Add additional approvers or reviewers from the Document Summary in the new Documents area
 
@@ -10360,6 +10738,8 @@ If your organization uses Adobe cloud storage, you will see the new Documents ar
 Adobe cloud storage overview
 
 .
+
+To add additional approvers or reviewers from the Document Summary:
 
 Go to the project, task, or issue that contains the document, then select
 
@@ -10377,15 +10757,41 @@ Click
 
 Edit workflow
 
+. The Request approval dialog opens in the mode the approval was last saved in: Basic for single-stage approvals, or Advanced for multi-stage approvals and approvals with parallel paths.
+
+Add the user, team, or email:
+
+In Basic mode, type the name or email in the
+
+Add names or emails
+
+field.
+
+In Advanced mode, select the path that contains the stage you want to update, then type the name or email in the stage’s
+
+Add names or emails
+
+field.
+
+For each person you added, choose whether they’re an approver or reviewer.
+
+Click
+
+Save
+
+. The participants you added receive an email notification that their approval or review is needed on the document.
+
+TIP
+
+To restructure a Basic-mode approval into a multi-stage or multi-path approval, click
+
+Go to advanced
+
+in the upper-right corner. Your existing participants are preserved as Path 1, Stage 1. After you save, you can’t switch back to Basic mode. For details, see
+
+Create a document approval workflow
+
 .
-
-Locate the stage you would like to add approvers or reviewers to, then add the user’s name or email in the text box. You can also add an entire team if needed.
-
-Once their name is added, choose if they are an approver or reviewer.
-
-Repeat steps 5-6 to add additional approvers or reviewers.
-
-Once you save, the participants added receive an email notification that their approval or review is needed on the document.
 
 recommendation-more-help
 
@@ -10829,17 +11235,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -12571,7 +12979,7 @@ Label
 
 Type a label for the field. This is what users will see when they use the custom form. The field
 
-Name
+API Name
 
 , which fills in automatically, is referenced by Workfront in reports.
 
@@ -13335,6 +13743,14 @@ Upload a new version of a document
 
 A folder with the same name as the object you are uploading the document to is automatically created in the Documents section and the document is added to the folder.
 
+Add documents using Adobe Cloud Drive
+
+If your organization uses Adobe cloud storage, you can also add documents from your desktop using Adobe Cloud Drive. Adobe Cloud Drive mounts your Adobe cloud storage projects as a drive on your Mac or Windows computer. Any files you save inside a project folder in the drive sync automatically to Workfront. For more information, see
+
+Adobe Cloud Drive overview
+
+.
+
 Document security for Adobe cloud storage
 
 Workfront prevents viruses and other malicious content from entering the site via documents in the following ways:
@@ -13785,13 +14201,9 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
@@ -13799,11 +14211,9 @@ Get started with Adobe Workfront Planning
 
 .
 
-The information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+For information about Workfront Planning as a standalone product, see
 
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -14783,7 +15193,7 @@ The logic is applied, and the logic icons are added to the target field and the 
 
 Add advanced display logic to a custom form
 
-The advanced display logic for custom form fields allows you to build complex logic using formulas. You can apply this logic to the following field types: single line text, paragraph, text with formatting, single-select dropdown, multi-select dropdown, external lookup, multi-select external lookup, native field reference, typeahead, calculated, date, checkbox group, and radio buttons.
+The advanced display logic for custom form fields allows you to build complex logic using formulas. You can apply this logic to the following field types: single line text, paragraph, rich text, single-select dropdown, multi-select dropdown, external lookup, multi-select external lookup, native field reference, internal lookup, calculated, date, checkbox group, and radio buttons.
 
 NOTE
 
@@ -14993,7 +15403,7 @@ Add default value logic to a custom form
 
 Default value logic allows you to configure default values for custom form fields, using formulas. The default value is displayed when the defined conditions are met. A default value can be a static value or a dynamic value that references other fields within the object. Although the default value can reference other fields, it will not change as other fields on the form change.
 
-You can apply advanced default value logic to the following field types: single line text, paragraph, single-select dropdown, multi-select dropdown, external lookup, multi-select external lookup. native field reference, typeahead, checkbox group, and radio buttons.
+You can apply advanced default value logic to the following field types: single line text, paragraph, single-select dropdown, multi-select dropdown, external lookup, multi-select external lookup, native field reference, internal lookup, checkbox group, and radio buttons.
 
 TIP
 
@@ -15010,6 +15420,8 @@ in
 Create a custom form
 
 .
+
+For native reference fields, default value logic is available only in the user interface and not in the Workfront API.
 
 Example
 
@@ -15079,7 +15491,7 @@ Validation logic is built using formulas, and you can make the logic as simple o
 
 If the field with the logic applied meets the defined validation conditions when a user fills out the custom form, the field is highlighted and the error message is displayed.
 
-You can apply validation logic to the following field types: single line text, paragraph, single-select dropdown, multi-select dropdown, external lookup, multi-select external lookup, typeahead, date, checkbox group, and radio buttons.
+You can apply validation logic to the following field types: single line text, paragraph, single-select dropdown, multi-select dropdown, external lookup, multi-select external lookup, internal lookup, date, checkbox group, and radio buttons.
 
 Examples
 
@@ -15173,7 +15585,7 @@ Add formatting logic to a custom form
 
 Formatting logic highlights a field value when it meets the defined conditions. The applied formatting will work on multiple fields at once.
 
-You can apply formatting logic to the following field types: single line text, paragraph, single-select dropdown, multi-select dropdown, external lookup, multi-select external lookup, typeahead, calculated, date, checkbox group, and radio buttons.
+You can apply formatting logic to the following field types: single line text, paragraph, single-select dropdown, multi-select dropdown, external lookup, multi-select external lookup, internal lookup, calculated, date, checkbox group, and radio buttons.
 
 Formatting applied to custom forms is separate from formatting applied to lists and reports. For information on report formatting, see
 
@@ -15289,7 +15701,7 @@ Add editability logic to a custom form
 
 Editability logic determines whether a custom form field can be edited or whether it is read-only. This logic is built using formulas, and when the field meets the defined conditions it can be set as editable or read-only.
 
-You can apply editability logic to the following field types: single line text, paragraph, text with formatting, single select dropdown, multi-select dropdown, external lookup, multi-select external lookup, typeahead, date, checkbox group, and radio buttons.
+You can apply editability logic to the following field types: single line text, paragraph, rich text, single select dropdown, multi-select dropdown, external lookup, multi-select external lookup, internal lookup, date, checkbox group, and radio buttons.
 
 Example
 
@@ -15376,10 +15788,10 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
-# FILE: add-new-documents-to-adobe-workfront-adobe-workfront.md
+# FILE: add-new-documents-to-adobe-workfront-article-index-adobe-workfront.md
 ---
 
-Add new documents to Adobe Workfront | Adobe Workfront
+Add new documents to Adobe Workfront: article index | Adobe Workfront
 
 Documentation
 
@@ -15387,9 +15799,9 @@ Workfront
 
 Workfront Guide
 
-Add new documents to Adobe Workfront
+Add new documents to Adobe Workfront: article index
 
-Last update: June 12, 2026
+Last update: July 8, 2026
 
 Topics:
 
@@ -15605,7 +16017,7 @@ Admin
 
 You can add a new custom field or widget directly from the Fields area in Workfront, without opening a custom form to create the field.
 
-You can also edit the properties of a custom field, section break, or widget that is used in custom forms. These include the item’s label, name, instructions, and so on.
+You can also edit the properties of a custom field, section break, or widget that is used in custom forms. These include the item’s label, API name, instructions, and so on.
 
 Setting a custom field as Inactive excludes it from reports, filters, and views, and the field is no longer available in the custom forms field library. All new fields are set to Active by default.
 
@@ -18730,6 +19142,112 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
+# FILE: adobe-cloud-drive-article-index-adobe-workfront.md
+---
+
+Adobe Cloud Drive: article index | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Adobe Cloud Drive: article index
+
+Last update: July 7, 2026
+
+Topics:
+
+Digital Content and Documents
+
+Workfront Integrations and Apps
+
+CREATED FOR:
+
+User
+
+This section contains the following articles:
+
+Adobe Cloud Drive overview
+
+Install Adobe Cloud Drive
+
+Use Adobe Cloud Drive
+
+Set up and manage Adobe Cloud Drive
+
+Troubleshoot Adobe Cloud Drive
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
+# FILE: adobe-cloud-drive-overview-adobe-workfront.md
+---
+
+Adobe Cloud Drive overview | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Adobe Cloud Drive overview
+
+Last update: June 24, 2026
+
+Topics:
+
+Integrations
+
+CREATED FOR:
+
+User
+
+Adobe Cloud Drive is a desktop application that mounts your Adobe cloud storage projects as a drive on your Mac or Windows computer. Workfront projects appear as folders, and you can open, create, edit, and save files directly to Workfront projects on Adobe cloud storage, using any desktop application.
+
+The files in Adobe Cloud Drive are the same files you see in Workfront and Frame.io, so changes you make on your desktop are available in connected Workfront projects in both products.
+
+View a video overview of the functionality available in Adobe Cloud Drive.
+
+For more information about the storage that Adobe Cloud Drive connects to, see
+
+Adobe cloud storage overview
+
+.
+
+What you can do with Adobe Cloud Drive
+
+Access projects from Adobe cloud storage as folders in Finder (Mac) or File Explorer (Windows).
+
+Open, create, and edit files in Adobe Creative Cloud apps, Microsoft Office, or any application installed on your computer.
+
+Save changes locally and let Adobe Cloud Drive sync them to projects on Adobe cloud storage.
+
+Mark files for offline access when you’re traveling or working without a network connection. When your connection is restored, the updates sync to the file in the project, and you can then remove the files from your local cache to free up disk space.
+
+Collaborate with team members on the same project files.
+
+Who can use Adobe Cloud Drive
+
+To use Adobe Cloud Drive, your organization must be on the Workflow Ultimate package, with Adobe cloud storage enabled.
+
+Only projects using Adobe cloud storage appear in the drive. Legacy Workfront projects don’t appear. For more information about the difference, see
+
+Differences between Adobe cloud storage and legacy Workfront storage
+
+.
+
+If you don’t see Adobe Cloud Drive available for download, or if your organization manages application installs for you, contact your Workfront administrator.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
 # FILE: adobe-cloud-storage-overview-adobe-workfront.md
 ---
 
@@ -18838,6 +19356,14 @@ At the project level, system-generated folders display a linked object. The fold
 For more information, see
 
 How document permissions work
+
+.
+
+Adobe Cloud Drive
+
+Adobe Cloud Drive is a desktop application that mounts your Adobe cloud storage projects as a drive on your Mac or Windows computer. You can open, edit, and save files in any application while Adobe Cloud Drive keeps your work in sync with Adobe cloud storage. For more information, see
+
+Adobe Cloud Drive overview
 
 .
 
@@ -19157,7 +19683,7 @@ Workfront Guide
 
 Adobe Unified Experience for Workfront
 
-Last update: June 12, 2026
+Last update: July 6, 2026
 
 Topics:
 
@@ -20117,11 +20643,11 @@ Documentation
 
 Workfront
 
-Adobe Workfront Documentation
+Adobe Workfront documentation
 
 Welcome to the Adobe Workfront product and technical documentation homepage. Use the following Adobe Workfront docs, guides, tutorials, and additional support to learn how to manage the entire lifecycle of work in one place.
 
-Product Documentation
+Product documentation
 
 lists-documentation-1
 
@@ -20141,7 +20667,7 @@ Workfront Planning
 
 Use the documents and additional resources to learn how to implement and effectively use Adobe Workfront Planning in your organization.
 
-Developer Documentation
+Developer documentation
 
 lists-documentation-2
 
@@ -20187,7 +20713,7 @@ In this video, you will learn how to tap into the power of universal connectors,
 
 See all tutorials
 
-Release Information
+Release information
 
 lists-release-1
 
@@ -20201,7 +20727,7 @@ Workfront Known Issues
 
 Workfront Maintenance Updates
 
-Related Resources
+Related resources
 
 lists-resources-1
 
@@ -21963,6 +22489,22 @@ Expands a project or folder into the list of document version IDs it contains. S
 
 Read
 
+Find a document
+
+approvals_find_document
+
+Look up a document by filename or document version ID
+
+Read
+
+Get documents by scope
+
+approvals_get_documents_by_scope
+
+List document inside a project or folder.
+
+Read
+
 Approval workflows
 
 Title
@@ -22073,6 +22615,34 @@ Updates an existing template with structured modifications (add or remove partic
 
 Write
 
+Remind stakeholders of approvals in bulk
+
+approvals_send_approval_reminder
+
+Send approval reminder emails to all pending approvers across an entire project, folder, campaign, or due-date window.
+
+Write
+
+Update approval templates in bulk
+
+approvals_update_template
+
+Perform template updates to multiple templates, such as applying templates to assets, creating new templates from scratch or from existing approval flows, editing templates, and performing bulk operations across templates and assets.
+
+Write
+
+Add or remove approval participants in bulk.
+
+approvals_update_approval_participants
+
+and
+
+approvals__submit_update_approval_participants
+
+Add, remove, or replace participants across an entire portfolio, program, or project scope in one operation.
+
+Write
+
 Lookups and users
 
 Title
@@ -22123,11 +22693,11 @@ Lists Workfront projects where the calling user is the owner.
 
 Read
 
-Get Adobe region
+Find projects
 
-approvals_get_adobe_region
+approvals_find_projects
 
-Returns the Adobe name of a cloud provider region.
+Look up Workfront projects, optionally filtered by name and/or restricted to projects that the calling user owns.
 
 Read
 
@@ -22287,7 +22857,7 @@ Write
 
 Remove global record type from workspace
 
-planning_remove_global_record_type_from_workspace
+planning_remove_global_record_type_from_ws
 
 Unlinks a global record type from a workspace; deletes all its records in that workspace.
 
@@ -22555,6 +23125,8 @@ Workflow tools
 
 Workflow tools are the general-purpose actions the AI agentic platform uses to work with any Workfront object — projects, tasks, issues, hours, assignments, programs, portfolios, and so on.
 
+Objects and fields
+
 Title
 
 Tool name
@@ -22603,6 +23175,172 @@ Converts user-provided field names or labels to the underlying Workfront API fie
 
 Read
 
+Read Workflow docs
+
+workflow_read_workflow_docs
+
+Loads the Workfront Workflow documentation, including tool usage guides and object-specific operations playbooks. This is the required first step before performing Workflow actions.
+
+Read
+
+Comments
+
+Title
+
+Tool name
+
+What it does
+
+Action
+
+Query comments
+
+comment-stream_query_comments
+
+Query comments by object ID, with pagination.
+
+Read
+
+Get comment
+
+comment-stream_get_comment
+
+Get a single comment by ID.
+
+Read
+
+Get comments count
+
+comment-stream_get_comments_count
+
+Get the total top-level comment count for an object.
+
+Read
+
+Create comment
+
+comment-stream_create_comment
+
+Create a new comment on an object.
+
+Write
+
+Create reply
+
+comment-stream_create_reply
+
+Create a reply to an existing comment.
+
+Write
+
+Update comment
+
+comment-stream_update_comment
+
+Update an existing comment or reply.
+
+Write
+
+Delete comment
+
+comment-stream_delete_comment
+
+Delete a comment by its ID.
+
+Write
+
+Add reaction
+
+comment-stream_add_reaction
+
+Add a reaction (like) to a comment.
+
+Write
+
+Remove reaction
+
+comment-stream_remove_reaction
+
+Remove a reaction (like) from a comment.
+
+Write
+
+Insights tools
+
+Insights tools retrieve information about Workfront objects.
+
+Title
+
+Tool name
+
+What it does
+
+Action
+
+Read documents
+
+insights_read_docs
+
+Load the Workfront playbook or domain documentation, such as conditions, status, dates, or field paths. This is the required first step before querying data.
+
+Read
+
+Get current user
+
+insights_get_current_user
+
+Retrieve your own Workfront identity, including name, ID, and URL.
+
+Read
+
+Search fields
+
+insights_search_fields
+
+Search for available fields (standard and custom) on projects, tasks, issues, users, portfolios, teams, and so on.
+
+Read
+
+Get field paths
+
+insights_get_field_paths
+
+Resolve dot-notation field paths for entities, required by the data query tool.
+
+Read
+
+Find ID by name
+
+insights_find_id_by_name
+
+Look up the ID of any Workfront object by name, such as projects, tasks, users, portfolios, and so on.
+
+Read
+
+Find Workfront data
+
+insights_find_workfront_data
+
+Find, filter, count, sort, and aggregate Workfront data. This is the main query and report tool.
+
+Read
+
+Summarize object
+
+insights_summarize_object
+
+Fetch and summarize a single Workfront object by ID.
+
+Read
+
+List entities
+
+insights_list_entities
+
+List all Workfront object types available to query.
+
+Read
+
 How tools are updated
 
 When Adobe releases a new version of the Workfront MCP server, the AI agentic platform uses the updated tool set automatically. You don’t need to reconnect or change anything on your side.
@@ -22610,8 +23348,6 @@ When Adobe releases a new version of the Workfront MCP server, the AI agentic pl
 Additional tools coming soon
 
 We are working on adding the following tools to the Workfront MCP server in the future:
-
-Comments
 
 Boards
 
@@ -23385,17 +24121,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -23418,6 +24156,8 @@ Share workspaces
 Share record types
 
 Share records
+
+Set default permissions for records
 
 style
 
@@ -23453,31 +24193,25 @@ User
 
 Admin
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning. Workfront Planning is either a standalone product, or an additionally purchased capability of Adobe Workfront.
 
-Your company must purchase an additional package for Workfront Planning to access its capabilities.
+This article contains general information about Workfront Planning when customers also purchase a Workfront or Workflow package.
 
-For more information, contact your account manager
+For the complete list of articles that contain documentation for Workfront Planning, see
 
-For more information about Workfront Planning, see
-
-Get started with Adobe Workfront Planning
+General information and article index for Adobe Workfront Planning
 
 .
 
-There are license and sharing permission restrictions to use Adobe Workfront Planning.
+For information Workfront Planning as a standalone product, see
 
-This article describes the access and settings that you need in place to use the capabilities of Workfront Planning.
+Get started with Adobe Workfront Planning as a standalone product
+
+.
+
+This article describes the access and settings that you need to use the capabilities of Workfront Planning.
 
 Access requirements
 
@@ -23485,9 +24219,7 @@ You must have the following access to use Workfront Planning:
 
 Adobe Workfront package
 
-Any Workfront and Planning package
-
-Any Workflow and Planning package
+Any Workfront or Workflow Planning package and any Workfront Planning package
 
 NOTE
 
@@ -23505,13 +24237,13 @@ Any Workflow package and a Planning Prime and Ultimate package
 
 Adobe Workfront license
 
-Any, to view Workfront Planning information
+Any Workflow and any Planning license, to view Workfront Planning information
 
-Standard, to create workspaces and views
+A Workflow Standard and a Planning Standard, to create workspaces and views
 
 Access level configurations
 
-There are no access level controls for Adobe Workfront Planning
+Any Workflow and any Planning License Type in the access level
 
 Object permissions
 
@@ -23523,9 +24255,9 @@ Manage permissions to records to edit, share, or delete them.
 
 Contribute or higher permissions to views that you did not create, to edit, delete, and share them
 
-System Administrators can manage workspaces they did not create.
+Planning Administrators can manage workspaces they did not create.
 
-System Administrators cannot access views they did not create.
+Planning Administrators cannot access views they did not create.
 
 For information about sharing permissions for Workfront Planning objects, see
 
@@ -23533,9 +24265,9 @@ Overview of sharing permissions in Adobe Workfront Planning
 
 Layout template
 
-Standard users and System Administrators have the Planning areas enabled by default.
+Planning Standard users and Administrators have the Planning areas enabled by default.
 
-Users with a Light or Contributor license must be assigned a layout template that includes the Planning option in the following areas:
+Users with a Workflow Light or Planning Contributor license must be assigned a layout template that includes the Planning option in the following areas:
 
 Main Menu
 
@@ -23544,6 +24276,108 @@ Left panel of projects, portfolios, and programs
 For more information, see
 
 Access requirements in Workfront documentation
+
+.
+
+Workfront Planning access levels and licenses
+
+You can assign a user a Planning Administrator license when you add them to the Adobe Admin Console as an Administrator.
+
+For information, see
+
+Manage users in the Adobe Admin Console
+
+.
+
+You cannot modify the Planning Administrator access level in Workfront Planning.
+
+You can assign the following license types when you configure access levels in Workfront:
+
+Workflow license types
+
+Planning license types
+
+Users must have both license types assigned to their access level to access Workfront Planning.
+
+You can assign the following Planning licenses to an Access Level:
+
+Planning Standard
+
+: Give users this access if they need to create and manage all Planning objects, without being an administrator.
+
+Planning Contributor
+
+: Give users this access if they need to contribute to records but don’t need to create Planning objects.
+
+note tip
+
+TIP
+
+The Planning Contributor license type is not available if your organization purchased unequal numbers of Workflow and Planning licenses.
+
+None
+
+: When you assign this Planning license type, you are specifically removing all Planning access to the users assigned to this access level.
+
+note important
+
+IMPORTANT
+
+Planning licenses and Workflow licenses work together to give users access to Workfront.
+
+You can give a user different levels of access between Workflow and Planning but the Workflow license cannot be lower than the Planning license.
+
+For example, you can give a user a Workflow Standard license and a Planning Contributor license, but you cannot give them a Workflow Contributor license and a Planning Standard license.
+
+The Workflow license type cannot be blank if the user must access Workflow or Planning.
+
+For more information, see
+
+License type overview when using Adobe Workfront Planning
+
+.
+
+Configure access level
+
+For information about configuring access in Workfront, see
+
+Create and modify custom access levels
+
+.
+
+Assign licenses to users
+
+You can assign licenses to users when you assign them an Access level while editing or creating them.
+
+For information, see
+
+Edit a user’s profile
+
+.
+
+Grant permissions
+
+You can grant permissions to the following entities in Workfront Planning:
+
+Workspaces
+
+Record types
+
+Views
+
+Records
+
+For more information, see
+
+Overview of sharing permissions in Adobe Workfront Planning
+
+.
+
+Your Adobe Workfront license type works with your Workfront Planning license type and Planning permissions to give you access to view, contribute, or manage Workfront Planning objects.
+
+For information about how license types affect permission levels for Workfront Planning objects, see
+
+License type overview when using Adobe Workfront Planning
 
 .
 
@@ -23611,46 +24445,6 @@ All users assigned to the template can now access Workfront Planning in their Ma
 
 Users can start creating workspaces, records types, records, and fields.
 
-Assign licenses to users
-
-You can assign licenses to users when you configure their Access level while editing or creating them.
-
-For information, see
-
-Edit a user’s profile
-
-.
-
-Configure access level
-
-There are no Workfront access level controls for Workfront Planning.
-
-Users with any type of Workfront license can access Workfront Planning.
-
-Grant permissions
-
-You can grant permissions to the following entities in Workfront Planning:
-
-Workspaces
-
-Record types
-
-Views
-
-For more information, see
-
-Overview of sharing permissions in Adobe Workfront Planning
-
-.
-
-Your Adobe Workfront license type works with your Workfront Planning permissions to give you access to view, contribute, or manage Workfront Planning objects.
-
-For information about how license types affect permission levels for Workfront Planning objects, see
-
-License type overview when using Adobe Workfront Planning
-
-.
-
 recommendation-more-help
 
 workfront-help-quicksilver
@@ -23683,17 +24477,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -23929,17 +24725,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -25143,17 +25941,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -25199,27 +25999,21 @@ User
 
 Admin
 
-The information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -25346,6 +26140,42 @@ Number of records connected to one record in a multi-select connection type, wit
 *We recommend to not have too many workspaces, as they could become hard to manage and your workflows might be too fragmented.
 
 For information about Workfront Planning pricing and packaging, contact your account manager.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
+# FILE: adobe-workfront-planning-reporting-article-index-adobe-workfront.md
+---
+
+Adobe Workfront Planning Reporting: Article Index | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Adobe Workfront Planning reporting: article index
+
+Last update: July 6, 2026
+
+Topics:
+
+Workfront Planning
+
+CREATED FOR:
+
+User
+
+Admin
+
+You can create reports from Adobe Workfront Planning using the Workfront Canvas Dashboard or Workfront Data Connect which uses Snowflake technology.
+
+View Workfront Planning information in reports
+
+Workfront Data Connect for Workfront Planning
 
 recommendation-more-help
 
@@ -27057,7 +27887,7 @@ Workfront Guide
 
 API basics
 
-Last update: June 12, 2026
+Last update: July 10, 2026
 
 Topics:
 
@@ -27070,6 +27900,20 @@ Integrations
 CREATED FOR:
 
 Developer
+
+NOTE
+
+The examples in this article include
+
+<supported-version>
+
+. Replace this with the version of the Workfront API that you want to use.
+
+For the Workfront API versioning and support schedule, see
+
+API versioning and support schedule
+
+.
 
 The goal for the Adobe Workfront API is to simplify building integrations with Workfront by introducing a REST-ful architecture that operates over HTTP. This document assumes you are familiar with REST and JSON responses and describes the approach taken by the Workfront API.
 
@@ -27101,11 +27945,11 @@ Object URI
 
 Each object in the system is given a unique URI consisting of the object type and the ID. The following examples show URIs describing three unique objects:
 
-/attask/api/v15.0/project/4c78821c0000d6fa8d5e52f07a1d54d0
+/attask/api/<supported-version>/project/4c78821c0000d6fa8d5e52f07a1d54d0
 
-/attask/api/v15.0/task/4c78821c0000d6fa8d5e52f07a1d54d1
+/attask/api/<supported-version>/task/4c78821c0000d6fa8d5e52f07a1d54d1
 
-/attask/api/v15.0/issue/4c78821c0000d6fa8d5e52f07a1d54d2
+/attask/api/<supported-version>/issue/4c78821c0000d6fa8d5e52f07a1d54d2
 
 The object type is case insensitive and can be either the abbreviated ObjCode (such as proj) or the alternate object name (project).
 
@@ -27151,15 +27995,15 @@ DELETE
 
 In order to work around client deficiencies or protocol length limits, the method parameter can be used to override HTTP behavior. For example, a GET operation may be implemented by posting the following URI:
 
-GET /attask/api/v15.0/project?id=4c78...54d0&method=get
+GET /attask/api/<supported-version>/project?id=4c78...54d0&method=get
 
-GET /attask/api/v15.0/project/4c78...54d0?method=get
+GET /attask/api/<supported-version>/project/4c78...54d0?method=get
 
 Response
 
 Each request is given a response in JSON format. The response has either a data attribute if the request was successful or an error attribute if there was a problem. For example, the request
 
-GET /attask/api/v15.0/proj/4c7c08b20000002de5ca1ebc19edf2d5
+GET /attask/api/<supported-version>/proj/4c7c08b20000002de5ca1ebc19edf2d5
 
 returns a JSON response similar to the following:
 
@@ -27195,9 +28039,9 @@ sessionID=abc123
 
 is included in the URI. The following examples show how this would look for a DELETE request:
 
-GET /attask/api/v15.0/project?id=4c78...54d0&method=delete&sessionID=abc123
+GET /attask/api/<supported-version>/project?id=4c78...54d0&method=delete&sessionID=abc123
 
-GET /attask/api/v15.0/project/4c78...54d0?method=delete&sessionID=abc123
+GET /attask/api/<supported-version>/project/4c78...54d0?method=delete&sessionID=abc123
 
 Authentication
 
@@ -27215,7 +28059,7 @@ attacks and not interfering with the URI for caching purposes.
 
 The following is an example of a request header:
 
-GET /attask/api/v15.0/project/search
+GET /attask/api/<supported-version>/project/search
 
 SessionID: abc1234
 
@@ -27269,7 +28113,7 @@ Administration differences between Adobe Workfront and Adobe Business Platform
 
 Using a valid username and password, you can use the following request to obtain a session ID:
 
-POST /attask/api/v15.0/login?username=admin&password=user
+POST /attask/api/<supported-version>/login?username=admin&password=user
 
 This sets a cookie to authenticate future requests as well as return a JSON response with the newly created sessionID, the userID of the logged in user, and other session attributes.
 
@@ -27281,25 +28125,25 @@ Generating an API Key
 
 You can generate an API Key when you log into the system as that user, as shown in the following example:
 
-PUT /attask/api/v15.0/user?action=generateApiKey&username= username&password=password&method=put
+PUT /attask/api/<supported-version>/user?action=generateApiKey&username= username&password=password&method=put
 
 Retrieving a Previously-Generated API Key
 
 You can also retrieve an API Key that has been previously generated for a particular user by running getApiKey:
 
-PUT /attask/api/v15.0/user?action=getApiKey&username=user@email.com&password=userspassword&method=put
+PUT /attask/api/<supported-version>/user?action=getApiKey&username=user@email.com&password=userspassword&method=put
 
 You can then use this result to authenticate any API call by adding “apiKey” as a request parameter with this value in place of a sessionID or username and password. This is beneficial from a security perspective.
 
 The following request is an example of retrieving data from a project using the apiKey:
 
-GET /attask/api/v15.0/project/abc123xxxxx?apiKey=123abcxxxxxxxxx
+GET /attask/api/<supported-version>/project/abc123xxxxx?apiKey=123abcxxxxxxxxx
 
 Invalidating an API Key
 
 If the apiKey value has been compromised, you can run “clearApiKey” which invalidates the current API Key, as shown in the following example:
 
-GET /attask/api/v15.0/user?action=clearApiKey&username=user@email.com&password=userspassword&method=put
+GET /attask/api/<supported-version>/user?action=clearApiKey&username=user@email.com&password=userspassword&method=put
 
 Once cleared, you can run getApiKey again to generate a new API Key.
 
@@ -27307,7 +28151,7 @@ Logout
 
 When a session is complete, you can use the following request to log the user out, preventing any further access with the sessionID.
 
-GET /attask/api/v15.0/logout?sessionID=abc1234
+GET /attask/api/<supported-version>/logout?sessionID=abc1234
 
 The sessionID to be logged out can be specified either as a cookie, request header, or request parameter.
 
@@ -27315,7 +28159,7 @@ To log out a user:
 
 Navigate to your login screen, but do not log in.
 
-Change the URL to /attask/api/v15.0/project/search.
+Change the URL to /attask/api/<supported-version>/project/search.
 
 Notice the page cannot be found.
 
@@ -27333,7 +28177,7 @@ and *user
 
 Change the URL back to
 
-/attask/api/v15.0/project/search
+/attask/api/<supported-version>/project/search
 
 .
 
@@ -27353,7 +28197,7 @@ Retrieving an Object Using the Object ID
 
 If you know the ID of an object, you can retrieve the object by accessing its unique URI. For example, the request
 
-GET /attask/api/v15.0/project/4c78821c0000d6fa8d5e52f07a1d54d0
+GET /attask/api/<supported-version>/project/4c78821c0000d6fa8d5e52f07a1d54d0
 
 returns a response similar to the following:
 
@@ -27373,11 +28217,11 @@ returns a response similar to the following:
 
 You can retrieve multiple objects in the same request by specifying the id request parameter and giving a comma-separated list of IDs, as shown in the following example:
 
-GET /attask/api/v15.0/project?id=4c78...54d0,4c78...54d1
+GET /attask/api/<supported-version>/project?id=4c78...54d0,4c78...54d1
 
-Notice the /attask/api/v15.0/project?id=… request is the same as the
+Notice the /attask/api/<supported-version>/project?id=… request is the same as the
 
-/attask/api/v15.0/project/...
+/attask/api/&lt;supported-version&gt;/project/...
 
 request.
 
@@ -27387,15 +28231,15 @@ If you want to retrieve an object by criteria other than the ID, you can search 
 
 For example, you can use the following request to return a list of all the projects in the system:
 
-GET /attask/api/v15.0/project/search
+GET /attask/api/<supported-version>/project/search
 
 You can specify filters using the request parameters as name-value pairs. For example, the following example shows a request that would find all current projects:
 
-GET /attask/api/v15.0/project/search?status=CUR
+GET /attask/api/<supported-version>/project/search?status=CUR
 
 The following request finds all the tasks that are not yet complete and that are assigned to a user named John.
 
-GET /attask/api/v15.0/task/search?percentComplete=100
+GET /attask/api/<supported-version>/task/search?percentComplete=100
 
 &percentComplete_Mod=lt &assignedTo:firstName=John
 
@@ -27485,7 +28329,7 @@ Tasks that have a parent task named “Final Task”
 
 then use the following API call with its multiple OR statements:
 
-GET /attask/api/v15.0/task/search?name=Planning
+GET /attask/api/<supported-version>/task/search?name=Planning
 
 &name_Mod=contains
 
@@ -27507,15 +28351,15 @@ One potential pitfall with using URL parameters for search filters is that Workf
 
 To avoid this problem, you can place these values in filter parameters with JSON formatting. For example, if you want to filter for the username testuser, instead of using
 
-/attask/api/v15.0/user/search?username=testuser@workfront.com
+/attask/api/<supported-version>/user/search?username=testuser@workfront.com
 
-/attask/api/v15.0/user/search?filters={"username":"testuser@workfront.com"}
+/attask/api/<supported-version>/user/search?filters={"username":"testuser@workfront.com"}
 
 Using the Map Request Parameter
 
 By default, the data returned from a search is a JSON array. Depending on your use case, it may be more efficient to get the result as a JSON object indexed by ID. This can be done by using the map request parameter. For example, the request
 
-/attask/api/v15.0/task/search?map=true
+/attask/api/<supported-version>/task/search?map=true
 
 {
 
@@ -27559,7 +28403,7 @@ By default, retrieving an object returns only the most commonly-used subset of f
 
 You can use the fields request parameter to specify a comma-separated list of specific fields is returned. For example, the request
 
-/attask/api/v15.0/task/search?fields=plannedStartDate,priority
+/attask/api/<supported-version>/task/search?fields=plannedStartDate,priority
 
 {
 
@@ -27585,9 +28429,9 @@ Searching for Nested Objects
 
 You can search for nested objects. By default, nested objects are returned with only the name and ID. For instance to get all issues along with their owners, use the following request:
 
-/attask/api/v15.0/issue/search?fields=owner
+/attask/api/<supported-version>/issue/search?fields=owner
 
-/attask/api/v15.0/issue/search?fields=owner:title,owner:phoneNumber
+/attask/api/<supported-version>/issue/search?fields=owner:title,owner:phoneNumber
 
 {
 
@@ -27613,21 +28457,21 @@ Retrieving Nested Collections
 
 You can retrieve nested collections of objects. For example, to get a project with all its tasks, use the following request:
 
-/attask/api/v15.0/project/search?fields=tasks
+/attask/api/<supported-version>/project/search?fields=tasks
 
-/attask/api/v15.0/task/search?fields=assignments
+/attask/api/<supported-version>/task/search?fields=assignments
 
 Searching for Multiple Nested Fields
 
 By default, only the name and ID of each task is returned, but additional nested fields can be specified with colon syntax. To view all available fields for a related object or collection, simply append a colon and asterisk to the object/collection reference.
 
-/attask/api/v15.0/task/search?fields=assignments:*
+/attask/api/<supported-version>/task/search?fields=assignments:*
 
 Retrieving Custom Data
 
 You can retrieve custom data fields using the prefix “DE:”. For instance, to request a project with a parameter called “CustomText,” use the following request:
 
-/attask/api/v15.0/project/search?fields=DE:CustomText
+/attask/api/<supported-version>/project/search?fields=DE:CustomText
 
 {
 
@@ -27639,7 +28483,7 @@ You can retrieve custom data fields using the prefix “DE:”. For instance, to
 
 }
 
-/attask/api/v15.0/project/search?fields=parameterValues
+/attask/api/<supported-version>/project/search?fields=parameterValues
 
 {
 
@@ -27663,7 +28507,7 @@ Using Named Queries
 
 Some object types have named searches that are commonly executed and are available by appending the name of the query to the end of the object type URI. For example, the following request retrieves the work items (tasks and issues) to which the user is currently assigned:
 
-/attask/api/v15.0/work/myWork
+/attask/api/<supported-version>/work/myWork
 
 Using
 
@@ -27675,7 +28519,7 @@ count
 
 to return the number of results that match your query. This can be useful when you don’t need the data in the results. By returning only the count, the server can process the request more quickly and save bandwidth. For example, the request
 
-GET /attask/api/v15.0/project/count?status=CUR
+GET /attask/api/<supported-version>/project/count?status=CUR
 
 {
 
@@ -27687,7 +28531,7 @@ Requesting a Report
 
 You can perform a report request, where only the aggregate of some field is desired with one or more groupings. As shown in the following example, the report syntax is the same as the syntax for the SOAP API:
 
-GET /attask/api/v15.0/hour/report?project:name_1_GroupBy=true&hours_AggFunc=sum
+GET /attask/api/<supported-version>/hour/report?project:name_1_GroupBy=true&hours_AggFunc=sum
 
 {
 
@@ -27801,7 +28645,7 @@ $$LIMIT=200
 
 filter in your query, as shown in the following example:
 
-GET /attask/api/v15.0/project/search?$$LIMIT=200
+GET /attask/api/<supported-version>/project/search?$$LIMIT=200
 
 To ensure reliability and performance for other tenants in the system, the maximum allowed results limit per query is 2000 objects. Attempting to specify a larger limit will result in an
 
@@ -27815,7 +28659,7 @@ $$FIRST
 
 filter. For example, the following request returns results 201-250 for a query:
 
-GET /attask/api/v15.0/project/search?$$FIRST=200&$$LIMIT=50
+GET /attask/api/<supported-version>/project/search?$$FIRST=200&$$LIMIT=50
 
 Note that in the above example,
 
@@ -27839,11 +28683,11 @@ You can create an access rule to determine who can access to an object. The foll
 
 To set a project so it is shared only with a user with ID “abc123” use the following request:
 
-GET /attask/api/v15.0/project/123abcxxxxxxxxxxxxxxxxxxxxxxxxxx?method=put &updates={ accessRules: [ {accessorID: 'abc123', accessorObjCode: 'USER', coreAction: 'VIEW'} ] }
+GET /attask/api/<supported-version>/project/123abcxxxxxxxxxxxxxxxxxxxxxxxxxx?method=put &updates={ accessRules: [ {accessorID: 'abc123', accessorObjCode: 'USER', coreAction: 'VIEW'} ] }
 
-GET /attask/api/v15.0/project/123abcxxxxxxxxxxxxxxxxxxxxxxxxxx/share?method=put&accessorID=abc123&accessorObjCode=USER&coreAction=VIEW
+GET /attask/api/<supported-version>/project/123abcxxxxxxxxxxxxxxxxxxxxxxxxxx/share?method=put&accessorID=abc123&accessorObjCode=USER&coreAction=VIEW
 
-GET /attask/api/v15.0/project/123abcxxxxxxxxxxxxxxxxxxxxxxxxxx?fields=accessRules:*
+GET /attask/api/<supported-version>/project/123abcxxxxxxxxxxxxxxxxxxxxxxxxxx?fields=accessRules:*
 
 POST Behavior
 
@@ -27853,19 +28697,19 @@ Creating an Object
 
 The following is an example of a request to create a new project:
 
-POST /attask/api/v15.0/project?name=New Project
+POST /attask/api/<supported-version>/project?name=New Project
 
 Copying an Object
 
 Some objects support being copied. For these object types, it is possible to create new objects by posting with a copySourceID parameter. For example, the following request copies the given project and gives it a new name:
 
-POST /attask/api/v15.0/project?copySourceID=4c7...&name=Copied Project
+POST /attask/api/<supported-version>/project?copySourceID=4c7...&name=Copied Project
 
 Uploading Documents
 
 You can upload documents through the following API URL:
 
-POST /attask/api/v15.0/upload
+POST /attask/api/<supported-version>/upload
 
 {
 
@@ -27873,7 +28717,7 @@ POST /attask/api/v15.0/upload
 
 }
 
-POST /attask/api/v15.0/document?updates={
+POST /attask/api/<supported-version>/document?updates={
 
 name: aFileName,
 
@@ -27897,15 +28741,15 @@ Editing Objects
 
 Updates to objects are always done by ID using the object’s unique URI. Fields to be updated are specified as request parameters. For instance, to change the name of a project you could send a request similar to the following:
 
-PUT /attask/api/v15.0/project/4c7...?name=New Project Name
+PUT /attask/api/<supported-version>/project/4c7...?name=New Project Name
 
-PUT /attask/api/v15.0/project?id=4c7...&name=New Project Name
+PUT /attask/api/<supported-version>/project?id=4c7...&name=New Project Name
 
 Specifying JSON Edits
 
 As shown in the following example, you can use the updates request parameter to specify the fields to be updated using JSON syntax:
 
-PUT /attask/api/v15.0/project/4c7...?updates=
+PUT /attask/api/<supported-version>/project/4c7...?updates=
 
 {
 
@@ -27921,7 +28765,7 @@ Making Nested Updates
 
 Some objects have privately-owned collections that can be updated. For example, the following example demonstrates how to overwrite the existing assignments for a given task:
 
-PUT /attask/api/v15.0/task/4c7...?updates=
+PUT /attask/api/<supported-version>/task/4c7...?updates=
 
 {
 
@@ -27949,7 +28793,7 @@ While updates made to the top level are sparse, updates to a collection or neste
 
 The following example makes a project a public help desk queue. Note that the existing queue properties are replaced.
 
-PUT /attask/api/v15.0/project/4c7...?updates=
+PUT /attask/api/<supported-version>/project/4c7...?updates=
 
 {
 
@@ -27965,67 +28809,67 @@ Using the Action Request Parameter
 
 Some objects support additional actions that can be performed in addition to simple edits. You can specify these actions using the action request parameter. For example, the following request recalculates the timeline for a given project:
 
-PUT /attask/api/v15.0/project/4c7...?action=calculateTimeline
+PUT /attask/api/<supported-version>/project/4c7...?action=calculateTimeline
 
 or
 
-PUT /attask/api/v15.0/project/4c7.../calculateTimeline
+PUT /attask/api/<supported-version>/project/4c7.../calculateTimeline
 
 Moving Objects
 
 The following demonstrates the syntax for moving a task from one project to another:
 
-PUT /attask/api/v15.0/task/4c7.../move?projectID=5d8...
+PUT /attask/api/<supported-version>/task/4c7.../move?projectID=5d8...
 
-PUT /attask/api/v15.0/project/1234/approveApproval
+PUT /attask/api/<supported-version>/project/1234/approveApproval
 
-PUT /attask/api/v15.0/project/1234/calculateFinance
+PUT /attask/api/<supported-version>/project/1234/calculateFinance
 
-PUT /attask/api/v15.0/project/1234/calculateTimeline
+PUT /attask/api/<supported-version>/project/1234/calculateTimeline
 
-PUT /attask/api/v15.0/project/1234/calculateDataExtension
+PUT /attask/api/<supported-version>/project/1234/calculateDataExtension
 
-PUT /attask/api/v15.0/project/1234/recallApproval
+PUT /attask/api/<supported-version>/project/1234/recallApproval
 
-PUT /attask/api/v15.0/project/1234/rejectApproval
+PUT /attask/api/<supported-version>/project/1234/rejectApproval
 
-PUT /attask/api/v15.0/task/1234/move
+PUT /attask/api/<supported-version>/task/1234/move
 
-PUT /attask/api/v15.0/workitem/1234/markViewed
+PUT /attask/api/<supported-version>/workitem/1234/markViewed
 
 The following is an example of each action type:
 
-PUT /attask/api/v15.0/project/1234?method=put&updates={accessRules:[{accessorID: 'abc123', accessorObjCode: 'USER', coreAction: 'VIEW'}]}
+PUT /attask/api/<supported-version>/project/1234?method=put&updates={accessRules:[{accessorID: 'abc123', accessorObjCode: 'USER', coreAction: 'VIEW'}]}
 
 Sharing Objects
 
 The following example demonstrates the syntax for sharing a project with a team:
 
-PUT /attask/api/v15.0/project/123abcxxxxxxxxxxxxxxxxxxxxxxxxxx/share?accessorID=123abcxxxxxxxxxxxxxxxxxxxxxxxxxx&accessorObjCode=TEAMOB
+PUT /attask/api/<supported-version>/project/123abcxxxxxxxxxxxxxxxxxxxxxxxxxx/share?accessorID=123abcxxxxxxxxxxxxxxxxxxxxxxxxxx&accessorObjCode=TEAMOB
 
-PUT /attask/api/v15.0/project/123abcxxxxxxxxxxxxxxxxxxxxxxxxxx?method=PUT&updates={accessRules:[{accessorID:'123abcxxxxxxxxxxxxxxxxxxxxxxxxxx',accessorObjCode:'TEAMOB',coreAction:'VIEW'}]}
+PUT /attask/api/<supported-version>/project/123abcxxxxxxxxxxxxxxxxxxxxxxxxxx?method=PUT&updates={accessRules:[{accessorID:'123abcxxxxxxxxxxxxxxxxxxxxxxxxxx',accessorObjCode:'TEAMOB',coreAction:'VIEW'}]}
 
-PUT /attask/api/v15.0/task/4c7.../move?projectID=5d8...
+PUT /attask/api/<supported-version>/task/4c7.../move?projectID=5d8...
 
 DELETE Behavior
 
 DELETE removes an object. In every case, the URI may include the parameter force=true to cause the server to remove the specified data and its dependants. In the following example, a task is deleted by executing the HTTP DELETE method on a URI:
 
-DELETE /attask/api/v15.0/task/4c78821c0000d6fa8d5e52f07a1d54d0
+DELETE /attask/api/<supported-version>/task/4c78821c0000d6fa8d5e52f07a1d54d0
 
-DELETE /attask/api/v15.0/task?id=4c78821c0000d6fa8d5e52f07a1d54d0
+DELETE /attask/api/<supported-version>/task?id=4c78821c0000d6fa8d5e52f07a1d54d0
 
-DELETE /attask/api/v15.0/task/4c78821c0000d6fa8d5e52f07a1d54d0?force=true
+DELETE /attask/api/<supported-version>/task/4c78821c0000d6fa8d5e52f07a1d54d0?force=true
 
-DELETE /attask/api/v15.0/task?id=4c78821c0000d6fa8d5e52f07a1d54d0?force=true
+DELETE /attask/api/<supported-version>/task?id=4c78821c0000d6fa8d5e52f07a1d54d0?force=true
 
 Bulk Updates
 
 A bulk update statement updates multiple objects at the same time within a single API call. A bulk create API call is built similarly to a normal update call, as shown in the following examples:
 
-PUT /attask/api/v15.0/proj?updates=[{"name":"Test_Project_1"},{"name":"Test_Project_2"}]&method=POST&apiKey=123ab-cxxxxxxxxxxxxxxxxxxxxxxxxxx
+PUT /attask/api/<supported-version>/proj?updates=[{"name":"Test_Project_1"},{"name":"Test_Project_2"}]&method=POST&apiKey=123ab-cxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-PUSH /attask/api/v15.0/proj?updates=[{"name":"Test_Project_1"},{"name":"Test_Project_2"}]&method=POST&apiKey=123ab-cxxxxxxxxxxxxxxxxxxxxxxxxxx
+PUSH /attask/api/<supported-version>/proj?updates=[{"name":"Test_Project_1"},{"name":"Test_Project_2"}]&method=POST&apiKey=123ab-cxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 data: [{
 
@@ -28071,7 +28915,7 @@ status: "CUR"
 
 }]
 
-PUT /attask/api/v15.0/proj?Umethod=PUT&updates=[{"ID":"123abcxxxxxxxxxxxxxxxxxxxxxxxxxx","name":"Test_Project_1_ Edit"},{"ID":"123abcxxxxxxxxxxxxxxxxxxxxxxxxxx","name":"Test_Project_2_Edit"}]&apiKey=123abcxxxxxxxxxxxxxxxxxxxxxxxxxx
+PUT /attask/api/<supported-version>/proj?Umethod=PUT&updates=[{"ID":"123abcxxxxxxxxxxxxxxxxxxxxxxxxxx","name":"Test_Project_1_ Edit"},{"ID":"123abcxxxxxxxxxxxxxxxxxxxxxxxxxx","name":"Test_Project_2_Edit"}]&apiKey=123abcxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 data: [ {
 
@@ -30141,17 +30985,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -30676,60 +31522,6 @@ The approval is removed from the
 My Approvals
 
 widget.
-
-recommendation-more-help
-
-workfront-help-quicksilver
-
----
-# FILE: approver-decision-shows-a-hyphen-in-the-proof-approval-report-adobe-workfront.md
----
-
-Approver Decision shows a hyphen in the Proof Approval report | Adobe Workfront
-
-Documentation
-
-Workfront
-
-Workfront Guide
-
-Approver Decision shows a hyphen in the Proof Approval report
-
-Last update: June 15, 2026
-
-CREATED FOR:
-
-User
-
-Problem
-
-In the Proof Approval report, a recipient’s Approver Decision field shows a hyphen (-) even though the Decision Date field shows a date and Awaiting Decision is False.
-
-Cause
-
-A hyphen in the Approver Decision field means that the recipient is no longer in a decision-making role on the proof. This can happen when:
-
-The recipient was added to the proof, made a decision, and was later removed from the workflow. If the recipient revisits the proof, the proofing system records the visit as a decision change. Because the recipient is no longer an approver, the system records the new decision as a hyphen.
-
-The recipient’s proof role was changed to one that doesn’t include approval rights, such as Reviewer. For information about the actions each role can take on a proof, see
-
-Proof Roles overview
-
-.
-
-The recipient’s proof permission profile was downgraded after they made their decision.
-
-What this means in your reports
-
-The hyphen is intentional. It tells you that the system isn’t waiting on the recipient to approve the proof, and that the recipient no longer has a decision-making role on the proof.
-
-The Decision Date field still shows the date of the recipient’s most recent decision activity, but the recipient’s decision is no longer counted in the report.
-
-For information about creating and using the Proof Approval report, see
-
-Use the proof approval report
-
-.
 
 recommendation-more-help
 
@@ -31347,17 +32139,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -35019,8 +35813,6 @@ CREATED FOR:
 
 User
 
-The information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
-
 When you assign a rate card to a template, the rate card is then attached to all projects created from the template. The rate card becomes the default on the project, but it can be overridden if needed.
 
 For information about rate cards, see
@@ -35709,7 +36501,7 @@ Workfront Guide
 
 Audit logs overview
 
-Last update: June 12, 2026
+Last update: July 10, 2026
 
 Topics:
 
@@ -35923,7 +36715,7 @@ Creates a custom field
 
 Changes a custom field:
 
-Changes the name, label, instructions, or format
+Changes the API name, label, instructions, or format
 
 Changes the display type
 
@@ -35931,7 +36723,7 @@ This is available only if the field is a one of the following types: single line
 
 Changes the field size
 
-This is available only if the field is a one of the following types: single line, paragraph, text with formatting
+This is available only if the field is a one of the following types: single line, paragraph, rich text
 
 Adds, removes, or hides a field choice
 
@@ -35975,7 +36767,7 @@ Hides or displays the formula associated with a calculated field in the Instruct
 
 Enables or disables Update previous calculations
 
-Adds or changes skip logic or display logic
+Adds or changes field logic
 
 Deletes a custom form
 
@@ -38962,6 +39754,12 @@ If you don’t have permission to an object, it’s not visible in the breadcrum
 Click any object in the breadcrumb path to access that object.
 
 The object page opens.
+
+If you are looking at a project that is connected to an object in Workfront Planning (for example, a campaign), you can switch between both the Planning and the Workfront object types from the breadcrumb. For more information, see
+
+Hierarchy and breadcrumb overview
+
+.
 
 recommendation-more-help
 
@@ -49973,7 +50771,7 @@ At the top of the page, click the
 
 Catch me up
 
-.
+button.
 
 Select the desired timeframe:
 
@@ -50369,7 +51167,7 @@ table 0-row-2 1-row-2 2-row-2 layout-auto html-authored no-header
 
 Adobe Workfront package
 
-Workflow Ultimate
+Any
 
 Adobe Workfront license
 
@@ -52079,8 +52877,6 @@ CREATED FOR:
 
 User
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
-
 While there are no restrictions on the types and sizes of individual files that users can upload to your Workfront instance, your Workfront plan includes a total storage quota. As a Workfront administrator, you monitor usage and quota from the Setup area on the Customer Info page.
 
 How storage appears depends on whether your organization uses legacy Workfront storage or Adobe cloud storage:
@@ -52216,10 +53012,6 @@ Usage figures refresh regularly so you see an up-to-date count.
 Email notifications for administrators
 
 When usage crosses 75%, 90%, or 100% of your storage quota, Workfront sends an email notification to System Administrators.
-
-style
-
-highlighted
 
 recommendation-more-help
 
@@ -60081,8 +60873,6 @@ CREATED FOR:
 
 Admin
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
-
 IMPORTANT
 
 Currently, Content Reviewer is the only available AI Collaborator type. More AI Collaborator capabilities will be available in the future.
@@ -60483,8 +61273,6 @@ CREATED FOR:
 
 Admin
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
-
 As part of configuring your Adobe Workfront system, you can manage details about your organization in the Basic Info section of your Customer Info page.
 
 Access requirements
@@ -60737,17 +61525,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -69059,7 +69849,7 @@ CREATED FOR:
 
 Admin
 
-By default, when you add a new custom field or widget to a custom form, anyone in the system with access to custom forms can edit the properties for that item, such as its label and name. You can change this by controlling who it can be shared with.
+By default, when you add a new custom field or widget to a custom form, anyone in the system with access to custom forms can edit the properties for that item, such as its label and API name. You can change this by controlling who it can be shared with.
 
 For information about custom fields and widgets in custom forms, see
 
@@ -72651,10 +73441,6 @@ The Adobe Workfront MCP server lets you work with your Workfront data through na
 
 Before you can connect an AI agentic platform to Workfront, a Workfront administrator must enable MCP server access in your Workfront instance. The exact steps to connect an AI agentic platform are different for each supported AI agentic platform.
 
-IMPORTANT
-
-Currently, the Workfront MCP server is available only to customers using AWS. Customers that use GCP or Azure will be able to use Workfront MCP functionality in the near future.
-
 Supported AI agentic platforms
 
 The Workfront MCP server works with any AI agentic platform that supports the Model Context Protocol (MCP).
@@ -72665,19 +73451,9 @@ Claude
 
 ChatGPT
 
-If you use a different MCP-compatible AI agentic platform (for example, Gemini or Microsoft Copilot), follow the steps in that platform’s documentation for adding a custom MCP server. When prompted for the MCP server URL, enter the URL for your region:
-
-Region
-
-URL
-
-US
+If you use a different MCP-compatible AI agentic platform (for example, Gemini or Microsoft Copilot), follow the steps in that platform’s documentation for adding a custom MCP server. When prompted for the MCP server URL, enter:
 
 https://mcp.workfront.adobe.com/mcp/v1/workfront
-
-EU
-
-https://mcp-eu.workfront.adobe.com/mcp/v1/workfront
 
 Prerequisites
 
@@ -72718,14 +73494,6 @@ Connect Workfront to Claude
 You connect to Workfront once per Claude account. The connection authenticates you to a specific Workfront instance, and you stay connected until you choose to disconnect.
 
 Connect to Claude desktop from the connectors directory
-
-IMPORTANT
-
-Currently, the Claude Connector only supports connecting to the Workfront MCP server in the US region.  To connect to a Workfront instance in the EU region, see
-
-Connect to Claude with a URL
-
-in this article.
 
 Expand to view step-by-step instructions for connecting Workfront to Claude.
 
@@ -72803,33 +73571,13 @@ Create app
 
 button.
 
-Give the connector a desired name (such as “Workfront”) and enter the desired MCP Server URL:
+Give the connector a desired name (such as “Workfront”) and enter the MCP Server URL:
 
-table 0-row-2 1-row-2 2-row-2
-
-Region
-
-URL
-
-US
+code language-none
 
 https://mcp.workfront.adobe.com/mcp/v1/workfront
 
-EU
-
-https://mcp-eu.workfront.adobe.com/mcp/v1/workfront
-
 After the connector is created, a login window pops up. Authenticate using your Adobe ID credentials. Ensure that you select the desired Workfront instance if you belong to more than one.
-
-note
-
-NOTE
-
-Your Workfront instance must connect with the MCP server for the region for that instance. For example, an EU instance must connect to the EU MCP server.
-
-When selecting an instance, instances that are not compatible with the MCP server’s region appear grayed out, and you cannot connect to them.
-
-To connect to an instance that is not compatible with the MCP server’s region, set up a new MCP connection with the correct URL for that region.
 
 Customize Claude behavior with skills
 
@@ -72875,21 +73623,11 @@ Create app
 
 button.
 
-Give the app a desired name (such as “Workfront”) and enter the desired MCP Server URL:
+Give the app a desired name (such as “Workfront”) and enter the MCP Server URL:
 
-table 0-row-2 1-row-2 2-row-2
-
-Region
-
-URL
-
-US
+code language-none
 
 https://mcp.workfront.adobe.com/mcp/v1/workfront
-
-EU
-
-https://mcp-eu.workfront.adobe.com/mcp/v1/workfront
 
 Ensure that Authentication is set to
 
@@ -72898,16 +73636,6 @@ OAuth
 (set by default), and select the acceptance check box to continue.
 
 After the app is created, a login window pops up. Authenticate using your Adobe ID credentials. Ensure that you select the desired Workfront instance if you belong to more than one.
-
-note
-
-NOTE
-
-Your Workfront instance must connect with the MCP server for the region for that instance. For example, an EU instance must connect to the EU MCP server.
-
-When selecting an instance, instances that are not compatible with the MCP server’s region appear grayed out, and you cannot connect to them.
-
-To connect to an instance that is not compatible with the MCP server’s region, set up a new MCP connection with the correct URL for that region.
 
 Customize ChatGPT behavior with Custom GPTs
 
@@ -74817,17 +75545,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -78415,27 +79145,21 @@ CREATED FOR:
 
 User
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -79137,27 +79861,21 @@ User
 
 Admin
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -80449,17 +81167,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -86037,14 +86757,6 @@ CREATED FOR:
 
 Admin
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 You can design a custom form with the form designer in Adobe Workfront. You can attach custom forms to different Workfront objects to capture data about those objects.
 
 Access requirements
@@ -86187,7 +86899,7 @@ Add calculated fields
 
 Add radio buttons, checkbox groups, and drop-downs
 
-Add typeahead and date fields
+Add date fields
 
 Add external lookup fields
 
@@ -86243,31 +86955,49 @@ Save and Close
 
 .
 
-Notes on field names and labels
+Notes on field API names and labels
 
 notes-on-field-names-and-labels
 
 The label is available for most fields. It’s a descriptive label that appears above the field or widget on the custom form. You can change the label at any time.
 
+note
+
 NOTE
 
 Avoid using special characters in this label as they don’t display correctly in reports.
 
-A name is required for every field. This name is how the system identifies the custom field when you add it to various areas throughout Workfront, such as reports, Home, and API interactions. When you are configuring the field or widget for the first time and you type the label, the Name field populates automatically to match it. The Label and Name fields are not synchronized. This gives you the option to change the label that your users see without having to change the name that the system sees.
+An API name is required for every field. This name is how the system identifies the custom field when you add it to various areas throughout Workfront, such as reports, Home, and API interactions. When you are configuring the field or widget for the first time and you type the label, API Name field populates automatically to match it. The Label and API Name fields are not synchronized. This gives you the option to change the label that your users see without having to change the name that the system sees.
 
-Each custom field name must be unique in your organization’s Workfront instance. This way, you can reuse one that was already created for another custom form.
+Each custom field API name must be unique in your organization’s Workfront instance. This way, you can reuse one that was already created for another custom form.
 
-NOTE
+Though it’s possible to do so, we recommend that you don’t change this API name after you or other users start using the custom form in Workfront. If you do, the system will no longer recognize the custom field where it might now be referenced in other areas of Workfront.
 
-Though it’s possible to do so, we recommend that you don’t change this name after you or other users start using the custom form in Workfront. If you do, the system will no longer recognize the custom field where it might now be referenced in other areas of Workfront.
+For example, if you add the custom field to a report and later change its API name, Workfront doesn’t recognize it in the report and it will stop functioning correctly there unless you re-add it to the report using the new name.
 
-For example, if you add the custom field to a report and later change its name, Workfront doesn’t recognize it in the report and it will stop functioning correctly there unless you re-add it to the report using the new name.
+API names are read-only by default. To make the API name editable, click the
 
-We recommend that you don’t type a name that is already used for built-in Workfront fields.
+Edit
 
-We recommend that you don’t use the period/dot character in the custom field name to prevent errors when using the field in different areas of Workfront.
+icon next to the
 
-The following special characters are not supported in custom field labels and names.
+API Name
+
+. Then, type
+
+confirm
+
+in the confirmation box and click
+
+Rename field
+
+.
+
+We recommend that you don’t type an API name that is already used for built-in Workfront fields.
+
+We recommend that you don’t use the period/dot character in the custom field API name to prevent errors when using the field in different areas of Workfront.
+
+The following special characters are not supported in custom field labels and API names.
 
 \t
 
@@ -86309,29 +87039,15 @@ Rich text
 
 : Allows users to type multiple lines of text in the field and format the text with bold, italics, underline, bullets, numbering, subscript and superscript, hyperlinks, block quotes, headings, and tables. A character limit of 15,000 provides a large space for text and formatting.
 
+note
+
+NOTE
+
 The Rich text field type is replacing the Text with formatting field type. You can quickly convert existing Text with formatting fields to Rich text, by clicking the
 
 Convert to rich text
 
 button in the field options on the right.
-
-Text field with formatting
-
-: Allows users to type multiple lines of text in the field and format the text with bold, italics, underline, bullets, numbering, hyperlinks, and block quotes. A character limit of 15,000 allows for plenty of text and formatting.
-
-This custom field type is not supported in filters on lists and reports.
-
-For information about accessing this field through the API, see
-
-Rich text field storage in the API
-
-.
-
-note
-
-NOTE
-
-Text fields with formatting are not available for Workfront mobile apps (available in coming releases).
 
 Descriptive text
 
@@ -86350,8 +87066,6 @@ Single line text
 Paragraph
 
 Rich text
-
-Text with formatting
 
 Descriptive text
 
@@ -86375,8 +87089,6 @@ Paragraph
 
 Rich text
 
-Text with formatting
-
 Descriptive text
 
 Label
@@ -86397,11 +87109,9 @@ Paragraph
 
 Rich text
 
-Text with formatting
+API Name
 
-Name
-
-(Required) This name is how the system identifies the field. When you are configuring the widget for the first time and you type the label, the Name field populates automatically to match it. The Label and Name fields are not synchronized. This gives you the option to change the label that your users see without having to change the name that the system sees.
+(Required) This name is how the system identifies the field. When you are configuring the widget for the first time and you type the label, the API Name field populates automatically to match it. The Label and API Name fields are not synchronized. This gives you the option to change the label that your users see without having to change the name that the system sees.
 
 For more information, see
 
@@ -86415,8 +87125,6 @@ Paragraph
 
 Rich text
 
-Text with formatting
-
 Descriptive text
 
 Instructions
@@ -86428,8 +87136,6 @@ Single line text
 Paragraph
 
 Rich text
-
-Text with formatting
 
 Format
 
@@ -86505,8 +87211,6 @@ Paragraph
 
 Rich text
 
-Text with formatting
-
 Descriptive text
 
 Make a required field
@@ -86518,8 +87222,6 @@ Single line text
 Paragraph
 
 Rich text
-
-Text with formatting
 
 (Optional) Repeat the previous step to add any other fields or widgets.
 
@@ -86623,9 +87325,9 @@ Single-select dropdown
 
 Multi-select dropdown
 
-Name
+API Name
 
-(Required) This name is how the system identifies the field. When you are configuring the widget for the first time and you type the label, the Name field populates automatically to match it. The Label and Name fields are not synchronized. This gives you the option to change the label that your users see without having to change the name that the system sees.
+(Required) This name is how the system identifies the field. When you are configuring the widget for the first time and you type the label, the API Name field populates automatically to match it. The Label and API Name fields are not synchronized. This gives you the option to change the label that your users see without having to change the name that the system sees.
 
 For more information, see
 
@@ -86811,63 +87513,29 @@ Save and Close
 
 .
 
-Add typeahead and date fields
+Add date fields
 
-You can add typeahead and date fields to a custom form.
+A date field displays a calendar where users can select a date and time.
 
-Expand to see descriptions of available fields.
-
-Typeahead
-
-: Allows users to type the name of an object that exists in Workfront. A list of suggestions appears when the user starts typing. This field type supports the following objects:
-
-User
-
-Group
-
-Job Role
-
-Portfolio
-
-Program
-
-Project
-
-Team
-
-Template
-
-Company
-
-Date
-
-: Displays a calendar where users can select a date and time.
-
-To add typeahead and date fields:
+To add date fields:
 
 In the
 
 New field
 
-tab on the left side of the screen, find one of the following fields and drag it to a section on the canvas.
-
-Typeahead
+tab on the left side of the screen, find
 
 Date
 
-On the right side of the screen, configure the options that are available for the type of custom field you are adding:
+and drag it to a section on the canvas.
 
-table 0-row-3 1-row-3 2-row-3 3-row-3 4-row-3 5-row-3 6-row-3 7-row-3 8-row-3 layout-auto html-authored no-header
+On the right side of the screen, configure the options for the custom field:
 
-Field setting
-
-Description
-
-Available for
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 layout-auto html-authored no-header
 
 Label
 
-(Required) Type a descriptive label to display above the custom field. You can change the label at any time.
+(Required) Type a descriptive label to display above the widget. You can change the label at any time.
 
 Important
 
@@ -86877,13 +87545,9 @@ Notes on field names and labels
 
 .
 
-Typeahead
+API Name
 
-Date
-
-Name
-
-(Required) This name is how the system identifies the field. When you are configuring the widget for the first time and you type the label, the Name field populates automatically to match it. The Label and Name fields are not synchronized. This gives you the option to change the label that your users see without having to change the name that the system sees.
+(Required) This name is how the system identifies the field. When you are configuring the widget for the first time and you type the label, the API Name field populates automatically to match it. The Label and API Name fields are not synchronized. This gives you the option to change the label that your users see without having to change the name that the system sees.
 
 For more information, see
 
@@ -86891,79 +87555,13 @@ Notes on field names and labels
 
 .
 
-Typeahead
-
-Date
-
 Instructions
 
 Type any additional information about the custom field. When users fill out the custom form, they can hover over the question mark icon to view a tooltip containing the information you type here.
 
-Typeahead
-
-Date
-
 Display Time of Day
 
 Select this option if you want to show the time of day along with the date in the field.
-
-Date
-
-Referenced Object Type
-
-Select the object type that you want to associate with the field.
-
-Once you have clicked
-
-Apply
-
-or
-
-Save and Close
-
-, you can't change the object type for the field.
-
-Note
-
-:
-
-If your Workfront administrator customized the name for Portfolios, Programs, or Projects in the Workfront user interface, the default Workfront name for the object appears in this drop-down list, not the customized name. See your Workfront administrator if you need help with this.
-
-The following object types are supported in the iOS and Android Workfront Mobile Apps: User, Company, Group, Job Role, Portfolio, Program, Project, and Template.
-
-Typeahead
-
-Add Filter
-
-Add a filter for an object type to limit the objects users can choose when they are using the field.
-
-For example, you could limit a field so that usernames can be selected only if they meet the following criteria:
-
-They belong to a group or groups that you specify.
-
-They are associated with a role or job title you specify.
-
-They belong to the same group as the person using the field.
-
-You must define the filter for the object type you selected using Text Mode syntax. For information about creating a filter using Text Mode, see
-
-Edit a filter using text mode
-
-.
-
-Tip:
-
-You can create a report to test your filter before adding the filter directly to the typeahead field. This will help you verify that the filter returns the correct objects. Then you can switch to text mode in the report, copy the text mode statement, and add it to the typeahead filter.
-
-Note
-
-:
-
-If you are editing an existing custom form, adding a filter to a typeahead field does not remove any objects (outside the scope of the filter) that users have already added using the field.
-
-This filter is not available on mobile devices. If you use the filter for a typeahead field, the field will appear on users' mobile devices unaffected by the filter.
-
-Typeahead
 
 Active
 
@@ -86971,17 +87569,9 @@ This option is turned on by default.
 
 When you set a field as Inactive, it is excluded from reports, filters, and views, and is no longer available in the custom forms field library.
 
-Typeahead
-
-Date
-
 Make a required field
 
 Select this option if you want the field to be required in order for the user to complete the custom form.
-
-Typeahead
-
-Date
 
 (Optional) Repeat the previous step to add any other fields or widgets.
 
@@ -87049,9 +87639,9 @@ Notes on field names and labels
 
 .
 
-Name
+API Name
 
-(Required) This name is how the system identifies the field. When you are configuring the widget for the first time and you type the label, the Name field populates automatically to match it. But the Label and Name fields are not synchronized—this gives you the option to change the label that your users see without having to change the name that the system sees.
+(Required) This name is how the system identifies the field. When you are configuring the field for the first time and you type the label, the API Name field populates automatically to match it. But the Label and API Name fields are not synchronized—this gives you the option to change the label that your users see without having to change the name that the system sees.
 
 For more information, see
 
@@ -87239,6 +87829,160 @@ Wait duration between retries: 500ms
 
 Expected response statuses: 2xx
 
+Add internal lookup fields
+
+An internal lookup field allows users to type the name of an object that exists in Workfront. A list of suggestions appears when the user starts typing. For example, if the user is typing a user name then a list of matching names appears. The internal lookup field type is supported on the following objects:
+
+User
+
+Group
+
+Job Role
+
+Portfolio
+
+Program
+
+Project
+
+Team
+
+Template
+
+Company
+
+Task
+
+Issue
+
+Document
+
+Location
+
+To add an internal lookup:
+
+In the
+
+New field
+
+tab on the left side of the screen, find
+
+Internal lookup
+
+or
+
+Multi-select internal lookup
+
+, and drag it to a section on the canvas.
+
+On the right side of the screen, configure the options for the custom field:
+
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 layout-auto html-authored no-header
+
+Label
+
+(Required) Type a descriptive label to display above the custom field. You can change the label at any time.
+
+Important
+
+: Avoid using special characters in this label as they don't display correctly in reports. For more information, see
+
+Notes on field names and labels
+
+.
+
+API Name
+
+(Required) This name is how the system identifies the field. When you are configuring the field for the first time and you type the label, the API Name field populates automatically to match it. But the Label and API Name fields are not synchronized—this gives you the option to change the label that your users see without having to change the name that the system sees.
+
+For more information, see
+
+Notes on field names and labels
+
+.
+
+Instructions
+
+Type any additional information about the custom field. When users fill out the custom form, they can hover over the question mark icon to view a tooltip containing the information you type here.
+
+Referenced Object Type
+
+Select the object type that you want to associate with the field.
+
+Once you have clicked
+
+Apply
+
+or
+
+Save and Close
+
+, you can't change the object type for the field.
+
+Note:
+
+If your Workfront administrator customized the name for Portfolios, Programs, or Projects in the Workfront user interface, the default Workfront name for the object appears in this drop-down list, not the customized name. See your Workfront administrator if you need help with this.
+
+The following object types are supported in the iOS and Android Workfront Mobile Apps: User, Company, Group, Job Role, Portfolio, Program, Project, and Template.
+
+Add Filter
+
+Add a filter for an object type to limit the objects users can choose when they are using the field.
+
+For example, you could limit a field so that usernames can be selected only if they meet the following criteria:
+
+They belong to a group or groups that you specify.
+
+They are associated with a role or job title you specify.
+
+They belong to the same group as the person using the field.
+
+You must define the filter for the object type you selected using Text Mode syntax. For information about creating a filter using Text Mode, see
+
+Edit a filter using text mode
+
+.
+
+Tip:
+
+You can create a report to test your filter before adding the filter directly to the internal lookup field. This will help you verify that the filter returns the correct objects. Then you can switch to text mode in the report, copy the text mode statement, and add it to the internal lookup filter.
+
+Note
+
+:
+
+If you are editing an existing custom form, adding a filter to an internal lookup field does not remove any objects (outside the scope of the filter) that users have already added using the field.
+
+This filter is not available on mobile devices. If you use the filter for an internal lookup field, the field will appear on users' mobile devices unaffected by the filter.
+
+Multi-select dropdown
+
+Select this option to allow the user to select more than one value in the drop-down.
+
+Active
+
+This option is turned on by default.
+
+When you set a field as Inactive, it is excluded from reports, filters, and views, and is no longer available in the custom forms field library.
+
+Make a required field
+
+Select this option if you want the field to be required in order for the user to complete the custom form.
+
+To save your changes, click
+
+Apply
+
+and move on to another section to continue building your form.
+
+Or
+
+Click
+
+Save and Close
+
+.
+
 Add images, PDFs, and videos
 
 You can add images, PDFs, and videos to a custom form. Users who work with the object the custom form is attached to can see the image, PDF, or video only in the following areas:
@@ -87295,9 +88039,9 @@ Notes on field names and labels
 
 .
 
-Name
+API Name
 
-(Required) This name is how the system identifies the widget. When you are configuring the widget for the first time and you type the label, the Name field populates automatically to match it. The Label and Name fields are not synchronized. This gives you the option to change the label that your users see without having to change the name that the system sees.
+(Required) This name is how the system identifies the widget. When you are configuring the widget for the first time and you type the label, the API Name field populates automatically to match it. The Label and API Name fields are not synchronized. This gives you the option to change the label that your users see without having to change the name that the system sees.
 
 For more information, see
 
@@ -87409,391 +88153,235 @@ You can add Workfront native fields to your custom forms. When the custom form i
 
 Expand to see the list of supported native fields.
 
-This table lists the available native fields for specific Workfront objects in a custom form.
-
-table 0-row-9 1-row-9 2-row-9 3-row-9 4-row-9 5-row-9 6-row-9 7-row-9 8-row-9 9-row-9 10-row-9 11-row-9 12-row-9 13-row-9 14-row-9 15-row-9 16-row-9 17-row-9 18-row-9 19-row-9 20-row-9 21-row-9 22-row-9 23-row-9 24-row-9 25-row-9 26-row-9 27-row-9 28-row-9 29-row-9 30-row-9 31-row-9 32-row-9 33-row-9 34-row-9 35-row-9 36-row-9 37-row-9 38-row-9 39-row-9 40-row-9 41-row-9 42-row-9 43-row-9 44-row-9 45-row-9 46-row-9 layout-auto
-
-Field name
-
-Project
-
-Task
-
-Issue
-
-Template
-
-Template Task
-
-Portfolio
-
-Program
-
-Group
+This list shows the available native fields for custom forms, and which object types you can use each field on.
 
 Actual Benefit
 
-✓
+: Project
 
 Actual Completion Date
 
-✓
+: Project, Task, Issue
 
-✓
+Actual Cost
 
-✓
+: Project, Task, Issue
 
 Actual Duration
 
-✓
+: Project, Task
 
 Actual Hours
 
-✓
-
-✓
+: Project, Task, Issue
 
 Actual Start Date
 
-✓
-
-✓
-
-✓
+: Project, Task, Issue
 
 Budget
 
-✓
+: Project, Template, Portfolio
 
-✓
+Commit Date
 
-✓
+: Task, Issue
 
 Company
 
-✓
-
-✓
+: Project, Template, Rate Card
 
 Condition
 
-✓
-
-✓
-
-✓
+: Project, Task, Issue
 
 Condition Type
 
-✓
+: Project, Template
 
-✓
+Converted Issue Originator
+
+: Project
 
 Currency
 
-✓
-
-✓
+: Project, Template
 
 Description
 
-✓
-
-✓
-
-✓
-
-✓
-
-✓
-
-✓
-
-✓
-
-✓
+: Project, Task, Issue, Template, Template Task, Portfolio, Program, Group, Document, Rate Card, Job Role
 
 Duration
 
-✓
-
-✓
+: Task, Template Task
 
 Duration Type
 
-✓
-
-✓
+: Task, Template Task
 
 Duration Unit
 
-✓
-
-✓
+: Task, Template Task
 
 Entered By
 
-✓
-
-✓
-
-✓
-
-✓
-
-✓
-
-✓
+: Project, Task, Issue, Template, Template Task, Group
 
 Entry Date
 
-✓
-
-✓
-
-✓
-
-✓
-
-✓
-
-✓
+: Project, Task, Issue, Template, Template Task, Group
 
 Exchange Rate Date
 
-✓
+: Project
 
 Fixed Cost
 
-✓
-
-✓
+: Project, Template
 
 Fixed Revenue
 
-✓
-
-✓
+: Project, Template, Billing Record
 
 Group
 
-✓
+: Project, Template, Portfolio, Program, Company, Rate Card
 
-✓
+Issue Type
 
-✓
+: Issue
 
-✓
+Iteration
+
+: Task
 
 Last Updated By
 
-✓
-
-✓
-
-✓
-
-✓
-
-✓
+: Project, Task, Issue, Template, Template Task
 
 Last Update Date
 
-✓
-
-✓
-
-✓
-
-✓
-
-✓
+: Project, Task, Issue, Template, Template Task
 
 Name
 
-✓
-
-✓
-
-✓
-
-✓
-
-✓
-
-✓
-
-✓
-
-✓
+: Project, Task, Issue, Template, Template Task, Portfolio, Program, Group, Document, Company, Rate Card, Job Role
 
 Owner
 
-✓
-
-✓
-
-✓
-
-✓
+: Project, Template, Portfolio, Program
 
 Performance Index Method
 
-✓
-
-✓
+: Project, Template
 
 Planned Benefit
 
-✓
-
-✓
+: Project, Template
 
 Planned Completion Date
 
-✓
-
-✓
-
-✓
+: Project, Task, Issue
 
 Planned Duration
 
-✓
-
-✓
+: Project, Template
 
 Planned Hours
 
-✓
-
-✓
-
-✓
-
-✓
+: Project, Task, Issue, Template Task
 
 Planned Start Date
 
-✓
+: Project, Task, Issue
 
 Portfolio
 
-✓
-
-✓
-
-✓
+: Project, Template, Program
 
 Priority
 
-✓
-
-✓
-
-✓
-
-✓
-
-✓
+: Project, Task, Issue, Template, Template Task
 
 Program
 
-✓
-
-✓
+: Project, Template
 
 Projected Completion Date
 
-✓
-
-✓
+: Project, Task
 
 Projected Duration Minutes
 
-✓
+: Task
 
 Projected Start Date
 
-✓
+: Project, Task
 
-✓
+Queue Topic
+
+: Issue
+
+Readiness
+
+: Task
 
 Reference Number
 
-✓
+: Project, Task, Issue, Template, Template Task
 
-✓
+Resource Managers
 
-✓
-
-✓
-
-✓
+: Project
 
 Schedule Mode
 
-✓
-
-✓
+: Project, Template
 
 Severity
 
-✓
+: Issue
 
 Sponsor
 
-✓
-
-✓
+: Project, Template
 
 Status
 
-✓
-
-✓
+: Project, Task, Issue
 
 Story Points
 
-✓
+: Task
+
+Task Constraint
+
+: Task
 
 Template
 
-✓
+: Project
+
+This Resolves
+
+: Project, Task
 
 Total Estimated Cost
 
-✓
-
-✓
+: Project, Template
 
 Total Estimated Revenue
 
-✓
-
-✓
+: Project, Template
 
 URL
 
-✓
+: Project, Task, Issue, Template, Template Task
 
-✓
+Work Effort
 
-✓
-
-✓
-
-These additional custom form object types also support native field references.
-
-Billing Record: Fixed Revenue field
-
-Document: Name, Description fields
-
-Company: Name, Group fields
-
-Rate Card: Name, Description, Company, Group fields
-
-Job Role: Name, Description fields
+: Task
 
 In the
 
@@ -87825,9 +88413,9 @@ Notes on field names and labels
 
 .
 
-Name
+API Name
 
-(Required) This name is how the system identifies the field. When you are configuring the field for the first time and you type the label, the Name field populates automatically to match it. The Label and Name fields are not synchronized. This gives you the option to change the label that your users see without having to change the name that the system sees.
+(Required) This name is how the system identifies the field. When you are configuring the field for the first time and you type the label, the API Name field populates automatically to match it. The Label and API Name fields are not synchronized. This gives you the option to change the label that your users see without having to change the name that the system sees.
 
 For more information, see
 
@@ -87857,17 +88445,25 @@ They are associated with a role or job title you specify.
 
 They belong to the same group as the person using the field.
 
+When a system filter exists on the field, it is applied by default if you do not add a custom filter. A custom filter overrides the system filter.
+
 You must define the filter for the reference field you selected using Text Mode syntax. For information, see
 
 Edit a filter using text mode
 
 .
 
+Use dynamic filter syntax to narrow the list of items in this field based on the value of another field. For example, when you use
+
+?portfolioID={portfolio}.{ID}
+
+in a Project field filter and a Portfolio native field is on the custom form, the Project field shows only projects that are in the selected portfolio. If the Portfolio field is left blank, then all projects are available in the Project field.
+
 Note
 
 :
 
-The filter option is only available when you reference a native typeahead field, such as Portfolio, Company, or Owner.
+The filter option is only available when you reference a native typeahead or internal lookup field, such as Portfolio, Company, or Owner.
 
 If you are editing an existing custom form, adding a filter to a native field doesn't remove any objects (outside the scope of the filter) that users have already added using the field.
 
@@ -87937,9 +88533,9 @@ Notes on field names and labels
 
 .
 
-Name
+API Name
 
-(Required) This name is how the system identifies the widget. When you are configuring the widget for the first time and you type the label, the Name field populates automatically to match it. The Label and Name fields are not synchronized. This gives you the option to change the label that your users see without having to change the name that the system sees.
+(Required) This name is how the system identifies the widget. When you are configuring the widget for the first time and you type the label, the API Name field populates automatically to match it. The Label and API Name fields are not synchronized. This gives you the option to change the label that your users see without having to change the name that the system sees.
 
 For more information, see
 
@@ -88043,9 +88639,9 @@ Important
 
 We recommend you choose a label that helps you easily identify where the Planning record is coming from. Add information like the name of the workspace or the name of the record type.
 
-Name
+API Name
 
-(Required) The name is how the system identifies the field. When you are configuring the field for the first time and you type the label, the Name field populates automatically to match it. The Label and Name fields are not synchronized. This gives you the option to change the label that your users see without having to change the name that the system sees.
+(Required) The name is how the system identifies the field. When you are configuring the field for the first time and you type the label, the API Name field populates automatically to match it. The Label and API Name fields are not synchronized. This gives you the option to change the label that your users see without having to change the name that the system sees.
 
 Instructions
 
@@ -88901,8 +89497,6 @@ CREATED FOR:
 
 User
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
-
 You can request approval from other users or teams for a document in Adobe Workfront, or request they review a document without needing to approve it.
 
 IMPORTANT
@@ -88947,7 +89541,7 @@ Access requirements in Workfront documentation
 
 .
 
-Create an approval workflow from the Summary panel in the legacy documents area in Production
+Create an approval workflow in the legacy documents area
 
 If your organization is on Workfront storage, you will see the legacy documents area when you access documents in Workfront. For more information about Workfront storage, see
 
@@ -88955,7 +89549,9 @@ Differences between Adobe cloud storage and legacy Workfront storage
 
 .
 
-To create an approval workflow:
+Create a basic approval workflow
+
+To create a single-stage approval workflow:
 
 Go to the project, task, or issue that contains the document, then select
 
@@ -88965,7 +89561,7 @@ in the left panel.
 
 Click on the document you need and the Document Summary panel for that document opens.
 
-Select the version of the document you would like to create an approval for in the version dropdown. The latest version is selected by default.
+Select the version of the document you want to create an approval for in the version drop-down menu. The latest version is selected by default.
 
 Scroll down to the
 
@@ -88975,89 +89571,19 @@ section, then click
 
 Create workflow
 
-.
+. The
 
-Fill in the following details:
+Request approval
 
-table 0-row-2 1-row-2 2-row-2 3-row-2 html-authored no-header
-
-Stage name
-
-Add a stage name. You can change the name to something more descriptive, such as
-
-Initial Review
-
-or
-
-Final Approval
-
-.
-
-Add names or emails
-
-Begin typing a user or team name to add as an approver or reviewer. If you only have reviewers, they will be notified and have the option to complete the review but no decision will be required or made.
-
-One decision required (optional)
-
-The first person who makes a decision completes the stage.
-
-Due date (optional)
-
-Set a due date for the approval. Users and teams are notified by email 72 hours, then 24 hours before the specified due date.
-
-(Optional) Repeat the previous step to add additional stages as needed.
-
-note
-
-NOTE
-
-If you add multiple stages, the approval workflow proceeds in the order the stages are listed. When all required decisions are made, the next stage begins and the previous stage is locked.
-
-Create an approval workflow from the Summary panel in the legacy documents area in Preview
-
-If your organization is on Workfront storage, you will see the legacy documents area when you access documents in Workfront. For more information about Workfront storage, see
-
-Differences between Adobe cloud storage and legacy Workfront storage
-
-.
-
-To create an approval workflow:
-
-Go to the project, task, or issue that contains the document, then select
-
-Documents
-
-in the left panel.
-
-Click on the document you need and the Document Summary panel for that document opens.
-
-Select the version of the document you would like to create an approval for in the version drop-down menu. The latest version is selected by default.
-
-Scroll down to the
-
-Approvals
-
-section, then click
-
-Create workflow
-
-.
+dialog opens in Basic mode.
 
 Fill in the following details:
 
 table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 html-authored no-header
 
-Stage name
+Use an approval template (optional)
 
-Add a stage name. You can change the name to something more descriptive, such as
-
-Initial Review
-
-or
-
-Final Approval
-
-.
+Select a template from the drop-down menu. If the template has one path and one stage, it applies in Basic mode. If the template has more than one stage or more than one path, the dialog automatically switches to Advanced mode and any input you entered in Basic mode is replaced by the template's content.
 
 Add names or emails
 
@@ -89079,43 +89605,21 @@ Add Custom Message
 
 text box. The message appears in the approval email notification and in the Approvals tab in Workfront.
 
-When you add a second stage,
+Note: If you edit a custom message after the approval workflow is created, an updated email notification is sent to all existing participants. If you add a participant later, the custom message is included in their email notification.
 
-Show this message on all stages
+Click
 
-is selected by default. Leave it selected to use the same message in every stage. To use a different message for each stage, clear
-
-Show this message on all stages
-
-, then type the stage-specific message in each stage's
-
-Add Custom Message
-
-text box as needed.
-
-(Optional) Repeat the previous step to add additional stages as needed.
-
-note
-
-NOTE
-
-If you add multiple stages, the approval workflow proceeds in the order the stages are listed. When all required decisions are made, the next stage begins and the previous stage is locked.
-
-If you edit a custom message after the approval workflow is created, an updated email notification is sent to all existing participants. If you add a participant later, the custom message is included in their email notification.
-
-style
-
-highlighted
-
-Create an approval workflow from the Summary panel in the new Documents area in Production
-
-If your organization uses Adobe cloud storage, you will see the new Documents area when you access documents in Workfront. For more information about Adobe cloud storage, see
-
-Adobe cloud storage overview
+Request approval
 
 .
 
-To create an approval workflow:
+Create an advanced approval workflow
+
+Advanced mode supports multiple stages as well as parallel paths. Each path runs independently and contains one or more sequential stages. When all required decisions in a stage are made, the next stage in that path begins, the previous stage is locked, and the new stage’s reviewers and approvers receive an email notification.
+
+A “Needs work” decision stops the path its on but does not affect the approval workflow on other paths. You can configure up to 30 paths and 100 stages total.
+
+To create an advanced approval workflow:
 
 Go to the project, task, or issue that contains the document, then select
 
@@ -89123,85 +89627,71 @@ Documents
 
 in the left panel.
 
-Click on the document, then click the
+Click on the document you need and the Document Summary panel for that document opens.
+
+Select the version of the document you want to create an approval for in the version drop-down menu. The latest version is selected by default.
+
+Scroll down to the
 
 Approvals
 
-icon on the right side of the page.
-
-Click
+section, then click
 
 Create workflow
 
-, then fill in the following details:
+.
 
-table 0-row-2 1-row-2 2-row-2 3-row-2 html-authored no-header
+In the top right of the
 
-Stage name
+Request approval
 
-Add a stage name. You can change the name to something more descriptive, such as
+dialog, click
 
-Initial Review
+Go to advanced
 
-or
+. Any input you entered in Basic mode is preserved and applied to
 
-Final Approval
+Path 1
+
+,
+
+Stage 1
 
 .
 
-Add names or emails
+note tip
 
-Begin typing a user or team name to add as an approver or reviewer. If you only have reviewers, they will be notified and have the option to complete the review but no decision will be required or made.
+TIP
 
-One decision required (optional)
+While you’re creating the approval, you can return to Basic mode by clicking
 
-The first person who makes a decision completes the stage.
+Go to basic
 
-Due date (optional)
+in the top right. After you click
 
-Set a due date for the approval. Users and teams are notified by email 72 hours, then 24 hours before the specified due date.
+Request approval
 
-(Optional) Repeat the previous step to add additional stages as needed.
+, the
 
-note
+Go to basic
 
-NOTE
+option is no longer available.
 
-If you add multiple stages, the approval workflow proceeds in the order the stages are listed. When all required decisions are made, the next stage begins and the previous stage is locked.
-
-Create an approval workflow from the Summary panel in the new Documents area in Preview
-
-If your organization uses Adobe cloud storage, you will see the new Documents area when you access documents in Workfront. For more information about Adobe cloud storage, see
-
-Adobe cloud storage overview
-
-.
-
-To create an approval workflow:
-
-Go to the project, task, or issue that contains the document, then select
-
-Documents
-
-in the left panel.
-
-Click on the document, then click the
-
-Approvals
-
-icon on the right side of the page.
-
-Click
-
-Create workflow
-
-, then fill in the following details:
+Fill in details for Stage 1 of Path 1:
 
 table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 html-authored no-header
 
 Stage name
 
-Add a stage name. You can change the name to something more descriptive, such as
+Stages are named
+
+Stage 1
+
+,
+
+Stage 2
+
+, and so on by default. Rename the stage to something more descriptive, such as
 
 Initial Review
 
@@ -89214,6 +89704,8 @@ Final Approval
 Add names or emails
 
 Begin typing a user or team name to add as an approver or reviewer. If you only have reviewers, they will be notified and have the option to complete the review but no decision will be required or made.
+
+Note: A reviewer or approver can be assigned to only one open stage at a time on the same asset. If multiple parallel stages are open simultaneously, the same person can't be added to more than one.
 
 Only one decision required (optional)
 
@@ -89221,7 +89713,7 @@ The first person who makes a decision completes the stage.
 
 Due on (optional)
 
-Set a due date for the approval. Users and teams are notified by email 72 hours, then 24 hours before the specified due date.
+The first stage of each path supports an absolute due date. Each subsequent stage in the path supports a relative due date — the number of days from when that stage opens. Users and teams are notified by email 72 hours, then 24 hours before the due date.
 
 Add Custom Message (optional)
 
@@ -89245,19 +89737,289 @@ Add Custom Message
 
 text box.
 
-(Optional) Repeat the previous step to add additional stages as needed.
+(Optional) Click
 
-note
+Add stage
+
+to add another stage to the path. Stages within a path run sequentially in the order they’re listed. You can reorder stages within a path, but you can’t move a stage from one path to another. Each path can have a different number of stages.
+
+(Optional) Under
+
+Parallel paths
+
+, click
+
+Add path
+
+to add another path. The new path starts with one empty stage and becomes the selected path. To rename a path, hover the path label, click the pencil icon, then type a new name.
+
+(Optional) To remove a path, hover the path label and click the trash icon.
+
+Path 1
+
+can’t be removed, and paths can’t be reordered. Other paths can be removed only if no stage within the path is locked or completed.
+
+(Optional) To clear all paths and stages and start over, click
+
+Reset
+
+in the top right.
+
+Click
+
+Request approval
+
+.
+
+Create an approval workflow in the new Documents area
+
+If your organization uses Adobe cloud storage, you will see the new Documents area when you access documents in Workfront. For more information about Adobe cloud storage, see
+
+Adobe cloud storage overview
+
+.
+
+The
+
+Request approval
+
+dialog opens in
+
+Basic
+
+mode by default. Basic mode is a single stage with one set of approvers or reviewers. Switch to
+
+Advanced
+
+mode to configure multi-stage approvals or parallel paths.
+
+Create a basic approval workflow
+
+To create a single-stage approval workflow:
+
+Go to the project, task, or issue that contains the document, then select
+
+Documents
+
+in the left panel.
+
+Click on the document, then click the
+
+Approvals
+
+icon on the right side of the page.
+
+Click
+
+Create workflow
+
+. The
+
+Request approval
+
+dialog opens in Basic mode.
+
+Fill in the following details:
+
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 html-authored no-header
+
+Use an approval template (optional)
+
+The templates field is collapsed by default. Click the field to expand it, then select a template from the drop-down menu. If the template has one path and one stage, it applies in Basic mode. If the template has more than one stage or more than one path, the dialog automatically switches to Advanced mode and any input you entered in Basic mode is replaced by the template's content.
+
+Add names or emails
+
+Begin typing a user or team name to add as an approver or reviewer. If you only have reviewers, they will be notified and have the option to complete the review but no decision will be required or made.
+
+Only one decision required (optional)
+
+The first person who makes a decision completes the stage.
+
+Due on (optional)
+
+Set a due date for the approval. Users and teams are notified by email 72 hours, then 24 hours before the specified due date.
+
+Add Custom Message (optional)
+
+Type a message in the
+
+Add Custom Message
+
+text box. The message appears in the approval email notification and in the Approvals tab in Workfront.
+
+Click
+
+Request approval
+
+.
 
 NOTE
 
-If you add multiple stages, the approval workflow proceeds in the order the stages are listed. When all required decisions are made, the next stage begins and the previous stage is locked.
+The
+
+Request approval
+
+dialog opens in Basic mode every time, regardless of your previous session.
 
 If you edit a custom message after the approval workflow is created, an updated email notification is sent to all existing participants. If you add a participant later, the custom message is included in their email notification.
 
-style
+After an approval is saved, you can’t switch it back to Basic mode. You can switch an in-progress approval from Basic to Advanced as long as the approval is not locked or completed.
 
-highlighted
+Create an advanced approval workflow
+
+Advanced mode supports parallel paths. Each path runs independently and contains one or more sequential stages. When all required decisions in a stage are made, the next stage in that path begins, the previous stage is locked, and the new stage’s reviewers and approvers receive an email notification.
+
+A “Needs work” decision stops the path its on but does not affect the approval workflow on other paths. You can configure up to 30 paths and 100 stages total.
+
+To create an advanced approval workflow:
+
+Go to the project, task, or issue that contains the document, then select
+
+Documents
+
+in the left panel.
+
+Click on the document, then click the
+
+Approvals
+
+icon on the right side of the page.
+
+Click
+
+Create workflow
+
+.
+
+In the top right of the
+
+Request approval
+
+dialog, click
+
+Go to advanced
+
+. Any input you entered in Basic mode is preserved and applied to
+
+Path 1
+
+,
+
+Stage 1
+
+.
+
+note tip
+
+TIP
+
+While you’re creating the approval, you can return to Basic mode by clicking
+
+Go to basic
+
+in the top right. After you click
+
+Request approval
+
+, the
+
+Go to basic
+
+option is no longer available.
+
+Fill in details for Stage 1 of Path 1:
+
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 html-authored no-header
+
+Stage name
+
+Stages are named
+
+Stage 1
+
+,
+
+Stage 2
+
+, and so on by default. Rename the stage to something more descriptive, such as
+
+Initial Review
+
+or
+
+Final Approval
+
+.
+
+Add names or emails
+
+Begin typing a user or team name to add as an approver or reviewer. If you only have reviewers, they will be notified and have the option to complete the review but no decision will be required or made..
+
+Note: A reviewer or approver can be assigned to only one open stage at a time on the same asset. If multiple parallel stages are open simultaneously, the same person can't be added to more than one.
+
+Only one decision required (optional)
+
+The first person who makes a decision completes the stage.
+
+Due on (optional)
+
+The first stage of each path supports an absolute due date. Each subsequent stage in the path supports a relative due date — the number of days from when that stage opens. Users and teams are notified by email 72 hours, then 24 hours before the due date.
+
+Add Custom Message (optional)
+
+Type a message in the
+
+Add Custom Message
+
+text box. The message appears in the approval email notification and in the Approvals tab in Workfront.
+
+When you add a second stage,
+
+Show this message on all stages
+
+is selected by default. Leave it selected to use the same message in every stage. To use a different message for each stage, clear
+
+Show this message on all stages
+
+, then type the stage-specific message in each stage's
+
+Add Custom Message
+
+text box.
+
+(Optional) Click
+
+Add stage
+
+to add another stage to the path. Stages within a path run sequentially in the order they’re listed. You can reorder stages within a path, but you can’t move a stage from one path to another. Each path can have a different number of stages.
+
+(Optional) Under
+
+Parallel paths
+
+, click
+
+Add path
+
+to add another path. The new path starts with one empty stage and becomes the selected path. To rename a path, hover the path label, click the pencil icon, then type a new name.
+
+(Optional) To remove a path, hover the path label and click the trash icon.
+
+Path 1
+
+can’t be removed, and paths can’t be reordered. Other paths can be removed only if no stage within the path is locked or completed.
+
+(Optional) To clear all paths and stages and start over, click
+
+Reset
+
+in the top right.
+
+Click
+
+Request approval
+
+.
 
 recommendation-more-help
 
@@ -89507,7 +90269,7 @@ Add calculated fields
 
 Add radio buttons, checkbox groups, and dropdowns
 
-Add typeahead and date fields
+Add date fields
 
 Add images, PDFs, and videos
 
@@ -93380,6 +94142,8 @@ For more information, see
 Document management overview for projects and related objects
 
 .
+
+(Conditional and optional) If you selected a legacy storage template, select the Create this project on Adobe cloud storage setting in the lower-right corner of the New project box. This will create an Adobe cloud storage project. Documents and document folders from the template will not be added to the project.
 
 Review the following template details on the right:
 
@@ -102009,9 +102773,11 @@ Access requirements in Workfront documentation
 
 .
 
-ß
+Create an approval template
 
-Create an Approval Template
+The approval template dialog always opens in Advanced mode. There is no Basic mode for templates. You can configure up to 30 parallel paths in a template, with up to 100 stages total. Each path runs independently and can contain one or more sequential stages.
+
+To create an approval template:
 
 Click the
 
@@ -102041,17 +102807,27 @@ New Template
 
 on the right side of the page.
 
-Fill in the following details:
-
-table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 html-authored no-header
+Add a
 
 Template name
 
-Add a template name.
+.
+
+Fill in details for Stage 1 of Path 1:
+
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 html-authored no-header
 
 Stage name
 
-Add a stage name. You can change the name to something more descriptive, such as
+Stages are named
+
+Stage 1
+
+,
+
+Stage 2
+
+, and so on by default. Rename the stage to something more descriptive, such as
 
 Initial Review
 
@@ -102061,25 +102837,69 @@ Final Approval
 
 .
 
-Add names or emails
+Add names or emails (optional)
 
-Begin typing a user or team name to add as an approver or reviewer. If you only have reviewers, they will be notified and have the option to complete the review but no decision will be required or made.
+Begin typing a user or team name to add as an approver or reviewer. Participants are optional in templates. You can add them when the template is applied to a document.
 
-One decision required (optional)
+Note: A reviewer or approver can be assigned to only one open stage at a time on the same asset. If multiple parallel stages are open simultaneously, the same person can't be added to more than one.
+
+Only one decision required (optional)
 
 The first person who makes a decision completes the stage.
 
-Workdays until due date
+Workdays until due date (optional)
 
-Choose how many workdays until the approval is due after a stage is activated.
+Choose how many workdays the stage takes to complete after it opens. The first stage of each path also supports an absolute due date. Each subsequent stage in the path supports a relative due date only.
 
-(Optional) Repeat the previous step to add additional stages as needed.
+Add Custom Message (optional)
 
-note
+Type a message in the
 
-NOTE
+Add Custom Message
 
-If you add multiple stages, the approval workflow proceeds in the order the stages are listed. When all required decisions are made, the next stage begins and the previous stage is locked.
+text box. When the template is applied to a document, the message appears in the approval email notification and in the Approvals tab in Workfront.
+
+When you add a second stage,
+
+Show this message on all stages
+
+is selected by default. Leave it selected to use the same message in every stage. To use a different message for each stage, clear
+
+Show this message on all stages
+
+, then type the stage-specific message in each stage's
+
+Add Custom Message
+
+text box.
+
+(Optional) Click
+
+Add stage
+
+to add another stage to the path. Stages within a path run sequentially in the order they’re listed. When all required decisions in a stage are made, the next stage in that path begins and the previous stage is locked. You can reorder stages within a path, but you can’t move a stage from one path to another. Each path can have a different number of stages.
+
+(Optional) Under
+
+Parallel paths
+
+, click
+
+Add path
+
+to add another path. The new path starts with one empty stage and becomes the selected path. Paths can’t be reordered.
+
+(Optional) To rename a path, hover the path label, click the pencil icon, then type a new name. To remove a path, hover the path label and click the trash icon.
+
+Path 1
+
+can’t be removed, and other paths can be removed only if no stage within the path is locked or completed.
+
+(Optional) To clear all paths and stages and start over, click
+
+Reset
+
+in the upper-right corner.
 
 Click
 
@@ -105601,17 +106421,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -112161,7 +112983,7 @@ icon
 
 In the box that displays, do any of the following to start configuring the custom access level:
 
-table 0-row-2 1-row-2 2-row-2 layout-auto html-authored no-header
+table 0-row-2 1-row-2 2-row-2 3-row-2 layout-auto html-authored no-header
 
 Name
 
@@ -112177,9 +112999,45 @@ Description
 
 Type a description for the access level. It's helpful to list here what an user with this access level will be able to access.
 
-License Type
+Planning License Type
 
-Make sure that the license selected here is the one that is most closely associated with the type of access level you are creating or editing. The selected license determines what settings are available for the access level. For more information, see
+This field is visible only for customers who also purchased a Workfront Planning package, in addition to a Workflow package.
+
+The selected license determines what settings are available for users with this access level.
+
+Choose from the following options:
+
+Standard
+
+Contributor
+
+None
+
+For more information, see
+
+Adobe Workfront Planning access overview
+
+IMPORTANT
+
+Planning licenses and Workflow licenses work together to give users access to Workfront.
+
+You can give a user different levels of license types between the Workflow and Planning license types, but the Workflow license cannot be lower than the Planning license.
+
+For example, you can give a user a Workflow Standard license and a Planning Contributor license, but you cannot give them a Workflow Contributor license and a Planning Standard license.
+
+Workflow License Type
+
+Make sure that the license selected here is the one that is most closely associated with the type of access level you are creating or editing. The selected license determines what settings are available for the access level.
+
+Choose from the following options:
+
+Standard
+
+Contributor
+
+Light
+
+For more information, see
 
 New licenses overview
 
@@ -117039,27 +117897,21 @@ User
 
 Admin
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -117649,51 +118501,9 @@ Description
 
 : Additional information about the field. The description of a field displays when you hover over the field’s column in a table, or when you click the information icon next to the field name in the record’s details page.
 
-Date Format
+Date format
 
 : The type of date format you want to display in this field.
-
-Depending on the environment in which you access fields, do the following:
-
-In the Production environment:
-
-Select from the following formats:
-
-Locale
-
-: Matches the locale of your browser.
-
-Standard
-
-: 05/16/2023
-
-Long
-
-: May 16, 2023
-
-European
-
-: 16/05/2023
-
-ISO
-
-: 2023-05-16
-
-Include time
-
-: Select this option if you want to include a time stamp. This is unselected by default. You cannot include a time after you save the field.
-
-Select from the following options:
-
-24hr
-
-: For example: 18:00
-
-12hr
-
-: For example: 6:00 PM
-
-In the Preview environment:
 
 Select from the following formats:
 
@@ -117723,11 +118533,11 @@ Select from the following options:
 
 : For example: 6:00 PM
 
-Use the same timezone for all collaborators
+Show the same time zone to all users
 
 , then select a
 
-Timezone
+Time zone
 
 : Select this if you want to show the same time stamp for all people viewing the field, regardless of their user’s time zone. The time zone selected is added to the column header for this field.
 
@@ -120612,14 +121422,6 @@ CREATED FOR:
 User
 
 Admin
-
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
 
 After you configured and activated automations in Adobe Workfront Planning, you can use them to create objects in Adobe Workfront or records in Adobe Workfront Planning.
 
@@ -124859,17 +125661,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -125261,17 +126065,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -125517,17 +126323,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -126385,17 +127193,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -129357,17 +130167,19 @@ Enable or disable fast releases for your organization
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -130019,27 +130831,21 @@ User
 
 Admin
 
-The information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -130485,17 +131291,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -131057,7 +131865,7 @@ Workfront Guide
 
 Custom forms overview
 
-Last update: June 12, 2026
+Last update: July 10, 2026
 
 Topics:
 
@@ -131093,7 +131901,7 @@ Single line text
 
 Paragraph
 
-Text with formatting
+Rich text
 
 Single-select dropdown
 
@@ -131101,9 +131909,9 @@ Multi-select dropdown
 
 External lookup
 
-Native field reference
+Internal lookup
 
-Typeahead
+Native field reference
 
 Planning field connection
 
@@ -131170,6 +131978,8 @@ Iteration
 Billing Record
 
 Rate Card
+
+Assignment
 
 For more information about attaching custom forms to objects, see
 
@@ -131979,7 +132789,7 @@ Workfront Guide
 
 Customize Filters, Views, and Groupings using a layout template
 
-Last update: June 12, 2026
+Last update: July 7, 2026
 
 Topics:
 
@@ -132038,6 +132848,16 @@ Access requirements in Workfront documentation
 .
 
 Customize Filter, View, and Grouping list controls
+
+NOTE
+
+Adding a view, filter, or grouping to a layout template controls layout only; it does not grant access. Users still need view access to each item.
+
+Contributor, Requestor, and External license users can’t see items shared system-wide, so views intended for them must be shared explicitly. For information, see
+
+Share a filter, view, or grouping
+
+.
 
 Begin working on a layout template, as described in
 
@@ -133975,14 +134795,6 @@ CREATED FOR:
 
 User
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 You can customize the columns on the worklist in Priorities to support the way you work.
 
 Priorities displays work items assigned to you. You cannot see work items assigned to your team.
@@ -134038,10 +134850,6 @@ Click
 Columns
 
 on the left side of the screen.
-
-Sample image in the Preview environment:
-
-Sample image in the Production environment:
 
 Use the toggles to display or hide columns in the worklist.
 
@@ -134117,10 +134925,6 @@ Use enhanced lists
 
 .
 
-style
-
-highlighted
-
 Change the row height in the priorities list
 
 Click the
@@ -134190,10 +134994,6 @@ in the article
 Use enhanced lists
 
 .
-
-style
-
-highlighted
 
 recommendation-more-help
 
@@ -136417,7 +137217,7 @@ Set deactivation date
 
 .
 
-Select the date and the time for the
+Select the datefor the
 
 Deactivation Date
 
@@ -136427,11 +137227,7 @@ note
 
 NOTE
 
-In the time box, you can select only whole hour increments, not minutes.
-
-If you select a time for the current day that has passed, Workfront will schedule the deactivation for the following day at 12:00 AM.
-
-The time selected matches the computer timezone of the user who is scheduling the deactivation.
+The date selected matches the computer timezone of the user who is scheduling the deactivation.
 
 Click
 
@@ -136439,7 +137235,7 @@ Save
 
 .
 
-The user is deactivated on the selected day sometime after the selected time. If you selected multiple users to deactivate in bulk, all selected users are deactivated on the selected day sometime after the selected time.
+The user is deactivated at 12:00 AM on the selected date. If you selected multiple users to deactivate in bulk, all selected users are deactivated at 12:00 AM on the selected date.
 
 We recommend that you build a report for users that you have scheduled for deactivation to keep informed about what users are coming up to be deactivated. There is no confirmation that the deactivation has happened after the users are deactivated.
 
@@ -141347,27 +142143,21 @@ User
 
 Admin
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -143183,17 +143973,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -143491,17 +144283,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -143615,27 +144409,21 @@ User
 
 Admin
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -143665,9 +144453,7 @@ Standard
 
 Object permissions
 
-Contribute or higher permissions to a workspace, record type, and
-
-manage permissions to a record
+Contribute or higher permissions to a workspace, record type, and manage permissions to a record
 
 System Administrators have permissions to all workspaces, including the ones they did not create
 
@@ -144843,27 +145629,21 @@ User
 
 Admin
 
-The information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -147437,8 +148217,6 @@ CREATED FOR:
 
 User
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
-
 The Document Details page lets you view, communicate about, and manage the properties of a document attached to an Adobe Workfront object.
 
 Legacy documents area
@@ -147586,10 +148364,6 @@ Open Print Summary
 NOTE
 
 The Print summary link only appears after an approval has been added to the document.
-
-style
-
-highlighted
 
 recommendation-more-help
 
@@ -149119,7 +149893,7 @@ Workfront Guide
 
 Documents: article index
 
-Last update: June 12, 2026
+Last update: June 5, 2026
 
 Topics:
 
@@ -149133,13 +149907,15 @@ To support your work, you can add, view, organize, manage, or approve documents 
 
 For information about working with documents, view the articles in the following subsections:
 
-Add new documents to Adobe Workfront
+Add new documents to Adobe Workfront: article index
 
-Manage documents
+Manage documents: article index
 
-Organize documents
+Organize documents: article index
 
-Workfront and Experience Manager Assets Integrations
+Adobe Cloud Drive: article index
+
+Workfront and Experience Manager Assets Integrations: article index
 
 recommendation-more-help
 
@@ -149813,17 +150589,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -149937,27 +150715,21 @@ CREATED FOR:
 
 User
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -149985,9 +150757,7 @@ Standard
 
 Object permissions
 
-Contribute or higher permissions to a workspace, record type, and
-
-manage permissions to a record
+Contribute or higher permissions to a workspace, record type, and manage permissions to a record
 
 System Administrators have permissions to all workspaces, including the ones they did not create
 
@@ -154881,27 +155651,21 @@ User
 
 Admin
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -154965,11 +155729,7 @@ You can edit the configuration of the following field elements, after you save t
 
 The Name or the Description of any field
 
-The Options of a Single-select or a Multi-select field
-
-and their default choices
-
-.
+The Options of a Single-select or a Multi-select field and their default choices.
 
 The default choices of a People field.
 
@@ -161125,17 +161885,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -161353,27 +162115,21 @@ CREATED FOR:
 
 User
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -161413,9 +162169,7 @@ Standard
 
 Object permissions
 
-Contribute or higher permissions to a workspace, record type, and
-
-manage permissions to a record
+Contribute or higher permissions to a workspace, record type, and manage permissions to a record
 
 System Administrators have permissions to all workspaces, including the ones they did not create
 
@@ -161543,86 +162297,6 @@ The records associated with the selected record type display in the table view.
 
 (Optional) Click the search box and add a keyword to find a record you want to edit.
 
-Click inside the row of a record to start editing information about the record inline.
-
-note tip
-
-TIP
-
-You cannot edit information for the following fields, as they are read-only and Workfront updates them automatically:
-
-Connection lookup fields that are created by connecting record types and added lookup fields. For more information, see
-
-Connect record types
-
-.
-
-Fields of the following types: Created by, Created date, Last modified by, Last Modified date, Formula fields.
-
-(Optional and conditional) When you edit a Paragraph-type field, use the following
-
-Rich Text
-
-formatting options:
-
-Bold
-
-Italic
-
-Underline
-
-Add a link
-
-Add a bulleted list
-
-Add a numbered list
-
-(Optional) Double-click a connected record field to add connected records or objects to another record. For more information, see
-
-Connect records
-
-.
-
-Press
-
-Enter
-
-on your keyboard or click outside of a row to save your changes. The changes are saved automatically. A
-
-Saved
-
-indicator displays briefly in the upper-right corner of the table view to show that the changes were saved.
-
-(Optional) To copy and paste information from one field to another, do one of the following:
-
-Copy one or multiple existing values of one field, then paste them into a field of the same type on another record
-
-Click the column header of a column to select it and copy it, then click the column header of another column and paste the contents of the copied column. The columns must contain similar field types.
-
-With your Shift key pressed, click to select several rows in a table, copy the information in the selected rows, then click a different row and paste the selected information in the new row and the following rows after that.
-
-This is not possible in the Preview environment.
-
-Copy the information from one cell, then select multiple cells and paste the same information in multiple cells. You can select multiple cells and paste the same information in multiple cells from adjacent rows and columns.
-
-Select the lower-right corner of an existing cell that contains the information you want to copy, then drag and drop it across the adjacent cells where you want to paste the same information. All cells must contain the same type of information.
-
-Copy one or multiple cells from an external source (for example, an Excel file), then paste them in one of the the following fields types:
-
-Workfront Planning connection fields.
-
-This is not possible in the Preview environment.
-
-People fields. Only fields with one value are supported.
-
-Text fields.
-
-Select fields.
-
-Number, percentage and currency fields.
-
-You cannot copy information from an external source and paste it in any other field types, including Workfront or other applications’ connections fields.
-
 note
 
 NOTE
@@ -161697,9 +162371,7 @@ Duplicate
 
 Insert record above/ Insert record below
 
-: Adds a new row so you can add a new record.
-
-This is not possible in the Preview environment.
+: Adds a new row so you can add a new record. This is not possible in the Preview environment.
 
 Delete
 
@@ -167011,27 +167683,21 @@ User
 
 Admin
 
-The information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -177955,17 +178621,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -178541,7 +179209,7 @@ Workfront Guide
 
 Examples of advanced logic in custom forms
 
-Last update: June 12, 2026
+Last update: July 10, 2026
 
 Topics:
 
@@ -178593,7 +179261,7 @@ Validation logic is built using formulas, and you can make the logic as simple o
 
 If the field with the logic applied meets the defined validation conditions when a user fills out the custom form, the field is highlighted and the error message is displayed.
 
-You can apply validation logic to the following field types: single line text, paragraph, single-select dropdown, multi-select dropdown, external lookup, typeahead, date, checkbox group, and radio buttons.
+You can apply validation logic to the following field types: single line text, paragraph, single-select dropdown, multi-select dropdown, external lookup, internal lookup, date, checkbox group, and radio buttons.
 
 Only allow project owner to select “Rush” SLA
 
@@ -178601,7 +179269,7 @@ In this example, a single-select dropdown field has choices for the SLA of Stand
 
 Validation expression:
 
-IF({ownerID}!=$USER&&{DE:DV - Dropdown - Control Dates}="2",CONCAT("Only ",{owner}.{name}," may select X Rush"))
+IF({ownerID}!=$$USER&&{DE:DV - Dropdown - Control Dates}="2",CONCAT("Only ",{owner}.{name}," may select X Rush"))
 
 When anyone who is not the project owner (including the system administrator) attempts to select
 
@@ -178619,11 +179287,11 @@ IF(
 
 DATEDIFF({DE:DV - Date - Dropdown SLA},
 
-ADDDAYS($TODAY,{DE:DV - Dropdown - Control Dates})) < 0,
+ADDDAYS($$TODAY,{DE:DV - Dropdown - Control Dates})) < 0,
 
 CONCAT("Earliest: ",
 
-ADDDAYS($TODAY,{DE:DV - Dropdown - Control Dates})))
+ADDDAYS($$TODAY,{DE:DV - Dropdown - Control Dates})))
 
 If the user selects a date prior to the allowed date, the message displays the earliest date they can select:
 
@@ -178645,13 +179313,13 @@ In this example, a field can only be edited by the project owner. Even the syste
 
 Validation expression:
 
-IF({ownerID}!=$USER,IF(ISBLANK({ownerID}),"Project Owner will provide this.",CONCAT("Only ",{owner}.{name}," can edit this.")))
+IF({ownerID}!=$$USER,IF(ISBLANK({ownerID}),"Project Owner will provide this.",CONCAT("Only ",{owner}.{name}," can edit this.")))
 
 If a user who is not the project owner tries to type in the field, they see a message stating that only the project owner can edit the field.
 
-Typeahead allows or rejects values based on other field values
+Internal lookup allows or rejects values based on other field values
 
-In this example, a typeahead field dynamically allows or rejects values based on the value entered in another field on the form.
+In this example, an internal lookup field dynamically allows or rejects values based on the value entered in another field on the form.
 
 Validation expression:
 
@@ -178661,7 +179329,7 @@ IF({DE:DV - TA User - by Budget}.{role}!="Director","Requires Director Approver"
 
 )
 
-If the value in the budget field is more than $10,000, then only users with a Director role can be selected from the typeahead, even if there is no role filter enabled on the typeahead configuration.
+If the value in the budget field is more than $10,000, then only users with a Director role can be selected from the internal lookup, even if there is no role filter enabled on the internal lookup configuration.
 
 Disallow values that are less than 10 days from the entry date
 
@@ -178711,7 +179379,7 @@ Workfront Guide
 
 Examples of the External lookup field in a custom form
 
-Last update: June 12, 2026
+Last update: July 13, 2026
 
 Topics:
 
@@ -178781,7 +179449,7 @@ Label
 
 and
 
-Name
+API Name
 
 for the field.
 
@@ -178879,7 +179547,7 @@ Label
 
 and
 
-Name
+API Name
 
 for the field.
 
@@ -178999,7 +179667,7 @@ Label
 
 and
 
-Name
+API Name
 
 for the field.
 
@@ -181225,17 +181893,19 @@ User
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -182749,17 +183419,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -182903,17 +183575,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -183019,14 +183693,6 @@ Azure
 
 Google Cloud Platform
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 You can apply a filter to a Canvas Dashboard that contains prompts. A prompt works as a filter modifier that applies additional filtering criteria so you can narrow your results down even further. These prompts can be modified each time you apply the filter, allowing you to adjust the displayed results without needing to edit the main filter criteria of the dashboard or each individual report.
 
 Access Requirements
@@ -183125,13 +183791,7 @@ Filters
 
 . The filters side panel opens.
 
-(Conditionalt) In the Production environment, click
-
-Edit filters
-
-, or
-
-in the Preview environment, click the
+Click the
 
 More
 
@@ -185972,6 +186632,8 @@ In the
 Standard filters
 
 section, select one or more filters to narrow down your work items.
+
+accordion
 
 Expand to see detailed information about available filters
 
@@ -189687,17 +190349,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -193317,27 +193981,21 @@ User
 
 Admin
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -193461,9 +194119,9 @@ Adobe Workfront Planning and Adobe GenStudio for Performance Marketing integrati
 
 Workfront Planning reporting capabilities
 
-: You can view Workfront Planning information in a report using the Workfront Canvas Dashboard. For information, see
+: You can view Workfront Planning information in a report using the Workfront Canvas Dashboard, or in Workfront Data Connect which uses Snowflake technology. For information, see
 
-Canvas Dashboards overview
+Adobe Workfront Planning reporting: article index
 
 .
 
@@ -193478,6 +194136,14 @@ We are releasing new features to Workfront Planning regularly.
 For an up-to-date list of released features, see
 
 Adobe Workfront Planning release activity: article index
+
+.
+
+Workfront Planning as a standalone product
+
+Customers can purchase Workfront Planning without purchasing a Workflow license. For information, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -194355,15 +195021,9 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning. Workfront Planning is either a standalone product, or an additionally purchased capability of Adobe Workfront.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
-
-This article contains general information about Workfront Planning.
+This article contains general information about Workfront Planning when customers also purchase a Workfront or Workflow package.
 
 For the complete list of articles that contain documentation for Workfront Planning, see
 
@@ -194371,9 +195031,31 @@ General information and article index for Adobe Workfront Planning
 
 .
 
+For information Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
+
+.
+
+Workfront Planning availability
+
+Workfront Planning is accessible when your organization purchases one of the following Workfront packages:
+
+Workfront Workflow and Workfront Planning purchased together. Every user in the organization has a Workflow and a Planning license. This gives all users full access to all Workfront’s features for both modules.
+
+Workfront Workflow for everyone in your organization and Workfront Planning only for some users in your organization. This gives users full access to all Workflow’s features and a more limited access to Planning features for the users who are assigned a Planning license.
+
+Workfront Planning as a standalone product for users in your organization. This gives users no access to any Workfront Workflow features and access to Planning features.
+
+For information about capabilities included in Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
+
+.
+
 Introduction to Adobe Workfront Planning
 
-Adobe Workfront Planning is an additional capability from Adobe Workfront. The purpose of Workfront Planning is to unlock comprehensive visibility into the operational details of an organization, and answer critical business questions at each stage of the work management lifecycle.
+When bought together with a Workflow license, Adobe Workfront Planning is an additional capability from Adobe Workfront. The purpose of Workfront Planning is to unlock comprehensive visibility into the operational details of an organization, and answer critical business questions at each stage of the work management lifecycle.
 
 Workfront Planning can answer questions like:
 
@@ -194382,8 +195064,6 @@ How many campaigns are we running in EMEA for Q4?
 Do we have any audience overlaps between concurrent campaigns?
 
 How well are the awareness programs doing right now?
-
-What do the assets look like for a particular campaign? Which of them must still be approved?
 
 To answer these questions, leadership needs a solution that can provide a holistic view of every stage of work from planning to execution, from delivery to measuring the results. Currently, organizations have tools that can cover some parts of the process, but many do not have good connections to all phases of work, nor can they reliably provide results.
 
@@ -194399,9 +195079,7 @@ Enable Workfront Planning for the users in your Workfront instance
 
 After your organization purchases a Workfront Planning package, as a Workfront administrator, you must ensure the following are in place before users can access Workfront Planning:
 
-Assign the following users a layout template that includes Planning in the Main Menu:
-
-Assign the layout template to Light and Contribute users.
+Assign a layout template that includes Planning to users with a Contributor or Light access level.
 
 Standard users and System Administrators have Planning enabled by default.
 
@@ -194415,7 +195093,9 @@ Assign users to a layout template
 
 .
 
-Assign users a Workfront license and Workfront Planning permissions that would allow them to either view or create objects in Workfront Planning. For more information about granting access to and enabling others to use Workfront Planning, see
+Assign users Workfront and Planning licenses and Workfront Planning permissions that would allow them to either view or create objects in Workfront Planning.
+
+For more information about granting access to and enabling others to use Workfront Planning, see
 
 Adobe Workfront Planning access overview
 
@@ -194823,9 +195503,219 @@ General information and article index for Adobe Workfront Planning
 
 : An index of all articles that contain documentation about Workfront Planning, grouped by area of interest.
 
+Get started with Adobe Workfront Planning as a standalone product
+
+: General information about Workfront Planning, when purchased as a standalone product.
+
 Adobe Workfront Planning AI Assistant overview
 
 : With the Workfront AI Assistant for Planning you can search for records, or create, update, and delete records by using commands and letting the assistant do the work for you.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
+# FILE: get-started-with-adobe-workfront-planning-as-a-standalone-product-adobe-workfront.md
+---
+
+Get Started with Adobe Workfront Planning as a standalone product | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Get started with Adobe Workfront Planning as a standalone product
+
+Last update: July 16, 2026
+
+Topics:
+
+Workfront Planning
+
+CREATED FOR:
+
+User
+
+Admin
+
+IMPORTANT
+
+The information in this article refers to Adobe Workfront Planning, when purchased as a standalone product. Refer to this article when your company purchased an Adobe Workfront Planning only package, and they did not purchase a Workfront Workflow package.
+
+For information about Adobe Workfront Planning when purchased together with a Workfront package, see
+
+Get started with Adobe Workfront Planning
+
+.
+
+This article contains general information about Workfront Planning when your organization purchase it as a standalone product.
+
+Introduction to Adobe Workfront Planning as a standalone product
+
+Adobe Workfront Planning is a standalone product from Adobe Workfront. The purpose of Workfront Planning is to unlock comprehensive visibility into the operational details of an organization, and answer critical business questions during the work planning cycle.
+
+Workfront Planning can answer questions like:
+
+How many campaigns are we running in EMEA for Q4?
+
+Do we have any audience overlaps between concurrent campaigns?
+
+How well are the awareness programs doing right now?
+
+To answer these questions, leadership needs a solution that can provide a holistic view of every stage of work planning and ideation.
+
+Adobe Workfront Planning standalone vs Adobe Workfront with Planning
+
+Your organization can purchase Workfront Planning in several ways:
+
+Together with a Workfront Workflow package, with equal numbers of licenses for Workflow and Planning. Users receive access to the full functionality to both Adobe Workfront Workflow and Planning.
+
+Together with a Workfront Workflow package, with different numbers of licenses for Workflow and Planning. Users receive access to the full functionality of Adobe Workfront Workflow and limited access to Workfront Planning.
+
+Workfront Planning by itself, as a standalone product. Users do not receive access to Workfront Workflow features and have full access to the capabilities of Workfront Planning.
+
+Functionality included in Workfront Planning as a standalone product
+
+With Workfront Planning as a standalone product you have access to Planning-only capabilities. Work, resource, and finance management-specific features included in Workfront Workflow are intentionally excluded.
+
+Many of the capabilities included in Workfront Planning as a standalone product are identical to those in Workfront Planning when it is purchased together with a Workfront Workflow package.
+
+The following are capabilities included in Planning when you purchase it as a standalone product:
+
+Create and manage Planning workspaces, record types, records, views, and fields
+
+For information, see the following articles:
+
+Create workspaces
+
+Create record types
+
+Create records
+
+Create fields
+
+Manage record views
+
+Create automations for generating Planning records
+
+For information, see
+
+Configure Adobe Workfront Planning automations
+
+Use request forms for campaign intake
+
+For information, see
+
+Adobe Workfront Planning requests: article index
+
+Use cross-workspace capabilities for customers with Prime and Ultimate packages
+
+Connect record types including connecting to AEM objects
+
+Your organization must purchase AEM Assets to be able to connect. For information, see
+
+Connect record types overview
+
+.
+
+Create People fields
+
+For information, see
+
+Create fields
+
+.
+
+Share information with users and teams
+
+Manage users and teams
+
+For information, see the following articles:
+
+Manage users in Adobe Workfront Planning as a standalone product
+
+Manage teams in Adobe Workfront Planning as a standalone product
+
+Access customer and license details in Setup
+
+For information, see
+
+Manage your instance of Adobe Workfront Planning as a standalone product
+
+.
+
+Use the Workfront Planning connector in Fusion
+
+For information, see
+
+Adobe Workfront Planning modules
+
+.
+
+Manage the GenStudio for Performance Marketing workspace, if your organization also purchased Adobe GenStudio for Performance Marketing.
+
+For information, see
+
+Get started with the Adobe Workfront Planning and Adobe GenStudio for Performance Marketing integration
+
+.
+
+The following are capabilities not included in Planning when you purchase it as a standalone product. They are included when you purchase Planning with a Workflow package:
+
+Access Workfront Workflow-specific features (legacy reporting, resource management, priorities, budgets, Boards, etc.)
+
+Create connections with Workfront Workflow object types
+
+Create automations for generating Workfront objects
+
+Share data with groups, roles, or companies
+
+Manage Workfront objects other than users and teams
+
+Access Workfront objects other than users and teams
+
+Create Planning Connection fields in Workfront forms
+
+Access Recents, Favorites, Notifications controls in the main navigation toolbar
+
+Access the Workfront profile option from the Adobe Main Menu
+
+Workfront Planning terminology
+
+Workfront Planning comes with proprietary concepts and terminology. Regardless of what Planning package your organization has purchased, the terminology is the same.
+
+Ensure you are familiar with these concepts before embarking on setting up Workfront Planning for your organization.
+
+The framework for Workfront Planning is fully customizable. You can create all record types, their attributes, and any fields associated with them to suit the exact needs of your organization.
+
+For more information, see the “Workfront Planning terminology” section in the article
+
+Get started with Adobe Workfront Planning
+
+.
+
+Licensing overview
+
+For information about packages and licenses for Workfront Planning as a standalone product, see
+
+Access needed for Adobe Workfront Planning as a standalone product
+
+.
+
+Using Workfront Planning as a standalone product
+
+Using Workfront Planning as a standalone product is similar to using it as part of a Workfront with Workflow and Planning package.
+
+The standalone Workfront Planning package includes the same functionality as the integrated version without any connections to Workfront object types and functions.
+
+For more information, see
+
+Get started with Adobe Workfront Planning
+
+.
 
 recommendation-more-help
 
@@ -197670,6 +198560,140 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
+# FILE: get-started-with-the-adobe-express-and-frameio-integration-adobe-workfront.md
+---
+
+Get started with the Adobe Express and Frame.io integration | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Get started with the Adobe Express and Workfront with Frame.io integration
+
+Last update: July 9, 2026
+
+Topics:
+
+Workfront Integrations and Apps
+
+Digital Content and Documents
+
+CREATED FOR:
+
+User
+
+Use Workfront with Adobe Express to
+
+Streamline collaboration between creative, legal, and compliance teams to reduce time-to-publish while maintaining oversight
+
+Conduct for deep reviews using drawing markups, annotations, and commenting with the Frame.io viewer
+
+Meet enterprise compliance standards with electronic signatures and full audit logs
+
+Require approval on any remixed files from an Express branded template
+
+Map an Express template to a multi-stage review and approval workflow using unified approval templates in Workfront
+
+Access requirements
+
+Expand to view access requirements for the functionality in this article.
+
+table 0-row-2 1-row-2 2-row-2 layout-auto html-authored no-header
+
+Adobe Workfront packagae
+
+Any
+
+Adobe Workfront license
+
+Standard
+
+Additional products
+
+You must have Adobe Express, and you must be added to the product as a user in the Admin Console.
+
+For information, see
+
+Access requirements in Workfront documentation
+
+.
+
+Integration requirements
+
+You must have entitlements to access Adobe Express and at least one Workfront environment with a Workfront Standard license.
+
+Set up approval workflows in Workfront
+
+Before users can add an approval workflow on an Express template, a user with a Standard license must create an approval workflow template in Workfront.
+
+For more information, see
+
+Create an approval workflow template for documents
+
+.
+
+Add an approval workflow to an Express templates
+
+After an approval workflow template is created in Workfront, designers with an Express Enterprise premium license can assign it to an Express template directly within Adobe Express.
+
+When a Express template is remixed, an approval will be required before publishing–automatically triggering the pre-configured approval workflow.
+
+Users must have a Standard Workfront license to request approval from Adobe Express.
+
+Learn how to
+
+get approval on designs
+
+.
+
+Remix Express templates and send for review and approval
+
+Adobe Express users can remix Express templates to fit their needs. Before publishing, they must request approval from the designated approvers.
+
+Throughout the content production and review and approval process, users can
+
+See who has opened the file
+
+View the decision status of all participants
+
+Read comments
+
+and more
+
+Choose a Workfront project when requesting approval
+
+When requesting approval on a remixed Express template, users can choose a Workfront project to send the asset to. This helps keep all related assets and proofs organized within the same project.
+
+If no project is selected, the asset will default into an Express-specific project.
+
+For more information, see
+
+Send templates for review and approval
+
+.
+
+Review and approve remixed Express files with Frame.io
+
+Stakeholders can provide feedback relevant to their area of expertise—-such as copy, legal, or brand—-by using markup tools and comments in the Frame.io viewer.
+
+They are also are responsible for making final decisions to approve the content so it can be published.
+
+Users must have at least Collaborator Workfront license to review and make a decision.
+
+For more information on using the Frame.io viewer, see
+
+Commenting on your media
+
+.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
 # FILE: get-started-with-the-adobe-workfront-planning-designer-adobe-workfront.md
 ---
 
@@ -200063,7 +201087,7 @@ Reviewers and approvers can be added to a single-use approval workflow or a reus
 
 Single-use approvals
 
-: In the project or task where the asset resides, the project coordinator can assign reviewers and approvers and set a completion deadline. Reviewers and approvers are reminded by email 72 hours before the deadline, 24 hours before the deadline, and then on the deadline itself.
+: In the project or task where the asset resides, the project coordinator can assign reviewers and approvers and set a completion deadline. Reviewers and approvers are reminded by email 72 hours before the deadline, 24 hours before the deadline, and then on the deadline itself. You can also configure multi-stage approvals and parallel paths so that multiple review tracks run at the same time.
 
 For more information, see
 
@@ -200073,7 +201097,7 @@ Create a document approval workflow
 
 Approval templates
 
-: In the Workfront Setup area, project coordinators can create reusable Approval Templates. Within a template, users can add reviewers and approvers and specify a completion timeframe. When the approval template is applied to an asset, the deadline is calculated from the specified timeframe.
+: In the Workfront Setup area, project coordinators can create reusable Approval Templates. Within a template, users can add reviewers and approvers and specify a completion timeframe. When the approval template is applied to an asset, the deadline is calculated from the specified timeframe. Approval templates support multi-stage approvals and parallel paths, matching the configuration options available in single-use approvals.
 
 Once a template is created, it can be applied to an asset to begin the formal review and approval process in Workfront.
 
@@ -212767,17 +213791,19 @@ User
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -213193,14 +214219,6 @@ CREATED FOR:
 
 User
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 You can use filters on the following widgets to find and organize work:
 
 My Projects
@@ -213419,42 +214437,6 @@ Displays all issues that do not have a primary user assigned but do have a role 
 
 My Requests
 
-In the Production environment:
-
-All
-
-Displays all submitted requests, regardless of status or who submitted them.
-
-Open
-
-Displays all submitted requests
-
-That are currently open, regardless of who submitted them. Only requests you have at least permissions to view display here if you did not submit them yourself.
-
-Without an Actual Completion Date or whose resolving object does not have an Actual Completion Date are listed in the Open subtab.
-
-NOTE
-
-Requests that are in any status that does not equate with Closed are considered open.
-
-My Requests
-
-Displays requests you submitted regardless of their status.
-
-My Open Requests
-
-Displays requests
-
-That you submitted and are still open.
-
-Without an Actual Completion Date or whose resolving object does not have an Actual Completion Date are listed in the My Open Requests subtab.
-
-NOTE
-
-Requests that are not in a status that equates with Closed are considered open.
-
-In the Preview environment:
-
 The My Requests widget features a customizable filter that allows you to control which requests appear in the widget. You can configure this filter for different fields and values, and can stack conditions using AND and OR.
 
 For instructions on configuring the filter in the My Requests widget, see
@@ -213462,10 +214444,6 @@ For instructions on configuring the filter in the My Requests widget, see
 Filter requests
 
 in the article Use the My Requests widget.
-
-style
-
-highlighted
 
 My Work
 
@@ -215881,17 +216859,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -215991,7 +216971,7 @@ Paragraph
 
 Paragraph
 
-Text with formatting
+Rich text / Text with formatting
 
 Paragraph
 
@@ -217940,6 +218920,228 @@ The installation completes and a message displays a list of the specific objects
 After installing the blueprint, some additional actions might be needed to fully deploy it. For information, see
 
 Actions to take after installing a blueprint
+
+.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
+# FILE: install-adobe-cloud-drive-adobe-workfront.md
+---
+
+Install Adobe Cloud Drive | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Install Adobe Cloud Drive
+
+Last update: July 6, 2026
+
+Topics:
+
+Integrations
+
+CREATED FOR:
+
+User
+
+To work with your Adobe cloud storage projects on your desktop, install Adobe Cloud Drive on your Mac or Windows computer.
+
+For information about what Adobe Cloud Drive is and what you can do with it, see
+
+Adobe Cloud Drive overview
+
+.
+
+Access requirements
+
+Expand to view access requirements for the functionality in this article.
+
+table 0-row-2 1-row-2 layout-auto html-authored no-header
+
+Adobe Workfront version
+
+You must be on a version of Workfront that supports Adobe cloud storage. If your organization is not already on a supported version, contact your Adobe account representative.
+
+Additional products
+
+An Adobe ID to sign in to Adobe Cloud Drive
+
+For information, see
+
+Access requirements in Workfront documentation
+
+.
+
+Prerequisites
+
+Before you install Adobe Cloud Drive, make sure of the following:
+
+Your device meets the system requirements listed in the
+
+System requirements
+
+section in this article.
+
+Your organization is on a version of Workfront that supports Adobe cloud storage.
+
+If your organization manages application installs for you and you don’t see Adobe Cloud Drive available for download, contact your Workfront administrator.
+
+System requirements
+
+Operating systems:
+
+macOS 13.5 or newer (Intel and Apple Silicon)
+
+Windows 11 22H2 (22621.6060) or newer (x64)
+
+Windows 11 23H2 (22631.6199) or newer (ARM)
+
+Hardware:
+
+Minimum 4 GB RAM
+
+500 MB of free disk space for the application
+
+Additional space for cached files (varies by usage)
+
+Network:
+
+Internet connection for initial setup and synchronization
+
+Stable connection recommended for performance
+
+To make sure Adobe Cloud Drive can reach the services it depends on, allow the network endpoints listed in
+
+Adobe network endpoints
+
+.
+
+Download the installer
+
+Go to
+
+Adobe Software Distribution
+
+.
+
+Sign in with your Adobe ID.
+
+In the
+
+General
+
+downloads list, locate
+
+Adobe Cloud Drive
+
+.
+
+Select the installer for your operating system:
+
+macOS:
+
+Adobe Cloud Drive for Mac (ARM64 or Intel)
+
+Windows:
+
+Adobe Cloud Drive for Windows (x64 or ARM64)
+
+Click
+
+Download
+
+.
+
+note important
+
+IMPORTANT
+
+If you don’t see the Adobe Cloud Drive installer, your organization might not be on a version of Workfront that supports Adobe cloud storage. Contact your Workfront administrator.
+
+Install Adobe Cloud Drive
+
+Use the procedure for your operating system.
+
+Install on macOS
+
+Open the downloaded
+
+.dmg
+
+file.
+
+Double-click the install icon that appears.
+
+Follow the on-screen setup wizard.
+
+When prompted, sign in with your Adobe ID.
+
+If another Adobe desktop application is already running and you’re signed in, Adobe Cloud Drive uses that active session automatically.
+
+Install on Windows
+
+Run the downloaded
+
+.exe
+
+installer.
+
+Follow the prompts in the installation wizard.
+
+Click
+
+Install
+
+when prompted.
+
+Launch
+
+Adobe Cloud Drive
+
+from the Start menu.
+
+When prompted, sign in with your Adobe ID.
+
+Verify the installation
+
+After installation, Adobe Cloud Drive appears as a mounted drive on your computer:
+
+macOS:
+
+In the Finder sidebar under
+
+Locations
+
+, as
+
+Adobe Cloud Drive
+
+.
+
+Windows:
+
+In File Explorer under
+
+This PC
+
+, as
+
+Adobe Cloud Drive
+
+.
+
+You should see your Adobe cloud storage projects listed as folders inside the drive.
+
+For information about working with your projects in the drive, see
+
+Use Adobe Cloud Drive
 
 .
 
@@ -224677,23 +225879,25 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning. Workfront Planning is either a standalone product, or an additionally purchased capability of Adobe Workfront.
 
-For a list of requirements to access Workfront Planning, see
+This article contains general information about Workfront Planning when customers also purchase a Workfront or Workflow package.
 
-Adobe Workfront Planning access overview
+For the complete list of articles that contain documentation for Workfront Planning, see
 
-.
-
-For general information about Workfront Planning, see
-
-Get started with Adobe Workfront Planning
+General information and article index for Adobe Workfront Planning
 
 .
 
-Your Adobe Workfront license type works in conjunction with your Adobe Workfront Planning permissions to give the following access:
+For information Workfront Planning as a standalone product, see
 
-View, contribute, or manage workspaces or record types
+Get started with Adobe Workfront Planning as a standalone product
+
+.
+
+Your Adobe Workfront Workflow license type works in conjunction with your Adobe Workfront Planning license type and with Planning permissions to give the following access:
+
+View, contribute, or manage workspaces, record types, and records.
 
 View or manage views.
 
@@ -224709,9 +225913,87 @@ Adobe Planning access overview
 
 .
 
-The relationship between Workfront license types and Workfront Planning permissions
+The relationship between Workflow and Planning license types
 
-The table below describes the relationship between the license type of a user in Adobe Workfront and the level of permissions you can grant to them to Adobe Workfront Planning objects based on that license.
+Users’ access levels can be associated with the following license types:
+
+Workflow License Type
+
+Planning License Type
+
+For information, see
+
+Create and modify custom access levels
+
+.
+
+The type of Planning licenses available to assign users differs depending on the Workfront package your organization purchased.
+
+Your organization can purchase Workfront Planning in several ways:
+
+Together with a Workfront Workflow package, with equal numbers of licenses for Workflow and Planning. Users receive access to the full functionality to both Adobe Workfront Workflow and Planning.
+
+Together with a Workfront Workflow package, with different numbers of licenses for Workflow and Planning. Users receive access to the full functionality of Adobe Workfront Workflow and limited access to Workfront Planning.
+
+Workfront Planning by itself, as a standalone product. Users do not receive access to Workfront Workflow features and have full access to the capabilities of Workfront Planning. For information, see
+
+Get started with Adobe Workfront Planning as a standalone product
+
+.
+
+The table below describes the relationship between the Workflow and the Planning license types and the users’ capabilities based on these licenses:
+
+Workfront Package
+
+Planning License Types
+
+Workflow License Types
+
+Licensing capabilities
+
+Planning and Workflow - Equal number of licenses
+
+Standard, Contributor, No Access
+
+Standard, Light, Contributor
+
+- Planning and Workflow license types are separate settings on access levels
+
+- Planning license type allows Standard, Contributor, and blank options
+
+- Planning license type can be left blank on any access level – users with this access level don’t have access to Planning
+
+- Workflow license type cannot be left blank
+
+- Planning Standard with Workflow Contributor license combination is not allowed
+
+- Planning Standard can be selected only with Workflow Light and Standard licenses
+
+Planning and Workflow – Uneven number of licenses
+
+Standard, No Access
+
+Standard, Light, Contributor
+
+- Planning and Workflow license types are separate settings on access levels
+
+- Planning license type allows only Standard or No Access options
+
+- Planning Standard can be selected with any Workflow license type
+
+- Planning license type can be None – users with this access level won’t have access to Planning data at all
+
+- Workflow license type cannot be left blank on any access level
+
+- Users with Planning Contributor license can view connected Workflow objects in Planning but cannot connect or disconnect
+
+For more information about licensing in Workfront Planning, see
+
+Adobe Workfront Planning access overview
+
+.
+
+License types and permissions to workspaces and record types
 
 Granting a user permissions to a workspace also grants them permissions to record types, records, and fields.
 
@@ -224727,47 +226009,23 @@ Users cannot have greater permissions to a record type than they have for the wo
 
 Removing users’ permissions to a record type does not remove their View access to all record types in the workspace, as this does not remove their permissions to the workspace.
 
-Adobe Workfront license type
+Only users with a Planning Standard license can have Contribute or Manage permissions to workspaces and record types. The Contribute and Manage permissions to workspaces and record types also transfer to records and fields, by default.
 
-Highest permissions allowed in Adobe Workfront Planning
-
-Standard
-
-Users can manage workspaces, record types,
-
-and views. They can create, edit, or delete workspaces, record types, records, fields, and views.
-
-System administrators have Manage permissions to all workspaces, including the ones they did not create.
-
-Light or Contributor
-
-Users can view the workspaces shared with them, as well as the record types, records, and fields of those workspaces.
-
-Users can view the views shared with them, but they cannot create their own.
-
-Users cannot create, edit, or delete workspaces, record types, records, or fields.
-
-License types and permissions to workspaces and record types
-
-Only users with a Standard license can have Contribute or Manage permissions to workspaces and record types. The Contribute and Manage permissions to workspaces and record types also transfer to records and fields, by default.
-
-System administrators can view all workspaces in the system, including the ones they did not create.
-
-Users with all other license types can have View permissions to workspaces and record types shared with them, as well as to their records and fields.
+Administrators can view all workspaces in the system, including the ones they did not create.
 
 INFO
 
 EXAMPLE:
 
-Contributors or Light-license users cannot contribute to or manage workspaces and their objects.
+Planning Contributors or Workflow Light users cannot contribute to or manage workspaces and their objects.
 
 There is an indication in the sharing box that users cannot be granted permissions to contribute to or manage a workspace when they hold a lower-level license, as these permissions levels are dimmed.
 
 License types and permissions to views
 
-Only users with a Standard license can have Manage permissions to views.
+Only users with a Planning Standard license can have Manage permissions to views.
 
-System Administrators cannot access views they did not create. They must be shared with them.
+Administrators cannot access views they did not create. They must be shared with them.
 
 Users with all other license types can have View permissions to views shared with them.
 
@@ -224775,7 +226033,7 @@ INFO
 
 EXAMPLE:
 
-Contributors or Light-license users cannot manage views. They can apply temporary filters, sorts, or groupings to views they can access.
+Planning Contributors or Workflow Light-license users cannot manage views. They can apply temporary filters, sorts, or groupings to views they can access.
 
 There is an indication in the sharing box that users cannot be granted permissions to manage a view when they hold a lower-level license, as these permissions levels are dimmed.
 
@@ -224797,7 +226055,7 @@ Workfront Guide
 
 Licenses overview
 
-Last update: June 12, 2026
+Last update: July 16, 2026
 
 Topics:
 
@@ -224825,7 +226083,7 @@ Instead of assigning a license to a user, you assign them the access level attac
 
 This table and diagram show the main levels of access to Workfront:
 
-License
+Workflow License
 
 Associated access level
 
@@ -224871,9 +226129,9 @@ Create or modify custom access levels
 
 License count
 
-When you assign an access level to a user, your available license count is reduced by 1.
+When you assign an access level associated with a license to a user, your available license count is reduced by 1.
 
-For example, if you assign the Standard access level to a user, your number of available Standard licenses is reduced by 1.
+For example, if you assign the Standard access level associated with a Workflow license of Standard to a user, your number of available Standard licenses is reduced by 1.
 
 You can view the licenses and access levels assigned to your users. For more information, see
 
@@ -226923,17 +228181,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -232971,17 +234231,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -233177,17 +234439,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -233327,17 +234591,19 @@ User
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -234600,6 +235866,58 @@ Click
 Close
 
 to exit the Settings area and view the column and its cards.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
+# FILE: manage-canvas-dashboards-article-index-adobe-workfront.md
+---
+
+Manage Canvas Dashboards: article index | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Manage Canvas Dashboards: article index
+
+Last update: April 1, 2026
+
+Topics:
+
+Reports and Dashboards
+
+CREATED FOR:
+
+User
+
+IMPORTANT
+
+This page describes functionality that is available as part of the Canvas Dashboards beta. See
+
+Canvas Dashboards beta information
+
+to learn more.
+
+This section contains the following articles:
+
+Share a Canvas Dashboard
+
+Arrange reports in a Canvas Dashboard
+
+Use currency fields in Canvas Dashboards
+
+Filter a Canvas Dashboard
+
+Change the name or description of a Canvas Dashboard
+
+Delete a Canvas Dashboard
+
+Add a Canvas Dashboard to a layout template
 
 recommendation-more-help
 
@@ -236006,10 +237324,10 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
-# FILE: manage-documents-adobe-workfront.md
+# FILE: manage-documents-article-index-adobe-workfront.md
 ---
 
-Manage documents | Adobe Workfront
+Manage documents: article index | Adobe Workfront
 
 Documentation
 
@@ -236017,9 +237335,9 @@ Workfront
 
 Workfront Guide
 
-Manage documents
+Manage documents: article index
 
-Last update: June 12, 2026
+Last update: July 8, 2026
 
 Topics:
 
@@ -240707,8 +242025,6 @@ CREATED FOR:
 
 Admin
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
-
 A rate card represents the contractual agreement with your client in which hourly rates are defined for the job roles that will complete the work. In a rate card, you can define multiple billing rates per job role, based on attributes such as agency, location, or cost center. Your unique rate attributes are configured in the Setup area. For more information, see
 
 Define rate attributes
@@ -241017,10 +242333,6 @@ Save
 
 .
 
-style
-
-highlighted
-
 To delete a billing rate from the rate card, select the check box next to the rate and click
 
 Delete
@@ -241183,27 +242495,21 @@ CREATED FOR:
 
 User
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -241243,9 +242549,7 @@ Contributor or higher
 
 Object permissions
 
-View or higher permissions to a workspace, record type, and
-
-record
+View or higher permissions to a workspace, record type, and record
 
 System Administrators have permissions to all workspaces, including the ones they did not create
 
@@ -241431,17 +242735,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -241979,27 +243285,21 @@ CREATED FOR:
 
 User
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -242041,11 +243341,7 @@ In Workfront Planning:
 
 View permissions to a workspace and record type to view any connected records
 
-Or Contribute or higher permissions to a workspace and record type and
-
-Manage permissions to a record
-
-to connect or disconnect records
+Or Contribute or higher permissions to a workspace and record type and Manage permissions to a record to connect or disconnect records
 
 System Administrators have permissions to all Workfront Planning workspaces, including the ones they did not create
 
@@ -243684,6 +244980,144 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
+# FILE: manage-teams-in-adobe-workfront-planning-as-a-standalone-product-adobe-workfront.md
+---
+
+Manage Teams in Adobe Workfront Planning as a standalone product | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Manage teams in Adobe Workfront Planning as a standalone product
+
+Last update: July 16, 2026
+
+Topics:
+
+Workfront Planning
+
+CREATED FOR:
+
+User
+
+Admin
+
+IMPORTANT
+
+The information in this article refers to Adobe Workfront Planning, when purchased as a standalone product. Refer to this article when your company purchased an Adobe Workfront Planning only package, and they did not purchase a Workfront Workflow package.
+
+For information about Adobe Workfront Planning when purchased together with a Workfront package, see
+
+Get started with Adobe Workfront Planning
+
+.
+
+You can manage teams in Adobe Workfront Planning as a standalone product in a similar way that you manage them in Adobe Workfront, but there are some limitations.
+
+Access requirements
+
+Expand to view the access requirements for the functionality in this article.
+
+table 0-row-0 1-row-0 2-row-2 3-row-2 layout-auto html-authored no-header
+
+Adobe Workfront Planning package
+
+Any Workfront Planning as a standalone package
+
+Adobe Workfront license
+
+Planning Administrator
+
+For more information about access needed for Workfront as a standalone package, see
+
+Access needed for Adobe Workfront Planning as a standalone product
+
+.
+
+Manage teams in Adobe Workfront Planning
+
+As a Planning Administrator, log in to Workfront from the Adobe CX Enterprise Home.
+
+Click
+
+Main Menu
+
+>
+
+Setup
+
+> Teams >
+
+New Team
+
+.
+
+Update the following information:
+
+Team Name
+
+Is Active: To indicate that the team is active, turn on this setting. Users can assign it to permissions and other users.
+
+Team Members: Add team members to the team. The users must first be created in the Adobe Admin Console and in Workfront Planning before they are available to add as team members.
+
+Description: Include a description for the team.
+
+Click
+
+Create
+
+to create the team.
+
+(Optional) To edit an existing team, do one of the following:
+
+Hover over the team name in the list, then click the
+
+More
+
+menu
+
+>
+
+Edit Team
+
+Select the team in the list, then click
+
+Edit Team
+
+on the blue toolbar at the bottom of the page
+
+(Optional) To delete a team, do one of the following:
+
+Hover over the team name in the list, then click the
+
+More
+
+menu
+
+>
+
+Delete Team
+
+Select the team in the list, then click
+
+Delete Team
+
+on the blue toolbar at the bottom of the page
+
+Click
+
+Yes, Delete
+
+it to confirm.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
 # FILE: manage-the-agile-backlog-adobe-workfront.md
 ---
 
@@ -244113,17 +245547,19 @@ User
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -245291,17 +246727,19 @@ Enable or disable fast releases for your organization
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -246103,17 +247541,19 @@ Enable or disable fast releases for your organization
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -246713,17 +248153,19 @@ Enable or disable fast releases for your organization
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -248269,27 +249711,21 @@ CREATED FOR:
 
 User
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -248857,6 +250293,24 @@ Group records by
 
 box, drag and drop the groupings in the correct order.
 
+In the
+
+Layout
+
+area of the
+
+Group records by
+
+box select one of the following options:
+
+Stacked
+
+: Groupings display without a frozen left column and fit the width of their items’ timelines.
+
+Swimlane
+
+: Groupings display with a frozen left header column that lists the grouped items and the groupings fit the width of the timeline view.
+
 (Optional) Inside the
 
 Group records by
@@ -248880,6 +250334,14 @@ Click outside the
 Group records by
 
 box to close it.
+
+(Optional) Drag and drop items in the timeline view to adjust their dates.
+
+note tip
+
+TIP
+
+When you drag and drop records from one grouping to another, the fields that are selected in the grouping automatically update the values on the moved records.
 
 (Optional) Click
 
@@ -250240,6 +251702,266 @@ Click
 Save
 
 .
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
+# FILE: manage-users-in-adobe-workfront-planning-as-a-standalone-product-adobe-workfront.md
+---
+
+Manage Users in Adobe Workfront Planning as a standalone product | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Manage users in Adobe Workfront Planning as a standalone product
+
+Last update: July 16, 2026
+
+Topics:
+
+Workfront Planning
+
+CREATED FOR:
+
+User
+
+Admin
+
+IMPORTANT
+
+The information in this article refers to Adobe Workfront Planning, when purchased as a standalone product. Refer to this article when your company purchased an Adobe Workfront Planning only package, and they did not purchase a Workfront Workflow package.
+
+For information about Adobe Workfront Planning when purchased together with a Workfront package, see
+
+Get started with Adobe Workfront Planning
+
+.
+
+You can manage users in Adobe Workfront Planning as a standalone product in a similar way that you manage them in Adobe Workfront.
+
+There are some limitations in the access levels you can assign users in Workfront Planning.
+
+Access requirements
+
+Expand to view the access requirements for the functionality in this article.
+
+table 0-row-0 1-row-0 2-row-2 3-row-2 layout-auto html-authored no-header
+
+Adobe Workfront Planning package
+
+Any Workfront Planning as a standalone package
+
+Adobe Workfront license
+
+Planning Administrator
+
+For more information about access needed for Workfront as a standalone package, see
+
+Access needed for Adobe Workfront Planning as a standalone product
+
+.
+
+Access levels in Adobe Workfront Planning
+
+You can assign the following access levels to users in Workfront Planning when purchased as a standalone product:
+
+Planning Administrator
+
+Planning Standard
+
+For more information about capabilities included in each access, see
+
+Access needed for Adobe Workfront Planning as a standalone product
+
+.
+
+Consider the following when working with access levels in Workfront Planning as a standalone product:
+
+You cannot create or modify access levels in Workfront Planning. They are preconfigured.
+
+After you add a user to the Adobe Admin Console as an Administrator for the Workfront product, they are automatically assigned to this access level in Workfront Planning and their access level cannot be edited in Planning.
+
+You can only assign a Planning Standard access level to users in Planning, after you add the users to the Admin Console. This is the only access level you can manually assign to a user.
+
+Manage users in Workfront Planning as a standalone product
+
+As a Planning Administrator, do one of the following:
+
+If you are a new Workfront Planning customer, you receive an email from Adobe Workfront alerting you that you now have an account in Adobe Workfront. Use the link in the email to log in to the Admin Console.
+
+If you are an existing Workfront Planning Administrator and you want to add others to your account, log in to the Admin Console.
+
+For information, see
+
+Manage users in the Adobe Admin Console
+
+.
+
+In the Admin Console, start adding users in one of the following tabs:
+
+Administrators
+
+: Users are automatically created as a Planning Administrator user in Planning.
+
+Users
+
+: You must assign an Access Level in Workfront Planning.
+
+(Conditional) Log in to Workfront from the Adobe CX Enterprise Home.
+
+Workfront Planning opens.
+
+Click
+
+Main Menu
+
+>
+
+Users
+
+>
+
+New User
+
+.
+
+In the
+
+New user
+
+box, update the following information:
+
+First name(s)
+
+: Same name you added to the Admin Console.
+
+Last name
+
+: Same name you added to the Admin Console.
+
+E-mail address (username)
+
+: Same email you added to the Admin Console.
+
+User is active
+
+: To indicate that the user is active and can log into Workfront Planning and can be assigned to records, turn the setting on.
+
+Access level
+
+: Select Planning Standard for a non-administrator user. It is the only option.
+
+note tip
+
+TIP
+
+Adding a user that was already set up as an Administrator in the Admin Console automatically adds the Planning Administrator access level to the user. This cannot be edited.
+
+Teams
+
+: From the drop-down menu, select teams to associate with the user. Teams must be created before you can assign them to users.
+
+For information, see
+
+Manage teams
+
+.
+
+Click
+
+Upload now
+
+to add a profile picture, then click
+
+Save
+
+.
+
+Click
+
+Save
+
+or
+
+Add person & start another
+
+to save the user and add another one.
+
+Users are added and will receive an email to log into Workfront Planning.
+
+(Optional) To edit an existing user, do one of the following:
+
+Hover over the user’s name in the list, then click the
+
+More
+
+menu
+
+>
+
+Edit User
+
+Select the user in the list, then click
+
+Edit User
+
+on the blue toolbar at the bottom of the page.
+
+(Optional) To delete a user, do one of the following:
+
+Hover over the user’s name in the list, then click the
+
+More
+
+menu
+
+>
+
+Delete User
+
+Select the team in the list, then click
+
+Delete User
+
+on the blue toolbar at the bottom of the page
+
+Click
+
+Delete
+
+it to confirm.
+
+(Optional) To deactivate a user, do one of the following:
+
+Hover over the user’s name in the list, then click the
+
+More
+
+menu
+
+>
+
+Deactivate
+
+Select the team in the list, then click
+
+Deactivate
+
+on the blue toolbar at the bottom of the page
+
+Click
+
+Deactivate
+
+to confirm.
+
+To keep historical records of your work, we recommend deactivating users, instead of deleting them.
 
 recommendation-more-help
 
@@ -252166,6 +253888,146 @@ The CSV file must have at least one column called “Email” (containing the em
 You can also include additional columns for “Name,” “Company,” “Telephone” and “Mobile.”
 
 Instead of “Name” you may use two columns for “First Name” and “Last Name”. If separate first and last name columns are used, you must ensure you do not also include a “Name” column.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
+# FILE: manage-your-instance-of-adobe-workfront-planning-as-a-standalone-product-adobe-workfront.md
+---
+
+Manage Your Instance of Adobe Workfront Planning as a Standalone Product | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Manage your instance of Adobe Workfront Planning as a standalone product
+
+Last update: July 14, 2026
+
+Topics:
+
+Workfront Planning
+
+CREATED FOR:
+
+User
+
+Admin
+
+IMPORTANT
+
+The information in this article refers to Adobe Workfront Planning, when purchased as a standalone product. Refer to this article when your company purchased an Adobe Workfront Planning only package, and they did not purchase a Workfront Workflow package.
+
+For information about Adobe Workfront Planning when purchased together with a Workfront package, see
+
+Get started with Adobe Workfront Planning
+
+.
+
+As a Workfront Planning Administrator, you can manage your Adobe Workfront Planning instance.
+
+You can configure the following settings for Workfront Planning:
+
+Custom Quarters
+
+Customer Info
+
+Preferences
+
+Teams
+
+For information, see
+
+Manage teams in Adobe Workfront Planning as a standalone product
+
+.
+
+Users
+
+For information, see
+
+Manage users in Adobe Workfront Planning as a standalone product
+
+.
+
+Configuring Workfront Planning as a standalone product is similar to configuring some of the settings in Adobe Workfront. However, there are limitations for what information is available in Workfront Planning.
+
+Access requirements
+
+Expand to view the access requirements for the functionality in this article.
+
+table 0-row-0 1-row-0 2-row-2 3-row-2 layout-auto html-authored no-header
+
+Adobe Workfront Planning package
+
+Any Workfront Planning as a standalone package
+
+Adobe Workfront license
+
+Planning Administrator
+
+For more information about access needed for Workfront as a standalone package, see
+
+Access needed for Adobe Workfront Planning as a standalone product
+
+.
+
+Log in as another user
+
+As a Planning Administrator, you can log in as another user, to troubleshoot issues for them. Logging in as another user in Workfront Planning is similar to logging in as another user in Workfront.
+
+For information, see
+
+Log in as another user
+
+.
+
+Configure custom quarters
+
+You might want to create custom quarters if your organization’s quarters are based on specific criteria other than calendar dates (such as business days or shopping days).
+
+You can configure up to 100 quarters for your Workfront Planning instance. You can use these custom quarters in the timeline view.
+
+Configuring custom quarters in Workfront Planning is similar to configuring custom quarters in Workfront.
+
+For information, see
+
+Enable custom quarters
+
+.
+
+Configure Customer Info
+
+As part of configuring your Adobe Workfront Planning product, you can manage details about your organization in the Customer Info section of Setup.
+
+Configuring the Customer Info section in Workfront Planning is similar to configuring it in Workfront.
+
+For information, see
+
+Configure basic information for your system
+
+.
+
+Configure your system’s Preferences
+
+As a Planning Administrator, you can configure preferences for your Workfront Planning system.
+
+Changes that you make in the system Preferences area of Setup impact all users in your system, and their experience in Workfront Planning.
+
+We recommend that you configure your system preferences during the Workfront Planning as a standalone product implementation and only occasionally revisit them after that.
+
+Configuring your Workfront Planning system preferences is similar to configuring them in Workfront.
+
+For information, see
+
+Configure system preferences
+
+.
 
 recommendation-more-help
 
@@ -263887,10 +265749,6 @@ Access requirements in Workfront documentation
 
 .
 
-Prerequisites
-
-The user whose Goals notifications you want to update must have a Layout Template that includes the Goals area in the Main Menu.
-
 Goals notifications in the user profile area
 
 The notifications listed in the following table alert you about events happening in Workfront Goals, such as someone assigning you a goal, result, or activity or someone making an update on a goal, result, or activity that you own. For information about configuring which notifications you receive, see
@@ -263902,6 +265760,8 @@ Modify your own email notifications
 NOTE
 
 Instant notifications for Goals are disabled by default. You cannot enable or disable daily notifications and you do not receive daily digest emails for the events in this category. You can enable or disable individual instant notifications for the Goals category.
+
+You can still receive emails about goals updates, even when you don’t have access to Goals in your access level, but someone assigns you a goal, result, or activity or comments on a goal assigned to you.
 
 See also
 
@@ -269248,10 +271108,10 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
-# FILE: organize-documents-adobe-workfront.md
+# FILE: organize-documents-article-index-adobe-workfront.md
 ---
 
-Organize documents | Adobe Workfront
+Organize documents: article index | Adobe Workfront
 
 Documentation
 
@@ -269259,9 +271119,9 @@ Workfront
 
 Workfront Guide
 
-Organize documents
+Organize documents: article index
 
-Last update: June 12, 2026
+Last update: July 8, 2026
 
 Topics:
 
@@ -269372,6 +271232,44 @@ This page describes enhancements made with the Third Quarter 2026 release to the
 For a list of all changes available at this point in the Third Quarter 2026 release cycle, see
 
 Third Quarter 2026 release overview
+
+.
+
+Optimization of comment archiving
+
+NOTE
+
+Preview and Production for all customers: Starting with July 7, 2026
+
+[Off schedule]{class="badge neutral"}
+
+We are currently optimizing comment archiving for comments that are older than 1 year for all Workfront objects that display an Updates area. This is an internal effort and should not affect your experience with the Updates area. There are no visual changes to the Updates area for any object types, and there are no changes in functionality with this update. All comments remain visible for all object types.
+
+For information, see
+
+Updates section overview
+
+.
+
+Interface update for global navigation icons
+
+NOTE
+
+Preview: July 7, 2026
+
+Production fast release: July 15, 2026
+
+Production for everyone: July 16, 2026
+
+We have updated the look and feel of general navigation icons in Workfront, including the Main Menu and navigation bar icons, to provide a modern design and a consistent experience with other Adobe applications. Also, the experience of adding and removing pinned pages has been streamlined to require fewer clicks.
+
+For more information, see
+
+Top navigation bar overview
+
+and
+
+Pin pages
 
 .
 
@@ -276613,9 +278511,13 @@ Set up Adobe Workfront to handle Resolvable Objects
 
 The custom status of the project or task has the same three-letter code as the issue custom status.
 
+Consider the following:
+
 You can create custom statuses with the same key for both issues and projects or tasks. When the project or task (as a Resolving Object) are changed to the custom status, the change also reflects on the issue status. The status key must be the same for the issue and project or task statuses.
 
-For example, imagine you create a project custom status named Launched with the three-letter code LCD, which equates with Current. Next, you create an issue custom status named Project Launched, also with the letter code LCD, which equates with In Progress. When you mark the project as Launched, the issue will automatically change the status to Project Launched. If the Automatically update Resolvable Issue status when the status of the Resolving Object changes setting was not enabled, the issue status would change to In Progress instead.
+For example, you can create a project custom status named Launched with the three-letter code LCD, which equates with Current. Next, you create an issue custom status named Project Launched, also with the letter code LCD, which equates with In Progress. When you mark the project as Launched, the issue will automatically change the status to Project Launched. If the Automatically update Resolvable Issue status when the status of the Resolving Object changes setting was not enabled, the issue status would change to In Progress instead.
+
+When a Resolving Object is set to a system status that maps to a Complete status, the Resolvable Issue is set to its own group’s default status for that state. The three-letter status key match applies only to the custom-status path, and not to system statuses configured by Workfront.
 
 For more information about creating a custom status, see
 
@@ -277229,27 +279131,21 @@ User
 
 Admin
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -277308,10 +279204,6 @@ For more information, see
 Share records
 
 .
-
-style
-
-highlighted
 
 Views
 
@@ -277477,41 +279369,7 @@ Permissions to records
 
 Record permissions are inherited from the record type, when you grant permissions to the workspace and the record type, by default.
 
-In the Production environment, the following are the levels of permissions for records:
-
-Manage
-
-Contribute
-
-View
-
-Create
-
-✓
-
-✓
-
-Delete
-
-✓
-
-✓
-
-Edit
-
-✓
-
-✓
-
-View
-
-✓
-
-✓
-
-✓
-
-In the Preview environment, the following are the levels of permissions for records:
+The following are levels of permissions for records:
 
 Manage
 
@@ -277570,10 +279428,6 @@ View, Remove permissions*
 NOTE
 
 *When you remove permissions from a record, users still retain View permissions to the workspace and the record type, unless you remove their permissions from the workspace.
-
-style
-
-highlighted
 
 Permissions to record fields
 
@@ -277699,7 +279553,7 @@ Workfront Guide
 
 Overview of sharing permissions on objects
 
-Last update: June 12, 2026
+Last update: July 7, 2026
 
 Topics:
 
@@ -277971,9 +279825,9 @@ Make this visible system-wide
 
 The object can be found in searches and viewed by users with a Workfront account.
 
-Note
+NOTE
 
-: Users with Contributor or Requestor licenses cannot see projects, even if this setting is enabled.
+: Users with Contributor or Requestor licenses cannot see projects, filters, views, groupings, or any objects that are shared system-wide, even if this setting is enabled. You can share these objects with Contributors or Requestors individually to allow them to view them.
 
 Understand inherited permissions and the hierarchy of objects
 
@@ -281853,7 +283707,7 @@ Workfront Guide
 
 Pin pages to customize your workspace
 
-Last update: June 12, 2026
+Last update: June 26, 2026
 
 Topics:
 
@@ -281925,59 +283779,9 @@ to view additional pinned pages.
 
 The pinned page displays.
 
-Rename a pinned page
+Manage pins
 
-Hover over the pinned page in the top navigation.
-
-Click the
-
-More
-
-icon
-
-that appears next to the pin name and select
-
-Rename pin
-
-.
-
-Type the new pin name, then click
-
-Save
-
-.
-
-Reorder pinned pages
-
-You can rearrange the order that pinned pages appear.
-
-Hover over the pinned page you want to move, then click the
-
-More
-
-icon
-
-.
-
-Choose
-
-Move left
-
-or
-
-Move right
-
-to move your pin.
-
-(Optional) Choose
-
-Move to front
-
-to move your pin to the far-left position of the pin bar.
-
-Your changes automatically save and are remembered the next time you access Workfront.
-
-Remove a pinned page
+You can rename, reorder, and remove pinned pages in one place.
 
 Click the
 
@@ -281985,13 +283789,37 @@ More
 
 icon
 
-next to the pin you want to remove.
+in the row of pins and select
+
+Manage Pins
+
+.
+
+In the
+
+Manage Pins
+
+box, do one or more of the following:
+
+Click the
+
+Edit
+
+icon to rename a pinned page. Type the new name and click the check mark icon to confirm.
+
+Drag and drop the pinned pages in the order you want them to appear.
+
+Click the
+
+Delete
+
+icon to remove a pinned page from the list.
 
 Click
 
-Remove pin
+Close
 
-. The page is no longer accessible from the top of any page in Workfront.
+when you are finished editing pins.
 
 recommendation-more-help
 
@@ -284479,17 +286307,19 @@ User
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -290373,6 +292203,12 @@ Apply to all projects
 
 dialog, all of the projects that use this rate card are selected by default. If you do not want a project to apply the rate changes, you must deselect it.
 
+note
+
+NOTE
+
+Only projects with outdated rate card rates are displayed on the dialog. If a project uses this rate card and the rates are current on the project, it is not displayed.
+
 Click
 
 Save
@@ -291845,17 +293681,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -291953,17 +293791,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -301735,14 +303575,6 @@ User
 
 Admin
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 You can request permissions to a view or a workspace when someone shares a link with you to the view or the workspace to which you do not have access.
 
 Requesting permissions to a view is similar to requesting permissions to a workspace.
@@ -301763,11 +303595,11 @@ table 0-row-0 1-row-2 2-row-2 3-row-2 4-row-2 layout-auto html-authored no-heade
 
 Adobe Workfront package
 
-Any Workfront and Planning package
+Any Workfront or Workflow with a Planning package
 
 Or
 
-Any Workflow and Planning package
+Any Workfront Planning as a standalone product package
 
 Adobe Workfront license
 
@@ -301799,17 +303631,9 @@ Access requirements in Workfront documentation
 
 Request permissions
 
-Requesting permissions to a view is similar to requesting permission to a workspace, a record type, or
+Requesting permissions to a view is similar to requesting permission to a workspace, a record type, or a record.
 
-a record
-
-.
-
-When someone shares with you a link to a workspace, record type,
-
-record
-
-, or a view where you do not have access:
+When someone shares with you a link to a workspace, record type, record, or a view where you do not have access:
 
 Click the link shared with you for the view or the workspace.
 
@@ -301823,11 +303647,7 @@ note
 
 NOTE
 
-When you don’t have access to a record type or
-
-record
-
-, the You have no access to page shows that you must have access to the workspace.
+When you don’t have access to a record type or record, the You have no access to page shows that you must have access to the workspace.
 
 (Conditional) If the link shared is for a view for a workspace where you have access, click
 
@@ -304887,27 +306707,21 @@ User
 
 Admin
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -304939,9 +306753,7 @@ Standard
 
 Object permissions
 
-Contribute or higher permissions to a workspace, record type, and
-
-manage permissions to a record
+Contribute or higher permissions to a workspace, record type, and manage permissions to a record
 
 System Administrators have permissions to all workspaces, including the ones they did not create
 
@@ -306316,6 +308128,8 @@ Get started with the proofing and Creative Cloud Express
 Unified review and approval overview
 
 Use the Adobe Experience Manager with the Frame.io integration
+
+Get started with the Adobe Express and Workfront with Frame.io integration
 
 recommendation-more-help
 
@@ -311225,7 +313039,7 @@ Workfront Guide
 
 Search Adobe Workfront
 
-Last update: June 12, 2026
+Last update: May 13, 2026
 
 Topics:
 
@@ -314172,6 +315986,254 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
+# FILE: set-default-permissions-for-records-adobe-workfront.md
+---
+
+Set Default Permissions for Records | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Set default permissions for records
+
+Last update: July 8, 2026
+
+Topics:
+
+Workfront Planning
+
+CREATED FOR:
+
+User
+
+IMPORTANT
+
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
+
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+
+For general information about Workfront Planning, see
+
+Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
+
+.
+
+You can set default permissions for records when you modify the record type or the workspace settings.
+
+You can give Open or Restricted permissions to all records that will be added for a record type.
+
+Access requirements
+
+Expand to view access requirements for the functionality in this article.
+
+table 0-row-0 1-row-2 2-row-2 3-row-2 layout-auto html-authored no-header
+
+Adobe Workfront package
+
+Any Workfront or Workflow with a Planning package
+
+Or
+
+Any Workfront Planning as a standalone product package
+
+Adobe Workfront license
+
+Any
+
+NOTE
+
+Only people with a Standard license can be granted Manage permissions to records. All other licenses can only have View permissions and the Manage option is dimmed for them.
+
+Object permissions
+
+Manage permissions to a workspace and a record type
+
+IMPORTANT
+
+Only users with Manage permissions to a workspace can share a record
+
+For more information, see
+
+Access requirements in Workfront documentation
+
+.
+
+Considerations for setting default record permissions
+
+Consider the following as you configure default record permissions:
+
+Only one default permission rule can be active per record type at a time.
+
+Changing the rule only affects records created after the change. Existing records keep their current permissions.
+
+System administrators and workspace managers always retain Manage access to every record, regardless of the rule.
+
+Once a record is created, its permissions can be changed independently in its sharing dialog without affecting the default rule.
+
+For global record types, each workspace (primary and secondary) can configure its own default rule, and new records take on the rule of the workspace they’re created in.
+
+Configure default record permissions for a workspace
+
+Go to a workspace >
+
+More
+
+menu
+
+>
+
+Settings
+
+>
+
+Record types
+
+.
+
+(Optional) Click inside the cell of a
+
+Record type
+
+to edit record type names.
+
+In the
+
+New record permission default
+
+column, click the cell for the record type whose permissions you want to update.
+
+Choose from the following options:
+
+Open
+
+: All workspace contributors can manage newly created record. This is the current default behavior for all existing and new record types.
+
+Restricted
+
+: Only the record creator and anyone you explicitly add can edit newly created records. Everyone else gets view-only access.
+
+(Conditional) If you are changing the default permissions from
+
+Restricted
+
+to
+
+Open
+
+, click
+
+Switch
+
+in the
+
+Switch to Open
+
+box to confirm your choice.
+
+(Conditional) If you selected
+
+Restricted
+
+, add additional editors in the
+
+Who can edit records
+
+column. You can add users, groups, teams, roles, or companies.
+
+note
+
+NOTE
+
+The record creator is always included and cannot be removed.
+
+You can only select entities that already have Contribute or Manage permissions to the record type.
+
+Changes are saved automatically. Once saved, the rule takes effect immediately and automatically applies to all records created for that record type going forward.
+
+Configure default record permissions for a record type
+
+Go to a record type >
+
+More
+
+menu
+
+>
+
+Settings
+
+>
+
+Record settings
+
+.
+
+In the
+
+Record permission type
+
+field, click one of the following options:
+
+Open
+
+: All workspace contributors can manage newly created record. This is the current default behavior for all existing and new record types.
+
+Restricted
+
+: Only the record creator and anyone you explicitly add can edit newly created records. Everyone else gets view-only access.
+
+(Conditional) If you are changing the default permissions from
+
+Restricted
+
+to
+
+Open
+
+, click
+
+Switch
+
+in the
+
+Switch to Open
+
+box to confirm your choice.
+
+(Conditional) If you selected
+
+Restricted
+
+, add additional editors in the
+
+Who can edit records
+
+field. You can add users, groups, teams, roles, or companies.
+
+note
+
+NOTE
+
+The record creator is always included and cannot be removed.
+
+You can only select entities that already have Contribute or Manage permissions to the record type.
+
+Changes are saved automatically. Once saved, the rule takes effect immediately and automatically applies to all records created for that record type going forward.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
 # FILE: set-individual-reviewer-deadlines-adobe-workfront.md
 ---
 
@@ -315496,6 +317558,982 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
+# FILE: set-up-and-manage-adobe-cloud-drive-adobe-workfront.md
+---
+
+Set Up and Manage Adobe Cloud Drive | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Set up and manage Adobe Cloud Drive for your organization
+
+Last update: July 14, 2026
+
+Topics:
+
+Digital Content and Documents
+
+Workfront Integrations and Apps
+
+System Setup and Administration
+
+CREATED FOR:
+
+Admin
+
+As as administrator, you can set up Adobe Cloud Drive to give users direct desktop access to their project files in Adobe cloud storage, through Finder on macOS and File Explorer on Windows. This article covers how to enable access in the Adobe Admin Console, deploy the application to user devices, and manage access on an ongoing basis.
+
+Adobe Cloud Drive is an enterprise desktop application that mounts Workfront documents on Adobe cloud storage as a virtual drive on users’ Mac and Windows computers. After installation, users see their Workfront project folders in Finder or File Explorer and can open, edit, and save project files using any desktop application, without downloading files manually or working through a browser.
+
+To use Adobe Cloud Drive, your organization must be on the Workflow Ultimate package, with Adobe cloud storage enabled.
+
+For more information about Adobe Cloud Drive, see the following articles:
+
+Adobe Cloud Drive overview
+
+Install Adobe Cloud Drive
+
+Use Adobe Cloud Drive
+
+Access requirements
+
+Expand to view access requirements for the functionality in this article.
+
+table 0-row-2 1-row-2 layout-auto html-authored no-header
+
+Adobe Workfront version
+
+Workflow Ultimate, with Adobe cloud storage enabled
+
+Adobe administrator rights
+
+You must be a System Administrator for Workfront in the Adobe Admin Console
+
+For information, see
+
+Access requirements in Workfront documentation
+
+.
+
+Assign access to Adobe Cloud Drive in the Adobe Admin Console
+
+Adobe Cloud Drive is included with the Workflow Ultimate package, when Adobe cloud storage is enabled. It does not appear as a standalone product in the
+
+Products
+
+section of the Admin Console. Instead, it is managed through the
+
+Roles
+
+section under
+
+Users
+
+.
+
+When you go to
+
+Users
+
+>
+
+Roles
+
+, you see two roles associated with the Workfront product:
+
+Role
+
+Automatically assigned to
+
+Relevance to Adobe Cloud Drive
+
+Member
+
+All users in the organization
+
+Contains the org-level Adobe Cloud Drive capability switch. On by default.
+
+ACD user
+
+No one, by default
+
+Grants individual access when the org-level switch is off.
+
+Access controls
+
+Control 1: Org-level capability control (in the Member role)
+
+The
+
+Member
+
+role is automatically assigned to every user in your organization. Within this role, there is an
+
+Adobe Cloud Drive
+
+capability switch. When this switch is on, every user with a Workflow Ultimate license can access Adobe Cloud Drive. When it’s off, no user can access Adobe Cloud Drive, regardless of their license.
+
+The switch is on by default when Adobe activates Adobe Cloud Drive for your organization.
+
+Control 2: ACD user role
+
+The
+
+ACD user
+
+role is only relevant when the org-level switch is off. If you turn off the org-level switch to run a controlled pilot, you can still grant access to specific users by adding them to the
+
+ACD user
+
+role. Users in this role can access Adobe Cloud Drive even when the org-level switch is off. If the org-level switch is on, the
+
+ACD user
+
+role has no effect.
+
+Underlying requirement: Workflow Ultimate license
+
+Adobe Cloud Drive is only available on the Workflow Ultimate package. Role options are not available on any other package.
+
+The license within the Workflow Ultimate package can be any license type: Standard, Light, or Contributor. For information about licenses, see
+
+Licenses overview
+
+.
+
+The following table shows how these controls interact:
+
+Org-level switch
+
+User in ACD user role
+
+Workflow Ultimate license
+
+Access result
+
+On
+
+Not required
+
+Yes
+
+Granted
+
+Off
+
+Yes
+
+Yes
+
+Granted
+
+Off
+
+No
+
+Yes
+
+Denied
+
+Either
+
+Either
+
+No
+
+Denied
+
+Prerequisites
+
+Verify the following before you start:
+
+The users you plan to provision have Workfront Workflow licenses assigned.
+
+You’ve reviewed the
+
+network requirements
+
+with your IT team.
+
+You’ve drafted communication to send to users explaining what Adobe Cloud Drive shows (Workfront project assets only) and how to install it.
+
+note
+
+NOTE
+
+A user who has access enabled but doesn’t have access to any Workfront projects sees an empty mounted drive after sign-in. This is expected. Workfront project access is managed separately in Workfront. For information, see
+
+Share a project
+
+.
+
+Also, Creative Cloud entitlement must be in the same IMS organization as Workfront for projects to appear in the drive.
+
+Configure access in the Adobe Admin Console
+
+Adobe Cloud Drive access is configured in the Adobe Admin Console. Choose the option that matches your rollout strategy.
+
+Option A: Enable access for your entire organization
+
+When Adobe activates Adobe Cloud Drive for your organization, the org-level capability switch is turned on by default, and all users have access immediately. Use this procedure to confirm the switch is on before you deploy the application.
+
+Sign in to
+
+adminconsole.adobe.com
+
+.
+
+Click
+
+Users
+
+in the top navigation bar.
+
+Click
+
+Roles
+
+in the left panel.
+
+Click
+
+Member
+
+in the roles list.
+
+In the
+
+Member
+
+panel that opens on the right, confirm that
+
+Adobe Cloud Drive
+
+appears under
+
+Permissions
+
+and its switch is on.
+
+note
+
+NOTE
+
+If Adobe Cloud Drive doesn’t appear under the
+
+Member
+
+role’s
+
+Permissions
+
+, Adobe Cloud Drive might not yet be activated for your organization. Contact Adobe Support to confirm.
+
+Click
+
+Save
+
+if you made any changes.
+
+Option B: Enable access for a specific group of users
+
+Use this option when you want to limit access to a defined set of users, for example, during a pilot before a broader rollout. This involves turning off the org-level switch, then adding your pilot users to the
+
+ACD user
+
+role.
+
+IMPORTANT
+
+Turning off the org-level switch removes Adobe Cloud Drive access for all users in your organization immediately, including users who are currently signed in. You must turn off the org-level capability and add the pilot users in the same session.
+
+To turn off the org-level capability:
+
+Sign in to
+
+adminconsole.adobe.com
+
+.
+
+Click
+
+Users
+
+in the top navigation bar, then click
+
+Roles
+
+in the left panel.
+
+Click
+
+Member
+
+in the roles list.
+
+In the
+
+Member
+
+panel, locate
+
+Adobe Cloud Drive
+
+under
+
+Permissions
+
+and turn it off.
+
+Click
+
+Save
+
+.
+
+To add pilot users to the ACD user role:
+
+In the left panel, click
+
+Roles
+
+to return to the roles list.
+
+Click
+
+ACD user
+
+in the roles list.
+
+Click
+
+Add Users
+
+.
+
+Enter the email address of each pilot user.
+
+Click
+
+Save
+
+.
+
+Users added to the
+
+ACD user
+
+role gain access immediately. Users not in this role remain without access until you add them to the role or turn the org-level switch back on.
+
+note tip
+
+TIP
+
+To expand access over time, return to the
+
+ACD user
+
+role and add users as needed. When you’re ready for a full rollout, turn the org-level switch back on in the
+
+Member
+
+role. Once the org-level switch is on, the
+
+ACD user
+
+role has no effect and does not need to be maintained.
+
+Deploy the Adobe Cloud Drive application
+
+Configuring access in the Adobe Admin Console establishes entitlement. Deploying the application installs it on the user’s device. These are two separate, required steps.
+
+Adobe Cloud Drive is a standalone application. It is not distributed through the Creative Cloud desktop application and does not appear in the Creative Cloud package manager. However, the user profile for Adobe Cloud Drive is tied to Creative Cloud App entitlement. This means that for a user to access Workfront projects in the drive, Creative Cloud Apps must be entitled in the same IMS organization as Workfront.
+
+Choose the deployment method that matches your organization’s device management practices.
+
+Method A: IT-managed deployment through Admin Console packages
+
+Use this method when your organization uses centralized deployment tools such as Microsoft Intune, SCCM, Jamf Pro, or Apple Remote Desktop. This is the standard Adobe enterprise deployment workflow, and it follows the same package creation process used for other Adobe applications.
+
+To create the package in the Adobe Admin Console:
+
+Sign in to
+
+adminconsole.adobe.com
+
+.
+
+Click
+
+Packages
+
+in the top navigation bar.
+
+Click
+
+Pre-generated packages
+
+in the left panel.
+
+Click the
+
+Templates
+
+tab.
+
+Adobe Cloud Drive appears twice in the template list: once for macOS and once for Windows.
+
+Locate the
+
+Adobe Cloud Drive
+
+row that matches your target platform, then click the details icon on that row.
+
+A side panel displays the package metadata.
+
+Click
+
+Customize
+
+.
+
+The package customization wizard opens, with four steps:
+
+Configure
+
+,
+
+Choose apps
+
+,
+
+Options
+
+, and
+
+Finalize
+
+.
+
+In the
+
+Configure
+
+step, select the architecture for your target machines, then confirm the language setting and click
+
+Next
+
+.
+
+macOS:
+
+Choose
+
+macOS (Intel)
+
+or
+
+macOS (Apple Silicon)
+
+.
+
+Windows:
+
+Choose
+
+Windows (64-bit)
+
+or
+
+Windows (ARM)
+
+.
+
+In the
+
+Choose apps
+
+step, confirm that Adobe Cloud Drive is selected with the version you want.
+
+Adobe Cloud Drive is pre-selected with the latest available version. To use an older version, click
+
+Other versions
+
+and select
+
+Older versions
+
+.
+
+Click
+
+Next
+
+.
+
+In the
+
+Options
+
+step, click
+
+Next
+
+without selecting any options.
+
+These settings apply to Creative Cloud desktop applications and don’t apply to Adobe Cloud Drive.
+
+In the
+
+Finalize
+
+step, type a name for the package and select
+
+Flat package
+
+.
+
+Review the summary and click
+
+Create package
+
+.
+
+The wizard closes. Your new package appears at the top of the packages list with a
+
+Preparing
+
+status while it’s being built. Once it’s ready, the status changes to
+
+Up to date
+
+and a download link appears.
+
+Click
+
+Download
+
+and save the package file to your chosen location.
+
+Method B: Self-serve direct download from Software Distribution
+
+Use this method for smaller organizations, for self-managed devices, or when directing individual users to install the application themselves.
+
+Before you start, confirm the following:
+
+Access is enabled for the users in the Adobe Admin Console.
+
+Users have been notified with the Software Distribution URL and sign-in instructions.
+
+Network connectivity to the required endpoints has been verified. For more information, see
+
+Network requirements
+
+in this article.
+
+To self-install Adobe Cloud Drive:
+
+Confirm that access is enabled for the user in the Adobe Admin Console.
+
+Direct the user to
+
+experience.adobe.com/#/downloads
+
+.
+
+note
+
+NOTE
+
+Users must have Adobe Cloud Drive access enabled in the Adobe Admin Console to see the Adobe Cloud Drive installer. Users without access will not see the installer listed.
+
+The user signs in with their Enterprise ID or Federated ID. The Adobe Cloud Drive installer appears in the
+
+Workfront
+
+tab of Software Distribution.
+
+The user downloads the installer for their platform and follows the installation steps in
+
+Install Adobe Cloud Drive
+
+.
+
+After deploying, complete this verification on a test device:
+
+Launch Adobe Cloud Drive from the
+
+Applications
+
+folder (macOS) or the
+
+Start
+
+menu (Windows).
+
+Sign in with a user account that has Adobe Cloud Drive access enabled in the Adobe Admin Console.
+
+Confirm that Workfront project folders appear in the mounted drive in Finder or File Explorer.
+
+note
+
+NOTE
+
+A user who signs in successfully but sees no folders does not have access to any Workfront projects. Add the user to a project in Workfront to populate the drive.
+
+Navigate to a project folder and create a small test file.
+
+Open Workfront in a browser and confirm that the test file appears in the corresponding project.
+
+Delete the test file after verification.
+
+Manage ongoing user access to Adobe Cloud Drive
+
+Once your organization is using Adobe Cloud Drive, follow these steps to add new users, or to remove users who no longer need access.
+
+Add a new user
+
+If the org-level switch is on, no Adobe Admin Console action is required. Ask the user to download and install Adobe Cloud Drive. If a licensed user still can’t access Adobe Cloud Drive, contact Adobe Support to confirm that their account was correctly migrated.
+
+If the org-level switch is off:
+
+Sign in to
+
+adminconsole.adobe.com
+
+.
+
+Click
+
+Users
+
+in the top navigation bar, then click
+
+Roles
+
+in the left panel.
+
+Click
+
+ACD user
+
+in the roles list.
+
+Click
+
+Add Users
+
+, enter the user’s email address, and click
+
+Save
+
+.
+
+Remove a user
+
+If the org-level switch is on, any licensed user has access to Adobe Cloud Drive. To remove access for a specific user without removing their Workfront license, turn the org-level switch off and add all other users to the
+
+ACD user
+
+role, excluding the user you want to block.
+
+If the org-level switch is off and the user is in the
+
+ACD user
+
+role:
+
+Sign in to
+
+adminconsole.adobe.com
+
+.
+
+Click
+
+Users
+
+in the top navigation bar, then click
+
+Roles
+
+in the left panel.
+
+Click
+
+ACD user
+
+in the roles list.
+
+Select the user and click
+
+Remove
+
+.
+
+The user loses access to the mounted drive immediately. Files stored in Workfront aren’t deleted. The user’s local cache remains on their device until they uninstall the application.
+
+IMPORTANT
+
+Removing a user from the
+
+ACD user
+
+role doesn’t remove them from Workfront or from any Workfront projects. Manage Workfront project access separately.
+
+Manage Workfront project access
+
+Adobe Cloud Drive shows users the Workfront projects they have access to. Project access is managed in Workfront, not in the Adobe Admin Console. A user who has Adobe Cloud Drive access but belongs to no Workfront projects sees an empty mounted drive after sign-in. This is expected behavior.
+
+For information about managing project access, see
+
+Manage projects
+
+and
+
+Share a project
+
+.
+
+Network requirements
+
+Adobe Cloud Drive requires outbound HTTPS (port 443) access to a set of Adobe endpoints. No inbound firewall rules are required. For the list of endpoints, see
+
+Adobe network endpoints
+
+.
+
+Adobe Cloud Drive reads the system-level proxy configuration on both macOS and Windows. Authenticated proxies are supported.
+
+Security considerations
+
+Authentication
+
+Adobe Cloud Drive authenticates users through Adobe IMS (Identity Management System). Users sign in with their Enterprise ID or Federated ID. If your organization uses SSO configured in the Adobe Admin Console, users authenticate through your identity provider and don’t need separate Adobe credentials.
+
+NOTE
+
+Adobe Cloud Drive does not support personal Adobe IDs (individually created, unmanaged accounts) in enterprise deployments. Users must sign in with an Enterprise ID or Federated ID in your organization’s directory.
+
+Data in transit and at rest
+
+All communication between Adobe Cloud Drive and Adobe services uses TLS 1.2 or higher.
+
+Files stored in Adobe cloud storage are encrypted at rest.
+
+Files cached locally use OS-level disk encryption when FileVault (macOS) or BitLocker (Windows) is enabled on the device.
+
+File access control
+
+File access follows Workfront project permissions. Users see and interact only with projects they have permissions to, as their Workfront access level allows.
+
+The root folder of each Workfront project is read-only in the desktop view. Users can’t rename, move, or delete a project root folder from Finder or File Explorer. They can create folders, subfolders, and files at any depth inside a project folder, subject to their Workfront permissions.
+
+Troubleshoot common issues
+
+For end-user troubleshooting steps, see
+
+Troubleshoot Adobe Cloud Drive
+
+. The issues listed below are specific to administrators.
+
+User can’t find the Adobe Cloud Drive installer in Software Distribution
+
+Cause:
+
+Adobe Cloud Drive access is not enabled for the user in the Adobe Admin Console.
+
+Resolution:
+
+Sign in to
+
+adminconsole.adobe.com
+
+and click
+
+Users
+
+.
+
+Search for the user and click their name.
+
+Click the
+
+Roles
+
+tab and verify whether Adobe Cloud Drive is enabled.
+
+Cause:
+
+Creative Cloud All Apps is provisioned in a different IMS organization from Workfront.
+
+Resolution:
+
+No resolution currently available.
+
+User installed the application and signed in, but sees no folders in the drive
+
+Cause:
+
+The user doesn’t have permissions to any Workfront projects.
+
+Resolution:
+
+In Workfront, confirm the user has permissions to at least one project.
+
+If not, then share a project with the user.
+
+Ask the user to wait up to five minutes for the project folder to appear.
+
+If the folder still doesn’t appear after five minutes, ask the user to quit Adobe Cloud Drive and relaunch it.
+
+User can’t sign in to Adobe Cloud Drive
+
+Cause:
+
+The user’s Adobe Admin Console account is inactive, or their identity isn’t configured correctly.
+
+Resolution:
+
+In the Adobe Admin Console, click
+
+Users
+
+and search for the user.
+
+Confirm the user’s account status is
+
+Active
+
+.
+
+Confirm the user’s email domain is a claimed domain in your Admin Console directory.
+
+If your organization uses SSO, confirm the user’s account is active in your identity provider.
+
+Ask the user to try signing in again.
+
+Files are not syncing after the user saves
+
+Cause:
+
+The file wasn’t saved explicitly, or there is a network connectivity issue.
+
+Resolution:
+
+Confirm with the user that they saved the file using
+
+File
+
+>
+
+Save
+
+in the application. Closing an application or relying on auto-save doesn’t trigger sync.
+
+Confirm the user has internet access and can reach
+
+*.adobe.com
+
+and
+
+*.workfront.com
+
+.
+
+Ask the user to check the Adobe Cloud Drive icon in the menu bar (macOS) or system tray (Windows) for an error indicator.
+
+If an error is present, ask the user to quit Adobe Cloud Drive, relaunch it, and save the file again.
+
+If the issue persists, collect the application log:
+
+macOS:
+
+~/Library/Logs/Adobe/AdobeCloudDrive/
+
+Windows:
+
+C:\Users\<username>\AppData\Local\Temp\Adobe\AdobeCloudDrive\
+
+A conflicted copy of a file appeared in the project folder
+
+Cause:
+
+Two users saved changes to the same file before either version synced to the cloud. Adobe Cloud Drive preserved both versions automatically.
+
+The conflicting copy uses this naming format:
+
+filename (Conflicted copy from device_name on date_time).extension
+
+For example:
+
+project_brief (Conflicted copy from jsmith's MacBook Pro on 2026-06-15-10-45-19).docx
+
+Resolution:
+
+Ask both users which version is authoritative.
+
+Copy any needed content from the conflicted copy into the primary file.
+
+Delete the conflicted copy after reconciling the two versions.
+
+note
+
+NOTE
+
+Adobe Cloud Drive doesn’t use file locking. To prevent conflicts when multiple users edit the same file, coordinate editing through Workfront task assignments or approval workflows before multiple users access the same file from the desktop.
+
+User can’t create a folder or file in the project
+
+Cause A:
+
+The user is trying to create a folder or file at the project root level. Project root folders are currently read-only in Adobe Cloud Drive. Root-level folders represent Workfront projects, which are created and managed in Workfront.
+
+Resolution:
+
+Ask the user to navigate into any existing subfolder within the project and create the file or folder there.
+
+If the user needs a new top-level folder inside the project, ask them to create it in Workfront first. It then appears in Adobe Cloud Drive.
+
+Cause B:
+
+The user doesn’t have editing permissions on the Workfront project.
+
+Resolution:
+
+In Workfront, check the user’s permissions on the project (
+
+View
+
+,
+
+Contribute
+
+, or
+
+Manage
+
+).
+
+Update the user’s permissions to
+
+Contribute
+
+or
+
+Manage
+
+if they need to create or edit files.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
 # FILE: set-up-and-manage-unified-approvals-article-index-adobe-workfront.md
 ---
 
@@ -315565,9 +318603,11 @@ CREATED FOR:
 
 Admin
 
-As an Adobe Workfront administrator, you can set up automatic reminders to trigger email notifications when all tasks or issues are due, late, or near the planned completion date. After you configure these settings, users cannot disable automatic reminders.
+As an Adobe Workfront administrator, you can set up automatic reminders to trigger email notifications when all tasks, issues, or other assigned work items are due, late, or near the planned completion date.
 
-For late notifications, the email is sent nightly until the task or issue is completed.
+After you configure these settings, users cannot disable automatic reminders. Automatic reminders will be sent regardless of a user’s notification settings in their My Settings area.
+
+For late notifications, the email is sent nightly until the task or issue is completed. This means that the user will receive a notification each day while the task or issue is not completed.
 
 An automatic reminder can be sent to one or more of the following:
 
@@ -315606,6 +318646,34 @@ For information, see
 Access requirements in Workfront documentation
 
 .
+
+Details of automatic reminder functionality
+
+Distinction from other types of reminders
+
+Automatic reminders are the Setup-level reminder feature for Workfront tasks and issues, and are separate from the object-level Reminder notifications feature. For information on the difference between automatic reminders and reminder notifications, see
+
+Automatic reminders vs. reminder notifications
+
+.
+
+Proofing and proof decisions are also not handled by automatic reminders, and follow a separate reminder process. For details on proofing and proof decision reminders, see the articles under
+
+Proof notifications and reminders
+
+.
+
+Considerations when using automatic reminders
+
+Consider the following when using automatic reminders:
+
+Overdue emails are send as one digest email per recipient per day, not as separate emails per item.
+
+Enabling automatic reminders can cause issues or tasks that are already overdue to appear in the next Overdue digest email, regardless of how long the item has been overdue.
+
+Reminders apply only to projects in Current/Active status.
+
+“Days” in the automatic reminder setup refers to schedule-aware business days, not elapsed days or calendar time.
 
 Set up automatic reminders
 
@@ -317109,14 +320177,6 @@ CREATED FOR:
 
 Admin
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 You can configure access for a custom form to control who—person, role, group, team, company, business profile—can view, share, and edit it.
 
 Access requirements
@@ -317151,7 +320211,7 @@ access-to-custom-forms
 
 By default, when you create a new custom form and someone attaches it to an object, any user assigned to the object can view and fill out the form. This includes users with Contributor or Request licenses, and external users.
 
-However, on an object where the custom form is not already attached, a user (even if they have a Planner access level) cannot attach it from the Custom Forms drop-down menu unless one of the following is true:
+However, on an object where the custom form is not already attached, a user (even if they have a Standard or Planner access level) cannot attach it from the Custom Forms drop-down menu unless one of the following is true:
 
 Someone shared the custom form as “Everyone in the system can view and attach”
 
@@ -317263,7 +320323,7 @@ Share
 
 : Share the custom form with others in the system
 
-(Optional) Repeat Steps 5-6 to add other names to the list and configure their options.
+(Optional) Repeat Steps 4-5 to add other names to the list and configure their options.
 
 (Optional) If you want to limit access to the custom form (on objects where it’s attached) to those you have specified in the previous steps, click the dropdown arrow under
 
@@ -317285,7 +320345,7 @@ note
 
 NOTE
 
-When you make a custom form visible system-wide, you allow users only to see and fill it out on objects they are assigned to, not to attach it to other objects. You can grant the ability to attach the custom form to objects using the option “Attach to custom data” explained under step 6.
+When you make a custom form visible system-wide, you allow users only to see and fill it out on objects they are assigned to, not to attach it to other objects. You can grant the ability to attach the custom form to objects using the option “Attach to custom data” explained under step 5.
 
 Most organizations want to ensure that everyone in the system can fill out a custom form when it’s attached to objects they work on and view its data in reports. If this is true for your organization, we recommend that you use
 
@@ -317298,10 +320358,6 @@ If you select
 Everyone in the system can view and attach
 
 , then all users can attach the form to other objects.
-
-Sample image in the Preview environment:
-
-Sample image in the Production environment:
 
 If you are concerned about a custom form where users might enter sensitive data when it is attached to certain objects, limiting sharing for those
 
@@ -318388,6 +321444,10 @@ Workfront system default filters, as well as filters that the Workfront administ
 Shared with me
 
 Filters that others created and shared with you or that are shared system-wide.
+
+NOTE
+
+Users with a Contributor, Requestor, or External license cannot see filters, views, or groupings that are shared system-wide. To make one available to these users, share it with them directly — via their user, job role, team, group, or company — rather than relying on system-wide visibility. This applies even when the filter, view, or grouping is included in their layout template.
 
 Hover over a filter you have access to at least view and share, then click the
 
@@ -324243,17 +327303,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -324285,11 +327347,11 @@ table 0-row-0 1-row-2 2-row-2 3-row-2 layout-auto html-authored no-header
 
 Adobe Workfront package
 
-Any Workfront and Planning package
+Any Workfront or Workflow with a Planning package
 
 Or
 
-Any Workflow and Planning package
+Any Workfront Planning as a standalone product package
 
 Adobe Workfront license
 
@@ -324595,29 +327657,21 @@ CREATED FOR:
 
 User
 
-The information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-\
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -324673,11 +327727,11 @@ table 0-row-0 1-row-2 2-row-2 3-row-2 layout-auto html-authored no-header
 
 Adobe Workfront package
 
-Any Workfront and Planning package
+Any Workfront or Workflow with a Planning package
 
 Or
 
-Any Workflow and Planning package
+Any Workfront Planning as a standalone product package
 
 Adobe Workfront license
 
@@ -325013,27 +328067,21 @@ CREATED FOR:
 
 User
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -325045,9 +328093,11 @@ Copy the link of the record page from your browser when the page is open.
 
 Copy a link to the record’s page when viewing records in the record type’s table view.
 
-In the Production environment:
+This article describes how you can share records by sharing a link.
 
-You can share all records in a workspace with other users by sharing the workspace and the record type.
+Additionally, you can share records in the following ways:
+
+Share all records in a workspace with other users by sharing the workspace and the record type. By default, all records are also shared with the same users.
 
 For more information see the following articles:
 
@@ -325055,21 +328105,13 @@ Share a workspace
 
 Share a record type
 
-In the Preview environment:
-
-You can share individual records with people, teams, roles, groups, or companies.
+You can share individual records with people, teams, roles, groups, or companies, by turning off Inherited permissions when the records are shared with workspaces or record types.
 
 For information, see
 
 Share records
 
 .
-
-style
-
-highlighted
-
-This article describes how you can copy a link to a record’s page from the table view of a record type.
 
 Access requirements
 
@@ -325204,10 +328246,6 @@ For more information, see
 Share records
 
 .
-
-style
-
-highlighted
 
 recommendation-more-help
 
@@ -325891,17 +328929,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -325923,11 +328963,11 @@ table 0-row-0 1-row-2 2-row-2 3-row-2 4-row-2 layout-auto html-authored no-heade
 
 Adobe Workfront package
 
-Any Workfront and Planning package
+Any Workfront or Workflow with a Planning package
 
 Or
 
-Any Workflow and Planning package
+Any Workfront Planning as a standalone product package
 
 Adobe Workfront license
 
@@ -326487,17 +329527,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -326519,11 +329561,11 @@ table 0-row-2 1-row-2 2-row-2 layout-auto html-authored no-header
 
 Adobe Workfront package
 
-Any Workfront and Planning package
+Any Workfront or Workflow with a Planning package
 
 Or
 
-Any Workflow and Planning package
+Any Workfront Planning as a standalone product package
 
 Adobe Workfront license
 
@@ -328515,27 +331557,21 @@ User
 
 Admin
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -328623,9 +331659,7 @@ If shared with a link, the link to the form must not be expired.
 
 Considerations about submitting requests to Workfront Planning
 
-In the Production environment, you cannot edit a request in Workfront after you submit it.
-
-In the Preview environment, you can edit a submitted request only before a record is created from it. After the record is created, you can no longer edit the submitted request.
+you can edit a submitted request only before a record is created from it. After the record is created, you can no longer edit the submitted request.
 
 Each submitted request creates a record for the record type associated with the form you use, if the form is not associated with an approval, or if the approval has been granted by all approvers.
 
@@ -330217,8 +333251,6 @@ CREATED FOR:
 
 User
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
-
 You can use the Summary panel to access and update important information directly from the documents list.
 
 Expand to view access requirements for the functionality in this article.
@@ -330365,11 +333397,7 @@ Adobe cloud storage overview
 
 Details
 
-Use the Details section to view high-level overview information, interact with custom forms, and
-
-open the Print Summary
-
-.
+Use the Details section to view high-level overview information, interact with custom forms, and open the Print Summary.
 
 Approvals
 
@@ -336415,6 +339443,14 @@ Object permissions and access level overview for the Adobe cloud storage model
 
 .
 
+Access documents from your desktop
+
+If your organization uses Adobe cloud storage, you can also access your documents from your Mac or Windows desktop using Adobe Cloud Drive. Adobe Cloud Drive mounts your Adobe cloud storage projects as a drive on your computer, so you can open and edit files in any application while keeping changes in sync with Workfront. For more information, see
+
+Adobe Cloud Drive overview
+
+.
+
 Considerations
 
 The new Documents area is optimized for screens 1024 pixels wide or larger. If you have a smaller screen, you may may have issues accessing the Summary panel.
@@ -337371,6 +340407,168 @@ Third Quarter 2026 release overview
 
 .
 
+New license type fields for Access Levels
+
+NOTE
+
+Preview and production for all customers: July 16, 2026
+
+[Off schedule]{class="badge neutral"}
+
+We have made the following field changes in the Access Level box:
+
+We have renamed the License Type field in the Access Level box to Workflow License Type. There are no functionality changes with this relabeling.
+
+For information,
+
+see Create and modify custom access levels
+
+.
+
+For customers who also have purchased a Workfront Planning package, we have added a new Planning License Type field to illustrate a user’s license to Workfront Planning.
+
+Customers who have purchased an equal number of Workflow and Planning licenses have the following license types available:
+
+Planning Standard
+
+Planning Contributor
+
+None
+
+note
+
+NOTE
+
+You can assign users a mixed combination of licenses between Workflow and Planning but the Planning license type cannot be higher than the Workflow license type.
+
+For example, a Planning Standard license cannot be assigned to a Workflow Contributor user. A user with a Workflow Light license can now be granted Standard license to Planning and thus manage workspaces and their content. Previously, they could only have view-only access to Planning data.
+
+New customers can purchase Planning and Workflow licenses in different quantities and use them with any combination. In this scenario the Planning Contributor license type is not available.
+
+For information, see
+
+Adobe Workfront Planning access overview
+
+.
+
+Internal lookup field replacing Typeahead field type
+
+NOTE
+
+Preview: July 7, 2026
+
+Production fast release: July 15, 2026
+
+Production for everyone: July 16, 2026
+
+The new
+
+Internal lookup
+
+field type in custom forms provides dynamic filtering. It is similar to the Typeahead field type and allows users to search and select existing Workfront objects by typing part of the name. The filter on the internal lookup can reference the value in another field on the form, which is not possible with Typeaheads.
+
+Multi-select is supported on internal lookups, and this field type also provides improved performance for large datasets. The following native Workfront objects are supported in internal lookups: Project, Company, Group, Job Role, Portfolio, Program, Team, Template, User, Task, Issue, Document, and Location.
+
+The Internal lookup field type is replacing the Typeahead field type. You can quickly convert existing Typeahead fields to Internal lookups by clicking the button in the field options on the right. When you convert, historical data remains on the field and it is used the same way in reports.
+
+IMPORTANT
+
+External integrations such as Workfront Fusion scenarios or API-based automations may reference legacy field structures and require updates after the conversion. You should verify any integrations before converting Typeahead fields to Internal lookup fields.
+
+For more information, see
+
+Create a custom form
+
+.
+
+Default value logic supported on native reference fields
+
+NOTE
+
+Preview: July 7, 2026
+
+Production fast release: July 15, 2026
+
+Production for everyone: July 16, 2026
+
+This feature is only available for organizations on the Workflow Prime or Ultimate packages.
+
+In custom forms, native reference fields now allow you to add default value logic.
+
+This logic type on native reference fields is available only in the user interface and not in the Workfront API.
+
+For information, see
+
+Add default value logic to a custom form
+
+in the article
+
+Add logic rules to custom forms and fields
+
+.
+
+Updates to native field filtering in custom forms
+
+NOTE
+
+Preview: July 7, 2026
+
+Production fast release: July 15, 2026
+
+Production for everyone: July 16, 2026
+
+System filters that exist on native fields are now applied to the fields in custom forms and are visible to administrators.
+
+When you add a native reference field that has a system filter applied, you can apply the same filter to the field in the custom form and modify the filter if needed in the Text Mode box.
+
+Adding your own custom filter to the field overrides the system filter for the field. If you do not enter a custom filter, the system filter is applied by default.
+
+Also, dynamic filtering is now available on native reference fields. A dynamic filter allows you to narrow the list of items based on the value of another field.
+
+For example, when you use
+
+?portfolioID={portfolio}.{ID}
+
+in a Project field filter and a Portfolio native field is on the custom form, the Project field shows only projects that are in the selected portfolio. If the Portfolio field is left blank, then all projects are available in the Project field.
+
+For information, see
+
+Create a custom form
+
+.
+
+Protect field names from accidental renaming
+
+NOTE
+
+Preview: July 7, 2026
+
+Production fast release: July 15, 2026
+
+Production for everyone: July 16, 2026
+
+To protect integrations and data integrity, we’ve updated how field names can be edited in the field settings panel of a custom form.
+
+Field names in the field settings panel are now read-only by default. You can still edit the field name, but renaming requires an explicit confirmation step. The field previously called
+
+Name
+
+has also been updated to
+
+API Name
+
+to better reflect its technical significance. The
+
+Label
+
+field remains editable.
+
+For information, see
+
+Create a custom form
+
+.
+
 View change history for Workfront objects
 
 NOTE
@@ -337385,7 +340583,7 @@ To make it easier for you to see the changes that have occurred in one central l
 
 Previously, Audit logs were available but did not cover objects.
 
-For more information see
+For more information, see
 
 View and manage change history
 
@@ -337398,6 +340596,8 @@ NOTE
 Preview: June 11, 2026
 
 Production for everyone: June 11, 2026
+
+[Off schedule]{class="badge neutral"}
 
 Workfront administrators can now convert legacy storage portfolios to Adobe cloud storage directly from System Preferences. To convert portfolios, select them in the new Select portfolios to convert to enterprise storage field and save the page.
 
@@ -337529,7 +340729,7 @@ Workfront Guide
 
 Third Quarter 2026 AI enhancements
 
-Last update: June 19, 2026
+Last update: July 6, 2026
 
 Topics:
 
@@ -337544,6 +340744,66 @@ This page describes AI enhancements made with the Third Quarter 2026 release to 
 For a list of all changes available at this point in the Third Quarter 2026 release cycle, see
 
 Third Quarter 2026 release overview
+
+.
+
+New tools available in the Workfront MCP Connector
+
+NOTE
+
+Preview: July 7, 2026
+
+Production fast release: July 15, 2026
+
+Production for everyone: July 16, 2026
+
+To expand the capabilities of the Workfront MCP Connector, we’ve added the following new tools:
+
+Get current user
+
+Search fields
+
+Get field paths
+
+Find ID by name
+
+Find Workfront data
+
+Summarize object
+
+List entities
+
+Remind stakeholders of approvals in bulk
+
+Update approval templates in bulk
+
+Add or remove approval participants in bulk
+
+Validate an asset against brand guidelines
+
+Query comments
+
+Get comment
+
+Get comments count
+
+Create comment
+
+Create reply
+
+Update comment
+
+Delete comment
+
+Add reaction
+
+Remove reaction
+
+As part of this change, the Search objects and Resolve field name tools were deprecated. If you have workflows that use these tools, you will need to update them to use the new tools.
+
+For more information, see
+
+Adobe Workfront MCP server tools
 
 .
 
@@ -337575,15 +340835,11 @@ Production for everyone: July 16, 2026
 
 Your team’s operational context lives in Workfront. Now, with the Workfront MCP Server, that context becomes actionable from within the AI tools your team already uses.
 
-Connect Workfront to any MCP-compatible AI platform, including Claude, ChatGPT, Copilot, Gemini, and more, and use natural language to find, create, update, and manage Workfront items without leaving your AI tool of choice. Ask for your overdue tasks, push a project’s finish date, send a reminder to approvers, update a campaign budget–and your AI platform does the work for you in Workfront.
+Connect Workfront Workflow and Workfront Planning to any MCP-compatible AI platform, including Claude, ChatGPT, Copilot, Gemini, and more, and use natural language to find, create, update, and manage Workfront items without leaving your AI tool of choice. Ask for your overdue tasks, push a project’s finish date, send a reminder to approvers, update a campaign budget–and your AI platform does the work for you in Workfront.
 
 And with Claude’s AI skills and scheduled tasks, you can go even further–automating recurring workflows that run proactively against live Workfront data. For example, a Monday morning project briefing, a weekly capacity report, a monthly campaign health check – set it once, and AI handles it automatically, grounded in the full context of your operation.
 
 This is the foundation of an agentic work management system–where AI is grounded in your richest operational data and humans and AI collaborate together to keep work moving at full velocity.
-
-IMPORTANT
-
-Currently, the Workfront MCP server is available only to customers in the US region for customers using AWS.
 
 For more information, see
 
@@ -337626,6 +340882,60 @@ For a list of all changes available at this point in the Third Quarter 2026 rele
 Third Quarter 2026 release overview
 
 .
+
+Parallel approval paths now available for unified approvals
+
+NOTE
+
+Preview: July 7, 2026
+
+Production fast release: July 15, 2026
+
+Production for everyone: July 16, 2026
+
+Approval workflows for documents now support parallel paths, helping teams run multiple independent review tracks at the same time. With parallel paths, you can:
+
+Configure up to 30 parallel paths and 100 stages in a single approval
+
+Run review tracks independently and in parallel, with sequential stages inside each path
+
+Switch between a simplified Basic mode for single-stage approvals and an Advanced mode for multi-stage and multi-path workflows
+
+Apply the same parallel-path configuration to reusable approval templates from Workfront Setup
+
+For more information, see
+
+Create a document approval workflow
+
+and
+
+Create an approval workflow template for documents
+
+.
+
+Adobe Cloud Drive
+
+NOTE
+
+Preview: N/A
+
+Production fast release: July 8, 2026
+
+Production for everyone: July 8, 2026
+
+[Off schedule]{class="badge neutral"}
+
+This feature is only available to organizations on the Workflow Ultimate package, with Adobe cloud storage enabled.
+
+Adobe Cloud Drive is now available to organizations that are on a version of Workfront that supports Adobe cloud storage. Adobe Cloud Drive is a desktop application that mounts your Adobe cloud storage projects as a drive on your Mac or Windows computer, so you can open, edit, and save files in any application directly from Finder or File Explorer. Your changes sync automatically to Adobe cloud storage and are available to your team in Workfront and Frame.io.
+
+For more information, see
+
+Adobe Cloud Drive overview
+
+.
+
+View a video demonstration of this feature.
 
 Request approval on Adobe Express templates with Workfront and Frame.io
 
@@ -337887,7 +341197,7 @@ Workfront Guide
 
 Third Quarter 2026 Project enhancements
 
-Last update: June 18, 2026
+Last update: July 9, 2026
 
 Topics:
 
@@ -337911,7 +341221,11 @@ NOTE
 
 Preview: June 11, 2026
 
-Production for everyone: June 12, 2026
+Production for fast release: June 11, 2026
+
+Production for quarterly release: June 11, 2026
+
+[Off schedule]{class="badge neutral"}
 
 If your organization uses both legacy Workfront storage and Adobe cloud storage, you can now convert a legacy storage task to an Adobe cloud storage project.
 
@@ -338045,6 +341359,16 @@ Fast release
 
 Quarterly
 
+New tools available in the Workfront MCP Connector
+
+To expand the capabilities of the Workfront MCP Connector, we've added some new tools and deprecated the Search objects and Resolve field name tools.
+
+July 7, 2026
+
+July 15, 2026
+
+July 16, 2026
+
 Updates to the Workfront MCP connector
 
 [Off schedule]{class="badge neutral"}
@@ -338083,11 +341407,69 @@ Fast release
 
 Quarterly
 
+New license type fields for Access Levels
+
+[Off schedule]{class="badge neutral"}
+
+We have made the following field changes in the Access Level box:
+
+We have renamed the License Type field in the Access Level box to Workflow License Type. There are no functionality changes with this relabeling.
+
+For customers who also have purchased a Workfront Planning package, we have added a new Planning License Type field to illustrate a user's license to Workfront Planning.
+
+July 16, 2026
+
+July 16, 2026
+
+July 16, 2026
+
+Internal lookup field replacing Typeahead field type
+
+The new Internal lookup field type in custom forms provides dynamic filtering, multi-select support, and improved performance for large datasets. It is replacing the Typeahead field type.
+
+July 7, 2026
+
+July 15, 2026
+
+July 16, 2026
+
+Default value logic supported on native reference fields
+
+[Workflow Prime or higher]{class="badge informative"}
+
+In custom forms, native reference fields now allow you to add default value logic. This logic type is available only in the user interface and not in the Workfront API.
+
+July 7, 2026
+
+July 15, 2026
+
+July 16, 2026
+
+Updates to native field filtering in custom forms
+
+System filters on native fields are now visible to administrators in custom forms, and dynamic filtering is now available on native reference fields.
+
+July 7, 2026
+
+July 15, 2026
+
+July 16, 2026
+
+Protect field names from accidental renaming
+
+Field names in the custom form field settings panel are now read-only by default, requiring an explicit confirmation step to rename. The Name field has been updated to API Name.
+
+July 7, 2026
+
+July 15, 2026
+
+July 16, 2026
+
 View change history for Workfront objects
 
 [Off schedule]{class="badge neutral"}
 
-To make it easier for you to see the changes that have occurred in one central list, we've create the Change History List. This list displays information such as the object, the operation, and the source of the change (such as a user or the Workfront system).
+To make it easier for you to see the changes that have occurred in one central list, we've created the Change History List. This list displays information such as the object, the operation, and the source of the change (such as a user or the Workfront system).
 
 June 11, 2026
 
@@ -338160,6 +341542,30 @@ Preview
 Fast release
 
 Quarterly
+
+Parallel approval paths now available for unified approvals
+
+Approval workflows for documents now support parallel paths, letting teams run up to 30 independent review tracks with up to 100 stages in a single approval.
+
+July 7, 2026
+
+July 15, 2026
+
+July 16, 2026
+
+Adobe Cloud Drive
+
+[Off schedule]{class="badge neutral"}
+
+[Workflow Ultimate]{class="badge informative"}
+
+Adobe Cloud Drive is a desktop application that mounts your Adobe cloud storage projects as a drive on your Mac or Windows computer, so you can open, edit, and save files in any application directly from Finder or File Explorer.
+
+N/A
+
+July 8, 2026
+
+July 8, 2026
 
 Request approval on Adobe Express templates with Workfront and Frame.io
 
@@ -338305,9 +341711,9 @@ If your organization uses both legacy Workfront storage and Adobe cloud storage,
 
 June 11, 2026
 
-June 12, 2026
+June 11, 2026
 
-June 12, 2026
+June 11, 2026
 
 Use a legacy storage template to create an Adobe cloud storage project
 
@@ -338330,6 +341736,30 @@ Preview
 Fast release
 
 Quarterly
+
+Automated access control for Workfront Planning in Snowflake
+
+[Off schedule]{class="badge neutral"}
+
+This release introduces automated, entitlement-driven access management for Workfront Planning data in Snowflake as part of Workfront Data Connect.
+
+July 16, 2026
+
+July 16, 2026
+
+July 16, 2026
+
+Add custom data support for new objects
+
+[Off schedule]{class="badge neutral"}
+
+During the Second Quarter 2026, we added new objects to support the enterprise operations enhancements in Workfront.
+
+July 7, 2026
+
+July 7, 2026
+
+July 7, 2026
 
 Canvas Dashboard prompt defaults and user preference persistence
 
@@ -338417,9 +341847,9 @@ Fast release
 
 Quarterly
 
-Introducing new request statuses
+Matching request statuses between the legacy and the new experience
 
-To get more context about what state your requests are in, we are introducing new statuses for requests: New, On Hold, and Canceled. The "Completed" status has been renamed to "Complete".
+To get more context about the correct state that your requests are in, we are updating statuses for requests in the new request experience.
 
 May 27, 2026
 
@@ -338474,6 +341904,28 @@ Preview
 Fast release
 
 Quarterly
+
+Optimization of comment archiving
+
+[Off schedule]{class="badge neutral"}
+
+We are currently optimizing comment archiving for comments that are older than 1 year for all Workfront objects that display an Updates area. This is an internal effort and should not affect your experience with the Updates area. There are no visual changes to the Updates area for any object types, and there are no changes in functionality with this update. All comments remain visible for all object types.
+
+Phased rollout beginning July 7, 2026
+
+Phased rollout beginning July 7, 2026
+
+Phased rollout beginning July 7, 2026
+
+Interface update for global navigation icons
+
+We have updated the look and feel of general navigation icons in Workfront, including the Main Menu and navigation bar icons, to provide a modern design consistent with other Adobe applications.
+
+July 7, 2026
+
+July 15, 2026
+
+July 16, 2026
 
 Updated look and feel for comment notification emails
 
@@ -338536,6 +341988,38 @@ The Desktop Proofing Viewer has been updated to from 2.1.54 to 2.1.55. This upda
 This update is for both Mac and Windows.
 
 Announcements
+
+Adobe Workfront Planning as a standalone product
+
+NOTE
+
+Preview and production for all customers: Starting July 16, 2026
+
+[New customers only]{class="badge neutral"}
+
+You can now buy Adobe Workfront Planning independently, without requiring a Workfront Workflow license.
+
+Adobe Workfront Planning as a standalone product is designed for new customers and for teams that need campaign planning and metadata management capabilities without the full suite of Workflow features.
+
+IMPORTANT
+
+This is available for new customers only. Contact your account representative for details.
+
+Some of the capabilities included in the Adobe Workfront Planning as a standalone product are:
+
+Full Workfront Planning functionality, with the ability to create and manage workspaces, record types, records, fields, and views.
+
+Ability to connect records including cross-workspace connections for Prime and Ultimate packages.
+
+Automations for creating Planning records.
+
+Intake process using Planning request forms.
+
+For information, see
+
+Get started with Adobe Workfront Planning as a standalone product
+
+.
 
 API version 22
 
@@ -338624,6 +342108,54 @@ This page describes Reporting enhancements made with the Third Quarter 2026 rele
 For a list of all changes available at this point in the Third Quarter 2026 release cycle, see
 
 Third Quarter 2026 release overview
+
+.
+
+Automated access control for Workfront Planning in Snowflake
+
+NOTE
+
+Preview and Production for all customers: July 16, 2026
+
+[Off schedule]{class="badge neutral"}
+
+This release introduces automated, entitlement-driven access management for Workfront Planning data in Snowflake as part of Workfront Data Connect.
+
+It starts by extending secure view generation to Planning tables  establishing the required foundation for downstream access control and making entitlement-based grants possible.
+
+Building on this, reader account provisioning now checks TMS entitlements at creation time and automatically applies or withholds grants to the Planning database, ensuring correct.
+
+Prior to this enhancement, this was available only for Workfront.
+
+The update includes the following capabilities:
+
+An automated daily job detects entitlement changes for existing customers
+
+The new job grants, revokes, or preserves access based on entitlements
+
+Full lifecycle coverage across provisioning, account creation, and ongoing entitlement changes.
+
+The
+
+Workfront Data Connect data dictionary
+
+article will be updated after the release date.
+
+Add custom data support for new objects
+
+NOTE
+
+Preview and Production for all customers: July 7, 2026
+
+[Off schedule]{class="badge neutral"}
+
+During the Second Quarter 2026, we added new objects to support the enterprise operations enhancements in Workfront.
+
+With the current release, we are also adding custom data support for several new objects in the Canvas Dashboard.
+
+For information, see
+
+Canvas Dashboard Overview
 
 .
 
@@ -338861,7 +342393,7 @@ Third Quarter 2026 release overview
 
 .
 
-Introducing new request statuses
+Matching request statuses between the legacy and the new request experience
 
 NOTE
 
@@ -338871,15 +342403,17 @@ Production fast release: June 11, 2026
 
 Production for everyone: July 16, 2026
 
-To get more context about what state your requests are in, we are introducing new statuses for requests. The following new request statuses are now available:
+To get more context about the correct state that your requests are in, we are updating statuses for requests in the new request experience.
+
+Requests will display the same status in the new and legacy request experience for the following statuses:
 
 New
 
 On Hold
 
-Canceled
+Prior to this update, if a request was in the New or On Hold statuses in the legacy request experience list, it displayed as In progress in the new request experience list. Now, the statuses match for the two lists.
 
-The “Completed” status has been renamed to “Complete”.
+As part of this update, the “Completed” status has also been renamed to “Complete”.
 
 For more information, see
 
@@ -339989,7 +343523,7 @@ Workfront Guide
 
 Top navigation bar overview
 
-Last update: May 11, 2026
+Last update: July 6, 2026
 
 Topics:
 
@@ -340031,7 +343565,7 @@ Main Menu
 
 icon
 
-opens the Main Menu, from where you can navigate to a different area of Workfront.
+opens the Main Menu, where you can navigate to a different area of Workfront.
 
 The options that are available in the Main Menu are dependent on:
 
@@ -341078,6 +344612,298 @@ Add Forms
 drop-down menu and select the form you copied in the previous section.
 
 The information captured in the custom fields of the issue is now transferred to the custom form on the task.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
+# FILE: troubleshoot-adobe-cloud-drive-adobe-workfront.md
+---
+
+Troubleshoot Adobe Cloud Drive | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Troubleshoot Adobe Cloud Drive
+
+Last update: June 22, 2026
+
+Topics:
+
+Integrations
+
+CREATED FOR:
+
+User
+
+This article describes the limitations of Adobe Cloud Drive, performance considerations to keep in mind, and solutions to common issues you might encounter.
+
+For information about working with Adobe Cloud Drive, see
+
+Use Adobe Cloud Drive
+
+.
+
+Limitations
+
+File and folder operations
+
+Project folders are read-only at the top level. You can’t rename, delete, or move them from Adobe Cloud Drive. To create, rename, or delete a project, use the Workfront web interface.
+
+File and folder operations inside a project folder are fully supported.
+
+File and path limits
+
+File names can’t exceed 255 characters on any platform.
+
+The full file path (all folder names plus the file name) can’t exceed 1024 characters. Files with paths longer than this limit don’t appear in Adobe Cloud Drive, even if they’re visible in the Workfront web interface.
+
+If you see a
+
+Full path too long
+
+error on a file, shorten the folder names or reduce the folder nesting depth to bring the path within the limit.
+
+Storage
+
+Files saved in Adobe Cloud Drive locally use disk space on your device.
+
+Cloud-only files don’t use local storage.
+
+Remove offline access for files you no longer need. For more information, see
+
+Remove offline access to free up space
+
+in
+
+Use Adobe Cloud Drive
+
+.
+
+Performance considerations
+
+File size:
+
+The time required to sync depends on the file size. Larger files generally take longer.
+
+Network speed:
+
+Faster connections provide better sync performance. Sync automatically resumes after an interruption.
+
+First-time access:
+
+Files are downloaded on demand the first time you access them. Subsequent access is faster because the file is cached locally.
+
+Common issues
+
+Adobe Cloud Drive isn’t appearing
+
+Possible causes:
+
+Adobe Cloud Drive isn’t installed.
+
+Installation didn’t complete successfully.
+
+Your organization isn’t on a version of Workfront that supports Adobe cloud storage.
+
+Solutions:
+
+Verify that Adobe Cloud Drive is installed. Check
+
+Applications
+
+(Mac) or
+
+Programs
+
+(Windows).
+
+Launch Adobe Cloud Drive manually.
+
+Contact your Workfront administrator to confirm that your organization is on a version of Workfront that supports Adobe cloud storage.
+
+Reinstall Adobe Cloud Drive if necessary. For more information, see
+
+Install Adobe Cloud Drive
+
+.
+
+The Adobe Cloud Drive icon isn’t visible in the menu bar or taskbar
+
+Possible causes:
+
+The menu bar (Mac) or system tray (Windows) doesn’t have enough space to display the icon.
+
+Solutions:
+
+Mac:
+
+Hold Cmd and drag existing menu bar icons to rearrange or remove them, creating space for the Adobe Cloud Drive icon.
+
+Windows:
+
+Click the up arrow (
+
+Show hidden icons
+
+) in the taskbar to find the Adobe Cloud Drive icon, then drag it to the visible area.
+
+Projects aren’t showing, or some projects are missing
+
+Possible causes:
+
+You don’t have access to any projects.
+
+Sync hasn’t completed.
+
+You have a network connectivity issue.
+
+Solutions:
+
+Verify your project access in the Workfront web interface.
+
+Check your network connection.
+
+Sign out of Adobe Cloud Drive and sign back in.
+
+Files aren’t syncing
+
+Possible causes:
+
+You have a network connectivity issue.
+
+There’s a sync error on the file or folder.
+
+You don’t have enough disk space.
+
+Solutions:
+
+Check your internet connection.
+
+Verify that you have enough disk space available.
+
+Check the file status indicators for sync errors. For more information, see
+
+File status indicators
+
+in
+
+Use Adobe Cloud Drive
+
+.
+
+Restart Adobe Cloud Drive.
+
+Check the Adobe Cloud Drive status in the system tray (Windows) or menu bar (Mac).
+
+You can’t open a file
+
+Possible causes:
+
+The file is cloud-only and the download failed.
+
+The application required to open the file isn’t installed.
+
+The file is corrupted.
+
+Solutions:
+
+Check the file status indicator.
+
+Make sure the required application is installed.
+
+Right-click the file, select
+
+Always Keep On This Device
+
+, then try opening it again.
+
+Verify that the file isn’t corrupted in the Workfront web interface.
+
+Sync is slow
+
+Possible causes:
+
+The file is large.
+
+Your network connection is slow.
+
+Many files are syncing at the same time.
+
+Solutions:
+
+Be patient with large files. Sync is resumable, so it picks up where it left off after an interruption.
+
+Check your network speed.
+
+Limit the number of simultaneous file operations.
+
+Keep large files cloud-only unless you need offline access.
+
+Offline files are taking too much space
+
+Solutions:
+
+Right-click offline files and select
+
+Free Up Space
+
+.
+
+Check your disk space regularly.
+
+Keep large files you rarely access in cloud-only mode.
+
+You can’t create, edit, or delete files or folders
+
+Possible causes:
+
+You’re trying to create, rename, or delete a project folder. Project folders are read-only at the top level.
+
+The project is read-only for you, so you can’t create, edit, or delete files or folders within it.
+
+Solutions:
+
+To create, rename, or delete a project, use the Workfront web interface.
+
+Ask the project owner to share the project with you with edit access.
+
+Get help
+
+For license questions, project access issues, or organization-specific configuration, contact your Workfront administrator.
+
+To share logs with Adobe support, follow the steps in
+
+Run the Adobe log collector tool
+
+.
+
+Best practices
+
+Plan offline work.
+
+Download files before you travel or work in areas with poor connectivity.
+
+Monitor sync status.
+
+Check file indicators before you close applications.
+
+Follow the project’s folder structure.
+
+Organize files within project folders as the project owner intends.
+
+Use descriptive file names.
+
+Help your team members find what they need.
+
+Avoid creating duplicates.
+
+Don’t make unnecessary copies of files.
 
 recommendation-more-help
 
@@ -343821,7 +347647,7 @@ Workfront Guide
 
 Understand the navigation for a Light-license user
 
-Last update: June 12, 2026
+Last update: July 6, 2026
 
 Topics:
 
@@ -343915,7 +347741,7 @@ Workfront Guide
 
 Understand the navigation for a Work-license user
 
-Last update: June 12, 2026
+Last update: July 6, 2026
 
 Topics:
 
@@ -344345,8 +348171,6 @@ CREATED FOR:
 
 User
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
-
 Unified review and approval brings together Adobe Workfront and Adobe Frame.io into a single, deeply connected experience–closing the gaps between marketing management, creative review, and content delivery.
 
 Project coordinators manage work in Workfront while creatives, marketers, and stakeholders review and approve assets in the professional-grade Frame.io viewer, all without moving files between disconnected tools.
@@ -344492,6 +348316,12 @@ The new Documents area overview
 and
 
 Object permissions and access level overview for the Adobe cloud storage model
+
+.
+
+You can also access these same documents from your Mac or Windows desktop using Adobe Cloud Drive. Adobe Cloud Drive mounts your Adobe cloud storage projects as a drive on your computer, so you can open and edit files in any application while keeping changes in sync with Workfront and Frame.io. For more information, see
+
+Adobe Cloud Drive overview
 
 .
 
@@ -344643,6 +348473,18 @@ Can I add stages to create a multi-stage approval workflow?
 
 Yes. Multi-stage approval workflows are supported, allowing you to route assets through sequential rounds of review and approval with different participants at each stage.
 
+Can I configure parallel review paths in an approval workflow?
+
+Yes. Approval workflows support parallel paths in addition to sequential stages. Each path runs independently and contains one or more sequential stages, so reviews on different paths can happen at the same time. You can configure up to 30 paths and 100 stages in a single approval. The same options are available in approval templates. For more information, see
+
+Create a document approval workflow
+
+and
+
+Create an approval workflow template for documents
+
+.
+
 Can approval templates include groups or teams, or only individual users?
 
 Currently, approval templates support individual users and teams.
@@ -344651,9 +348493,7 @@ Are approvers notified by email when they have something to review?
 
 Yes. Approvers and reviewers receive email notifications when they are assigned to a review or approval. Automated reminder emails are also sent 72 hours before the deadline, 24 hours before, and on the deadline itself.
 
-In Production, the ability to customize email notification messages is not currently available, but it is on the product roadmap.
-
-In Preview, you can add a custom message to each stage of an approval workflow. The message appears in the approval email notification and in the Approvals tab in Workfront. You can use the same message for every stage or a different message per stage, and the message can include up to 500 characters. If you edit a custom message after the approval workflow is created, an updated email notification is sent to all existing participants. If you add a participant later, the custom message is included in their email notification. For more information, see
+You can add a custom message to each stage of an approval workflow. The message appears in the approval email notification and in the Approvals tab in Workfront. You can use the same message for every stage or a different message per stage, and the message can include up to 500 characters. If you edit a custom message after the approval workflow is created, an updated email notification is sent to all existing participants. If you add a participant later, the custom message is included in their email notification. For more information, see
 
 Create a document approval workflow
 
@@ -345607,17 +349447,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -352733,77 +356575,103 @@ NOTE
 
 Drag-and-drop does not work with Internet Explorer.
 
-If you need another round of review and approval on a document, you can create a new document version in Workfront.
+If you need another round of review and approval on a document, you can create a new document version in Workfront. You can add the previous participants, new participants, or a mix of both. You can view information about previous versions and participants on the Document Details page.
 
-You can add the previous participants, new participants, or a mix of both. You can view information about previous versions and participants on the Document Details page.
+The Request approval dialog opens in Basic mode by default for a single-stage approval. Switch to Advanced mode to configure multi-stage approvals or parallel paths.
 
-To add a new version:
+To add a new version and request approval:
 
 Navigate to the document in Workfront.
 
-Drag and drop the new file on top of the previous document. This automatically creates a new version.
+Drag and drop the new file on top of the previous document. Workfront automatically creates a new version.
 
-Once the document finishes uploading, select the document to open the Document Summary panel. Here you’ll see the version number at the top of the panel.
+Once the document finishes uploading, select the document to open the Document Summary panel. The version number appears at the top of the panel.
 
 Scroll down to the
 
 Approvals
 
-section.
-
-Click
+section, then click
 
 Create workflow
 
-, then fill in the following details:
+. The
 
-table 0-row-2 1-row-2 2-row-2 3-row-2 html-authored no-header
+Request approval
 
-Stage name
+dialog opens in Basic mode.
 
-Add a stage name. You can change the name to something more descriptive, such as
+Configure the approval workflow. For field descriptions, the Advanced mode toggle, and the parallel paths flow, see
 
-Initial Review
-
-or
-
-Final Approval
+Create a document approval workflow
 
 .
 
-Add names or emails
+To copy the same reviewers and approvers from the previous document version, click
 
-Begin typing a user or team name to add as an approver or reviewer. If you only have reviewers, they will be notified and have the option to complete the review but no decision will be required or made.
+Copy
 
-One decision required (optional)
+.
 
-The first person who makes a decision completes the stage.
+Click
 
-Due date (optional)
+Request approval
 
-Set a due date for the approval. Users and teams are notified by email 72 hours, then 24 hours before the specified due date.
+.
 
-(Optional) Repeat the previous step to add additional stages as needed.
+The approval workflow starts and the approvers receive a notification that their approval is needed on the new document version. The previous document version is locked and any outstanding approvals on the previous version are withdrawn.
 
-note
+Use drag-and-drop to add a new version in the new Documents area
+
+If your organization uses Adobe cloud storage, you will see the new Documents area when you access documents in Workfront. For more information about Adobe cloud storage, see
+
+Adobe cloud storage overview
+
+.
 
 NOTE
 
-If you add multiple stages, the approval workflow proceeds in the order the stages are listed. When all required decisions are made, the next stage begins and the previous stage is locked.
+Drag-and-drop does not work with Internet Explorer.
 
-(Optional) To add an existing approval template, select a template from the left side of the dialog.
+If you need another round of review and approval on a document, you can create a new document version in Workfront. You can add an approval workflow to the new version of the document.
 
-note tip
+The Request approval dialog opens in Basic mode by default for a single-stage approval. Switch to Advanced mode to configure multi-stage approvals or parallel paths.
 
-TIP
+To add a new version and request approval:
 
-Users with a Standard license can create reusable Approval Templates from the Setup area. For more information, see
+Navigate to the document in Workfront.
 
-Create an approval workflow template for documents
+Drag and drop the new file on top of the previous document. Workfront automatically creates a new version.
+
+Once the document finishes uploading, select the document to open the Summary panel. The latest version of the document is selected by default.
+
+Scroll down to the
+
+Approvals
+
+section, then click
+
+Create workflow
+
+. The
+
+Request approval
+
+dialog opens in Basic mode.
+
+Configure the approval workflow. For field descriptions, the Advanced mode toggle, and the parallel paths flow, see
+
+Create a document approval workflow
 
 .
 
-Once you have added all the stages and participants you need, click
+To copy the same reviewers and approvers from the previous document version, click
+
+Copy
+
+.
+
+Click
 
 Request approval
 
@@ -356146,6 +360014,520 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
+# FILE: use-adobe-cloud-drive-adobe-workfront.md
+---
+
+Use Adobe Cloud Drive | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Use Adobe Cloud Drive
+
+Last update: June 24, 2026
+
+Topics:
+
+Integrations
+
+CREATED FOR:
+
+User
+
+After you install Adobe Cloud Drive, you can work with your Adobe cloud storage projects directly from Finder or File Explorer. You can open and edit files in any application, work offline, and let Adobe Cloud Drive sync your changes to the cloud.
+
+For information about installing Adobe Cloud Drive, see
+
+Install Adobe Cloud Drive
+
+.
+
+Access requirements
+
+Expand to view access requirements for the functionality in this article.
+
+table 0-row-2 1-row-2 layout-auto html-authored no-header
+
+Adobe Workfront version
+
+Workflow Ultimate, with Adobe cloud storage enabled
+
+Object permissions
+
+View access to a project to see it in Adobe Cloud Drive
+
+Edit access to a project to add, edit, or delete files in it
+
+For information, see
+
+Access requirements in Workfront documentation
+
+.
+
+Access your projects
+
+Open Finder (Mac) or File Explorer (Windows).
+
+Navigate to
+
+Adobe Cloud Drive
+
+.
+
+Browse the list of projects you have access to in Workfront. Open any project folder to view its files and subfolders.
+
+note
+
+NOTE
+
+Project folders are read-only at the top level. You can’t rename, delete, or move project folders themselves.
+
+You can work with files and folders inside a project folder — open, edit, create, delete, and so on.
+
+Legacy Workfront projects don’t appear in Adobe Cloud Drive. Only projects stored in Adobe cloud storage are available.
+
+File status indicators
+
+Adobe Cloud Drive uses visual indicators to show file synchronization status. The icons differ between Windows and Mac.
+
+File status indicators on Windows
+
+Icon
+
+Status
+
+File meaning
+
+Folder meaning
+
+Online only
+
+File is synced but only available online.
+
+All files inside are available online.
+
+Syncing
+
+Latest updates to the file are syncing to the local cache or to Adobe cloud storage.
+
+At least one file in the folder is syncing.
+
+Available offline
+
+File is synced and available offline.
+
+At least one file in the folder is available offline.
+
+Pinned (Always Keep on Device)
+
+File is synced and always kept offline. Adobe Cloud Drive doesn’t purge pinned content automatically.
+
+All files in the folder are in local cache and available offline.
+
+Read only
+
+File is read only.
+
+Folder is read only.
+
+Sync error
+
+File can’t be synced. Hover over the icon for details.
+
+Folder can’t be synced. Hover over the icon for details.
+
+Sync excluded
+
+File can’t be synced due to unsupported type or name.
+
+Folder can’t be synced due to unsupported name.
+
+File status indicators on Mac
+
+Icon
+
+Status
+
+File meaning
+
+Folder meaning
+
+(No icon)
+
+Available offline
+
+File is synced and available offline.
+
+All files are available offline.
+
+Online only
+
+File is synced and available online only.
+
+At least one file in the folder is online only.
+
+Syncing
+
+Latest updates to the file are syncing to the local cache or to Adobe cloud storage.
+
+Folder content is syncing.
+
+Sync error
+
+File can’t update or sync. Hover over the icon for details.
+
+Folder can’t update or sync. Hover over the icon for details.
+
+Sync excluded
+
+File is excluded from sync.
+
+Folder is excluded from sync.
+
+Read only
+
+File is read only.
+
+Folder is read only.
+
+Pinned (Always Keep on Device)
+
+File is pinned to be available offline. Adobe Cloud Drive doesn’t purge pinned content automatically.
+
+Folder is pinned to be available offline.
+
+Error tooltips
+
+When a sync error or issue occurs, hover over the file or folder icon to see a tooltip describing the issue.
+
+Error category
+
+Tooltip
+
+Meaning
+
+Sync excluded
+
+Unsupported file type
+
+The file type isn’t supported by Adobe Cloud Drive.
+
+Sync excluded
+
+Unsupported file name
+
+The file name isn’t supported by Adobe Cloud Drive.
+
+Sync excluded
+
+Parent project deleted
+
+The parent Workfront project has been deleted.
+
+Sync suspended
+
+File content not supported
+
+The file content can’t be synced (for example, a security issue was detected).
+
+Sync suspended
+
+Invalid characters in file name
+
+The file name contains invalid characters.
+
+Sync suspended
+
+Full path too long
+
+The file path exceeds the maximum length allowed.
+
+Sync suspended
+
+No write permission
+
+Your write access to this file or project has been revoked.
+
+Sync error
+
+Authentication issue
+
+There’s a problem with your sign-in credentials.
+
+Sync error
+
+Cloud storage unavailable
+
+Adobe cloud services are temporarily unavailable.
+
+Sync error
+
+Cloud storage full
+
+Your cloud storage quota is full.
+
+Sync error
+
+Local disk full
+
+Your local disk doesn’t have enough free space.
+
+Sync error
+
+No internet connection
+
+Your device isn’t connected to the internet.
+
+Sync error
+
+Unexpected error
+
+An unexpected error occurred during sync.
+
+Sync error
+
+Account blocked
+
+Your account has been blocked by the service.
+
+NOTE
+
+System-level errors — such as disconnected, authentication failure, network unavailable, local disk full, or cloud storage full — are shown in the system tray (Windows) or menu bar (Mac), not on individual files.
+
+Open a file
+
+In Adobe Cloud Drive, navigate to the file.
+
+Double-click the file.
+
+The file opens in its default application.
+
+Adobe Cloud Drive supports any file type that an installed application on your computer can open, including:
+
+Adobe Creative Cloud formats (PSD, AI, INDD, PRPROJ, AEP, and so on)
+
+Microsoft Office documents (DOCX, XLSX, PPTX)
+
+Images (JPG, PNG, GIF, and so on)
+
+Video files (MP4, MOV, and so on)
+
+NOTE
+
+Cloud Document formats (PSDC, AIDC, and so on) open as their standard equivalents (PSD, AI, and so on) when you access them through Adobe Cloud Drive.
+
+Edit and save a file
+
+Open a file from Adobe Cloud Drive.
+
+Make your changes in the application.
+
+Save the file by selecting
+
+File
+
+>
+
+Save
+
+, or by pressing Ctrl+S (Windows) or Cmd+S (Mac).
+
+Your changes sync automatically to Adobe cloud storage.
+
+IMPORTANT
+
+Save files using
+
+File
+
+>
+
+Save
+
+or the keyboard shortcut. Avoid using
+
+Save As
+
+to create copies, because it generates duplicate files in the drive.
+
+Create or add a new file
+
+You can create a new file directly in a project, or add an existing file from your local storage.
+
+Create a new file from an application
+
+Open the application you want to use to create the file.
+
+Create the file as you normally would.
+
+When you save, choose a location inside an Adobe Cloud Drive project folder.
+
+The file appears in Adobe Cloud Drive and syncs to Adobe cloud storage.
+
+Add an existing file to a project
+
+In Finder (Mac) or File Explorer (Windows), open the project folder in Adobe Cloud Drive.
+
+Drag or copy files from your local storage into the project folder.
+
+The files sync automatically to Adobe cloud storage.
+
+Make files and folders available offline
+
+When a file or folder is available offline, you can open and edit it without an internet connection. Offline files use local disk space.
+
+Keep a file or folder on your device
+
+Right-click the file or folder in Adobe Cloud Drive.
+
+Select
+
+Always Keep On This Device
+
+.
+
+The file or folder downloads to your local cache, and you can work with it even when you’re offline.
+
+Remove offline access to free up space
+
+Right-click the offline file or folder.
+
+Select
+
+Free Up Space
+
+.
+
+The file or folder remains in cloud storage, but it’s removed from your local cache.
+
+NOTE
+
+Offline files and folders use local disk space. Remove offline access for files and folders you no longer need to free up space.
+
+Copy a file to local storage
+
+You can copy a file out of Adobe Cloud Drive to your local drive. The original remains in Adobe Cloud Drive, and the copy becomes an independent local file.
+
+Right-click the file in Adobe Cloud Drive.
+
+Select
+
+Copy
+
+, then paste the file into the location on your local drive where you want it.
+
+The file copies to the destination. The original remains in Adobe Cloud Drive.
+
+NOTE
+
+Files copied to your local storage are independent copies. Changes you make to a local copy don’t sync back to Adobe cloud storage.
+
+Sign out of Adobe Cloud Drive
+
+If you sign out of Adobe Cloud Drive, the drive remains visible in Finder or File Explorer. However, any changes you make inside the drive while signed out, and any changes that hadn’t synced before sign-out, don’t sync to the cloud.
+
+What happens next depends on which account you sign back in with.
+
+Sign back in with the same account
+
+Adobe Cloud Drive preserves the local mounted folder when you sign out. If you sign back in with the same credentials:
+
+Adobe Cloud Drive reuses the existing mount automatically.
+
+Any unsynced changes you made before sign-out are retained, and they sync once the connection is restored.
+
+No action is required from you.
+
+Sign in with a different account
+
+If you sign in with a different Adobe account after signing out:
+
+The current mounted folder is automatically renamed and backed up. The backup folder name uses this format:
+
+Adobe Cloud Drive <usermail>_<short_guid> (backup yyyy-MM-dd HH-mm-ss)
+
+.
+
+Adobe Cloud Drive mapped to the new account becomes available in Finder or File Explorer as usual.
+
+You can manually recover any unsynced work from the backup folder before you remove it.
+
+NOTE
+
+Backup folders are saved in
+
+~/Library/CloudStorage
+
+on Mac and
+
+C:\Users\<user>\
+
+on Windows. If you switch accounts multiple times, multiple timestamped backup folders are created. Review and clean up backups periodically to free up disk space.
+
+Resolve file conflicts
+
+Conflicts can occur in any of the following situations:
+
+Multiple users edit or delete the same file at the same time.
+
+A file is modified while another user has it open.
+
+Network interruptions cause sync issues.
+
+How Adobe Cloud Drive resolves conflicts
+
+Adobe Cloud Drive uses a duplication strategy for conflicts:
+
+No file locking.
+
+Multiple users can edit files at the same time.
+
+Automatic duplication.
+
+When Adobe Cloud Drive detects a conflict, it preserves both versions.
+
+Clear naming.
+
+Conflict files include the username and timestamp in this format:
+
+filename (Conflicted copy from username on date_time).extension
+
+. For example:
+
+hero-banner (Conflicted copy from John on 2026-02-10_16-06-44).psd
+
+.
+
+Resolve a conflict manually
+
+Identify the conflict file. Conflict files have “Conflicted copy” in the filename.
+
+Review both versions to determine which one is correct.
+
+Keep the correct version and delete the other version.
+
+Give the retained file a suitable name.
+
+TIP
+
+To minimize conflicts:
+
+Check sync status before editing files.
+
+Communicate with team members about who is editing which files.
+
+Save frequently so changes sync promptly.
+
+Close files when you finish editing.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
 # FILE: use-adobe-workfront-built-in-reports-adobe-workfront.md
 ---
 
@@ -356903,8 +361285,6 @@ CREATED FOR:
 
 User
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
-
 IMPORTANT
 
 The Canvas Dashboards feature is currently only available for users participating in the beta stage. Parts of the feature may not be complete or work as intended during this stage. Please submit any feedback regarding your experience by following the instructions in the
@@ -356953,7 +361333,7 @@ Canvas Dashboards
 
 Click the name of an existing dashboard to open it.
 
-Sort the Canvas Dashboards list in Preview
+Sort the Canvas Dashboards list
 
 You can sort the Canvas Dashboards list by any of the following columns:
 
@@ -356984,10 +361364,6 @@ column from A to Z.
 NOTE
 
 Your sort order is preserved when you switch between tabs in the Canvas Dashboards list.
-
-style
-
-highlighted
 
 Interacting with Reports
 
@@ -358723,14 +363099,6 @@ Azure
 
 Google Cloud Platform
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 Access Requirements
 
 Expand to view access requirements for the functionality in this article.
@@ -358843,19 +363211,17 @@ Use native currency fields in canvas chart, KPI, and table reports
 
 Use custom currency fields in canvas chart, KPI, and chart reports
 
+Use Planning currency fields in a canvas chart, KPI, and table reports
+
+NOTE
+
+If a Planning currency field uses a currency without a defined exchange rate, Canvas Dashboard might display an error message when.
+
 Assign a default currency to the dashboard (on creation or when editing the dashboard)
 
 See and use the dashboard-level currency toggle
 
 Lock a specific currency for view in a canvas chart, KPI, or table report
-
-Use Planning currency fields in a canvas chart, KPI, and table reports
-
-in the Production environment. This is available in the Preview environment.
-
-NOTE
-
-If a Planning currency field uses a currency without a defined exchange rate, Canvas Dashboard might display an error message when.
 
 Multiple currencies are defined
 
@@ -358867,15 +363233,13 @@ See and use the dashboard-level currency toggle
 
 Lock a specific currency for view in a canvas chart, KPI, or table report to ignore the dashboard currency toggle preference
 
-Use custom data currency fields in canvas chart, KPI, and table reports
-
 Use Planning currency fields in a canvas chart, KPI, and table reports
-
-in the Production environment. This is available in the Preview environment.
 
 NOTE
 
 If a Planning currency field uses a currency without a defined exchange rate, Canvas Dashboard might display an error message when.
+
+Use custom data currency fields in canvas chart, KPI, and table reports
 
 recommendation-more-help
 
@@ -359667,14 +364031,6 @@ CREATED FOR:
 
 User
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 Enhanced lists are available in some areas of Adobe Workfront. These lists use a table format for displaying the list items, and they have a different look and feel than the standard lists. The management of views is also enhanced, including filtering, grouping, managing columns, and searching.
 
 For information about the standard lists, see
@@ -359805,9 +364161,7 @@ Date: Use the calendar to select a date.
 
 Date and time: Use the calendar to select a date and time.
 
-Single- or multi-select drop-down: Select one or multiple options from a drop-down menu.
-
-If supported on a list, you can create new options directly from the drop-down when no results are found.
+Single- or multi-select drop-down: Select one or multiple options from a drop-down menu. If supported on a list, you can create new options directly from the drop-down when no results are found.
 
 Typeahead: Type the name of an existing object (for example, the name of a group or a project) and choose the name from the list of suggestions.
 
@@ -361020,6 +365374,8 @@ Radio buttons
 Single and Multi Select dropdowns
 
 External lookup
+
+Internal lookup
 
 Reference
 
@@ -364979,15 +369335,7 @@ Users assigned as participants can use the proofing viewer to add comments and m
 
 Open the document Summary and assign participants
 
-You have the option to assign reviewers, approvers, or a mix of both:
-
-Reviewers
-
-can add comments and mark up assets. Once finished, they can mark their review as complete. Marking the review as complete is not required for the document to move forward in the approval process.
-
-Approvers
-
-can add comments and mark up assets. They must make a decision to move the approval process forward.
+The Request approval dialog opens in Basic mode by default for a single-stage approval. Switch to Advanced mode to configure multi-stage approvals or parallel paths.
 
 To assign participants:
 
@@ -365001,47 +369349,21 @@ section, then click
 
 Create workflow
 
-.
+. The
 
-Fill in the following details:
+Request approval
 
-table 0-row-2 1-row-2 2-row-2 3-row-2 html-authored no-header
+dialog opens in Basic mode.
 
-Stage name
+Configure the approval workflow. For field descriptions, the Advanced mode toggle, and the parallel paths flow, see
 
-Add a stage name. You can change the name to something more descriptive, such as
-
-Initial Review
-
-or
-
-Final Approval
+Create a document approval workflow
 
 .
 
-Add names or emails
+Click
 
-Begin typing a user or team name to add as an approver or reviewer. If you only have reviewers, they will be notified and have the option to complete the review but no decision will be required or made.
-
-One decision required (optional)
-
-The first person who makes a decision completes the stage.
-
-Due date (optional)
-
-Set a due date for the approval. Users and teams are notified by email 72 hours, then 24 hours before the specified due date.
-
-(Optional) Repeat the previous step to add additional stages as needed.
-
-note
-
-NOTE
-
-If you add multiple stages, the approval workflow proceeds in the order the stages are listed. When all required decisions are made, the next stage begins and the previous stage is locked.
-
-Once you’ve added all reviewers and approvers, click
-
-Request approvals
+Request approval
 
 . Participants are notified via email.
 
@@ -365049,9 +369371,11 @@ Create a new version as needed
 
 If you need another round of review and approval, you can create a new proof version and add the previous participants, new participants, or a mix of both. You can view information about previous versions and participants in the document Summary.
 
+The Request approval dialog opens in Basic mode by default for a single-stage approval. Switch to Advanced mode to configure multi-stage approvals or parallel paths.
+
 To add a new version:
 
-Drag and drop the new file on top of the previous document in Workfront. This automatically creates a new version.
+Drag and drop the new file on top of the previous document in Workfront. Workfront automatically creates a new version.
 
 Once the document finishes uploading, select the document, then click
 
@@ -365063,7 +369387,7 @@ Simple proof
 
 .
 
-Select the document again, and open the document Summary.
+Select the document again, then open the document Summary.
 
 Scroll down to the
 
@@ -365073,47 +369397,21 @@ section, then click
 
 Create workflow
 
-.
+. The
 
-Fill in the following details:
+Request approval
 
-table 0-row-2 1-row-2 2-row-2 3-row-2 html-authored no-header
+dialog opens in Basic mode.
 
-Stage name
+Configure the approval workflow. For field descriptions, the Advanced mode toggle, and the parallel paths flow, see
 
-Add a stage name. You can change the name to something more descriptive, such as
-
-Initial Review
-
-or
-
-Final Approval
+Create a document approval workflow
 
 .
 
-Add names or emails
+Click
 
-Begin typing a user or team name to add as an approver or reviewer. If you only have reviewers, they will be notified and have the option to complete the review but no decision will be required or made.
-
-One decision required (optional)
-
-The first person who makes a decision completes the stage.
-
-Due date (optional)
-
-Set a due date for the approval. Users and teams are notified by email 72 hours, then 24 hours before the specified due date.
-
-(Optional) Repeat the previous step to add additional stages as needed.
-
-note
-
-NOTE
-
-If you add multiple stages, the approval workflow proceeds in the order the stages are listed. When all required decisions are made, the next stage begins and the previous stage is locked.
-
-Once you’ve added all reviewers and approvers, click
-
-Request approvals
+Request approval
 
 . Participants are notified via email.
 
@@ -365619,7 +369917,7 @@ Workfront Guide
 
 Use Workfront Fusion to convert a Workfront issue to a project that includes Adobe Experience Manager workflows
 
-Last update: June 12, 2026
+Last update: July 10, 2026
 
 Topics:
 
@@ -365934,6 +370232,124 @@ For instructions on creating a connection, see
 Connect Workfront to Workfront Fusion
 
 in the article Workfront modules.
+
+Troubleshooting
+
+Problem
+
+: Custom forms unexpectedly attach to the Fusion-created project
+
+Workaround
+
+:
+
+Move
+
+categoryID
+
+out of the advanced project JSON and into
+
+project_new.categoryID
+
+(using the structured field in the Fusion UI).
+
+Concretely, change the mapper to:
+
+// project_new — set just this one field via the structured UI
+
+{
+
+"categoryID": "5d3a292300b69eb5d80c37e8ce6269d3"
+
+}
+
+// project (advanced JSON) — remove categoryID from here
+
+{
+
+"aemNativeFolderTreeIDs": ["693c40280e09eb1bd4085a5e"],
+
+"aemNativeFolderWorkflowEnabled": "true",
+
+"name": "{{1.name}}",
+
+"templateID": "{{if(...)}}",
+
+"ownerID": "{{1.ownerID}}",
+
+"sponsorID": "{{1.ownerID}}",
+
+"priority": "2",
+
+"programID": "{{ifempty(7.ID; null)}}",
+
+"description": "test",
+
+"portfolioID": "{{ifempty(8.ID; null)}}",
+
+"scheduleMode": "S",
+
+"completionType": "AUT"
+
+}
+
+Why this works
+
+:
+
+isCtgyIDsGive
+
+n now sees
+
+project_new.categoryID = "5d3a292300b69eb5d80c37e8ce6269d3"
+
+→ returns truthy →
+
+temp.isCtgyIDsGiven = true
+
+The step (
+
+getAttachedAndAttachableCategoryID
+
+s) is skipped — its condition is
+
+!temp.isCtgyIDsGiven
+
+Instead, this step fires:
+
+ctgyIds = split(parameters.project_new.categoryID, ',')
+
+→ [“5d3a292300b69eb5d80c37e8ce6269d3”]
+
+prepareMiscActionData
+
+still uses the advanced project JSON for all the AEM-specific fields (it takes precedence over
+
+project_new
+
+), then overlays
+
+objectCategories: [{ categoryID: "5d3a292300b69eb5d80c37e8ce6269d3" }]
+
+, only their intended form, no unexpected ones
+
+The steps that copy custom field values from source OPTASK to the new project still run as expected with
+
+isCopyCustomData: true
+
+The AEM fields (
+
+aemNativeFolderTreeIDs
+
+,
+
+aemNativeFolderWorkflowEnabled
+
+) stay in the advanced field unaffected. This process changes only where
+
+categoryID
+
+is found.
 
 recommendation-more-help
 
@@ -370475,7 +374891,7 @@ Workfront Guide
 
 View and manage favorites
 
-Last update: June 12, 2026
+Last update: July 14, 2026
 
 Topics:
 
@@ -380577,7 +384993,7 @@ Workfront Guide
 
 View recent items
 
-Last update: June 12, 2026
+Last update: July 14, 2026
 
 Topics:
 
@@ -383547,14 +387963,6 @@ CREATED FOR:
 
 User
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 You can view the requests that you or someone else submitted, or requests you started but you never finished submitting. The unfinished requests are saved as drafts.
 
 You can locate submitted requests in the following areas of Adobe Workfront:
@@ -383769,11 +388177,7 @@ Workfront Planning requests: The request completion is mapped to a specific Plan
 
 On Hold
 
-: This is available for Workfront requests, and manually set by the users.
-
-Canceled
-
-: This is for Workfront requests.
+: This is available for Workfront requests. It can be manually set by the users.
 
 Complete
 
@@ -386580,6 +390984,104 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
+# FILE: view-workfront-planning-information-in-reports-adobe-workfront.md
+---
+
+View Workfront Planning Information in Reports | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+View Workfront Planning information in reports
+
+Last update: July 6, 2026
+
+Topics:
+
+Workfront Planning
+
+CREATED FOR:
+
+User
+
+Admin
+
+You can view Adobe Workfront Planning information in reports when you use the Canvas Dashboard.
+
+IMPORTANT
+
+The Canvas Dashboards feature is currently only available for users participating in the beta stage. Parts of the feature may not be complete or work as intended during this stage.
+
+The beta is not available on the following cloud providers:
+
+Bring Your Own Key for Amazon Web Services
+
+Azure
+
+Google Cloud Platform
+
+For more information, see
+
+Manage Canvas Dashboards: article index
+
+.
+
+Access requirements
+
+Expand to view access requirements for the functionality in this article.
+
+table 0-row-2 1-row-2 2-row-2 3-row-2 layout-auto html-authored no-header
+
+Adobe Workfront packages
+
+Any Workfront or Workflow package
+
+Any Planning package
+
+Adobe Workfront license
+
+Standard
+
+Access level configurations
+
+Edit access to Reports, Dashboards, and Calendars
+
+Object permissions
+
+View permissions to a workspace
+
+System Administrators have permissions to all workspaces, including the ones they did not create
+
+For more information about Workfront access requirements, see
+
+Access requirements in Workfront documentation
+
+.
+
+View Planning information in Canvas Dashboards
+
+If you are participating in the Canvas Dashboard beta, you can build reports that reference Planning information (record types, records, and fields).
+
+For more information, see the following articles:
+
+Canvas Dashboards overview
+
+Build a table report in a Canvas Dashboard
+
+Build a KPI report in a Canvas Dashboard
+
+Build a KPI report in a Canvas Dashboard
+
+Use currency fields in Canvas Dashboards
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
 # FILE: view-your-organizations-workfront-proof-administrator-account-history-adobe-workfront.md
 ---
 
@@ -386683,17 +391185,19 @@ Admin
 
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -388660,10 +393164,10 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
-# FILE: workfront-and-experience-manager-assets-integrations-adobe-workfront.md
+# FILE: workfront-and-experience-manager-assets-integrations-article-index-adobe-workfront.md
 ---
 
-Workfront and Experience Manager Assets Integrations | Adobe Workfront
+Workfront and Experience Manager Assets Integrations: article index | Adobe Workfront
 
 Documentation
 
@@ -388671,9 +393175,9 @@ Workfront
 
 Workfront Guide
 
-Workfront and Experience Manager Assets Integrations
+Workfront and Experience Manager Assets Integrations: article index
 
-Last update: June 12, 2026
+Last update: July 8, 2026
 
 Topics:
 
@@ -399112,6 +403616,58 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
+# FILE: workfront-data-connect-for-workfront-planning-adobe-workfront.md
+---
+
+Workfront Data Connect for Workfront Planning | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Workfront Data Connect for Workfront Planning
+
+Last update: July 6, 2026
+
+Topics:
+
+Workfront Planning
+
+CREATED FOR:
+
+User
+
+Admin
+
+Workfront Data Connect delivers access to Workfront data, including from Adobe Workfront Planning, using Snowflake technology, allowing you to answer business-critical questions and measure the value of your processes. Enterprise customers can analyze their data using data visualization tools directly from a Workfront data lake, or export Workfront data to a customer-owned data warehouses.
+
+Subscribers will be able to connect their business intelligence tool of choice (Tableau, Power BI, Domo, Looker, etc.) to Data Connect to create data visualizations with the following types of data:
+
+Low latency, current state data
+
+Change event records for point-in-time comparisons
+
+Daily historic snapshots for trend analysis
+
+For information about creating a reader account with Snowflake and establishing a connection to Workfront Data Connect, see the following articles:
+
+Create a reader account or connection for Snowflake
+
+Establish a connection to Workfront Data Connect
+
+For information about Planning information in the Workfront Data Connect data dictionary, see
+
+Workfront Data Connect data dictionary
+
+.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
 # FILE: workfront-data-connect-overview-adobe-workfront.md
 ---
 
@@ -399960,16 +404516,6 @@ MOST_POPULAR
 style
 
 default
-
-Upcoming events for Workfront
-
-Learn new skills when you attend an upcoming live event
-
-View all events
-
-exl:solution/V29ya2Zyb250
-
-[{"uri":"https://experienceleague.adobe.com/unified_taxonomy/c4a86a5d-6562-4fc6-aa00-bfa25833aed9","label":"Workfront"}]
 
 style
 
@@ -400863,27 +405409,21 @@ User
 
 Admin
 
-The information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
-The information in this article refers to Adobe Workfront Planning, an additional capability from Adobe Workfront.
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-For a list of requirements to access Workfront Planning, see
-
-Adobe Workfront Planning access overview
-
-.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
 
 For general information about Workfront Planning, see
 
 Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
 
 .
 
@@ -400937,7 +405477,11 @@ note
 
 NOTE
 
-We recommend to not edit the sample workspaces, but instead to use them as a reference to create your own. Use the multi-workspace template bundle to create workspaces identical to the ones listed in the Sample workspaces tab. For information, see the section “Create multiple workspaces using a best-practice multi-workspace template bundle” in the article
+We recommend to not edit the sample workspaces, but instead to use them as a reference to create your own. Use the multi-workspace template bundle to create workspaces identical to the ones listed in the Sample workspaces tab.
+
+Only customers who have purchased a Prime or Ultimate Planning package can view the Sample workspaces tab.
+
+For information, see the section “Create multiple workspaces using a best-practice multi-workspace template bundle” in the article
 
 Create workspaces
 
@@ -400962,6 +405506,28 @@ There are limits on how many workspace objects you can create in your instance o
 Adobe Workfront Planning object limitations overview
 
 .
+
+Overview of global search
+
+On the Planning landing page, you can use the global search box to search for the following Planning objects:
+
+Workspaces
+
+Record types
+
+Views
+
+Consider the following about using the global search:
+
+You can access the search from the Planning landing page, or from any Planning page by pressing the following keyboard combination:
+
+CTRL+K for Windows
+
+⌘+K for Mac
+
+The last 7 results from each object display in the search box.
+
+You can perform a general search or select an object and search individual lists.
 
 recommendation-more-help
 

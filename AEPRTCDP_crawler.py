@@ -348,7 +348,13 @@ def infer_category_from_url_or_breadcrumbs(url: str, breadcrumbs: List[str]) -> 
         return "guides"
     if "reference" in path or "/api" in path:
         return "reference"
-    return "overview" if path.endswith("/home") else "other"
+    # Páginas conceituais de governança/privacidade/consentimento são guias
+    # (ex.: .../governance-privacy-security/consent/adobe/overview e subpáginas).
+    if "consent" in path or "privacy" in path or "governance" in path:
+        return "guides"
+    # /home E /overview são visões gerais. Antes só /home contava, o que jogava
+    # overviews como .../consent/adobe/overview para "other" (e eram descartados).
+    return "overview" if path.endswith(("/home", "/overview")) else "other"
 
 
 def infer_topic_path(url: str, breadcrumbs: List[str], title: str) -> str:

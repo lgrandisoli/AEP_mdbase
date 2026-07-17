@@ -77,7 +77,7 @@ GENERIC_TOPICS = {
     "journey optimizer documentation",
 }
 
-ALLOWED_DEFAULT = ["guides", "tutorials"]
+ALLOWED_DEFAULT = ["guides", "tutorials", "reference", "overview"]
 DEFAULT_START_URLS = [
     "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/ajo-home",
     "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey",
@@ -376,7 +376,13 @@ def infer_category_from_url_or_breadcrumbs(url: str, breadcrumbs: List[str]) -> 
         return "release-notes"
     if "guide" in path:
         return "guides"
-    return "other"
+    if "reference" in path or "/api" in path:
+        return "reference"
+    # Páginas conceituais de governança/privacidade/consentimento são guias.
+    if "consent" in path or "privacy" in path or "governance" in path:
+        return "guides"
+    # /home e /overview são visões gerais (antes viravam "other" e eram descartadas).
+    return "overview" if path.endswith(("/home", "/overview")) else "other"
 
 
 def infer_topic_path(url: str, breadcrumbs: List[str], title: str) -> str:

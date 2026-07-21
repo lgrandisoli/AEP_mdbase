@@ -10,6 +10,7 @@ Base de conhecimento em Markdown gerada automaticamente a partir da documentaç�
 |---|---|---|---|
 | Adobe Experience Platform + RT-CDP | `AEPRTCDP_crawler.py` | `AEP_Consolidado.md` | [AEP RTCDP](https://chatgpt.com/g/g-6a19c978cb6881919e1d0e04fd03ced3-aep-rtcdp) |
 | Adobe Journey Optimizer B2C | `ajo_phase_1_crawler_rfp_flat.py` | `AJOB2C_Consolidado.md` | [AJO](https://chatgpt.com/g/g-69fb53441bfc8191b4241dd6d501a89e-ajo) |
+| Adobe Journey Optimizer B2B | `ajob2b_crawler.py` | `AJOB2B_Consolidado.md` | [AJOB2B](https://chatgpt.com/g/g-6a5fbf0fe1c08191be2a274080ba25f9-ajob2b) |
 | Customer Journey Analytics | `cja_crawler_v4.py` | `CJA_Consolidado.md` | [CJA](https://chatgpt.com/g/g-6a3aa4aa3b4c819191288504d723319f-cja) |
 | Adobe Target | `target_crawler.py` | `Target_Consolidado.md` | [Target](https://chatgpt.com/g/g-6a04c27208e881919cc331cfe90e0828-target) |
 | Adobe Workfront | `workfront_crawler_v4.py` | `Workfront_Consolidado.md` | [Workfront](https://chatgpt.com/g/g-6a3ebff01e0881918e9babcfe7457fbf-workfront) |
@@ -41,6 +42,7 @@ Para disparar manualmente: **Actions → Monthly RFP Knowledge Crawl → Run wor
 consolidados/
 ├── AEP_Consolidado.md
 ├── AJOB2C_Consolidado.md
+├── AJOB2B_Consolidado.md
 ├── CJA_Consolidado.md
 ├── Target_Consolidado.md
 ├── Workfront_Consolidado.md

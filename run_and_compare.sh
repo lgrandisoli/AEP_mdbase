@@ -20,13 +20,14 @@ mkdir -p "$CONSOLIDATED_DIR"
 # Pasta de saida de cada crawler -> nome do consolidado correspondente
 AEP_OUT="$BASE_DIR/aep_guides"
 AJO_OUT="$BASE_DIR/ajob2c_guides"
+AJOB2B_OUT="$BASE_DIR/ajob2b_guides"
 CJA_OUT="$BASE_DIR/cja_guides"
 TARGET_OUT="$BASE_DIR/target_guides"
 AGENTS_OUT="$BASE_DIR/agents_guides"
 WORKFRONT_OUT="$BASE_DIR/workfront_guides"
 COMMERCE_OUT="$BASE_DIR/commerce_guides"
 
-mkdir -p "$AEP_OUT" "$AJO_OUT" "$CJA_OUT" "$TARGET_OUT" "$AGENTS_OUT" "$WORKFRONT_OUT" "$COMMERCE_OUT"
+mkdir -p "$AEP_OUT" "$AJO_OUT" "$AJOB2B_OUT" "$CJA_OUT" "$TARGET_OUT" "$AGENTS_OUT" "$WORKFRONT_OUT" "$COMMERCE_OUT"
 
 # -----------------------------------------------------------------------------
 # 1. Renomeia os consolidados atuais para *_old.md (mantem como base de comparacao)
@@ -57,6 +58,7 @@ run_crawler() {
 
 run_crawler "AEP"      "AEPRTCDP_crawler.py"              "$AEP_OUT"
 run_crawler "AJO B2C"  "ajo_phase_1_crawler_rfp_flat.py" "$AJO_OUT"
+run_crawler "AJO B2B"  "ajob2b_crawler.py"               "$AJOB2B_OUT"
 run_crawler "CJA"      "cja_crawler_v4.py"               "$CJA_OUT"
 run_crawler "Target"   "target_crawler.py"               "$TARGET_OUT"
 run_crawler "Agents"    "experience_cloud_ai_crawler.py"  "$AGENTS_OUT"
@@ -92,6 +94,7 @@ echo "==> Gerando consolidados ..."
 concat_dir "$AEP_OUT"    "$CONSOLIDATED_DIR/AEP_Consolidado.md"
 concat_dir "$AGENTS_OUT" "$CONSOLIDATED_DIR/Agents_Consolidado.md"
 concat_dir "$AJO_OUT"    "$CONSOLIDATED_DIR/AJOB2C_Consolidado.md"
+concat_dir "$AJOB2B_OUT" "$CONSOLIDATED_DIR/AJOB2B_Consolidado.md"
 concat_dir "$CJA_OUT"    "$CONSOLIDATED_DIR/CJA_Consolidado.md"
 concat_dir "$TARGET_OUT"    "$CONSOLIDATED_DIR/Target_Consolidado.md"
 concat_dir "$WORKFRONT_OUT" "$CONSOLIDATED_DIR/Workfront_Consolidado.md"
@@ -107,6 +110,7 @@ GUIDE_SETS=(
   "$AEP_OUT|AEP / RT-CDP"
   "$AGENTS_OUT|Experience Cloud AI Agents"
   "$AJO_OUT|AJO B2C"
+  "$AJOB2B_OUT|AJO B2B"
   "$CJA_OUT|CJA"
   "$TARGET_OUT|Target"
   "$WORKFRONT_OUT|Workfront"
@@ -239,6 +243,7 @@ summarize_diff() {
 summarize_diff "$CONSOLIDATED_DIR/AEP_Consolidado.md"
 summarize_diff "$CONSOLIDATED_DIR/Agents_Consolidado.md"
 summarize_diff "$CONSOLIDATED_DIR/AJOB2C_Consolidado.md"
+summarize_diff "$CONSOLIDATED_DIR/AJOB2B_Consolidado.md"
 summarize_diff "$CONSOLIDATED_DIR/CJA_Consolidado.md"
 summarize_diff "$CONSOLIDATED_DIR/Target_Consolidado.md"
 summarize_diff "$CONSOLIDATED_DIR/Workfront_Consolidado.md"

@@ -8,7 +8,7 @@ title: "2026 Customer Journey Analytics Release Notes"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/2026"
 category: "release-notes"
 topic: "analytics-platform/using/releases/2026"
-created_at: "2026-07-17T14:30:43.831302+00:00"
+created_at: "2026-07-22T13:04:08.866398+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -336,7 +336,7 @@ title: "AAID, ECID, AACUSTOMID and the Analytics source connector"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/cja-aa-comparison/aaid-ecid-adc"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/cja-aa-comparison"
-created_at: "2026-07-17T14:28:54.681690+00:00"
+created_at: "2026-07-22T13:02:24.801919+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -413,7 +413,7 @@ title: "Access Control"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/access-control"
 category: "other"
 topic: "analytics-platform/using/technotes/access-control"
-created_at: "2026-07-17T14:26:58.193094+00:00"
+created_at: "2026-07-22T13:00:30.971284+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -617,7 +617,7 @@ title: "Active growth analysis active-growth"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/active-growth"
 category: "guides"
 topic: "analytics-platform/using/guided-analysis/active-growth"
-created_at: "2026-07-17T14:29:37.530096+00:00"
+created_at: "2026-07-22T13:03:06.563489+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -694,7 +694,7 @@ title: "Add and manage comments in projects comment-on-projects"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/build-workspace-project/comment-projects"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/build-workspace-project"
-created_at: "2026-07-17T14:31:16.628285+00:00"
+created_at: "2026-07-22T13:04:39.415715+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -873,7 +873,7 @@ title: "Add and manage comments in projects comment-on-projects"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/build-workspace-project/comment-projects?lang=en"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/build-workspace-project"
-created_at: "2026-07-17T14:29:02.879721+00:00"
+created_at: "2026-07-22T13:02:32.911057+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -1052,7 +1052,7 @@ title: "Add area visualizations to Analysis Workspace projects in Customer Journ
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/add-area-visualizations"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations"
-created_at: "2026-07-17T14:31:49.379806+00:00"
+created_at: "2026-07-22T13:05:09.044489+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -1085,7 +1085,7 @@ title: "Add bar visualizations to Analysis Workspace projects in Customer Journe
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/add-bar-visualizations"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations"
-created_at: "2026-07-17T14:31:42.178204+00:00"
+created_at: "2026-07-22T13:05:02.307874+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -1118,7 +1118,7 @@ title: "Add bullet graph visualizations to Analysis Workspace projects in Custom
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/add-bullet-graph-visualizations"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations"
-created_at: "2026-07-17T14:31:50.159489+00:00"
+created_at: "2026-07-22T13:05:09.768119+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -1151,7 +1151,7 @@ title: "Add component descriptions"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/add-component-descriptions"
 category: "other"
 topic: "analytics-platform/using/cja-components/add-component-descriptions"
-created_at: "2026-07-17T14:29:50.447631+00:00"
+created_at: "2026-07-22T13:03:18.297314+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -1196,7 +1196,7 @@ title: "Add components to the freeform panel"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/panels/add-components-to-the-freeform-panel"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/analysis-workspace/panels"
-created_at: "2026-07-17T14:28:46.690344+00:00"
+created_at: "2026-07-22T13:02:17.221206+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -1231,7 +1231,7 @@ title: "Add donut visualizations to Analysis Workspace projects in Customer Jour
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/add-donut-visualizations"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations"
-created_at: "2026-07-17T14:31:50.965141+00:00"
+created_at: "2026-07-22T13:05:10.462405+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -1264,7 +1264,7 @@ title: "Add or move projects to folders"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/build-workspace-project/workspace-folders/add-projects"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/build-workspace-project"
-created_at: "2026-07-17T14:27:55.213528+00:00"
+created_at: "2026-07-22T13:01:28.337846+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -1314,7 +1314,7 @@ title: "Add Platform as a service to your datastream upgrade-addplatform-datastr
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/create-datastream/cja-upgrade-datastream-addplatform"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:23.428332+00:00"
+created_at: "2026-07-22T13:02:52.906395+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -1359,7 +1359,7 @@ title: "Add Quantum Metric friction events to Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/third-party/qm/friction-events"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/third-party"
-created_at: "2026-07-17T14:32:43.412853+00:00"
+created_at: "2026-07-22T13:06:00.466396+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -1450,7 +1450,7 @@ title: "Add scatter visualizations in Analysis Workspace projects in Customer Jo
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/use-scatterplot-visualizations"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations"
-created_at: "2026-07-17T14:31:55.163813+00:00"
+created_at: "2026-07-22T13:05:14.538963+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -1483,7 +1483,7 @@ title: "Add standard lookups to your datasets"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/standard-lookups"
 category: "other"
 topic: "analytics-platform/using/cja-connections/standard-lookups"
-created_at: "2026-07-17T14:22:16.571470+00:00"
+created_at: "2026-07-22T12:55:51.260814+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -1562,7 +1562,7 @@ title: "Add summary visualizations to Analysis Workspace projects in Customer Jo
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/use-summary-visualizations"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations"
-created_at: "2026-07-17T14:31:55.994146+00:00"
+created_at: "2026-07-22T13:05:15.268973+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -1595,7 +1595,7 @@ title: "Add text visualizations to Analysis Workspace projects in Customer Journ
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/add-text-visualizations"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations"
-created_at: "2026-07-17T14:31:56.774444+00:00"
+created_at: "2026-07-22T13:05:15.933564+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -1628,7 +1628,7 @@ title: "Add the Analytics source connector dataset to the connection upgrade-sou
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/historical-data-source-connector/cja-upgrade-source-connector-dataset"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:28.202914+00:00"
+created_at: "2026-07-22T13:02:57.753047+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -1696,7 +1696,7 @@ title: "Add the tree map visualization to Analysis Workspace projects in Custome
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/add-treemap-visualizations"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations"
-created_at: "2026-07-17T14:31:57.496044+00:00"
+created_at: "2026-07-22T13:05:17.019812+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -1729,7 +1729,7 @@ title: "Add the Web SDK extension to your tag upgrade-tag-extension"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/create-tags/cja-upgrade-tag-extension"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:24.151150+00:00"
+created_at: "2026-07-22T13:02:53.641659+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -1779,7 +1779,7 @@ title: "Add XDM data collection logic to your tag upgrade-tag-xdm"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/create-tags/cja-upgrade-tag-xdm"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:26.601224+00:00"
+created_at: "2026-07-22T13:02:56.196113+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -1928,7 +1928,7 @@ title: "Adding Dimensions and Metrics to your Project in Analysis Workspace"
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:32:00.845285+00:00"
+created_at: "2026-07-22T13:05:19.824737+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -1963,7 +1963,7 @@ title: "Adobe Analytics dashboards in-app Experience"
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:27:22.233119+00:00"
+created_at: "2026-07-22T13:00:54.949352+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -1997,7 +1997,7 @@ title: "Adobe Analytics dashboards Scorecard Builder"
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:27:22.954426+00:00"
+created_at: "2026-07-22T13:00:55.693634+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -2032,13 +2032,13 @@ title: "Adobe Customer Journey Analytics and Data Governance"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-privacy/privacy-overview"
 category: "overview"
 topic: "analytics-platform/using/cja-privacy/privacy-overview"
-created_at: "2026-07-17T14:30:47.990916+00:00"
+created_at: "2026-07-22T13:04:12.519137+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
 # Adobe Customer Journey Analytics and Data Governance
 
-Last update: June 5, 2026
+Last update: July 14, 2026
 - Topics:
 - [Data governance](#)
 
@@ -2059,6 +2059,12 @@ In addition, when data is exported from Customer Journey Analytics (via reportin
 This integration allows you to manage compliance more easily. Data stewards in your organization can set policies to restrict usage. As a result, your Customer Journey Analytics users can more confidently use data, knowing that it complies with policies defined by data stewards.
 
 [Learn more](/en/docs/analytics-platform/using/cja-dataviews/data-governance)
+
+## Consent Reporting and Filtering
+
+Customer Journey Analytics can use the consent policy membership data in your Experience Platform Profile datasets to report on visitor consent and, optionally, exclude non-consenting visitors before their data is ingested. Consent reporting makes consent policies available as components in Analysis Workspace, and consent filtering excludes non-consenting visitors at ingest time based on the marketing actions that you configure.
+
+[Learn more](/en/docs/analytics-platform/using/cja-connections/consent-reporting-filtering/consent-overview)
 
 ## Privacy Requests
 
@@ -2089,7 +2095,7 @@ title: "Advanced functions"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-adv-functions"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-calcmetrics"
-created_at: "2026-07-17T14:31:39.511000+00:00"
+created_at: "2026-07-22T13:05:00.165489+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -3019,7 +3025,7 @@ title: "AI Assistant for Adobe Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant"
 category: "overview"
 topic: "analytics-platform/using/cja-overview/cja-b2c-overview"
-created_at: "2026-07-17T14:22:33.306654+00:00"
+created_at: "2026-07-22T12:56:07.062362+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -3104,7 +3110,7 @@ title: "Alert use cases"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/alerts/alerts-use-cases"
 category: "other"
 topic: "analytics-platform/using/cja-components/alerts"
-created_at: "2026-07-17T14:32:58.908599+00:00"
+created_at: "2026-07-22T13:06:16.377521+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -3143,7 +3149,7 @@ title: "Alerts feature comparison"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/alerts/alerts-feature-comparison"
 category: "other"
 topic: "analytics-platform/using/cja-components/alerts"
-created_at: "2026-07-17T14:28:56.917409+00:00"
+created_at: "2026-07-22T13:02:26.776521+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -3201,7 +3207,7 @@ title: "Alerts overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/alerts/intelligent-alerts"
 category: "overview"
 topic: "analytics-platform/using/cja-components/alerts"
-created_at: "2026-07-17T14:28:57.665845+00:00"
+created_at: "2026-07-22T13:02:28.217739+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -3272,7 +3278,7 @@ title: "Algorithmic Model in Attribution IQ"
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/algorithmic-model-in-attribution-iq"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:31:23.420099+00:00"
+created_at: "2026-07-22T13:04:44.494878+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -3306,7 +3312,7 @@ title: "An example person-based B2B project"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/b2b/example"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/b2b"
-created_at: "2026-07-17T14:27:16.512820+00:00"
+created_at: "2026-07-22T13:00:49.521838+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -3457,7 +3463,7 @@ title: "Analysis Workspace overview analysis-workspace-overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/analysis-workspace-overview"
 category: "overview"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:31:22.735680+00:00"
+created_at: "2026-07-22T13:04:43.819139+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -3491,7 +3497,7 @@ title: "Analysis Workspace overview analysis-workspace-overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/home"
 category: "overview"
 topic: "analytics-platform/using/cja-workspace/home"
-created_at: "2026-07-17T14:22:36.913660+00:00"
+created_at: "2026-07-22T12:56:10.531116+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -3876,7 +3882,7 @@ title: "Analysis Workspace overview"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects/analysis-workspace-overview"
 category: "overview"
 topic: "customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects"
-created_at: "2026-07-17T14:28:25.695878+00:00"
+created_at: "2026-07-22T13:01:56.505806+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -3907,7 +3913,7 @@ title: "Analytics dashboards - Overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dashboards/home"
 category: "overview"
 topic: "analytics-platform/using/cja-dashboards/home"
-created_at: "2026-07-17T14:22:17.317001+00:00"
+created_at: "2026-07-22T12:55:51.984453+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -3944,7 +3950,7 @@ title: "Analytics tutorials"
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/overview"
 category: "overview"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:28:04.532963+00:00"
+created_at: "2026-07-22T13:01:37.003157+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -3994,6 +4000,80 @@ recommendation-more-help
 
 
 ---
+# FILE: analyze-consent-policy-data.md
+---
+
+---
+title: "Analyze consent policy data"
+url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/consent-reporting-filtering/consent-analyze"
+category: "other"
+topic: "analytics-platform/using/cja-connections/consent-reporting-filtering"
+created_at: "2026-07-22T13:06:18.982185+00:00"
+---
+Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
+
+# Analyze consent policy data
+
+Last update: July 14, 2026
+- Topics:
+- [Analysis Workspace](#)
+- [Data governance](#)
+
+CREATED FOR:
+
+- Admin
+
+You can ingest consent policy data from Experience Platform Profile datasets into a Customer Journey Analytics connection.
+
+After you [create a consent reporting and filtering configuration](/en/docs/analytics-platform/using/cja-connections/consent-reporting-filtering/consent-configure) and enable reporting, consent policy data becomes available as new components in the data views under the configured connection. You can use these components anywhere in Analysis Workspace if you have access to a data view where they exist.
+
+## Consent policy components
+
+Consent reporting adds the following components to your data views. These components read from the consentPoliciesIDMap field in your Profile dataset, and policy names and descriptions come from the consent policy lookup dataset.
+
+### Dimensions
+
+Dimension
+Description
+Consent Policy ID
+The identifier of a consent policy that a visitor matches.
+Policy Name
+The friendly name of the consent policy, from the consent policy lookup dataset.
+Policy Description
+The description of the consent policy, from the consent policy lookup dataset.
+### Metrics
+
+Metric
+Description
+Visitors with Consent
+The number of visitors who match a consent policy.
+Events with Consent
+The number of events associated with visitors who match a consent policy.
+Unique Consent Policies
+The number of distinct consent policies represented in the reporting window.
+### Derived field
+
+A derived field references the consentPoliciesIDMap field to extract consent policy IDs. You can use this derived field as the basis for additional consent-based dimensions. For more information about derived fields, see [Derived fields](/en/docs/analytics-platform/using/cja-dataviews/derived-fields).
+
+## Use consent policy components in Analysis Workspace
+
+To report on consent policy membership:
+
+- In Analysis Workspace, open a project that uses a data view configured for consent reporting.
+- From the components panel, drag a consent policy dimension, such as Policy Name , into a freeform table.
+- Add a consent metric, such as Visitors with Consent , to the table.
+- Break down the results by any other dimension, such as Page or Channel, to understand how consenting visitors behave.
+
+## Use the consent policy analysis template
+
+When a data view is configured for consent reporting, Customer Journey Analytics automatically makes a consent policy analysis template available in Analysis Workspace. This template provides a starting point for reporting on visitor consent policy membership.
+
+For information about how to access templates, see [Access and run a template](/en/docs/analytics-platform/using/cja-workspace/templates/use-templates#access-and-run-a-template).
+
+recommendation-more-help
+
+
+---
 # FILE: analyze-experience-platform-audiences-in-customer-journey-analytics-analyze-audiences-rtcdp.md
 ---
 
@@ -4002,7 +4082,7 @@ title: "Analyze Experience Platform audiences in Customer Journey Analytics anal
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/audience-analysis/analyze-audiences"
 category: "other"
 topic: "analytics-platform/using/cja-connections/audience-analysis"
-created_at: "2026-07-17T14:22:11.485007+00:00"
+created_at: "2026-07-22T12:55:46.348088+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -4069,7 +4149,7 @@ title: "Annotations overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/annotations/overview"
 category: "overview"
 topic: "analytics-platform/using/cja-components/annotations"
-created_at: "2026-07-17T14:28:05.450124+00:00"
+created_at: "2026-07-22T13:01:37.695603+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -4152,7 +4232,7 @@ title: "Anomaly Detection in Analysis Workspace anomaly-detection-in-analysis-wo
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/data-science/anomaly-detection-in-analysis-workspace"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:32:45.847074+00:00"
+created_at: "2026-07-22T13:06:02.922320+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -4188,7 +4268,7 @@ title: "Anomaly detection overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/anomaly-detection/anomaly-detection"
 category: "overview"
 topic: "analytics-platform/using/cja-workspace/anomaly-detection"
-created_at: "2026-07-17T14:30:27.140390+00:00"
+created_at: "2026-07-22T13:03:52.012610+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -4236,7 +4316,7 @@ title: "Approve calculated metrics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/cm-approving"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-calcmetrics"
-created_at: "2026-07-17T14:31:08.587060+00:00"
+created_at: "2026-07-22T13:04:31.375350+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -4277,7 +4357,7 @@ title: "Approve segments"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/seg-approve"
 category: "other"
 topic: "analytics-platform/using/cja-components/segments"
-created_at: "2026-07-17T14:32:11.663624+00:00"
+created_at: "2026-07-22T13:05:30.505001+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -4318,7 +4398,7 @@ title: "Approximate Count Distinct function in calculated metrics approximate-co
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:32:57.235553+00:00"
+created_at: "2026-07-22T13:06:15.027025+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -4353,7 +4433,7 @@ title: "Architect your schema for use with Customer Journey Analytics upgrade-sc
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/schema/cja-upgrade-schema-architect"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:30.583784+00:00"
+created_at: "2026-07-22T13:03:00.097427+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -4514,7 +4594,7 @@ title: "Architecture and integrations of Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/architecture/architecture-and-integrations-of-cja"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/architecture/architecture-and-integrations-of-cja"
-created_at: "2026-07-17T14:26:59.018409+00:00"
+created_at: "2026-07-22T13:00:31.750551+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -4547,7 +4627,7 @@ title: "Area (stacked)"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/area"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:31.619669+00:00"
+created_at: "2026-07-22T13:02:02.459185+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -4601,7 +4681,7 @@ title: "Assist executives to access mobile scorecards"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/dashboards/assist-executives-to-access-mobile-scorecards"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/dashboards/assist-executives-to-access-mobile-scorecards"
-created_at: "2026-07-17T14:31:03.476053+00:00"
+created_at: "2026-07-22T13:04:26.446101+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -4635,7 +4715,7 @@ title: "Attribution component settings attribution-component-settings"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-settings/attribution"
 category: "other"
 topic: "analytics-platform/using/cja-dataviews/component-settings"
-created_at: "2026-07-17T14:27:31.227157+00:00"
+created_at: "2026-07-22T13:01:03.809573+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -4809,7 +4889,7 @@ title: "Attribution panel attribution-panel"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/attribution"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/panels"
-created_at: "2026-07-17T14:28:15.747747+00:00"
+created_at: "2026-07-22T13:01:47.000667+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -5002,7 +5082,7 @@ title: "Audience analysis overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-overview"
 category: "overview"
 topic: "analytics-platform/using/cja-connections/audience-analysis"
-created_at: "2026-07-17T14:30:59.888153+00:00"
+created_at: "2026-07-22T13:04:23.201401+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -5133,7 +5213,7 @@ title: "Audience Analysis use cases analyze-audiences-use-cases"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-use-cases"
 category: "other"
 topic: "analytics-platform/using/cja-connections/audience-analysis"
-created_at: "2026-07-17T14:32:51.144409+00:00"
+created_at: "2026-07-22T13:06:09.717568+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -5274,7 +5354,7 @@ title: "Audience publishing overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/audiences/audiences-overview"
 category: "overview"
 topic: "analytics-platform/using/cja-components/audiences"
-created_at: "2026-07-17T14:28:07.022850+00:00"
+created_at: "2026-07-22T13:01:39.152458+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -5339,7 +5419,7 @@ title: "Audit logs audit-logs"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-privacy/audit-log"
 category: "other"
 topic: "analytics-platform/using/cja-privacy/audit-log"
-created_at: "2026-07-17T14:30:12.003952+00:00"
+created_at: "2026-07-22T13:03:37.828897+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -5520,7 +5600,7 @@ title: "B2B Edition concepts and features"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2b/cja-b2b-concepts-features"
 category: "overview"
 topic: "analytics-platform/using/cja-overview/cja-b2b"
-created_at: "2026-07-17T14:27:15.229080+00:00"
+created_at: "2026-07-22T13:00:47.909989+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -5690,7 +5770,7 @@ title: "B2B Edition quick start guide"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2b/cja-b2b-quick-start-guide"
 category: "overview"
 topic: "analytics-platform/using/cja-overview/cja-b2b"
-created_at: "2026-07-17T14:27:50.655186+00:00"
+created_at: "2026-07-22T13:01:23.357893+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -5761,7 +5841,7 @@ title: "B2B Edition use cases overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/b2b/b2b-edition/use-cases-overview"
 category: "overview"
 topic: "analytics-platform/using/cja-usecases/b2b"
-created_at: "2026-07-17T14:27:52.079254+00:00"
+created_at: "2026-07-22T13:01:24.842892+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -5841,7 +5921,7 @@ title: "Bad IDs"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/badids"
 category: "other"
 topic: "analytics-platform/using/technotes/badids"
-created_at: "2026-07-17T14:30:39.222643+00:00"
+created_at: "2026-07-22T13:04:04.764324+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -5925,7 +6005,7 @@ title: "Bar (stacked)"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/bar"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:21.776913+00:00"
+created_at: "2026-07-22T13:01:52.441231+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -5981,7 +6061,7 @@ title: "Basic functions"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-functions"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-calcmetrics"
-created_at: "2026-07-17T14:31:27.257246+00:00"
+created_at: "2026-07-22T13:04:48.193509+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -6467,7 +6547,7 @@ title: "Behavior component settings behavior-component-settings"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-settings/behavior"
 category: "other"
 topic: "analytics-platform/using/cja-dataviews/component-settings"
-created_at: "2026-07-17T14:27:32.037035+00:00"
+created_at: "2026-07-22T13:01:04.579949+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -6531,7 +6611,7 @@ title: "BI extension use cases"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-views/bi-extension/bi-extension-usecases"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-views"
-created_at: "2026-07-17T14:30:19.407885+00:00"
+created_at: "2026-07-22T13:03:44.819676+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -6583,7 +6663,7 @@ title: "BI extension"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-export/bi-extension"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-export"
-created_at: "2026-07-17T14:29:01.886297+00:00"
+created_at: "2026-07-22T13:02:32.114381+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -6624,7 +6704,7 @@ title: "Binding Dimensions in Data Views"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/binding-dimensions-in-data-views"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/data-views/binding-dimensions-in-data-views"
-created_at: "2026-07-17T14:31:07.784399+00:00"
+created_at: "2026-07-22T13:04:30.685428+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -6656,7 +6736,7 @@ title: "Blank panel blank-panel"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/blank-panel"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/panels"
-created_at: "2026-07-17T14:28:17.443737+00:00"
+created_at: "2026-07-22T13:01:48.622454+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -6704,7 +6784,7 @@ title: "Break down dimensions"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/dimensions/t-breakdown-fa"
 category: "other"
 topic: "analytics-platform/using/cja-components/dimensions"
-created_at: "2026-07-17T14:28:42.151290+00:00"
+created_at: "2026-07-22T13:02:12.417971+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -6784,7 +6864,7 @@ title: "Build calculated metrics build-metrics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/cm-build-metrics"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-calcmetrics"
-created_at: "2026-07-17T14:29:54.623727+00:00"
+created_at: "2026-07-22T13:03:21.960878+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -6916,7 +6996,7 @@ title: "Build product value"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/b2b/b2b-edition/build-product-value"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/b2b"
-created_at: "2026-07-17T14:31:12.486606+00:00"
+created_at: "2026-07-22T13:04:34.920068+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -6982,7 +7062,7 @@ title: "Build segments build-segments"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/seg-builder"
 category: "other"
 topic: "analytics-platform/using/cja-components/segments"
-created_at: "2026-07-17T14:28:28.069873+00:00"
+created_at: "2026-07-22T13:01:59.068176+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -7149,7 +7229,7 @@ title: "Bullet bullet"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:32.392269+00:00"
+created_at: "2026-07-22T13:02:03.235268+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -7219,7 +7299,7 @@ title: "Calculated metrics overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/calc-metr-overview"
 category: "overview"
 topic: "analytics-platform/using/cja-components/cja-calcmetrics"
-created_at: "2026-07-17T14:28:07.566020+00:00"
+created_at: "2026-07-22T13:01:39.874455+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -7290,7 +7370,7 @@ title: "Calculated metrics: Segmented metrics calculated-metrics-segmented-metri
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/calculated-metrics/calculated-metrics-segmented-metrics"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:32:56.545046+00:00"
+created_at: "2026-07-22T13:06:14.283308+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -7323,7 +7403,7 @@ title: "Calculated metrics templates"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/default-calcmetrics"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-calcmetrics"
-created_at: "2026-07-17T14:27:28.078532+00:00"
+created_at: "2026-07-22T13:01:00.516748+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -7408,7 +7488,7 @@ title: "Cancel reporting requests in the Reporting Activity Manager"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests"
 category: "other"
 topic: "analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests"
-created_at: "2026-07-17T14:30:36.654688+00:00"
+created_at: "2026-07-22T13:04:02.522907+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -7519,7 +7599,7 @@ title: "Caveats"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-views/bi-extension/caveats"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-views"
-created_at: "2026-07-17T14:32:24.966449+00:00"
+created_at: "2026-07-22T13:05:43.523911+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -7557,7 +7637,7 @@ title: "Choose your schema for Customer Journey Analytics choose-schema"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/schema/cja-upgrade-schema-existing"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:32.251213+00:00"
+created_at: "2026-07-22T13:03:01.661577+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -7621,7 +7701,7 @@ title: "CJA stitching enablement and validation"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/visitor-id/stitching-enablement-and-validation"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/visitor-id/stitching-enablement-and-validation"
-created_at: "2026-07-17T14:31:02.673843+00:00"
+created_at: "2026-07-22T13:04:25.768746+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -7653,7 +7733,7 @@ title: "Cohort Analysis in Analysis Workspace cohort-analysis-in-analysis-worksp
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/cohort-analysis/cohort-analysis-workspace"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:32:01.573655+00:00"
+created_at: "2026-07-22T13:05:20.517363+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -7686,7 +7766,7 @@ title: "Cohort analysis use cases"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/cohort-table/cohort-use-cases"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:32:18.357577+00:00"
+created_at: "2026-07-22T13:05:37.359987+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -7757,7 +7837,7 @@ title: "Cohort table overview cohort-table-overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/cohort-table/cohort-analysis"
 category: "overview"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:42.693561+00:00"
+created_at: "2026-07-22T13:02:13.158009+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -7843,7 +7923,7 @@ title: "Column settings"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/column-row-settings/column-settings"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:30:56.560600+00:00"
+created_at: "2026-07-22T13:04:19.931717+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -8076,7 +8156,7 @@ title: "Combine Report Suites with different schemas"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/aa-data/combine-report-suites"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/aa-data"
-created_at: "2026-07-17T14:28:51.505476+00:00"
+created_at: "2026-07-22T13:02:21.380119+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -8174,7 +8254,7 @@ title: "Combined event datasets"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/combined-dataset"
 category: "other"
 topic: "analytics-platform/using/cja-connections/combined-dataset"
-created_at: "2026-07-17T14:22:12.261069+00:00"
+created_at: "2026-07-22T12:55:47.267467+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -8408,7 +8488,7 @@ title: "Combo combo"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/combo-charts"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:22.645837+00:00"
+created_at: "2026-07-22T13:01:53.278278+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -8493,7 +8573,7 @@ title: "Compare Analytics Source Connector data to Adobe Analytics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/troubleshooting/compare"
 category: "other"
 topic: "analytics-platform/using/troubleshooting/compare"
-created_at: "2026-07-17T14:28:52.260550+00:00"
+created_at: "2026-07-22T13:02:22.090958+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -8542,7 +8622,7 @@ title: "Compare Customer Journey Analytics to BI solutions"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-vs-bi"
 category: "overview"
 topic: "analytics-platform/using/cja-overview/cja-b2c-overview"
-created_at: "2026-07-17T14:30:09.907145+00:00"
+created_at: "2026-07-22T13:03:36.397250+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -8618,7 +8698,7 @@ title: "Compare data processing across Adobe Analytics and Customer Journey Anal
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/cja-aa-comparison/data-processing-comparisons"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/cja-aa-comparison"
-created_at: "2026-07-17T14:22:45.233551+00:00"
+created_at: "2026-07-22T12:56:18.799654+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -8828,7 +8908,7 @@ title: "Compare terminology for Analytics data passed through the Analytics sour
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/cja-aa-comparison/terminology"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/cja-aa-comparison"
-created_at: "2026-07-17T14:22:46.753338+00:00"
+created_at: "2026-07-22T12:56:20.478880+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -8991,7 +9071,7 @@ title: "Comparison with Adobe Analytics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/cja-aa-comparison/overview"
 category: "overview"
 topic: "analytics-platform/using/compare-aa-cja/cja-aa-comparison"
-created_at: "2026-07-17T14:22:45.961599+00:00"
+created_at: "2026-07-22T12:56:19.722449+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -9068,7 +9148,7 @@ title: "Component settings component-settings"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-settings/overview"
 category: "overview"
 topic: "analytics-platform/using/cja-dataviews/component-settings"
-created_at: "2026-07-17T14:27:36.079865+00:00"
+created_at: "2026-07-22T13:01:08.819937+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -9570,7 +9650,7 @@ title: "Component type settings in Data Views"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/component-type-settings-in-data-views"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/data-views/component-type-settings-in-data-views"
-created_at: "2026-07-17T14:31:07.006332+00:00"
+created_at: "2026-07-22T13:04:29.980657+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -9601,7 +9681,7 @@ title: "Components overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/overview"
 category: "overview"
 topic: "analytics-platform/using/cja-components/overview"
-created_at: "2026-07-17T14:28:10.176475+00:00"
+created_at: "2026-07-22T13:01:42.251014+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -9704,7 +9784,7 @@ title: "Configure a cohort table"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/cohort-table/t-cohort"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:32.987628+00:00"
+created_at: "2026-07-22T13:02:03.982438+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -9749,7 +9829,7 @@ title: "Configure a fallout visualization configure-fallout-visualization"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/fallout/configuring-fallout"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:31:05.219082+00:00"
+created_at: "2026-07-22T13:04:28.296623+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -9852,7 +9932,7 @@ title: "Configure a flow visualization configure-a-flow-visualization"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/flow/create-flow"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:30:28.854191+00:00"
+created_at: "2026-07-22T13:03:53.756944+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -9974,7 +10054,7 @@ title: "Configure a Journey canvas visualization"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/journey-canvas/configure-journey-canvas"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:31:52.788871+00:00"
+created_at: "2026-07-22T13:05:12.393940+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -10354,7 +10434,7 @@ title: "Configure and use the map visualization"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/configure-and-use-the-map-visualization"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations"
-created_at: "2026-07-17T14:32:53.360145+00:00"
+created_at: "2026-07-22T13:06:12.134498+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -10385,7 +10465,7 @@ title: "Configure audience analysis configure-audience-analysis"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-configure"
 category: "other"
 topic: "analytics-platform/using/cja-connections/audience-analysis"
-created_at: "2026-07-17T14:27:10.176567+00:00"
+created_at: "2026-07-22T13:00:42.747378+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -10451,7 +10531,7 @@ title: "Configure cloud export accounts"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/exports/cloud-export-accounts"
 category: "other"
 topic: "analytics-platform/using/cja-components/exports"
-created_at: "2026-07-17T14:30:02.584516+00:00"
+created_at: "2026-07-22T13:03:29.288079+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -10554,7 +10634,7 @@ title: "Configure cloud export locations configure-cloud-export-locations"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/exports/cloud-export-locations"
 category: "other"
 topic: "analytics-platform/using/cja-components/exports"
-created_at: "2026-07-17T14:30:03.718976+00:00"
+created_at: "2026-07-22T13:03:30.295730+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -10633,6 +10713,69 @@ recommendation-more-help
 
 
 ---
+# FILE: configure-consent-reporting-and-filtering.md
+---
+
+---
+title: "Configure consent reporting and filtering"
+url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/consent-reporting-filtering/consent-configure"
+category: "other"
+topic: "analytics-platform/using/cja-connections/consent-reporting-filtering"
+created_at: "2026-07-22T13:06:20.339024+00:00"
+---
+Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
+
+# Configure consent reporting and filtering
+
+Last update: July 14, 2026
+- Topics:
+- [Data governance](#)
+- [Integrations](#)
+
+CREATED FOR:
+
+- Admin
+
+System administrators can enable consent reporting and, optionally, consent filtering for one or more connections. For overview information, see [Consent reporting and filtering overview](/en/docs/analytics-platform/using/cja-connections/consent-reporting-filtering/consent-overview).
+
+IMPORTANT
+Consent filtering excludes non-consenting visitor data at ingest time. Data that is excluded by filtering is not stored in Customer Journey Analytics and cannot be recovered for past dates. Review your marketing action selections carefully before you enable filtering.
+## Create a configuration
+
+When you create a configuration for consent reporting and filtering, you select the sandbox and Profile dataset that contain your consent policy membership data, choose the connection or connections to configure, and choose whether to filter data for each marketing action. Customer Journey Analytics then creates the consent policy lookup dataset and the consent policy components automatically.
+
+To create a consent reporting and filtering configuration:
+
+- In Customer Journey Analytics, select Data Management > Consent reporting and filtering .
+- Select Create configuration .
+- In the Details section, specify the following information: table 0-row-2 1-row-2 2-row-2 Field Description Name Specify a name for the configuration. Sandbox Select the Experience Platform sandbox that contains the Profile dataset with your consent policy membership data. A maximum of one consent policy lookup dataset exists per sandbox. Multiple configurations in the same sandbox share the same lookup dataset.
+- In the Profile dataset section, select the Profile dataset that contains the consent policy membership data (the consentPoliciesIDMap field) that you want to report on. When you enable consent reporting, this Profile dataset is added to the connection that you select if it is not already part of it.
+- In the Connection section, select Select a connection , select the checkbox next to one or more connections to configure, then select Use connection . Consent reporting and filtering is applied at the connection level. All data views under a configured connection inherit the same behavior.
+- In the Data views section, click Select data views .
+- In the Data views dialog, select the checkbox next to one or more data views that you want to use for consent reporting. These data views are automatically configured with Experience Platform consent data for reporting.
+- Select Use data views .
+- (Optional) In the Filtering section, you can enable filtering for the following marketing actions: note NOTE When filtering for a marketing action is enabled, Customer Journey Analytics ingests a visitor’s data only if the visitor matches all consent policies that apply to that marketing action. For more information, see Consent filtering in Consent reporting and filtering overview . table 0-row-2 1-row-2 2-row-2 Marketing action Description Analytics Filter data used for standard Customer Journey Analytics reporting in Analysis Workspace. Data science Filter data used for advanced analytics, machine learning, and data science use cases.
+- Select Create to create the configuration. If you enabled reporting, Customer Journey Analytics automatically: Adds the selected Profile dataset to the connection. Creates a consent policy lookup dataset for the sandbox (if one does not already exist) and syncs policy names and descriptions from Experience Platform. Adds the consent policy components (dimensions, metrics, and a derived field) to the data views within the configured connection.
+- After the configuration completes, view the consent policy components in the data view to verify that they are available.
+
+## View consent policy components in the data view
+
+After you [create a configuration](#create-a-configuration), you can verify that the consent policy components were added to the data views under the configured connection.
+
+To view the consent policy components in the data view, you must be a product profile administrator for the product profile that the data view is assigned to. For more information, see [Access control](/en/docs/analytics-platform/using/technotes/access-control).
+
+To view the consent policy components in the data view:
+
+- In Customer Journey Analytics, select Data Management > Data views .
+- Open a data view that is associated with the configured connection.
+- In the Dimensions section, the following dimensions should now be available: Consent Policy ID Policy Name Policy Description
+- In the Metrics section, the following metrics should now be available: Visitors with Consent Events with Consent Unique Consent Policies TODO: Add a screenshot of the consent policy components in the data view (assets/consent-components-dataview.png).
+- Use the consent policy components in Analysis Workspace. Users who have access to the data view in Analysis Workspace can now see the new components and use them in their analyses. For information about how to use the consent policy components in Analysis Workspace, see Analyze consent policy data .
+
+recommendation-more-help
+
+
+---
 # FILE: configure-content-analytics.md
 ---
 
@@ -10641,7 +10784,7 @@ title: "Configure Content Analytics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/configuration"
 category: "other"
 topic: "analytics-platform/using/content-analytics/configuration"
-created_at: "2026-07-17T14:29:32.980350+00:00"
+created_at: "2026-07-22T13:03:02.401338+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -10724,7 +10867,7 @@ title: "Configure Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-data-mirror/configure/cja"
 category: "other"
 topic: "analytics-platform/using/cja-data-mirror/configure"
-created_at: "2026-07-17T14:27:03.591483+00:00"
+created_at: "2026-07-22T13:00:36.504622+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -10775,7 +10918,7 @@ title: "Configure Data warehouse native solutions"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-data-mirror/configure/datawarehouse"
 category: "other"
 topic: "analytics-platform/using/cja-data-mirror/configure"
-created_at: "2026-07-17T14:27:04.454256+00:00"
+created_at: "2026-07-22T13:00:37.224979+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -10872,7 +11015,7 @@ title: "Configure Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-data-mirror/configure/aep"
 category: "other"
 topic: "analytics-platform/using/cja-data-mirror/configure"
-created_at: "2026-07-17T14:27:02.793413+00:00"
+created_at: "2026-07-22T13:00:35.775986+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -10962,7 +11105,7 @@ title: "Configure streaming Google Analytics data"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/third-party/ga/streaming"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/third-party"
-created_at: "2026-07-17T14:32:41.601940+00:00"
+created_at: "2026-07-22T13:05:58.887525+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -10999,7 +11142,7 @@ title: "Configure your existing Adobe Analytics Web SDK implementation to send d
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/additional-information/cja-upgrade-existing-adobe-analytics-websdk"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:12.385825+00:00"
+created_at: "2026-07-22T13:02:42.292853+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -11059,7 +11202,7 @@ title: "Connect and validate"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-views/bi-extension/connect-and-validate"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-views"
-created_at: "2026-07-17T14:32:26.083538+00:00"
+created_at: "2026-07-22T13:05:44.658932+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -11148,7 +11291,7 @@ title: "Connect Customer Journey Analytics to Experience Platform data sources"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/connections/connecting-customer-journey-analytics-to-data-sources-in-platform"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/connections/connecting-customer-journey-analytics-to-data-sources-in-platform"
-created_at: "2026-07-17T14:27:18.100087+00:00"
+created_at: "2026-07-22T13:00:51.017792+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -11179,7 +11322,7 @@ title: "Connections overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/overview"
 category: "overview"
 topic: "analytics-platform/using/cja-connections/overview"
-created_at: "2026-07-17T14:22:15.615814+00:00"
+created_at: "2026-07-22T12:55:50.508420+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -11240,6 +11383,231 @@ recommendation-more-help
 
 
 ---
+# FILE: consent-reporting-and-filtering-overview.md
+---
+
+---
+title: "Consent reporting and filtering overview"
+url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/consent-reporting-filtering/consent-overview"
+category: "overview"
+topic: "analytics-platform/using/cja-connections/consent-reporting-filtering"
+created_at: "2026-07-22T13:06:07.604343+00:00"
+---
+Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
+
+# Consent reporting and filtering overview
+
+Last update: July 14, 2026
+- Topics:
+- [Data governance](#)
+- [Integrations](#)
+
+CREATED FOR:
+
+- Admin
+
+Consent reporting and filtering uses the consent policy membership data stored in your Adobe Experience Platform Profile datasets to help you report on visitor consent and, optionally, exclude non-consenting visitors before their data is ingested into Customer Journey Analytics.
+
+## Prerequisites
+
+Before you configure consent reporting and filtering, make sure that:
+
+- Your organization has licensed Adobe Healthcare Shield or Privacy & Security Shield.
+- You have system administrator permissions in Customer Journey Analytics.
+- The sandbox that you want to use contains a Profile dataset with consent policy membership data in the consentPoliciesIDMap field.
+- The connection that you want to configure already exists. For more information, see [Create or edit a connection](/en/docs/analytics-platform/using/cja-connections/create-connection).
+
+The following diagram and associated table show a high-level representation of how consent reporting and filtering makes consent policy data available in Analysis Workspace and filters visitor data at ingest time:
+
+Number
+Feature
+Function
+1
+Consent reporting and filtering configuration
+The configuration interface in Customer Journey Analytics used to enable consent reporting and, optionally, consent filtering.
+2
+Sandbox
+Must contain the Profile dataset that includes the consent policy membership data you want to report on.
+3
+Profile dataset
+Includes the consent policy membership data for each visitor. Consent policy membership is stored in the consentPoliciesIDMap field of a Profile dataset. This Profile dataset is added to the connection that you select.
+
+Each visitor’s profile lists the consent policies that the visitor matches. Customer Journey Analytics reads this field to make consent policies available for reporting and to evaluate which visitors to include during ingestion.
+
+4
+Consent policy lookup dataset
+Provides friendly policy names and descriptions for reporting. The lookup dataset is created automatically and kept in sync with Experience Platform. A maximum of one consent policy lookup dataset exists per sandbox.
+5
+Connection
+The connection where consent reporting and filtering is applied. All data views under the connection inherit the configuration.
+6
+Consent policy components
+New dimensions, metrics, and a derived field that represent consent policy membership. These components are created automatically and are available for reporting in Analysis Workspace.
+7
+Ingest-time filtering
+When filtering is enabled, non-consenting visitors are excluded during ingestion, based on the marketing actions that you configure.
+## Consent reporting vs. filtering
+
+Consent reporting and filtering are two separate capabilities. You can enable consent reporting on its own, or enable both reporting and filtering together.
+
+### Consent reporting
+
+When you enable consent reporting, Customer Journey Analytics adds a set of consent policy components to the data views under the configured connection. These components let you use Analysis Workspace to report on which visitors match the various consent policies, using the consent policy membership data in your Experience Platform Profile datasets.
+
+To keep reporting readable, Customer Journey Analytics syncs policy names and descriptions from Experience Platform into a consent policy lookup dataset. When a policy is created, updated, renamed, or deleted in Experience Platform, the lookup dataset is updated automatically.
+
+For information about the components that consent reporting creates, see [Analyze consent policy data](/en/docs/analytics-platform/using/cja-connections/consent-reporting-filtering/consent-analyze).
+
+### Consent filtering
+
+IMPORTANT
+Consent data that is filtered out (excluded) is not stored in Customer Journey Analytics and cannot be recovered for past dates by updating your configuration.
+When you enable consent filtering, Customer Journey Analytics excludes non-consenting visitors at ingest time. Because filtering happens at ingest time, the data for excluded visitors never enters Customer Journey Analytics and is not available for reporting.
+
+Consider the following when using consent filtering:
+
+- Customer Journey Analytics determines the consent policies that apply to the marketing actions you configured. A marketing action represents a category of data use. Customer Journey Analytics determines which consent policies apply to each marketing action, and you enable filtering for each marketing action independently when creating your configuration . table 0-row-2 1-row-2 2-row-2 Marketing action Description Analytics Standard Customer Journey Analytics reporting in Analysis Workspace. Data science Advanced analytics, machine learning, and data science use cases.
+- A visitor’s data is ingested only if the visitor matches all applicable consent policies. If a visitor is missing any applicable policy, that visitor’s data is excluded.
+
+## Configure consent reporting and filtering
+
+When you configure consent reporting and filtering, you select the sandbox and Profile dataset that contain your consent policy membership data, choose the connection or connections to configure, and choose whether to filter data for each marketing action. Customer Journey Analytics then creates the consent policy lookup dataset and the consent policy components automatically.
+
+For more information, see [Configure consent reporting and filtering](/en/docs/analytics-platform/using/cja-connections/consent-reporting-filtering/consent-configure).
+
+## Manage consent reporting and filtering configurations
+
+You can manage consent reporting and filtering configurations after they are created. You can view, edit, and delete configurations.
+
+For information about managing existing configurations, see [Manage consent reporting and filtering configurations](/en/docs/analytics-platform/using/cja-connections/consent-reporting-filtering/consent-manage).
+
+## Analyze consent policy data
+
+With consent policy data available in Customer Journey Analytics, you can report on which visitors match which consent policies and use that insight to understand consenting audiences across your reports.
+
+For more information, see [Analyze consent policy data](/en/docs/analytics-platform/using/cja-connections/consent-reporting-filtering/consent-analyze).
+
+## Consent reporting and filtering role and permission requirements
+
+The following Customer Journey Analytics roles and Experience Platform permissions are required for consent reporting and filtering:
+
+Capability
+Customer Journey Analytics role or permission requirements
+Experience Platform permission requirements
+Create consent reporting and filtering configurations
+System administrator
+- Datasets: Read, Write
+- Schemas: Read, Write
+
+Read access is required for the Profile dataset that contains the consent policy membership data. Write access is required because a consent policy lookup dataset is created and kept in sync.
+
+View consent policy components in the data view
+Product profile administrator for the product profile that the data view is assigned to
+
+For more information, see [Access control](/en/docs/analytics-platform/using/technotes/access-control).
+
+N/A
+Use consent policy components in Analysis Workspace
+Access to a data view where the consent policy components were added
+N/A
+## Consent reporting and filtering use cases
+
+For example use cases that highlight the value that consent reporting and filtering provides, see [Consent reporting and filtering use cases](/en/docs/analytics-platform/using/cja-connections/consent-reporting-filtering/consent-use-cases).
+
+## Consent reporting and filtering limits
+
+Consider the following limits when [configuring consent reporting and filtering](/en/docs/analytics-platform/using/cja-connections/consent-reporting-filtering/consent-configure):
+
+- A single sandbox can have only one consent policy lookup dataset. Multiple configurations in the same sandbox share that lookup dataset.
+- A connection can be associated with only one consent reporting and filtering configuration.
+
+recommendation-more-help
+
+
+---
+# FILE: consent-reporting-and-filtering-use-cases.md
+---
+
+---
+title: "Consent reporting and filtering use cases"
+url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/consent-reporting-filtering/consent-use-cases"
+category: "other"
+topic: "analytics-platform/using/cja-connections/consent-reporting-filtering"
+created_at: "2026-07-22T13:06:21.978738+00:00"
+---
+Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
+
+# Consent reporting and filtering use cases
+
+Last update: July 14, 2026
+- Topics:
+- [Data governance](#)
+
+CREATED FOR:
+
+- Admin
+
+Consent reporting and filtering helps you report on visitor consent policy membership and, optionally, exclude non-consenting visitors before their data enters Customer Journey Analytics. For overview information, see [Consent reporting and filtering overview](/en/docs/analytics-platform/using/cja-connections/consent-reporting-filtering/consent-overview).
+
+This article describes example use cases. Before you review them, become familiar with the considerations below, because they affect the results you see in your reports.
+
+## Reporting considerations
+
+- Filtering applies at the connection level : When you enable filtering, all data views under the configured connection inherit the same behavior. You cannot filter one data view under a connection differently from another.
+- Filtering uses inclusion logic : A visitor’s data is ingested only if the visitor matches all consent policies that apply to the enabled marketing actions. A visitor who is missing any applicable policy is excluded.
+- Excluded data is not recoverable : Because filtering happens at ingest time, data that is excluded is not stored in Customer Journey Analytics. Changing your configuration later does not recover excluded data for past dates.
+- Consent policy membership comes from the Profile dataset : Reporting reflects the consent policy membership present in the consentPoliciesIDMap field of the Profile dataset. A visitor must have a corresponding event in the connection to appear in reporting.
+
+## Example use cases
+
+### Use case 1: Report on consent without filtering data
+
+Understand how many visitors match each consent policy before you decide whether to filter, to answer questions like:
+
+- *“How many of our visitors have consented to analytics use?”*
+- *“Which consent policies have the most and least coverage across our visitors?”*
+
+**Configuration flow:**
+
+- Create a configuration and select the sandbox, Profile dataset, and connection that contain your consent policy membership data.
+- Leave both the Analytics and Data science filtering toggles off.
+- In Analysis Workspace, build a freeform table with the Policy Name dimension and the Visitors with Consent metric to see coverage per policy.
+
+Use these insights to decide whether to enable filtering and for which marketing actions.
+
+### Use case 2: Exclude non-consenting visitors from analytics reporting
+
+Make sure that standard reporting includes only visitors who have consented to analytics use, to answer questions like:
+
+- *“How does our audience behave when we report only on consenting visitors?”*
+- *“Can we make sure non-consenting visitor data never enters our analytics reports?”*
+
+**Configuration flow:**
+
+- Create or edit a configuration for the connection that powers your analytics reporting.
+- Enable the Analytics filtering toggle.
+- Confirm the configuration. From this point forward, Customer Journey Analytics ingests a visitor’s data only if the visitor matches all consent policies that apply to the analytics marketing action.
+
+Because filtering happens at ingest time, downstream reports, exports, and APIs automatically reflect only consenting visitors, with no report-time changes required.
+
+### Use case 3: Filter analytics and data science use cases independently
+
+Apply different consent requirements to standard reporting and to data science use cases, to answer questions like:
+
+- *“Can we include a broader set of visitors in analytics while applying stricter consent for machine learning?”*
+
+**Configuration flow:**
+
+- Create or edit a configuration for the relevant connection.
+- Enable the Analytics toggle, the Data science toggle, or both, depending on the consent requirements for each use case.
+- Confirm the configuration. Customer Journey Analytics evaluates the consent policies that apply to each enabled marketing action independently.
+
+Use this approach when your organization applies different consent requirements to different categories of data use.
+
+recommendation-more-help
+
+
+---
 # FILE: content-analytics-components.md
 ---
 
@@ -11248,7 +11616,7 @@ title: "Content Analytics components"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/components"
 category: "other"
 topic: "analytics-platform/using/content-analytics/report"
-created_at: "2026-07-17T14:29:34.946261+00:00"
+created_at: "2026-07-22T13:03:04.169085+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -11537,7 +11905,7 @@ title: "Content Analytics data collection"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/datacollection"
 category: "other"
 topic: "analytics-platform/using/content-analytics/configuration"
-created_at: "2026-07-17T14:29:34.113364+00:00"
+created_at: "2026-07-22T13:03:03.347639+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -11674,7 +12042,7 @@ title: "Content Analytics guided configuration"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/guided"
 category: "guides"
 topic: "analytics-platform/using/content-analytics/configuration"
-created_at: "2026-07-17T14:30:32.352330+00:00"
+created_at: "2026-07-22T13:03:57.727604+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -11930,7 +12298,7 @@ title: "Content Analytics JavaScript library"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/tags-agnostic"
 category: "other"
 topic: "analytics-platform/using/content-analytics/configuration"
-created_at: "2026-07-17T14:30:34.209519+00:00"
+created_at: "2026-07-22T13:04:00.054106+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -12085,7 +12453,7 @@ title: "Content Analytics manual configuration"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/manual"
 category: "other"
 topic: "analytics-platform/using/content-analytics/configuration"
-created_at: "2026-07-17T14:32:10.892918+00:00"
+created_at: "2026-07-22T13:05:29.811536+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -12175,7 +12543,7 @@ title: "Content Analytics overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/content-analytics"
 category: "overview"
 topic: "analytics-platform/using/content-analytics/content-analytics"
-created_at: "2026-07-17T14:22:48.420913+00:00"
+created_at: "2026-07-22T12:56:22.150395+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -12248,7 +12616,7 @@ title: "Content Analytics reporting overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/report"
 category: "overview"
 topic: "analytics-platform/using/content-analytics/report"
-created_at: "2026-07-17T14:29:35.855515+00:00"
+created_at: "2026-07-22T13:03:04.983135+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -12383,7 +12751,7 @@ title: "Conversion trends analysis conversion-trends"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/conversion-trends"
 category: "guides"
 topic: "analytics-platform/using/guided-analysis/conversion-trends"
-created_at: "2026-07-17T14:29:38.345615+00:00"
+created_at: "2026-07-22T13:03:07.229196+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -12462,7 +12830,7 @@ title: "Copy calculated metrics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/cm-copy"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-calcmetrics"
-created_at: "2026-07-17T14:31:29.650532+00:00"
+created_at: "2026-07-22T13:04:50.539041+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -12498,7 +12866,7 @@ title: "Copy segments"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/seg-copy"
 category: "other"
 topic: "analytics-platform/using/cja-components/segments"
-created_at: "2026-07-17T14:32:12.382650+00:00"
+created_at: "2026-07-22T13:05:31.248247+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -12532,7 +12900,7 @@ title: "Count distinct values dimensions"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-views/bi-extension/count-distinct-dimension-values"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-views"
-created_at: "2026-07-17T14:32:27.180621+00:00"
+created_at: "2026-07-22T13:05:45.649981+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -12583,7 +12951,7 @@ title: "Create a custom schema for the Analytics source connector create-custom-
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/historical-data-source-connector/cja-upgrade-source-connector-schema"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:29.003119+00:00"
+created_at: "2026-07-22T13:02:58.461347+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -12648,7 +13016,7 @@ title: "Create a custom schema to use with Customer Journey Analytics create-cus
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/schema/cja-upgrade-schema-create"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:31.441476+00:00"
+created_at: "2026-07-22T13:03:00.970707+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -12712,7 +13080,7 @@ title: "Create a data block"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-reportbuilder/create-a-data-block"
 category: "other"
 topic: "analytics-platform/using/cja-reportbuilder/create-a-data-block"
-created_at: "2026-07-17T14:30:12.798498+00:00"
+created_at: "2026-07-22T13:03:38.592675+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -12768,7 +13136,7 @@ title: "Create a data view in Customer Journey Analytics upgrade-create-dataview
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/cja-upgrade-dataview"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:17.037656+00:00"
+created_at: "2026-07-22T13:02:46.903730+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -12813,7 +13181,7 @@ title: "Create a dataset to use with Customer Journey Analytics upgrade-create-d
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/create-datasets/cja-upgrade-dataset"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:20.254834+00:00"
+created_at: "2026-07-22T13:02:49.852482+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -12859,7 +13227,7 @@ title: "Create a datastream to use with Customer Journey Analytics upgrade-creat
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/create-datastream/cja-upgrade-datastream"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:22.676916+00:00"
+created_at: "2026-07-22T13:02:52.076206+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -12906,7 +13274,7 @@ title: "Create a fallout visualization"
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/analyzing-customer-journeys/fallout-visualization"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:31:51.691692+00:00"
+created_at: "2026-07-22T13:05:11.162117+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -12940,7 +13308,7 @@ title: "Create a flow visualization"
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/analyzing-customer-journeys/flow-visualization"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:31:53.571685+00:00"
+created_at: "2026-07-22T13:05:13.135023+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -12974,7 +13342,7 @@ title: "Create a marketing channel derived field for Customer Journey Analytics 
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/cja-upgrade-marketing-channel"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:32:08.606061+00:00"
+created_at: "2026-07-22T13:05:27.554157+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -13019,7 +13387,7 @@ title: "Create a mobile scorecard create-a-mobile-scorecard"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dashboards/create-scorecard"
 category: "other"
 topic: "analytics-platform/using/cja-dashboards/create-scorecard"
-created_at: "2026-07-17T14:27:23.761443+00:00"
+created_at: "2026-07-22T13:00:56.471499+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -13278,7 +13646,7 @@ title: "Create a mobile scorecard"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/dashboards/create-a-mobile-scorecard"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/dashboards/create-a-mobile-scorecard"
-created_at: "2026-07-17T14:31:01.771824+00:00"
+created_at: "2026-07-22T13:04:24.790385+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -13312,7 +13680,7 @@ title: "Create a quick segment"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/components/filters/create-a-quick-filter"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/components/filters"
-created_at: "2026-07-17T14:31:48.612977+00:00"
+created_at: "2026-07-22T13:05:08.353461+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -13346,7 +13714,7 @@ title: "Create a Table of Contents in Analysis Workspace create-a-table-of-conte
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:31:37.630564+00:00"
+created_at: "2026-07-22T13:04:58.413544+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -13379,7 +13747,7 @@ title: "Create a tag for your property upgrade-tag-property"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/create-tags/cja-upgrade-tag-property"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:25.626418+00:00"
+created_at: "2026-07-22T13:02:55.379896+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -13423,7 +13791,7 @@ title: "Create alerts create-alerts"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/alerts/alert-builder"
 category: "other"
 topic: "analytics-platform/using/cja-components/alerts"
-created_at: "2026-07-17T14:32:03.106215+00:00"
+created_at: "2026-07-22T13:05:21.925446+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -13526,7 +13894,7 @@ title: "Create and configure a connection to use with Customer Journey Analytics
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/cja-upgrade-connection"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:16.291012+00:00"
+created_at: "2026-07-22T13:02:46.192445+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -13577,7 +13945,7 @@ title: "Create and manage templates"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/templates/create-templates?lang=en"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/templates"
-created_at: "2026-07-17T14:29:05.550683+00:00"
+created_at: "2026-07-22T13:02:35.897337+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -13675,7 +14043,7 @@ title: "Create and manage templates"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/templates/create-templates"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/templates"
-created_at: "2026-07-17T14:29:04.637340+00:00"
+created_at: "2026-07-22T13:02:35.035889+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -13773,7 +14141,7 @@ title: "Create and publish audiences create-and-publish-audiences"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/audiences/publish?lang=en"
 category: "other"
 topic: "analytics-platform/using/cja-components/audiences"
-created_at: "2026-07-17T14:29:53.639045+00:00"
+created_at: "2026-07-22T13:03:20.940435+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -13982,7 +14350,7 @@ title: "Create and publish audiences create-and-publish-audiences"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/audiences/publish"
 category: "other"
 topic: "analytics-platform/using/cja-components/audiences"
-created_at: "2026-07-17T14:29:52.345893+00:00"
+created_at: "2026-07-22T13:03:20.071138+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -14191,7 +14559,7 @@ title: "Create annotations"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/annotations/create-annotations"
 category: "other"
 topic: "analytics-platform/using/cja-components/annotations"
-created_at: "2026-07-17T14:31:25.221551+00:00"
+created_at: "2026-07-22T13:04:46.133198+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -14243,7 +14611,7 @@ title: "Create calculated metrics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/cm-workflow"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-calcmetrics"
-created_at: "2026-07-17T14:31:28.132355+00:00"
+created_at: "2026-07-22T13:04:49.095321+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -14312,7 +14680,7 @@ title: "Create date ranges"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-date-ranges/create"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-date-ranges"
-created_at: "2026-07-17T14:31:34.255345+00:00"
+created_at: "2026-07-22T13:04:55.231625+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -14360,7 +14728,7 @@ title: "Create derived fields in Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields/derived-fields-in-cja"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/data-views/derived-fields"
-created_at: "2026-07-17T14:33:00.145040+00:00"
+created_at: "2026-07-22T13:06:17.509309+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -14399,7 +14767,7 @@ title: "Create derived fields in Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja"
-created_at: "2026-07-17T14:32:40.031280+00:00"
+created_at: "2026-07-22T13:05:57.470382+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -14438,7 +14806,7 @@ title: "Create dynamic drop-down segments in Analysis Workspace"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/tips-and-tricks/dynamic-drop-downs"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/analysis-workspace/tips-and-tricks"
-created_at: "2026-07-17T14:28:41.382601+00:00"
+created_at: "2026-07-22T13:02:11.639822+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -14471,7 +14839,7 @@ title: "Create folders"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/build-workspace-project/workspace-folders/create-folders"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/build-workspace-project"
-created_at: "2026-07-17T14:27:55.979670+00:00"
+created_at: "2026-07-22T13:01:29.001237+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -14510,7 +14878,7 @@ title: "Create hyperlinks in freeform tables"
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/tips-and-tricks/create-hyperlinks-in-freeform-tables"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:32:49.458111+00:00"
+created_at: "2026-07-22T13:06:08.152392+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -14542,7 +14910,7 @@ title: "Create hyperlinks in freeform tables"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/freeform-table-hyperlinks"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:30:59.090575+00:00"
+created_at: "2026-07-22T13:04:22.485396+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -14617,7 +14985,7 @@ title: "Create intelligent captions"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/intelligent-captions"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations"
-created_at: "2026-07-17T14:32:07.004509+00:00"
+created_at: "2026-07-22T13:05:25.835966+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -14650,7 +15018,7 @@ title: "Create lookup datasets to classify data in Customer Journey Analytics up
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/create-datasets/cja-upgrade-dataset-lookup"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:21.842023+00:00"
+created_at: "2026-07-22T13:02:51.284407+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -14745,7 +15113,7 @@ title: "Create or edit a connection create-or-edit-a-connection"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/create-connection"
 category: "other"
 topic: "analytics-platform/using/cja-connections/create-connection"
-created_at: "2026-07-17T14:22:13.741330+00:00"
+created_at: "2026-07-22T12:55:48.571673+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -15445,7 +15813,7 @@ title: "Create or edit a data view"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/create-dataview"
 category: "other"
 topic: "analytics-platform/using/cja-dataviews/create-dataview"
-created_at: "2026-07-17T14:22:26.605075+00:00"
+created_at: "2026-07-22T12:56:01.086528+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -15721,7 +16089,7 @@ title: "Create projects create-projects"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/build-workspace-project/create-projects"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/build-workspace-project"
-created_at: "2026-07-17T14:27:54.517897+00:00"
+created_at: "2026-07-22T13:01:27.580401+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -15790,7 +16158,7 @@ title: "Create segments"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/create-filters"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-segments"
-created_at: "2026-07-17T14:31:59.036007+00:00"
+created_at: "2026-07-22T13:05:18.375425+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -15836,7 +16204,7 @@ title: "Create segments"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/seg-create"
 category: "other"
 topic: "analytics-platform/using/cja-components/segments"
-created_at: "2026-07-17T14:28:11.021412+00:00"
+created_at: "2026-07-22T13:01:42.999842+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -15882,7 +16250,7 @@ title: "Create shareable links"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/curate-share/shareable-links"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/curate-share"
-created_at: "2026-07-17T14:28:01.261030+00:00"
+created_at: "2026-07-22T13:01:33.981347+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -15937,7 +16305,7 @@ title: "Create the Analytics source connector and map fields create-source-conne
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/historical-data-source-connector/cja-upgrade-source-connector"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:27.337029+00:00"
+created_at: "2026-07-22T13:02:56.994304+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -16000,7 +16368,7 @@ title: "Cross-channel analysis cross-channel"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/cross-channel"
-created_at: "2026-07-17T14:27:12.410831+00:00"
+created_at: "2026-07-22T13:00:45.058165+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -16052,7 +16420,7 @@ title: "Cross-Channel Attribution in Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations"
-created_at: "2026-07-17T14:30:49.108164+00:00"
+created_at: "2026-07-22T13:04:13.458177+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -16085,7 +16453,7 @@ title: "Cross-IMS data mapping"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/cja-aa-comparison/mapping-data-ims-orgs"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/cja-aa-comparison"
-created_at: "2026-07-17T14:32:47.897665+00:00"
+created_at: "2026-07-22T13:06:06.864276+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -16174,7 +16542,7 @@ title: "Curate and share projects overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/curate-share/send-schedule-files"
 category: "overview"
 topic: "analytics-platform/using/cja-workspace/curate-share"
-created_at: "2026-07-17T14:28:14.957449+00:00"
+created_at: "2026-07-22T13:01:46.199671+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -16219,7 +16587,7 @@ title: "Curate projects"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/curate-share/curate"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/curate-share"
-created_at: "2026-07-17T14:27:57.457422+00:00"
+created_at: "2026-07-22T13:01:30.444500+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -16305,7 +16673,7 @@ title: "Curator tasks"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dashboards/curator"
 category: "other"
 topic: "analytics-platform/using/cja-dashboards/curator"
-created_at: "2026-07-17T14:27:24.490953+00:00"
+created_at: "2026-07-22T13:00:57.174603+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -16337,7 +16705,7 @@ title: "Current Customer Journey Analytics release notes (July 2026)"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest"
 category: "release-notes"
 topic: "analytics-platform/using/releases/latest"
-created_at: "2026-07-17T14:22:52.011329+00:00"
+created_at: "2026-07-22T12:56:25.671962+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -16362,13 +16730,11 @@ These release notes cover the July 2026 release period. Adobe Customer Journey A
 Feature and description
 Rollout starts
 General Availability
-**Sub-event analysis**Sub-event analysis lets you analyze data at a level more granular than the event level. Instead of filtering on entire events, you can segment on individual containers within an event.
+**Sub-event analysis**[Sub-event analysis](/en/docs/analytics-platform/using/cja-components/segments/sub-event) lets you analyze data at a level more granular than the event level. Instead of filtering on entire events, you can segment on individual containers within an event.
 
-For example, you can segment on a specific product category without including all other products purchased in the same order. You can also define objects or arrays that are part of your event data as separate containers within a data view.
+For example, you can segment on a specific product category without including all other products purchased in the same order. You can also define objects or arrays that are part of your event data as separate [custom containers](/en/docs/analytics-platform/using/cja-dataviews/create-dataview#custom-containers) within a data view.
 
-(Documentation link to follow.)
-
-July 15, 2026
+July 21, 2026
 End of July, 2026
 **B2B Edition: Support for ad hoc and relational datasets**Ad hoc and relational datasets are now also supported in account-based connections in Customer Journey Analytics B2B Edition.
 
@@ -16394,6 +16760,11 @@ This skill automatically compares each dimension, metric, and trend individually
 (Documentation link to follow.)
 
 End of July, 2026
+Inline classifications
+Inline classifications
+enable you to rename or combine rows in a freeform table. And to create a derived field from the modified rows in a table.
+July 20, 2026
+July 25, 2026
 ### Fixes in Customer Journey Analytics
 
 **Analysis Workspace**: AN-457527, AN-451161, AN-459034, AN-458071, AN-458398**Components**:**Connections**: AN-457065**Content Analytics**:**Guided analysis**:**Exports**:**Data views**: AN-453201**Data ingestion**:**Implementation**:**Report Builder**: AN-457533, AN-453683**Reporting**: AN-457607, AN-447692, AN-451259, AN-455713**Segmentation**:**Scheduled reports**: AN-450715**Shared metrics and dimensions**:**Audience Analysis**:**Other**: AN-457063
@@ -16443,7 +16814,7 @@ title: "Customer Journey Analytics B2B Edition"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2b/cja-b2b-edition?lang=en"
 category: "overview"
 topic: "analytics-platform/using/cja-overview/cja-b2b"
-created_at: "2026-07-17T14:28:59.226392+00:00"
+created_at: "2026-07-22T13:02:29.632192+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -16502,7 +16873,7 @@ title: "Customer Journey Analytics B2B Edition"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2b/cja-b2b-edition"
 category: "overview"
 topic: "analytics-platform/using/cja-overview/cja-b2b"
-created_at: "2026-07-17T14:22:32.563655+00:00"
+created_at: "2026-07-22T12:56:06.338272+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -16561,7 +16932,7 @@ title: "Customer Journey Analytics BI extension"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/bi-extension"
 category: "other"
 topic: "analytics-platform/using/cja-dataviews/bi-extension"
-created_at: "2026-07-17T14:30:08.271406+00:00"
+created_at: "2026-07-22T13:03:34.654564+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -17195,7 +17566,7 @@ title: "Customer Journey Analytics - documentation updates"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/doc-changes"
 category: "other"
 topic: "analytics-platform/using/releases/doc-changes"
-created_at: "2026-07-17T14:22:51.163476+00:00"
+created_at: "2026-07-22T12:56:24.842065+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -17222,6 +17593,17 @@ The following updates were made to the Customer Journey Analytics documentation 
 
 Feature
 Description
+July 2026
+Sub-event analysis
+Documentation for
+sub-event analysis
+and
+custom containers
+.
+Inline classifications
+Documentation for
+inline classifications
+.
 June 2026
 New GA4 guide
 Added
@@ -18418,13 +18800,13 @@ title: "Customer Journey Analytics documentation"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics"
 category: "other"
 topic: "customer-journey-analytics"
-created_at: "2026-07-17T14:22:55.095030+00:00"
+created_at: "2026-07-22T12:56:27.985558+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
 # Customer Journey Analytics documentation
 
-Welcome to the Adobe Customer Journey Analytics documentation home page. Find self-help, support, and tutorial information with our array of product and technical documentation for Customer Journey Analytics (CJA).Get started with introductory guides and learn how to best implement CJA for your business. If you’re already an experienced user, explore our in-depth videos and tutorials to connect your channel data and gain vital insights to help improve performance. Explore our full range of Adobe Customer Journey Analytics docs today.
+Welcome to the Adobe Customer Journey Analytics documentation home page, your hub for guides, tutorials, and resources covering connections, data views, Analysis Workspace, data governance, and more.
 
 ## Guides lists-documentation-1
 
@@ -18471,7 +18853,7 @@ title: "Customer Journey Analytics feature release strategy"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/releases"
 category: "other"
 topic: "analytics-platform/using/releases/releases"
-created_at: "2026-07-17T14:27:41.204553+00:00"
+created_at: "2026-07-22T13:01:14.124685+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -18532,7 +18914,7 @@ title: "Customer Journey Analytics feature support"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/cja-aa-comparison/cja-aa"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/cja-aa-comparison"
-created_at: "2026-07-17T14:22:44.494397+00:00"
+created_at: "2026-07-22T12:56:17.816185+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -18886,7 +19268,7 @@ title: "Customer Journey Analytics guardrails"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/guardrails"
 category: "other"
 topic: "analytics-platform/using/technotes/guardrails"
-created_at: "2026-07-17T14:30:41.324192+00:00"
+created_at: "2026-07-22T13:04:06.696955+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -19435,7 +19817,7 @@ title: "Customer Journey Analytics Guide"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-landing"
 category: "overview"
 topic: "analytics-platform/using/cja-landing"
-created_at: "2026-07-17T14:20:06.241156+00:00"
+created_at: "2026-07-22T12:53:40.774690+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -19618,7 +20000,7 @@ title: "Customer Journey Analytics hosting locations"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/data-centers"
 category: "other"
 topic: "analytics-platform/using/technotes/data-centers"
-created_at: "2026-07-17T14:30:40.171133+00:00"
+created_at: "2026-07-22T13:04:05.724852+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -19662,7 +20044,7 @@ title: "Customer Journey Analytics landing page"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/cja-basics/customer-journey-analytics-landing-page"
 category: "overview"
 topic: "customer-journey-analytics-learn/tutorials/cja-basics/customer-journey-analytics-landing-page"
-created_at: "2026-07-17T14:31:21.050430+00:00"
+created_at: "2026-07-22T13:04:42.449255+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -19695,7 +20077,7 @@ title: "Customer Journey Analytics landing page"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/landing"
 category: "overview"
 topic: "analytics-platform/using/cja-overview/landing"
-created_at: "2026-07-17T14:32:55.069912+00:00"
+created_at: "2026-07-22T13:06:12.779474+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -19854,7 +20236,7 @@ title: "Customer Journey Analytics landing page"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/landing"
 category: "overview"
 topic: "analytics-platform/using/cja-overview/cja-b2c-overview"
-created_at: "2026-07-17T14:28:00.474348+00:00"
+created_at: "2026-07-22T13:01:33.282981+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -20013,7 +20395,7 @@ title: "Customer Journey Analytics overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-overview"
 category: "overview"
 topic: "analytics-platform/using/cja-overview/cja-overview"
-created_at: "2026-07-17T14:27:45.237642+00:00"
+created_at: "2026-07-22T13:01:17.136471+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -20133,7 +20515,7 @@ title: "Customer Journey Analytics overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview"
 category: "overview"
 topic: "analytics-platform/using/cja-overview/cja-b2c-overview"
-created_at: "2026-07-17T14:20:07.092469+00:00"
+created_at: "2026-07-22T12:53:41.584582+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -20253,7 +20635,7 @@ title: "Customer Journey Analytics tutorials"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/overview"
 category: "overview"
 topic: "customer-journey-analytics-learn/tutorials/overview"
-created_at: "2026-07-17T14:22:55.816723+00:00"
+created_at: "2026-07-22T12:56:28.702386+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -20301,7 +20683,7 @@ title: "Customer-managed keys"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-privacy/cmk"
 category: "other"
 topic: "analytics-platform/using/cja-privacy/cmk"
-created_at: "2026-07-17T14:27:15.944129+00:00"
+created_at: "2026-07-22T13:00:48.611905+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -20350,7 +20732,7 @@ title: "Daily trend"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-views/bi-extension/daily-trend"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-views"
-created_at: "2026-07-17T14:32:27.942202+00:00"
+created_at: "2026-07-22T13:05:46.497509+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -20400,7 +20782,7 @@ title: "Data Dictionary overview data-dictionary-overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview"
 category: "overview"
 topic: "analytics-platform/using/cja-components/data-dictionary"
-created_at: "2026-07-17T14:28:09.225462+00:00"
+created_at: "2026-07-22T13:01:41.462286+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -20488,7 +20870,7 @@ title: "Data export use cases data-export-use-cases"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-export/overview"
 category: "overview"
 topic: "analytics-platform/using/cja-usecases/data-export"
-created_at: "2026-07-17T14:30:15.957224+00:00"
+created_at: "2026-07-22T13:03:41.544405+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -20590,7 +20972,7 @@ title: "Data ingestion overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-data-ingestion/data-ingestion"
 category: "overview"
 topic: "analytics-platform/using/cja-data-ingestion/data-ingestion"
-created_at: "2026-07-17T14:22:18.107437+00:00"
+created_at: "2026-07-22T12:55:52.861376+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -20708,7 +21090,7 @@ title: "Data storytelling: Generate slide presentations from Workspace reports g
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/curate-share/generate-slides"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/curate-share"
-created_at: "2026-07-17T14:30:50.843767+00:00"
+created_at: "2026-07-22T13:04:15.151691+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -20823,7 +21205,7 @@ title: "Data views overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/data-views"
 category: "overview"
 topic: "analytics-platform/using/cja-dataviews/data-views"
-created_at: "2026-07-17T14:22:27.408271+00:00"
+created_at: "2026-07-22T12:56:01.838212+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -20907,7 +21289,7 @@ title: "Data views use cases"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-views/data-views-usecases"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-views"
-created_at: "2026-07-17T14:27:28.925169+00:00"
+created_at: "2026-07-22T13:01:01.314349+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -21039,7 +21421,7 @@ title: "Date comparison"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-date-ranges/time-comparison"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-date-ranges"
-created_at: "2026-07-17T14:32:54.116789+00:00"
+created_at: "2026-07-22T13:06:04.518795+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -21100,7 +21482,7 @@ title: "Date ranges overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-date-ranges/overview"
 category: "overview"
 topic: "analytics-platform/using/cja-components/cja-date-ranges"
-created_at: "2026-07-17T14:28:08.391471+00:00"
+created_at: "2026-07-22T13:01:40.658751+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -21208,7 +21590,7 @@ title: "Deletion and reset implications"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/deletion"
 category: "other"
 topic: "analytics-platform/using/technotes/deletion"
-created_at: "2026-07-17T14:27:19.639022+00:00"
+created_at: "2026-07-22T13:00:52.719341+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -21304,7 +21686,7 @@ title: "Derived fields derived-fields"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields"
 category: "other"
 topic: "analytics-platform/using/cja-dataviews/derived-fields"
-created_at: "2026-07-17T14:22:30.078973+00:00"
+created_at: "2026-07-22T12:56:04.025866+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -22681,6 +23063,10 @@ You create a Second Response derived field to take the last value from the Respo
 | will recommend to others | 2 |
 | will not recommend to others | 1 |
 
+## Custom container
+
+The derived field becomes available as a [custom container](/en/docs/analytics-platform/using/cja-dataviews/create-dataview#containers-1) you can select in your data view and use for [sub-event analysis](/en/docs/analytics-platform/using/cja-components/segments/sub-event) in a workspace project.
+
 ### Summarize summarize
 
 Applies aggregation-type functions to metrics or dimensions at event, session, and user levels.
@@ -23029,7 +23415,7 @@ title: "Derived fields guidelines"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-views/derived-fields/guidelines"
 category: "guides"
 topic: "analytics-platform/using/cja-usecases/data-views"
-created_at: "2026-07-17T14:27:47.218529+00:00"
+created_at: "2026-07-22T13:01:18.785363+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -23346,7 +23732,7 @@ title: "Dimensions overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/dimensions/overview"
 category: "overview"
 topic: "analytics-platform/using/cja-components/dimensions"
-created_at: "2026-07-17T14:27:46.073104+00:00"
+created_at: "2026-07-22T13:01:17.852039+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -23447,7 +23833,7 @@ title: "Disable Adobe Analytics disable-appmeasurement"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/cja-upgrade-disable-appmeasurement"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:32:09.387604+00:00"
+created_at: "2026-07-22T13:05:28.247741+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -23486,7 +23872,7 @@ title: "Domains used by Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/domains"
 category: "other"
 topic: "analytics-platform/using/technotes/domains"
-created_at: "2026-07-17T14:30:57.335353+00:00"
+created_at: "2026-07-22T13:04:20.603145+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -23546,7 +23932,7 @@ title: "Donut donut"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/donut"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:33.864838+00:00"
+created_at: "2026-07-22T13:02:04.783201+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -23590,7 +23976,7 @@ title: "Download projects and data"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/export/download-send"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/export"
-created_at: "2026-07-17T14:27:09.245130+00:00"
+created_at: "2026-07-22T13:00:41.876397+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -23732,7 +24118,7 @@ title: "Dynamic and static dimension items"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/column-row-settings/manual-vs-dynamic-rows"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:48.918993+00:00"
+created_at: "2026-07-22T13:02:18.925701+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -23793,7 +24179,7 @@ title: "Easy drag and drop to blank projects"
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:31:43.213902+00:00"
+created_at: "2026-07-22T13:05:02.994357+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -23825,7 +24211,7 @@ title: "Edit component entries"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/data-dictionary/edit-entries-data-dictionary"
 category: "other"
 topic: "analytics-platform/using/cja-components/data-dictionary"
-created_at: "2026-07-17T14:29:59.718240+00:00"
+created_at: "2026-07-22T13:03:26.866584+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -23866,7 +24252,7 @@ title: "Enable stitching"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/stitching/use-stitching-ui"
 category: "other"
 topic: "analytics-platform/using/stitching/use-stitching-ui"
-created_at: "2026-07-17T14:22:54.282080+00:00"
+created_at: "2026-07-22T12:56:27.258130+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -23984,7 +24370,7 @@ title: "Engagement analysis engagement"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/engagement"
 category: "guides"
 topic: "analytics-platform/using/guided-analysis/engagement"
-created_at: "2026-07-17T14:29:39.107999+00:00"
+created_at: "2026-07-22T13:03:08.080928+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -24065,7 +24451,7 @@ title: "Errors and troubleshooting"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/workspace-faq"
-created_at: "2026-07-17T14:30:30.722772+00:00"
+created_at: "2026-07-22T13:03:56.145596+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -24142,7 +24528,7 @@ title: "Evaluate when to disable Adobe Analytics after upgrading to Customer Jou
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/cja-upgrade-fully-move"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:17.921806+00:00"
+created_at: "2026-07-22T13:02:47.725591+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -24216,7 +24602,7 @@ title: "Evolution from Adobe Analytics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/aa-to-cja"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/aa-to-cja"
-created_at: "2026-07-17T14:22:42.577231+00:00"
+created_at: "2026-07-22T12:56:16.220328+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -24321,7 +24707,7 @@ title: "Example custom date ranges"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-date-ranges/custom-date-ranges"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-date-ranges"
-created_at: "2026-07-17T14:29:57.268488+00:00"
+created_at: "2026-07-22T13:03:24.451800+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -24372,7 +24758,7 @@ title: "Executive user quick start guide"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dashboards/executive"
 category: "guides"
 topic: "analytics-platform/using/cja-dashboards/executive"
-created_at: "2026-07-17T14:27:25.215066+00:00"
+created_at: "2026-07-22T13:00:58.149500+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -24484,7 +24870,7 @@ title: "Experience Platform Data Mirror considerations"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-data-mirror/considerations"
 category: "other"
 topic: "analytics-platform/using/cja-data-mirror/considerations"
-created_at: "2026-07-17T14:30:06.755198+00:00"
+created_at: "2026-07-22T13:03:33.284004+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -24586,7 +24972,7 @@ title: "Experience Platform Data Mirror overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-data-mirror/data-mirror"
 category: "overview"
 topic: "analytics-platform/using/cja-data-mirror/data-mirror"
-created_at: "2026-07-17T14:20:08.477560+00:00"
+created_at: "2026-07-22T12:53:43.005195+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -24650,7 +25036,7 @@ title: "Experimentation panel experimentation-panel"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/experimentation"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/panels"
-created_at: "2026-07-17T14:28:18.270245+00:00"
+created_at: "2026-07-22T13:01:49.453746+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -24793,7 +25179,7 @@ title: "Export datasets"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-export/export-datasets"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-export"
-created_at: "2026-07-17T14:32:23.318963+00:00"
+created_at: "2026-07-22T13:05:42.026742+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -24904,7 +25290,7 @@ title: "Export full table"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-export/export-full-table"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-export"
-created_at: "2026-07-17T14:32:24.072726+00:00"
+created_at: "2026-07-22T13:05:42.736439+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -24947,7 +25333,7 @@ title: "Export full tables to the cloud full-table-export"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/export/export-cloud"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/export"
-created_at: "2026-07-17T14:27:07.647347+00:00"
+created_at: "2026-07-22T13:00:40.107952+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -25338,7 +25724,7 @@ title: "Export overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/export/export-project-overview"
 category: "overview"
 topic: "analytics-platform/using/cja-workspace/export"
-created_at: "2026-07-17T14:30:55.629248+00:00"
+created_at: "2026-07-22T13:04:19.074872+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -25400,7 +25786,7 @@ title: "Fallout overview fallout-overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/fallout/fallout-flow"
 category: "overview"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:34.614850+00:00"
+created_at: "2026-07-22T13:02:05.528555+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -25547,7 +25933,7 @@ title: "Field-based stitching"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/stitching/fbs"
 category: "other"
 topic: "analytics-platform/using/stitching/fbs"
-created_at: "2026-07-17T14:30:45.010119+00:00"
+created_at: "2026-07-22T13:04:09.874705+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -25702,7 +26088,7 @@ title: "Filter and sort freeform tables"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/filter-and-sort"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:49.774837+00:00"
+created_at: "2026-07-22T13:02:19.728678+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -25849,7 +26235,7 @@ title: "Filter dimensions"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-reportbuilder/filter-dimensions"
 category: "other"
 topic: "analytics-platform/using/cja-reportbuilder/filter-dimensions"
-created_at: "2026-07-17T14:32:19.313229+00:00"
+created_at: "2026-07-22T13:05:38.176275+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -26007,7 +26393,7 @@ title: "Filter the list of calculated metrics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/cm-filter"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-calcmetrics"
-created_at: "2026-07-17T14:31:31.144480+00:00"
+created_at: "2026-07-22T13:04:52.399442+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -26087,7 +26473,7 @@ title: "Filter the list of segments"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/seg-filter"
 category: "other"
 topic: "analytics-platform/using/cja-components/segments"
-created_at: "2026-07-17T14:32:13.908603+00:00"
+created_at: "2026-07-22T13:05:32.687521+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -26181,7 +26567,7 @@ title: "Find metrics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/cm-finding"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-calcmetrics"
-created_at: "2026-07-17T14:32:55.767435+00:00"
+created_at: "2026-07-22T13:06:13.445819+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -26212,7 +26598,7 @@ title: "First use impact analysis first-use-impact"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/first-use-impact"
 category: "guides"
 topic: "analytics-platform/using/guided-analysis/first-use-impact"
-created_at: "2026-07-17T14:29:39.829974+00:00"
+created_at: "2026-07-22T13:03:08.824600+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -26279,7 +26665,7 @@ title: "Flow overview flow"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/flow/flow"
 category: "overview"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:35.415962+00:00"
+created_at: "2026-07-22T13:02:06.333844+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -26421,7 +26807,7 @@ title: "Folders overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/build-workspace-project/workspace-folders/about-folders"
 category: "overview"
 topic: "analytics-platform/using/cja-workspace/build-workspace-project"
-created_at: "2026-07-17T14:28:13.880221+00:00"
+created_at: "2026-07-22T13:01:45.392979+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -26477,7 +26863,7 @@ title: "Forecasting overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/forecasting/forecasting"
 category: "overview"
 topic: "analytics-platform/using/cja-workspace/forecasting"
-created_at: "2026-07-17T14:29:03.783982+00:00"
+created_at: "2026-07-22T13:02:34.130195+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -26519,7 +26905,7 @@ title: "Format component settings format-component-settings"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-settings/format"
 category: "other"
 topic: "analytics-platform/using/cja-dataviews/component-settings"
-created_at: "2026-07-17T14:27:32.850668+00:00"
+created_at: "2026-07-22T13:01:05.483668+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -26578,7 +26964,7 @@ title: "Freeform panel"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/freeform-panel"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/panels"
-created_at: "2026-07-17T14:22:37.718191+00:00"
+created_at: "2026-07-22T12:56:11.366151+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -26622,7 +27008,7 @@ title: "Freeform table overview freeform-table-overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/freeform-table"
 category: "overview"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:23.451942+00:00"
+created_at: "2026-07-22T13:01:54.250356+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -26746,7 +27132,7 @@ title: "Frequency analysis frequency"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/frequency"
 category: "guides"
 topic: "analytics-platform/using/guided-analysis/frequency"
-created_at: "2026-07-17T14:29:40.625339+00:00"
+created_at: "2026-07-22T13:03:09.498729+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -26824,7 +27210,7 @@ title: "Frequently asked questions"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-faq"
 category: "overview"
 topic: "analytics-platform/using/cja-overview/cja-b2c-overview"
-created_at: "2026-07-17T14:27:18.902712+00:00"
+created_at: "2026-07-22T13:00:51.824187+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -27026,7 +27412,7 @@ title: "Frequently asked questions"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-faq"
 category: "overview"
 topic: "analytics-platform/using/cja-overview/cja-faq"
-created_at: "2026-07-17T14:30:11.158550+00:00"
+created_at: "2026-07-22T13:03:37.033160+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -27228,7 +27614,7 @@ title: "Frequently asked questions"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/stitching/faq"
 category: "other"
 topic: "analytics-platform/using/stitching/faq"
-created_at: "2026-07-17T14:27:13.549330+00:00"
+created_at: "2026-07-22T13:00:46.104188+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -27518,7 +27904,7 @@ title: "Funnel analysis funnel"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/funnel/friction"
 category: "guides"
 topic: "analytics-platform/using/guided-analysis/funnel"
-created_at: "2026-07-17T14:32:59.618706+00:00"
+created_at: "2026-07-22T13:06:16.989942+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -27591,7 +27977,7 @@ title: "Funnel analysis funnel"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/funnel"
 category: "guides"
 topic: "analytics-platform/using/guided-analysis/funnel"
-created_at: "2026-07-17T14:29:41.421358+00:00"
+created_at: "2026-07-22T13:03:10.210332+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -27664,7 +28050,7 @@ title: "Funnel"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/guided-analysis/funnel"
 category: "guides"
 topic: "customer-journey-analytics-learn/tutorials/guided-analysis/funnel"
-created_at: "2026-07-17T14:32:15.513479+00:00"
+created_at: "2026-07-22T13:05:34.288611+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -27701,7 +28087,7 @@ title: "GA4 reports in Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/ga-to-cja/reports"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/ga-to-cja"
-created_at: "2026-07-17T14:32:42.657352+00:00"
+created_at: "2026-07-22T13:05:59.769532+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -28030,7 +28416,7 @@ title: "Graph-based stitching"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/stitching/gbs"
 category: "other"
 topic: "analytics-platform/using/stitching/gbs"
-created_at: "2026-07-17T14:30:46.024979+00:00"
+created_at: "2026-07-22T13:04:11.047522+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -28172,7 +28558,7 @@ title: "Grow key accounts"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/b2b/b2b-edition/grow-key-accounts"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/b2b"
-created_at: "2026-07-17T14:31:13.201571+00:00"
+created_at: "2026-07-22T13:04:35.599009+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -28232,7 +28618,7 @@ title: "Guided analysis overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/overview"
 category: "overview"
 topic: "analytics-platform/using/guided-analysis/overview"
-created_at: "2026-07-17T14:22:49.236402+00:00"
+created_at: "2026-07-22T12:56:22.960131+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -28405,7 +28791,7 @@ title: "High cardinality dimensions"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/dimensions/high-cardinality"
 category: "other"
 topic: "analytics-platform/using/cja-components/dimensions"
-created_at: "2026-07-17T14:28:50.534478+00:00"
+created_at: "2026-07-22T13:02:20.506800+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -28459,7 +28845,7 @@ title: "Histogram histogram"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/histogram"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:36.436248+00:00"
+created_at: "2026-07-22T13:02:07.043250+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -28562,7 +28948,7 @@ title: "Horizontal bar (stacked)"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/horizontal-bar"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:43.403237+00:00"
+created_at: "2026-07-22T13:02:13.883968+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -28616,7 +29002,7 @@ title: "Hotkeys"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/build-workspace-project/fa-shortcut-keys"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/build-workspace-project"
-created_at: "2026-07-17T14:28:29.778218+00:00"
+created_at: "2026-07-22T13:02:00.800218+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -28804,7 +29190,7 @@ title: "Hourly trend"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-views/bi-extension/hourly-trend"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-views"
-created_at: "2026-07-17T14:32:29.372917+00:00"
+created_at: "2026-07-22T13:05:47.560283+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -28856,7 +29242,7 @@ title: "Implement the loader tag for the Web SDK extension upgrade-tag-loader"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/create-tags/cja-upgrade-tag-loader"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:24.864941+00:00"
+created_at: "2026-07-22T13:02:54.621364+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -28901,7 +29287,7 @@ title: "Import call center and web data"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/cross-channel"
-created_at: "2026-07-17T14:29:09.101849+00:00"
+created_at: "2026-07-22T13:02:39.206901+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -29017,7 +29403,7 @@ title: "Include Exclude values component settings include-exclude-values-compone
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-settings/include-exclude-values"
 category: "other"
 topic: "analytics-platform/using/cja-dataviews/component-settings"
-created_at: "2026-07-17T14:27:33.553905+00:00"
+created_at: "2026-07-22T13:01:06.169212+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -29074,7 +29460,7 @@ title: "Include multiple dimension columns in a freeform table"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/freeform-table-multidimensions"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:22:41.643062+00:00"
+created_at: "2026-07-22T12:56:15.484300+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -29188,7 +29574,7 @@ title: "Ingest and use ad hoc data"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-data-ingestion/ingest-use-guides/adhoc"
 category: "guides"
 topic: "analytics-platform/using/cja-data-ingestion/ingest-use-guides"
-created_at: "2026-07-17T14:27:27.251820+00:00"
+created_at: "2026-07-22T13:00:59.715825+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -29338,7 +29724,7 @@ title: "Ingest and use batch data"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-data-ingestion/ingest-use-guides/batch"
 category: "guides"
 topic: "analytics-platform/using/cja-data-ingestion/ingest-use-guides"
-created_at: "2026-07-17T14:22:19.809811+00:00"
+created_at: "2026-07-22T12:55:54.532121+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -29495,7 +29881,7 @@ title: "Ingest and use data from Adobe Analytics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-data-ingestion/ingest-use-guides/analytics"
 category: "guides"
 topic: "analytics-platform/using/cja-data-ingestion/ingest-use-guides"
-created_at: "2026-07-17T14:22:18.943861+00:00"
+created_at: "2026-07-22T12:55:53.719704+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -29603,7 +29989,7 @@ title: "Ingest and use data using source connectors"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-data-ingestion/ingest-use-guides/sources"
 category: "guides"
 topic: "analytics-platform/using/cja-data-ingestion/ingest-use-guides"
-created_at: "2026-07-17T14:22:23.726546+00:00"
+created_at: "2026-07-22T12:55:58.344548+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -29754,7 +30140,7 @@ title: "Ingest and use Experience Platform audiences"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-ingestion/ingest-aep-segments"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-ingestion"
-created_at: "2026-07-17T14:30:17.755038+00:00"
+created_at: "2026-07-22T13:03:43.399632+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -30012,7 +30398,7 @@ title: "Ingest and use streaming data"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-data-ingestion/ingest-use-guides/streaming"
 category: "guides"
 topic: "analytics-platform/using/cja-data-ingestion/ingest-use-guides"
-created_at: "2026-07-17T14:22:24.562705+00:00"
+created_at: "2026-07-22T12:55:59.315539+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -30185,7 +30571,7 @@ title: "Ingest data via the Edge Network Server API"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-data-ingestion/ingest-use-guides/edge-network/serverapi"
 category: "guides"
 topic: "analytics-platform/using/cja-data-ingestion/ingest-use-guides"
-created_at: "2026-07-17T14:22:22.759365+00:00"
+created_at: "2026-07-22T12:55:57.501800+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -30383,7 +30769,7 @@ title: "Ingest data via the Mobile SDK"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-data-ingestion/ingest-use-guides/edge-network/aepmobilesdk"
 category: "guides"
 topic: "analytics-platform/using/cja-data-ingestion/ingest-use-guides"
-created_at: "2026-07-17T14:22:20.902098+00:00"
+created_at: "2026-07-22T12:55:55.451146+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -30649,7 +31035,7 @@ title: "Ingest data via the Web SDK"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-data-ingestion/ingest-use-guides/edge-network/aepwebsdk"
 category: "guides"
 topic: "analytics-platform/using/cja-data-ingestion/ingest-use-guides"
-created_at: "2026-07-17T14:22:21.874012+00:00"
+created_at: "2026-07-22T12:55:56.560295+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -30910,7 +31296,7 @@ title: "Ingest Google Analytics historical data"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/third-party/ga/backfill"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/third-party"
-created_at: "2026-07-17T14:32:40.782980+00:00"
+created_at: "2026-07-22T13:05:58.212075+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -31022,7 +31408,7 @@ title: "Integrate Adobe Advertising with Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/integrations/advertising"
 category: "other"
 topic: "analytics-platform/using/integrations/advertising"
-created_at: "2026-07-17T14:29:47.300798+00:00"
+created_at: "2026-07-22T13:03:15.457773+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -31054,7 +31440,7 @@ title: "Integrate Adobe Analytics with Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/integrations/aa"
 category: "other"
 topic: "analytics-platform/using/integrations/aa"
-created_at: "2026-07-17T14:29:46.552238+00:00"
+created_at: "2026-07-22T13:03:14.761959+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -31084,7 +31470,7 @@ title: "Integrate Adobe solutions with Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/integrations/overview"
 category: "overview"
 topic: "analytics-platform/using/integrations/overview"
-created_at: "2026-07-17T14:22:50.035470+00:00"
+created_at: "2026-07-22T12:56:23.650161+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -31129,7 +31515,7 @@ title: "Integrate Customer AI data"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/integrations/customer-ai"
 category: "other"
 topic: "analytics-platform/using/integrations/customer-ai"
-created_at: "2026-07-17T14:29:49.661960+00:00"
+created_at: "2026-07-22T13:03:17.591629+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -31220,7 +31606,7 @@ title: "Integrate Decision Management"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/integrations/ajo-od"
 category: "other"
 topic: "analytics-platform/using/integrations/ajo-od"
-created_at: "2026-07-17T14:29:48.080010+00:00"
+created_at: "2026-07-22T13:03:16.174325+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -31401,7 +31787,7 @@ title: "Integrate Journey Optimizer"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/integrations/ajo"
 category: "other"
 topic: "analytics-platform/using/integrations/ajo"
-created_at: "2026-07-17T14:27:40.416439+00:00"
+created_at: "2026-07-22T13:01:13.394738+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -32210,7 +32596,7 @@ title: "Intelligent Alerts in Adobe Analytics intelligent-alerts-in-adobe-analyt
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/data-science/intelligent-alerts"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:32:04.755267+00:00"
+created_at: "2026-07-22T13:05:23.510792+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -32247,7 +32633,7 @@ title: "Intelligent captions intelligent-captions"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions?lang=en"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:30:29.668908+00:00"
+created_at: "2026-07-22T13:03:55.432247+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -32369,7 +32755,7 @@ title: "Intelligent captions intelligent-captions"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:29:06.340312+00:00"
+created_at: "2026-07-22T13:02:36.756356+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -32491,7 +32877,7 @@ title: "Inter-dimensional flows"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/flow/multi-dimensional-flow"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:31:54.350584+00:00"
+created_at: "2026-07-22T13:05:13.797999+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -32538,7 +32924,7 @@ title: "Introduction to Calculated Metrics in Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/components/calc-metrics"
-created_at: "2026-07-17T14:31:33.444840+00:00"
+created_at: "2026-07-22T13:04:54.488864+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -32571,7 +32957,7 @@ title: "Introduction to Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/cja-basics/understanding-customer-journey-analytics"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/cja-basics/understanding-customer-journey-analytics"
-created_at: "2026-07-17T14:32:10.114275+00:00"
+created_at: "2026-07-22T13:05:29.002402+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -32607,7 +32993,7 @@ title: "IP addresses used by Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/ip-addresses"
 category: "other"
 topic: "analytics-platform/using/technotes/ip-addresses"
-created_at: "2026-07-17T14:30:58.297418+00:00"
+created_at: "2026-07-22T13:04:21.643977+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -32754,7 +33140,7 @@ title: "Journey canvas overview journey-canvas-overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/journey-canvas/journey-canvas?lang=en"
 category: "overview"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:29:07.251816+00:00"
+created_at: "2026-07-22T13:02:37.590120+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -33022,7 +33408,7 @@ title: "Journey canvas overview journey-canvas-overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/journey-canvas/journey-canvas"
 category: "overview"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:44.276604+00:00"
+created_at: "2026-07-22T13:02:14.622647+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -33290,7 +33676,7 @@ title: "Key metric summary key-metric-summary"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/key-metric"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:45.162374+00:00"
+created_at: "2026-07-22T13:02:15.725388+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -33428,21 +33814,21 @@ recommendation-more-help
 
 
 ---
-# FILE: labels-and-policies.md
+# FILE: labels-policies-and-marketing-actions.md
 ---
 
 ---
-title: "Labels and policies"
+title: "Labels, policies, and marketing actions"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/data-governance"
 category: "other"
 topic: "analytics-platform/using/cja-dataviews/data-governance"
-created_at: "2026-07-17T14:30:09.137104+00:00"
+created_at: "2026-07-22T13:03:35.536905+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
-# Labels and policies
+# Labels, policies, and marketing actions
 
-Last update: June 5, 2026
+Last update: July 14, 2026
 - Topics:
 - [Analysis Workspace](#)
 - [Components](#)
@@ -33455,20 +33841,44 @@ CREATED FOR:
 
 When you create a dataset in Experience Platform, you can create [data usage labels](/en/docs/experience-platform/data-governance/labels/reference) for some or all elements in the dataset. You can view these labels and policies in Customer Journey Analytics.
 
-The following labels are of special interest to Customer Journey Analytics:
+The following labels and marketing actions are of special interest to Customer Journey Analytics:
 
-- The C8 label - No measurement . This label signifies that data cannot be used for analytics on your organization’s websites or apps.
-- The C12 label - No general data export . Schema fields labeled this way cannot be exported or downloaded from Customer Journey Analytics (via reporting, export, API, etc.)
-
+Label
+Marketing action
+Definition
+C2
+Export to third parties
+The label and associated marketing action signify that data cannot be exported to a third party, if the corresponding DULE policy is enabled.
+C3
+Combine with directly identifiable data
+The label and associated marketing action signify that data cannot be combined or otherwise used with directly identifiable information, if the corresponding DULE policy is enabled.
+C8
+Analytics
+The label and associated marketing action signify that data cannot be used for analytics on your organization’s websites or apps, if the corresponding DULE policy is enabled.
+C9
+Data Science
+The label and associated marketing action signify that data cannot be used in data science workflows, if the corresponding DULE policy is enabled.
+C12
+Data Export
+The label and associated marketing action signify that schema fields labeled this way cannot be exported or downloaded from Customer Journey Analytics (via reporting, export, API, and so forth), if the corresponding DULE policy is enabled.
 NOTE
 Data usage labels are not automatically propagated to stitched datasets. They can, however, be added manually.
 Labeling in itself does not mean that these data usage labels are enforced. That’s what policies are used for. You can create your policies using the [Experience Platform UI](/en/docs/experience-platform/data-governance/policies/user-guide) or via the [Policy Service API](/en/docs/experience-platform/data-governance/api/overview) in Experience Platform.
 
-Two Adobe-defined policies are available in Experience Platform that can surface in Customer Journey Analytics and affect reporting and data export:
+Five Adobe-defined policies are available in Experience Platform that can surface in Customer Journey Analytics and affect reporting and data export:
 
-- **Restrict usage analytics and user based measurement** policy, using the C8 label, and
-- **Restrict data export** policy, using the C12 label.
-
+Policy
+Label
+Restrict third-party data export
+C2
+Restrict directly identifiable data combination
+C3
+Restrict usage analytics and user based measurement
+C8
+Restrict data science
+C9
+Restrict data export
+C12
 ## View data labels in Customer Journey Analytics data views
 
 Data labels that you or others created in Experience Platform are shown in three locations in the data views user interface:
@@ -33501,7 +33911,7 @@ Click **Apply** to see which policies are enabled.
 
 ## How enabled policies affect data views
 
-If one or more policies are turned on with C8 or C12 labels, those schema components that have certain data labels applied cannot be added to data views.
+If one or more policies are turned on with C1, C2, C3, C8, C9, or C12 labels, those schema components that have certain data labels applied cannot be added to data views.
 
 These components are grayed out in the left rail Schema fields list:
 
@@ -33527,7 +33937,7 @@ title: "Labs User Guide"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/labs/labs"
 category: "guides"
 topic: "analytics-platform/using/labs/labs"
-created_at: "2026-07-17T14:30:34.963053+00:00"
+created_at: "2026-07-22T13:04:00.799157+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -33596,7 +34006,7 @@ title: "Lack of permissions"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/troubleshooting/lack-of-permissions"
 category: "other"
 topic: "analytics-platform/using/troubleshooting/lack-of-permissions"
-created_at: "2026-07-17T14:27:42.175781+00:00"
+created_at: "2026-07-22T13:01:14.825078+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -33640,7 +34050,7 @@ title: "Limits"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-views/bi-extension/limits"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-views"
-created_at: "2026-07-17T14:32:30.200340+00:00"
+created_at: "2026-07-22T13:05:48.414613+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -33700,7 +34110,7 @@ title: "Line line"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/line"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:24.247209+00:00"
+created_at: "2026-07-22T13:01:54.992928+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -33781,7 +34191,7 @@ title: "Line visualization in Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/line-visualization"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations"
-created_at: "2026-07-17T14:31:43.973184+00:00"
+created_at: "2026-07-22T13:05:03.928721+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -33812,7 +34222,7 @@ title: "Link inside or outside of your project"
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/visualizations/linking-inside-or-outside-of-your-project"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:31:21.933381+00:00"
+created_at: "2026-07-22T13:04:43.131467+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -33844,7 +34254,7 @@ title: "Manage alerts"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/alerts/alert-manager"
 category: "other"
 topic: "analytics-platform/using/cja-components/alerts"
-created_at: "2026-07-17T14:32:03.999353+00:00"
+created_at: "2026-07-22T13:05:22.760353+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -34037,7 +34447,7 @@ title: "Manage annotations"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/annotations/manage-annotations"
 category: "other"
 topic: "analytics-platform/using/cja-components/annotations"
-created_at: "2026-07-17T14:31:26.250632+00:00"
+created_at: "2026-07-22T13:04:46.976760+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -34238,7 +34648,7 @@ title: "Manage audience analysis configurations manage-audience-analysis"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-manage"
 category: "other"
 topic: "analytics-platform/using/cja-connections/audience-analysis"
-created_at: "2026-07-17T14:32:50.321889+00:00"
+created_at: "2026-07-22T13:06:08.855503+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -34293,7 +34703,7 @@ title: "Manage calculated metrics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/cm-manager?lang=en"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-calcmetrics"
-created_at: "2026-07-17T14:29:56.265389+00:00"
+created_at: "2026-07-22T13:03:23.683541+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -34449,7 +34859,7 @@ title: "Manage calculated metrics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/cm-manager"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-calcmetrics"
-created_at: "2026-07-17T14:29:55.421881+00:00"
+created_at: "2026-07-22T13:03:22.865356+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -34605,7 +35015,7 @@ title: "Manage cloud export locations and accounts"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/exports/manage-export-locations"
 category: "other"
 topic: "analytics-platform/using/cja-components/exports"
-created_at: "2026-07-17T14:31:36.824821+00:00"
+created_at: "2026-07-22T13:04:57.619090+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -34774,7 +35184,7 @@ title: "Manage connections manage-connections"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/manage-connections?lang=en"
 category: "other"
 topic: "analytics-platform/using/cja-connections/manage-connections"
-created_at: "2026-07-17T14:30:04.858784+00:00"
+created_at: "2026-07-22T13:03:31.386367+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -35366,7 +35776,7 @@ title: "Manage connections manage-connections"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/manage-connections"
 category: "other"
 topic: "analytics-platform/using/cja-connections/manage-connections"
-created_at: "2026-07-17T14:22:14.791401+00:00"
+created_at: "2026-07-22T12:55:49.748759+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -35950,6 +36360,71 @@ recommendation-more-help
 
 
 ---
+# FILE: manage-consent-reporting-and-filtering-configurations.md
+---
+
+---
+title: "Manage consent reporting and filtering configurations"
+url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/consent-reporting-filtering/consent-manage"
+category: "other"
+topic: "analytics-platform/using/cja-connections/consent-reporting-filtering"
+created_at: "2026-07-22T13:06:21.036354+00:00"
+---
+Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
+
+# Manage consent reporting and filtering configurations
+
+Last update: July 14, 2026
+- Topics:
+- [Data governance](#)
+
+CREATED FOR:
+
+- Admin
+
+After you [create a consent reporting and filtering configuration](/en/docs/analytics-platform/using/cja-connections/consent-reporting-filtering/consent-configure), you can view, edit, or delete it.
+
+Only system administrators can manage consent reporting and filtering configurations.
+
+For overview information, see [Consent reporting and filtering overview](/en/docs/analytics-platform/using/cja-connections/consent-reporting-filtering/consent-overview).
+
+## View existing configurations
+
+To view your existing configurations:
+
+- In Customer Journey Analytics, select Data Management > Consent reporting and filtering . The following columns of information are available about each configuration: Created by : The user who created the configuration. Sandbox : The Experience Platform sandbox that contains the Profile dataset. Connection : The connection that the configuration is applied to. Filtering : The marketing actions that filtering is enabled for, if any. Date created : The date the configuration was created. Last modified : The date the configuration was last modified. Status : The status of the configuration. You can hide any columns by selecting the Column icon , deselecting any columns that you want to hide, then selecting Apply .
+- (Optional) To filter the list of configurations, select the Filter , then filter by any of the following criteria: Connection Created by Sandbox Status
+
+## Edit a configuration
+
+IMPORTANT
+Changes to filtering affect only data that is ingested after you save your changes to the configuration. Enabling filtering does not remove non-consenting visitor data that was ingested before the change, and disabling filtering does not recover data that was excluded while filtering was enabled.
+To edit an existing configuration:
+
+- In Customer Journey Analytics, select Data Management > Consent reporting and filtering .
+- Select the name of the configuration that you want to edit. Or Select the checkbox next to the configuration that you want to edit, then select Edit .
+- Make your changes, then select Save .
+
+## Delete a configuration
+
+To delete an existing configuration:
+
+- In Customer Journey Analytics, select Data Management > Consent reporting and filtering .
+- Select the checkbox next to the configuration that you want to delete, then select Delete .
+
+## How the consent policy lookup dataset stays in sync
+
+Customer Journey Analytics keeps the consent policy lookup dataset in sync with Experience Platform automatically. When a consent policy is created, updated, renamed, or deleted in Experience Platform, the corresponding policy name and description in the lookup dataset are updated.
+
+Keep the following in mind:
+
+- A maximum of one consent policy lookup dataset exists per sandbox. Multiple configurations in the same sandbox share that lookup dataset.
+- Because policy names and descriptions come from Experience Platform, update policy metadata in Experience Platform rather than editing the lookup dataset directly.
+
+recommendation-more-help
+
+
+---
 # FILE: manage-data-blocks.md
 ---
 
@@ -35958,7 +36433,7 @@ title: "Manage data blocks"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-reportbuilder/manage-reportbuilder"
 category: "other"
 topic: "analytics-platform/using/cja-reportbuilder/manage-reportbuilder"
-created_at: "2026-07-17T14:30:13.536000+00:00"
+created_at: "2026-07-22T13:03:39.353560+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -36045,7 +36520,7 @@ title: "Manage data sources manage-data-sources"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/t-sync-visualization"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:24.975846+00:00"
+created_at: "2026-07-22T13:01:55.710298+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -36094,7 +36569,7 @@ title: "Manage data views"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/manage-dataviews"
 category: "other"
 topic: "analytics-platform/using/cja-dataviews/manage-dataviews"
-created_at: "2026-07-17T14:27:44.106151+00:00"
+created_at: "2026-07-22T13:01:16.499418+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -36303,7 +36778,7 @@ title: "Manage date ranges"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-date-ranges/manage"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-date-ranges"
-created_at: "2026-07-17T14:31:35.155341+00:00"
+created_at: "2026-07-22T13:04:56.118822+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -36463,7 +36938,7 @@ title: "Manage export logs"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/exports/manage-export-logs"
 category: "other"
 topic: "analytics-platform/using/cja-components/exports"
-created_at: "2026-07-17T14:30:54.868003+00:00"
+created_at: "2026-07-22T13:04:18.314845+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -36550,7 +37025,7 @@ title: "Manage exports"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/exports/manage-exports"
 category: "other"
 topic: "analytics-platform/using/cja-components/exports"
-created_at: "2026-07-17T14:22:09.949022+00:00"
+created_at: "2026-07-22T12:55:44.718992+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -36669,7 +37144,7 @@ title: "Manage folders"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/build-workspace-project/workspace-folders/manage-folders"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/build-workspace-project"
-created_at: "2026-07-17T14:27:56.714017+00:00"
+created_at: "2026-07-22T13:01:29.710849+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -36729,7 +37204,7 @@ title: "Manage published audiences"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/audiences/manage"
 category: "other"
 topic: "analytics-platform/using/cja-components/audiences"
-created_at: "2026-07-17T14:31:28.929517+00:00"
+created_at: "2026-07-22T13:04:49.858140+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -36872,7 +37347,7 @@ title: "Manage scheduled workbooks"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-reportbuilder/manage-schedules-reportbuilder"
 category: "other"
 topic: "analytics-platform/using/cja-reportbuilder/manage-schedules-reportbuilder"
-created_at: "2026-07-17T14:32:21.690214+00:00"
+created_at: "2026-07-22T13:05:40.461696+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -36924,7 +37399,7 @@ title: "Manage scorecards"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dashboards/manage-scorecard"
 category: "other"
 topic: "analytics-platform/using/cja-dashboards/manage-scorecard"
-created_at: "2026-07-17T14:30:05.934805+00:00"
+created_at: "2026-07-22T13:03:32.364329+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -37098,7 +37573,7 @@ title: "Manage segments"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-filters/manage-filters"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-filters"
-created_at: "2026-07-17T14:29:57.987003+00:00"
+created_at: "2026-07-22T13:03:25.084877+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -37261,7 +37736,7 @@ title: "Manage segments"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-filters/manage-filters?lang=en"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-filters"
-created_at: "2026-07-17T14:29:58.899185+00:00"
+created_at: "2026-07-22T13:03:26.073284+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -37424,7 +37899,7 @@ title: "Manage segments"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/seg-manage"
 category: "other"
 topic: "analytics-platform/using/cja-components/segments"
-created_at: "2026-07-17T14:29:36.735638+00:00"
+created_at: "2026-07-22T13:03:05.863740+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -37587,7 +38062,7 @@ title: "Manage your Customer Journey Analytics usage"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/estimate-usage"
 category: "other"
 topic: "analytics-platform/using/technotes/estimate-usage"
-created_at: "2026-07-17T14:27:20.649205+00:00"
+created_at: "2026-07-22T13:00:53.510343+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -37632,7 +38107,7 @@ title: "Map map"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/map"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:31:06.214992+00:00"
+created_at: "2026-07-22T13:04:29.266908+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -37855,7 +38330,7 @@ title: "Mark calculated metrics as favorite"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/cm-favorite"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-calcmetrics"
-created_at: "2026-07-17T14:31:30.427388+00:00"
+created_at: "2026-07-22T13:04:51.462493+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -37890,7 +38365,7 @@ title: "Mark segments as favorite"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/seg-favorite"
 category: "other"
 topic: "analytics-platform/using/cja-components/segments"
-created_at: "2026-07-17T14:32:13.082963+00:00"
+created_at: "2026-07-22T13:05:31.937624+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -37925,7 +38400,7 @@ title: "Media average minute audience panel media-average-minute-audience-panel"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/average-minute-audience-panel"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/panels"
-created_at: "2026-07-17T14:28:16.541542+00:00"
+created_at: "2026-07-22T13:01:47.819929+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -38062,7 +38537,7 @@ title: "Media Concurrent Viewers Panel in Analysis Workspace"
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:31:40.504734+00:00"
+created_at: "2026-07-22T13:05:00.893557+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -38096,7 +38571,7 @@ title: "Media concurrent viewers panel media-concurrent-viewers-panel"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/media-concurrent-viewers"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/panels"
-created_at: "2026-07-17T14:28:19.144406+00:00"
+created_at: "2026-07-22T13:01:50.222160+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -38228,7 +38703,7 @@ title: "Media playback time spent panel media-playback-time-spent-panel"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/media-playback-time-spent"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/panels"
-created_at: "2026-07-17T14:28:20.106090+00:00"
+created_at: "2026-07-22T13:01:50.955580+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -38369,7 +38844,7 @@ title: "Media Playback Time Spent Panel"
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:31:41.253435+00:00"
+created_at: "2026-07-22T13:05:01.626952+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -38403,7 +38878,7 @@ title: "Metric deduplication component settings metric-deduplication-component-s
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-settings/metric-deduplication"
 category: "other"
 topic: "analytics-platform/using/cja-dataviews/component-settings"
-created_at: "2026-07-17T14:27:34.316473+00:00"
+created_at: "2026-07-22T13:01:06.946762+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -38459,7 +38934,7 @@ title: "Metric type and Attribution"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/m-metric-type-alloc"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-calcmetrics"
-created_at: "2026-07-17T14:31:00.782747+00:00"
+created_at: "2026-07-22T13:04:24.103640+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -38610,7 +39085,7 @@ title: "Metrics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/apply-create-metrics"
 category: "other"
 topic: "analytics-platform/using/cja-components/apply-create-metrics"
-created_at: "2026-07-17T14:28:06.343028+00:00"
+created_at: "2026-07-22T13:01:38.449706+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -38727,7 +39202,7 @@ title: "Migrate data from Google Analytics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/third-party/ga/overview"
 category: "overview"
 topic: "analytics-platform/using/cja-usecases/third-party"
-created_at: "2026-07-17T14:30:24.412713+00:00"
+created_at: "2026-07-22T13:03:49.766291+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -38781,7 +39256,7 @@ title: "Mirror and use relational data"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-data-mirror/relational"
 category: "other"
 topic: "analytics-platform/using/cja-data-mirror/relational"
-created_at: "2026-07-17T14:27:05.664032+00:00"
+created_at: "2026-07-22T13:00:38.198363+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -38996,7 +39471,7 @@ title: "Mobile scorecard annotations"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/annotations/mobile-annotations"
 category: "other"
 topic: "analytics-platform/using/cja-components/annotations"
-created_at: "2026-07-17T14:29:51.434507+00:00"
+created_at: "2026-07-22T13:03:19.139287+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -39048,7 +39523,7 @@ title: "Monitor Data Dictionary health monitor-data-dictionary"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/data-dictionary/monitor-data-dictionary-health"
 category: "other"
 topic: "analytics-platform/using/cja-components/data-dictionary"
-created_at: "2026-07-17T14:30:00.542484+00:00"
+created_at: "2026-07-22T13:03:27.607546+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -39096,7 +39571,7 @@ title: "Monitor dataset ingestion when upgrading to Customer Journey Analytics m
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/create-datasets/cja-upgrade-dataset-ingestion"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:21.028965+00:00"
+created_at: "2026-07-22T13:02:50.538205+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -39135,7 +39610,7 @@ title: "Monthly trend"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-views/bi-extension/monthly-trend"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-views"
-created_at: "2026-07-17T14:32:31.077971+00:00"
+created_at: "2026-07-22T13:05:49.229715+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -39185,7 +39660,7 @@ title: "Move Adobe Analytics Segments to Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/components/filters"
-created_at: "2026-07-17T14:28:53.894204+00:00"
+created_at: "2026-07-22T13:02:23.600063+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -39218,7 +39693,7 @@ title: "Move your Calculated Metrics from Adobe Analytics to Customer Journey An
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/components/calc-metrics"
-created_at: "2026-07-17T14:28:53.028229+00:00"
+created_at: "2026-07-22T13:02:22.841996+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -39251,7 +39726,7 @@ title: "Multiple dimension ranked"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-views/bi-extension/multiple-dimension-ranked"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-views"
-created_at: "2026-07-17T14:32:31.996034+00:00"
+created_at: "2026-07-22T13:05:50.155164+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -39301,7 +39776,7 @@ title: "Net growth analysis net-growth"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/net-growth"
 category: "guides"
 topic: "analytics-platform/using/guided-analysis/net-growth"
-created_at: "2026-07-17T14:29:42.124735+00:00"
+created_at: "2026-07-22T13:03:10.972133+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -39379,7 +39854,7 @@ title: "Next or previous item panel next-or-previous-item-panel"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/next-previous"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/panels"
-created_at: "2026-07-17T14:28:30.701877+00:00"
+created_at: "2026-07-22T13:02:01.545821+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -39466,7 +39941,7 @@ title: "No Value Options component settings no-value-options-component-settings"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-settings/no-value-options"
 category: "other"
 topic: "analytics-platform/using/cja-dataviews/component-settings"
-created_at: "2026-07-17T14:27:34.977070+00:00"
+created_at: "2026-07-22T13:01:07.475259+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -39521,7 +39996,7 @@ title: "Open projects"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/build-workspace-project/open-projects"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/build-workspace-project"
-created_at: "2026-07-17T14:31:38.365653+00:00"
+created_at: "2026-07-22T13:04:59.128524+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -39576,7 +40051,7 @@ title: "Operators"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/seg-operators"
 category: "other"
 topic: "analytics-platform/using/cja-components/segments"
-created_at: "2026-07-17T14:31:47.855716+00:00"
+created_at: "2026-07-22T13:05:07.532992+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -39821,7 +40296,7 @@ title: "Optimize account marketing"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/b2b/b2b-edition/optimize-account-marketing"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/b2b"
-created_at: "2026-07-17T14:31:14.162420+00:00"
+created_at: "2026-07-22T13:04:36.592360+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -39928,7 +40403,7 @@ title: "Optimize Customer Journey Analytics and Analysis Workspace performance"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/optimizing-performance"
 category: "other"
 topic: "analytics-platform/using/technotes/optimizing-performance"
-created_at: "2026-07-17T14:30:42.129634+00:00"
+created_at: "2026-07-22T13:04:07.508641+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -40183,7 +40658,7 @@ title: "Overview of configuring Data Views for Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/overview-of-configuring-data-views-for-cja"
 category: "overview"
 topic: "customer-journey-analytics-learn/tutorials/data-views/overview-of-configuring-data-views-for-cja"
-created_at: "2026-07-17T14:27:42.908850+00:00"
+created_at: "2026-07-22T13:01:15.661082+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -40218,7 +40693,7 @@ title: "Panels overview panels-overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/panels"
 category: "overview"
 topic: "analytics-platform/using/cja-workspace/panels"
-created_at: "2026-07-17T14:22:38.588686+00:00"
+created_at: "2026-07-22T12:56:12.316539+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -40489,7 +40964,7 @@ title: "Participation metrics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/participation-metric"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-calcmetrics"
-created_at: "2026-07-17T14:32:51.881071+00:00"
+created_at: "2026-07-22T13:06:10.408605+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -40533,7 +41008,7 @@ title: "Perform advanced analysis"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/perform-adv-analysis"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/perform-adv-analysis"
-created_at: "2026-07-17T14:22:39.343665+00:00"
+created_at: "2026-07-22T12:56:13.038564+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -40563,7 +41038,7 @@ title: "Perform basic analysis"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/perform-basic-analysis"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/perform-basic-analysis"
-created_at: "2026-07-17T14:22:40.010946+00:00"
+created_at: "2026-07-22T12:56:13.818827+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -40607,7 +41082,7 @@ title: "Persistence component settings persistence-component-settings"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-settings/persistence"
 category: "other"
 topic: "analytics-platform/using/cja-dataviews/component-settings"
-created_at: "2026-07-17T14:27:36.879633+00:00"
+created_at: "2026-07-22T13:01:09.864415+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -40703,7 +41178,7 @@ title: "Prepare your organization to upgrade to Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/cja-upgrade-org-readiness"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:18.661782+00:00"
+created_at: "2026-07-22T13:02:48.436011+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -40848,7 +41323,7 @@ title: "Preview dimensions"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/dimensions/view-dimensions"
 category: "other"
 topic: "analytics-platform/using/cja-components/dimensions"
-created_at: "2026-07-17T14:31:46.396178+00:00"
+created_at: "2026-07-22T13:05:06.050670+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -40884,7 +41359,7 @@ title: "Processing rules, VISTA, and classifications versus Data Prep"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/cja-aa-comparison/pr-vista-dataprep"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/cja-aa-comparison"
-created_at: "2026-07-17T14:28:55.419642+00:00"
+created_at: "2026-07-22T13:02:25.476330+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -40930,7 +41405,7 @@ title: "Product analysis in Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/product-analysis/product-analysis"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/product-analysis"
-created_at: "2026-07-17T14:30:22.831487+00:00"
+created_at: "2026-07-22T13:03:48.213349+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -41044,7 +41519,7 @@ title: "Product usage data settings product-usage-data-settings"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/tools/product-usage/data-settings"
 category: "other"
 topic: "analytics-platform/using/tools/product-usage"
-created_at: "2026-07-17T14:32:07.840992+00:00"
+created_at: "2026-07-22T13:05:26.734384+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -41083,7 +41558,7 @@ title: "Product usage overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/tools/product-usage/usage-overview"
 category: "overview"
 topic: "analytics-platform/using/tools/product-usage"
-created_at: "2026-07-17T14:29:08.020276+00:00"
+created_at: "2026-07-22T13:02:38.455883+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -41153,7 +41628,7 @@ title: "Projects overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/build-workspace-project/freeform-overview"
 category: "overview"
 topic: "analytics-platform/using/cja-workspace/build-workspace-project"
-created_at: "2026-07-17T14:22:34.911830+00:00"
+created_at: "2026-07-22T12:56:08.652580+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -41420,7 +41895,7 @@ title: "Quantum Metric integration use cases"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/third-party/qm/qm-overview"
 category: "overview"
 topic: "analytics-platform/using/cja-usecases/third-party"
-created_at: "2026-07-17T14:30:26.062900+00:00"
+created_at: "2026-07-22T13:03:51.317982+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -41454,7 +41929,7 @@ title: "Query Service (Data Distiller) & Export datasets"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-export/queryservice-export-datasets"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-export"
-created_at: "2026-07-17T14:30:16.866053+00:00"
+created_at: "2026-07-22T13:03:42.523018+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -41842,7 +42317,7 @@ title: "Quick insights panel quick-insights-panel"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/quickinsight"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/panels"
-created_at: "2026-07-17T14:28:20.903052+00:00"
+created_at: "2026-07-22T13:01:51.721007+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -41980,7 +42455,7 @@ title: "Quick segments"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/quick-filters"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-segments"
-created_at: "2026-07-17T14:32:57.975355+00:00"
+created_at: "2026-07-22T13:06:15.696915+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -42131,7 +42606,7 @@ title: "Quick segments"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/seg-quick"
 category: "other"
 topic: "analytics-platform/using/cja-components/segments"
-created_at: "2026-07-17T14:28:28.935423+00:00"
+created_at: "2026-07-22T13:01:59.866425+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -42282,7 +42757,7 @@ title: "Quick start guide"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-getting-started"
 category: "overview"
 topic: "analytics-platform/using/cja-overview/cja-getting-started"
-created_at: "2026-07-17T14:30:47.056467+00:00"
+created_at: "2026-07-22T13:04:11.752169+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -42384,7 +42859,7 @@ title: "Quick start guide"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-getting-started"
 category: "overview"
 topic: "analytics-platform/using/cja-overview/cja-b2c-overview"
-created_at: "2026-07-17T14:20:07.818307+00:00"
+created_at: "2026-07-22T12:53:42.302165+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -42486,7 +42961,7 @@ title: "Read-only projects"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/curate-share/view-only-projects"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/curate-share"
-created_at: "2026-07-17T14:28:01.982846+00:00"
+created_at: "2026-07-22T13:01:34.738018+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -42568,7 +43043,7 @@ title: "Real-time reporting overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/real-time-reporting/real-time"
 category: "overview"
 topic: "analytics-platform/using/cja-components/real-time-reporting"
-created_at: "2026-07-17T14:22:10.775806+00:00"
+created_at: "2026-07-22T12:55:45.416691+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -42661,7 +43136,7 @@ title: "Release impact analysis release-impact"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/release-impact"
 category: "guides"
 topic: "analytics-platform/using/guided-analysis/release-impact"
-created_at: "2026-07-17T14:29:43.209723+00:00"
+created_at: "2026-07-22T13:03:11.688696+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -42727,7 +43202,7 @@ title: "Report Builder for Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/exporting/report-builder/report-builder-for-customer-journey-analytics"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/exporting/report-builder"
-created_at: "2026-07-17T14:27:52.829109+00:00"
+created_at: "2026-07-22T13:01:25.554080+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -42758,7 +43233,7 @@ title: "Report Builder overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-reportbuilder/rb-overview"
 category: "overview"
 topic: "analytics-platform/using/cja-reportbuilder/rb-overview"
-created_at: "2026-07-17T14:22:34.037864+00:00"
+created_at: "2026-07-22T12:56:07.810927+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -42816,7 +43291,7 @@ title: "Report on Google Analytics data"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/third-party/ga/report"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/third-party"
-created_at: "2026-07-17T14:30:25.269114+00:00"
+created_at: "2026-07-22T13:03:50.505244+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -42877,7 +43352,7 @@ title: "Report on LLM and AI-generated traffic"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-views/derived-fields/ai-traffic"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-views"
-created_at: "2026-07-17T14:30:21.132806+00:00"
+created_at: "2026-07-22T13:03:46.634808+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -43131,7 +43606,7 @@ title: "Reporting Activity Manager overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview"
 category: "overview"
 topic: "analytics-platform/using/reporting-activity-manager/reporting-activity-overview"
-created_at: "2026-07-17T14:30:37.379948+00:00"
+created_at: "2026-07-22T13:04:03.194997+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -43183,7 +43658,7 @@ title: "Request stitching"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/stitching/use-stitching"
 category: "other"
 topic: "analytics-platform/using/stitching/use-stitching"
-created_at: "2026-07-17T14:27:17.329003+00:00"
+created_at: "2026-07-22T13:00:50.257042+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -43229,7 +43704,7 @@ title: "Restricted labels in Report Builder"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-reportbuilder/restricted-labels"
 category: "other"
 topic: "analytics-platform/using/cja-reportbuilder/restricted-labels"
-created_at: "2026-07-17T14:32:17.822746+00:00"
+created_at: "2026-07-22T13:05:36.543403+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -43284,7 +43759,7 @@ title: "Retention analysis retention"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/retention"
 category: "guides"
 topic: "analytics-platform/using/guided-analysis/retention"
-created_at: "2026-07-17T14:29:43.980682+00:00"
+created_at: "2026-07-22T13:03:12.506129+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -43359,7 +43834,7 @@ title: "Rolling date ranges in segments rolling-date-ranges-in-segments"
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/segmentation/rolling-date-ranges-in-segments"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:31:47.094467+00:00"
+created_at: "2026-07-22T13:05:06.784548+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -43390,7 +43865,7 @@ title: "Row and Column Settings in Freeform Tables"
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:32:48.633811+00:00"
+created_at: "2026-07-22T13:06:03.699489+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -43422,7 +43897,7 @@ title: "Row settings"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/column-row-settings/table-settings"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:31:19.426459+00:00"
+created_at: "2026-07-22T13:03:54.664729+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -43555,7 +44030,6 @@ Display only the selected rows in the visualization.
 Display all rows
 Display all rows in the visualization.
 Rename selected row
-Limited Testing Availability
 Rename the selected row. Enter a
 Name
 in the
@@ -43567,11 +44041,10 @@ Cancel
 to cancel. Once a row in a freeform table is renamed, the dimension name in the header column is appended with
 (modified)
 and a
-icon is available to reset renamed rows in the dimension header column. See
-Inline classification example
+icon is available to reset modified rows in the dimension header column. See
+Inline classifications
 .
 Combine selected rows
-Limited Testing Availability
 Combine the selected rows. Enter a
 Name
 in the
@@ -43580,19 +44053,18 @@ dialog. Select
 OK
 to confirm or
 Cancel
-to cancel. Once rows in a freeform table are combined, the dimension namein the header column is appended with
+to cancel. Once rows in a freeform table are combined, the dimension name in the header column is appended with
 (modified)
 and a
-icon is available to reset renamed rows in the dimension header column. See
-Inline classification example
+icon is available to reset modified rows in the dimension header column. See
+Inline classifications
 .
-Create as derived field
-Limited Testing Availability
+Create modified rows as derived field
 You must be a Customer Journey Analytics product administrator to see this context menu option.
 Available on any selected row of a freeform table which is modified as the result of renaming or combining rows. When selected, the
 Derived field interface
 opens with the modifications you have made to the freeform table already prefilled. See
-Inline classification example
+Inline classifications
 .
 Create annotation from selection
 Open up the
@@ -43637,32 +44109,34 @@ Reset column widths
 Reset the column widths to the default width.
 Create annotation from selection
 Open up the
-Annotation details
-to add an annotation.
+Annotation builder
+to build an annotation for the selection.
 Create segment from selection
 Open up the
 Segment builder
 to build a segment from the selection.
 Create audience from selection
 Open up the
-Create audience
-dialog to build an audience from the selection.
+Audience builder
+to build an audience from the selection.
 ## Change row height
 
 You can set the [view density](/en/docs/analytics-platform/using/cja-workspace/build-workspace-project/view-density) of a project to **Compact**, **Comfortable**, and **Expanded**.
 
-## Inline classifications example
+## Inline classifications inline-classifications-example
 
 AVAILABILITY
 The functionality described in this section is in the Limited Testing phase of release and might not be available yet in your environment. This note will be removed when the functionality is generally available. For information about the Customer Journey Analytics release process, see
 Customer Journey Analytics feature releases
 .
-This example illustrates how to use the **Rename selected row**, **Combine selected rows**, and **Create as derived field** context menu options. And how to reset the modified freeform table.
+Inline classifications enable you to rename or combine rows in a freeform table. And to create a derived field from the modified rows in a table.
+
+The example below illustrates how to use the **Rename selected row**, **Combine selected rows**, and **Create modified rows as derived field** context menu options. And how to reset the modified freeform table.
 
 - Rename No value row to Other . Select Rename selected row from the context menu in the selected No value row. In the Rename selected row dialog: Enter Other for Name . Select OK .
 - Combine Men and Women rows to one Adults row. Select Men and Women row. Select Combine selected rows from the context menu from any of the selected rows. In the Combine selected rows dialog: Enter Adults for Name . Select OK .
-- Create a derived field from the modifications in the freeform table. Select Create as derived field from the context menu for any selected row in the modified table. Inspect, optionally modify, and save the definition of the derived field based on all modifications made in the table.
-- Reset the freeform table to the state before modifications. Select next to dimension name (modified) . Select Reset renamed rows from the Rows renamed popup.
+- Create a derived field from the modifications in the freeform table. Select Create modified rows as derived field from the context menu for any selected row in the modified table. Inspect, optionally modify, and save the definition of the derived field based on all modifications made in the table.
+- Reset the freeform table to the state before modifications. Select next to dimension name (modified) . Select Reset modified rows from the Rows modified popup.
 
 recommendation-more-help
 
@@ -43676,7 +44150,7 @@ title: "Save projects save-projects"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/build-workspace-project/save-projects"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/build-workspace-project"
-created_at: "2026-07-17T14:28:13.162459+00:00"
+created_at: "2026-07-22T13:01:44.670011+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -43761,7 +44235,7 @@ title: "Scatter scatter"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:37.177715+00:00"
+created_at: "2026-07-22T13:02:07.738203+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -43811,7 +44285,7 @@ title: "Schedule Customer Journey Analytics workbooks using Report Builder"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/exporting/report-builder/schedule-cja-workbooks-using-report-builder"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/exporting/report-builder"
-created_at: "2026-07-17T14:32:22.555704+00:00"
+created_at: "2026-07-22T13:05:41.203947+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -43842,7 +44316,7 @@ title: "Schedule workbooks by exporting to cloud destinations"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-reportbuilder/report-builder-export"
 category: "other"
 topic: "analytics-platform/using/cja-reportbuilder/report-builder-export"
-created_at: "2026-07-17T14:32:17.042492+00:00"
+created_at: "2026-07-22T13:05:35.762429+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -43923,7 +44397,7 @@ title: "Schedule workbooks by sharing through email"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-reportbuilder/schedule-reportbuilder"
 category: "other"
 topic: "analytics-platform/using/cja-reportbuilder/schedule-reportbuilder"
-created_at: "2026-07-17T14:30:14.343195+00:00"
+created_at: "2026-07-22T13:03:40.141302+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -44021,7 +44495,7 @@ title: "Scheduled projects"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/scheduled-projects-manager"
 category: "other"
 topic: "analytics-platform/using/cja-components/scheduled-projects-manager"
-created_at: "2026-07-17T14:27:53.787879+00:00"
+created_at: "2026-07-22T13:01:26.842565+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -44169,7 +44643,7 @@ title: "Section header section-header"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/section-header"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:45.918409+00:00"
+created_at: "2026-07-22T13:02:16.538952+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -44209,7 +44683,7 @@ title: "Segmentation overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/seg-overview"
 category: "overview"
 topic: "analytics-platform/using/cja-components/segments"
-created_at: "2026-07-17T14:27:29.480472+00:00"
+created_at: "2026-07-22T13:01:02.198065+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -44372,7 +44846,7 @@ title: "Segmented metrics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/metrics-with-segments"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-calcmetrics"
-created_at: "2026-07-17T14:31:44.748845+00:00"
+created_at: "2026-07-22T13:05:04.642532+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -44442,7 +44916,7 @@ title: "Select a data view"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-reportbuilder/select-data-view"
 category: "other"
 topic: "analytics-platform/using/cja-reportbuilder/select-data-view"
-created_at: "2026-07-17T14:30:15.165943+00:00"
+created_at: "2026-07-22T13:03:40.823867+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -44495,7 +44969,7 @@ title: "Select a date range"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-reportbuilder/select-date-range"
 category: "other"
 topic: "analytics-platform/using/cja-reportbuilder/select-date-range"
-created_at: "2026-07-17T14:32:20.067122+00:00"
+created_at: "2026-07-22T13:05:38.951986+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -44673,7 +45147,7 @@ title: "Send and schedule projects"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/export/t-schedule-report"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/export"
-created_at: "2026-07-17T14:27:58.497737+00:00"
+created_at: "2026-07-22T13:01:31.401910+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -44770,7 +45244,7 @@ title: "Sequential Segmentation in Adobe Analytics sequential-segmentation-in-ad
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/segmentation/sequential-segmentation"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:32:52.589308+00:00"
+created_at: "2026-07-22T13:06:11.367303+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -44803,7 +45277,7 @@ title: "Sequential segments"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/seg-sequential-build"
 category: "other"
 topic: "analytics-platform/using/cja-components/segments"
-created_at: "2026-07-17T14:31:04.406773+00:00"
+created_at: "2026-07-22T13:04:27.510596+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -45087,7 +45561,7 @@ title: "Session settings session-settings"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/session-settings"
 category: "other"
 topic: "analytics-platform/using/cja-dataviews/session-settings"
-created_at: "2026-07-17T14:22:30.977120+00:00"
+created_at: "2026-07-22T12:56:04.897120+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -45124,7 +45598,7 @@ title: "Set up executive users to use dashboards"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dashboards/set-up-execs"
 category: "other"
 topic: "analytics-platform/using/cja-dashboards/set-up-execs"
-created_at: "2026-07-17T14:27:26.195734+00:00"
+created_at: "2026-07-22T13:00:58.895297+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -45219,7 +45693,7 @@ title: "Setup for B2B Edition use cases"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/b2b/b2b-edition/setup"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/b2b"
-created_at: "2026-07-17T14:31:15.149924+00:00"
+created_at: "2026-07-22T13:04:37.488331+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -45527,7 +46001,7 @@ title: "Share calculated metrics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/cm-sharing"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-calcmetrics"
-created_at: "2026-07-17T14:31:31.930749+00:00"
+created_at: "2026-07-22T13:04:53.083894+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -45573,7 +46047,7 @@ title: "Share projects share-projects"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/curate-share/share-projects"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/curate-share"
-created_at: "2026-07-17T14:22:35.830791+00:00"
+created_at: "2026-07-22T12:56:09.482698+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -45736,7 +46210,7 @@ title: "Share segments"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/seg-share"
 category: "other"
 topic: "analytics-platform/using/cja-components/segments"
-created_at: "2026-07-17T14:31:09.528809+00:00"
+created_at: "2026-07-22T13:04:32.092753+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -45784,7 +46258,7 @@ title: "Share with anyone in Analysis Workspace"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/analysis-workspace/curate-and-share"
-created_at: "2026-07-17T14:28:03.788140+00:00"
+created_at: "2026-07-22T13:01:36.189941+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -45817,7 +46291,7 @@ title: "Shared component editor"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/shared-metrics-dimensions/shared-component-editor"
 category: "other"
 topic: "analytics-platform/using/cja-dataviews/shared-metrics-dimensions"
-created_at: "2026-07-17T14:32:06.282061+00:00"
+created_at: "2026-07-22T13:05:25.052713+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -45858,7 +46332,7 @@ title: "Shared devices"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/stitching/shared-devices"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/stitching"
-created_at: "2026-07-17T14:30:23.646953+00:00"
+created_at: "2026-07-22T13:03:48.970139+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -46013,7 +46487,7 @@ title: "Shared metrics & dimensions overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/shared-metrics-dimensions/smd-overview"
 category: "overview"
 topic: "analytics-platform/using/cja-dataviews/shared-metrics-dimensions"
-created_at: "2026-07-17T14:28:58.398832+00:00"
+created_at: "2026-07-22T13:02:28.960440+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -46083,7 +46557,7 @@ title: "Single dimension ranked"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-views/bi-extension/single-dimension-ranked"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-views"
-created_at: "2026-07-17T14:32:33.065004+00:00"
+created_at: "2026-07-22T13:05:51.000002+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -46133,7 +46607,7 @@ title: "Sort"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-views/bi-extension/sort"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-views"
-created_at: "2026-07-17T14:32:33.938391+00:00"
+created_at: "2026-07-22T13:05:51.856210+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -46191,7 +46665,7 @@ title: "Standalone configuration"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/standalone"
 category: "other"
 topic: "analytics-platform/using/content-analytics/configuration"
-created_at: "2026-07-17T14:30:33.384901+00:00"
+created_at: "2026-07-22T13:03:59.147988+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -46442,7 +46916,7 @@ title: "Standard component reference"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-reference"
 category: "reference"
 topic: "analytics-platform/using/cja-dataviews/component-reference"
-created_at: "2026-07-17T14:22:25.754036+00:00"
+created_at: "2026-07-22T12:56:00.174713+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -46662,7 +47136,7 @@ title: "Statistical techniques"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/anomaly-detection/statistics-anomaly-detection"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/anomaly-detection"
-created_at: "2026-07-17T14:32:05.566459+00:00"
+created_at: "2026-07-22T13:05:24.363525+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -46742,7 +47216,7 @@ title: "Statistical techniques"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/forecasting/statistics-forecasting"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/forecasting"
-created_at: "2026-07-17T14:30:27.975786+00:00"
+created_at: "2026-07-22T13:03:52.759364+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -46817,7 +47291,7 @@ title: "Step 1: Get started with the upgrade to Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/cja-upgrade-getstarted"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:27:02.039463+00:00"
+created_at: "2026-07-22T13:00:34.968856+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -46905,7 +47379,7 @@ title: "Step 2: Choose your upgrade path"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/cja-upgrade-path"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:30:53.206712+00:00"
+created_at: "2026-07-22T13:04:16.795572+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -47136,7 +47610,7 @@ title: "Step 3: Send data to Adobe Experience Platform when upgrading"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/cja-upgrade-send-to-platform"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:30:53.980203+00:00"
+created_at: "2026-07-22T13:04:17.543690+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -47216,7 +47690,7 @@ title: "Step 4: Retain historical data when upgrading"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/cja-upgrade-historical-data"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:30:51.750948+00:00"
+created_at: "2026-07-22T13:04:15.892320+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -47299,7 +47773,7 @@ title: "Stitching overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/stitching/overview"
 category: "overview"
 topic: "analytics-platform/using/stitching/overview"
-created_at: "2026-07-17T14:22:53.439627+00:00"
+created_at: "2026-07-22T12:56:26.427497+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -47428,7 +47902,7 @@ title: "Sub-event analysis"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/sub-event"
 category: "other"
 topic: "analytics-platform/using/cja-components/segments"
-created_at: "2026-07-17T14:27:30.316723+00:00"
+created_at: "2026-07-22T13:01:02.923400+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -47494,7 +47968,7 @@ title: "Substring component settings substring-component-settings"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-settings/substring"
 category: "other"
 topic: "analytics-platform/using/cja-dataviews/component-settings"
-created_at: "2026-07-17T14:27:37.654148+00:00"
+created_at: "2026-07-22T13:01:10.628865+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -47695,7 +48169,7 @@ title: "Summary data group component settings summary-data-group-component-setti
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-settings/summary-data-group"
 category: "other"
 topic: "analytics-platform/using/cja-dataviews/component-settings"
-created_at: "2026-07-17T14:27:48.150044+00:00"
+created_at: "2026-07-22T13:01:19.519818+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -47750,7 +48224,7 @@ title: "Summary data"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/summary-data"
 category: "other"
 topic: "analytics-platform/using/cja-dataviews/summary-data"
-created_at: "2026-07-17T14:22:31.788054+00:00"
+created_at: "2026-07-22T12:56:05.657914+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -47964,7 +48438,7 @@ title: "Summary number and change"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:38.086287+00:00"
+created_at: "2026-07-22T13:02:08.628113+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -48067,7 +48541,7 @@ title: "Table of contents"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/build-workspace-project/project-table-of-contents"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/build-workspace-project"
-created_at: "2026-07-17T14:28:11.775073+00:00"
+created_at: "2026-07-22T13:01:43.710744+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -48110,7 +48584,7 @@ title: "Tag calculated metrics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/cm-tagging"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-calcmetrics"
-created_at: "2026-07-17T14:31:32.701484+00:00"
+created_at: "2026-07-22T13:04:53.784192+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -48148,7 +48622,7 @@ title: "Tag segments"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/seg-tag"
 category: "other"
 topic: "analytics-platform/using/cja-components/segments"
-created_at: "2026-07-17T14:32:14.670681+00:00"
+created_at: "2026-07-22T13:05:33.525867+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -48196,7 +48670,7 @@ title: "Target reporting"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/integrations/at"
 category: "other"
 topic: "analytics-platform/using/integrations/at"
-created_at: "2026-07-17T14:29:48.833701+00:00"
+created_at: "2026-07-22T13:03:16.873048+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -48247,7 +48721,7 @@ title: "Text text-visualization"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/text"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:39.196570+00:00"
+created_at: "2026-07-22T13:02:09.470327+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -48310,7 +48784,7 @@ title: "Tie Quantum Metric session replays to data in Customer Journey Analytics
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/third-party/qm/tie-session-replays"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/third-party"
-created_at: "2026-07-17T14:32:44.928063+00:00"
+created_at: "2026-07-22T13:06:02.245018+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -48417,7 +48891,7 @@ title: "Time-parting dimensions"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/dimensions/time-parting-dimensions"
 category: "other"
 topic: "analytics-platform/using/cja-components/dimensions"
-created_at: "2026-07-17T14:31:45.460320+00:00"
+created_at: "2026-07-22T13:05:05.360452+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -48470,7 +48944,7 @@ title: "Timeline analysis timeline"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/timeline"
 category: "guides"
 topic: "analytics-platform/using/guided-analysis/timeline"
-created_at: "2026-07-17T14:29:44.858818+00:00"
+created_at: "2026-07-22T13:03:13.251598+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -48542,7 +49016,7 @@ title: "Totals workspace-totals"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/workspace-totals"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:31:20.237828+00:00"
+created_at: "2026-07-22T13:04:41.719040+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -48634,7 +49108,7 @@ title: "Training Tutorial Template in Analysis Workspace"
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:31:24.187617+00:00"
+created_at: "2026-07-22T13:04:45.207331+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -48669,7 +49143,7 @@ title: "Transfer assets"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/tools/asset-transfer/transfer-assets"
 category: "other"
 topic: "analytics-platform/using/tools/asset-transfer"
-created_at: "2026-07-17T14:28:02.701347+00:00"
+created_at: "2026-07-22T13:01:35.459541+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -48749,7 +49223,7 @@ title: "Transform datasets for B2B lookups"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/transform-datasets-b2b-lookups"
 category: "other"
 topic: "analytics-platform/using/cja-connections/transform-datasets-b2b-lookups"
-created_at: "2026-07-17T14:27:14.325824+00:00"
+created_at: "2026-07-22T13:00:47.009075+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -48814,7 +49288,7 @@ title: "Transformations"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-views/bi-extension/transformations"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-views"
-created_at: "2026-07-17T14:32:34.827616+00:00"
+created_at: "2026-07-22T13:05:52.877660+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -48883,7 +49357,7 @@ title: "Transition from the Analytics source connector to the Web SDK for Custom
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/other-upgrade-scenarios/cja-upgrade-from-source-connector"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:29.775137+00:00"
+created_at: "2026-07-22T13:02:59.242823+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -48938,7 +49412,7 @@ title: "Transition guide"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2b/cja-b2b-transition"
 category: "overview"
 topic: "analytics-platform/using/cja-overview/cja-b2b"
-created_at: "2026-07-17T14:27:51.330444+00:00"
+created_at: "2026-07-22T13:01:24.049902+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -48999,7 +49473,7 @@ title: "Transitioning from Google Analytics 4 to Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/ga-to-cja/home"
 category: "overview"
 topic: "analytics-platform/using/compare-aa-cja/ga-to-cja"
-created_at: "2026-07-17T14:30:31.461413+00:00"
+created_at: "2026-07-22T13:03:56.849876+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -49096,7 +49570,7 @@ title: "Treemap treemap"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/treemap"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:39.912671+00:00"
+created_at: "2026-07-22T13:02:10.212272+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -49142,7 +49616,7 @@ title: "Trends analysis trends"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/trends"
 category: "guides"
 topic: "analytics-platform/using/guided-analysis/trends"
-created_at: "2026-07-17T14:29:45.594694+00:00"
+created_at: "2026-07-22T13:03:14.049357+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -49221,7 +49695,7 @@ title: "Troubleshoot failed exports"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/exports/troubleshoot-exports"
 category: "other"
 topic: "analytics-platform/using/cja-components/exports"
-created_at: "2026-07-17T14:27:06.522258+00:00"
+created_at: "2026-07-22T13:00:38.987810+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -49300,7 +49774,7 @@ title: "Understand Adobe Analytics feature support when upgrading to Customer Jo
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/additional-information/cja-upgrade-adobe-analytics-features"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:09.849061+00:00"
+created_at: "2026-07-22T13:02:40.032327+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -49366,7 +49840,7 @@ title: "Understand features unique to Customer Journey Analytics feature-support
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/additional-information/cja-upgrade-customer-journey-analytics-features"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:11.403152+00:00"
+created_at: "2026-07-22T13:02:41.549173+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -49431,7 +49905,7 @@ title: "Understand Web SDK implementation options when upgrading to Customer Jou
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/additional-information/cja-upgrade-websdk-implementation"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:13.189626+00:00"
+created_at: "2026-07-22T13:02:43.082149+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -49474,7 +49948,7 @@ title: "Understand your Adobe Analytics implementation and how it affects your u
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/additional-information/cja-upgrade-analytics-implementation"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:10.612290+00:00"
+created_at: "2026-07-22T13:02:40.808412+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -49576,7 +50050,7 @@ title: "Understanding How Customer Journey Analytics Uses Identity"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/visitor-id/understanding-how-customer-journey-analytics-uses-identity"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/visitor-id/understanding-how-customer-journey-analytics-uses-identity"
-created_at: "2026-07-17T14:30:49.868058+00:00"
+created_at: "2026-07-22T13:04:14.184984+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -49609,7 +50083,7 @@ title: "Upgrade alternative: Send your data layer to Customer Journey Analytics 
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/alternative-upgrade-methods/cja-upgrade-alternative-data-layer"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:14.714740+00:00"
+created_at: "2026-07-22T13:02:44.552825+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -49669,7 +50143,7 @@ title: "Upgrade alternative: Use AppMeasurement data collection with the Experie
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/alternative-upgrade-methods/cja-upgrade-alternative-appmeasurement"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:13.989476+00:00"
+created_at: "2026-07-22T13:02:43.840079+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -49735,7 +50209,7 @@ title: "Upgrade alternative: Use the Analytics source connector exclusively to u
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/alternative-upgrade-methods/cja-upgrade-alternative-source-connector"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:15.444699+00:00"
+created_at: "2026-07-22T13:02:45.296131+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -49788,7 +50262,7 @@ title: "Upgrade from a third-party analytics solution to Customer Journey Analyt
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/other-upgrade-scenarios/cja-upgrade-third-party-solution"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:32:46.503722+00:00"
+created_at: "2026-07-22T13:06:05.212981+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -49831,7 +50305,7 @@ title: "Upgrade from Adobe Analytics to Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/cja-upgrade-recommendations"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:22:47.671231+00:00"
+created_at: "2026-07-22T12:56:21.464103+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -49924,7 +50398,7 @@ title: "Use Adobe Analytics report suite data"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/cja-aa-comparison/aa-data-in-cja"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/cja-aa-comparison"
-created_at: "2026-07-17T14:22:43.274521+00:00"
+created_at: "2026-07-22T12:56:16.916173+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -49984,7 +50458,7 @@ title: "Use arrays of objects"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/complex-data"
-created_at: "2026-07-17T14:28:47.819010+00:00"
+created_at: "2026-07-22T13:02:18.113676+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -50275,7 +50749,7 @@ title: "Use binding dimensions and metrics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-views/binding-dimensions-metrics"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-views"
-created_at: "2026-07-17T14:30:20.284110+00:00"
+created_at: "2026-07-22T13:03:45.841835+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -50439,7 +50913,7 @@ title: "Use components in a project"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/use-components-in-workspace"
 category: "other"
 topic: "analytics-platform/using/cja-components/use-components-in-workspace"
-created_at: "2026-07-17T14:28:26.537381+00:00"
+created_at: "2026-07-22T13:01:57.221274+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -50534,7 +51008,7 @@ title: "Use date range names to filter"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-views/bi-extension/use-date-range-names-to-filter"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-views"
-created_at: "2026-07-17T14:32:35.887757+00:00"
+created_at: "2026-07-22T13:05:53.671685+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -50590,7 +51064,7 @@ title: "Use derived fields to report on goals"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-views/derived-fields/goals-using-derived-fields"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-views"
-created_at: "2026-07-17T14:30:21.997085+00:00"
+created_at: "2026-07-22T13:03:47.357162+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -50658,7 +51132,7 @@ title: "Use dimension values to segment"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-views/bi-extension/use-dimension-values-to-segment"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-views"
-created_at: "2026-07-17T14:32:36.763866+00:00"
+created_at: "2026-07-22T13:05:54.638918+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -50712,7 +51186,7 @@ title: "Use functions"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/cm-using-functions"
 category: "other"
 topic: "analytics-platform/using/cja-components/cja-calcmetrics"
-created_at: "2026-07-17T14:32:16.252520+00:00"
+created_at: "2026-07-22T13:05:34.953922+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -50748,7 +51222,7 @@ title: "Use Marketing channel dimensions"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/aa-data/marketing-channels"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/aa-data"
-created_at: "2026-07-17T14:29:01.063848+00:00"
+created_at: "2026-07-22T13:02:31.372992+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -50830,7 +51304,7 @@ title: "Use Quantum Metric heatmaps with Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/third-party/qm/heatmap"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/third-party"
-created_at: "2026-07-17T14:32:44.183588+00:00"
+created_at: "2026-07-22T13:06:01.237209+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -50882,7 +51356,7 @@ title: "Use real-time reporting use-real-time-reporting"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/real-time-reporting/use-real-time"
 category: "other"
 topic: "analytics-platform/using/cja-components/real-time-reporting"
-created_at: "2026-07-17T14:27:08.381673+00:00"
+created_at: "2026-07-22T13:00:40.977367+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -50936,7 +51410,7 @@ title: "Use segment names to segment"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-views/bi-extension/use-segment-names-to-segment"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-views"
-created_at: "2026-07-17T14:32:37.696303+00:00"
+created_at: "2026-07-22T13:05:55.540574+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -50990,7 +51464,7 @@ title: "Use segments as dimensions in Analysis Workspace projects"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/components/filters/use-filters-as-dimensions"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/components/filters"
-created_at: "2026-07-17T14:30:42.864755+00:00"
+created_at: "2026-07-22T13:04:08.303565+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -51023,7 +51497,7 @@ title: "Use summary data"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-views/summary-data"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-views"
-created_at: "2026-07-17T14:27:49.807202+00:00"
+created_at: "2026-07-22T13:01:22.579244+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -51445,7 +51919,7 @@ title: "Use templates"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/templates/use-templates"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/templates"
-created_at: "2026-07-17T14:27:11.403009+00:00"
+created_at: "2026-07-22T13:00:44.161996+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -52607,7 +53081,7 @@ title: "Use the Data Dictionary"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/components/data-dictionary/use-data-dictionary"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/components/data-dictionary"
-created_at: "2026-07-17T14:31:35.926214+00:00"
+created_at: "2026-07-22T13:04:56.812669+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -52638,7 +53112,7 @@ title: "User Guide for Adobe Analytics users"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/aa-to-cja-user"
 category: "guides"
 topic: "analytics-platform/using/compare-aa-cja/aa-to-cja-user"
-created_at: "2026-07-17T14:27:01.262539+00:00"
+created_at: "2026-07-22T13:00:34.211917+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -52758,7 +53232,7 @@ title: "User preferences"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/user-preferences"
 category: "reference"
 topic: "analytics-platform/using/cja-workspace/user-preferences"
-created_at: "2026-07-17T14:27:59.491968+00:00"
+created_at: "2026-07-22T13:01:32.503160+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -53233,7 +53707,7 @@ title: "Using Date Ranges and Comparisons in Analysis Workspace"
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:32:47.200426+00:00"
+created_at: "2026-07-22T13:06:06.098152+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -53267,7 +53741,7 @@ title: "Using Drop-Down Filters in Analysis Workspace using-drop-down-filters-in
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:28:27.258287+00:00"
+created_at: "2026-07-22T13:01:57.999312+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -53306,7 +53780,7 @@ title: "Validate stitching"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/stitching/validate"
 category: "other"
 topic: "analytics-platform/using/stitching/validate"
-created_at: "2026-07-17T14:30:38.286891+00:00"
+created_at: "2026-07-22T13:04:04.021676+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -53448,7 +53922,7 @@ title: "Validate that data is flowing to Customer Journey Analytics validate-dat
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/cja-upgrade-validate"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/upgrade-to-cja"
-created_at: "2026-07-17T14:29:19.420611+00:00"
+created_at: "2026-07-22T13:02:49.138388+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -53486,7 +53960,7 @@ title: "Value Bucketing component settings value-bucketing-component-settings"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-settings/value-bucketing"
 category: "other"
 topic: "analytics-platform/using/cja-dataviews/component-settings"
-created_at: "2026-07-17T14:27:38.417748+00:00"
+created_at: "2026-07-22T13:01:11.334051+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -53530,7 +54004,7 @@ title: "Venn Diagram Visualization in Analysis Workspace"
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/visualizations/venn-diagram-visualization"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:31:58.367983+00:00"
+created_at: "2026-07-22T13:05:17.709923+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -53564,7 +54038,7 @@ title: "Venn venn"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/venn"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:28:40.657481+00:00"
+created_at: "2026-07-22T13:02:10.916414+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -53618,7 +54092,7 @@ title: "View anomalies"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/anomaly-detection/view-anomalies"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/anomaly-detection"
-created_at: "2026-07-17T14:31:18.249800+00:00"
+created_at: "2026-07-22T13:04:40.938017+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -53664,7 +54138,7 @@ title: "View component information"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/data-dictionary/view-data-dictionary"
 category: "other"
 topic: "analytics-platform/using/cja-components/data-dictionary"
-created_at: "2026-07-17T14:30:01.518449+00:00"
+created_at: "2026-07-22T13:03:28.430287+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -53704,7 +54178,7 @@ title: "View density"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/build-workspace-project/view-density"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/build-workspace-project"
-created_at: "2026-07-17T14:31:17.424813+00:00"
+created_at: "2026-07-22T13:04:40.238483+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -53746,7 +54220,7 @@ title: "View reporting activity view-reporting-activity"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity"
 category: "other"
 topic: "analytics-platform/using/reporting-activity-manager/reporting-activity"
-created_at: "2026-07-17T14:30:35.803004+00:00"
+created_at: "2026-07-22T13:04:01.646418+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -54033,7 +54507,7 @@ title: "View trended data for a freeform table"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/freeform-table-trended-data"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:32:02.309128+00:00"
+created_at: "2026-07-22T13:05:21.208699+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -54107,7 +54581,7 @@ title: "View, troubleshoot, and modify connection settings"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/connections/connections-details-experience-in-cja"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/connections/connections-details-experience-in-cja"
-created_at: "2026-07-17T14:27:21.450761+00:00"
+created_at: "2026-07-22T13:00:54.231333+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -54138,7 +54612,7 @@ title: "Virtual report suites, Data views, Adobe Experience Platform sandboxes, 
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/cja-aa-comparison/vrs-dataview-sandbox-adc"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/cja-aa-comparison"
-created_at: "2026-07-17T14:28:56.154534+00:00"
+created_at: "2026-07-22T13:02:26.246547+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -54233,7 +54707,7 @@ title: "Visualization color palettes visualization-color-palettes"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/build-workspace-project/color-palettes"
 category: "other"
 topic: "analytics-platform/using/cja-workspace/build-workspace-project"
-created_at: "2026-07-17T14:31:15.867568+00:00"
+created_at: "2026-07-22T13:04:38.499881+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -54275,7 +54749,7 @@ title: "Visualizations overview"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations"
 category: "overview"
 topic: "analytics-platform/using/cja-workspace/visualizations"
-created_at: "2026-07-17T14:22:40.899566+00:00"
+created_at: "2026-07-22T12:56:14.749518+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -54494,7 +54968,7 @@ title: "Visualizations"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/data-views/bi-extension/visualizations"
 category: "other"
 topic: "analytics-platform/using/cja-usecases/data-views"
-created_at: "2026-07-17T14:32:38.996376+00:00"
+created_at: "2026-07-22T13:05:56.665164+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -54615,7 +55089,7 @@ title: "Visualize data with Data Insights Agent"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai?lang=en"
 category: "overview"
 topic: "analytics-platform/using/cja-overview/cja-b2c-overview"
-created_at: "2026-07-17T14:29:00.252141+00:00"
+created_at: "2026-07-22T13:02:30.628272+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -54878,7 +55352,7 @@ title: "Visualize data with Data Insights Agent"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai"
 category: "overview"
 topic: "analytics-platform/using/cja-overview/cja-b2c-overview"
-created_at: "2026-07-17T14:27:39.207120+00:00"
+created_at: "2026-07-22T13:01:12.303741+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -55141,7 +55615,7 @@ title: "What is Customer Journey Analytics?"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/cja-basics/what-is-customer-journey-analytics"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/cja-basics/what-is-customer-journey-analytics"
-created_at: "2026-07-17T14:26:59.738351+00:00"
+created_at: "2026-07-22T13:00:32.503162+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 
@@ -55173,7 +55647,7 @@ title: "Why GA4 and Customer Journey Analytics data differs"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/ga-to-cja/compare-data"
 category: "other"
 topic: "analytics-platform/using/compare-aa-cja/ga-to-cja"
-created_at: "2026-07-17T14:33:00.922299+00:00"
+created_at: "2026-07-22T13:06:18.221738+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -55293,7 +55767,7 @@ title: "Work with Dimensions in a Freeform Table"
 url: "https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table"
 category: "tutorials"
 topic: "analytics/analytics-tutorials"
-created_at: "2026-07-17T14:32:00.129006+00:00"
+created_at: "2026-07-22T13:05:19.147111+00:00"
 ---
 Breadcrumbs: Documentation > Analytics > Analytics Tutorials
 
@@ -55339,7 +55813,7 @@ title: "Work with segments"
 url: "https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-reportbuilder/work-with-filters"
 category: "other"
 topic: "analytics-platform/using/cja-reportbuilder/work-with-filters"
-created_at: "2026-07-17T14:32:20.838119+00:00"
+created_at: "2026-07-22T13:05:39.750756+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics > Customer Journey Analytics Guide
 
@@ -55435,7 +55909,7 @@ title: "Working with Data in Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-prep/working-with-data-in-cja"
 category: "tutorials"
 topic: "customer-journey-analytics-learn/tutorials/data-prep/working-with-data-in-cja"
-created_at: "2026-07-17T14:27:00.498761+00:00"
+created_at: "2026-07-22T13:00:33.337792+00:00"
 ---
 Breadcrumbs: Documentation > Customer Journey Analytics
 

@@ -6,19 +6,19 @@
 ---
 title: "Adobe Experience Platform Agent Orchestrator"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/agent-orchestrator"
-created_at: "2026-07-17T14:40:36.361052+00:00"
+created_at: "2026-07-22T13:13:36.899326+00:00"
 ---
-Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe Experience Cloud
+Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe CX Enterprise
 
 # Adobe Experience Platform Agent Orchestrator
 
-Last update: April 2, 2026
+Last update: July 21, 2026
 CREATED FOR:
 
-- Admin
 - User
-- Developer
+- Admin
 - Leader
+- Developer
 
 Adobe Experience Platform Agent Orchestrator is the new agentic layer in Adobe Experience Platform. Designed to leverage Experience Platform’s rich data and customer knowledge, Experience Platform Agent Orchestrator powers the intelligence and reasoning behind purpose-built expert Adobe Experience Platform Agents, enabling them to execute complex decision-making and problem-solving tasks at speed and scale — all with human oversight. When you ask questions or request help via natural language in a conversational interface like AI Assistant, Agent Orchestrator automatically calls upon specialized agents to get you the right answers. Agent Orchestrator remembers your conversation history, enabling you to build on previous questions naturally without repeating context, and combines insights from multiple agents to present you with clear, unified responses.
 
@@ -33,9 +33,9 @@ Agent Orchestrator is made up of several key components, including the AI Assist
 
 ### AI Assistant conversational interface ai-assistant
 
-AI Assistant is an intelligent, natural language conversational experience that lets practitioners using enabled Experience Cloud applications to leverage GenAI and Agentic AI capabilities, the breadth of which depends on the Experience Cloud applications licensed by customers. To unlock access, read [the guide on accessing AI Assistant](/en/docs/experience-platform/ai-assistant/access).
+AI Assistant is an intelligent, natural language conversational experience that lets practitioners using enabled CX Enterprise applications to leverage GenAI and Agentic AI capabilities, the breadth of which depends on the CX Enterprise applications licensed by customers. To unlock access, read [the guide on accessing AI Assistant](/en/docs/experience-platform/ai-assistant/access).
 
-For more information, read the [AI Assistant UI guide](/en/docs/experience-cloud-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui).
+For more information, read the [AI Assistant UI guide](/en/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui).
 
 ### Reasoning engine reasoning-engine
 
@@ -43,7 +43,7 @@ Reasoning engine interprets your goals based on your natural language prompts, c
 
 ### Adobe Experience Platform Agents agents
 
-Adobe Experience Platform Agents are purpose-built grouping of AI agents skilled in delivering common jobs across customer experience domains. Below is the list of Adobe Experience Platform Agents that are currently available in Experience Cloud applications:
+Adobe Experience Platform Agents are purpose-built grouping of AI agents skilled in delivering common jobs across customer experience domains. Below is the list of Adobe Experience Platform Agents that are currently available in CX Enterprise applications:
 
 Agent
 Details
@@ -71,7 +71,7 @@ Product Support Agent is a self-serve debugging and troubleshooting capability t
 - Customer Journey Analytics
 - Adobe Experience Manager
 
-For further information around availability of Agents in Experience Cloud applications, please review the [Agentic AI in Experience Cloud documentation](/en/docs/core-services/interface/features/agentic-ai).
+For further information around availability of Agents in CX Enterprise applications, please review the [Agentic AI in CX Enterprise documentation](/en/docs/cx-enterprise-ai/experience-cloud-ai/overview/agentic-ai).
 
 ### Knowledge base knowledge-base
 
@@ -109,13 +109,13 @@ recommendation-more-help
 ---
 title: "Adobe Marketing Agent for Microsoft 365 Copilot"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms"
-created_at: "2026-07-17T14:40:42.590787+00:00"
+created_at: "2026-07-22T13:13:43.255752+00:00"
 ---
-Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe Experience Cloud
+Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe CX Enterprise
 
 # Adobe Marketing Agent for Microsoft 365 Copilot
 
-Last update: April 2, 2026
+Last update: July 21, 2026
 CREATED FOR:
 
 - Admin
@@ -163,7 +163,7 @@ Before you can use the Adobe Marketing Agent for Microsoft 365 Copilot, you must
 - Microsoft 365 with Microsoft Teams or Microsoft Copilot Chat.
 - Experience Platform and at least one of: Real-Time CDP, Adobe Journey Optimizer, and/or Customer Journey Analytics.
 - Entitlement to the Experience Platform Agent Orchestrator and agents.
-- Access to your organization’s Adobe Experience Cloud account (sign-in and product entitlements) for the solutions and data you use. If you do not have Adobe access, contact your Adobe administrator.
+- Access to your organization’s Adobe CX Enterprise account (sign-in and product entitlements) for the solutions and data you use. If you do not have Adobe access, contact your Adobe administrator.
 
 ## Enable the agent for your organization enable-the-agent-for-your-organization
 
@@ -200,7 +200,7 @@ Allow for a few moments for the agent to calculate and then the agent responds w
 
 You can further investigate by selecting follow-up questions that the agent recommends. Alternatively, you can pivot and try different starter prompts, verify the information sources that the agent referenced, or provide feedback using the feedback mechanism.
 
-For more information on the AI Assistant UI features, read the guide on [using the AI Assistant](/en/docs/experience-cloud-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui).
+For more information on the AI Assistant UI features, read the guide on [using the AI Assistant](/en/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui).
 
 ## Security, Privacy, and Responsible AI
 
@@ -271,243 +271,25 @@ recommendation-more-help
 
 
 ---
-# FILE: ai-assistant-a63c275e.md
----
-
----
-title: "AI Assistant"
-url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui"
-created_at: "2026-07-17T14:42:46.656033+00:00"
----
-Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe Experience Cloud
-
-# AI Assistant
-
-Last update: March 31, 2026
-CREATED FOR:
-
-- Admin
-- User
-- Developer
-- Leader
-
-IMPORTANT
-This document applies to AI Assistant (Next-Gen). For information on AI Assistant (Legacy), read the
-AI Assistant UI guide
-in the Adobe Experience Platform documentation.
-Refer to the following table for a comparison of AI Assistant (Legacy) and AI Assistant (Next-Gen):
-
-Feature Area
-AI Assistant (Legacy)
-AI Assistant (Next-Gen)
-User experience
-AI Assistant (Legacy) is available in a right-rail panel only.
-AI Assistant (Next-Gen) is available in both right-rail panel and immersive full-screen experience.
-Scope of capabilities
-You can use AI Assistant (Legacy) for both product knowledge and operational insights.
-You can use AI Assistant (Next-Gen) for product knowledge, operational insights, as well as advanced agentic skills and multi-step task execution.
-Platform architecture
-AI Assistant (Legacy) is not built on the Agent Orchestrator stack.
-AI Assistant (Next-Gen) is powered by
-Adobe Experience Platform Agent Orchestrator
-, enabling extensibility and advanced coordination across capabilities.
-Application coverage
-AI Assistant (Legacy) is an application-specific implementation.
-You can use AI Assistant (Next-Gen) for a unified AI Assistant experience across all Adobe Experience Cloud applications.
-Access and permission model
-Application-scoped access model aligned to individual product boundaries.
-All users get access to AI Assistant (Next-Gen) and associated Experience Platform agents. **Note**:
-
-- **Adobe Experience Manager**: Your administrator must grant you the permission to access AI Assistant (Next-Gen) through the [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html).
-- **Customer Journey Analytics**: Your administrator must grant you the permission to access AI Assistant through [Customer Journey Analytics Access Control](/en/docs/analytics-platform/using/technotes/access-control?lang=en). This allows you to ask product knowledge and data insights questions.
-
-AI Assistant is an intelligent conversational, generative AI tool that will boost productivity and redefine work in Adobe Experience Platform-based Applications. You can use AI Assistant to access Adobe Experience Platform Agents and other AI capabilities.
-
-Read this guide to learn how you can use AI Assistant.
-
-agent-orchestrator-ui
-## Access AI Assistant
-
-There are several ways to access AI Assistant.
-
-In the Experience Cloud home interface, select **AI Assistant** from the left-navigation to launch a full-screen view of AI Assistant.
-
-Select to view
-You can also launch AI Assistant from the home pages of Experience Cloud applications such as Experience Platform, Adobe Journey Optimizer, and Customer Journey Analytics. Navigate to your product home page and then select the **AI Assistant icon** from the top header to launch the AI Assistant chat panel on the right rail.
-
-Select to view
-## Navigate the AI Assistant user interface
-
-Read this section to learn how you can navigate the AI Assistant interface.
-
-### Full screen view
-
-The AI Assistant interface includes several key elements to help you interact effectively:
-
-- **Conversations**: Select the **Conversations** icon to start a new conversation and access recent conversations from your history. For more information, read the section on [conversations](#conversations).
-- **Input box**: Select the input box to enter questions and prompts for AI Assistant. For more information, read the section on [input features](#input-features).
-- **Data and object autocomplete**: - Select the plus icon to use data and object suggestion and autocomplete. When selected, you can use a pop-up window to select suggested entities. For more information, read the section on [data and object autocomplete](#autocomplete).
-- **Context setting**: - Select the Context setting icon to configure information sources for AI Assistant. You can use this tool to configure the application, sandbox, and dataview that AI Assistant references in order to answer your query. For more information, read the section on [context setting](#context-setting).
-- **Discovery**: - Select **Learn**, **Analyze**, and **Optimize** to view sample queries that you can use to get started. For more information, read the section on [discoverability prompts](#discoverability-prompts).
-
-### Rail view
-
-The rail view provides quick access to chat, discovery prompts, updates, conversations, and interface controls in a compact panel.
-
-- **Chat**: Select **Chat** from the header to return to your conversation in the event that you left to access different elements on the interface.
-- **Discovery**: Select **Discovery** to view a list of AI Assistant prompts organized by category. You can use these pre-configured prompts to populate your chat. Additionally, you can tweak the suggested prompts to meet your particular use case.
-- **What’s New**: Select **What’s New** to view a list of the latest updates available to AI Assistant.
-- **Conversations**: Select the **Conversations** icon to start a new conversation and access recent conversations from your history. For more information, read the section on [conversations](#conversations).
-- **Full screen view**: Select the **Full screen view** icon to change your AI Assistant interface from the right rail to full screen mode.
-- **Data and object autocomplete**: Select the plus icon to use data and object suggestion and autocomplete. When selected, you can use a pop-up window to select suggested entities. For more information, read the section on [data and object autocomplete](#autocomplete).
-- **Context setting**: Select the Context setting icon to configure information sources for AI Assistant. You can use this tool to configure the application, sandbox, and dataview that AI Assistant references in order to answer your query. For more information, read the section on [context setting](#context-setting).
-
-## AI Assistant UI guide
-
-This section provides an overview of the main features and navigation options in the AI Assistant user interface. It explains how to access AI Assistant, describes the layout and controls in both full screen and rail views, and introduces key tools such as conversations, input features, autocomplete, context setting, and discovery prompts. The following sections offer detailed guidance on using these features to interact with AI Assistant and get the most out of your experience.
-
-### Discovery prompts discovery-prompts
-
-You can use AI Assistant’s discovery feature to view a list of the general subjects, grouped into entities, that AI Assistant supports. Discovery prompts are different depending on your starting point.
-
-Use discovery from the full screen view
-From the full screen view, discovery prompts are grouped into three categories: **Learn**, **Analyze**, and **Optimize**.
-
-To use discovery prompts to advance product knowledge, select **Learn** and then select a prompt from the dropdown window that appears.
-
-Use discover from the rail view
-Select **Discovery** from the rail view to access an extensive list of discovery prompts that you can use to get started and populate your chat with AI Assistant.
-
-Select a prompt to populate the input box. From here, you can edit the prompt to fit your particular use case. When ready, select the send icon on the right to submit your query.
-
-## Interacting with responses
-
-### Check for reasoning process reasoning
-
-AI Assistant then queries its knowledge base and computes an answer. After a few moments, AI Assistant returns an answer, including options to dive deeper into its reasoning process, related suggestions, information sources, and feedback tools.
-
-To better understand the underlying reasoning process, select **Reasoning complete**.
-
-The *Reasoning complete* window expands to display a summary of your request and details on how the response was crafted.
-
-### Use related suggestions
-
-Next, navigate down to the bottom of the response and select **Related suggestions** to receive a list of prompts relating to your initial query. You can use these prompts to further continue your conversation with AI Assistant.
-
-### View sources
-
-To verify AI Assistant’s response, select **Sources** to view a list of information sources that AI Assistant referenced when calculating its response.
-
-### Provide feedback
-
-You can provide feedback of your experience with AI Assistant using the options provided with answer.
-
-To provide feedback, select either thumbs up or thumbs down after receiving a response from AI Assistant, and then input your feedback in the provided text box.
-
-Thumbs up
-Select **Thumbs up** to provide positive feedback. You can optionally select from a list of positive feedback or use the input box to enter your own specific feedback.
-
-| accordion |
-| --- |
-| Select to view |
-| You can also select Detailed feedback to further elaborate on your feedback. When finished, select Submit . |
-
-Thumbs down
-Select **Thumbs down** to provide constructive feedback. You can optionally select from a list of constructive feedback or use the input box to enter your own specific feedback.
-
-| accordion |
-| --- |
-| Select to view |
-| Similarly, you can also select Detailed feedback to further elaborate on your feedback. When finished, select Submit . |
-
-### Use the split-view feature
-
-If AI Assistant’s response includes an image, you can select the path icon to launch a split-view mode. This allows you to read the entirety of AI Assistant’s response with contextual image displayed on the right.
-
-### Conversations
-
-You can use the *All conversations* panel to reset and revisit conversations with AI Assistant. Select the **Conversations** icon to view the *All conversations* window.
-
-To revisit a previous conversation, select the conversation topic from the list provided.
-
-To start a new conversation, select **New conversation**.
-
-### Context setting context-setting
-
-Use the context setting feature of AI Assistant to configure the **application**, **sandbox**, and **dataview** that AI Assistant references to answer your query. To access context setting, select the **Context setting** icon from the input box.
-
-The *Answer from…* pop-up window appears. Use this window to configure the information sources that you want to use and then select **Set context**.
-
-Information source
-Description
-Examples
-App
-The Experience Cloud application that your query pertains to.
-Experience Platform, Journey Optimizer, Customer Journey Analytics, etc.
-Sandbox
-The sandbox that contains the dataset(s) or information that your query pertains to.
-Prod (VA7), Dev.
-Dataview
-When you’re using AI Assistant with Customer Journey Analytics, the dataview setting helps the Data Insights Agent understand:
-
-- Which datasets to query
-- What data components are available
-- How to structure responses about your data
-- Which visualizations to create in Analysis Workspace
-
-### Data and object autocomplete
-
-You can use the autocomplete function to receive a list of data objects that exist in your sandbox. To use autocomplete, input the plus icon (+) in your query. As an alternative, you can also select the plus icon (+) located at the bottom of the text input box. A window appears with a list of recommended data objects from your sandbox.
-
-### Verify responses
-
-There are a number of ways that you can verify responses from AI Assistant. Select **Query Term Matched to Objects** to view a summary of the terms in your query that were matched to specific objects in your organization.
-
-Select **Here is how I got the results** to see a detailed, step-by-step explanation of how AI Assistant arrived at its answer. Additionally, you can also view the SQL query that was executed to answer your question. This query is read-only and is not supported for use in Query Service.
-
-### Configure data visualization
-
-You can use AI Assistant’s data visualization capabilities to gain a better understanding of your data. You can also specify the type of graph that you want to use in your query. For example, submit a query that says: **“Show profit by product name for last month (bar)”** to receive a bar graph of profit in the last month, organized by product name.
-
-Next, select **Properties** to change your graph type and configure values for your X and Y axis.
-
-AI Assistant supports several graph types for data visualization. You can interact with all types of graph by hovering over the data.
-
-Line
-To view a line graph, select **Properties** and then select **Line**.
-
-Area
-To view an area graph, select **Properties** and then select **Area**.
-
-Scatter
-To view a scatter graph, select **Properties** and then select **Scatter**.
-
-Donut
-To view a donut graph, select **Properties** and then select **Donut**.
-
-recommendation-more-help
-
-
----
 # FILE: ai-assistant-prompt-library-7ea238db.md
 ---
 
 ---
 title: "AI Assistant Prompt Library"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/ai-assistant/prompt-library"
-created_at: "2026-07-17T14:40:44.299215+00:00"
+created_at: "2026-07-22T13:13:45.021548+00:00"
 ---
-Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe Experience Cloud
+Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe CX Enterprise
 
 # AI Assistant Prompt Library
 
-Last update: September 26, 2025
+Last update: July 13, 2026
 CREATED FOR:
 
-- Admin
 - User
-- Developer
+- Admin
 - Leader
+- Developer
 
 Read this guide for different types of prompts that you can use on AI Assistant.
 
@@ -640,19 +422,19 @@ recommendation-more-help
 ---
 title: "Audience Agent"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/audience"
-created_at: "2026-07-17T14:40:37.416095+00:00"
+created_at: "2026-07-22T13:13:37.826647+00:00"
 ---
-Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe Experience Cloud
+Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe CX Enterprise
 
 # Audience Agent
 
-Last update: March 31, 2026
+Last update: July 21, 2026
 CREATED FOR:
 
-- Admin
 - User
-- Developer
+- Admin
 - Leader
+- Developer
 
 AVAILABILITY
 The Audience Agent is available for all customers who have access to AI Assistant. However, you will need the following permissions in order to fully use the Audience Agent features.
@@ -787,7 +569,7 @@ The audience is now created.
 
 ## Next steps
 
-After reading this guide, you should have a better understanding of Audience Agent and what features it supports. For more information on agents in Adobe Experience Platform, read the [Agent Orchestrator overview](/en/docs/experience-cloud-ai/experience-cloud-ai/agents/agent-orchestrator).
+After reading this guide, you should have a better understanding of Audience Agent and what features it supports. For more information on agents in Adobe Experience Platform, read the [Agent Orchestrator overview](/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/agent-orchestrator).
 
 recommendation-more-help
 
@@ -799,13 +581,13 @@ recommendation-more-help
 ---
 title: "Experimentation Agent"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/agent-experiment"
-created_at: "2026-07-17T14:40:39.102880+00:00"
+created_at: "2026-07-22T13:13:39.708660+00:00"
 ---
-Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe Experience Cloud
+Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe CX Enterprise
 
 # Experimentation Agent
 
-Last update: December 3, 2025
+Last update: July 21, 2026
 CREATED FOR:
 
 - User
@@ -928,13 +710,13 @@ recommendation-more-help
 ---
 title: "Field Discovery Agent"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/field-discovery-agent"
-created_at: "2026-07-17T14:40:40.112954+00:00"
+created_at: "2026-07-22T13:13:40.536564+00:00"
 ---
-Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe Experience Cloud
+Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe CX Enterprise
 
 # Field Discovery Agent
 
-Last update: May 21, 2026
+Last update: July 21, 2026
 CREATED FOR:
 
 - User
@@ -961,7 +743,7 @@ To use Field Discovery Agent, ensure you have the following:
 
 Basic familiarity with XDM schemas and how fields are used in segmentation or data workflows can help you interpret results more effectively. For more information, see the [XDM overview](/en/docs/experience-platform/xdm/home) and [Schema Editor documentation](/en/docs/experience-platform/xdm/tutorials/create-schema-ui).
 
-For instructions on enabling AI Assistant access and granting the required permissions, see the [Agent Orchestrator access guide](/en/docs/experience-cloud-ai/experience-cloud-ai/agents/agent-orchestrator#access).
+For instructions on enabling AI Assistant access and granting the required permissions, see the [Agent Orchestrator access guide](/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/agent-orchestrator#access).
 
 ## Field Discovery Agent functions field-discovery-agent-functions
 
@@ -1035,7 +817,7 @@ Field Discovery Agent returns results in a **Fields Identified** panel within th
 - **Relevance** — The relevance label assigned to the field (**Highly Relevant**, **Moderately Relevant**, or **Relevant**)
 - **Usage Contexts** — Links showing where the field appears across your data ecosystem. Select **audience**, **dataset**, **destination**, or **schema** to open a side panel showing where the field is used.
 
-A **Results Explained** section appears below the **Fields Identified** table and provides additional field-level context, including explanations and supporting detail for each result. For guidance on navigating the AI Assistant interface, see the [AI Assistant UI guide](/en/docs/experience-cloud-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui).
+A **Results Explained** section appears below the **Fields Identified** table and provides additional field-level context, including explanations and supporting detail for each result. For guidance on navigating the AI Assistant interface, see the [AI Assistant UI guide](/en/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui).
 
 ## Use Field Discovery Agent use-field-discovery-agent
 
@@ -1057,7 +839,7 @@ NOTE
 If the reasoning panel does not indicate Field Discovery Agent, your query may not have contained a clear field discovery intent. Restate your query with explicit field-finding language and resubmit. See
 Troubleshooting
 for common invocation issues.
-For guidance on the AI Assistant interface, see the [AI Assistant UI guide](/en/docs/experience-cloud-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui).
+For guidance on the AI Assistant interface, see the [AI Assistant UI guide](/en/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui).
 
 ## Supported use cases supported-use-cases
 
@@ -1198,13 +980,13 @@ recommendation-more-help
 ---
 title: "Journey Agent: Overview and User Guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ajo-agent"
-created_at: "2026-07-17T14:40:41.116098+00:00"
+created_at: "2026-07-22T13:13:41.568201+00:00"
 ---
-Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe Experience Cloud
+Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe CX Enterprise
 
 # Journey Agent: Overview and User Guide
 
-Last update: March 4, 2026
+Last update: July 21, 2026
 - Topics:
 - [Journey management](#)
 - [Communication channels](#)
@@ -1639,19 +1421,19 @@ recommendation-more-help
 ---
 title: "Legal Disclaimer: Personal Data, Language Support, and Verifying Responses"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/ai-assistant/legal-disclaimer"
-created_at: "2026-07-17T14:40:45.053900+00:00"
+created_at: "2026-07-22T13:13:45.776275+00:00"
 ---
-Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe Experience Cloud
+Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe CX Enterprise
 
 # Legal Disclaimer: Personal Data, Language Support, and Verifying Responses
 
-Last update: September 26, 2025
+Last update: July 13, 2026
 CREATED FOR:
 
-- Admin
 - User
-- Developer
+- Admin
 - Leader
+- Developer
 
 Read this document for information on legal disclaimers regarding personal data, language support, and verifying responses when using the Adobe Experience Platform AI Assistant.
 
@@ -1679,13 +1461,13 @@ recommendation-more-help
 ---
 title: "Product Support Agent"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/product-support"
-created_at: "2026-07-17T14:40:41.835874+00:00"
+created_at: "2026-07-22T13:13:42.503711+00:00"
 ---
-Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe Experience Cloud
+Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe CX Enterprise
 
 # Product Support Agent
 
-Last update: March 19, 2026
+Last update: July 14, 2026
 CREATED FOR:
 
 - User
@@ -1721,7 +1503,7 @@ Seamlessly track the status of support issues.
 
 ## Access Product Support Agent
 
-Follow the [access guide](/en/docs/experience-cloud-ai/experience-cloud-ai/agents/agent-orchestrator#access) to learn how to enable permissions and access AI Assistant.
+Follow the [access guide](/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/agent-orchestrator#access) to learn how to enable permissions and access AI Assistant.
 
 Once you complete these steps, any support admins in your onboarded organization will be able to create tickets using AI Assistant.
 
@@ -1738,15 +1520,15 @@ recommendation-more-help
 ---
 title: "Real-Time CDP MCP (Beta) rtcdp-mcp"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/mcp/rtcdp-mcp"
-created_at: "2026-07-17T14:40:43.580843+00:00"
+created_at: "2026-07-22T13:13:44.233990+00:00"
 ---
-Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe Experience Cloud
+Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe CX Enterprise
 
 [Beta]{class="badge informative"}
 
 # Real-Time CDP MCP (Beta) rtcdp-mcp
 
-Last update: July 13, 2026
+Last update: July 17, 2026
 - Topics:
 - [Integrations](#)
 
@@ -2120,13 +1902,18 @@ recommendation-more-help
 ---
 title: "Visualize data with Data Insights Agent"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/cja-data-insights-agent"
-created_at: "2026-07-17T14:40:38.337974+00:00"
+created_at: "2026-07-22T13:13:38.876738+00:00"
 ---
-Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe Experience Cloud
+Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe CX Enterprise
 
 # Visualize data with Data Insights Agent
 
-Last update: March 10, 2026
+Last update: July 21, 2026
+- Topics:
+- [Analytics dashboards](#)
+- [Analysis Workspace](#)
+- [Components](#)
+
 CREATED FOR:
 
 - User
@@ -2134,7 +1921,7 @@ CREATED FOR:
 
 AVAILABILITY
 Data Insights Agent is available to eligible customers for a limited time. Access to Data Insights Agent is available through March 31, 2026. To continue using Data Insights Agent beyond this date without interruption, please contact your Adobe account representative to learn more about licensing Adobe Experience Platform Agent Orchestrator.
-Data Insights Agent, accessible from the [AI Assistant](/en/docs/experience-cloud-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui), is a generative AI conversation agent that quickly and efficiently answers questions about your data. It builds relevant visualizations in Analysis Workspace using components from your data view and your actual data.
+Data Insights Agent, accessible from the [AI Assistant](/en/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui), is a generative AI conversation agent that quickly and efficiently answers questions about your data. It builds relevant visualizations in Analysis Workspace using components from your data view and your actual data.
 
 Using Data Insights Agent to answer data-centric questions in Analysis Workspace can save significant time that you might otherwise spend manually building visualizations in Analysis Workspace and familiarizing yourself with your data view components.
 
@@ -2220,7 +2007,7 @@ The following parameters govern access to Data Insights Agent in Customer Journe
 ## Access Data Insights Agent in the AI Assistant
 
 - Go to experience.adobe.com and log in with your Adobe ID.
-- Select Customer Journey Analytics from Experience Cloud Home.
+- Select Customer Journey Analytics from CX Enterprise Home.
 - Select Blank project in the banner at the top of the projects page to open a new blank project.
 - Ensure that the selected data view for the panel is a data view that was enabled for use with Data Insights Agent, as described in Manage access to Data Insights Agent in Customer Journey Analytics .
 - Select the AI Assistant chat icon at the top-right area of the page. If you do not see the chat icon, contact your administrator so they can enable the following features in the Admin Console: Reporting Tools: AI Assistant: Product Knowledge Data View Tools: Data Insights Agent For additional details, see Manage access to Data Insights Agent in Customer Journey Analytics .
@@ -2260,9 +2047,9 @@ Finally, let’s look at the revenue by product category.
 
 **Response:** Again, Data Insights Agent picks the most appropriate visualization, in this case the **Donut** visualization, to answer the question.
 
-## Access Data Insights Agent across Experience Cloud applications
+## Access Data Insights Agent across CX Enterprise applications
 
-Adobe Experience Platform Agent Orchestrator allows you to access the functionality of Data Insights Agent in multiple Adobe Experience Cloud applications, such as Adobe Journey Optimizer and Real-Time CDP.
+Adobe Experience Platform Agent Orchestrator allows you to access the functionality of Data Insights Agent in multiple Adobe CX Enterprise applications, such as Adobe Journey Optimizer and Real-Time CDP.
 
 Agent Orchestrator interprets your request, determines which specialized agents are needed, and orchestrates them to deliver the right response. It keeps track of context across multi-turn interactions, so you can build on prior queries naturally.
 

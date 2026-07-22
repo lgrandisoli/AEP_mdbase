@@ -1,6 +1,6 @@
 # RFP Knowledge - Indice consolidado dos guias
 
-Gerado em: 2026-07-17 16:02:11 UTC
+Gerado em: 2026-07-22 14:34:37 UTC
 
 
 ## AEP / RT-CDP
@@ -724,7 +724,6 @@ Generated from Adobe Experience League Experience Cloud AI documentation.
 - [Real-Time CDP MCP (Beta) rtcdp-mcp](real-time-cdp-mcp-beta-rtcdp-mcp-bf707ef3.md)
 - [AI Assistant Prompt Library](ai-assistant-prompt-library-7ea238db.md)
 - [Legal Disclaimer: Personal Data, Language Support, and Verifying Responses](legal-disclaimer-personal-data-language-support-and-verifying-responses-5fc97ff7.md)
-- [AI Assistant](ai-assistant-a63c275e.md)
 
 
 ## AJO B2C
@@ -890,6 +889,7 @@ Generated from Adobe Journey Optimizer documentation.
 - content-check-in-the-email-designer-content-check.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/content-check
 - load-file-load-file.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/load-file
 - work-with-mcp-clients-ajo-mcp.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/ajo-mcp
+- datasets-time-to-live-ttl-guardrails-ttl-guardrail.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/datasets/datasets-ttl
 - manage-fragments-manage-fragments.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/manage-fragments
 - access-and-manage-content-templates-access-manage-templates.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-templates/access-content-templates
 - get-started-with-journey-simulation-simulate-journey-gs.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/simulate-journey/simulate-journey-gs
@@ -1062,7 +1062,6 @@ Generated from Adobe Journey Optimizer documentation.
 - design-content-from-scratch-with-the-email-designer-content-from-scratch.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/start-creating-content/content-from-scratch
 - get-started-with-profiles-profiles-gs.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/profiles/get-started-profiles
 - adobe-journey-optimizer-documentation.md — https://experienceleague.adobe.com/en/docs/journey-optimizer
-- datasets-time-to-live-ttl-guardrails-ttl-guardrail.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/datasets/datasets-ttl
 - get-started-with-audience-composition-get-start-audience-composition.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/audiences/create/get-started-audience-orchestration
 - send-using-waves-in-journeys-send-using-waves-journeys.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/send-using-waves
 - manage-the-suppression-list-manage-suppression-list.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/monitor-reputation/manage-suppression-list
@@ -1337,6 +1336,7 @@ Generated from Adobe Journey Optimizer documentation.
 - comply-with-new-dmarc-requirement-dmarc-record-update.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/deliverability/dmarc-record-update
 - configure-content-cards-support-in-web-sdk-content-card-configuration-sdk.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-configuration-sdk
 - create-collections-create-collections.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/managing-offers-in-the-offer-library/creating-collections
+- math-functions-math.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/math
 - create-edit-ptr-records-ptr-records.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/delegate-subdomains/ptr-records
 - personalized-optimization-model-personalized-optimization-model.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-rankings/experience-decisioning-ai-models/personalized-optimization-model
 - personalized-optimization-model-personalized-optimization-model-2.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/rankings/ai-models/personalized-optimization-model
@@ -1419,7 +1419,6 @@ Generated from Adobe Journey Optimizer documentation.
 - introduction-to-the-whatsapp-channel.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction
 - aggregation-functions-aggregation.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/aggregation
 - maps-functions-maps.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/maps
-- math-functions-math.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/math
 - object-functions-objects.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/objects
 - arithmetic-functions-maths.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/arithmetic-functions
 - operators-operators-2.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/operators
@@ -1540,6 +1539,8 @@ Generated from Adobe Journey Optimizer documentation.
 - create-tasks-create-tasks.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/create-tasks
 - monitor-loyalty-challenge-performance-loyalty-reporting.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/loyalty-reporting
 - configure-loyalty-challenges-loyalty-admin.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/loyalty-admin
+- reward-definition-guide-reward-definition-guide.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/reward-definition-guide
+- event-transformer-guide-event-transformer-guide.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/event-transformer-guide
 - loyalty-data-and-datasets-loyalty-data-and-datasets.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/loyalty-data-and-datasets
 - get-started-with-offer-delivery-apis-about-decisioning-apis.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/api-reference/offer-delivery-api/start-offer-delivery-apis
 - create-an-eligibility-rule-create-eligibility-rule.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-api-reference/eligibility-rules/create
@@ -1590,6 +1591,7 @@ Generated from Adobe Journey Optimizer documentation.
 - take-an-action.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/action-nodes
 - wait-nodes.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/wait-nodes
 - variant-split-paths.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/variant-split-paths-nodes
+- listen-for-an-event.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes
 - landing-page-configuration.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-landing-pages
 - landing-pages.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/landing-pages
 - forms-configurations.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-forms
@@ -1612,7 +1614,6 @@ Generated from Adobe Journey Optimizer documentation.
 - configure-custom-engagement-score-weighting.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/configurations/engagement-score-weighting
 - email-collaboration-tools.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/emails/email-collaboration-tools
 - dark-mode-for-email-content-dark-mode.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-dark-mode
-- listen-for-an-event.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes
 - default-and-custom-roles.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/default-custom-roles
 - engagement-scores-engagement-scores.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/scoring/engagement-scores
 - review-the-spam-report.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/emails/preview/email-spam-report
@@ -1690,6 +1691,212 @@ Generated from Adobe Journey Optimizer documentation.
 - manage-email-open-tracking.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-tracking-manage
 
 
+## AJO B2B
+
+# Journey Optimizer B2B Knowledge Index
+
+Gerado a partir da documentacao do Adobe Journey Optimizer B2B Edition.
+
+## Files
+
+- adobe-journey-optimizer-b2b-edition-documentation.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/guide-overview
+- journey-optimizer-b2b-edition-release-notes.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes
+- adobe-journey-optimizer-b2b-edition-overview.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/about-journey-optimizer-b2b-edition
+- setup-checklist.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/setup-ultimate
+- b2b-namespaces-and-schemas.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/namespaces-schemas
+- xdm-field-management.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/xdm-field-management
+- select-experience-events-and-fields.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/configure-aep-events
+- configure-branding-domains.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/branding-domains
+- setup-for-email-tracking-and-delivery.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/email-protocols
+- email-setup.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/email-setup
+- activate-marketo-engage-connections-to-support-actions.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/marketo-actions-connect
+- user-access-and-permissions.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/user-management
+- user-onboarding-guidance.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/get-started
+- log-in-and-home-page.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/home-page
+- ai-assistant-in-journey-optimizer-b2b-edition.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-assistant-overview
+- enable-ai-assistant-access.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/enable-ai-assistant-access
+- question-guidance-for-ai-assistant-in-journey-optimizer-b2b-edition.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/question-guidance
+- use-ai-assistant-in-journey-optimizer-b2b-edition.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/use-ai-assistant
+- generative-ai-for-content-generative-ai-content.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/generative-ai-content
+- audience-agent-b2b.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-agents/audience-agent-b2b
+- journey-agent-b2b.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-agents/journey-agent
+- sales-qualifier.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-agents/sales-qualifier
+- journey-management.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journeys-overview
+- build-and-publish-a-journey.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/create-publish-journey
+- journey-re-entry.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-re-entry
+- journey-nodes.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes
+- account-audience-journey-nodes.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/account-audience-nodes
+- person-audience-journey-nodes.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/person-audience-nodes
+- take-an-action.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/action-nodes
+- listen-for-an-event.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes
+- split-and-merge-paths-split-paths.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes
+- variant-split-paths.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/variant-split-paths-nodes
+- next-best-path-node.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/next-best-path-node
+- wait-nodes.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/wait-nodes
+- external-nodes.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/external-nodes
+- journey-details.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-details
+- sms-authoring.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/sms-authoring
+- whatsapp-authoring.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/whatsapp-authoring
+- add-an-email-to-your-journey.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/add-email
+- email-send-time-optimization.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-send-time-optimization
+- email-message-authoring.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-authoring
+- ai-assistant-for-email-content.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/ai-assistant-emails
+- email-content-creation-with-genstudio-for-performance-marketing-genstudio-workflow.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/genstudio-email-workflow
+- dark-mode-for-email-content-dark-mode.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-dark-mode
+- author-from-a-governed-template.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-authoring-governance
+- sales-alert-email.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/sales-alert-email
+- email-deduplication.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-deduplication
+- manage-email-open-tracking.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-tracking-manage
+- web-experiences.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/web-channel/web-experiences
+- web-experience-design.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/web-channel/web-experience-design
+- single-page-applications.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/web-channel/web-single-page-applications
+- custom-tokens-for-email-personalization.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/personalization-my-tokens
+- channel-messaging-consent.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/channels-consent-preferences
+- account-audiences.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/audiences/account-audience-overview
+- adobe-target-external-audiences.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/audiences/target-external-audience
+- linkedin-account-matched-audiences.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/audiences/linkedin-account-matched-audiences
+- default-xdm-fields.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/audiences/field-mapping
+- test-profiles-test-profiles.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/audiences/test-profiles
+- buying-groups.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview
+- solution-interests.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/solution-interests
+- buying-group-role-templates.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates
+- default-and-custom-roles.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/default-custom-roles
+- role-insights-dashboard.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-group-role-insights
+- engagement-scores-engagement-scores.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/scoring/engagement-scores
+- completeness-scores-completeness-scores.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/scoring/completeness-scores
+- buying-group-stages.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-group-stages
+- create-buying-groups.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-create
+- export-accounts.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/account-list-export
+- buying-group-filters-in-marketo-engage.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/marketo-engage-smart-list-buying-group-filters
+- in-crm-insights.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/incrm-insights
+- account-lists.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/account-lists/account-lists
+- use-account-lists-in-journeys-and-programs.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/account-lists/account-lists-journeys
+- account-details.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/sales-experience/account-details
+- buying-group-details.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/sales-experience/buying-group-details
+- person-details.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/sales-experience/person-details
+- in-crm-access-to-detail-pages.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/sales-experience/crm-linking
+- emails.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/emails/emails-list
+- preview-and-test-your-email-content-preview-simulate.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/emails/preview/email-simulate-content
+- test-email-rendering-with-litmus.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/emails/preview/email-test-rendering
+- review-the-spam-report.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/emails/preview/email-spam-report
+- email-collaboration-tools.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/emails/email-collaboration-tools
+- assets.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/assets/assets-overview
+- work-with-internal-image-assets.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/assets/internal-dam/internal-image-assets
+- edit-images-with-adobe-express-edit-images-adobe-express.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/assets/internal-dam/image-edit-adobe-express
+- work-with-experience-manager-assets.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/assets/aem-assets
+- template-content-governance.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/template-content-governance
+- email-templates.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/email-templates/email-templates
+- email-template-authoring.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/email-templates/email-template-authoring
+- advanced-html-mode-for-email-template-design.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/email-templates/email-template-advanced-html
+- convert-an-image-to-an-email-template.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/email-templates/email-template-image-convert
+- landing-page-templates.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/landing-page-templates/landing-page-templates
+- landing-page-template-design.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/landing-page-templates/landing-page-template-design
+- fragments.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/visual-fragments/fragments
+- fragment-authoring.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/visual-fragments/fragment-authoring
+- forms.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/forms/forms
+- form-design.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/forms/form-design
+- landing-pages.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/landing-pages
+- create-and-publish-landing-pages.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/landing-pages-create-publish
+- landing-page-design.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/landing-page-design
+- ai-assistant-for-landing-page-content-generative-full-content.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/ai-assistant-landing-pages
+- structure-components-structure-components.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/content-design/structure-components
+- content-components-content-components.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/content-design/content-components
+- add-custom-css-for-your-content.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/content-design/design-custom-css
+- use-brands-for-content-generation-and-consistency-brands.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/brands/brands-overview
+- create-and-manage-your-brands-brand-library.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/brands/brands-manage-create
+- generative-ai-models-for-brand-alignment.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/brands/generative-ai-models
+- use-brand-themes-for-email-content-email-brand-themes.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/brand-themes
+- content-evaluation-and-scoring-content-scoring.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/content-evaluation
+- conditional-content.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/conditional-content
+- design-accessible-content-accessible-content.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/accessible-content
+- content-personalization-add-personalization.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/personalization/personalization
+- personalization-syntax-personalization-syntax.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/personalization/personalization-syntax
+- helper-functions.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/personalization/personalization-helper-functions
+- intelligent-dashboard.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/intelligent-dashboard
+- engagement-overview-dashboard.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/engagement-dashboard
+- web-engagement-dashboard.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/web-engagement-dashboard
+- email-performance-report.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/email-performance-dashboard
+- buying-groups-overview-dashboard.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/buying-groups-dashboard
+- journeys-overview-dashboard.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/journeys-dashboard
+- governance-and-privacy-features.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/governance
+- persona-mapping.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/persona-mapping
+- configure-experience-manager-asset-repositories.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/configurations/configure-aem-repositories
+- intent-data.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/configurations/intent-data
+- configure-custom-engagement-score-weighting.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/configurations/engagement-score-weighting
+- external-actions-configuration.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/configurations/configure-external-actions
+- configure-datastreams-for-event-collection-aep-datastreams.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/configurations/aep-event-collection
+- email-channel-configurations.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-emails
+- sms-channel-configurations.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-sms
+- whatsapp-channel-setup.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-whatsapp
+- web-channel-configurations.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-web
+- landing-page-configuration.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-landing-pages
+- forms-configurations.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-forms
+- adobe-journey-optimizer-b2b-prime-documentation.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/guide-overview
+- setup-checklist-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/start/setup-prime
+- user-access-and-permissions-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/start/user-management
+- email-deliverability.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/start/email-deliverability
+- home-page.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/home-page
+- chat-interface.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/ai-assistant/chat-interface
+- ai-assistant-skills.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/ai-assistant/skills
+- create-a-program-from-a-brief.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/ai-assistant/program-from-brief
+- create-audiences-for-programs.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/ai-assistant/audience-creation
+- create-custom-scoring-models.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/ai-assistant/lead-scoring-model
+- marketing-management.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/marketing-management
+- programs.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/programs/programs
+- custom-tokens-for-personalization.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/programs/personalization-my-tokens
+- person-journeys.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/person-journeys
+- person-journey-nodes.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/journey-nodes/person-journey-nodes
+- person-audience-node.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/journey-nodes/person-audience-node
+- take-an-action-node.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/journey-nodes/action-nodes
+- listen-for-an-event-node.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/journey-nodes/listen-for-event-nodes
+- wait-node.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/journey-nodes/wait-nodes
+- split-and-merge-paths-nodes.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/journey-nodes/split-merge-paths-nodes
+- next-best-path-node-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/journey-nodes/next-best-path
+- add-emails-to-journeys.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/email-channel/email-channel
+- email-send-time-optimization-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/email-channel/email-send-time-optimization
+- email-content-authoring.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/email-channel/email-authoring
+- dark-mode-for-email-content-dark-mode-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/email-channel/email-dark-mode
+- whatsapp-authoring-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/whatsapp-authoring
+- journey-traffic-control.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/journey-traffic-control
+- people-lists.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/audiences/people-lists
+- person-details-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/audiences/person-details
+- event-based-audiences.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/audiences/event-based-audiences
+- person-engagement-scores-engagement-scores.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/audiences/engagement-scores
+- derived-personas.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/audiences/personas
+- destinations.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/audiences/destinations
+- assets-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/digital-asset-management
+- email-templates-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/templates/templates
+- create-email-templates.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/templates/templates-create
+- content-governance-for-templates.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/templates/template-content-governance
+- fragments-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/visual-fragments/fragments
+- fragment-authoring-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/visual-fragments/fragment-authoring
+- landing-pages-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/landing-pages/landing-pages
+- create-and-publish-landing-pages-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/landing-pages/landing-pages-create-publish
+- landing-page-design-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/landing-pages/landing-page-design
+- forms-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/forms/forms
+- form-design-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/forms/form-design
+- personalization-editor.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/personalization-expressions
+- conditional-content-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/conditional-content
+- structure-components-structure-components-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/content-design/structure-components
+- content-components-content-components-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/content-design/content-components
+- add-custom-css-for-your-content-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/content-design/design-custom-css
+- email-channel-configuration.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/admin/channels/email-channel-configuration
+- whatsapp-channel-configuration.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/admin/channels/configuration-channels-whatsapp
+- landing-page-configuration-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/admin/channels/configuration-presets-landing-pages
+- forms-configurations-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/admin/channels/configuration-presets-forms
+- business-rules-business-rules.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/admin/business-rules
+- program-types.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/admin/program-types
+- sales-qualifier-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/sales-qualifier
+- journey-optimizer-b2b-edition-tutorials.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/overview
+- user-access-and-permissions-3.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/user-management
+- buying-group-stages-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/buying-group-stages
+- listen-for-aep-events.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/journey-nodes/listen-for-aep-events
+- paid-media-orchestration.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/journey-nodes/paid-media-orchestration
+- buying-groups-overview.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/buying-groups-overview
+- create-a-buying-group.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/create-a-buying-group
+- role-templates.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/role-templates
+
+
 ## CJA
 
 # Customer Journey Analytics Knowledge Index
@@ -1720,6 +1927,8 @@ Generated from Experience League Customer Journey Analytics documentation.
   - segmentation-overview.md
 - analytics-platform/using/cja-connections/audience-analysis
   - audience-analysis-overview.md
+- analytics-platform/using/cja-connections/consent-reporting-filtering
+  - consent-reporting-and-filtering-overview.md
 - analytics-platform/using/cja-connections/overview
   - connections-overview.md
 - analytics-platform/using/cja-dashboards/home
@@ -2064,6 +2273,11 @@ Generated from Experience League Customer Journey Analytics documentation.
   - manage-audience-analysis-configurations-manage-audience-analysis.md
 - analytics-platform/using/cja-connections/combined-dataset
   - combined-event-datasets.md
+- analytics-platform/using/cja-connections/consent-reporting-filtering
+  - analyze-consent-policy-data.md
+  - configure-consent-reporting-and-filtering.md
+  - consent-reporting-and-filtering-use-cases.md
+  - manage-consent-reporting-and-filtering-configurations.md
 - analytics-platform/using/cja-connections/create-connection
   - create-or-edit-a-connection-create-or-edit-a-connection.md
 - analytics-platform/using/cja-connections/manage-connections
@@ -2105,7 +2319,7 @@ Generated from Experience League Customer Journey Analytics documentation.
 - analytics-platform/using/cja-dataviews/create-dataview
   - create-or-edit-a-data-view.md
 - analytics-platform/using/cja-dataviews/data-governance
-  - labels-and-policies.md
+  - labels-policies-and-marketing-actions.md
 - analytics-platform/using/cja-dataviews/derived-fields
   - derived-fields-derived-fields.md
 - analytics-platform/using/cja-dataviews/manage-dataviews
@@ -2685,8 +2899,8 @@ Generated from Adobe Experience League Target documentation.
 - [Atributos do cliente](atributos-do-cliente-0d8b429a.md)
 - [Privacidade](privacidade-3a6609f2.md)
 - [Visão geral da segurança do Target](visão-geral-da-segurança-do-target-9c2a7926.md)
-- [Visão geral da biblioteca JavaScript do at.js](visão-geral-da-biblioteca-javascript-do-atjs-64c9416f.md)
 - [Comparar a biblioteca at.js com a Adobe Experience Platform Web SDK](comparar-a-biblioteca-atjs-com-a-adobe-experience-platform-web-sdk-47bba26f.md)
+- [Visão geral da biblioteca JavaScript do at.js](visão-geral-da-biblioteca-javascript-do-atjs-64c9416f.md)
 - [Visão geral dos aplicativos de exemplo](visão-geral-dos-aplicativos-de-exemplo-d2f83acc.md)
 - [Instale o Node js. SDK](instale-o-node-js-sdk-ae265abe.md)
 - [Instalar o Java SDK](instalar-o-java-sdk-56ee48c0.md)
@@ -2780,208 +2994,208 @@ Generated from Adobe Experience League Target documentation.
 
 # Adobe Workfront Documentation
 
-Total pages: 4969
+Total pages: 4971
 
 - [Adobe Workfront documentation | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/home)
-- [Workload Balancer Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/overview-workload-balancer)
-- [Workfront](https://experienceleague.adobe.com/en/browse/workfront)
-- [API basics | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-basics)
-- [Adobe Workfront integrations overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-integrations)
-- [Get Started with Adobe Workfront Administration: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/get-started-with-wf-administration)
-- [Manage work | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/manage-work)
-- [Documents: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/documents-overview)
-- [The Workload Balancer: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/workload-balancer)
-- [Adobe Workfront Documentation](https://experienceleague.adobe.com/en/docs/workfront)
-- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview)
-- [Acquire and install apps from Adobe Exchange | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/app-builder/install-apps-on-exchange)
-- [Create custom applications for Workfront with Adobe App Builder | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/app-builder/app-builder)
-- [Text Mode resources: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/text-mode-resources)
-- [Adobe Workfront documentation | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/home#/schema)
 - [Reports and Dashboards: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports-and-dashboards-overview)
-- [Adobe Workfront basics: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-basics)
+- [Adobe Workfront Documentation](https://experienceleague.adobe.com/en/docs/workfront)
 - [Agile Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-overview)
-- [The Scenario Planner Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/scenario-planner/scenario-planner-overview)
-- [Resource Planner Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/get-started-resource-planner)
-- [Workload Balancer Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/overview-workload-balancer#/schema)
-- [Manage User Allocations in the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/manage-user-allocations-workload-balancer)
-- [Filter Information in the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer)
-- [Configure personal time off | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/manage-account-profile/configure-user-profile/personal-time-overview)
-- [Configure Resource Management Preferences | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/configure-system-defaults/configure-resource-mgmt-preferences)
-- [Create a Schedule | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/configure-timesheets-schedules/create-schedules)
-- [Share the Workload Balancer with a Link | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/share-link-for-workload-balancer)
-- [Workload Balancer Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/overview-workload-balancer#best-practices-for-setting-up-tasks-and-issues)
-- [Workload Balancer Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/overview-workload-balancer#best-practices-for-displaying-information-in-the-workload-balancer)
-- [Access Needed to Manage Resources in the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/access-needed-manage-resources-balancer)
-- [Add Users | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/create-manage-users/add-users)
-- [Locate the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/locate-workload-balancer)
-- [Navigate the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/navigate-the-workload-balancer)
-- [Workload Balancer Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/overview-workload-balancer#best-practices-for-setting-up-users)
-- [Assign Work in Bulk using the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk)
-- [Overview of Assigning Work in the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer)
-- [Authorization code flow for custom OAuth 2 applications | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-notes/oauth-app-code-token-flow)
-- [API versioning and support schedule | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-notes/api-version-support-schedule)
-- [API basics | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-basics#using-paginated-responses)
-- [API basics | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-basics#/schema)
-- [API Explorer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
-- [Domain format for Adobe Workfront API calls | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/tips-troubleshooting-apis/locate-domain-for-api)
-- [Using JWT flow for custom OAuth 2 applications | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-notes/oauth-app-jwt-flow)
-- [Administration differences between Adobe Workfront and Adobe Business Platform | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console)
-- [Create OAuth2 Applications for Workfront Integrations | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application)
-- [Adobe Workfront integrations overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-integrations#/schema)
-- [Adobe Workfront for Google Workspace | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-g-suite/workfront-for-gsuite)
-- [Workfront and Experience Manager Assets Integrations: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/wf-aem-integrations/wf-experience-manager-integrations)
-- [Adobe Workfront for Slack | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-slack/use-workfront-for-slack)
-- [Adobe Workfront for Microsoft Teams | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/use-workfront-with-ms-teams)
-- [Adobe Workfront integration methods | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/built-in-vs-api-vs-fusion)
-- [Adobe Workfront plugin for Creative Cloud Apps | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc)
-- [Adobe Workfront for Salesforce | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-salesforce/workfront-for-salesforce)
-- [Adobe Workfront built-in integrations overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/built-in-integrations-non-admin)
-- [Adobe Workfront for Jira: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-jira/workfront-for-jira)
-- [Send Announcements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/view-send-announcements)
-- [Get Started with Adobe Workfront Administration: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/get-started-with-wf-administration#/schema)
-- [Manage Available Licenses in your System | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/manage-available-licenses-in-your-system)
-- [Configure Your Firewall's Allowlist | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/configure-your-firewall)
-- [Firewall overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/firewall-overview)
-- [Configure Your Email Allowlist | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/configure-your-email-allowlist)
-- [Configure Basic Information for Your System | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/configure-basic-info)
-- [Overview of Defining Objectives for Your Adobe Workfront Implementation | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives)
-- [Browser Requirements for Workfront | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/workfront-browser-requirements)
-- [The Gantt Chart: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/the-gantt-chart/the-gantt-chart)
-- [Requests: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/requests-overview)
-- [Portfolio Management: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/portfolio-management/portfolio-management-overview)
-- [Delegate Work | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/delegate-work/delegate-work)
-- [Manage work | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/manage-work#/schema)
-- [Projects: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/projects/projects-overview)
-- [Tasks: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/tasks/tasks-overview)
-- [Issues: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/issues/issues-overview)
-- [Adobe Cloud Drive: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/adobe-cloud-drive/adobe-cloud-drive)
-- [Add new documents to Adobe Workfront: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/add-new-documents-to-workfront/add-new-documents-to-workfront)
-- [Organize documents: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/organize-documents/organize-documents)
-- [Documents: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/documents-overview#/schema)
-- [Manage documents: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/manage-documents/manage-documents)
-- [Update Work Items in the Workload Balancer Using the Summary | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/update-items-in-summary-panel-in-workload-balancer)
-- [Assign Work Manually using the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-manually)
-- [The Workload Balancer: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/workload-balancer#/schema)
-- [Assign Work in the Workload Balancer by Dragging and Dropping | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-by-drag-and-drop)
-- [Unassign Work in the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/unassign-work-in-workload-balancer)
+- [Text Mode resources: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/text-mode-resources)
+- [Get Started with Adobe Workfront Administration: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/get-started-with-wf-administration)
+- [Workfront](https://experienceleague.adobe.com/en/browse/workfront)
+- [Acquire and install apps from Adobe Exchange | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/app-builder/install-apps-on-exchange)
+- [API basics | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-basics)
+- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview)
+- [Create custom applications for Workfront with Adobe App Builder | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/app-builder/app-builder)
+- [Adobe Workfront basics: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-basics)
+- [Adobe Workfront documentation | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/home#/schema)
+- [Documents: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/documents-overview)
+- [Workload Balancer Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/overview-workload-balancer)
+- [Adobe Workfront integrations overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-integrations)
+- [The Workload Balancer: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/workload-balancer)
+- [Manage work | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/manage-work)
+- [Dashboards | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/dashboards/dashboards-overview)
+- [Reports and Dashboards: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports-and-dashboards-overview#/schema)
+- [Reports | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/reports-overview)
+- [Canvas Dashboards overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
 - [Product announcements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-announcements)
 - [General Information and Article Index for Adobe Workfront Planning | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/planning-information)
-- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#ai-enhancements)
-- [Third Quarter 2026 Requests enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-requests)
-- [Get Started with the Adobe Workfront Planning Free Trial | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/trial-workfront-planning)
-- [Third Quarter 2026 Administrator enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-admin-and-setup)
-- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#/schema)
-- [What's new in API version 22 | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-notes/new-api-version-22)
-- [Other enhancements during the Third Quarter 2026 release timeframe | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-other)
-- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#other-enhancements)
-- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#project-enhancements)
-- [Home enhancements during the Third Quarter 2026 release timeframe | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-home)
-- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#requesting-enhancements)
-- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#documents-enhancements)
-- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#home-enhancements)
-- [Third Quarter 2026 Reporting enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-reports)
-- [Get Started with Adobe Workfront Planning as a standalone product | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/planning-standalone/planning-sta-overview)
-- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#resource-management-enhancements)
-- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#reporting-enhancements)
-- [Third Quarter 2026 Financial Management enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-financial-management-enhancements)
-- [Third Quarter 2026 Project enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-projects)
-- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#financial-management-enhancements)
-- [Third Quarter 2026 AI enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-ai)
-- [Third Quarter 2026 Resource Management enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-resource-mgmt)
-- [Enable or Disable Fast Releases for Your Organization | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/configure-system-defaults/enable-fast-release-process)
-- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#administrator-enhancements)
-- [Third Quarter 2026 Documents enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-documents)
-- [Acquire and install apps from Adobe Exchange | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/app-builder/install-apps-on-exchange#/schema)
-- [Customize the Main Menu Using a Layout Template | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-main-menu)
-- [Customize the Left Panel Using a Layout Template | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-left-panel)
-- [Create custom applications for Workfront with Adobe App Builder | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/app-builder/app-builder#/schema)
-- [Format numbers, currency and percentage values in text mode reports | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/format-numbers-in-text-mode-reports)
-- [Reference collections in a report | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
-- [Format dates in text mode reports | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/format-dates-in-text-mode-reports)
+- [Create an Agile Team | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team)
+- [Add Stories to an Existing Iteration | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/scrum/iterations/add-stories-to-existing-iteration)
+- [Iterations Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/scrum/iterations/iterations-overview)
+- [Create an Agile Team | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team#converting-an-existing-team-into-an-agaile-team)
+- [Agile Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-overview#/schema)
+- [Create an Agile Team | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team#create-an-agile-team-1)
+- [Kanban Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/kanban/kanban-overview)
+- [Add Existing Tasks or Issues to the Kanban Board | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/kanban/add-existing-tasks-or-issues-to-the-kanban-board)
+- [Create an Agile Team | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team#deciding)
+- [Boards Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/boards-overview)
+- [Manage the Agile Backlog | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/work-in-agile-environment/manage-the-agile-backlog)
+- [Configure Scrum | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/configure-scrum)
+- [Scrum Board Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/scrum/scrum-board/scrum-board-overview)
+- [Manage an Agile Project in the Board View | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/projects/manage-projects/manage-projects-in-agile-view)
+- [Configure Kanban | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/configure-kanban)
+- [Text Mode overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/understand-text-mode)
+- [Use conditional formatting in Text Mode | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/use-conditional-formatting-text-mode)
+- [Create "OR" statements in text mode filters | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-or-statements-in-filters-text-mode)
+- [Edit a filter using text mode | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/edit-text-mode-in-filter)
 - [Text mode syntax overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/text-mode-syntax-overview)
 - [Calculated custom data in reports | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-custom-data-reports)
-- [Edit a grouping using text mode | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/edit-text-mode-in-grouping)
-- [Text Mode resources: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/text-mode-resources#/schema)
-- [Text Mode overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/understand-text-mode)
-- [Compare fields in conditional formatting | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/compare-fields-conditional-formatting)
-- [Use conditional formatting in Text Mode | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/use-conditional-formatting-text-mode)
-- [Custom view, filter, and grouping samples: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/custom-view-samples/custom-view-filter-grouping-samples)
-- [Edit a view using text mode | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/edit-text-mode-in-view)
-- [Create "OR" statements in text mode filters | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-or-statements-in-filters-text-mode)
-- [Overview of common uses for Text Mode | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/understand-common-uses-text-mode)
+- [Reference collections in a report | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
 - [Create complex Text Mode filters using EXISTS statements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements)
-- [Edit a filter using text mode | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/edit-text-mode-in-filter)
-- [Reports | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/reports-overview)
-- [Dashboards | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/dashboards/dashboards-overview)
-- [Canvas Dashboards overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-- [Reports and Dashboards: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports-and-dashboards-overview#/schema)
-- [Navigate Adobe Workfront: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/navigate/navigate-workfront)
+- [Format numbers, currency and percentage values in text mode reports | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/format-numbers-in-text-mode-reports)
+- [Custom view, filter, and grouping samples: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/custom-view-samples/custom-view-filter-grouping-samples)
+- [Overview of common uses for Text Mode | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/understand-common-uses-text-mode)
+- [Edit a grouping using text mode | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/edit-text-mode-in-grouping)
+- [Edit a view using text mode | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/edit-text-mode-in-view)
+- [Format dates in text mode reports | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/format-dates-in-text-mode-reports)
+- [Compare fields in conditional formatting | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/compare-fields-conditional-formatting)
+- [Text Mode resources: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/text-mode-resources#/schema)
+- [Configure Your Firewall's Allowlist | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/configure-your-firewall)
+- [Configure Your Email Allowlist | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/configure-your-email-allowlist)
+- [Firewall overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/firewall-overview)
+- [Send Announcements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/view-send-announcements)
+- [Get Started with Adobe Workfront Administration: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/get-started-with-wf-administration#/schema)
+- [Configure Basic Information for Your System | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/configure-basic-info)
+- [Browser Requirements for Workfront | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/workfront-browser-requirements)
+- [Administration differences between Adobe Workfront and Adobe Business Platform | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console)
+- [Overview of Defining Objectives for Your Adobe Workfront Implementation | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives)
+- [Manage Available Licenses in your System | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/manage-available-licenses-in-your-system)
+- [Acquire and install apps from Adobe Exchange | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/app-builder/install-apps-on-exchange#/schema)
+- [Authorization code flow for custom OAuth 2 applications | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-notes/oauth-app-code-token-flow)
+- [API Explorer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
+- [Using JWT flow for custom OAuth 2 applications | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-notes/oauth-app-jwt-flow)
+- [Domain format for Adobe Workfront API calls | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/tips-troubleshooting-apis/locate-domain-for-api)
+- [API basics | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-basics#using-paginated-responses)
+- [API basics | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-basics#/schema)
+- [API versioning and support schedule | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-notes/api-version-support-schedule)
+- [Create OAuth2 Applications for Workfront Integrations | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application)
+- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#documents-enhancements)
+- [Third Quarter 2026 Administrator enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-admin-and-setup)
+- [Third Quarter 2026 Project enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-projects)
+- [Get Started with the Adobe Workfront Planning Free Trial | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/trial-workfront-planning)
+- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#home-enhancements)
+- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#other-enhancements)
+- [Third Quarter 2026 Resource Management enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-resource-mgmt)
+- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#requesting-enhancements)
+- [Third Quarter 2026 Documents enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-documents)
+- [Third Quarter 2026 Reporting enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-reports)
+- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#reporting-enhancements)
+- [Third Quarter 2026 Financial Management enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-financial-management-enhancements)
+- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#financial-management-enhancements)
+- [Third Quarter 2026 AI enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-ai)
+- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#/schema)
+- [Other enhancements during the Third Quarter 2026 release timeframe | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-other)
+- [Enable or Disable Fast Releases for Your Organization | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/configure-system-defaults/enable-fast-release-process)
+- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#project-enhancements)
+- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#ai-enhancements)
+- [Get Started with Adobe Workfront Planning as a standalone product | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/planning-standalone/planning-sta-overview)
+- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#resource-management-enhancements)
+- [Home enhancements during the Third Quarter 2026 release timeframe | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-home)
+- [What's new in API version 22 | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-notes/new-api-version-22)
+- [Third Quarter 2026 Requests enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-requests)
+- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#administrator-enhancements)
+- [Customize the Left Panel Using a Layout Template | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-left-panel)
+- [Create custom applications for Workfront with Adobe App Builder | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/app-builder/app-builder#/schema)
+- [Customize the Main Menu Using a Layout Template | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-main-menu)
+- [Adobe Workfront basics: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-basics#/schema)
+- [Work with custom forms | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/work-with-custom-forms/work-with-custom-forms)
 - [Priorities | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/priorities/priorities-toc)
 - [Update work items and view updates: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/update-work-items-view-updates/update-work-items-and-view-updates)
-- [Adobe Workfront basics: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-basics#/schema)
 - [HIPAA Readiness for Workfront | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/hipaa-readiness-for-workfront)
-- [Grant and request permissions to objects: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/grant-request-object-permissions/grant-and-request-access-to-objects)
-- [AI Assistant: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant)
-- [Use notifications: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/use-notifications/use-notifications)
-- [Tips, Tricks, and Troubleshooting for Adobe Workfront: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/tips-tricks-for-basics/tips-tricks-troubleshooting-basics)
-- [Supported languages in Adobe Workfront | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/supported-languages-in-workfront)
-- [Workfront MCP server: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-mcp-server/workfront-mcp-server)
-- [Glossary of Adobe Workfront terminology | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-terminology-glossary)
-- [Work with custom forms | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/work-with-custom-forms/work-with-custom-forms)
-- [Home | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/home/home)
-- [Adobe Workfront browser requirements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-browser-requirements)
-- [Mobile Apps | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/mobile-apps/mobile-apps)
 - [Manage your account and profile | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/manage-account-profile/manage-your-account-and-profile)
-- [Configure Scrum | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/configure-scrum)
-- [Boards Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/boards-overview)
-- [Agile Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-overview#/schema)
-- [Configure Kanban | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/configure-kanban)
-- [Create an Agile Team | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team)
-- [Kanban Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/kanban/kanban-overview)
-- [Add Stories to an Existing Iteration | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/scrum/iterations/add-stories-to-existing-iteration)
-- [Create an Agile Team | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team#converting-an-existing-team-into-an-agaile-team)
-- [Manage the Agile Backlog | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/work-in-agile-environment/manage-the-agile-backlog)
-- [Scrum Board Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/scrum/scrum-board/scrum-board-overview)
-- [Add Existing Tasks or Issues to the Kanban Board | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/kanban/add-existing-tasks-or-issues-to-the-kanban-board)
-- [Create an Agile Team | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team#create-an-agile-team-1)
-- [Manage an Agile Project in the Board View | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/projects/manage-projects/manage-projects-in-agile-view)
-- [Iterations Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/scrum/iterations/iterations-overview)
-- [Create an Agile Team | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team#deciding)
-- [Create and compare plan scenarios in the Scenario Planner | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/scenario-planner/create-and-compare-scenarios-for-a-plan)
-- [The Scenario Planner Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/scenario-planner/scenario-planner-overview#/schema)
-- [Update or Create Projects by Publishing Initiatives in the Scenario Planner | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/scenario-planner/publish-scenarios-update-projects)
-- [Share a Plan in the Scenario Planner | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/scenario-planner/share-a-plan)
-- [Get Started with the Scenario Planner | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/scenario-planner/get-started-with-scenario-planning)
-- [Import Projects to Plans in the Scenario Planner | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/scenario-planner/import-projects-to-plans)
-- [Create and Edit Plans in the Scenario Planner | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/scenario-planner/create-and-edit-plans)
-- [Create and Edit Initiatives in the Scenario Planner | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/scenario-planner/create-and-edit-initiatives)
-- [Grant Access to Scenario Planner | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/configure-access/grant-access-sp)
-- [Resolve Initiative Conflicts in the Scenario Planner | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/scenario-planner/resolve-conflicts-in-sp)
-- [Prioritize Projects in the Resource Planner | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/prioritize-projects-resource-planner)
-- [Access needed to budget resources in Workfront | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/access-needed-to-budget-resources)
-- [Resource Planner Navigation Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-planner-navigation)
-- [Resource Planner Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/get-started-resource-planner#/schema)
-- [Understand Budgeted Labor Cost and Budgeted Hours for projects | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/projects/project-finances/budgeted-labor-cost)
-- [Resource Planner Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/get-started-resource-planner#tasks-and-issues-prerequisites)
-- [Resource Planner Display Limitations | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-planner-display-limitations)
-- [Tasks Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/tasks/task-information/tasks-overview)
-- [Resource Planner Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/get-started-resource-planner#user-prerequisites)
-- [Resource Planner Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/get-started-resource-planner#system-level-prerequisites)
-- [Calculate Budgeted Cost | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/projects/project-finances/budgeted-cost)
-- [Get Started with Resource Planning | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/get-started-resource-planning)
-- [Review Resource Availability and Allocation using the Adobe Workfront Resource Planner | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-availability-allocation-resource-planner)
-- [Overview of Calculating Hours and FTE for Users and Roles in the Resource Planner | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/calculate-hours-fte-for-users-roles-resource-planner)
-- [Associate Resource Pools with Users | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/associate-resource-pools-with-users)
-- [Budget Resources in the Resource Planner Using the Project and Role Views | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/budget-resources-project-role-views-resource-planner)
-- [Locate the Resource Planner | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/locate-resource-planner)
-- [Filter Information in the Resource Planner | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner)
-- [View Available, Planned, and Actual Hours or FTE in the Resource Planner when Using the User View | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/view-hours-fte-user-view-resource-planner#using)
-- [Create Subtasks | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/tasks/create-tasks/create-subtasks)
-- [Calculate Costs in the Resource Planner | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/calculate-costs-resource-planner)
-- [Create and Manage Job Roles | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/organization-setup/create-manage-job-roles)
-- [Edit a User's Profile | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/create-manage-users/edit-a-users-profile)
-- [Associate Resource Pools with Projects and Templates | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/associate-resource-pools-with-projects-and-templates)
-- [Budget resources in the Business Case | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/projects/define-business-case/budget-resources-in-business-case)
+- [Adobe Workfront browser requirements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-browser-requirements)
+- [Supported languages in Adobe Workfront | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/supported-languages-in-workfront)
+- [Navigate Adobe Workfront: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/navigate/navigate-workfront)
+- [Use notifications: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/use-notifications/use-notifications)
+- [Workfront MCP server: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-mcp-server/workfront-mcp-server)
+- [Grant and request permissions to objects: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/grant-request-object-permissions/grant-and-request-access-to-objects)
+- [Home | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/home/home)
+- [Tips, Tricks, and Troubleshooting for Adobe Workfront: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/tips-tricks-for-basics/tips-tricks-troubleshooting-basics)
+- [Mobile Apps | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/mobile-apps/mobile-apps)
+- [Glossary of Adobe Workfront terminology | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-terminology-glossary)
+- [AI Assistant: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant)
+- [Workfront and Experience Manager Assets Integrations: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/wf-aem-integrations/wf-experience-manager-integrations)
+- [Add new documents to Adobe Workfront: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/add-new-documents-to-workfront/add-new-documents-to-workfront)
+- [Documents: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/documents-overview#/schema)
+- [Organize documents: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/organize-documents/organize-documents)
+- [Manage documents: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/manage-documents/manage-documents)
+- [Adobe Cloud Drive: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/adobe-cloud-drive/adobe-cloud-drive)
+- [Resource Planner Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/get-started-resource-planner)
+- [Filter Information in the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer)
+- [Workload Balancer Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/overview-workload-balancer#best-practices-for-setting-up-tasks-and-issues)
+- [Workload Balancer Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/overview-workload-balancer#best-practices-for-displaying-information-in-the-workload-balancer)
+- [Overview of Assigning Work in the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer)
+- [Add Users | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/create-manage-users/add-users)
+- [Share the Workload Balancer with a Link | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/share-link-for-workload-balancer)
+- [Workload Balancer Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/overview-workload-balancer#best-practices-for-setting-up-users)
+- [Configure personal time off | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/manage-account-profile/configure-user-profile/personal-time-overview)
+- [Assign Work in Bulk using the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk)
+- [Create a Schedule | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/configure-timesheets-schedules/create-schedules)
+- [Access Needed to Manage Resources in the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/access-needed-manage-resources-balancer)
+- [Configure Resource Management Preferences | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/configure-system-defaults/configure-resource-mgmt-preferences)
+- [Navigate the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/navigate-the-workload-balancer)
+- [The Scenario Planner Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/scenario-planner/scenario-planner-overview)
+- [Manage User Allocations in the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/manage-user-allocations-workload-balancer)
+- [Locate the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/locate-workload-balancer)
+- [Workload Balancer Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/overview-workload-balancer#/schema)
+- [Adobe Workfront for Salesforce | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-salesforce/workfront-for-salesforce)
+- [Adobe Workfront integrations overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-integrations#/schema)
+- [Adobe Workfront for Slack | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-slack/use-workfront-for-slack)
+- [Adobe Workfront integration methods | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/built-in-vs-api-vs-fusion)
+- [Adobe Workfront plugin for Creative Cloud Apps | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc)
+- [Adobe Workfront for Microsoft Teams | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/use-workfront-with-ms-teams)
+- [Adobe Workfront built-in integrations overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/built-in-integrations-non-admin)
+- [Adobe Workfront for Google Workspace | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-g-suite/workfront-for-gsuite)
+- [Adobe Workfront for Jira: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-jira/workfront-for-jira)
+- [Unassign Work in the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/unassign-work-in-workload-balancer)
+- [Assign Work in the Workload Balancer by Dragging and Dropping | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-by-drag-and-drop)
+- [The Workload Balancer: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/workload-balancer#/schema)
+- [Assign Work Manually using the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-manually)
+- [Update Work Items in the Workload Balancer Using the Summary | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/update-items-in-summary-panel-in-workload-balancer)
+- [Requests: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/requests-overview)
+- [Delegate Work | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/delegate-work/delegate-work)
+- [Manage work | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/manage-work#/schema)
+- [The Gantt Chart: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/the-gantt-chart/the-gantt-chart)
+- [Issues: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/issues/issues-overview)
+- [Tasks: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/tasks/tasks-overview)
+- [Portfolio Management: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/portfolio-management/portfolio-management-overview)
+- [Projects: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/projects/projects-overview)
+- [Create and manage dashboards | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/dashboards/create-dashboards/create-and-manage-dashboards)
+- [Dashboards | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/dashboards/dashboards-overview#/schema)
+- [Understand dashboards | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/dashboards/understand-dashboards/understand-dashboards)
+- [Reporting basics: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/report-basics/reporting-basics)
+- [Tips, tricks, and troubleshooting for reports | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/troubleshooting-tips-tricks-reports/tips-troubleshooting-reports)
+- [Create and manage reports | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/create-manage-reports/create-manage-reports)
+- [Report usage overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/report-usage-overview/report-usage-overview)
+- [Use built-in reports | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/built-in-reports/use-built-in-reports)
+- [Reporting elements overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/report-elements/reporting-elements-overview)
+- [Reports | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/reports-overview#/schema)
+- [Calendars: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/calendars/calendars)
+- [Add an existing report to a Canvas Dashboard | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/add-existing-report)
+- [Edit a report in a Canvas Dashboard | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-a-report)
+- [Build a KPI report in a Canvas Dashboard | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
+- [Use Canvas Dashboards | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/use-canvas-dashboards)
+- [Build a table report in a Canvas Dashboard | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
+- [Delete a Canvas Dashboard | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/manage-canvas-dashboards/delete-a-canvas-dashboard)
+- [Arrange reports in a Canvas Dashboard | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/manage-canvas-dashboards/arrange-reports-in-dashboard)
+- [Grant Access to Reports, Dashboards, and Calendars | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/configure-access/grant-access-reports-dashboards-calendars)
+- [Create a Canvas Dashboard | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/create-dashboards/create-dashboards)
+- [Add a Canvas Dashboard to a layout template | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/manage-canvas-dashboards/add-dashboard-to-layout-template)
+- [Filter a Canvas Dashboard | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/manage-canvas-dashboards/filter-canvas-dashboard)
+- [Build a chart report in a Canvas Dashboard | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-chart-report)
+- [Canvas Dashboards overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview#/schema)
+- [Contact Customer Support | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/tips-tricks-for-basics/contact-customer-support)
+- [Licenses Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/access-levels/licenses-overview)
+- [Delete a report in a Canvas Dashboard | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/manage-reports/delete-a-report)
+- [Legacy licenses Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/legacy-access-levels/wf-licenses)
+- [Change the name or description of a Canvas Dashboard | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/manage-canvas-dashboards/change-name-or-description-of-dashboard)
+- [Share a Canvas Dashboard | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/manage-canvas-dashboards/share-canvas-dashboard)
+- [Edit report filters in a Canvas Dashboard | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-report-filters)
+- [Announcements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/announcements/announcements)
+- [Product announcements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-announcements#/schema)
+- [Adobe Workfront Planning Best Practices: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-best-practices/best-practices-article-index)
+- [Adobe Workfront Planning and Adobe GenStudio for Performance Marketing Integration: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/planning-and-genstudio-integration/planning-and-genstudio-integration-article-index)
 
 ## Commerce
 

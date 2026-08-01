@@ -7951,7 +7951,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -10093,7 +10093,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -11237,7 +11237,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -14203,7 +14203,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -22335,10 +22335,6 @@ Send a reminder to approvers on the asset “Spring Campaign Video” who haven�
 
 You don’t need to know the Workfront API or how MCP servers work to use the Workfront MCP server.
 
-IMPORTANT
-
-Currently, the Workfront MCP server is available only to customers using AWS.
-
 What an MCP server is
 
 An MCP server is a connection point that lets an AI agentic platform work with another system. The Workfront MCP server is what your AI agentic platform connects to so it can read and act on your Workfront data on your behalf.
@@ -24123,7 +24119,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -24479,7 +24475,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -24727,7 +24723,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -25943,7 +25939,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -26003,7 +25999,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -30987,7 +30983,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -31522,6 +31518,60 @@ The approval is removed from the
 My Approvals
 
 widget.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
+# FILE: approver-decision-shows-a-hyphen-in-the-proof-approval-report-adobe-workfront.md
+---
+
+Approver Decision shows a hyphen in the Proof Approval report | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Approver Decision shows a hyphen in the Proof Approval report
+
+Last update: June 15, 2026
+
+CREATED FOR:
+
+User
+
+Problem
+
+In the Proof Approval report, a recipient’s Approver Decision field shows a hyphen (-) even though the Decision Date field shows a date and Awaiting Decision is False.
+
+Cause
+
+A hyphen in the Approver Decision field means that the recipient is no longer in a decision-making role on the proof. This can happen when:
+
+The recipient was added to the proof, made a decision, and was later removed from the workflow. If the recipient revisits the proof, the proofing system records the visit as a decision change. Because the recipient is no longer an approver, the system records the new decision as a hyphen.
+
+The recipient’s proof role was changed to one that doesn’t include approval rights, such as Reviewer. For information about the actions each role can take on a proof, see
+
+Proof Roles overview
+
+.
+
+The recipient’s proof permission profile was downgraded after they made their decision.
+
+What this means in your reports
+
+The hyphen is intentional. It tells you that the system isn’t waiting on the recipient to approve the proof, and that the recipient no longer has a decision-making role on the proof.
+
+The Decision Date field still shows the date of the recipient’s most recent decision activity, but the recipient’s decision is no longer counted in the report.
+
+For information about creating and using the Proof Approval report, see
+
+Use the proof approval report
+
+.
 
 recommendation-more-help
 
@@ -32141,7 +32191,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -61527,7 +61577,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -73647,6 +73697,106 @@ ChatGPT user documentation
 
 or ask ChatGPT for help with Custom GPTs.
 
+Connect Workfront to Copilot
+
+To build a custom Copilot agent that the Workfront MCP can connect to, use Copilot Studio.
+
+In Copilot Studio, click
+
+Create blank agent
+
+.
+
+Name the agent, and click
+
+Create
+
+.
+
+The agent’s window opens.
+
+In the
+
+Instructions
+
+field, describe what you want the agent to do. Include information such as your processes and how you use Workfront. We recommend providing a large amount of detail.
+
+In the top navigation, click
+
+Tools
+
+, then click
+
+Add a tool
+
+.
+
+Select the
+
+Model context protocol
+
+tile.
+
+In the panel that appears, enter a name and description for this connection.
+
+In the server URL field, enter the URL:
+
+https://mcp.workfront.adobe.com/mcp/v1/workfront`
+
+For Authorization, select
+
+OAuth 2.0
+
+, then select
+
+Dynamic discovery
+
+.
+
+Click
+
+Create
+
+at the bottom of the panel.
+
+The app is registered.
+
+After the app is registered, in the panel that appears, click
+
+Not connected
+
+, then click
+
+Create a new connection
+
+, then click
+
+Create
+
+.
+
+In the login panel that appears, log in to Workfront, then select
+
+Continue
+
+when it shows which Workfront instance you want to use.
+
+In the panel that displays your server, click
+
+Add and configure
+
+.
+
+You can now begin using and configuring tools for your MCP server.
+
+When a tool is configured and tested, click
+
+Publish
+
+.
+
+You may not have permissions to publish. If this is the case, contact your Copilot administrator.
+
 Verify your connection
 
 To confirm the AI agentic platform is connected to Workfront, ask the AI agentic platform to list the actions the Workfront MCP server makes available. For example:
@@ -73685,17 +73835,11 @@ NOTE
 
 Logging out alone doesn’t switch the Workfront instance. You must disconnect and reconnect the connector.
 
-Your Workfront instance must connect with the MCP server for the region for that instance. For example, an EU instance must connect to the EU MCP server.
-
-When selecting an instance, instances that are not compatible with the MCP server’s region appear grayed out, and you cannot connect to them.
-
-To connect to an instance that is not compatible with the MCP server’s region, set up a new MCP connection with the correct URL for that region.
-
 Troubleshoot setup and authentication
 
 Expand to view troubleshooting tips for setup and authentication of the Workfront MCP server.
 
-table 0-row-3 1-row-3 2-row-3 3-row-3 4-row-3 5-row-3 6-row-3 7-row-3
+table 0-row-3 1-row-3 2-row-3 3-row-3 4-row-3 5-row-3 6-row-3
 
 Problem
 
@@ -73732,12 +73876,6 @@ You can’t connect to Workfront, or you see a message that MCP server access is
 Your Workfront administrator has turned off MCP server access for your instance.
 
 Contact your Workfront administrator and ask them to enable MCP server access in System Preferences.
-
-The Workfront instance that you want to connect to is grayed out, and you see a message that it is not available to connect in your region
-
-Your MCP server is configured for a different region (EU or US) than your instance.
-
-Set up the MCP server with the URL for the region that your Workfront instance is assigned to.
 
 The AI agentic platform can find your Workfront items but can’t create, update, or delete them.
 
@@ -75547,7 +75685,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -79149,7 +79287,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -79865,7 +80003,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -81169,7 +81307,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -106423,7 +106561,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -117901,7 +118039,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -125663,7 +125801,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -126067,7 +126205,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -126325,7 +126463,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -127195,7 +127333,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -130169,7 +130307,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -130835,7 +130973,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -131293,7 +131431,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -136102,6 +136240,346 @@ From projects_event p
 Join <above query> c on c.projectid = p.projectid
 
 and c. status_begin_effective_timestamp = p begin_effective_timestamp
+
+Planning: single record type query
+
+This example demonstrates how to query Workfront Planning data for a single record type stored in the Data Connect data lake.
+
+Scenario
+
+Your organization uses Workfront Planning to track Campaigns. Each Campaign record includes a name, status, start date, end date, and owner. You want to pull a list of all active campaigns and their key details for use in a dashboard.
+
+Planning record type data is stored in the PLANNINGRECORD_CURRENT view.
+
+Each row represents a single record, and all field values are stored in a JSON column named FIELD_VALUES.
+
+The record type is identified by the RECORDTYPEID column.
+
+The record’s workspace is identified by the WORKSPACEID column (or the WORKSPACENAME column for a human-readable filter).
+
+Query
+
+SELECT
+
+recordid,
+
+FIELD_VALUES:"Name"::text AS campaign_name,
+
+FIELD_VALUES:"Status"::text AS campaign_status,
+
+FIELD_VALUES:"Start Date"::date AS start_date,
+
+FIELD_VALUES:"End Date"::date AS end_date,
+
+FIELD_VALUES:"Owner"::text AS owner
+
+FROM PLANNINGRECORD_CURRENT
+
+WHERE WORKSPACEID = '<your_campaign_workspace_id>'
+
+AND RECORDTYPEID = '<your_campaign_record_type_id>'
+
+AND FIELD_VALUES:"Status"::text = 'Active'
+
+ORDER BY start_date ASC
+
+Response
+
+The above query returns the following data:
+
+recordid
+
+: The unique Planning record ID for the campaign.
+
+campaign_name
+
+: The name of the campaign, extracted from the FIELD_VALUES JSON object.
+
+campaign_status
+
+: The current status of the campaign.
+
+start_date
+
+: The campaign’s start date, cast to a date data type.
+
+end_date
+
+: The campaign’s end date, cast to a date data type.
+
+owner
+
+: The name of the user or team assigned as the campaign owner.
+
+Explanation
+
+Planning records in Data Connect share a single table structure regardless of record type. The RECORDTYPEID column is used to scope the query to a specific record type — in this case, Campaigns. Replace
+
+<your_campaign_record_type_id>
+
+with the ID of the record type you want to query, which can be found in the Workfront Planning record type settings or by querying RECORDTYPE_CURRENT.
+
+Field values are stored as a JSON object in the FIELD_VALUES column and are accessed using the same colon-notation syntax used for custom form data:
+
+<field_column>:"<field_name>"::<data_type> AS <alias>
+
+Field name references must match exactly the field name defined in the Planning record type field configuration, including capitalization, spacing and emoji.
+
+NOTE
+
+Planning record type IDs can be found in the URL when viewing a record type in Workfront Planning. It is the path of the URL that begins with “Rt…”. Record types can also be found with the following SQL call within Data Connect:
+
+code language-sql
+
+SELECT
+
+ID AS recordtypeid,
+
+DISPLAYNAME AS record_type_name,
+
+WORKSPACEID
+
+FROM RECORDTYPE_CURRENT
+
+ORDER BY record_type_name ASC
+
+Planning: connected record types query
+
+This example demonstrates how to query data across two connected Planning record types — a parent record type and a record type it is connected to.
+
+Scenario
+
+Your organization connects Campaign records to Tactic records in Workfront Planning. You want to produce a report that shows each campaign alongside key details from its associated tactics. They specifically want to show the tactic name, strategic priority, and budget allocation so that leadership can review campaign activity organized by tactic.
+
+In Data Connect, connections between native Planning record types are stored directly in the FIELD_VALUES_RAW column of PLANNINGRECORD_CURRENT. For a reference field named “Tactics”, the value is a JSON array of connected record objects, each containing an id property with the connected record’s RECORDID. Use Snowflake’s LATERAL FLATTEN to expand this array into rows and join to the connected record type.
+
+Query
+
+SELECT
+
+c.RECORDID AS campaign_id,
+
+c.FIELD_VALUES:"Name"::text AS campaign_name,
+
+c.FIELD_VALUES:"Status"::text AS campaign_status,
+
+t.FIELD_VALUES:"Name"::text AS tactic_name,
+
+t.FIELD_VALUES:"Strategic Priority"::text AS strategic_priority,
+
+t.FIELD_VALUES:"Budget Allocation"::float AS budget_allocation
+
+FROM PLANNINGRECORD_CURRENT c,
+
+INNER JOIN REFERENCE_CURRENT R
+
+ON r.FROM_REFERENCEID = c.REFERENCE_IDS:"Tactics"::text
+
+INNER JOIN PLANNINGRECORD_CURRENT t
+
+-- Join to the Tactic record using the connected record ID from the array
+
+ON t.RECORDID = r.TO_RECORDID
+
+WHERE c.RECORDTYPEID = '<your_campaign_record_type_id>'
+
+ORDER BY tactic_name, campaign_name
+
+Response
+
+The above query returns the following data:
+
+campaign_id
+
+: The unique Planning record ID for the campaign.
+
+campaign_name
+
+: The name of the campaign record.
+
+campaign_status
+
+: The current status of the campaign.
+
+tactic_name
+
+: The name of the connected Tactic record.
+
+strategic_priority
+
+: The Strategic Priority field value from the connected Tactic record.
+
+budget_allocation
+
+: The Budget Allocation field value from the connected Tactic record, cast as a float.
+
+Explanation - Modified KP
+
+Connections between native Planning record types are stored in a REFERENCE_CURRENT join table. The REFERENCE_CURRENT join table is used for joins between RecordType. When joining between RecordType, the TO_RECORDID field should be used.
+
+The REFERENCE_ID column in the PLANNINGRECORD view contains a list of all REFERENCEID fields that are applicable to that planning record. You can access the id by utilizing the same JSON notation as a field_value.
+
+<reference_ids>:"<reference_name>"::text
+
+The REFERENCE_CURRENT view contains one or more records where the TO_RECORDID points to other planning
+
+recordId
+
+fields in the PLANNINGRECORD_* views.
+
+To join another REFERENCE field to additional planning records the same pattern of joining to REFERENCE_CURRENT and the PLANNINGRECORD_* views would be added to the above query.
+
+Planning: record type joined to Workfront Workflow data query
+
+This example demonstrates how to join a Workfront Planning record type to a native Workfront Workflow object — in this case, a Project — using Planning’s native connection feature, which stores external object references in the REFERENCE_CURRENT view.
+
+Scenario
+
+Your organization connects Campaign records in Workfront Planning to Workfront Projects using Planning’s native connection feature. You want to produce a combined report showing campaign details alongside live execution data from the linked project — specifically the project’s current Percent Complete, Planned Completion Date, and assigned Project Owner — so that campaign managers can track delivery progress without leaving their Planning workspace context.
+
+Query
+
+SELECT
+
+c.RECORDID AS campaign_id,
+
+c.FIELD_VALUES:"Name"::text AS campaign_name,
+
+c.FIELD_VALUES:"Status"::text AS campaign_status,
+
+conn.TO_EXTERNALID AS linked_project_id,
+
+p.name AS project_name,
+
+p.percentcomplete AS project_percent_complete,
+
+p.plannedcompletiondate AS project_planned_completion,
+
+p.ownerid AS project_owner_id,
+
+u.name AS project_owner_name
+
+FROM WORKFRONT.PLANNING.PLANNINGRECORD_CURRENT c
+
+-- Join to the references table to find Workfront Project connections
+
+INNER JOIN WORKFRONT.PLANNING.REFERENCE_CURRENT conn
+
+ON conn.REFERENCE_ID = c.REFERENCE_IDS:"ProjectId"::text
+
+-- Join to the Workfront Projects table on the external ID
+
+INNER JOIN WORKFRONT.WF.PROJECTS_CURRENT p
+
+ON p.projectid = conn.TO_EXTERNALID
+
+-- Join to Users to resolve the project owner name
+
+LEFT JOIN WORKFRONT.WF.USERS_CURRENT u
+
+ON u.userid = p.ownerid
+
+WHERE c.RECORDTYPEID = '<your_campaign_record_type_id>'
+
+AND p.completiontype != 'CPL' -- Exclude completed projects
+
+ORDER BY campaign_name
+
+Response
+
+The above query returns the following data:
+
+campaign_id
+
+: The unique Planning record ID for the campaign.
+
+campaign_name
+
+: The name of the campaign record.
+
+campaign_status
+
+: The current status of the campaign, from Planning.
+
+linked_project_id
+
+: The Workfront Project ID from REFERENCE_CURRENT.TO_EXTERNALID, identifying the connected Workfront Project.
+
+project_name
+
+: The native Workfront project name from PROJECTS_CURRENT.
+
+project_percent_complete
+
+: The project’s current percent complete value.
+
+project_planned_completion
+
+: The planned completion date of the linked Workfront project.
+
+project_owner_id
+
+: The Workfront user ID of the project owner.
+
+project_owner_name
+
+: The display name of the project owner, resolved by joining to USERS_CURRENT.
+
+Explanation
+
+Connections from a Planning record type to a native Workfront Workflow object are stored in REFERENCE_CURRENT. Each row in this view represents one directional link: TO_EXTERNALID holds the ID of the connected Workfront object. Rows representing Workfront connections are identified by
+
+TO_EXTERNALCONNECTIONNAME = 'workfront'
+
+and a TO_EXTERNALOBJECTNAME value that corresponds to the Workfront object type’s API code — for example, PROJ for Projects.
+
+The REFERENCE_ID column in the PLANNINGRECORD tables contains a list of all REFERENCEID fields that are applicable to that record. You can access the id by utilizing the same JSON notation as a field_value.
+
+A single REFERENCE_ID in the PLANNINGRECORD_CURRENT may contain one or more reference links in the REFERENCE_CURRENT table that link to objects of a specific object type in the Workfront table.
+
+<reference_ids>:"<reference_name>"::text
+
+Note that Planning views (PLANNINGRECORD_CURRENT, REFERENCE_CURRENT) reside in the WORKFRONT.PLANNING schema, while native Workfront Workflow views (PROJECTS_CURRENT, USERS_CURRENT, etc.) reside in the WORKFRONT.WF schema. Cross-schema joins require fully qualified table names.
+
+The query performs three joins:
+
+Planning records to the references table:
+
+REFERENCE_CURRENT is joined on
+
+TO_RECORDID = c.RECORDID
+
+to find all connections originating from each Campaign record. The filters on
+
+TO_EXTERNALCONNECTIONNAME = 'workfront'
+
+and
+
+TO_EXTERNALOBJECTNAME = 'PROJ'
+
+narrow the results to rows that represent connections to Workfront Projects specifically.
+
+References table to Workfront Projects:
+
+TO_EXTERNALID holds the native Workfront projectid for the connected Project. This is joined directly to
+
+PROJECTS_CURRENT.projectid
+
+to retrieve live project data.
+
+Projects to Users:
+
+A LEFT JOIN to USERS_CURRENT resolves the ownerid foreign key on the project to a human-readable name. A LEFT JOIN is used here so that projects with no assigned owner are still included in results.
+
+NOTE
+
+When joining to tables that are external to Planning, DO NOT use the TO_RECORDID field in the query. It is not needed when joining to external tables.
+
+This pattern can be applied to any Workfront Workflow object that Planning supports connecting to — such as Projects, Portfolios, or Programs — by changing the TO_EXTERNALOBJECTNAME filter to the appropriate object API code (for example, PORT for Portfolios or PRGM for Programs) and joining to the corresponding WORKFRONT.WF table. Refer to the Workfront Data Connect data dictionary for the correct table and ID column names for each object type.
+
+To join another REFERENCE field to additional external records the same pattern of joining to REFERENCE_CURRENT and the Workfront Workflow views would be added to the above query.
+
+External and Planningrecord values can be joined in the same query by joining multiple times to the REFERENCE_CURRENT table an using the appropriate join pattern.
 
 recommendation-more-help
 
@@ -142147,7 +142625,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -143975,7 +144453,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -144285,7 +144763,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -144413,7 +144891,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -145633,7 +146111,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -150591,7 +151069,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -150719,7 +151197,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -155655,7 +156133,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -161887,7 +162365,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -162119,7 +162597,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -167687,7 +168165,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -178623,7 +179101,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -181895,7 +182373,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -183421,7 +183899,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -183577,7 +184055,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -190351,7 +190829,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -193985,7 +194463,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -198753,19 +199231,25 @@ Access requirements
 
 Expand to view access requirements for the functionality in this article.
 
-table 0-row-2 1-row-2 2-row-2 layout-auto html-authored no-header
+table 0-row-2 1-row-2 2-row-2 3-row-2 layout-auto html-authored no-header
 
 Adobe Workfront packages
 
-Any Workfront and Planning package
+Any Workfront or Workflow package with a Planning package
 
-Any Workflow and Planning package
+Any Planning as a standalone product package
 
-Adobe Workfront license
+Workfront license
 
 Standard
 
-System Administrator to enable the Planning Designer for your organization
+Workfront Administrators must enable the Planning Designer for your organization
+
+Planning license
+
+Standard
+
+Workfront Administrators must enable the Planning Designer for your organization
 
 Object permissions
 
@@ -198781,9 +199265,9 @@ Access requirements in Workfront documentation
 
 Enable the Planning Designer for your organization
 
-As a System Administrator, you can turn on the Planning Beta for your organization. After this setting is turned on, everyone in your Workfront instance can view the Planning Designer’s capabilities in their Planning area.
+As a System Administrator, you can turn on the Planning Designer Beta for your organization. After this setting is turned on, everyone in your Workfront instance can view the Planning Designer’s capabilities in their Planning area.
 
-Log in as a Workfront administrator in Workfront.
+Log in as a Workfront administrator.
 
 Click the
 
@@ -198813,13 +199297,51 @@ Turn on
 
 Enable AI
 
-and ensure you have a signed Gen AI Agreement with Adobe.
+.
+
+note
+
+NOTE
+
+Accepting the AI Agreement is not required for using the Planning Designer in beta.
+
+Turn on the
+
+Opt in to AI Betas
+
+setting, if it is not enabled.
 
 Turn on the
 
 Planning Designer
 
-setting.
+setting, if it’s not enabled.
+
+.
+
+note tip
+
+TIP
+
+The
+
+Opt in to AI Betas
+
+and the
+
+Planning Designer
+
+options are turned on by default, but you must accept the Beta agreement to be able to use the Planning Designer.
+
+(Conditional and mandatory) If you have not accepted the Beta Agreement, click
+
+Review Beta Agreement
+
+and read the agreement, then click
+
+Accept
+
+.
 
 Click
 
@@ -198827,7 +199349,7 @@ Save
 
 .
 
-The Planning Designer capabilities to create or edit workspaces is now available for all users in your organization who can access Planning.
+The Planning Designer capabilities to create or edit workspaces are now available for all users in your organization who can access Planning.
 
 Submit feedback about the Planning Designer
 
@@ -198879,35 +199401,13 @@ Your feedback is submitted to the Engineering and Product teams.
 
 Considerations about the Planning Designer
 
-To use the Planning Designer, you first need to enable AI for your organization. The following must be in place for the AI features to be available to everyone in your organization:
+You do not need to enable AI agreement before you can access the Planning Designer.
 
-Workfront must make the AI features available for your organization.
+You must sign the Beta agreement to access the Planning Designer.
 
-For details, see
+Your Workfront Administrator must turn on the Planning Designer for your organization. After this, the Planning Designer is available for all users, by default.
 
-Prerequisites to AI Assistant
-
-.
-
-After Workfront makes the AI features available for your organization, the main Workfront administrator can access it.
-
-For information, see
-
-Configure basic information for your system
-
-.
-
-The Workfront administrator must accept the Gen AI agreement, and then turn on AI and the Planning Designer for your organization.
-
-For more information, see
-
-Enable or disable AI Assistant
-
-.
-
-After your System Administrator turns on AI and the Planning Designer for your organization, the Planning Designer is available for all users, by default.
-
-Actions performed by the Planning Designer can also be performed by the AI Assistant, when you use it in the Planning area.
+If your organization has signed an AI agreement, the actions performed by the Planning Designer can also be performed by the AI Assistant, when you use it in the Planning area.
 
 The actions performed by the AI Assistant in the Planning area or those performed by the Planning Designer are in the context of your Workfront Planning permissions and your Workfront access level.
 
@@ -198934,6 +199434,8 @@ Functionality currently available for the Planning Designer
 You can use either the Planning Designer or the AI Assistant to perform any of the following actions:
 
 Create and configure workspaces
+
+Edit workspaces
 
 Create record types, including defining and adding global record types to workspaces
 
@@ -199081,7 +199583,7 @@ Edit workspaces
 
 .
 
-Click
+Open the workspace and click
 
 Edit with AI
 
@@ -213793,7 +214295,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -216861,7 +217363,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -228183,7 +228685,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -234233,7 +234735,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -234441,7 +234943,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -234593,7 +235095,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -242499,7 +243001,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -242737,7 +243239,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -243289,7 +243791,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -245549,7 +246051,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -246082,14 +246584,6 @@ Only fields with color-coded options display in the drop-down menu.
 For example, multi-select or single-select fields can have color-coded options.
 
 If you do not have a field with color-coded options for the selected record type, this option is dimmed.
-
-Click
-
-Save
-
-.
-
-The records display in the calendar view with the specifications that you selected.
 
 recommendation-more-help
 
@@ -246729,7 +247223,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -247543,7 +248037,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -248143,19 +248637,11 @@ CREATED FOR:
 
 User
 
-The information highlighted on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -248234,788 +248720,6 @@ Edit records
 Manage a table view
 
 manage-a-table-view
-
-Managing the table view is different depending on which environment you access it from.
-
-Manage the table view in the Production environment
-
-When creating a table view, all records of the selected type display in a table. Each row is a unique record and each column is a record field. All fields and all records display by default.
-
-To manage a table view:
-
-Create a table view, as described in the article
-
-Manage record views
-
-.
-
-(Optional) Click
-
-Row height
-
-, then select from the following options to modify the height of the table rows:
-
-Short
-
-Standard
-
-Medium
-
-Tall
-
-(Optional) Click the
-
-Full screen
-
-icon
-
-to open the view in full screen, then the
-
-Exit full screen
-
-icon
-
-or Escape on your keyboard to exit the full screen.
-
-Update the following view elements as described in the subsections below:
-
-Columns (or fields)
-
-Rows (or records)
-
-Filters
-
-Sort
-
-Grouping
-
-Row colors
-
-Real-time presence indicator
-
-Add columns (or fields)
-
-add-columns
-
-The column headers of a table view display fields associated with the records in the view. Fields displayed in the table view also display in the Details section of a record.
-
-For more information, see
-
-Edit records
-
-.
-
-Adding columns to a view is identical to adding fields to a record type.
-
-You can add up to 500 fields (or columns) in a table view.
-
-Go to a record type page and click a table view tab, or click
-
-+ View
-
-to add a new view, then choose
-
-Table
-
-.
-
-Start adding fields (or columns), as described in the article
-
-Create fields
-
-.
-
-The columns you add are visible to all users who access the record type and are added as new fields on the record’s page.
-
-(Optional) Click the
-
-Fields
-
-icon
-
-in the toolbar, search for a field, then unselect the toggle to the right of the field name to hide the field.
-
-Do one of the following to reorder columns in the table:
-
-Grab the column header and drag and drop it in the desired position. The column you moved briefly displays with a blue background until you make other adjustments to the table.
-
-Click
-
-Fields
-
-in the table’s toolbar, then drag and drop the fields in the desired order, then click outside the
-
-Fields visibility and order
-
-box to close it.
-
-note tip
-
-TIP
-
-The Name field is always the first field in the table view, by default. This is considered a primary field.
-
-You cannot move the Name field to another position, unless you designate another field as the primary field. For more information, continue with Step 4.
-
-Replace the field in the first column with another field by changing the primary field. For more information, continue to step 4.
-
-(Optional) Hover over a field name in the column header of any field that does not display in the first column of the table, click the downward-pointing arrow to the right of the field name, then click
-
-Set as primary field
-
-.
-
-Click
-
-Set field
-
-to confirm.
-
-The field becomes a primary field which means it displays as the first column of the table view. The previous primary field moves to the second column.
-
-Primary fields become the record’s title and display in the header area of the record’s page, and everywhere where the records display. For example, the record title displays in connected fields and all views. For more information about primary fields, see
-
-Primary field overview
-
-.
-
-Click and drag the column separation lines and drop them in the desired spot to increase the width of the columns.
-
-note tip
-
-TIP
-
-The changes you make to the column width and order are permanent and visible to all users who access the record type.
-
-Hover over the column header, then click the downward-pointing arrow, then click
-
-Hide field
-
-Or
-
-Click
-
-Fields
-
-in the table toolbar and disable the toggle associated with the fields (or columns) you want to hide. The
-
-Fields visibility and order
-
-box displays.
-
-note tip
-
-TIP
-
-The number of hidden fields displays to the left of the Fields icon in the toolbar.
-
-By default, hidden fields do not display in the record’s
-
-Details
-
-preview box. All fields display in the record’s Details page. For information, see
-
-Manage the record page layout
-
-.
-
-Click the
-
-Fields
-
-icon and enable the toggle associated with the fields you want to display in the columns of the table. All fields display by default.
-
-Do the following to quickly find records that match a keyword:
-
-In the
-
-Search
-
-box
-
-and start typing a keyword associated with any field of a record that displays on the screen. The number of correct matches displays next to the search item and the field with the correct match is highlighted.
-
-You can use any word or special character that is visible on the screen.
-
-You cannot use keywords that are associated with fields that are hidden in the table view.
-
-Press
-
-Enter
-
-on your keyboard to go to the next found field.
-
-(Optional) If there is more than one match, click the up and down arrows to the right of the search keyword to find all the matches in the table.
-
-Click the
-
-x
-
-icon in the search box to clear the search keyword.
-
-Add rows (or records)
-
-add-rows
-
-The rows of a table view display individual records of the selected record type.
-
-You can have up to 50,000 records (or rows) for .
-
-Go to a record type page and click a table view tab, or click
-
-+ View
-
-to add a new view, then choose
-
-Table
-
-.
-
-Start adding records (or rows), as described in the article
-
-Create records
-
-.
-
-The records you add in the table view are saved immediately and are visible to all users who have View or higher permissions to the workspace.
-
-A thumbnail image is also added to the record.
-
-(Optional) Click the
-
-More
-
-menu
-
-to the right of the record name, then click
-
-Edit thumbnail
-
-to add a new thumbnail to the new record.
-
-Click
-
-Fields
-
-at the top of the table, then select the toggle for the
-
-Thumbnail
-
-field to display it to the left of the primary field.
-
-For information, see
-
-Add a thumbnail to a record
-
-.
-
-(Optional) Select one or multiple records in a row, then drag and drop the
-
-handle
-
-icon
-
-to the left of the record to reorder the rows.
-
-note
-
-NOTE
-
-You cannot reorder rows if you apply at least one sort to the table view.
-
-The changes you make to the row order are visible to all users who access the record type
-
-Add filters
-
-add-filters
-
-Filters help you reduce the amount of information displayed on the screen.
-
-Consider the following when working with filters in the table view:
-
-The filters you create for the table view work independently from the filters in the timeline view when applied to the same record type.
-
-The filters are unique to the view that you select. Two table views of the same record type can have different filters applied to them. Two users looking at the same table view see the same filter that is currently applied.
-
-You cannot name the filters you build and apply to a table view.
-
-Removing filters removes them from anyone accessing the same record type as you and uses the same view as you use.
-
-You can filter by connected record fields or lookup fields.
-
-You can filter by lookup fields that display multiple values.
-
-You can reference a field that is up to 4 levels away from the current record type. For example, if you are creating a filter for an Activity record type, and the Activity is connected to the Product record type which is connected to the Campaign record type which is connected to a Workfront Project, you can reference the project’s Budget in the filter you are creating for the Activity record type.
-
-To add a filter to a table view:
-
-Create a table view for a record type page, as described in the article
-
-Manage record views
-
-.
-
-Select a table view, then click
-
-Filters
-
-in the upper-right corner of the table.
-
-Click
-
-Add condition
-
-and add the following information:
-
-Search for a field and select it when it displays in the list.
-
-Select an option
-
-(or a filter modifier) to define what kind of condition the field must meet
-
-The table below displays the available modifiers for each type of field.
-
-table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2
-
-Field type
-
-Modifiers
-
-Single-line, Paragraph, Formula
-
-Contains
-
-Does not contain
-
-Is
-
-Is not
-
-Is empty
-
-Is not empty
-
-Single-select
-
-Is
-
-Is not
-
-Is any of
-
-Is none of
-
-Is empty
-
-Is not empty
-
-Multi-select, People
-
-Has any of
-
-Has all of
-
-Is exactly
-
-Has none of
-
-Is empty
-
-Is not empty
-
-Number, Percentage, Currency
-
-=
-
-≠
-
-<
-
->
-
-≤
-
-≥
-
-Is empty
-
-Is not empty
-
-Date
-
-Is
-
-Is not
-
-Is after
-
-Is before
-
-Is between
-
-Is not between
-
-Is empty
-
-Is not empty
-
-Checkbox
-
-Is
-
-Select a value for the field selected.
-
-There is no limit to how many filtering conditions you can add.
-
-(Optional) Click
-
-Add condition
-
-to add another filtering option and repeat the above steps. The number of filters applied displays to the left of the Filters icon.
-
-Click the following operators to indicate how the filter conditions are joined and should be applied:
-
-AND
-
-: All specified conditions must be met.
-
-OR
-
-: Any of the specified conditions must be met. This is the default option.
-
-(Optional) Add additional
-
-AND
-
-or
-
-OR
-
-operators between multiple condition groupings.
-
-The list of records is filtered automatically.
-
-(Optional) Click the
-
-x
-
-icon to remove a filter condition.
-
-(Optional) Click
-
-Filters
-
-to close the filters box.
-
-Add a sort
-
-sort-information
-
-By applying a sort, you can organize information in a given order.
-
-You can sort the following information:
-
-All records in a table view.
-
-Consider the following when sorting records in the table view:
-
-Sorting is unique to the view that you select. Two table views of the same record type can have different sorting criteria applied to them. Two users looking at the same table view see the same sorting that is currently applied.
-
-You cannot name the sortings you build and apply to a table view.
-
-The sorting you create is preserved when you navigate away.
-
-You can sort by as many fields as you see displayed in the table view of a record type.
-
-You cannot sort by connected record fields, but you can sort by lookup fields from connected record types.
-
-When you sort by lookup fields with multiple values (that have not been summarized by an aggregator), the first value is used for sorting.
-
-Removing sorting criteria removes them from anyone accessing the same record type as you and uses the same view as you use.
-
-You can reference a field that is up to 4 levels away from the current record type. For example, if you are creating a sort for an Activity record type, and the Activity is connected to the Product record type which is connected to the Campaign record type which is connected to a Workfront Project, you can reference the project’s Status in the sort you are creating for the Activity record type.
-
-To sort
-
-records, do the following:
-
-Create a table view, as described in the article
-
-Manage record views
-
-.
-
-Click the
-
-Sort
-
-icon
-
-in the upper-right corner of the table
-
-Or
-
-Hover over the name of a column in the table view, click the downward-pointing arrow to the right of the column header name, then click
-
-Sort by this field
-
-. The field is added as a sorting selection in the Sort icon in the upper-right corner of the table view.
-
-(Conditional) In the
-
-Sort records by
-
-box, click one of the suggested fields, or click
-
-Choose a different field
-
-and search for a different field, then click it when it displays in the list.
-
-The sorting is applied automatically to the table view and records display sorted by your selected criteria.
-
-(Optional) Click
-
-Add condition
-
-, and repeat the above steps to sort by additional fields.
-
-The number of fields that you are sorting by displays to the left of the Sort icon in the upper-right corner of the toolbar. You can choose only fields that display in the columns of the table view.
-
-(Optional) In the
-
-Sort records by
-
-box, click the
-
-x
-
-icon to the right of a sorting field to remove the sort
-
-Or
-
-Click
-
-Clear all
-
-to remove all fields from the sort.
-
-Click outside the
-
-Sort records by
-
-box to close it.
-
-The information displayed in the table is sorted according to your selected criteria.
-
-The fields selected for the sort display a sorting icon followed by a number that indicates the order in which the sorting is applied.
-
-Add groupings
-
-add-groupings
-
-You can group records by similar information when applying a grouping to a view.
-
-Consider the following:
-
-You can apply groupings both in the table and timeline views. The groupings of the table view are independent from those in the timeline view of the same record type.
-
-You can apply 3 levels of grouping in a view. The records are grouped in the order of groupings that you select.
-
-The groupings are unique to the view that you select. Two table views of the same record type can have different groupings applied to them. Two users looking at the same table view see the same grouping that is currently applied.
-
-You cannot name the groupings you build for a table view.
-
-Removing groupings removes them from anyone accessing the same record type as you and who displays the same view as you do.
-
-You can edit records listed under a grouping.
-
-You can group by connected record fields or lookup fields.
-
-When you group by lookup fields with multiple values (that have not been summarized by an aggregator), records are grouped by each unique combination of field values.
-
-You can reference a field that is up to 4 levels away from the current record type. For example, if you are creating a grouping for an Activity record type, and the Activity is connected to the Product record type which is connected to the Campaign record type which is connected to a Workfront Project, you can reference the project’s Status in the grouping you are creating for the Activity record type.
-
-Groupings are listed in the alphabetical order of their values.
-
-To add a grouping:
-
-Create a timeline view for a record type, as described in the article
-
-Manage record views
-
-.
-
-Click
-
-Grouping
-
-in the upper-right corner of the table view.
-
-Click one of the suggested fields, or click
-
-Choose a different field
-
-, search for a different field, then click it when it displays in the list.
-
-The grouping is applied automatically to the table and records display under the grouping separation line.
-
-(Optional) Click
-
-Add condition
-
-and repeat the above steps to add up to 3 groupings.
-
-The number of fields selected for the grouping displays next to the Grouping icon.
-
-(Optional) Inside the
-
-Group records by
-
-box, click the
-
-x
-
-icon to the right of a field selected for the grouping to remove the grouping.
-
-Click outside the
-
-Group records by
-
-box to close it.
-
-(Optional) Click
-
-+ New record
-
-at the end of any grouping to add new records, then refresh your page to add the new record to the appropriate grouping.
-
-To expand or collapse groupings, do one of the following:
-
-Click the
-
-Grouping
-
-icon, then
-
-Expand all
-
-, or
-
-Collapse all
-
-. This expands all the groupings and subgroupings in the table view.
-
-Right-click any of the grouping headers in the table view, then click one of the following options:
-
-Expand group
-
-Collapse group
-
-Expand all
-
-Collapse all
-
-Expand subgroups
-
-Collapse subgroups
-
-Depending on the number of groupings you apply to the view, some options might not be available.
-
-Add row colors
-
-(Optional) Click
-
-Row colors
-
-to define conditions and choose configure diferent colors for table rows.
-
-Click
-
-Add color
-
-, then search for a field then select it when it displays in the list. This is the field whose value you want to determine the color of a row.
-
-For example, to display campaigns with a status of Active in green, select
-
-Status
-
-, then choose a modifier and a value for the field.
-
-Click the drop-down menu for the color picker in the upper-left corner of the condition you selected, to pick the color for the condition, then click outside the color picker box to close it.
-
-(Optional) Click
-
-Add condition
-
-to add more fields and values to the first set of conditions
-
-Or
-
-Click
-
-Add color
-
-to add a new set of conditions and identify a new color.
-
-For example, you can display campaigns in a Planning status in yellow by defining a new set of conditions.
-
-(Optional) Turn on the
-
-Apply to the entire row
-
-setting in the upper-right corner of the Row colors box. The entire row where the condition is met automatically displays in the selected color.
-
-note
-
-NOTE
-
-If the Apply to the entire row setting is turned off, only the left side of the Primary field displays a narrow color indicator with the selected color. The setting is turned off by default.
-
-You cannot apply row colors to an entire row when you have at least one grouping selected in the table view. The role color only applies to the left of the primary field cell when grouping are applied to the table.
-
-Click outside the
-
-Row colors
-
-box to close it. The colors are applied automatically.
-
-Enable the real-time presence indicator
-
-The avatars of other users who are editing record information at the same time as you display in the upper-right corner of all record views, by default.
-
-When you display the table view, you can also view which field another user is editing at the time you are viewing the record.
-
-Go to a record type page and open any view.
-
-(Conditional) If there are other users editing the records of the selected type at the same time, their avatars display in the upper-right corner of the view.
-
-Click the drop-down menu next to the avatars, the turn on the
-
-Show collaborators
-
-setting. The setting is on by default.
-
-note tip
-
-TIP
-
-You can select the
-
-Show collaborators
-
-toggle from any view. The field currently edited by others is outlined only in the table view.
-
-(Conditional) Open a table view, and the field which another person is actively editing is highlighted in the color corresponding to the outline of their avatar in the table view.
-
-If the highlight color of the avatar is gray, the user stopped actively editing the record more than 30 seconds ago.
-
-(Optional) Click the triangle in the upper-right corner of the cell that contains the field edited by others. A list of users currently editing the field displays.
-
-TIP
-
-Real-time presence indicators display users that are currently editing a field anywhere in Workfront Planning. This includes either the table view or the Details area of the record.
-
-Manage the table view in the Preview environment
 
 When creating a table view, all records of the selected type display in a table. Each row is a unique record and each column is a record field. All fields and all records display by default.
 
@@ -249279,7 +248983,7 @@ Add rows (or records)
 
 add-rows-1
 
-The rows of a table view display individual records of the selected record type.
+The rows of a table view display individual records of the selected record type. Adding rows is identical to creating records.
 
 You can have up to 50,000 records (or rows) for a record type.
 
@@ -249337,13 +249041,183 @@ add-filters-1
 
 Filters help you reduce the amount of information displayed on the screen.
 
-Adding filters in the table view in the Preview environment is identical to adding filters in the Production environment.
+Filters help you reduce the amount of information displayed on the screen.
 
-For information, see the
+Consider the following when working with filters in the table view:
 
-Add filters
+The filters you create for the table view work independently from the filters in the timeline view when applied to the same record type.
 
-section in this article.
+The filters are unique to the view that you select. Two table views of the same record type can have different filters applied to them. Two users looking at the same table view see the same filter that is currently applied.
+
+You cannot name the filters you build and apply to a table view.
+
+Removing filters removes them from anyone accessing the same record type as you and uses the same view as you use.
+
+You can filter by connected record fields or lookup fields.
+
+You can filter by lookup fields that display multiple values.
+
+You can reference a field that is up to 4 levels away from the current record type. For example, if you are creating a filter for an Activity record type, and the Activity is connected to the Product record type which is connected to the Campaign record type which is connected to a Workfront Project, you can reference the project’s Budget in the filter you are creating for the Activity record type.
+
+To add a filter to a table view:
+
+Create a table view for a record type page, as described in the article
+
+Manage record views
+
+.
+
+Select a table view, then click
+
+Filters
+
+in the upper-right corner of the table.
+
+Click
+
+Add condition
+
+and add the following information:
+
+Search for a field and select it when it displays in the list.
+
+Select an option
+
+(or a filter modifier) to define what kind of condition the field must meet
+
+The table below displays the available modifiers for each type of field.
+
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2
+
+Field type
+
+Modifiers
+
+Single-line, Paragraph, Formula
+
+Contains
+
+Does not contain
+
+Is
+
+Is not
+
+Is empty
+
+Is not empty
+
+Single-select
+
+Is
+
+Is not
+
+Is any of
+
+Is none of
+
+Is empty
+
+Is not empty
+
+Multi-select, People
+
+Has any of
+
+Has all of
+
+Is exactly
+
+Has none of
+
+Is empty
+
+Is not empty
+
+Number, Percentage, Currency
+
+=
+
+≠
+
+<
+
+>
+
+≤
+
+≥
+
+Is empty
+
+Is not empty
+
+Date
+
+Is
+
+Is not
+
+Is after
+
+Is before
+
+Is between
+
+Is not between
+
+Is empty
+
+Is not empty
+
+Checkbox
+
+Is
+
+Select a value for the field selected.
+
+There is no limit to how many filtering conditions you can add.
+
+(Optional) Click
+
+Add condition
+
+to add another filtering option and repeat the above steps. The number of filters applied displays to the left of the Filters icon.
+
+Click the following operators to indicate how the filter conditions are joined and should be applied:
+
+AND
+
+: All specified conditions must be met.
+
+OR
+
+: Any of the specified conditions must be met. This is the default option.
+
+(Optional) Add additional
+
+AND
+
+or
+
+OR
+
+operators between multiple condition groupings.
+
+The list of records is filtered automatically.
+
+(Optional) Click the
+
+x
+
+icon to remove a filter condition.
+
+(Optional) Click
+
+Filters
+
+to close the filters box.
 
 Add a sort
 
@@ -249671,17 +249545,35 @@ The avatars of other users who are editing record information at the same time a
 
 When you display the table view, you can also view which field another user is editing at the time you are viewing the record.
 
-Enabling the real-time presence indicator in the table view in the Preview environment is identical to enabling it in the Production environment.
+Go to a record type page and open any view.
 
-For information, see the
+(Conditional) If there are other users editing the records of the selected type at the same time, their avatars display in the upper-right corner of the view.
 
-Enable the real-time presence indicator
+Click the drop-down menu next to the avatars, the turn on the
 
-section in this article.
+Show collaborators
 
-style
+setting. The setting is on by default.
 
-highlighted
+note tip
+
+TIP
+
+You can select the
+
+Show collaborators
+
+toggle from any view. The field currently edited by others is outlined only in the table view.
+
+(Conditional) Open a table view, and the field which another person is actively editing is highlighted in the color corresponding to the outline of their avatar in the table view.
+
+If the highlight color of the avatar is gray, the user stopped actively editing the record more than 30 seconds ago.
+
+(Optional) Click the triangle in the upper-right corner of the cell that contains the field edited by others. A list of users currently editing the field displays.
+
+TIP
+
+Real-time presence indicators display users that are currently editing a field anywhere in Workfront Planning. This includes either the table view or the Details area of the record.
 
 recommendation-more-help
 
@@ -249715,7 +249607,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -250513,31 +250405,7 @@ NOTE
 
 You can match the color only to fields with color-coded options. For example, you can match the color to Status fields, or fields with options associated with colors.
 
-You cannot match the color to lookup fields from linked record or object types.
-
-For example, multi-select or single-select fields can have color-coded options.
-
-If you group by fields without color-coded options, the grouping color remains gray.
-
-note tip
-
-TIP
-
-If you did not add groupings to the timeline view, this section does not display.
-
-In the
-
-Set record color
-
-section, select from the following options to set a color for the records:
-
-Record type
-
-: The color of the records match the color of the record type you selected. This is the default option.
-
-Field values
-
-: The color of the records matches the color of a field that you specify. Continue with step 10.
+You cannot match the color to connected records and their lookup fields.
 
 Grouping
 
@@ -279135,7 +279003,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -286309,7 +286177,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -293683,7 +293551,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -293793,7 +293661,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -306711,7 +306579,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -316013,7 +315881,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -327305,7 +327173,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -327661,7 +327529,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -328071,7 +327939,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -328931,7 +328799,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -329529,7 +329397,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -331561,7 +331429,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -341961,7 +341829,11 @@ Adobe Workfront Fusion release activity
 
 Workfront Planning enhancements
 
-For more information about the latest features, see
+For more information about the latest features, see:
+
+Fourth Quarter 2026 release activity for Adobe Workfront Planning
+
+.
 
 Third Quarter 2026 release activity for Adobe Workfront Planning
 
@@ -349449,7 +349321,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -366726,10 +366598,6 @@ CREATED FOR:
 User
 
 The Adobe Workfront MCP server lets you find, create, update, and manage Workfront items by asking an AI agentic platform in natural language. The platform decides which Workfront actions to call and handles the conversation with Workfront for you.
-
-IMPORTANT
-
-Currently, the Workfront MCP server is available only to customers using AWS.
 
 Prerequisites
 
@@ -391187,7 +391055,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 
@@ -393301,7 +393169,7 @@ This page contains information about the structure and content of the data in Wo
 
 NOTE
 
-The data in Data Connect refreshes every 4 hours, so recent changes may not be immediately reflected.
+The data in Data Connect refreshes every 4 hours, so recent changes might not be immediately reflected.
 
 View types
 
@@ -393393,7 +393261,7 @@ and
 
 END_EFFECTIVE_TIMESTAMP
 
-this is value is never null, even if there is no new value. In the event a record is still valid (i.e., the value has not changed),
+this value is never null, even if there is no new value. In the event a record is still valid (meaning that the value has not changed),
 
 END_EFFECTIVE_TIMESTAMP
 
@@ -403611,6 +403479,1170 @@ PK
 
 -
 
+Planning view descriptions and relationships
+
+The following tables describe the data views available in the Planning schema in Data Connect. Unlike the Workflow data views, the Planning data views include a full column-by-column description for each view.
+
+Planning data is available in the following views:
+
+FIELD_CURRENT
+
+— The current definitions of all fields configured on Planning record types.
+
+FIELD_DAILY_HISTORY
+
+— A daily snapshot of field definitions, useful for tracking field configuration changes over time.
+
+FIELD_EVENT
+
+— A change log of every event that modifies a field definition.
+
+PLANNINGRECORD_CURRENT
+
+— The current state of all Planning records across all workspaces and record types.
+
+PLANNINGRECORD_DAILY_HISTORY
+
+— A daily snapshot of Planning record state, useful for trend analysis.
+
+PLANNINGRECORD_EVENT
+
+— A change log of every event that modifies a Planning record, useful for point-in-time comparisons.
+
+RECORDTYPE_CURRENT
+
+— The current definitions of all record types configured in Planning workspaces.
+
+RECORDTYPE_DAILY_HISTORY
+
+— A daily snapshot of record type definitions, useful for tracking record type configuration changes over time.
+
+RECORDTYPE_EVENT
+
+— A change log of every event that modifies a record type definition.
+
+REFERENCE_CURRENT
+
+— The current state of all cross-object reference connections between Planning records and Workfront (or other external) objects.
+
+WORKSPACE_CURRENT
+
+— The current definitions of all Planning workspaces.
+
+WORKSPACE_DAILY_HISTORY
+
+— A daily snapshot of workspace definitions, useful for tracking workspace configuration changes over time.
+
+WORKSPACE_EVENT
+
+— A change log of every event that modifies a workspace definition.
+
+NOTE
+
+The following views are available in the Planning schema but are not described in detail here. They follow the same column patterns as their corresponding CURRENT views, with the addition of standard history and event audit fields.
+
+The views are:
+
+DAILY_HISTORY views
+
+EVENT views (FIELD_DAILY_HISTORY, FIELD_EVENT, PLANNINGRECORD_DAILY_HISTORY, PLANNINGRECORD_EVENT, RECORDTYPE_DAILY_HISTORY, RECORDTYPE_EVENT, WORKSPACE_DAILY_HISTORY, and WORKSPACE_EVENT)
+
+FIELD_CURRENT
+
+Contains the current definitions of all fields configured on Workfront Planning record types. Each row represents one field, including its display name, type, and type-specific configuration stored in structured Variant (JSON) columns. Use this view to resolve field IDs from PLANNINGRECORD_CURRENT into human-readable field names and metadata.
+
+Column Name
+
+Type
+
+Description
+
+Related Table
+
+Related Field
+
+`ID`
+
+Varchar
+
+The unique identifier for the field definition. Primary key for this view.
+
+—
+
+—
+
+`RECORDTYPEID`
+
+Varchar
+
+The unique identifier of the record type this field belongs to. Use with RECORDTYPE\_CURRENT to look up record type details.
+
+RECORDTYPE\_CURRENT
+
+ID
+
+`DISPLAYNAME`
+
+Varchar
+
+The display name of the field as shown in the Planning interface.
+
+—
+
+—
+
+`ALIASNAME`
+
+Varchar
+
+A URL-safe, lowercase version of the field's display name, used for system-level identification and API access (e.g., "End Date" becomes `end_date`, "Percent Complete" becomes `percent_complete`).
+
+—
+
+—
+
+`DESCRIPTION`
+
+Varchar
+
+A user-provided description of the field's purpose.
+
+—
+
+—
+
+`FIELDTYPE`
+
+Varchar
+
+The data type or field category. Possible values include: `text`, `long-text`, `number`, `percentage`, `currency`, `date`, `boolean`, `single-select`, `multi-select`, `reference`, `lookup`, `formula`, `user`, `created-at`, and `created-by`.
+
+—
+
+—
+
+`HASERROR`
+
+Varchar
+
+Indicates whether the field currently has a configuration or sync error. Values are the strings `true` or `false`. A value of `true` means the field is in an error state and may not be returning data correctly.
+
+—
+
+—
+
+`LINKEDFIELD`
+
+Variant
+
+A JSON object containing the full field definition of the source field that this field is linked to. Present for `reference` and `lookup` field types; includes properties such as `alias`, `displayName`, `fieldType`, and `createdAt`. Null for non-linked fields.
+
+FIELD\_CURRENT
+
+ID
+
+`OPTIONS`
+
+Variant
+
+A JSON array of choice objects for `single-select` and `multi-select` fields. Each choice object contains `color` (a named color label), `displayName` (the label shown in the UI), and `name` (the internal API name). Null for non-select field types.
+
+—
+
+—
+
+`DATEOPTIONS`
+
+Variant
+
+A JSON object containing date-specific display configuration for `date` fields. Includes `dateFormat` (e.g., `locale`) and `timeFormat` (null if time is not shown). Null for non-date field types.
+
+—
+
+—
+
+`FORMULAOPTIONS`
+
+Variant
+
+A JSON object containing formula configuration for `formula` fields. Includes `formula` (the human-readable formula expression), `returnType` (e.g., `PERCENTAGE`, `NUMBER`), `numberOptions` (precision, visualization), and `dateOptions`. Null for non-formula fields.
+
+—
+
+—
+
+`REFERENCEOPTIONS`
+
+Variant
+
+A JSON object containing connection configuration for `reference` fields that link to other Planning record types. Includes `backField` (the definition of the reverse reference field on the connected record type) and `linkedRecordTypeId`. Null for non-reference fields.
+
+—
+
+—
+
+`LOOKUPOPTIONS`
+
+Variant
+
+A JSON object containing lookup configuration for `lookup` fields that pull values from a connected record type. Includes `referenceFieldId` (the ID of the reference field driving the lookup), `rollup` (aggregation method, or null for no rollup), and `sourceField` (an object with the `id` of the field being looked up). Null for non-lookup fields.
+
+—
+
+—
+
+`NUMBEROPTIONS`
+
+Variant
+
+A JSON object containing numeric formatting options for `number`, `percentage`, and `currency` fields. Includes `allowNegatives` (boolean), `currency` (currency code or null), `precision` (decimal places), and `visualizationType` (display style, or null for plain text). Null for non-numeric field types.
+
+—
+
+—
+
+`EXTERNALOPTIONS`
+
+Variant
+
+A JSON object containing configuration for fields connected to external systems outside of Planning. Typically null for natively created fields; populated for fields on externally connected record types.
+
+—
+
+—
+
+`CREATEDAT`
+
+Timestamp\_NTZ
+
+The timestamp (no timezone) of when this field was created.
+
+—
+
+—
+
+`CREATEDBY`
+
+Varchar
+
+The identifier of the user who created this field.
+
+WF.USERS\_CURRENT
+
+EAUTHUSERID
+
+`UPDATEDAT`
+
+Timestamp\_NTZ
+
+The timestamp (no timezone) of when this field was last updated.
+
+—
+
+—
+
+`UPDATEDBY`
+
+Varchar
+
+The identifier of the user who last updated this field.
+
+WF.USERS\_CURRENT
+
+EAUTHUSERID
+
+`USERID`
+
+Varchar
+
+The identifier of the user associated with this field, typically the field owner.
+
+WF.USERS\_CURRENT
+
+EAUTHUSERID
+
+`CREATED`
+
+Number
+
+A flag indicating the last operation type that affected this field record. A value of 1 indicates the record was created in the most recent data refresh cycle; 0 indicates it was not. See CREATEDAT for the actual creation timestamp.
+
+—
+
+—
+
+`UPDATED`
+
+Number
+
+A flag indicating the last operation type that affected this field record. A value of 1 indicates the record was updated in the most recent data refresh cycle; 0 indicates it was not. See UPDATEDAT for the actual last-updated timestamp.
+
+—
+
+—
+
+`DELETED`
+
+Number
+
+A flag indicating whether this field has been soft-deleted. A value of 1 indicates deleted; 0 indicates active.
+
+—
+
+—
+
+`RESTORED`
+
+Number
+
+A flag indicating whether this field was restored after being soft-deleted.
+
+—
+
+—
+
+`TRIGGEREDBYSERVICE`
+
+Varchar
+
+The name of the service or integration that triggered the last modification to this field record. A value of `Unknown` indicates the originating service could not be determined.
+
+—
+
+—
+
+`ISFUSION`
+
+Boolean
+
+A flag indicating whether this field was created or managed through a Workfront Fusion integration. A value of `true` indicates Fusion management; `false` or an empty value indicates it is a natively created field.
+
+—
+
+—
+
+`DL_LOAD_TIMESTAMP`
+
+Timestamp\_NTZ
+
+The timestamp of the data refresh job that last loaded this field record into the data lake. Updated after each successful data refresh cycle.
+
+—
+
+—
+
+PLANNINGRECORD_CURRENT
+
+Contains the current state of all records created in Workfront Planning, across all workspaces and record types. Each row represents one Planning record, with field values stored in structured Variant (JSON) columns that reflect the dynamic, schema-flexible nature of Planning data.
+
+Column Name
+
+Type
+
+Description
+
+Related Table
+
+Related Field
+
+`RECORDID`
+
+Varchar
+
+The unique identifier for the Planning record. Primary key for this view.
+
+WF.PLANNINGRECORDS\_CURRENT
+
+RECORDID
+
+`WORKSPACEID`
+
+Varchar
+
+The unique identifier for the Planning workspace that contains this record.
+
+WORKSPACE\_CURRENT
+
+ID
+
+`WORKSPACENAME`
+
+Varchar
+
+The display name of the Planning workspace that contains this record.
+
+—
+
+—
+
+`RECORDTYPEID`
+
+Varchar
+
+The unique identifier for the record type (e.g., Campaign, Initiative) that this record belongs to.
+
+RECORDTYPE\_CURRENT
+
+ID
+
+`RECORDTYPENAME`
+
+Varchar
+
+The display name of the record type that this record belongs to.
+
+—
+
+—
+
+`FIELD_IDS`
+
+Variant
+
+A JSON object mapping each field's display name to its field ID (e.g., `{"Status": "F69bc...", "End Date": "F69bc..."}`). Use this to map human-readable field names to the IDs used in FIELDID\_VALUES and FIELDID\_VALUES\_RAW.
+
+—
+
+—
+
+`FIELD_VALUES_RAW`
+
+Variant
+
+A JSON object mapping each field's display name to its raw (unformatted) value. For reference fields, the value is an array of connected record objects; for number and formula fields, it is a plain numeric value; for long-text fields, it is a rich-text content object. Keyed by field display name, matching FIELD\_IDS.
+
+—
+
+—
+
+`FIELD_VALUES`
+
+Variant
+
+A JSON object mapping each field's display name to its display-formatted string value. Keyed by field display name, matching FIELD\_IDS.
+
+—
+
+—
+
+`FIELD_TYPES`
+
+Variant
+
+A JSON object mapping each field's display name to its field type string (e.g., `text`, `number`, `date`, `single-select`, `reference`, `formula`). Keyed by field display name, matching FIELD\_IDS.
+
+—
+
+—
+
+`FIELDID_VALUES`
+
+Variant
+
+A JSON object mapping each field ID to its display-formatted value. For simple field types the value is a string or number; for long-text fields it is an object containing both `content` (plain text) and `contentHTML` (HTML-formatted) properties. Use FIELD\_IDS to look up the display name for each field ID.
+
+—
+
+—
+
+`FIELDID_VALUES_RAW`
+
+Variant
+
+A JSON object mapping each field ID to its raw (unformatted) value. For most field types, values are plain strings, numbers, or epoch millisecond timestamps. Long-text fields return the plain text content as a string. Use FIELD\_IDS to look up the display name for each field ID.
+
+—
+
+—
+
+`FIELDID_FIELDID`
+
+Variant
+
+A JSON object that lists all field IDs present on this record as a self-mapping (each field ID maps to itself). Use this to enumerate which fields are populated on a given record, or to cross-reference with FIELD\_CURRENT.
+
+—
+
+—
+
+`REFERENCE_IDS`
+
+Variant
+
+A JSON object mapping each reference field's display name to the ID of the connection record (e.g., `{"Project": "Ref8b471aa..."}`). Use in conjunction with REFERENCE\_CURRENT to resolve connected external objects for this record.
+
+—
+
+—
+
+`CREATED`
+
+Number
+
+A flag indicating the last operation type that affected this record. A value of 1 indicates the record was created in the most recent data refresh cycle; 0 indicates it was not. See CREATEDAT for the actual creation timestamp.
+
+—
+
+—
+
+`UPDATED`
+
+Number
+
+A flag indicating the last operation type that affected this record. A value of 1 indicates the record was updated in the most recent data refresh cycle; 0 indicates it was not. See UPDATEDAT for the actual last-updated timestamp.
+
+—
+
+—
+
+`DELETED`
+
+Number
+
+A flag indicating whether this record has been soft-deleted. A value of 1 indicates the record is deleted; 0 indicates it is active.
+
+—
+
+—
+
+`CREATEDAT`
+
+Timestamp\_NTZ
+
+The timestamp (no timezone) of when this record was created.
+
+—
+
+—
+
+`CREATEDBY`
+
+Varchar
+
+The identifier of the user who created this record.
+
+WF.USERS\_CURRENT
+
+EAUTHUSERID
+
+`UPDATEDAT`
+
+Timestamp\_NTZ
+
+The timestamp (no timezone) of when this record was last updated.
+
+—
+
+—
+
+`UPDATEDBY`
+
+Varchar
+
+The identifier of the user who last updated this record.
+
+WF.USERS\_CURRENT
+
+EAUTHUSERID
+
+`DL_LOAD_TIMESTAMP`
+
+Timestamp\_NTZ
+
+The timestamp of the data refresh job that last loaded this record into the data lake. Updated after each successful data refresh cycle.
+
+—
+
+—
+
+RECORDTYPE_CURRENT
+
+Contains the current definitions of all record types configured in Workfront Planning workspaces. Each row represents one record type, including its display name, workspace association, primary field, and configuration metadata. Use this view to resolve record type IDs from PLANNINGRECORD_CURRENT and FIELD_CURRENT into human-readable names.
+
+Column Name
+
+Type
+
+Description
+
+Related Table
+
+Related Field
+
+`ID`
+
+Varchar
+
+The unique identifier for the record type. Primary key for this view.
+
+—
+
+—
+
+`CREATED`
+
+Number
+
+A flag indicating the last operation type that affected this record type. A value of 1 indicates the record type was created in the most recent data refresh cycle; 0 indicates it was not. See CREATEDAT for the actual creation timestamp.
+
+—
+
+—
+
+`UPDATED`
+
+Number
+
+A flag indicating the last operation type that affected this record type. A value of 1 indicates the record type was updated in the most recent data refresh cycle; 0 indicates it was not. See UPDATEDAT for the actual last-updated timestamp.
+
+—
+
+—
+
+`DELETED`
+
+Number
+
+A flag indicating whether this record type has been soft-deleted. A value of 1 indicates deleted; 0 indicates active.
+
+—
+
+—
+
+`DL_LOAD_TIMESTAMP`
+
+Timestamp\_NTZ
+
+The timestamp of the data refresh job that last loaded this record type into the data lake. Updated after each successful data refresh cycle.
+
+—
+
+—
+
+`CREATEDBY`
+
+Varchar
+
+The identifier of the user who created this record type.
+
+WF.USERS\_CURRENT
+
+EAUTHUSERID
+
+`CREATEDAT`
+
+Timestamp\_NTZ
+
+The timestamp (no timezone) of when this record type was created.
+
+—
+
+—
+
+`UPDATEDBY`
+
+Varchar
+
+The identifier of the user who last updated this record type.
+
+WF.USERS\_CURRENT
+
+EAUTHUSERID
+
+`UPDATEDAT`
+
+Timestamp\_NTZ
+
+The timestamp (no timezone) of when this record type was last updated.
+
+—
+
+—
+
+`USERID`
+
+Varchar
+
+The identifier of the user associated with this record type, typically the owner.
+
+WF.USERS\_CURRENT
+
+EAUTHUSERID
+
+`WORKSPACEID`
+
+Varchar
+
+The unique identifier of the workspace this record type belongs to. Use with WORKSPACE\_CURRENT to look up workspace details.
+
+WORKSPACE\_CURRENT
+
+ID
+
+`DISPLAYNAME`
+
+Varchar
+
+The display name of the record type as shown in the Planning interface (e.g., "Campaign", "Initiative").
+
+—
+
+—
+
+`DESCRIPTION`
+
+Varchar
+
+A user-provided description of the record type's purpose.
+
+—
+
+—
+
+`COLOR`
+
+Varchar
+
+A named color label associated with this record type in the Planning interface (e.g., `blue`, `green`, `purple`, `magenta`, `chartreuse`, `dark-gray`). Not a hex code.
+
+—
+
+—
+
+`PERMISSION`
+
+Varchar
+
+The permission level configured for access to this record type (e.g., `VIEW`, `CONTRIBUTE`, `MANAGE`). May be empty if no custom permission is set.
+
+—
+
+—
+
+`PRIMARYFIELDID`
+
+Varchar
+
+The identifier of the field designated as the primary (title) field for this record type. Foreign key to FIELD\_CURRENT.ID.
+
+FIELD\_CURRENT
+
+ID
+
+`ISTAXONOMY`
+
+Varchar
+
+Indicates whether this record type is classified as a taxonomy type, used to organize and categorize other records. A value of `true` indicates a taxonomy type. May be empty for non-taxonomy record types.
+
+—
+
+—
+
+`PERMISSION`
+
+Varchar
+
+The permission level configured for access to this record type (e.g., `VIEW`, `CONTRIBUTE`, `MANAGE`). May be empty if no custom permission is set.
+
+—
+
+—
+
+`PRIMARYFIELDID`
+
+Varchar
+
+The identifier of the field designated as the primary (title) field for this record type. Foreign key to FIELD\_CURRENT.ID.
+
+FIELD\_CURRENT
+
+ID
+
+`ISTAXONOMY`
+
+Varchar
+
+Indicates whether this record type is classified as a taxonomy type, used to organize and categorize other records. A value of `true` indicates a taxonomy type. May be empty for non-taxonomy record types.
+
+—
+
+—
+
+`ISEXTERNAL`
+
+Boolean
+
+A flag indicating whether this record type represents an externally connected object type rather than a native Planning record.
+
+—
+
+—
+
+`EXTERNALOPTIONS`
+
+Variant
+
+A JSON object containing configuration details for record types connected to external systems. Includes `connectionName` (e.g., `workfront`), `objectName` (the Workfront API object code, e.g., `PROJ`), and `fields` (a map of standard field aliases to Planning field IDs for the synced fields). Null for natively created record types.
+
+—
+
+—
+
+`RESTORED`
+
+Number
+
+A flag indicating whether this record type was restored after being soft-deleted.
+
+—
+
+—
+
+`ALIAS`
+
+Varchar
+
+An internal alias for the record type, used for system-level identification and API access. May be empty for record types that have not been assigned an alias.
+
+—
+
+—
+
+`TRIGGEREDBYSERVICE`
+
+Varchar
+
+The name of the service or integration that triggered the last modification to this record type. A value of `Unknown` indicates the originating service could not be determined.
+
+—
+
+—
+
+`ISFUSION`
+
+Boolean
+
+A flag indicating whether this record type was created or managed through a Workfront Fusion integration. A value of `true` indicates Fusion management; `false` or an empty value indicates it is a natively created record type.
+
+—
+
+—
+
+`CREATEDAT`
+
+Timestamp\_NTZ
+
+The timestamp (no timezone) of when this record type was created.
+
+—
+
+—
+
+`CREATEDBY`
+
+Varchar
+
+The identifier of the user who created this record type.
+
+WF.USERS\_CURRENT
+
+EAUTHUSERID
+
+`UPDATEDAT`
+
+Timestamp\_NTZ
+
+The timestamp (no timezone) of when this record type was last updated.
+
+—
+
+—
+
+`UPDATEDBY`
+
+Varchar
+
+The identifier of the user who last updated this record type.
+
+WF.USERS\_CURRENT
+
+EAUTHUSERID
+
+`USERID`
+
+Varchar
+
+The identifier of the user associated with this record type, typically the owner.
+
+WF.USERS\_CURRENT
+
+EAUTHUSERID
+
+`TO_RECORDID`
+
+Varchar
+
+The unique identifier of the Planning record that owns this reference connection. Foreign key to PLANNINGRECORD\_CURRENT.RECORDID.
+
+PLANNINGRECORD\_CURRENT
+
+RECORDID
+
+`TO_EXTERNALID`
+
+Varchar
+
+The unique identifier of the external object being referenced (e.g., a Workfront project ID, task ID, or other connected object ID).
+
+—
+
+—
+
+`TO_EXTERNALCONNECTIONNAME`
+
+Varchar
+
+The name of the external connection through which the referenced object is connected (e.g., the name of the Workfront connection configured in Planning).
+
+—
+
+—
+
+`TO_EXTERNALOBJECTNAME`
+
+Varchar
+
+The Workfront API object code for the type of external object being referenced (e.g., `PROJ` for Project, `TASK` for Task, `PORT` for Portfolio). Use this to determine which Workfront table to join when looking up the referenced object.
+
+—
+
+—
+
+`RECORDTYPEID`
+
+Varchar
+
+The unique identifier of the Planning record type associated with the record that owns this reference. Foreign key to PLANNINGRECORD\_CURRENT.RECORDTYPEID.
+
+RECORDTYPE\_CURRENT
+
+ID
+
+`REFERENCEVALUE`
+
+Varchar
+
+The display name of the referenced external object as of the last data refresh (e.g., a Workfront project name like "Beta" or "Canvas Dashboards Project"). This value reflects the object's name at refresh time and may become stale if the object is renamed.
+
+—
+
+—
+
+`CREATED`
+
+Number
+
+A flag indicating the last operation type that affected this reference record. A value of 1 indicates the reference was created in the most recent data refresh cycle; 0 indicates it was not.
+
+—
+
+—
+
+`UPDATED`
+
+Number
+
+A flag indicating the last operation type that affected this reference record. A value of 1 indicates the reference was updated in the most recent data refresh cycle; 0 indicates it was not.
+
+—
+
+—
+
+`DELETED`
+
+Number
+
+A flag indicating whether this reference connection has been soft-deleted. A value of 1 indicates the reference is deleted; 0 indicates it is active.
+
+—
+
+—
+
+`DL_LOAD_TIMESTAMP`
+
+Timestamp\_NTZ
+
+The timestamp of the data refresh job that last loaded this reference record into the data lake. Updated after each successful data refresh cycle.
+
+—
+
+—
+
+WORKSPACE_CURRENT
+
+Contains the current definitions of all Workfront Planning workspaces. Each row represents one workspace, including its name, hierarchy, and ownership metadata. Use this view to resolve workspace IDs from PLANNINGRECORD_CURRENT and RECORDTYPE_CURRENT into human-readable workspace names.
+
+Column Name
+
+Type
+
+Description
+
+Related Table
+
+Related Field
+
+`ID`
+
+Varchar
+
+The unique identifier for the Planning workspace. Primary key for this view.
+
+WF.WORKSPACES\_CURRENT
+
+ID
+
+`CREATED`
+
+Number
+
+A flag indicating the last operation type that affected this workspace record. A value of 1 indicates the workspace was created in the most recent data refresh cycle; 0 indicates it was not. See CREATEDAT for the actual creation timestamp.
+
+—
+
+—
+
+`UPDATED`
+
+Number
+
+A flag indicating the last operation type that affected this workspace record. A value of 1 indicates the workspace was updated in the most recent data refresh cycle; 0 indicates it was not. See UPDATEDAT for the actual last-updated timestamp.
+
+—
+
+—
+
+`DELETED`
+
+Number
+
+A flag indicating whether this workspace has been soft-deleted. A value of 1 indicates deleted; 0 indicates active.
+
+—
+
+—
+
+`DL_LOAD_TIMESTAMP`
+
+Timestamp\_NTZ
+
+The timestamp of the data refresh job that last loaded this workspace record into the data lake. Updated after each successful data refresh cycle.
+
+—
+
+—
+
+`CREATEDBY`
+
+Varchar
+
+The identifier of the user who created this workspace.
+
+WF.USERS\_CURRENT
+
+EAUTHUSERID
+
+`CREATEDAT`
+
+Timestamp\_NTZ
+
+The timestamp (no timezone) of when this workspace was created.
+
+—
+
+—
+
+`UPDATEDBY`
+
+Varchar
+
+The identifier of the user who last updated this workspace.
+
+WF.USERS\_CURRENT
+
+EAUTHUSERID
+
+`UPDATEDAT`
+
+Timestamp\_NTZ
+
+The timestamp (no timezone) of when this workspace was last updated.
+
+—
+
+—
+
+`USERID`
+
+Varchar
+
+The identifier of the user associated with this workspace, typically the workspace owner.
+
+WF.USERS\_CURRENT
+
+EAUTHUSERID
+
+`NAME`
+
+Varchar
+
+The display name of the workspace as shown in the Planning interface.
+
+—
+
+—
+
+`PARENTID`
+
+Varchar
+
+The identifier of the parent workspace if this workspace is nested within a workspace hierarchy. Empty if this workspace has no parent (i.e., it is a top-level workspace).
+
+WORKSPACE\_CURRENT
+
+ID
+
+`RESTORED`
+
+Number
+
+A flag indicating whether this workspace was restored after being soft-deleted.
+
+—
+
+—
+
+`TRIGGEREDBYSERVICE`
+
+Varchar
+
+The name of the service or integration that triggered the last modification to this workspace record. A value of `Unknown` indicates the originating service could not be determined.
+
+—
+
+—
+
+`ISFUSION`
+
+Boolean
+
+A flag indicating whether this workspace was created or managed through a Workfront Fusion integration. A value of `true` indicates Fusion management; `false` or an empty value indicates it is a natively created workspace.
+
+—
+
+—
+
 recommendation-more-help
 
 workfront-help-quicksilver
@@ -405413,7 +406445,7 @@ IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
 
-Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as standalone product.
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
 
 For general information about Workfront Planning, see
 

@@ -7,7 +7,7 @@
 
 **Fonte original:** https://developer.adobe.com/commerce
 
-**Coletado em (UTC):** 2026-07-17T15:57:34.441148+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:06.365900+00:00
 
 ---
 
@@ -83,7 +83,7 @@ Accelerate Adobe Commerce integrations with enterprise systems using the integra
 
 **Fonte original:** https://developer.adobe.com/commerce/admin-developer
 
-**Coletado em (UTC):** 2026-07-17T15:57:13.955442+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:39.062416+00:00
 
 ---
 
@@ -150,7 +150,7 @@ GitHub
 
 **Fonte original:** https://developer.adobe.com/commerce/admin-developer/pattern-library/containers/slideouts-modals-overlays
 
-**Coletado em (UTC):** 2026-07-17T16:00:04.297771+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:27.173274+00:00
 
 ---
 
@@ -335,7 +335,7 @@ Technically slideouts and modals are implemented using the [modal widget](https:
 
 **Fonte original:** https://developer.adobe.com/commerce/admin-developer/pattern-library/controls/button-bar
 
-**Coletado em (UTC):** 2026-07-17T16:01:04.252723+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:25.755616+00:00
 
 ---
 
@@ -423,7 +423,7 @@ Buttons should make use of CSS and HTML so that button text is never dependent o
 
 **Fonte original:** https://developer.adobe.com/commerce/admin-developer/pattern-library/controls/buttons
 
-**Coletado em (UTC):** 2026-07-17T16:01:27.729687+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:43.729908+00:00
 
 ---
 
@@ -722,7 +722,7 @@ Left/Right margin spacing should not be less than 10px
 
 **Fonte original:** https://developer.adobe.com/commerce/admin-developer/pattern-library/displaying-data/datatable
 
-**Coletado em (UTC):** 2026-07-17T16:01:11.564983+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:37.072087+00:00
 
 ---
 
@@ -1060,7 +1060,7 @@ This new version of the data-table will fully support the existing data-table fu
 
 **Fonte original:** https://developer.adobe.com/commerce/admin-developer/pattern-library/displaying-data/filters
 
-**Coletado em (UTC):** 2026-07-17T16:01:11.056026+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:36.561237+00:00
 
 ---
 
@@ -1108,7 +1108,7 @@ In some unique instances a table may have "Quick Filters" associated with it. Th
 
 **Fonte original:** https://developer.adobe.com/commerce/cloud-tools
 
-**Coletado em (UTC):** 2026-07-17T15:57:11.573128+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:39.571067+00:00
 
 ---
 
@@ -1166,7 +1166,7 @@ GitHub
 
 **Fonte original:** https://developer.adobe.com/commerce/code-samples
 
-**Coletado em (UTC):** 2026-07-17T15:54:35.860872+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:28.546035+00:00
 
 ---
 
@@ -1230,7 +1230,7 @@ background-color-white, center
 
 **Fonte original:** https://developer.adobe.com/commerce/contributor
 
-**Coletado em (UTC):** 2026-07-17T15:46:56.758079+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:11.913724+00:00
 
 ---
 
@@ -1299,7 +1299,7 @@ GitHub
 
 **Fonte original:** https://developer.adobe.com/commerce/contributor/guides/install/clone-repository
 
-**Coletado em (UTC):** 2026-07-17T15:57:02.220770+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:32.434152+00:00
 
 ---
 
@@ -1350,7 +1350,7 @@ After completing the tasks discussed on this page, see [update installation depe
 
 **Fonte original:** https://developer.adobe.com/commerce/contributor/guides/install/update-dependencies
 
-**Coletado em (UTC):** 2026-07-17T15:58:20.433458+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:49.904910+00:00
 
 ---
 
@@ -1414,7 +1414,7 @@ guide.
 
 **Fonte original:** https://developer.adobe.com/commerce/docs
 
-**Coletado em (UTC):** 2026-07-17T15:54:14.603790+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:06.994228+00:00
 
 ---
 
@@ -1546,7 +1546,7 @@ Find detailed information about installation, configuration, data migration, upg
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility
 
-**Coletado em (UTC):** 2026-07-17T15:46:52.773692+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:07.831960+00:00
 
 ---
 
@@ -1634,7 +1634,7 @@ We encourage you to participate in our open documentation initiative. If you hav
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk
 
-**Coletado em (UTC):** 2026-07-17T15:47:01.610488+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:16.495611+00:00
 
 ---
 
@@ -1675,7 +1675,7 @@ The Admin UI SDK supports only the extensions type. An App Builder project using
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/api
 
-**Coletado em (UTC):** 2026-07-17T16:01:34.462049+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:03.084471+00:00
 
 ---
 
@@ -1891,7 +1891,7 @@ curl -X DELETE \
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/app-registration
 
-**Coletado em (UTC):** 2026-07-17T15:57:28.993983+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:59.123310+00:00
 
 ---
 
@@ -2049,7 +2049,7 @@ Complete this file with the actions from your app.
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/app-review-checklist
 
-**Coletado em (UTC):** 2026-07-17T16:01:19.343774+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:45.272477+00:00
 
 ---
 
@@ -2190,7 +2190,7 @@ Required
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/configuration
 
-**Coletado em (UTC):** 2026-07-17T15:57:30.045603+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:00.139724+00:00
 
 ---
 
@@ -2324,7 +2324,7 @@ aio app build
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/eligible-extensions-config
 
-**Coletado em (UTC):** 2026-07-17T15:57:30.558673+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:59.632355+00:00
 
 ---
 
@@ -2363,7 +2363,7 @@ The **Manual Extensions Selection** tab allows you to select the extensions that
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/extension-points
 
-**Coletado em (UTC):** 2026-07-17T15:54:33.775844+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:25.346140+00:00
 
 ---
 
@@ -2439,7 +2439,7 @@ bin/magento cache:clean
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/extension-points/menu
 
-**Coletado em (UTC):** 2026-07-17T16:01:33.931104+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:58.977419+00:00
 
 ---
 
@@ -2520,7 +2520,7 @@ The Adobe Commerce Extensibility Code Samples repository demonstrates how to cus
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/extension-points/page
 
-**Coletado em (UTC):** 2026-07-17T16:01:48.560594+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:13.989018+00:00
 
 ---
 
@@ -2555,7 +2555,7 @@ Page title to display in the Adobe Commerce Admin Panel when loading the applica
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/installation
 
-**Coletado em (UTC):** 2026-07-17T15:54:36.398325+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:25.978260+00:00
 
 ---
 
@@ -2644,7 +2644,7 @@ The Admin UI SDK is automatically updated for SaaS projects. For PaaS projects, 
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/publish
 
-**Coletado em (UTC):** 2026-07-17T15:57:28.486019+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:58.615253+00:00
 
 ---
 
@@ -2684,7 +2684,7 @@ To update the credentials or services used by an already published application, 
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/troubleshooting
 
-**Coletado em (UTC):** 2026-07-17T16:01:20.387320+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:49.380397+00:00
 
 ---
 
@@ -2754,7 +2754,7 @@ To solve the issue, add the following line to the composer.json:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-development
 
-**Coletado em (UTC):** 2026-07-17T15:47:03.849739+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:15.919743+00:00
 
 ---
 
@@ -2875,7 +2875,7 @@ Choosing the right extensibility method depends on the specific needs of the bus
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-development/app-submission-guidelines
 
-**Coletado em (UTC):** 2026-07-17T16:00:57.522105+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:26.775532+00:00
 
 ---
 
@@ -2923,7 +2923,7 @@ Some requirements will differ based on whether you indicated the app was non-dow
 ### Documentation
 
 - General documentation guidelines Project-specific language : Use project-specific language. Avoid generic references to "Adobe", "Magento" or "starter kit". Configuration details : Clearly list the app configuration and any third-party service-specific setup steps. Clear summary : Provide a compact description that captures the app's purpose and primary use cases. Usage instructions : Add instructions on how to use the app post-installation. For non-downloadable apps: All installation steps and usage instructions must be posted at the application documentation URL provided in Exchange. Because the app is not downloadable, README files and similar documents will not be accessible to customers.
-- Installation guide clarity Prerequisites : Add clear prerequisites (example: Admin UI SDK must be enabled and configured, as described in the Admin UI SDK documentation ). If the app is compatible with the EDS storefront, include instructions for setup. Example documentation If the app uses a Mesh, provide detailed information on how to configure it according to Adobe guidelines. Example documentation If the app uses eventing, provide information about the events used in the project and how to subscribe to them. Example documentation If the app uses webhooks, provide information on how to create a webhook. Example documentation Version requirements : Indicate the required module versions (example: Admin UI SDK minimum version 3.0.0 ). Developer documentation : Include links to relevant Adobe developer documentation (example: App Builder getting started guide ). PaaS support : Documentation must include installation steps for PaaS merchants. This means if you are submitting an app for Adobe Commerce as a Cloud Service (SaaS), you also need to support Adobe Commerce on cloud infrastructure (PaaS) and Adobe Commerce on-premises (on-prem). Action scoping : All runtime actions must be scoped and documented, if they are exposed as webhooks. PaaS vs SaaS configuration : Document variables that differ based on Commerce flavor. Explain differences in the structure of the COMMERCE_BASE_URL value if the variable is used (see Download and configure the integration starter kit for an explanation) Mention in the documentation how to obtain auth credentials for PaaS and SaaS For downloadable apps: Environment setup : Label all required environment variables in an env.dist file with clear guidance. Add a setup instruction to create an .env file from the env.dist . API requirements : List the required services for your application following this template . Project creation : Document how to create a project and workspaces for deploying the app. Consider linking to Create your First App Builder Application Document CLI commands for installing dependencies and connecting to the created project, which are mentioned in Configure the starter kit For non-downloadable apps: Environment creation : Add documentation on how an environment gets created when installing the app from the app page on Adobe Exchange. Consider linking to the Discover and Manage documentation for App Builder apps. Required credentials : Provide an explanation of the credentials to fill out in the Exchange configuration page. Do not mention the following : Making modifications to an .env file Adding files to the app filesystem Running aio or npm commands from the CLI
+- Installation guide clarity Prerequisites : Add clear prerequisites (example: Admin UI SDK must be enabled and configured, as described in the Admin UI SDK documentation ). If the app is compatible with the EDS storefront, include instructions for setup. Example documentation If the app uses a Mesh, provide detailed information on how to configure it according to Adobe guidelines. Example documentation If the app uses eventing, provide information about the events used in the project and how to subscribe to them. Example documentation: [Integration starter kit overview](https://github.com/adobe/commerce-integration-starter-kit?tab=readme-ov-file#onboarding Configure eventing in the checkout starter kit If the app uses webhooks, provide information on how to create a webhook. Example documentation Version requirements : Indicate the required module versions (example: Admin UI SDK minimum version 3.0.0 ). Developer documentation : Include links to relevant Adobe developer documentation (example: App Builder getting started guide ). PaaS support : Documentation must include installation steps for PaaS merchants. This means if you are submitting an app for Adobe Commerce as a Cloud Service (SaaS), you also need to support Adobe Commerce on cloud infrastructure (PaaS) and Adobe Commerce on-premises (on-prem). Action scoping : All runtime actions must be scoped and documented, if they are exposed as webhooks. PaaS vs SaaS configuration : Document variables that differ based on Commerce flavor. Explain differences in the structure of the COMMERCE_BASE_URL value if the variable is used (see Download and configure the integration starter kit for an explanation) Mention in the documentation how to obtain auth credentials for PaaS and SaaS For downloadable apps: Environment setup : Label all required environment variables in an env.dist file with clear guidance. Add a setup instruction to create an .env file from the env.dist . API requirements : List the required services for your application following this template . Project creation : Document how to create a project and workspaces for deploying the app. Consider linking to Create your First App Builder Application Document CLI commands for installing dependencies and connecting to the created project, which are mentioned in Configure the starter kit For non-downloadable apps: Environment creation : Add documentation on how an environment gets created when installing the app from the app page on Adobe Exchange. Consider linking to the Discover and Manage documentation for App Builder apps. Required credentials : Provide an explanation of the credentials to fill out in the Exchange configuration page. Do not mention the following : Making modifications to an .env file Adding files to the app filesystem Running aio or npm commands from the CLI
 - Security awareness Screenshot security : Ensure no screenshots contain access tokens, secrets, or API keys. Sensitive data : Do not expose credentials or sensitive information in the documentation.
 
 ### Security
@@ -3005,7 +3005,7 @@ Option 2
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-development/best-practices/credentials
 
-**Coletado em (UTC):** 2026-07-17T16:01:18.827767+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:44.241675+00:00
 
 ---
 
@@ -3194,7 +3194,7 @@ const credentials: Credentials =
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-development/best-practices/logging-troubleshooting
 
-**Coletado em (UTC):** 2026-07-17T15:54:35.346513+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:27.509422+00:00
 
 ---
 
@@ -3415,7 +3415,7 @@ In such instances, investigate the root cause of the timeout error, which could 
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-development/extension-compatibility
 
-**Coletado em (UTC):** 2026-07-17T16:00:58.039974+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:27.294886+00:00
 
 ---
 
@@ -3456,8 +3456,8 @@ For more information on REST API access, refer to the [Developer Console configu
 
 For older versions of the starter kit, check if your code is adapted as follows:
 
-- To support both PaaS and SaaS, modify the COMMERCE_BASE_URL environment variable according to the Commerce integration guide .
-- Ensure that your adobe-commerce HTTP client removes the rest/all prefix for compatibility with both deployment flavors. For example: - commerceGot(`rest/all/V1/oope_payment_method/`, { + commerceGot(`V1/oope_payment_method/`, {
+- To support both PaaS and SaaS, modify the COMMERCE_BASE_URL environment variable in .env file.
+- Ensure that your Adobe Commerce HTTP client removes the rest/all prefix for compatibility with both deployment flavors. For example: - commerceGot(`rest/all/V1/oope_payment_method/`, { + commerceGot(`V1/oope_payment_method/`, {
 - Ensure that store view codes are no longer included in URLs. Instead, you must specify store views in the Store header of the request.
 
 ```
@@ -3506,7 +3506,7 @@ for more information.
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-development/learning-path
 
-**Coletado em (UTC):** 2026-07-17T15:47:04.902463+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:18.750660+00:00
 
 ---
 
@@ -3550,7 +3550,7 @@ The following resources will help you get to know the extensibility options offe
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-management
 
-**Coletado em (UTC):** 2026-07-17T15:59:07.004906+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:30.604444+00:00
 
 ---
 
@@ -3613,7 +3613,7 @@ Follow these steps to set up and deploy an App Builder application with App Mana
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-management/app-metadata
 
-**Coletado em (UTC):** 2026-07-17T15:57:15.518128+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:36.280853+00:00
 
 ---
 
@@ -3690,7 +3690,7 @@ app.commerce.config
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-management/build-deploy
 
-**Coletado em (UTC):** 2026-07-17T15:57:15.007273+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:38.551361+00:00
 
 ---
 
@@ -3838,7 +3838,7 @@ Search text and both dropdowns apply together (logical AND). To display the full
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-management/configuration-schema
 
-**Coletado em (UTC):** 2026-07-17T15:57:14.464065+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:35.213651+00:00
 
 ---
 
@@ -4385,7 +4385,7 @@ Watch this video to learn how to define a configuration schema and see the auto-
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-management/define-app
 
-**Coletado em (UTC):** 2026-07-17T15:59:49.888220+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:16.992467+00:00
 
 ---
 
@@ -4530,7 +4530,7 @@ See [Initialize your app](/commerce/extensibility/app-management/initialize-app)
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-management/initialize-app
 
-**Coletado em (UTC):** 2026-07-17T15:57:12.698848+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:36.789380+00:00
 
 ---
 
@@ -4744,7 +4744,7 @@ The postinstall hook refreshes generated artifacts when you install or update th
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-management/installation
 
-**Coletado em (UTC):** 2026-07-17T15:57:12.142419+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:35.740497+00:00
 
 ---
 
@@ -4764,7 +4764,7 @@ The Installation section covers how to configure event subscriptions, declare Co
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-management/installation/customize
 
-**Coletado em (UTC):** 2026-07-17T15:58:56.104735+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:22.417636+00:00
 
 ---
 
@@ -4937,7 +4937,7 @@ After you modify custom installation scripts, you must manually run the npx aio-
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-management/installation/events
 
-**Coletado em (UTC):** 2026-07-17T15:57:13.443207+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:37.304279+00:00
 
 ---
 
@@ -5164,7 +5164,7 @@ Optional unique key for the provider. Maximum 50 characters, alphanumeric with h
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-management/installation/webhooks
 
-**Coletado em (UTC):** 2026-07-17T15:58:56.634464+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:21.903428+00:00
 
 ---
 
@@ -5457,7 +5457,7 @@ When your runtime action **handles** the HTTP callback from Commerce, you build 
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-management/troubleshooting
 
-**Coletado em (UTC):** 2026-07-17T15:58:57.374629+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:21.386402+00:00
 
 ---
 
@@ -5703,7 +5703,7 @@ bun x aio-commerce-lib-config encryption validate
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/developer-agent
 
-**Coletado em (UTC):** 2026-07-17T15:59:08.097299+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:37.134337+00:00
 
 ---
 
@@ -5778,7 +5778,7 @@ See [Coding tools setup](/commerce/extensibility/developer-agent/coding-tools#up
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/developer-agent/best-practices
 
-**Coletado em (UTC):** 2026-07-17T16:00:00.086276+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:29.824260+00:00
 
 ---
 
@@ -6099,7 +6099,7 @@ update to the latest version
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/developer-agent/coding-tools
 
-**Coletado em (UTC):** 2026-07-17T16:00:02.192170+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:30.339185+00:00
 
 ---
 
@@ -6346,7 +6346,7 @@ Some features of the MCP server will work without logging in, but the RAG (Retri
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/developer-agent/dropins-mcp-server
 
-**Coletado em (UTC):** 2026-07-17T16:00:01.172831+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:28.203811+00:00
 
 ---
 
@@ -6379,7 +6379,7 @@ npm update -g @dropins/mcp
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/developer-agent/skills-and-prompts
 
-**Coletado em (UTC):** 2026-07-17T16:00:01.681957+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:27.690884+00:00
 
 ---
 
@@ -6526,7 +6526,7 @@ dropins:scaffold_extension
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/developer-agent/use-cases
 
-**Coletado em (UTC):** 2026-07-17T15:59:59.553274+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:29.315596+00:00
 
 ---
 
@@ -6603,7 +6603,7 @@ Wrap external logistics APIs behind a backend-for-frontend (BFF) action and inje
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events
 
-**Coletado em (UTC):** 2026-07-17T15:46:53.510499+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:08.580864+00:00
 
 ---
 
@@ -6627,7 +6627,7 @@ This architecture helps merchants efficiently customize processes and integrate 
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/api
 
-**Coletado em (UTC):** 2026-07-17T16:01:20.897636+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:49.889861+00:00
 
 ---
 
@@ -7225,7 +7225,7 @@ curl --request GET \
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/commands
 
-**Coletado em (UTC):** 2026-07-17T15:59:05.929811+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:31.160391+00:00
 
 ---
 
@@ -7673,7 +7673,7 @@ Module was generated in the app/code/Magento directory
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/conditional-events
 
-**Coletado em (UTC):** 2026-07-17T15:59:58.508194+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:24.100671+00:00
 
 ---
 
@@ -7829,7 +7829,7 @@ You can use the bin/magento events:list -v command to display the contents of yo
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/configure-additional-event-providers
 
-**Coletado em (UTC):** 2026-07-17T16:01:33.391890+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:00.008432+00:00
 
 ---
 
@@ -7869,7 +7869,7 @@ The event provider cannot be deleted if it is used in any event subscriptions. Y
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/configure-commerce
 
-**Coletado em (UTC):** 2026-07-17T15:57:29.525639+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:01.161804+00:00
 
 ---
 
@@ -8027,7 +8027,7 @@ Cloud infrastructure and on-premises instances require different cron management
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/consume-events-examples/runtime-action-commerce-callback
 
-**Coletado em (UTC):** 2026-07-17T15:59:56.240079+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:25.641236+00:00
 
 ---
 
@@ -8122,7 +8122,7 @@ After creating a runtime action using this code, you can create an event registr
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/consume-events
 
-**Coletado em (UTC):** 2026-07-17T15:59:04.887423+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:32.195120+00:00
 
 ---
 
@@ -8180,7 +8180,7 @@ You can configure an Adobe I/O event registration to forward received Commerce e
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/context-fields
 
-**Coletado em (UTC):** 2026-07-17T15:59:59.037298+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:24.612497+00:00
 
 ---
 
@@ -8758,7 +8758,7 @@ Active: Yes
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/convert-field-values
 
-**Coletado em (UTC):** 2026-07-17T15:59:57.281257+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:23.592070+00:00
 
 ---
 
@@ -8918,7 +8918,7 @@ The following example updates the value of the field visibility present in the o
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/create-events
 
-**Coletado em (UTC):** 2026-07-17T16:01:22.466843+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:48.867703+00:00
 
 ---
 
@@ -9085,7 +9085,7 @@ Click **Select** > **Delete** in the **Action** column to delete an event subscr
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/custom-event-fields
 
-**Coletado em (UTC):** 2026-07-17T15:59:57.976846+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:25.131351+00:00
 
 ---
 
@@ -9215,7 +9215,7 @@ table in Adobe Commerce.
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/events-original-data
 
-**Coletado em (UTC):** 2026-07-17T16:00:56.977759+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:22.675760+00:00
 
 ---
 
@@ -9335,7 +9335,7 @@ The original data can be used in conditional events using the onChange operator 
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/installation
 
-**Coletado em (UTC):** 2026-07-17T15:54:36.907530+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:26.490133+00:00
 
 ---
 
@@ -9398,7 +9398,7 @@ composer update magento/commerce-eventing --with-dependencies
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/module-development
 
-**Coletado em (UTC):** 2026-07-17T15:59:05.394542+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:31.679314+00:00
 
 ---
 
@@ -9618,7 +9618,7 @@ The resulting configuration:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/project-setup
 
-**Coletado em (UTC):** 2026-07-17T15:57:31.096007+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:00.650900+00:00
 
 ---
 
@@ -9668,7 +9668,7 @@ You've completed the basic setup of your project. The next step is to install Ad
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/troubleshooting
 
-**Coletado em (UTC):** 2026-07-17T15:59:06.472161+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:32.704001+00:00
 
 ---
 
@@ -9782,7 +9782,7 @@ By default, the consumer will restart within one minute, but this value may vary
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout
 
-**Coletado em (UTC):** 2026-07-17T16:00:00.627958+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:28.745998+00:00
 
 ---
 
@@ -9810,7 +9810,7 @@ For more information on other technologies relevant to this project, see the fol
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/configure
 
-**Coletado em (UTC):** 2026-07-17T16:01:17.798126+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:45.783494+00:00
 
 ---
 
@@ -10002,7 +10002,7 @@ npm run configure-commerce-events
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/connect
 
-**Coletado em (UTC):** 2026-07-17T16:01:18.313001+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:46.297906+00:00
 
 ---
 
@@ -10010,7 +10010,7 @@ npm run configure-commerce-events
 
 This guide explains how to integrate the checkout starter kit with Adobe Commerce.
 
-The [adobe-commerce.js](https://github.com/adobe/commerce-checkout-starter-kit/blob/main/lib/adobe-commerce.js) file provides a set of methods to interact with the Adobe Commerce instance. The client uses the Adobe Commerce HTTP Client, which is a wrapper around the Adobe Commerce REST API.
+The adobe-commerce.js file provides a set of methods to interact with the Adobe Commerce instance. The client uses the Adobe Commerce HTTP Client, which is a wrapper around the Adobe Commerce REST API.
 
 To use the Adobe Commerce HTTP Client, update the COMMERCE_BASE_URL value in the .env file, and complete the authentication setup.
 
@@ -10067,7 +10067,7 @@ After following one of the connection options above, you can debug your applicat
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/development
 
-**Coletado em (UTC):** 2026-07-17T16:01:25.103036+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:50.915069+00:00
 
 ---
 
@@ -10191,7 +10191,7 @@ aio app add service # Add I/O Management API again
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/eds
 
-**Coletado em (UTC):** 2026-07-17T16:01:37.035857+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:00.520502+00:00
 
 ---
 
@@ -10229,7 +10229,7 @@ If you want to retrieve OOPE payment method information from the Commerce instan
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/getting-started
 
-**Coletado em (UTC):** 2026-07-17T16:00:58.551016+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:27.805862+00:00
 
 ---
 
@@ -10321,7 +10321,7 @@ For Adobe Commerce versions 2.4.5, you must install the Adobe I/O Events for Ado
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/payment-install
 
-**Coletado em (UTC):** 2026-07-17T16:01:25.633310+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:51.447978+00:00
 
 ---
 
@@ -10371,7 +10371,7 @@ npm run create-payment-methods
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/payment-reference
 
-**Coletado em (UTC):** 2026-07-17T16:01:23.520141+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:46.808703+00:00
 
 ---
 
@@ -10715,7 +10715,7 @@ fragment CHECKOUT_DATA_FRAGMENT on Cart {
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/payment-usage
 
-**Coletado em (UTC):** 2026-07-17T16:01:36.524111+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:01.027554+00:00
 
 ---
 
@@ -10899,7 +10899,7 @@ try {
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/payment-use-cases
 
-**Coletado em (UTC):** 2026-07-17T16:01:38.052366+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:03.596390+00:00
 
 ---
 
@@ -11221,7 +11221,7 @@ You can find examples of how to filter out payment methods using customer data o
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/shipping-install
 
-**Coletado em (UTC):** 2026-07-17T16:01:24.035479+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:52.466896+00:00
 
 ---
 
@@ -11277,7 +11277,7 @@ npm run get-shipping-carriers
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/shipping-reference
 
-**Coletado em (UTC):** 2026-07-17T16:01:21.931457+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:47.835694+00:00
 
 ---
 
@@ -11753,7 +11753,7 @@ Additionally, you can use additional_data in a query to get carts with available
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/shipping-use-cases
 
-**Coletado em (UTC):** 2026-07-17T16:01:37.543284+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:05.639382+00:00
 
 ---
 
@@ -12045,7 +12045,7 @@ If you use the flatrate shipping method, but want to disable it, you must update
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/tax-install
 
-**Coletado em (UTC):** 2026-07-17T16:01:24.573265+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:50.406877+00:00
 
 ---
 
@@ -12114,7 +12114,7 @@ If you need to use another tax extension, Adobe recommends disabling this extens
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/tax-reference
 
-**Coletado em (UTC):** 2026-07-17T16:01:23.001589+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:47.320912+00:00
 
 ---
 
@@ -12494,7 +12494,7 @@ Yes
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/tax-use-cases
 
-**Coletado em (UTC):** 2026-07-17T16:01:36.006268+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:01.539148+00:00
 
 ---
 
@@ -12879,7 +12879,7 @@ This consistency is critical for third-party integrations that rely on tax class
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/totals-collector-development-considerations
 
-**Coletado em (UTC):** 2026-07-17T16:01:50.169328+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:15.557321+00:00
 
 ---
 
@@ -12911,7 +12911,7 @@ If your endpoint fails or times out, the webhook framework uses the configured f
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/totals-collector-fees
 
-**Coletado em (UTC):** 2026-07-17T16:01:38.566463+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:04.112199+00:00
 
 ---
 
@@ -13145,7 +13145,7 @@ For implementation guidance and development considerations, see [Development con
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/totals-collector-install
 
-**Coletado em (UTC):** 2026-07-17T16:01:26.142476+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:51.957733+00:00
 
 ---
 
@@ -13193,7 +13193,7 @@ After installation, register one or both webhooks so that Adobe Commerce can cal
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/totals-collector-item-prices
 
-**Coletado em (UTC):** 2026-07-17T16:01:39.611118+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:05.131206+00:00
 
 ---
 
@@ -13334,7 +13334,7 @@ For implementation guidance and development considerations, see [Development con
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/totals-collector-use-cases
 
-**Coletado em (UTC):** 2026-07-17T16:01:39.097638+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:04.621774+00:00
 
 ---
 
@@ -13553,7 +13553,7 @@ For totals collector implementation scenarios and guidance, see [Development con
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/use-cases
 
-**Coletado em (UTC):** 2026-07-17T16:01:32.880734+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:59.499283+00:00
 
 ---
 
@@ -13641,7 +13641,7 @@ You can also refer to the [Adobe I/O Events Webhook FAQ](https://developer.adobe
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/integration
 
-**Coletado em (UTC):** 2026-07-17T15:59:08.653811+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:37.690015+00:00
 
 ---
 
@@ -13682,7 +13682,7 @@ Integrate quickly and easily using the starter kit template, which works with th
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/integration/create-integration
 
-**Coletado em (UTC):** 2026-07-17T15:54:34.312153+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:28.023583+00:00
 
 ---
 
@@ -14012,7 +14012,7 @@ product_id
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/integration/customers
 
-**Coletado em (UTC):** 2026-07-17T16:01:00.137437+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:29.333367+00:00
 
 ---
 
@@ -14061,7 +14061,7 @@ Backoffice integrations support the following create/update methods:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/integration/data-flows
 
-**Coletado em (UTC):** 2026-07-17T16:00:02.738610+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:30.854231+00:00
 
 ---
 
@@ -14096,7 +14096,7 @@ The starter kit supports the following data flows:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/integration/orders
 
-**Coletado em (UTC):** 2026-07-17T16:01:01.149688+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:30.349405+00:00
 
 ---
 
@@ -14128,7 +14128,7 @@ Backoffice integrations support the following update methods:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/integration/products
 
-**Coletado em (UTC):** 2026-07-17T16:00:59.610182+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:28.316409+00:00
 
 ---
 
@@ -14171,7 +14171,7 @@ Backoffice integrations support the following update methods:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/integration/receive-data
 
-**Coletado em (UTC):** 2026-07-17T16:00:03.267872+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:31.361472+00:00
 
 ---
 
@@ -14940,7 +14940,7 @@ The stock synchronization that connects a third-party system and Adobe Commerce 
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/integration/send-data
 
-**Coletado em (UTC):** 2026-07-17T15:59:56.771801+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:26.148614+00:00
 
 ---
 
@@ -15098,7 +15098,7 @@ deleted:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/integration/shipments
 
-**Coletado em (UTC):** 2026-07-17T16:01:00.643860+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:29.840824+00:00
 
 ---
 
@@ -15123,7 +15123,7 @@ Adobe Commerce and backoffice integrations support the following create methods:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/integration/stock
 
-**Coletado em (UTC):** 2026-07-17T16:00:59.084191+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:28.823758+00:00
 
 ---
 
@@ -15175,7 +15175,7 @@ Backoffice integrations support the following update methods:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks
 
-**Coletado em (UTC):** 2026-07-17T15:47:00.497676+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:18.195296+00:00
 
 ---
 
@@ -15210,7 +15210,7 @@ Use these guidelines to develop your own webhooks:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/api
 
-**Coletado em (UTC):** 2026-07-17T15:54:19.451338+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:22.113652+00:00
 
 ---
 
@@ -15471,7 +15471,7 @@ curl --request GET \
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/commands
 
-**Coletado em (UTC):** 2026-07-17T15:54:17.852318+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:22.625943+00:00
 
 ---
 
@@ -15790,7 +15790,7 @@ The webhook endpoint receives the following payload, according to fields configu
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/conditional-webhooks
 
-**Coletado em (UTC):** 2026-07-17T15:57:20.552027+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:58.102417+00:00
 
 ---
 
@@ -15981,7 +15981,7 @@ You can use the bin/magento webhooks:list command to display the contents of you
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/create-webhooks
 
-**Coletado em (UTC):** 2026-07-17T16:01:21.413048+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:48.351757+00:00
 
 ---
 
@@ -16314,7 +16314,7 @@ true
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/hooks
 
-**Coletado em (UTC):** 2026-07-17T15:54:16.814990+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:23.649681+00:00
 
 ---
 
@@ -17388,7 +17388,7 @@ If the instance is in developer mode, these configuration changes are detected a
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/installation
 
-**Coletado em (UTC):** 2026-07-17T15:54:34.838403+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:26.999346+00:00
 
 ---
 
@@ -17431,7 +17431,7 @@ Use the following procedure to update minor or patch versions of Adobe Commerce 
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/responses
 
-**Coletado em (UTC):** 2026-07-17T15:54:17.339373+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:23.136291+00:00
 
 ---
 
@@ -17723,7 +17723,7 @@ You can filter logs by multiple fields, such as webhook method, type, hook name,
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/signature-verification
 
-**Coletado em (UTC):** 2026-07-17T16:01:19.879653+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:44.756257+00:00
 
 ---
 
@@ -17894,7 +17894,7 @@ exports.main = main
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/testing
 
-**Coletado em (UTC):** 2026-07-17T15:54:18.941915+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:24.176759+00:00
 
 ---
 
@@ -18040,7 +18040,7 @@ Or, to specify the path to the SSL certificate:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/tutorial/best-practices
 
-**Coletado em (UTC):** 2026-07-17T15:57:21.644160+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:56.975182+00:00
 
 ---
 
@@ -18206,7 +18206,7 @@ For further assistance or inquiries, please post your question in the [#app-buil
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/use-cases
 
-**Coletado em (UTC):** 2026-07-17T15:54:18.384300+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:21.577767+00:00
 
 ---
 
@@ -18222,7 +18222,7 @@ This section uses common scenarios to describe how to implement webhooks on Adob
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/use-cases/order-placement-validation
 
-**Coletado em (UTC):** 2026-07-17T16:01:49.650085+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:15.047097+00:00
 
 ---
 
@@ -18506,7 +18506,7 @@ response.body = JSON.stringify({
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/xml-schema
 
-**Coletado em (UTC):** 2026-07-17T16:01:34.979518+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:02.570031+00:00
 
 ---
 
@@ -18803,7 +18803,7 @@ Not applicable
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core
 
-**Coletado em (UTC):** 2026-07-17T15:46:55.198356+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:10.346952+00:00
 
 ---
 
@@ -18876,7 +18876,7 @@ GitHub
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/css/debug
 
-**Coletado em (UTC):** 2026-07-17T16:01:47.030511+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:11.946262+00:00
 
 ---
 
@@ -18933,7 +18933,7 @@ To change or override any of these variables, simply create a file in <theme-dir
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/css/fonts
 
-**Coletado em (UTC):** 2026-07-17T16:01:46.521716+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:12.454236+00:00
 
 ---
 
@@ -19043,7 +19043,7 @@ CSS rule.
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/css/preprocess
 
-**Coletado em (UTC):** 2026-07-17T16:01:30.827026+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:56.061724+00:00
 
 ---
 
@@ -19322,7 +19322,7 @@ By default, the core code base imports all CSS from all modules, regardless of w
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/css/themes
 
-**Coletado em (UTC):** 2026-07-17T16:01:15.247803+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:40.671164+00:00
 
 ---
 
@@ -19442,7 +19442,7 @@ topic.
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/css/ui-library
 
-**Coletado em (UTC):** 2026-07-17T15:59:54.683004+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:21.266219+00:00
 
 ---
 
@@ -19676,7 +19676,7 @@ Each file is named after the mixin it describes, and contains detailed mixin des
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/layouts/extend
 
-**Coletado em (UTC):** 2026-07-17T16:01:15.756980+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:42.709234+00:00
 
 ---
 
@@ -19732,7 +19732,7 @@ The application merges layout files as follows:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/layouts/override
 
-**Coletado em (UTC):** 2026-07-17T16:01:16.266172+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:42.198124+00:00
 
 ---
 
@@ -19847,7 +19847,7 @@ Although the layout overriding mechanism provides great customization flexibilit
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/layouts/types
 
-**Coletado em (UTC):** 2026-07-17T16:01:31.342788+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:57.601919+00:00
 
 ---
 
@@ -20197,7 +20197,7 @@ Sample generic layout:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions
 
-**Coletado em (UTC):** 2026-07-17T16:01:43.709836+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:09.362646+00:00
 
 ---
 
@@ -20903,7 +20903,7 @@ $helperMethodResult = $block->getData('helper_method_result'); // or $block->get
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage
 
-**Coletado em (UTC):** 2026-07-17T16:01:42.673432+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:08.328848+00:00
 
 ---
 
@@ -21820,7 +21820,7 @@ These files must be placed in the appropriate folders for layout XML files. They
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/templates/override
 
-**Coletado em (UTC):** 2026-07-17T16:01:56.614795+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:21.945368+00:00
 
 ---
 
@@ -21941,7 +21941,7 @@ In order to support the translation of content, the text must be wrapped inside 
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/templates/sample
 
-**Coletado em (UTC):** 2026-07-17T16:01:17.284865+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:41.179847+00:00
 
 ---
 
@@ -21971,7 +21971,7 @@ When the Orange theme was applied, the mini shopping cart with products looked l
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/templates/walkthrough
 
-**Coletado em (UTC):** 2026-07-17T16:01:55.596425+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:20.924369+00:00
 
 ---
 
@@ -22037,7 +22037,7 @@ Here's how the form will look when the Orange theme is applied in a store:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/themes/apply-admin
 
-**Coletado em (UTC):** 2026-07-17T16:01:47.539132+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:12.965649+00:00
 
 ---
 
@@ -22122,7 +22122,7 @@ The last step is to open the Admin in browser and view the new theme applied.
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/themes/apply-storefront
 
-**Coletado em (UTC):** 2026-07-17T16:01:16.775075+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:41.687611+00:00
 
 ---
 
@@ -22206,7 +22206,7 @@ If the changes you configure in the Admin are not applied after you clear the ca
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/themes/configure
 
-**Coletado em (UTC):** 2026-07-17T16:01:48.048485+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:13.475972+00:00
 
 ---
 
@@ -22444,7 +22444,7 @@ Variables may be used within the scope of modules than the defined one.
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/themes/create-admin
 
-**Coletado em (UTC):** 2026-07-17T16:01:53.835713+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:19.385574+00:00
 
 ---
 
@@ -22533,7 +22533,7 @@ See the [Apply a custom Admin theme topic](/commerce/frontend-core/guide/themes/
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/themes/create-storefront
 
-**Coletado em (UTC):** 2026-07-17T16:01:31.856999+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:56.576389+00:00
 
 ---
 
@@ -22800,7 +22800,7 @@ For information on how to apply the theme for the storefront, see the [Apply and
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/themes/debug
 
-**Coletado em (UTC):** 2026-07-17T16:01:52.249151+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:17.592712+00:00
 
 ---
 
@@ -22912,7 +22912,7 @@ After you determine which .css or .less file defines the class, you can override
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/themes/inheritance
 
-**Coletado em (UTC):** 2026-07-17T16:00:56.434361+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:22.141062+00:00
 
 ---
 
@@ -23083,7 +23083,7 @@ For more information about overriding layout refer to the [Override a layout](/c
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/themes/structure
 
-**Coletado em (UTC):** 2026-07-17T15:59:54.171283+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:21.777689+00:00
 
 ---
 
@@ -23280,7 +23280,7 @@ Dynamic view files are located in a theme directory as follows:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/tools/grunt
 
-**Coletado em (UTC):** 2026-07-17T16:01:32.371383+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:57.092148+00:00
 
 ---
 
@@ -23370,7 +23370,7 @@ To tell Grunt to use a custom configuration file, instead of the default one, ad
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/custom
 
-**Coletado em (UTC):** 2026-07-17T16:01:52.759721+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:18.103456+00:00
 
 ---
 
@@ -23539,7 +23539,7 @@ $(mage.apply);
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/debug
 
-**Coletado em (UTC):** 2026-07-17T16:01:02.702122+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:23.194926+00:00
 
 ---
 
@@ -23594,7 +23594,7 @@ There is no mage/menu.js in the current theme or parent theme JS files, so the s
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/init
 
-**Coletado em (UTC):** 2026-07-17T16:00:03.786714+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:26.659172+00:00
 
 ---
 
@@ -23829,7 +23829,7 @@ $.ajax({
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/accordion
 
-**Coletado em (UTC):** 2026-07-17T16:01:02.189033+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:23.709610+00:00
 
 ---
 
@@ -24088,7 +24088,7 @@ The result is three sections with separate swapped content.
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/alert
 
-**Coletado em (UTC):** 2026-07-17T16:01:05.292094+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:26.264567+00:00
 
 ---
 
@@ -24332,7 +24332,7 @@ require([
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/collapsible
 
-**Coletado em (UTC):** 2026-07-17T16:01:40.119462+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:58.461557+00:00
 
 ---
 
@@ -24929,7 +24929,7 @@ The result is two sections with separate collapsible content.
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/confirm
 
-**Coletado em (UTC):** 2026-07-17T16:01:04.781850+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:24.219548+00:00
 
 ---
 
@@ -25194,7 +25194,7 @@ require([
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/gallery
 
-**Coletado em (UTC):** 2026-07-17T16:01:54.353165+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:19.894869+00:00
 
 ---
 
@@ -25818,7 +25818,7 @@ The breakpoints options are set in the view.xml configuration file of a theme. T
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/magnifier
 
-**Coletado em (UTC):** 2026-07-17T16:01:56.105789+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:21.434288+00:00
 
 ---
 
@@ -25952,7 +25952,7 @@ For an example of setting the gallery option, see the [view.xml](https://github.
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/modal
 
-**Coletado em (UTC):** 2026-07-17T15:59:10.877604+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:35.589666+00:00
 
 ---
 
@@ -26356,7 +26356,7 @@ The result is a modal and a button (*Click Here*) that opens the modal.
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/prompt
 
-**Coletado em (UTC):** 2026-07-17T16:01:03.232355+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:24.732134+00:00
 
 ---
 
@@ -26665,7 +26665,7 @@ The prompt widget implements the following events:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/tabs
 
-**Coletado em (UTC):** 2026-07-17T16:01:27.191182+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:43.217299+00:00
 
 ---
 
@@ -26936,7 +26936,7 @@ The result is three tabs with content, where the last tab is disabled based on i
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/mixins
 
-**Coletado em (UTC):** 2026-07-17T15:57:35.978699+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:03.286735+00:00
 
 ---
 
@@ -27174,7 +27174,7 @@ The following is a list of files in the [Magento_CheckoutAgreement](https://gith
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/requirejs
 
-**Coletado em (UTC):** 2026-07-17T16:01:43.197480+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:08.851090+00:00
 
 ---
 
@@ -27382,7 +27382,7 @@ config: {
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/action-delete
 
-**Coletado em (UTC):** 2026-07-17T16:00:53.765568+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:18.781033+00:00
 
 ---
 
@@ -27469,7 +27469,7 @@ This is an example of how ActionDelete component integrates with [DynamicRows](/
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/actions-column
 
-**Coletado em (UTC):** 2026-07-17T16:00:42.482668+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:59.221711+00:00
 
 ---
 
@@ -27623,7 +27623,7 @@ class Actions extends Column
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/bookmarks
 
-**Coletado em (UTC):** 2026-07-17T16:00:43.550230+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:58.203069+00:00
 
 ---
 
@@ -27699,7 +27699,7 @@ This is an example of how to integrate the Bookmarks component with the [Listing
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/button
 
-**Coletado em (UTC):** 2026-07-17T16:00:35.125406+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:00.750084+00:00
 
 ---
 
@@ -27892,7 +27892,7 @@ This is an example of how to integrate the Button component with the [Form](/com
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/checkbox-set
 
-**Coletado em (UTC):** 2026-07-17T16:00:54.298185+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:12.522436+00:00
 
 ---
 
@@ -27991,7 +27991,7 @@ This is an example of how to integrate the Checkboxset component with the [Form]
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/checkbox
 
-**Coletado em (UTC):** 2026-07-17T16:00:52.698329+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:20.432758+00:00
 
 ---
 
@@ -28174,7 +28174,7 @@ This is an example of how to integrate the Checkbox component with the [Form](/c
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/column
 
-**Coletado em (UTC):** 2026-07-17T16:00:32.018005+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:08.434387+00:00
 
 ---
 
@@ -28367,7 +28367,7 @@ This is an example of how the fieldAction option can be configured for the Colum
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/columns-controls
 
-**Coletado em (UTC):** 2026-07-17T16:00:36.686996+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:06.364915+00:00
 
 ---
 
@@ -28460,7 +28460,7 @@ return Collection.extend({
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/columns
 
-**Coletado em (UTC):** 2026-07-17T16:00:41.972603+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:05.853874+00:00
 
 ---
 
@@ -28666,7 +28666,7 @@ This is an example of how the Columns component with the list display mode integ
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/date-column
 
-**Coletado em (UTC):** 2026-07-17T16:00:40.423535+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:10.481896+00:00
 
 ---
 
@@ -28740,7 +28740,7 @@ This is an example of how the DateColumn component integrates with the [Listing]
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/drag-and-drop
 
-**Coletado em (UTC):** 2026-07-17T16:00:44.616206+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:08.946411+00:00
 
 ---
 
@@ -28827,7 +28827,7 @@ This example disables the DragAndDrop component for the [Columns](/commerce/fron
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/dynamic-rows
 
-**Coletado em (UTC):** 2026-07-17T16:01:13.666718+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:38.629958+00:00
 
 ---
 
@@ -29010,7 +29010,7 @@ This is an example of how the DynamicRows component integrates with the [Form](/
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/email
 
-**Coletado em (UTC):** 2026-07-17T16:00:49.568411+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:14.563063+00:00
 
 ---
 
@@ -29080,7 +29080,7 @@ This example integrates the Paging component with the [Form](/commerce/frontend-
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/expandable-column
 
-**Coletado em (UTC):** 2026-07-17T16:00:39.890660+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:00.240036+00:00
 
 ---
 
@@ -29191,7 +29191,7 @@ The following API methods are available:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/export-button
 
-**Coletado em (UTC):** 2026-07-17T16:00:34.616636+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:06.872874+00:00
 
 ---
 
@@ -29300,7 +29300,7 @@ Extends [UiElement](/commerce/frontend-core/ui-components/concepts/element):
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/fieldset
 
-**Coletado em (UTC):** 2026-07-17T16:00:50.098883+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:19.923353+00:00
 
 ---
 
@@ -29409,7 +29409,7 @@ Extends [uiCollection](/commerce/frontend-core/ui-components/concepts/collection
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/file-uploader
 
-**Coletado em (UTC):** 2026-07-17T16:00:51.677555+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:15.582564+00:00
 
 ---
 
@@ -29517,7 +29517,7 @@ Extends abstract:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/file
 
-**Coletado em (UTC):** 2026-07-17T16:00:46.186983+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:12.013930+00:00
 
 ---
 
@@ -29609,7 +29609,7 @@ This is an example of how the File component integrates with the [Form](/commerc
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/filters-chips
 
-**Coletado em (UTC):** 2026-07-17T16:00:34.084680+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:57.692835+00:00
 
 ---
 
@@ -29678,7 +29678,7 @@ This is an example of how the FiltersChips component integrates with the [Filter
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/filters
 
-**Coletado em (UTC):** 2026-07-17T16:00:33.044580+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:03.812384+00:00
 
 ---
 
@@ -29810,7 +29810,7 @@ This example integrates the Filters component with the [Listing](/commerce/front
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/form
 
-**Coletado em (UTC):** 2026-07-17T15:59:48.301798+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:15.448040+00:00
 
 ---
 
@@ -30142,7 +30142,7 @@ Extends [uiCollection](/commerce/frontend-core/ui-components/concepts/collection
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/hidden
 
-**Coletado em (UTC):** 2026-07-17T16:00:49.036820+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:17.252831+00:00
 
 ---
 
@@ -30203,7 +30203,7 @@ This example integrates the Hidden component with the [Form](/commerce/frontend-
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/html-content
 
-**Coletado em (UTC):** 2026-07-17T16:00:45.678681+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:17.763209+00:00
 
 ---
 
@@ -30326,7 +30326,7 @@ Extends uiComponent:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/image-preview
 
-**Coletado em (UTC):** 2026-07-17T16:00:39.359507+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:01.772311+00:00
 
 ---
 
@@ -30409,7 +30409,7 @@ Extends Column:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/input
 
-**Coletado em (UTC):** 2026-07-17T16:00:48.505176+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:16.743622+00:00
 
 ---
 
@@ -30538,7 +30538,7 @@ This example integrates the Input component with the [Form](/commerce/frontend-c
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/insert-listing
 
-**Coletado em (UTC):** 2026-07-17T16:01:12.086551+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:37.609825+00:00
 
 ---
 
@@ -30826,7 +30826,7 @@ As a result, we see the button which opens the modal pop-up with listing:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/link-column
 
-**Coletado em (UTC):** 2026-07-17T16:00:41.462271+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:59.731456+00:00
 
 ---
 
@@ -30929,7 +30929,7 @@ class CustomDataProvider extends DataProvider
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/listing-grid
 
-**Coletado em (UTC):** 2026-07-17T15:59:47.764322+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:14.939051+00:00
 
 ---
 
@@ -31039,7 +31039,7 @@ The listing component requires the data source to be properly configured and ass
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/mass-actions
 
-**Coletado em (UTC):** 2026-07-17T16:00:40.931470+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:04.324712+00:00
 
 ---
 
@@ -31213,7 +31213,7 @@ The following API methods are available:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/modal
 
-**Coletado em (UTC):** 2026-07-17T16:01:03.742423+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:25.243176+00:00
 
 ---
 
@@ -31443,7 +31443,7 @@ Extends [uiCollection](/commerce/frontend-core/ui-components/concepts/collection
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/multiline
 
-**Coletado em (UTC):** 2026-07-17T16:00:45.146220+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:14.053864+00:00
 
 ---
 
@@ -31594,7 +31594,7 @@ Extends [UiCollection](/commerce/frontend-core/ui-components/concepts/collection
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/multiselect-column
 
-**Coletado em (UTC):** 2026-07-17T16:00:43.019873+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:58.711501+00:00
 
 ---
 
@@ -31765,7 +31765,7 @@ No events are generated. Any other component that can retrieve access to this co
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/multiselect
 
-**Coletado em (UTC):** 2026-07-17T16:00:47.996882+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:15.070946+00:00
 
 ---
 
@@ -31858,7 +31858,7 @@ Extends [Select](/commerce/frontend-core/ui-components/components/select)
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/on-off-column
 
-**Coletado em (UTC):** 2026-07-17T16:00:33.554346+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:03.304646+00:00
 
 ---
 
@@ -31930,7 +31930,7 @@ This example integrates the OnOffColumn component with the [Listing](/commerce/f
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/paging
 
-**Coletado em (UTC):** 2026-07-17T16:00:35.642026+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:09.973843+00:00
 
 ---
 
@@ -32038,7 +32038,7 @@ This example configures the Paging component with the page size and options:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/radio-set
 
-**Coletado em (UTC):** 2026-07-17T16:00:54.826598+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:11.504120+00:00
 
 ---
 
@@ -32128,7 +32128,7 @@ This is an example of how the Radioset component integrates with the [Form](/com
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/range
 
-**Coletado em (UTC):** 2026-07-17T16:00:37.219621+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:02.284839+00:00
 
 ---
 
@@ -32231,7 +32231,7 @@ The following API methods are available:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/search
 
-**Coletado em (UTC):** 2026-07-17T16:00:38.827633+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:07.926265+00:00
 
 ---
 
@@ -32301,7 +32301,7 @@ This is an example of how the Search component integrates with the [Listing](/co
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/secondary-ui-select
 
-**Coletado em (UTC):** 2026-07-17T16:00:32.528552+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:07.381345+00:00
 
 ---
 
@@ -32583,7 +32583,7 @@ Navigation keys:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/select-column
 
-**Coletado em (UTC):** 2026-07-17T16:00:36.151488+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:01.264030+00:00
 
 ---
 
@@ -32697,7 +32697,7 @@ This is an example of how the SelectColumn component integrates with the [Listin
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/select
 
-**Coletado em (UTC):** 2026-07-17T16:00:50.634108+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:16.235629+00:00
 
 ---
 
@@ -32794,7 +32794,7 @@ Extends [Abstract](https://github.com/magento/magento2/blob/2.4/app/code/Magento
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/sizes
 
-**Coletado em (UTC):** 2026-07-17T16:00:37.767227+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:05.345408+00:00
 
 ---
 
@@ -32893,7 +32893,7 @@ This example integrates the Sizes component with the [Paging](/commerce/frontend
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/text-area
 
-**Coletado em (UTC):** 2026-07-17T16:00:53.229037+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:19.289613+00:00
 
 ---
 
@@ -32985,7 +32985,7 @@ This example integrates the Textarea component with the [Form](/commerce/fronten
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/text
 
-**Coletado em (UTC):** 2026-07-17T16:00:52.189467+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:13.031269+00:00
 
 ---
 
@@ -33078,7 +33078,7 @@ The following example integrates the Text component with the [Form](/commerce/fr
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/thumbnail-column
 
-**Coletado em (UTC):** 2026-07-17T16:00:31.486446+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:02.794086+00:00
 
 ---
 
@@ -33137,7 +33137,7 @@ Extends [Column](/commerce/frontend-core/ui-components/components/column):
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/toolbar
 
-**Coletado em (UTC):** 2026-07-17T16:00:44.085166+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:04.835881+00:00
 
 ---
 
@@ -33222,7 +33222,7 @@ Extends [UiCollection](/commerce/frontend-core/ui-components/concepts/collection
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/tree-mass-actions
 
-**Coletado em (UTC):** 2026-07-17T16:00:38.298181+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:09.455003+00:00
 
 ---
 
@@ -33333,7 +33333,7 @@ Extends [MassActions](/commerce/frontend-core/ui-components/components/mass-acti
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/class
 
-**Coletado em (UTC):** 2026-07-17T16:01:13.159155+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:39.141206+00:00
 
 ---
 
@@ -33415,7 +33415,7 @@ defaults: {
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/collection
 
-**Coletado em (UTC):** 2026-07-17T16:00:47.462498+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:13.545764+00:00
 
 ---
 
@@ -33477,7 +33477,7 @@ Here elems is the collection of the child elements of uiCollection. As far as el
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/configuration-flow
 
-**Coletado em (UTC):** 2026-07-17T16:01:12.622853+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:38.120491+00:00
 
 ---
 
@@ -33536,7 +33536,7 @@ Now it is the client's turn to process this JSON and generate the UI component's
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/data-source
 
-**Coletado em (UTC):** 2026-07-17T16:00:51.142055+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:18.271706+00:00
 
 ---
 
@@ -33650,7 +33650,7 @@ In the example above, it will return the totalRecords property of the data objec
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/element
 
-**Coletado em (UTC):** 2026-07-17T16:01:10.523887+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:36.052727+00:00
 
 ---
 
@@ -33676,7 +33676,7 @@ uiElement source code is <Magento_Ui_module_dir>/view/base/web/js/lib/core/eleme
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/linking
 
-**Coletado em (UTC):** 2026-07-17T16:00:46.929861+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:10.989732+00:00
 
 ---
 
@@ -33892,7 +33892,7 @@ We can also build complex templates strings using this syntax, as follows:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/modifier
 
-**Coletado em (UTC):** 2026-07-17T16:01:29.783788+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:54.536841+00:00
 
 ---
 
@@ -34018,7 +34018,7 @@ For illustration see [\Magento\Catalog\Ui\DataProvider\Product\Form\Modifier\Lay
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/xml-declaration
 
-**Coletado em (UTC):** 2026-07-17T16:01:29.273799+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:55.044448+00:00
 
 ---
 
@@ -34162,7 +34162,7 @@ For more information about the configuration flow, refer to the [Configuration F
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace
 
-**Coletado em (UTC):** 2026-07-17T15:46:57.297450+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:12.421222+00:00
 
 ---
 
@@ -34244,7 +34244,7 @@ We encourage you to participate in our open documentation initiative. If you hav
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/account-setup-process
 
-**Coletado em (UTC):** 2026-07-17T15:57:44.729977+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:16.589247+00:00
 
 ---
 
@@ -34285,7 +34285,7 @@ Your [account information](/commerce/marketplace/guides/sellers/profile-informat
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/account-setup
 
-**Coletado em (UTC):** 2026-07-17T15:54:46.519746+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:42.646484+00:00
 
 ---
 
@@ -34305,7 +34305,7 @@ Create a new Commerce Marketplace account, or use your existing Magento account.
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/analytics
 
-**Coletado em (UTC):** 2026-07-17T15:59:03.351507+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:26.359424+00:00
 
 ---
 
@@ -34334,7 +34334,7 @@ Shows page hits for your top five products.Â All products and their page hits ar
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/before-you-begin
 
-**Coletado em (UTC):** 2026-07-17T15:47:09.856732+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:26.070847+00:00
 
 ---
 
@@ -34367,7 +34367,7 @@ Before you begin the submission process, you need to have the following items re
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/branding
 
-**Coletado em (UTC):** 2026-07-17T15:57:37.538156+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:13.033835+00:00
 
 ---
 
@@ -34417,7 +34417,7 @@ Approved Magento trademarks can be used in your extension listing or website onl
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/code-sniffer
 
-**Coletado em (UTC):** 2026-07-17T15:57:38.579084+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:07.946223+00:00
 
 ---
 
@@ -34503,7 +34503,7 @@ We welcome feedback and discussion on the [Magento Community Engineering Slack](
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/content
 
-**Coletado em (UTC):** 2026-07-17T15:54:43.888858+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:40.608821+00:00
 
 ---
 
@@ -34590,7 +34590,7 @@ Supported formats: PDF
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/copy-paste-detector
 
-**Coletado em (UTC):** 2026-07-17T15:57:40.108409+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:11.512365+00:00
 
 ---
 
@@ -34639,7 +34639,7 @@ We always welcome feedback and discussion on the [Magento Community Engineering 
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/developer-portal
 
-**Coletado em (UTC):** 2026-07-17T15:57:26.912461+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:51.856602+00:00
 
 ---
 
@@ -34685,7 +34685,7 @@ Account Information<br/>Sign Out
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/developer-register
 
-**Coletado em (UTC):** 2026-07-17T15:57:45.237096+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:16.080545+00:00
 
 ---
 
@@ -34720,7 +34720,7 @@ When prompted, select the type of account you want to create, and click **Choose
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/extension-create
 
-**Coletado em (UTC):** 2026-07-17T15:54:32.709127+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:13.866193+00:00
 
 ---
 
@@ -34757,7 +34757,7 @@ Commerce Marketplace does not support encrypted extensions at this time.
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/extension-information
 
-**Coletado em (UTC):** 2026-07-17T15:54:32.195004+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:12.848748+00:00
 
 ---
 
@@ -34829,7 +34829,7 @@ Are subscription payments ALSO required to your company for the integration
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/extension-quality-program
 
-**Coletado em (UTC):** 2026-07-17T15:57:45.749048+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:15.064902+00:00
 
 ---
 
@@ -34871,7 +34871,7 @@ When your [code passes](/commerce/marketplace/guides/sellers/sales) Technical Re
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/extension-resubmit
 
-**Coletado em (UTC):** 2026-07-17T15:59:13.484155+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:39.765685+00:00
 
 ---
 
@@ -34900,7 +34900,7 @@ If an listing fails a test at any time during the review process, you can correc
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/extension-version
 
-**Coletado em (UTC):** 2026-07-17T15:54:33.240338+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:13.358892+00:00
 
 ---
 
@@ -34929,7 +34929,7 @@ You can save progress and edit the extension information as needed.
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/extensions
 
-**Coletado em (UTC):** 2026-07-17T15:47:04.391433+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:15.406603+00:00
 
 ---
 
@@ -34998,7 +34998,7 @@ The date of the last change made to the version.
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/image-tips
 
-**Coletado em (UTC):** 2026-07-17T15:57:43.183959+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:12.019397+00:00
 
 ---
 
@@ -35027,7 +35027,7 @@ PNG
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/installation-and-varnish-tests
 
-**Coletado em (UTC):** 2026-07-17T15:57:41.125089+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:09.980213+00:00
 
 ---
 
@@ -35160,7 +35160,7 @@ In this situation, the extension must be reviewed manually.
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/malware-scan
 
-**Coletado em (UTC):** 2026-07-17T15:57:39.601251+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:08.456727+00:00
 
 ---
 
@@ -35214,7 +35214,7 @@ We always welcome feedback and discussion on the [Magento Community Engineering 
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/marketing-review-guidelines
 
-**Coletado em (UTC):** 2026-07-17T15:57:27.462629+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:52.878694+00:00
 
 ---
 
@@ -35305,7 +35305,7 @@ The Magento name and its related logos are trademarks owned by Adobe. Your exten
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/mftf-magento
 
-**Coletado em (UTC):** 2026-07-17T15:57:38.044885+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:11.003842+00:00
 
 ---
 
@@ -35398,7 +35398,7 @@ See [MFTF Reporting](https://developer.adobe.com/commerce/testing/functional-tes
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/mftf-vendor
 
-**Coletado em (UTC):** 2026-07-17T15:57:41.643221+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:09.470882+00:00
 
 ---
 
@@ -35480,7 +35480,7 @@ The Allure results returned to Marketplace can be downloaded and displayed as an
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/product-descriptions
 
-**Coletado em (UTC):** 2026-07-17T15:57:37.006544+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:13.541147+00:00
 
 ---
 
@@ -35587,7 +35587,7 @@ ATTENTION: Use this extension at your own risk. Sensitive customer payment data 
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/profile-information
 
-**Coletado em (UTC):** 2026-07-17T15:59:03.864643+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:25.846568+00:00
 
 ---
 
@@ -35746,7 +35746,7 @@ Click **Partner Portal** to open the Adobe Commerce Partner Portal dashboard.
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/revenue-share
 
-**Coletado em (UTC):** 2026-07-17T15:57:44.223272+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:15.574372+00:00
 
 ---
 
@@ -35777,7 +35777,7 @@ Adobe reserves the right to charge commission on sales of Apps submitted after 2
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/review-report
 
-**Coletado em (UTC):** 2026-07-17T16:00:08.483982+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:35.410948+00:00
 
 ---
 
@@ -35821,7 +35821,7 @@ To resolve this issue, change the stability value to stable or beta in the packa
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/sales
 
-**Coletado em (UTC):** 2026-07-17T15:54:46.011639+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:42.137439+00:00
 
 ---
 
@@ -35901,7 +35901,7 @@ Lists all payouts you've received.
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/seller-overview
 
-**Coletado em (UTC):** 2026-07-17T15:47:10.908766+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:26.578037+00:00
 
 ---
 
@@ -35967,7 +35967,7 @@ Although you are not prevented from listing and selling your products and servic
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/semantic-version-check
 
-**Coletado em (UTC):** 2026-07-17T15:57:40.617291+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:08.963864+00:00
 
 ---
 
@@ -36037,7 +36037,7 @@ We always welcome feedback and discussion on the [Magento Community Engineering 
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/shared-packages
 
-**Coletado em (UTC):** 2026-07-17T15:57:42.677057+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:14.556168+00:00
 
 ---
 
@@ -36070,7 +36070,7 @@ The date of the last change made to the version.
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/submit-for-marketing-review
 
-**Coletado em (UTC):** 2026-07-17T15:54:45.472309+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:40.092629+00:00
 
 ---
 
@@ -36172,7 +36172,7 @@ If issues, errors, or changes are required, you will receive an email failure no
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/submit-for-review
 
-**Coletado em (UTC):** 2026-07-17T15:54:47.025673+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:41.630276+00:00
 
 ---
 
@@ -36213,7 +36213,7 @@ You must complete both the technical and marketing review to fully list your pro
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/submit-for-technical-review
 
-**Coletado em (UTC):** 2026-07-17T15:54:44.955673+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:41.117566+00:00
 
 ---
 
@@ -36362,7 +36362,7 @@ If applicable, identifies each shared package that is required by this extension
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/subscriptions/buying-subscriptions
 
-**Coletado em (UTC):** 2026-07-17T15:47:10.379214+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:25.552546+00:00
 
 ---
 
@@ -36432,7 +36432,7 @@ Thank you for using the Adobe Commerce Marketplace. For all questions and sugges
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/technical-review-guidelines
 
-**Coletado em (UTC):** 2026-07-17T15:54:44.420474+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:39.578335+00:00
 
 ---
 
@@ -36587,7 +36587,7 @@ Extensions that claim to support Magento Page Builder are subject to the followi
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/themes
 
-**Coletado em (UTC):** 2026-07-17T15:57:42.164240+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:14.049179+00:00
 
 ---
 
@@ -36622,7 +36622,7 @@ The date of the last change made to the version.
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/video-tips
 
-**Coletado em (UTC):** 2026-07-17T15:57:43.690985+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:12.526507+00:00
 
 ---
 
@@ -36674,7 +36674,7 @@ Most video editing tools manage audio in layers that are separate from the video
 
 **Fonte original:** https://developer.adobe.com/commerce/php
 
-**Coletado em (UTC):** 2026-07-17T15:46:55.708318+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:10.856609+00:00
 
 ---
 
@@ -36763,7 +36763,7 @@ GitHub
 
 **Fonte original:** https://developer.adobe.com/commerce/php/architecture/modules/areas
 
-**Coletado em (UTC):** 2026-07-17T15:59:11.392037+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:36.104344+00:00
 
 ---
 
@@ -36836,7 +36836,7 @@ Note that only the **execute()** method of any given controller is executed.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/coding-standards/less
 
-**Coletado em (UTC):** 2026-07-17T16:00:55.894426+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:21.620214+00:00
 
 ---
 
@@ -37699,7 +37699,7 @@ Use single quotes.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/build/component-file-structure
 
-**Coletado em (UTC):** 2026-07-17T15:59:02.841590+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:29.584619+00:00
 
 ---
 
@@ -37848,7 +37848,7 @@ For more information about language packages, see [Translation dictionaries and 
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/build/component-load-order
 
-**Coletado em (UTC):** 2026-07-17T16:00:30.977429+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:57.183704+00:00
 
 ---
 
@@ -37932,7 +37932,7 @@ in multiple components because it's possible to define circular dependencies. If
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/build/component-name
 
-**Coletado em (UTC):** 2026-07-17T15:59:02.302908+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:30.095039+00:00
 
 ---
 
@@ -38045,7 +38045,7 @@ repository.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/build/component-registration
 
-**Coletado em (UTC):** 2026-07-17T15:59:04.377987+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:26.866503+00:00
 
 ---
 
@@ -38159,7 +38159,7 @@ ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Magento_AdminNotificat
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/build/composer-integration
 
-**Coletado em (UTC):** 2026-07-17T15:59:55.727479+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:17.499937+00:00
 
 ---
 
@@ -38369,7 +38369,7 @@ Using Adobe Commerce and Magento Open Source code as an example, marketing versi
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/build/dependency-injection-file
 
-**Coletado em (UTC):** 2026-07-17T15:59:32.577434+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:52.939175+00:00
 
 ---
 
@@ -38921,7 +38921,7 @@ Plugins for the Preference:
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/build/required-configuration-files
 
-**Coletado em (UTC):** 2026-07-17T15:59:53.621677+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:23.082109+00:00
 
 ---
 
@@ -39006,7 +39006,7 @@ Keep in mind that you might be able to handle your module's configuration solely
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/build/schema-validation
 
-**Coletado em (UTC):** 2026-07-17T16:00:30.449199+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:56.675592+00:00
 
 ---
 
@@ -39089,7 +39089,7 @@ The relative path to other XSDs cannot be used from inside the XSD file, because
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/cli-commands/custom
 
-**Coletado em (UTC):** 2026-07-17T15:59:55.196216+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:22.417512+00:00
 
 ---
 
@@ -39150,7 +39150,7 @@ bin/magento my:first:command --name 'John'
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/add-attributes
 
-**Coletado em (UTC):** 2026-07-17T15:59:48.814719+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:15.961839+00:00
 
 ---
 
@@ -39466,7 +39466,7 @@ In third, array one (in JSON for a change):
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/attributes
 
-**Coletado em (UTC):** 2026-07-17T16:00:09.540048+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:39.212271+00:00
 
 ---
 
@@ -39968,7 +39968,7 @@ Catalog EAV Attribute is_wysiwyg_enabled - used for enabling wysiwyg editor for 
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/code-generation
 
-**Coletado em (UTC):** 2026-07-17T16:01:10.015904+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:35.544698+00:00
 
 ---
 
@@ -40027,7 +40027,7 @@ The code compiler creates the generated/metadata/global.php file, which is a PHP
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/declarative-schema/configuration
 
-**Coletado em (UTC):** 2026-07-17T16:01:28.242893+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:53.997266+00:00
 
 ---
 
@@ -40647,7 +40647,7 @@ When a module is disabled in app/etc/config.php, its database schema configurati
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/declarative-schema/migration-scripts
 
-**Coletado em (UTC):** 2026-07-17T16:01:40.637330+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:07.673652+00:00
 
 ---
 
@@ -40866,7 +40866,7 @@ name
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/declarative-schema/patches
 
-**Coletado em (UTC):** 2026-07-17T16:01:07.388591+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:34.529445+00:00
 
 ---
 
@@ -41025,7 +41025,7 @@ Old scripts will work with new versions of Magento. However, if you want to conv
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/dependency-injection
 
-**Coletado em (UTC):** 2026-07-17T15:59:46.732577+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:13.027063+00:00
 
 ---
 
@@ -41145,7 +41145,7 @@ To get around this limitation, injectable objects can depend on [factories](/com
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/factories
 
-**Coletado em (UTC):** 2026-07-17T16:00:29.434169+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:55.141043+00:00
 
 ---
 
@@ -41260,7 +41260,7 @@ It instructs the application to use the specific [Item](https://github.com/magen
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/message-queues/bulk-operations-example
 
-**Coletado em (UTC):** 2026-07-17T15:58:19.923412+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:50.415986+00:00
 
 ---
 
@@ -41682,7 +41682,7 @@ Message queue configuration files
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/message-queues/bulk-operations
 
-**Coletado em (UTC):** 2026-07-17T15:57:01.711040+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:32.942852+00:00
 
 ---
 
@@ -41801,7 +41801,7 @@ FINISHED_WITH_FAILURE
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/message-queues/configuration
 
-**Coletado em (UTC):** 2026-07-17T15:59:46.209344+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:13.536567+00:00
 
 ---
 
@@ -42427,7 +42427,7 @@ See [Migrate message queue configuration](/commerce/php/development/components/m
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/message-queues/migration
 
-**Coletado em (UTC):** 2026-07-17T16:00:28.913414+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:56.156526+00:00
 
 ---
 
@@ -42865,7 +42865,7 @@ Not present in 2.0. Omit this parameter to accept the default value.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/plugins
 
-**Coletado em (UTC):** 2026-07-17T15:59:47.242277+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:14.074636+00:00
 
 ---
 
@@ -43491,7 +43491,7 @@ When disabling the plugin, make sure to use the same path format to call and dis
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/proxies
 
-**Coletado em (UTC):** 2026-07-17T16:00:29.942058+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:55.648865+00:00
 
 ---
 
@@ -43581,7 +43581,7 @@ The following excerpt from the application code passes the storeManager argument
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/web-api/services
 
-**Coletado em (UTC):** 2026-07-17T15:47:05.951489+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:21.083933+00:00
 
 ---
 
@@ -43857,7 +43857,7 @@ The above example create a new parameter override available for use in webapi.xm
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/configuration/sensitive-environment-settings
 
-**Coletado em (UTC):** 2026-07-17T16:00:17.942003+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:40.297098+00:00
 
 ---
 
@@ -43966,7 +43966,7 @@ To set a configuration setting as both sensitive and system-specific, create two
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/package/component
 
-**Coletado em (UTC):** 2026-07-17T15:57:27.974825+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:52.365231+00:00
 
 ---
 
@@ -44179,7 +44179,7 @@ Refer to the [official documentation](https://packagist.com/features/private-vcs
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/payments-integrations/base-integration/facade-configuration
 
-**Coletado em (UTC):** 2026-07-17T16:00:55.356195+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:20.943156+00:00
 
 ---
 
@@ -44328,7 +44328,7 @@ Then, the newly created validator needs to be added to the global pool of valida
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/payments-integrations/base-integration/formblocktype
 
-**Coletado em (UTC):** 2026-07-17T16:01:14.211096+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:39.653630+00:00
 
 ---
 
@@ -44422,7 +44422,7 @@ The following example adds the Braintree-specific template [app/code/Magento/Pay
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/payments-integrations/base-integration/payment-option-config
 
-**Coletado em (UTC):** 2026-07-17T15:59:49.325012+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:16.472048+00:00
 
 ---
 
@@ -44551,7 +44551,7 @@ Following is the illustration of such configuration (config.xml of the Braintree
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/payments-integrations/payment-gateway/command-pool
 
-**Coletado em (UTC):** 2026-07-17T16:01:14.718334+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:40.163495+00:00
 
 ---
 
@@ -44609,7 +44609,7 @@ Following is an example of the command pool configuring for the Braintree paymen
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/payments-integrations/payment-gateway/gateway-client
 
-**Coletado em (UTC):** 2026-07-17T16:01:45.310245+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:11.438873+00:00
 
 ---
 
@@ -44694,7 +44694,7 @@ public function create(array $request)
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/payments-integrations/payment-gateway/gateway-command
 
-**Coletado em (UTC):** 2026-07-17T16:01:30.293149+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:55.553801+00:00
 
 ---
 
@@ -44756,7 +44756,7 @@ Optional arguments :
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/payments-integrations/payment-gateway/request-builder
 
-**Coletado em (UTC):** 2026-07-17T16:01:44.803147+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:10.396831+00:00
 
 ---
 
@@ -44825,7 +44825,7 @@ Example of adding composite builders for the Braintree payment provider ([app/co
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/payments-integrations/payment-gateway/response-handler
 
-**Coletado em (UTC):** 2026-07-17T16:01:44.274293+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:09.889884+00:00
 
 ---
 
@@ -44909,7 +44909,7 @@ class PayPalDetailsHandler implements HandlerInterface
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/payments-integrations/payment-gateway/response-validator
 
-**Coletado em (UTC):** 2026-07-17T16:01:45.817783+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:10.912964+00:00
 
 ---
 
@@ -45011,7 +45011,7 @@ Now, the newly added validator should be specified for a specific command. Below
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/security/content-security-policies
 
-**Coletado em (UTC):** 2026-07-17T16:01:53.293596+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:18.613137+00:00
 
 ---
 
@@ -45408,7 +45408,7 @@ To fix this issue, [whitelist](#whitelist-an-inline-script-or-style) the blocked
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/versioning/dependencies
 
-**Coletado em (UTC):** 2026-07-17T15:57:39.088812+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:10.490165+00:00
 
 ---
 
@@ -45567,7 +45567,7 @@ PATCH
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-b2b
 
-**Coletado em (UTC):** 2026-07-17T15:58:26.072592+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:04.126113+00:00
 
 ---
 
@@ -45605,7 +45605,7 @@ The version of this module is 100.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-bundle-negotiable-quote
 
-**Coletado em (UTC):** 2026-07-17T15:58:28.332251+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:15.298175+00:00
 
 ---
 
@@ -45648,7 +45648,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-bundle-requisition-list-graph-ql
 
-**Coletado em (UTC):** 2026-07-17T15:58:49.902615+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:20.879694+00:00
 
 ---
 
@@ -45670,7 +45670,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-bundle-requisition-list
 
-**Coletado em (UTC):** 2026-07-17T15:58:30.383861+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:17.327884+00:00
 
 ---
 
@@ -45713,7 +45713,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-bundle-shared-catalog
 
-**Coletado em (UTC):** 2026-07-17T15:58:52.543092+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:03.111008+00:00
 
 ---
 
@@ -45770,7 +45770,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-checkout-address-search-negotiable-quote
 
-**Coletado em (UTC):** 2026-07-17T15:58:23.235689+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:50.927105+00:00
 
 ---
 
@@ -45794,7 +45794,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-checkout-agreements-negotiable-quote
 
-**Coletado em (UTC):** 2026-07-17T15:58:34.069725+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:07.685157+00:00
 
 ---
 
@@ -45816,7 +45816,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-checkout-agreements-purchase-order
 
-**Coletado em (UTC):** 2026-07-17T15:58:35.254740+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:54.476487+00:00
 
 ---
 
@@ -45838,7 +45838,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-asynchronous-operations
 
-**Coletado em (UTC):** 2026-07-17T15:58:43.458976+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:13.269242+00:00
 
 ---
 
@@ -45864,7 +45864,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-credit-graph-ql
 
-**Coletado em (UTC):** 2026-07-17T15:58:24.294157+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:01.591318+00:00
 
 ---
 
@@ -45886,7 +45886,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-credit
 
-**Coletado em (UTC):** 2026-07-17T15:58:33.538230+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:10.221158+00:00
 
 ---
 
@@ -45947,7 +45947,7 @@ The version of this module is 100.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-customer-import-export
 
-**Coletado em (UTC):** 2026-07-17T15:58:51.477899+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:02.603816+00:00
 
 ---
 
@@ -45973,7 +45973,7 @@ The version of this module is 1.5.1.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-graph-ql
 
-**Coletado em (UTC):** 2026-07-17T15:58:44.640997+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:56.504960+00:00
 
 ---
 
@@ -45995,7 +45995,7 @@ The version of this module is 1.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-negotiable-quote-template
 
-**Coletado em (UTC):** 2026-07-17T15:58:39.083135+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:17.834489+00:00
 
 ---
 
@@ -46021,7 +46021,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-negotiable-quote
 
-**Coletado em (UTC):** 2026-07-17T15:58:35.779547+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:18.851774+00:00
 
 ---
 
@@ -46047,7 +46047,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-payment
 
-**Coletado em (UTC):** 2026-07-17T15:58:42.423116+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:00.570340+00:00
 
 ---
 
@@ -46099,7 +46099,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-quote-graph-ql
 
-**Coletado em (UTC):** 2026-07-17T15:58:41.361196+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:02.097186+00:00
 
 ---
 
@@ -46119,7 +46119,7 @@ The version of this module is 1.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-quote
 
-**Coletado em (UTC):** 2026-07-17T15:58:44.105921+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:55.490312+00:00
 
 ---
 
@@ -46145,7 +46145,7 @@ The version of this module is 1.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-relation-shared-catalog
 
-**Coletado em (UTC):** 2026-07-17T15:58:48.839277+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:14.790466+00:00
 
 ---
 
@@ -46189,7 +46189,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-relation
 
-**Coletado em (UTC):** 2026-07-17T15:58:50.414524+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:09.206550+00:00
 
 ---
 
@@ -46233,7 +46233,7 @@ The version of this module is 1.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-shipping
 
-**Coletado em (UTC):** 2026-07-17T15:58:34.727176+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:15.805112+00:00
 
 ---
 
@@ -46285,7 +46285,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company
 
-**Coletado em (UTC):** 2026-07-17T15:58:37.369630+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:52.447356+00:00
 
 ---
 
@@ -46339,7 +46339,7 @@ The version of this module is 102.0.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-configurable-negotiable-quote
 
-**Coletado em (UTC):** 2026-07-17T15:58:45.697672+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:09.713684+00:00
 
 ---
 
@@ -46380,7 +46380,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-configurable-requisition-list-graph-ql
 
-**Coletado em (UTC):** 2026-07-17T15:58:25.545989+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:05.147356+00:00
 
 ---
 
@@ -46402,7 +46402,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-configurable-requisition-list
 
-**Coletado em (UTC):** 2026-07-17T15:58:47.270205+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:19.358490+00:00
 
 ---
 
@@ -46443,7 +46443,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-configurable-shared-catalog
 
-**Coletado em (UTC):** 2026-07-17T15:58:24.820229+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:03.618766+00:00
 
 ---
 
@@ -46498,7 +46498,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-downloadable-company
 
-**Coletado em (UTC):** 2026-07-17T15:58:39.612004+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:00.061107+00:00
 
 ---
 
@@ -46520,7 +46520,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-downloadable-negotiable-quote
 
-**Coletado em (UTC):** 2026-07-17T15:58:21.473954+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:57.519923+00:00
 
 ---
 
@@ -46559,7 +46559,7 @@ The version of this module is 1.5.0.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-downloadable-requisition-list-graph-ql
 
-**Coletado em (UTC):** 2026-07-17T15:58:26.580997+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:51.433769+00:00
 
 ---
 
@@ -46581,7 +46581,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-gift-card-negotiable-quote
 
-**Coletado em (UTC):** 2026-07-17T15:58:50.944996+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:06.162129+00:00
 
 ---
 
@@ -46620,7 +46620,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-gift-card-requisition-list-graph-ql
 
-**Coletado em (UTC):** 2026-07-17T15:58:49.371887+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:57.011621+00:00
 
 ---
 
@@ -46642,7 +46642,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-gift-card-requisition-list
 
-**Coletado em (UTC):** 2026-07-17T15:58:22.001236+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:10.728540+00:00
 
 ---
 
@@ -46681,7 +46681,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-gift-card-shared-catalog
 
-**Coletado em (UTC):** 2026-07-17T15:58:40.143538+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:51.940145+00:00
 
 ---
 
@@ -46740,7 +46740,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-grouped-requisition-list
 
-**Coletado em (UTC):** 2026-07-17T15:58:27.806960+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:59.553608+00:00
 
 ---
 
@@ -46788,7 +46788,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-grouped-shared-catalog
 
-**Coletado em (UTC):** 2026-07-17T15:58:32.473638+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:58.028030+00:00
 
 ---
 
@@ -46843,7 +46843,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote-async-order
 
-**Coletado em (UTC):** 2026-07-17T15:58:36.840408+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:13.775582+00:00
 
 ---
 
@@ -46865,7 +46865,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote-duplicate-graph-ql
 
-**Coletado em (UTC):** 2026-07-17T15:58:52.009716+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:18.340734+00:00
 
 ---
 
@@ -46885,7 +46885,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote-duplicate
 
-**Coletado em (UTC):** 2026-07-17T15:58:38.407006+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:06.669305+00:00
 
 ---
 
@@ -46909,7 +46909,7 @@ The version of this module is 1.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote-graph-ql
 
-**Coletado em (UTC):** 2026-07-17T15:58:53.072032+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:16.312316+00:00
 
 ---
 
@@ -46929,7 +46929,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote-requisition-list-graph-ql
 
-**Coletado em (UTC):** 2026-07-17T15:58:47.777070+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:19.866393+00:00
 
 ---
 
@@ -46951,7 +46951,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote-requisition-list
 
-**Coletado em (UTC):** 2026-07-17T15:58:45.170520+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:11.746521+00:00
 
 ---
 
@@ -46973,7 +46973,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote-shared-catalog
 
-**Coletado em (UTC):** 2026-07-17T15:58:23.766635+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:58.537313+00:00
 
 ---
 
@@ -47015,7 +47015,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote-template-graph-ql
 
-**Coletado em (UTC):** 2026-07-17T15:58:27.108209+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:01.082413+00:00
 
 ---
 
@@ -47035,7 +47035,7 @@ The version of this module is 1.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote-template-shared-catalog
 
-**Coletado em (UTC):** 2026-07-17T15:58:48.311835+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:16.820126+00:00
 
 ---
 
@@ -47077,7 +47077,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote-template
 
-**Coletado em (UTC):** 2026-07-17T15:58:36.311151+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:14.282774+00:00
 
 ---
 
@@ -47099,7 +47099,7 @@ The version of this module is 1.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote-weee
 
-**Coletado em (UTC):** 2026-07-17T15:58:37.876385+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:53.461690+00:00
 
 ---
 
@@ -47121,7 +47121,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote
 
-**Coletado em (UTC):** 2026-07-17T15:58:29.875010+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:07.176121+00:00
 
 ---
 
@@ -47184,7 +47184,7 @@ The version of this module is 101.0.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-order-history-search
 
-**Coletado em (UTC):** 2026-07-17T15:58:30.890149+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:04.637225+00:00
 
 ---
 
@@ -47230,7 +47230,7 @@ The version of this module is 100.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-paypal-negotiable-quote
 
-**Coletado em (UTC):** 2026-07-17T15:58:33.006020+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:20.373450+00:00
 
 ---
 
@@ -47258,7 +47258,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-paypal-purchase-order
 
-**Coletado em (UTC):** 2026-07-17T15:58:41.893668+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:12.256183+00:00
 
 ---
 
@@ -47286,7 +47286,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-purchase-order-graph-ql
 
-**Coletado em (UTC):** 2026-07-17T15:58:31.948763+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:52.954836+00:00
 
 ---
 
@@ -47314,7 +47314,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-purchase-order-rule-graph-ql
 
-**Coletado em (UTC):** 2026-07-17T15:58:20.941670+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:12.762621+00:00
 
 ---
 
@@ -47344,7 +47344,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-purchase-order-rule
 
-**Coletado em (UTC):** 2026-07-17T15:58:31.418400+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:55.997048+00:00
 
 ---
 
@@ -47419,7 +47419,7 @@ The version of this module is 100.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-purchase-order
 
-**Coletado em (UTC):** 2026-07-17T15:58:42.951649+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:59.044874+00:00
 
 ---
 
@@ -47495,7 +47495,7 @@ The version of this module is 100.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-quick-order-graph-ql
 
-**Coletado em (UTC):** 2026-07-17T15:58:28.839161+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:08.192261+00:00
 
 ---
 
@@ -47525,7 +47525,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-quick-order
 
-**Coletado em (UTC):** 2026-07-17T15:58:46.231454+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:08.698911+00:00
 
 ---
 
@@ -47569,7 +47569,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-requisition-list-graph-ql
 
-**Coletado em (UTC):** 2026-07-17T15:58:40.650975+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:53.969687+00:00
 
 ---
 
@@ -47591,7 +47591,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-requisition-list
 
-**Coletado em (UTC):** 2026-07-17T15:58:29.367425+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:05.654552+00:00
 
 ---
 
@@ -47648,7 +47648,7 @@ The version of this module is 100.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-shared-catalog-graph-ql
 
-**Coletado em (UTC):** 2026-07-17T15:58:22.706875+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:54.983658+00:00
 
 ---
 
@@ -47670,7 +47670,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-shared-catalog
 
-**Coletado em (UTC):** 2026-07-17T15:58:46.742258+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:11.236402+00:00
 
 ---
 
@@ -47733,7 +47733,7 @@ The version of this module is 100.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/pwa-studio
 
-**Coletado em (UTC):** 2026-07-17T15:56:53.218258+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:28.263424+00:00
 
 ---
 
@@ -47834,7 +47834,7 @@ We encourage you to participate in our open documentation initiative. If you hav
 
 **Fonte original:** https://developer.adobe.com/commerce/services
 
-**Coletado em (UTC):** 2026-07-17T15:46:54.655690+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:09.735985+00:00
 
 ---
 
@@ -47912,7 +47912,7 @@ We encourage you to participate in our open documentation initiative. If you hav
 
 **Fonte original:** https://developer.adobe.com/commerce/services/optimizer
 
-**Coletado em (UTC):** 2026-07-17T15:47:07.608207+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:24.033867+00:00
 
 ---
 
@@ -47969,7 +47969,7 @@ Adobe Commerce Optimizer Merchandising Services provides the following APIs:
 
 **Fonte original:** https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case
 
-**Coletado em (UTC):** 2026-07-17T15:57:32.862892+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:05.338382+00:00
 
 ---
 
@@ -48924,7 +48924,7 @@ The response returns the product details for a single SKU, Bolt Atlas battery.
 
 **Fonte original:** https://developer.adobe.com/commerce/services/optimizer/data-ingestion
 
-**Coletado em (UTC):** 2026-07-17T15:47:06.475585+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:22.922071+00:00
 
 ---
 
@@ -49038,7 +49038,7 @@ Get started with the [Data Ingestion API](/commerce/services/optimizer/data-inge
 
 **Fonte original:** https://developer.adobe.com/commerce/services/optimizer/data-ingestion/api-testing
 
-**Coletado em (UTC):** 2026-07-17T15:57:32.116011+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:04.314870+00:00
 
 ---
 
@@ -49195,7 +49195,7 @@ After successfully testing API operations:
 
 **Fonte original:** https://developer.adobe.com/commerce/services/optimizer/data-ingestion/authentication
 
-**Coletado em (UTC):** 2026-07-17T15:57:31.605746+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:04.827278+00:00
 
 ---
 
@@ -49313,7 +49313,7 @@ Adobe Commerce REST Guide
 
 **Fonte original:** https://developer.adobe.com/commerce/services/optimizer/data-ingestion/using-the-api
 
-**Coletado em (UTC):** 2026-07-17T15:54:38.468253+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:36.985393+00:00
 
 ---
 
@@ -49480,7 +49480,7 @@ This guide covers direct API access using bearer tokens. For user authentication
 
 **Fonte original:** https://developer.adobe.com/commerce/services/optimizer/manage-catalogs
 
-**Coletado em (UTC):** 2026-07-17T15:59:07.568400+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:36.626760+00:00
 
 ---
 
@@ -49504,7 +49504,7 @@ For details, see the [Adobe Commerce Optimizer Guide](https://experienceleague.a
 
 **Fonte original:** https://developer.adobe.com/commerce/services/optimizer/merchandising-services
 
-**Coletado em (UTC):** 2026-07-17T15:54:39.048507+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:39.037699+00:00
 
 ---
 
@@ -49613,7 +49613,7 @@ For additional support and community resources, visit the [Adobe Commerce Develo
 
 **Fonte original:** https://developer.adobe.com/commerce/services/optimizer/merchandising-services/use-cases
 
-**Coletado em (UTC):** 2026-07-17T15:57:33.919267+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:06.876387+00:00
 
 ---
 
@@ -50530,7 +50530,7 @@ Response:
 
 **Fonte original:** https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api
 
-**Coletado em (UTC):** 2026-07-17T15:56:52.140313+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:08.965467+00:00
 
 ---
 
@@ -50686,7 +50686,7 @@ For interactive testing and exploration, use the [Adobe Commerce Optimizer API P
 
 **Fonte original:** https://developer.adobe.com/commerce/services/product-recommendations
 
-**Coletado em (UTC):** 2026-07-17T15:47:07.045807+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:22.190965+00:00
 
 ---
 
@@ -50989,7 +50989,7 @@ document.body.insertAdjacentHTML("beforeend", markup)
 
 **Fonte original:** https://developer.adobe.com/commerce/services/reference/graphql
 
-**Coletado em (UTC):** 2026-07-17T15:57:33.377202+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:07.394465+00:00
 
 ---
 
@@ -51016,7 +51016,7 @@ data-src=../../includes/autogenerated/merchandising-api.md
 
 **Fonte original:** https://developer.adobe.com/commerce/services/reference/rest
 
-**Coletado em (UTC):** 2026-07-17T15:54:37.925725+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:36.403430+00:00
 
 ---
 
@@ -51036,7 +51036,7 @@ data-hideLoading=
 
 **Fonte original:** https://developer.adobe.com/commerce/services/reporting
 
-**Coletado em (UTC):** 2026-07-17T15:47:08.732697+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:23.496193+00:00
 
 ---
 
@@ -51102,7 +51102,7 @@ You must specify this key in the X-RJM-API-Key header of every export request. â
 
 **Fonte original:** https://developer.adobe.com/commerce/services/reporting/export-api
 
-**Coletado em (UTC):** 2026-07-17T15:54:43.376359+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:38.525940+00:00
 
 ---
 
@@ -51304,7 +51304,7 @@ curl -H "X-RJM-API-Key: your\_key" https://api.rjmetrics.com/0.1/chart/2038112/i
 
 **Fonte original:** https://developer.adobe.com/commerce/services/reporting/import-api
 
-**Coletado em (UTC):** 2026-07-17T15:54:42.327483+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:37.500396+00:00
 
 ---
 
@@ -52177,7 +52177,7 @@ if client.authenticate():
 
 **Fonte original:** https://developer.adobe.com/commerce/services/reporting/libraries
 
-**Coletado em (UTC):** 2026-07-17T15:54:42.845884+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:38.017453+00:00
 
 ---
 
@@ -52322,7 +52322,7 @@ For more information, check out the [source code on Github](https://github.com/R
 
 **Fonte original:** https://developer.adobe.com/commerce/services/reporting/update-cycle
 
-**Coletado em (UTC):** 2026-07-17T15:57:36.492235+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:05.851446+00:00
 
 ---
 
@@ -52504,7 +52504,7 @@ The base path /0.1 matches the Export API version. Backwards-compatible fields m
 
 **Fonte original:** https://developer.adobe.com/commerce/services/shared-services/implementation/tutorial
 
-**Coletado em (UTC):** 2026-07-17T15:54:41.271673+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:34.174445+00:00
 
 ---
 
@@ -52870,7 +52870,7 @@ define([
         
         //Set purchaseHistory in localStorgage for use in recommendations requests
         //Catalog view matches the viewId set in setStorefrontInstance above
-        const key = `CatalogView1:purchaseHistory`;
+        const key = `YOUR_VIEW_ID:purchaseHistory`;
         const purchasedProducts = shoppingCartContext.items.map((item) => item.product.sku);
         const purchaseHistory = JSON.parse(window.localStorage.getItem(key) || '[]');
         purchaseHistory.push({ date: new Date().toISOString(), items: purchasedProducts });
@@ -53205,7 +53205,7 @@ bin/magento setup:static-content:deploy -f && bin/magento cache:flush
 
 **Fonte original:** https://developer.adobe.com/commerce/services/shared-services/storefront-events
 
-**Coletado em (UTC):** 2026-07-17T15:47:08.155026+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:21.608517+00:00
 
 ---
 
@@ -53682,7 +53682,7 @@ These events are also part of the [Live Search](#live-search) collection of even
 
 **Fonte original:** https://developer.adobe.com/commerce/services/shared-services/storefront-events/collector
 
-**Coletado em (UTC):** 2026-07-17T15:54:40.692489+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:33.512240+00:00
 
 ---
 
@@ -53950,7 +53950,7 @@ Cart<br/>Mini cart
 
 **Fonte original:** https://developer.adobe.com/commerce/services/shared-services/storefront-events/collector/verify
 
-**Coletado em (UTC):** 2026-07-17T15:54:39.616091+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:35.334397+00:00
 
 ---
 
@@ -54041,7 +54041,7 @@ disabled
 
 **Fonte original:** https://developer.adobe.com/commerce/services/shared-services/storefront-events/reference/storefront-events
 
-**Coletado em (UTC):** 2026-07-17T15:54:40.126410+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:35.843637+00:00
 
 ---
 
@@ -55549,7 +55549,7 @@ schema
 
 **Fonte original:** https://developer.adobe.com/commerce/services/shared-services/storefront-events/sdk
 
-**Coletado em (UTC):** 2026-07-17T15:54:41.789088+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:34.691889+00:00
 
 ---
 
@@ -55565,7 +55565,7 @@ In this section, you learn how to programatically publish and subscribe to Adobe
 
 **Fonte original:** https://developer.adobe.com/commerce/services/shared-services/storefront-events/sdk/context
 
-**Coletado em (UTC):** 2026-07-17T15:57:35.464216+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:03.797762+00:00
 
 ---
 
@@ -55971,7 +55971,7 @@ mse.context.setContext(ctx);
 
 **Fonte original:** https://developer.adobe.com/commerce/services/shared-services/storefront-events/sdk/install
 
-**Coletado em (UTC):** 2026-07-17T15:57:34.951698+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:02.775389+00:00
 
 ---
 
@@ -56068,7 +56068,7 @@ If you have any questions or encounter any issues, create a GitHub issue in the 
 
 **Fonte original:** https://developer.adobe.com/commerce/services/shared-services/storefront-events/sdk/publish
 
-**Coletado em (UTC):** 2026-07-17T15:59:09.222721+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:33.725418+00:00
 
 ---
 
@@ -56561,7 +56561,7 @@ mse.publish.updateCart(ctx);
 
 **Fonte original:** https://developer.adobe.com/commerce/services/shared-services/storefront-events/sdk/subscribe
 
-**Coletado em (UTC):** 2026-07-17T15:59:10.318919+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:35.066927+00:00
 
 ---
 
@@ -57111,7 +57111,7 @@ mse.subscribe.updateCart(handler, options);
 
 **Fonte original:** https://developer.adobe.com/commerce/services/shared-services/storefront-events/sdk/unsubscribe
 
-**Coletado em (UTC):** 2026-07-17T15:59:09.773069+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:34.548508+00:00
 
 ---
 
@@ -57577,7 +57577,7 @@ mse.unsubscribe.updateCart(handler);
 
 **Fonte original:** https://developer.adobe.com/commerce/testing
 
-**Coletado em (UTC):** 2026-07-17T15:46:56.248743+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:11.405074+00:00
 
 ---
 
@@ -57642,7 +57642,7 @@ GitHub
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/commands/codeception
 
-**Coletado em (UTC):** 2026-07-17T16:00:07.954875+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:34.902625+00:00
 
 ---
 
@@ -57755,7 +57755,7 @@ Options:
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/commands/mftf
 
-**Coletado em (UTC):** 2026-07-17T16:00:07.408634+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:34.381157+00:00
 
 ---
 
@@ -58548,7 +58548,7 @@ You may want to limit the usage of this Codeception command with arguments and o
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/configuration
 
-**Coletado em (UTC):** 2026-07-17T15:59:52.566762+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:20.751388+00:00
 
 ---
 
@@ -59003,7 +59003,7 @@ MAGENTO_ADMIN_WEBAPI_TOKEN_LIFETIME=10800
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/credentials
 
-**Coletado em (UTC):** 2026-07-17T15:59:00.738107+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:29.071831+00:00
 
 ---
 
@@ -59289,7 +59289,7 @@ The test delivered with the Adobe Commerce and Magento Open Source application d
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/data
 
-**Coletado em (UTC):** 2026-07-17T15:59:52.027260+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:19.192221+00:00
 
 ---
 
@@ -59697,7 +59697,7 @@ entity in which to assign a value. By default numeric key will be generated.
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/extending
 
-**Coletado em (UTC):** 2026-07-17T16:00:06.167146+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:32.920214+00:00
 
 ---
 
@@ -60046,7 +60046,7 @@ Entities without "extends":
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/getting-started
 
-**Coletado em (UTC):** 2026-07-17T15:59:53.106286+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:20.236174+00:00
 
 ---
 
@@ -60424,7 +60424,7 @@ allure serve dev/tests/acceptance/tests/_output/allure-results/
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/interactive-pause
 
-**Coletado em (UTC):** 2026-07-17T15:59:50.417401+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:18.012884+00:00
 
 ---
 
@@ -60508,7 +60508,7 @@ The Functional Testing Framework command "--debug" option has different meaning 
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/merging
 
-**Coletado em (UTC):** 2026-07-17T16:00:05.345176+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:32.402063+00:00
 
 ---
 
@@ -61057,7 +61057,7 @@ The _defaultSample results corresponds to:
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/metadata
 
-**Coletado em (UTC):** 2026-07-17T15:59:50.948314+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:19.710822+00:00
 
 ---
 
@@ -61864,7 +61864,7 @@ Example:
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/page
 
-**Coletado em (UTC):** 2026-07-17T16:01:05.803464+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:31.372773+00:00
 
 ---
 
@@ -62089,7 +62089,7 @@ to remove this element during parsing.
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/reporting
 
-**Coletado em (UTC):** 2026-07-17T15:59:12.948016+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:38.741882+00:00
 
 ---
 
@@ -62403,7 +62403,7 @@ Refer to the [Reporting section](https://allurereport.org/docs/) for more Allure
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/section/parameterized-selectors
 
-**Coletado em (UTC):** 2026-07-17T16:00:04.812042+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:31.893062+00:00
 
 ---
 
@@ -62575,7 +62575,7 @@ Any data can be used in parameterized elements, as well as entered in test actio
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/suite
 
-**Coletado em (UTC):** 2026-07-17T16:01:06.340391+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:31.885110+00:00
 
 ---
 
@@ -62893,7 +62893,7 @@ Removing the filter during merging.
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/test-writing/best-practices
 
-**Coletado em (UTC):** 2026-07-17T15:59:11.900737+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:38.227460+00:00
 
 ---
 
@@ -63076,7 +63076,7 @@ For example, when you write a test step to create a gift card product, set your 
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/test-writing/tips-tricks
 
-**Coletado em (UTC):** 2026-07-17T15:59:12.413025+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:39.254306+00:00
 
 ---
 
@@ -63434,7 +63434,7 @@ When working with input type checkbox, do not use the click action; use checkOpt
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/test/action-groups
 
-**Coletado em (UTC):** 2026-07-17T15:59:51.501587+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:18.522041+00:00
 
 ---
 
@@ -63685,7 +63685,7 @@ entity
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/test/actions
 
-**Coletado em (UTC):** 2026-07-17T15:59:00.041857+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:28.402054+00:00
 
 ---
 
@@ -68253,7 +68253,7 @@ of preceding action.
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/test/annotations
 
-**Coletado em (UTC):** 2026-07-17T16:00:06.701974+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:33.431099+00:00
 
 ---
 
@@ -68530,7 +68530,7 @@ required
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication
 
-**Coletado em (UTC):** 2026-07-17T15:57:23.248421+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:54.936841+00:00
 
 ---
 
@@ -68601,7 +68601,7 @@ Note: You will need to set the secret for any non-default admin users first, bef
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi
 
-**Coletado em (UTC):** 2026-07-17T15:46:54.085159+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:09.193430+00:00
 
 ---
 
@@ -68662,7 +68662,7 @@ We encourage you to participate in our open documentation initiative. If you hav
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/get-started/api-security
 
-**Coletado em (UTC):** 2026-07-17T16:01:54.869605+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:20.412972+00:00
 
 ---
 
@@ -68860,7 +68860,7 @@ bin/magento config:set webapi/validation/default_page_size 30
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/get-started/authentication/gs-authentication-oauth
 
-**Coletado em (UTC):** 2026-07-17T15:54:27.292198+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:15.412047+00:00
 
 ---
 
@@ -69371,7 +69371,7 @@ class OauthClient extends AbstractService
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/get-started/authentication/gs-authentication-session
 
-**Coletado em (UTC):** 2026-07-17T15:57:48.408505+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:21.657439+00:00
 
 ---
 
@@ -69440,7 +69440,7 @@ The session based authentication functionality is restricted to Ajax calls. Dire
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/get-started/authentication/gs-authentication-token
 
-**Coletado em (UTC):** 2026-07-17T15:54:26.266406+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:14.392078+00:00
 
 ---
 
@@ -69760,7 +69760,7 @@ For example, to make a web API call with a customer token: curl -X GET "http://<
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/get-started/authentication/oauth-errors
 
-**Coletado em (UTC):** 2026-07-17T15:57:25.897423+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:55.444176+00:00
 
 ---
 
@@ -69854,7 +69854,7 @@ The Consumer Key is invalid.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/get-started/create-integration
 
-**Coletado em (UTC):** 2026-07-17T15:57:25.374540+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:55.953878+00:00
 
 ---
 
@@ -70020,7 +70020,7 @@ The callback page must be able to perform the following tasks:
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/get-started/gs-curl
 
-**Coletado em (UTC):** 2026-07-17T15:57:23.756705+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:53.902284+00:00
 
 ---
 
@@ -70319,7 +70319,7 @@ First off all the cURL client instance is created in __construct. Method getPart
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/get-started/gs-web-api-request
 
-**Coletado em (UTC):** 2026-07-17T15:57:24.836674+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:53.389563+00:00
 
 ---
 
@@ -70620,7 +70620,7 @@ Run the web API call through a [cURL command](/commerce/webapi/get-started/gs-cu
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/get-started/gs-web-api-response
 
-**Coletado em (UTC):** 2026-07-17T15:59:01.275519+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:27.893592+00:00
 
 ---
 
@@ -70732,7 +70732,7 @@ As an example, the application returns a code of 400 and the following message w
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql-api/saas/index.html
 
-**Coletado em (UTC):** 2026-07-17T15:56:12.269773+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:50.861838+00:00
 
 ---
 
@@ -70750,7 +70750,7 @@ data-src=../../../includes/autogenerated/graphql-api-saas-queries.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql
 
-**Coletado em (UTC):** 2026-07-17T15:47:01.038622+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:19.261885+00:00
 
 ---
 
@@ -70845,7 +70845,7 @@ The [Commerce API playground](https://experienceleague.adobe.com/developer/comme
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/payment-methods/braintree-vault
 
-**Coletado em (UTC):** 2026-07-17T15:58:02.421606+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:24.819349+00:00
 
 ---
 
@@ -70945,7 +70945,7 @@ Thanks to Something Digital (now Rightpoint) for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/payment-methods/braintree
 
-**Coletado em (UTC):** 2026-07-17T15:58:01.913050+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:23.185295+00:00
 
 ---
 
@@ -71050,7 +71050,7 @@ Thanks to Something Digital (now Rightpoint) for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/payment-methods/hosted-pro
 
-**Coletado em (UTC):** 2026-07-17T15:58:06.869286+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:26.874363+00:00
 
 ---
 
@@ -71143,7 +71143,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/payment-methods/payflow-express
 
-**Coletado em (UTC):** 2026-07-17T15:58:05.253244+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:27.386561+00:00
 
 ---
 
@@ -71239,7 +71239,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/payment-methods/payflow-link
 
-**Coletado em (UTC):** 2026-07-17T15:58:03.637004+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:26.367418+00:00
 
 ---
 
@@ -71332,7 +71332,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/payment-methods/payflow-pro-vault
 
-**Coletado em (UTC):** 2026-07-17T15:58:05.792766+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:23.702369+00:00
 
 ---
 
@@ -71443,7 +71443,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/payment-methods/payflow-pro
 
-**Coletado em (UTC):** 2026-07-17T15:58:04.184383+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:25.328903+00:00
 
 ---
 
@@ -71587,7 +71587,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/payment-methods/payments-advanced
 
-**Coletado em (UTC):** 2026-07-17T15:58:04.724709+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:27.895771+00:00
 
 ---
 
@@ -71680,7 +71680,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/payment-methods/paypal-express-checkout
 
-**Coletado em (UTC):** 2026-07-17T15:58:02.955496+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:25.839287+00:00
 
 ---
 
@@ -71770,7 +71770,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/payment-services-extension
 
-**Coletado em (UTC):** 2026-07-17T15:56:53.727647+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:50.248409+00:00
 
 ---
 
@@ -71814,7 +71814,7 @@ See [Payment Services vaulted card workflow](/commerce/webapi/graphql/payment-se
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/payment-services-extension/workflows/vaulted-card
 
-**Coletado em (UTC):** 2026-07-17T15:56:26.471741+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:22.937685+00:00
 
 ---
 
@@ -71913,7 +71913,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema
 
-**Coletado em (UTC):** 2026-07-17T15:57:22.708156+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:02.236504+00:00
 
 ---
 
@@ -71929,7 +71929,7 @@ We have reorganized the Adobe Commerce and Magento Open Source GraphQL reference
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/interfaces
 
-**Coletado em (UTC):** 2026-07-17T16:00:08.991559+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:39.731116+00:00
 
 ---
 
@@ -72016,7 +72016,7 @@ data-src=../../../../includes/graphql/examples/customer-s3-download.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/mutations
 
-**Coletado em (UTC):** 2026-07-17T15:47:02.770134+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:17.645899+00:00
 
 ---
 
@@ -72083,7 +72083,7 @@ data-src=../../../../includes/custom-attribute-installation.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/mutations/set-custom-cart-item
 
-**Coletado em (UTC):** 2026-07-17T15:54:29.437594+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:20.563696+00:00
 
 ---
 
@@ -72192,7 +72192,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/mutations/set-custom-cart
 
-**Coletado em (UTC):** 2026-07-17T15:54:28.902692+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:17.513923+00:00
 
 ---
 
@@ -72292,7 +72292,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/mutations/set-custom-company
 
-**Coletado em (UTC):** 2026-07-17T15:54:30.647824+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:21.070597+00:00
 
 ---
 
@@ -72392,7 +72392,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/mutations/set-custom-credit-memo-item
 
-**Coletado em (UTC):** 2026-07-17T15:54:29.944799+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:20.054405+00:00
 
 ---
 
@@ -72491,7 +72491,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/mutations/set-custom-credit-memo
 
-**Coletado em (UTC):** 2026-07-17T15:54:28.370868+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:19.543649+00:00
 
 ---
 
@@ -72590,7 +72590,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/mutations/set-custom-invoice-item
 
-**Coletado em (UTC):** 2026-07-17T15:54:31.155373+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:18.528711+00:00
 
 ---
 
@@ -72689,7 +72689,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/mutations/set-custom-invoice
 
-**Coletado em (UTC):** 2026-07-17T15:54:31.687906+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:19.036717+00:00
 
 ---
 
@@ -72787,7 +72787,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/mutations/set-custom-negotiable-quote
 
-**Coletado em (UTC):** 2026-07-17T15:54:27.836563+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:18.021243+00:00
 
 ---
 
@@ -72887,7 +72887,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/queries/attributes-form
 
-**Coletado em (UTC):** 2026-07-17T15:56:15.920565+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:00.120828+00:00
 
 ---
 
@@ -73064,7 +73064,7 @@ The following query returns the list of attributes metadata associated to the fo
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/queries/attributes-list
 
-**Coletado em (UTC):** 2026-07-17T15:56:31.658253+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:03.871206+00:00
 
 ---
 
@@ -73419,7 +73419,7 @@ The following call returns the list of attributes metadata for a catalog_product
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/queries/attributes-metadata
 
-**Coletado em (UTC):** 2026-07-17T16:00:13.319215+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:44.892164+00:00
 
 ---
 
@@ -73565,7 +73565,7 @@ data-src=../../../../includes/graphql/attribute-metadata.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/queries/custom-attribute-metadata-v2
 
-**Coletado em (UTC):** 2026-07-17T15:59:25.858362+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:58.923920+00:00
 
 ---
 
@@ -73839,7 +73839,7 @@ The swatch options are the possible values of the attribute.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/queries/custom-attribute-metadata
 
-**Coletado em (UTC):** 2026-07-17T15:58:08.446991+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:38.736978+00:00
 
 ---
 
@@ -74127,7 +74127,7 @@ parameters.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/company/mutations/assign-child-company
 
-**Coletado em (UTC):** 2026-07-17T15:56:40.130061+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:15.301835+00:00
 
 ---
 
@@ -74216,7 +74216,7 @@ mutation assignChildCompany($parentId: ID!, $childId: ID!) {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/company/mutations/unassign-child-company
 
-**Coletado em (UTC):** 2026-07-17T15:56:40.670277+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:17.334637+00:00
 
 ---
 
@@ -74301,7 +74301,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/company/queries/company
 
-**Coletado em (UTC):** 2026-07-17T15:59:21.150559+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:50.904883+00:00
 
 ---
 
@@ -74694,7 +74694,7 @@ query{
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/company/queries/is-company-admin-email-available
 
-**Coletado em (UTC):** 2026-07-17T15:59:17.455523+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:42.307611+00:00
 
 ---
 
@@ -74758,7 +74758,7 @@ query{
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/company/queries/is-company-email-available
 
-**Coletado em (UTC):** 2026-07-17T15:57:52.131751+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:20.098488+00:00
 
 ---
 
@@ -74822,7 +74822,7 @@ query{
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/company/queries/is-company-user-email-available
 
-**Coletado em (UTC):** 2026-07-17T15:59:17.986015+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:42.814940+00:00
 
 ---
 
@@ -74886,7 +74886,7 @@ query{
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/negotiable-quote/mutations/place-order-v2
 
-**Coletado em (UTC):** 2026-07-17T15:56:42.834286+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:15.809348+00:00
 
 ---
 
@@ -75043,7 +75043,7 @@ The error message does not match any error code
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/negotiable-quote/mutations/place-order
 
-**Coletado em (UTC):** 2026-07-17T15:56:28.581035+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:04.888415+00:00
 
 ---
 
@@ -75145,7 +75145,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/negotiable-quote/mutations/request
 
-**Coletado em (UTC):** 2026-07-17T15:57:57.025228+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:34.590855+00:00
 
 ---
 
@@ -75432,7 +75432,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/negotiable-quote/mutations/set-billing-address
 
-**Coletado em (UTC):** 2026-07-17T15:57:58.574690+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:34.083390+00:00
 
 ---
 
@@ -75549,7 +75549,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/negotiable-quote/mutations/set-payment-method
 
-**Coletado em (UTC):** 2026-07-17T15:57:59.595581+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:35.606398+00:00
 
 ---
 
@@ -75679,7 +75679,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/negotiable-quote/mutations/set-quote-template-expiration-date
 
-**Coletado em (UTC):** 2026-07-17T15:56:11.568596+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:18.858747+00:00
 
 ---
 
@@ -75761,7 +75761,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/negotiable-quote/mutations/set-shipping-address
 
-**Coletado em (UTC):** 2026-07-17T15:57:57.535590+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:35.098626+00:00
 
 ---
 
@@ -75869,7 +75869,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/negotiable-quote/mutations/set-shipping-methods
 
-**Coletado em (UTC):** 2026-07-17T15:57:59.083779+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:33.574302+00:00
 
 ---
 
@@ -75999,7 +75999,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/negotiable-quote/queries/quote
 
-**Coletado em (UTC):** 2026-07-17T15:56:33.210833+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:52.483839+00:00
 
 ---
 
@@ -76579,7 +76579,7 @@ query{
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/negotiable-quote/queries/quotes
 
-**Coletado em (UTC):** 2026-07-17T15:58:07.402446+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:28.422342+00:00
 
 ---
 
@@ -76757,7 +76757,7 @@ The following example returns detailed information about all negotiable quotes t
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/negotiable-quote/queries/templates
 
-**Coletado em (UTC):** 2026-07-17T15:56:41.209577+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:16.319572+00:00
 
 ---
 
@@ -76888,7 +76888,7 @@ query {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/purchase-order-rule
 
-**Coletado em (UTC):** 2026-07-17T15:57:51.568683+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:19.522065+00:00
 
 ---
 
@@ -77205,7 +77205,7 @@ The following example returns the metadata necessary to render the form for [cre
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/purchase-order
 
-**Coletado em (UTC):** 2026-07-17T15:57:49.986752+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:20.608987+00:00
 
 ---
 
@@ -77469,7 +77469,7 @@ The following example returns true if the customer has the purchase order functi
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/requisition-list/mutations/import-shared-requisition-list
 
-**Coletado em (UTC):** 2026-07-17T15:56:42.305243+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:16.826977+00:00
 
 ---
 
@@ -77591,7 +77591,7 @@ mutation ImportSharedRequisitionList {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/requisition-list/mutations/share-requisition-list-by-email
 
-**Coletado em (UTC):** 2026-07-17T15:56:39.598415+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:18.350659+00:00
 
 ---
 
@@ -77669,7 +77669,7 @@ mutation ShareRequisitionListByEmail {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/requisition-list/mutations/share-requisition-list-by-token
 
-**Coletado em (UTC):** 2026-07-17T15:56:43.367373+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:14.794500+00:00
 
 ---
 
@@ -77740,7 +77740,7 @@ mutation ShareRequisitionListByToken {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/requisition-list/queries/shared-requisition-list
 
-**Coletado em (UTC):** 2026-07-17T15:56:41.738098+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:17.842327+00:00
 
 ---
 
@@ -77859,7 +77859,7 @@ query SharedRequisitionList {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/add-bundle-products
 
-**Coletado em (UTC):** 2026-07-17T16:00:16.391813+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:44.382268+00:00
 
 ---
 
@@ -78121,7 +78121,7 @@ Thanks to Atwix for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/add-configurable-products
 
-**Coletado em (UTC):** 2026-07-17T16:00:15.884004+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:41.834816+00:00
 
 ---
 
@@ -78298,7 +78298,7 @@ is not available.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/add-downloadable-products
 
-**Coletado em (UTC):** 2026-07-17T16:01:09.505499+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:34.017250+00:00
 
 ---
 
@@ -78597,7 +78597,7 @@ Thanks to Atwix for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/add-products
 
-**Coletado em (UTC):** 2026-07-17T15:56:22.852861+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:13.721080+00:00
 
 ---
 
@@ -79276,7 +79276,7 @@ Thanks to Atwix for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/add-simple-products
 
-**Coletado em (UTC):** 2026-07-17T16:00:13.849851+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:42.856390+00:00
 
 ---
 
@@ -79590,7 +79590,7 @@ A simple product has customizable options that were not specified in the mutatio
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/add-virtual-products
 
-**Coletado em (UTC):** 2026-07-17T16:00:14.867599+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:43.367743+00:00
 
 ---
 
@@ -79743,7 +79743,7 @@ A virtual product has customizable options that were not specified in the mutati
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/apply-coupon
 
-**Coletado em (UTC):** 2026-07-17T15:56:20.261264+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:13.213152+00:00
 
 ---
 
@@ -79890,7 +79890,7 @@ An unauthorized user (guest) tried to add the product into a customer's cart, or
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/apply-giftcard
 
-**Coletado em (UTC):** 2026-07-17T15:56:19.562545+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:11.180376+00:00
 
 ---
 
@@ -80011,7 +80011,7 @@ is empty.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/assign-customer-to-guest-cart
 
-**Coletado em (UTC):** 2026-07-17T15:57:54.787403+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:39.758839+00:00
 
 ---
 
@@ -80162,7 +80162,7 @@ Thanks to Atwix for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/create-empty-cart
 
-**Coletado em (UTC):** 2026-07-17T15:57:58.067479+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:36.114932+00:00
 
 ---
 
@@ -80272,7 +80272,7 @@ The cart ID is not the required length.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/create-guest-cart
 
-**Coletado em (UTC):** 2026-07-17T15:59:21.660105+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:51.413331+00:00
 
 ---
 
@@ -80380,7 +80380,7 @@ A logged in customer is trying to create a guest customer cart.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/estimate-shipping-methods
 
-**Coletado em (UTC):** 2026-07-17T15:56:21.277133+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:54.519602+00:00
 
 ---
 
@@ -80493,7 +80493,7 @@ The response contains the estimated shipping, cost based on selected location an
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/estimate-totals
 
-**Coletado em (UTC):** 2026-07-17T15:56:19.031495+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:12.706473+00:00
 
 ---
 
@@ -80592,7 +80592,7 @@ The response contains the calculated total cost based on the selected location a
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/merge
 
-**Coletado em (UTC):** 2026-07-17T15:56:20.768662+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:14.234268+00:00
 
 ---
 
@@ -80801,7 +80801,7 @@ The system could not create an empty cart for the logged-in customer
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/place-order
 
-**Coletado em (UTC):** 2026-07-17T15:57:56.515916+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:33.064651+00:00
 
 ---
 
@@ -80945,7 +80945,7 @@ The error message does not match any error code
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/redeem-giftcard-balance
 
-**Coletado em (UTC):** 2026-07-17T16:00:17.411155+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:42.346036+00:00
 
 ---
 
@@ -81050,7 +81050,7 @@ argument is empty.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/remove-coupon
 
-**Coletado em (UTC):** 2026-07-17T15:57:54.278564+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:39.246067+00:00
 
 ---
 
@@ -81187,7 +81187,7 @@ does not exist in specified store.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/remove-giftcard
 
-**Coletado em (UTC):** 2026-07-17T15:56:23.363889+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:10.672418+00:00
 
 ---
 
@@ -81268,7 +81268,7 @@ field is invalid or the gift card with that specific ID does not exist in the ca
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/set-billing-address
 
-**Coletado em (UTC):** 2026-07-17T15:56:34.233104+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:52.992211+00:00
 
 ---
 
@@ -81440,7 +81440,7 @@ The billing address could not be validated. One or more required fields may be m
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/set-gift-options
 
-**Coletado em (UTC):** 2026-07-17T15:56:21.811043+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:12.196898+00:00
 
 ---
 
@@ -81686,7 +81686,7 @@ is missing.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/set-guest-email
 
-**Coletado em (UTC):** 2026-07-17T15:56:35.961031+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:55.029336+00:00
 
 ---
 
@@ -81775,7 +81775,7 @@ mutation.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/set-payment-method
 
-**Coletado em (UTC):** 2026-07-17T15:56:31.147195+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:51.464256+00:00
 
 ---
 
@@ -81985,7 +81985,7 @@ shows the order placement sequence.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/set-shipping-address
 
-**Coletado em (UTC):** 2026-07-17T15:56:34.742103+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:54.011271+00:00
 
 ---
 
@@ -82170,7 +82170,7 @@ An unauthorized user (guest) tried to set a delivery method for an order on beha
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/set-shipping-method
 
-**Coletado em (UTC):** 2026-07-17T15:56:35.427889+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:53.501363+00:00
 
 ---
 
@@ -82341,7 +82341,7 @@ You can set only one delivery method for an order.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/update-items
 
-**Coletado em (UTC):** 2026-07-17T15:56:22.320075+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:11.688148+00:00
 
 ---
 
@@ -82507,7 +82507,7 @@ An unauthorized user (guest) tried to update a customer's cart, or an authorized
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/queries/cart
 
-**Coletado em (UTC):** 2026-07-17T16:01:35.494594+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:02.057568+00:00
 
 ---
 
@@ -83372,7 +83372,7 @@ argument is empty.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/catalog-service
 
-**Coletado em (UTC):** 2026-07-17T15:54:22.566049+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:31.220268+00:00
 
 ---
 
@@ -83392,7 +83392,7 @@ The [Catalog Service Guide](https://experienceleague.adobe.com/en/docs/commerce/
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/catalog-service/queries/categories
 
-**Coletado em (UTC):** 2026-07-17T15:54:23.100486+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:30.142350+00:00
 
 ---
 
@@ -83668,7 +83668,7 @@ data-src=../../../../includes/graphql/catalog-service/categories.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/catalog-service/queries/products
 
-**Coletado em (UTC):** 2026-07-17T15:54:22.010567+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:29.059981+00:00
 
 ---
 
@@ -85059,7 +85059,7 @@ URL key of the product.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/catalog-service/queries/refine-product
 
-**Coletado em (UTC):** 2026-07-17T15:56:45.901914+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:10.141946+00:00
 
 ---
 
@@ -85896,7 +85896,7 @@ URL key of the product.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/checkout/mutations/create-braintree-client-token
 
-**Coletado em (UTC):** 2026-07-17T15:59:22.170399+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:45.356726+00:00
 
 ---
 
@@ -85964,7 +85964,7 @@ Thanks to Something Digital (now Rightpoint) for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/checkout/mutations/create-payflow-pro-token
 
-**Coletado em (UTC):** 2026-07-17T15:59:23.745732+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:48.116089+00:00
 
 ---
 
@@ -86078,7 +86078,7 @@ attribute.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/checkout/mutations/create-paypal-express-token
 
-**Coletado em (UTC):** 2026-07-17T15:59:22.680046+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:48.627656+00:00
 
 ---
 
@@ -86193,7 +86193,7 @@ is missing.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/checkout/mutations/delete-payment-token
 
-**Coletado em (UTC):** 2026-07-17T15:56:49.033816+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:24.466665+00:00
 
 ---
 
@@ -86301,7 +86301,7 @@ table.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/checkout/mutations/handle-payflow-pro-response
 
-**Coletado em (UTC):** 2026-07-17T15:59:23.213170+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:47.606740+00:00
 
 ---
 
@@ -86383,7 +86383,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/checkout/queries/customer-payment-tokens
 
-**Coletado em (UTC):** 2026-07-17T15:56:48.019005+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:25.209704+00:00
 
 ---
 
@@ -86477,7 +86477,7 @@ table.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/change-password
 
-**Coletado em (UTC):** 2026-07-17T15:56:50.581465+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:23.447996+00:00
 
 ---
 
@@ -86565,7 +86565,7 @@ The customer's password cannot be changed because the account is locked.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/confirm-email
 
-**Coletado em (UTC):** 2026-07-17T15:56:16.453311+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:56.047841+00:00
 
 ---
 
@@ -86642,7 +86642,7 @@ The provided email belongs to an account which is already active.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/create-address
 
-**Coletado em (UTC):** 2026-07-17T15:56:13.861560+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:59.611087+00:00
 
 ---
 
@@ -86943,7 +86943,7 @@ table.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/create-v2
 
-**Coletado em (UTC):** 2026-07-17T15:56:18.007423+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:56.555471+00:00
 
 ---
 
@@ -87236,7 +87236,7 @@ argument was omitted or contains an empty value.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/create
 
-**Coletado em (UTC):** 2026-07-17T15:56:18.521017+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:59.102205+00:00
 
 ---
 
@@ -87365,7 +87365,7 @@ argument was omitted or contains an empty value.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/delete-address-v2
 
-**Coletado em (UTC):** 2026-07-17T15:56:38.028558+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:21.402649+00:00
 
 ---
 
@@ -87490,7 +87490,7 @@ table.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/delete-address
 
-**Coletado em (UTC):** 2026-07-17T15:56:51.095526+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:27.245060+00:00
 
 ---
 
@@ -87610,7 +87610,7 @@ table.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/exchange-external-customer-token
 
-**Coletado em (UTC):** 2026-07-17T15:56:36.475619+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:19.867933+00:00
 
 ---
 
@@ -87737,7 +87737,7 @@ The user does not have required permission to use the mutation.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/exchange-otp-customer-token
 
-**Coletado em (UTC):** 2026-07-17T15:56:52.684176+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:07.943658+00:00
 
 ---
 
@@ -87800,7 +87800,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/generate-token-as-admin
 
-**Coletado em (UTC):** 2026-07-17T15:59:32.042842+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:52.432022+00:00
 
 ---
 
@@ -87874,7 +87874,7 @@ Thanks to EY for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/generate-token
 
-**Coletado em (UTC):** 2026-07-17T15:56:17.476056+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:57.067692+00:00
 
 ---
 
@@ -87995,7 +87995,7 @@ Authentication error. The email account is not confirmed.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/request-password-reset-email
 
-**Coletado em (UTC):** 2026-07-17T15:56:12.841830+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:58.084302+00:00
 
 ---
 
@@ -88093,7 +88093,7 @@ Thanks to Atwix for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/resend-confirmation-email
 
-**Coletado em (UTC):** 2026-07-17T15:56:14.880370+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:57.575770+00:00
 
 ---
 
@@ -88162,7 +88162,7 @@ is already confirmed.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/reset-password
 
-**Coletado em (UTC):** 2026-07-17T15:56:13.352626+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:00.631865+00:00
 
 ---
 
@@ -88270,7 +88270,7 @@ Thanks to Atwix for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/revoke-token
 
-**Coletado em (UTC):** 2026-07-17T15:56:15.413681+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:55.539230+00:00
 
 ---
 
@@ -88344,7 +88344,7 @@ table.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/update-address-v2
 
-**Coletado em (UTC):** 2026-07-17T15:56:36.983361+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:20.376324+00:00
 
 ---
 
@@ -88551,7 +88551,7 @@ table.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/update-address
 
-**Coletado em (UTC):** 2026-07-17T15:56:47.504997+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:26.227233+00:00
 
 ---
 
@@ -88747,7 +88747,7 @@ table.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/update-email
 
-**Coletado em (UTC):** 2026-07-17T15:56:50.050727+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:25.718244+00:00
 
 ---
 
@@ -88811,7 +88811,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/update-v2
 
-**Coletado em (UTC):** 2026-07-17T15:56:48.526103+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:23.957652+00:00
 
 ---
 
@@ -88974,7 +88974,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/update
 
-**Coletado em (UTC):** 2026-07-17T15:57:48.922163+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:29.498493+00:00
 
 ---
 
@@ -89088,7 +89088,7 @@ table.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/queries/customer-group
 
-**Coletado em (UTC):** 2026-07-17T15:56:38.557863+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:22.422461+00:00
 
 ---
 
@@ -89147,7 +89147,7 @@ The following call returns encoded ID of customer group for logged-in customer o
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/queries/customer-segments
 
-**Coletado em (UTC):** 2026-07-17T15:56:37.498166+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:20.890365+00:00
 
 ---
 
@@ -89208,7 +89208,7 @@ The following call returns encoded ID of customer group for logged-in customer o
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/queries/customer
 
-**Coletado em (UTC):** 2026-07-17T15:56:16.963992+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:48.093872+00:00
 
 ---
 
@@ -90272,7 +90272,7 @@ data-src=../../../../includes/graphql/examples/customer-s3-download.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/queries/downloadable-products
 
-**Coletado em (UTC):** 2026-07-17T16:00:14.358781+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:41.312361+00:00
 
 ---
 
@@ -90356,7 +90356,7 @@ table.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/queries/is-email-available
 
-**Coletado em (UTC):** 2026-07-17T15:56:33.721416+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:51.975443+00:00
 
 ---
 
@@ -90427,7 +90427,7 @@ argument is empty.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/live-search
 
-**Coletado em (UTC):** 2026-07-17T15:54:23.612246+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:32.379897+00:00
 
 ---
 
@@ -90471,7 +90471,7 @@ invalid_argument_exception
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/live-search/queries/attribute-metadata
 
-**Coletado em (UTC):** 2026-07-17T15:58:59.533536+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:33.216316+00:00
 
 ---
 
@@ -90671,7 +90671,7 @@ Indicates whether this attribute has a numeric value, such as a price or integer
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/live-search/queries/product-search
 
-**Coletado em (UTC):** 2026-07-17T15:57:22.155597+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:01.683274+00:00
 
 ---
 
@@ -92477,7 +92477,7 @@ URL key of the product.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/interfaces/credit-memo-item
 
-**Coletado em (UTC):** 2026-07-17T15:57:52.664654+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:18.506559+00:00
 
 ---
 
@@ -92601,7 +92601,7 @@ The following query returns items that were refunded in order ID 000000005. The 
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/interfaces/invoice-item
 
-**Coletado em (UTC):** 2026-07-17T15:57:53.172010+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:21.148029+00:00
 
 ---
 
@@ -92800,7 +92800,7 @@ The following query returns invoice details about order ID 000000005. The Bundle
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/interfaces/order-item
 
-**Coletado em (UTC):** 2026-07-17T15:57:51.058855+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:19.013993+00:00
 
 ---
 
@@ -93011,7 +93011,7 @@ The following query returns details about order ID 000000005. The BundleOrderIte
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/interfaces/shipment-item
 
-**Coletado em (UTC):** 2026-07-17T15:57:50.528881+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:22.168292+00:00
 
 ---
 
@@ -93187,7 +93187,7 @@ The following query returns shipping details about order ID 000000005. The Bundl
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/mutations/add-return-comment
 
-**Coletado em (UTC):** 2026-07-17T15:58:00.668141+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:31.534834+00:00
 
 ---
 
@@ -93286,7 +93286,7 @@ mutation{
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/mutations/add-return-tracking
 
-**Coletado em (UTC):** 2026-07-17T15:58:01.382379+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:32.552086+00:00
 
 ---
 
@@ -93367,7 +93367,7 @@ mutation{
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/mutations/cancel-order
 
-**Coletado em (UTC):** 2026-07-17T15:56:32.702986+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:05.396967+00:00
 
 ---
 
@@ -93448,7 +93448,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/mutations/confirm-cancel-order
 
-**Coletado em (UTC):** 2026-07-17T15:56:27.503683+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:06.412617+00:00
 
 ---
 
@@ -93531,7 +93531,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/mutations/confirm-return
 
-**Coletado em (UTC):** 2026-07-17T15:56:29.598310+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:02.856201+00:00
 
 ---
 
@@ -93687,7 +93687,7 @@ The total number of return requests
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/mutations/remove-return-tracking
 
-**Coletado em (UTC):** 2026-07-17T15:58:00.131384+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:32.043019+00:00
 
 ---
 
@@ -93787,7 +93787,7 @@ mutation{
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/mutations/reorder-items
 
-**Coletado em (UTC):** 2026-07-17T15:56:28.047538+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:07.433413+00:00
 
 ---
 
@@ -93961,7 +93961,7 @@ mutation{
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/mutations/request-guest-order-cancel
 
-**Coletado em (UTC):** 2026-07-17T15:56:30.636804+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:02.348662+00:00
 
 ---
 
@@ -94042,7 +94042,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/mutations/request-guest-return
 
-**Coletado em (UTC):** 2026-07-17T15:56:32.167307+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:06.920038+00:00
 
 ---
 
@@ -94216,7 +94216,7 @@ The total number of return requests
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/mutations/request-return
 
-**Coletado em (UTC):** 2026-07-17T15:56:29.089298+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:04.379645+00:00
 
 ---
 
@@ -94395,7 +94395,7 @@ The total number of return requests
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/queries/guest-order-by-token
 
-**Coletado em (UTC):** 2026-07-17T15:56:26.994323+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:03.364163+00:00
 
 ---
 
@@ -94472,7 +94472,7 @@ The guestOrderByToken reference provides detailed information about the types an
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/queries/guest-order
 
-**Coletado em (UTC):** 2026-07-17T15:56:30.127034+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:05.905235+00:00
 
 ---
 
@@ -94551,7 +94551,7 @@ The guestOrder reference provides detailed information about the types and field
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/product-recommendations
 
-**Coletado em (UTC):** 2026-07-17T15:54:19.961493+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:29.591691+00:00
 
 ---
 
@@ -94571,7 +94571,7 @@ Read more in the [Introduction to Product Recommendations](https://experiencelea
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces
 
-**Coletado em (UTC):** 2026-07-17T15:58:08.958321+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:38.165049+00:00
 
 ---
 
@@ -94622,7 +94622,7 @@ The custom_attributesV2 attribute is defined in ProductInterface. In this exampl
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/attribute-metadata
 
-**Coletado em (UTC):** 2026-07-17T15:59:29.982885+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:55.687446+00:00
 
 ---
 
@@ -94653,7 +94653,7 @@ data-src=../../../../includes/graphql/attribute-metadata.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/attributes
 
-**Coletado em (UTC):** 2026-07-17T16:00:15.376650+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:40.804874+00:00
 
 ---
 
@@ -94673,7 +94673,7 @@ Any type that implements [ProductInterface](/commerce/webapi/reference/graphql/l
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/customizable-option
 
-**Coletado em (UTC):** 2026-07-17T15:59:28.962550+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:57.401306+00:00
 
 ---
 
@@ -94839,7 +94839,7 @@ The following query returns information about the customizable options configure
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/pwa-implementations
 
-**Coletado em (UTC):** 2026-07-17T15:59:28.451369+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:53.603501+00:00
 
 ---
 
@@ -95239,7 +95239,7 @@ UiInputTypeInterface
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/routable
 
-**Coletado em (UTC):** 2026-07-17T16:01:28.762436+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:53.489423+00:00
 
 ---
 
@@ -95466,7 +95466,7 @@ In the following example, an internal URL support.html is configured to redirect
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/types
 
-**Coletado em (UTC):** 2026-07-17T16:01:08.955851+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:33.467862+00:00
 
 ---
 
@@ -95636,7 +95636,7 @@ For example, to return GroupedProduct attributes, construct your query like this
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/types/bundle
 
-**Coletado em (UTC):** 2026-07-17T15:59:30.489498+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:58.416884+00:00
 
 ---
 
@@ -95906,7 +95906,7 @@ The following query returns information about bundle product 24-WG080, which is 
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/types/configurable
 
-**Coletado em (UTC):** 2026-07-17T15:59:29.471772+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:54.624561+00:00
 
 ---
 
@@ -97110,7 +97110,7 @@ The following query returns the color and text swatches assigned to configurable
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/types/downloadable
 
-**Coletado em (UTC):** 2026-07-17T15:59:26.880630+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:54.114378+00:00
 
 ---
 
@@ -97238,7 +97238,7 @@ The following query returns information about downloadable product 240-LV04, whi
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/types/gift-card
 
-**Coletado em (UTC):** 2026-07-17T15:59:31.023734+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:55.179596+00:00
 
 ---
 
@@ -97343,7 +97343,7 @@ The following query returns information about gift card product GiftCard25. (It 
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/types/grouped
 
-**Coletado em (UTC):** 2026-07-17T15:59:27.389345+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:56.704690+00:00
 
 ---
 
@@ -97440,7 +97440,7 @@ The following query returns information about downloadable product 24-WG085_Grou
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/types/simple
 
-**Coletado em (UTC):** 2026-07-17T15:59:26.369821+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:56.194947+00:00
 
 ---
 
@@ -97564,7 +97564,7 @@ Thanks to Atwix for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/types/virtual
 
-**Coletado em (UTC):** 2026-07-17T15:59:27.920747+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:57.909074+00:00
 
 ---
 
@@ -97682,7 +97682,7 @@ Thanks to Atwix for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/queries/categories
 
-**Coletado em (UTC):** 2026-07-17T16:01:50.697413+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:16.572053+00:00
 
 ---
 
@@ -97878,7 +97878,7 @@ The following query returns the top-level categories (as well as two levels of c
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/queries/category-list
 
-**Coletado em (UTC):** 2026-07-17T16:01:41.656630+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:07.164083+00:00
 
 ---
 
@@ -98204,7 +98204,7 @@ The following query returns breadcrumb information about categories that have th
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/queries/products
 
-**Coletado em (UTC):** 2026-07-17T15:56:46.477597+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:09.623459+00:00
 
 ---
 
@@ -100274,7 +100274,7 @@ The following query returns information about each variant of the configurable p
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/queries/route
 
-**Coletado em (UTC):** 2026-07-17T16:01:41.149065+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:06.657510+00:00
 
 ---
 
@@ -100395,7 +100395,7 @@ The following query returns information about the product with the URL key of jo
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/store/queries/cms-blocks
 
-**Coletado em (UTC):** 2026-07-17T16:01:51.714841+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:16.064404+00:00
 
 ---
 
@@ -100483,7 +100483,7 @@ array parameter is required for identifying the CMS blocks.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/store/queries/cms-page
 
-**Coletado em (UTC):** 2026-07-17T16:01:42.165226+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:06.147706+00:00
 
 ---
 
@@ -100580,7 +100580,7 @@ parameter is required for identifying the CMS page.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/store/queries/countries
 
-**Coletado em (UTC):** 2026-07-17T15:56:49.542923+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:27.755292+00:00
 
 ---
 
@@ -100736,7 +100736,7 @@ In this example, the response is intentionally truncated. The available_regions 
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/store/queries/country
 
-**Coletado em (UTC):** 2026-07-17T15:56:46.997545+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:26.737307+00:00
 
 ---
 
@@ -100860,7 +100860,7 @@ There is no country mapped to the given country ID.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/store/queries/currency
 
-**Coletado em (UTC):** 2026-07-17T15:58:09.495522+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:40.277313+00:00
 
 ---
 
@@ -100943,7 +100943,7 @@ query {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/store/queries/recaptcha-form-config
 
-**Coletado em (UTC):** 2026-07-17T15:56:25.663255+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:01.143223+00:00
 
 ---
 
@@ -101033,7 +101033,7 @@ Otherwise, the configurations object contains a null response:
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/store/queries/recaptcha-form-configs
 
-**Coletado em (UTC):** 2026-07-17T15:57:55.841420+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:30.518453+00:00
 
 ---
 
@@ -101121,7 +101121,7 @@ query {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/store/queries/recaptcha-v3-config
 
-**Coletado em (UTC):** 2026-07-17T15:57:55.300799+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:31.027188+00:00
 
 ---
 
@@ -101189,7 +101189,7 @@ query {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/store/queries/store-config
 
-**Coletado em (UTC):** 2026-07-17T15:56:14.370841+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:58.593223+00:00
 
 ---
 
@@ -101522,7 +101522,7 @@ The following query returns the store's order cancellation settings, indicating 
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/uploads
 
-**Coletado em (UTC):** 2026-07-17T15:59:14.751119+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:49.685951+00:00
 
 ---
 
@@ -101591,7 +101591,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/uploads/mutations/finish-upload
 
-**Coletado em (UTC):** 2026-07-17T15:59:14.216285+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:50.236601+00:00
 
 ---
 
@@ -101703,7 +101703,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/uploads/mutations/initiate-upload
 
-**Coletado em (UTC):** 2026-07-17T15:57:49.455657+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:30.008361+00:00
 
 ---
 
@@ -101827,7 +101827,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/wishlist/mutations/add-products
 
-**Coletado em (UTC):** 2026-07-17T15:56:45.234067+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:49.621702+00:00
 
 ---
 
@@ -102123,7 +102123,7 @@ field is invalid or does not exist for the customer.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/wishlist/mutations/clear
 
-**Coletado em (UTC):** 2026-07-17T15:56:39.069191+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:21.912733+00:00
 
 ---
 
@@ -102217,7 +102217,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/wishlist/mutations/remove-products
 
-**Coletado em (UTC):** 2026-07-17T15:56:44.720791+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:49.114059+00:00
 
 ---
 
@@ -102382,7 +102382,7 @@ field is invalid or does not exist for the customer.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/wishlist/mutations/update-products
 
-**Coletado em (UTC):** 2026-07-17T15:56:44.184879+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:48.605843+00:00
 
 ---
 
@@ -102703,7 +102703,7 @@ field is invalid or does not exist for the customer.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/tutorials/checkout
 
-**Coletado em (UTC):** 2026-07-17T15:58:06.324149+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:24.254217+00:00
 
 ---
 
@@ -102755,7 +102755,7 @@ Thanks to Atwix for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/tutorials/checkout/add-product-to-cart
 
-**Coletado em (UTC):** 2026-07-17T16:00:12.788881+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:38.702394+00:00
 
 ---
 
@@ -102945,7 +102945,7 @@ Thanks to Atwix for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/tutorials/checkout/apply-coupon
 
-**Coletado em (UTC):** 2026-07-17T15:59:24.811229+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:47.096669+00:00
 
 ---
 
@@ -103084,7 +103084,7 @@ Thanks to Atwix for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/usage
 
-**Coletado em (UTC):** 2026-07-17T16:01:49.090144+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:14.495672+00:00
 
 ---
 
@@ -103374,7 +103374,7 @@ Commerce stores timestamps as UTC (Coordinated Universal time) values and return
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/usage/authorization-tokens
 
-**Coletado em (UTC):** 2026-07-17T15:58:10.174371+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:36.623362+00:00
 
 ---
 
@@ -103493,7 +103493,7 @@ Thanks to Atwix for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/usage/caching
 
-**Coletado em (UTC):** 2026-07-17T15:58:10.711051+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:37.134931+00:00
 
 ---
 
@@ -103689,7 +103689,7 @@ The application invalidates the cache when any of the following events occur:
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/usage/custom-filters
 
-**Coletado em (UTC):** 2026-07-17T15:58:07.937752+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:37.647371+00:00
 
 ---
 
@@ -103844,7 +103844,7 @@ This example adds field_to_sort and other_field_to_sort attributes to the additi
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/usage/headers
 
-**Coletado em (UTC):** 2026-07-17T15:56:51.631656+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:08.453624+00:00
 
 ---
 
@@ -103975,7 +103975,7 @@ curl 'http://magento.config/graphql' -H 'Authorization: Bearer hoyz7k697ubv5hcpq
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/usage/security-configuration
 
-**Coletado em (UTC):** 2026-07-17T16:01:51.206243+00:00
+**Coletado em (UTC):** 2026-07-22T14:34:17.080618+00:00
 
 ---
 
@@ -104118,7 +104118,7 @@ If the depth of the query exceeds the value queryDepth, the system returns an er
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/usage/staging-queries
 
-**Coletado em (UTC):** 2026-07-17T15:59:31.533514+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:51.921938+00:00
 
 ---
 
@@ -104440,7 +104440,7 @@ Preview-Version: 1576389600
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/2-4-8
 
-**Coletado em (UTC):** 2026-07-17T15:54:24.149742+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:30.652861+00:00
 
 ---
 
@@ -104458,7 +104458,7 @@ data-src=../../../includes/autogenerated/graphql-api-2-4-8-queries.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/latest/mutations
 
-**Coletado em (UTC):** 2026-07-17T15:57:47.878165+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:22.679359+00:00
 
 ---
 
@@ -104476,7 +104476,7 @@ data-src=../../../includes/autogenerated/graphql-api-2-4-9-mutations.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/latest/types-a-b
 
-**Coletado em (UTC):** 2026-07-17T16:00:16.905609+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:43.875839+00:00
 
 ---
 
@@ -104494,7 +104494,7 @@ data-src=../../../includes/autogenerated/graphql-api-2-4-9-types-a-b.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/latest/types-c-e
 
-**Coletado em (UTC):** 2026-07-17T15:59:18.515244+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:40.272284+00:00
 
 ---
 
@@ -104512,7 +104512,7 @@ data-src=../../../includes/autogenerated/graphql-api-2-4-9-types-c-e.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/latest/types-f-i
 
-**Coletado em (UTC):** 2026-07-17T15:59:19.530567+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:43.830746+00:00
 
 ---
 
@@ -104530,7 +104530,7 @@ data-src=../../../includes/autogenerated/graphql-api-2-4-9-types-f-i.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/latest/types-k-p
 
-**Coletado em (UTC):** 2026-07-17T15:59:16.922054+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:41.801146+00:00
 
 ---
 
@@ -104548,7 +104548,7 @@ data-src=../../../includes/autogenerated/graphql-api-2-4-9-types-k-p.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/latest/types-q-s
 
-**Coletado em (UTC):** 2026-07-17T15:59:15.886347+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:44.337890+00:00
 
 ---
 
@@ -104566,7 +104566,7 @@ data-src=../../../includes/autogenerated/graphql-api-2-4-9-types-q-s.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/saas
 
-**Coletado em (UTC):** 2026-07-17T15:54:20.546002+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:31.838640+00:00
 
 ---
 
@@ -104584,7 +104584,7 @@ data-src=../../../includes/autogenerated/graphql-api-saas-queries.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/saas/mutations
 
-**Coletado em (UTC):** 2026-07-17T15:57:26.406444+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:56.467647+00:00
 
 ---
 
@@ -104602,7 +104602,7 @@ data-src=../../../includes/autogenerated/graphql-api-saas-mutations.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/saas/types-a-b
 
-**Coletado em (UTC):** 2026-07-17T16:01:06.855151+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:35.037754+00:00
 
 ---
 
@@ -104620,7 +104620,7 @@ data-src=../../../includes/autogenerated/graphql-api-saas-types-a-b.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/saas/types-c-e
 
-**Coletado em (UTC):** 2026-07-17T15:59:19.023128+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:40.778307+00:00
 
 ---
 
@@ -104638,7 +104638,7 @@ data-src=../../../includes/autogenerated/graphql-api-saas-types-c-e.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/saas/types-f-i
 
-**Coletado em (UTC):** 2026-07-17T15:59:20.065180+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:43.324408+00:00
 
 ---
 
@@ -104656,7 +104656,7 @@ data-src=../../../includes/autogenerated/graphql-api-saas-types-f-i.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/saas/types-k-p
 
-**Coletado em (UTC):** 2026-07-17T15:59:16.414711+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:41.294976+00:00
 
 ---
 
@@ -104674,7 +104674,7 @@ data-src=../../../includes/autogenerated/graphql-api-saas-types-k-p.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/saas/types-q-s
 
-**Coletado em (UTC):** 2026-07-17T15:59:15.349066+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:44.849669+00:00
 
 ---
 
@@ -104692,7 +104692,7 @@ data-src=../../../includes/autogenerated/graphql-api-saas-types-q-s.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/rest/paas
 
-**Coletado em (UTC):** 2026-07-17T15:54:37.417997+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:32.926746+00:00
 
 ---
 
@@ -104714,7 +104714,7 @@ data-src=https://adobe-commerce.redoc.ly
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/rest/saas
 
-**Coletado em (UTC):** 2026-07-17T15:54:25.753029+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:14.906364+00:00
 
 ---
 
@@ -104736,7 +104736,7 @@ data-src=https://adobe-commerce-saas.redoc.ly
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest
 
-**Coletado em (UTC):** 2026-07-17T15:47:02.217851+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:17.047101+00:00
 
 ---
 
@@ -104823,7 +104823,7 @@ curl --location 'https://<server>.api.commerce.adobe.com/<tenant-id>/<endpoint>'
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/authentication
 
-**Coletado em (UTC):** 2026-07-17T15:54:25.200467+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:16.436376+00:00
 
 ---
 
@@ -104903,7 +104903,7 @@ The following permission scopes are required for Adobe Commerce as a Cloud Servi
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/authentication/server-to-server
 
-**Coletado em (UTC):** 2026-07-17T15:54:24.690407+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:15.927600+00:00
 
 ---
 
@@ -105228,7 +105228,7 @@ If you encounter issues during implementation, consider the following troublesho
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/authentication/user
 
-**Coletado em (UTC):** 2026-07-17T15:54:26.778425+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:17.003828+00:00
 
 ---
 
@@ -105354,7 +105354,7 @@ This section provides guidance on common issues and their resolutions when imple
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/b2b
 
-**Coletado em (UTC):** 2026-07-17T15:54:09.630912+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:03.879304+00:00
 
 ---
 
@@ -105469,7 +105469,7 @@ Yes
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/inventory
 
-**Coletado em (UTC):** 2026-07-17T16:01:07.897523+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:32.401238+00:00
 
 ---
 
@@ -105521,7 +105521,7 @@ When merchants are ready to make a partial or full shipment, they select the sou
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/modules/custom-attributes
 
-**Coletado em (UTC):** 2026-07-17T15:47:03.340636+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:19.965875+00:00
 
 ---
 
@@ -105829,7 +105829,7 @@ data-src=../../includes/custom-attribute-installation.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/modules/import
 
-**Coletado em (UTC):** 2026-07-17T15:59:20.593180+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:49.135680+00:00
 
 ---
 
@@ -106886,7 +106886,7 @@ The "entity": "customer_composite" represents a composite entity that includes b
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/quick-reference/generate-local
 
-**Coletado em (UTC):** 2026-07-17T16:00:10.656629+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:35.927560+00:00
 
 ---
 
@@ -106999,7 +106999,7 @@ You may also use web server rewrite rules to redirect users trying to access the
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/reference
 
-**Coletado em (UTC):** 2026-07-17T15:47:05.412708+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:20.474868+00:00
 
 ---
 
@@ -107018,7 +107018,7 @@ This comprehensive reference provides detailed documentation for all available R
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/saas-integrations/login-as-customer
 
-**Coletado em (UTC):** 2026-07-17T15:57:53.678592+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:28.929411+00:00
 
 ---
 
@@ -107092,7 +107092,7 @@ After generating an OTC, you exchange it for a customer access token using one o
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/tutorials
 
-**Coletado em (UTC):** 2026-07-17T15:59:24.273894+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:46.545121+00:00
 
 ---
 
@@ -107178,7 +107178,7 @@ This section lists the information that Commerce sends to the REST client. These
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/tutorials/bulk-configurable-product
 
-**Coletado em (UTC):** 2026-07-17T16:00:11.704758+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:38.162280+00:00
 
 ---
 
@@ -107223,7 +107223,7 @@ Thanks to comwrap GmbH for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product
 
-**Coletado em (UTC):** 2026-07-17T16:00:10.059665+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:36.437565+00:00
 
 ---
 
@@ -107254,7 +107254,7 @@ This **5-step tutorial** generally takes **45 minutes**.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product
 
-**Coletado em (UTC):** 2026-07-17T16:00:12.250784+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:37.051159+00:00
 
 ---
 
@@ -107515,7 +107515,7 @@ POST /V1/carts/mine/items
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/tutorials/inventory
 
-**Coletado em (UTC):** 2026-07-17T16:00:11.167141+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:37.624375+00:00
 
 ---
 
@@ -107550,7 +107550,7 @@ This **14-step tutorial** generally takes **1 hour**.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/tutorials/orders
 
-**Coletado em (UTC):** 2026-07-17T15:59:25.320971+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:45.864586+00:00
 
 ---
 
@@ -107590,7 +107590,7 @@ The sample data defines a functional store, called Luma, that sells fitness clot
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks
 
-**Coletado em (UTC):** 2026-07-17T15:57:21.102319+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:57.486395+00:00
 
 ---
 
@@ -107659,7 +107659,7 @@ There are no additional verification steps. Tokens are not displayed in Admin.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/use-rest/anonymous-api-security
 
-**Coletado em (UTC):** 2026-07-17T15:57:24.294623+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:54.417235+00:00
 
 ---
 
@@ -108016,7 +108016,7 @@ POST
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/use-rest/asynchronous-web-endpoints
 
-**Coletado em (UTC):** 2026-07-17T16:01:01.676854+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:30.855447+00:00
 
 ---
 
@@ -108204,7 +108204,7 @@ Thanks to comwrap GmbH for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/use-rest/bulk-endpoints
 
-**Coletado em (UTC):** 2026-07-17T16:01:08.439377+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:32.953714+00:00
 
 ---
 
@@ -108469,7 +108469,7 @@ Thanks to comwrap GmbH for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/use-rest/operation-status-endpoints
 
-**Coletado em (UTC):** 2026-07-17T16:01:26.650485+00:00
+**Coletado em (UTC):** 2026-07-22T14:33:52.975086+00:00
 
 ---
 
@@ -108803,7 +108803,7 @@ Thanks to comwrap GmbH for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/use-rest/performing-searches
 
-**Coletado em (UTC):** 2026-07-17T15:59:01.785121+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:27.375904+00:00
 
 ---
 
@@ -109319,7 +109319,7 @@ fields=items[increment_id,entity_id]
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront
 
-**Coletado em (UTC):** 2026-07-17T15:46:57.806272+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:12.929355+00:00
 
 ---
 
@@ -109591,7 +109591,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/ai
 
-**Coletado em (UTC):** 2026-07-17T15:49:40.865239+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:42.842146+00:00
 
 ---
 
@@ -109865,7 +109865,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/ai/ai-agent-skills
 
-**Coletado em (UTC):** 2026-07-17T15:51:02.345535+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:25.204051+00:00
 
 ---
 
@@ -110293,7 +110293,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/ai/build-with-ai
 
-**Coletado em (UTC):** 2026-07-17T15:54:04.371605+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:33.305396+00:00
 
 ---
 
@@ -110676,7 +110676,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/ai/dropins-mcp
 
-**Coletado em (UTC):** 2026-07-17T15:47:23.278813+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:22.198427+00:00
 
 ---
 
@@ -111017,7 +111017,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/boilerplate
 
-**Coletado em (UTC):** 2026-07-17T15:48:30.454647+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:10.485414+00:00
 
 ---
 
@@ -111325,7 +111325,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/boilerplate/blocks-reference
 
-**Coletado em (UTC):** 2026-07-17T15:51:36.802017+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:50.322994+00:00
 
 ---
 
@@ -111917,7 +111917,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/boilerplate/configuration
 
-**Coletado em (UTC):** 2026-07-17T15:52:21.167044+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:46.375950+00:00
 
 ---
 
@@ -113187,7 +113187,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/boilerplate/customizing-blocks
 
-**Coletado em (UTC):** 2026-07-17T15:48:48.476279+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:58.449654+00:00
 
 ---
 
@@ -115106,7 +115106,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/boilerplate/getting-started
 
-**Coletado em (UTC):** 2026-07-17T15:49:48.479587+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:58.207453+00:00
 
 ---
 
@@ -115515,7 +115515,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/boilerplate/universal-editor
 
-**Coletado em (UTC):** 2026-07-17T15:50:09.508448+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:30.364890+00:00
 
 ---
 
@@ -115849,7 +115849,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/boilerplate/updates
 
-**Coletado em (UTC):** 2026-07-17T15:48:50.581886+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:12.634575+00:00
 
 ---
 
@@ -116470,7 +116470,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b
 
-**Coletado em (UTC):** 2026-07-17T15:52:26.709764+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:08.678104+00:00
 
 ---
 
@@ -116750,7 +116750,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-management
 
-**Coletado em (UTC):** 2026-07-17T15:50:16.805511+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:33.141346+00:00
 
 ---
 
@@ -117037,7 +117037,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-management/containers
 
-**Coletado em (UTC):** 2026-07-17T15:48:23.070517+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:39.336074+00:00
 
 ---
 
@@ -117329,7 +117329,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-management/containers/accept-invitation
 
-**Coletado em (UTC):** 2026-07-17T15:47:43.007137+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:11.217852+00:00
 
 ---
 
@@ -117667,7 +117667,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-management/containers/company-credit
 
-**Coletado em (UTC):** 2026-07-17T15:53:25.416504+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:48.893259+00:00
 
 ---
 
@@ -118000,7 +118000,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-management/containers/company-hierarchy
 
-**Coletado em (UTC):** 2026-07-17T15:53:56.064688+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:50.877493+00:00
 
 ---
 
@@ -118626,7 +118626,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-management/containers/company-profile
 
-**Coletado em (UTC):** 2026-07-17T15:53:22.812948+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:45.431095+00:00
 
 ---
 
@@ -118964,7 +118964,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-management/containers/company-registration
 
-**Coletado em (UTC):** 2026-07-17T15:47:52.337313+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:05.294187+00:00
 
 ---
 
@@ -119315,7 +119315,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-management/containers/company-structure
 
-**Coletado em (UTC):** 2026-07-17T15:50:38.744696+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:50.617031+00:00
 
 ---
 
@@ -119664,7 +119664,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-management/containers/company-users
 
-**Coletado em (UTC):** 2026-07-17T15:50:31.689846+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:42.210537+00:00
 
 ---
 
@@ -119978,7 +119978,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-management/containers/customer-company-info
 
-**Coletado em (UTC):** 2026-07-17T15:51:07.627292+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:13.926536+00:00
 
 ---
 
@@ -120303,7 +120303,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-management/containers/roles-and-permissions
 
-**Coletado em (UTC):** 2026-07-17T15:47:43.915549+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:28.862668+00:00
 
 ---
 
@@ -120634,7 +120634,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-management/dictionary
 
-**Coletado em (UTC):** 2026-07-17T15:48:08.513795+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:00.096771+00:00
 
 ---
 
@@ -123464,7 +123464,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-management/events
 
-**Coletado em (UTC):** 2026-07-17T15:47:30.750599+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:53.620939+00:00
 
 ---
 
@@ -125433,7 +125433,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-management/functions
 
-**Coletado em (UTC):** 2026-07-17T15:50:26.884307+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:42.931755+00:00
 
 ---
 
@@ -128277,7 +128277,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-management/initialization
 
-**Coletado em (UTC):** 2026-07-17T15:50:04.949685+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:23.688503+00:00
 
 ---
 
@@ -128579,7 +128579,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-management/quick-start
 
-**Coletado em (UTC):** 2026-07-17T15:53:05.525374+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:19.842057+00:00
 
 ---
 
@@ -128944,7 +128944,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-management/slots
 
-**Coletado em (UTC):** 2026-07-17T15:50:51.425978+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:27.857459+00:00
 
 ---
 
@@ -129569,7 +129569,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-management/styles
 
-**Coletado em (UTC):** 2026-07-17T15:48:45.754036+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:22.798769+00:00
 
 ---
 
@@ -130670,7 +130670,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-switcher
 
-**Coletado em (UTC):** 2026-07-17T15:50:32.437450+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:40.481223+00:00
 
 ---
 
@@ -130955,7 +130955,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-switcher/containers
 
-**Coletado em (UTC):** 2026-07-17T15:52:07.873699+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:33.989176+00:00
 
 ---
 
@@ -131239,7 +131239,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-switcher/containers/company-switcher
 
-**Coletado em (UTC):** 2026-07-17T15:47:18.613014+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:33.258148+00:00
 
 ---
 
@@ -131616,7 +131616,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-switcher/dictionary
 
-**Coletado em (UTC):** 2026-07-17T15:51:03.234214+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:57.492640+00:00
 
 ---
 
@@ -131970,7 +131970,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-switcher/events
 
-**Coletado em (UTC):** 2026-07-17T15:51:16.609029+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:19.989322+00:00
 
 ---
 
@@ -132661,7 +132661,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-switcher/functions
 
-**Coletado em (UTC):** 2026-07-17T15:53:28.987581+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:03.020348+00:00
 
 ---
 
@@ -133679,7 +133679,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-switcher/initialization
 
-**Coletado em (UTC):** 2026-07-17T15:49:00.815617+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:00.657873+00:00
 
 ---
 
@@ -134290,7 +134290,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-switcher/quick-start
 
-**Coletado em (UTC):** 2026-07-17T15:52:47.782784+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:44.412328+00:00
 
 ---
 
@@ -134655,7 +134655,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-switcher/slots
 
-**Coletado em (UTC):** 2026-07-17T15:50:07.721401+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:39.377638+00:00
 
 ---
 
@@ -134928,7 +134928,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/company-switcher/styles
 
-**Coletado em (UTC):** 2026-07-17T15:51:44.126619+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:28.346837+00:00
 
 ---
 
@@ -135222,7 +135222,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/purchase-order
 
-**Coletado em (UTC):** 2026-07-17T15:48:06.768046+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:56.925965+00:00
 
 ---
 
@@ -135575,7 +135575,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/purchase-order/containers
 
-**Coletado em (UTC):** 2026-07-17T15:51:21.284121+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:14.964426+00:00
 
 ---
 
@@ -135870,7 +135870,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/purchase-order/containers/approval-rule-details
 
-**Coletado em (UTC):** 2026-07-17T15:51:42.364353+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:33.139252+00:00
 
 ---
 
@@ -136203,7 +136203,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/purchase-order/containers/approval-rule-form
 
-**Coletado em (UTC):** 2026-07-17T15:53:07.349954+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:54.016883+00:00
 
 ---
 
@@ -136538,7 +136538,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/purchase-order/containers/approval-rules-list
 
-**Coletado em (UTC):** 2026-07-17T15:47:40.151630+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:54.544025+00:00
 
 ---
 
@@ -136872,7 +136872,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/purchase-order/containers/company-purchase-orders
 
-**Coletado em (UTC):** 2026-07-17T15:48:24.023112+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:51.184529+00:00
 
 ---
 
@@ -137204,7 +137204,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/purchase-order/containers/customer-purchase-orders
 
-**Coletado em (UTC):** 2026-07-17T15:50:28.803626+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:20.031549+00:00
 
 ---
 
@@ -137536,7 +137536,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/purchase-order/containers/purchase-order-approval-flow
 
-**Coletado em (UTC):** 2026-07-17T15:49:29.874063+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:38.973117+00:00
 
 ---
 
@@ -137869,7 +137869,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/purchase-order/containers/purchase-order-comment-form
 
-**Coletado em (UTC):** 2026-07-17T15:48:03.150456+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:48.393772+00:00
 
 ---
 
@@ -138202,7 +138202,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/purchase-order/containers/purchase-order-comments-list
 
-**Coletado em (UTC):** 2026-07-17T15:50:48.841359+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:17.543438+00:00
 
 ---
 
@@ -138536,7 +138536,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/purchase-order/containers/purchase-order-confirmation
 
-**Coletado em (UTC):** 2026-07-17T15:50:25.093309+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:07.565665+00:00
 
 ---
 
@@ -138861,7 +138861,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/purchase-order/containers/purchase-order-history-log
 
-**Coletado em (UTC):** 2026-07-17T15:49:22.359621+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:40.046849+00:00
 
 ---
 
@@ -139195,7 +139195,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/purchase-order/containers/purchase-order-status
 
-**Coletado em (UTC):** 2026-07-17T15:52:24.018877+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:54.872640+00:00
 
 ---
 
@@ -139541,7 +139541,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/purchase-order/containers/require-approval-purchase-orders
 
-**Coletado em (UTC):** 2026-07-17T15:47:20.508389+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:21.294246+00:00
 
 ---
 
@@ -139873,7 +139873,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/purchase-order/dictionary
 
-**Coletado em (UTC):** 2026-07-17T15:52:09.653565+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:56.013627+00:00
 
 ---
 
@@ -141669,7 +141669,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/purchase-order/events
 
-**Coletado em (UTC):** 2026-07-17T15:50:17.667371+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:01.264847+00:00
 
 ---
 
@@ -144022,7 +144022,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/purchase-order/functions
 
-**Coletado em (UTC):** 2026-07-17T15:48:51.502341+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:49.570374+00:00
 
 ---
 
@@ -146697,7 +146697,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/purchase-order/initialization
 
-**Coletado em (UTC):** 2026-07-17T15:52:01.400651+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:54.618403+00:00
 
 ---
 
@@ -147624,7 +147624,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/purchase-order/quick-start
 
-**Coletado em (UTC):** 2026-07-17T15:52:04.168712+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:43.755231+00:00
 
 ---
 
@@ -147989,7 +147989,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/purchase-order/slots
 
-**Coletado em (UTC):** 2026-07-17T15:48:26.757732+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:01.424594+00:00
 
 ---
 
@@ -148394,7 +148394,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/purchase-order/styles
 
-**Coletado em (UTC):** 2026-07-17T15:52:23.123693+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:41.907483+00:00
 
 ---
 
@@ -148993,7 +148993,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quick-order
 
-**Coletado em (UTC):** 2026-07-17T15:47:58.579361+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:47.417870+00:00
 
 ---
 
@@ -149303,7 +149303,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quick-order/containers
 
-**Coletado em (UTC):** 2026-07-17T15:50:21.310172+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:27.661895+00:00
 
 ---
 
@@ -149599,7 +149599,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quick-order/containers/quick-order-csv-upload
 
-**Coletado em (UTC):** 2026-07-17T15:50:57.692692+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:04.497891+00:00
 
 ---
 
@@ -150013,7 +150013,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quick-order/containers/quick-order-items
 
-**Coletado em (UTC):** 2026-07-17T15:51:45.958891+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:42.688700+00:00
 
 ---
 
@@ -150599,7 +150599,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quick-order/containers/quick-order-multiple-sku
 
-**Coletado em (UTC):** 2026-07-17T15:49:27.880467+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:47.656565+00:00
 
 ---
 
@@ -151065,7 +151065,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quick-order/containers/quick-order-variants-grid
 
-**Coletado em (UTC):** 2026-07-17T15:51:49.683294+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:03.809883+00:00
 
 ---
 
@@ -151688,7 +151688,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quick-order/dictionary
 
-**Coletado em (UTC):** 2026-07-17T15:49:21.427580+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:41.921668+00:00
 
 ---
 
@@ -152558,7 +152558,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quick-order/events
 
-**Coletado em (UTC):** 2026-07-17T15:53:49.620390+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:57.628926+00:00
 
 ---
 
@@ -153384,7 +153384,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quick-order/functions
 
-**Coletado em (UTC):** 2026-07-17T15:49:05.495771+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:58.852903+00:00
 
 ---
 
@@ -153760,7 +153760,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quick-order/initialization
 
-**Coletado em (UTC):** 2026-07-17T15:50:33.367483+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:27.135817+00:00
 
 ---
 
@@ -154232,7 +154232,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quick-order/quick-start
 
-**Coletado em (UTC):** 2026-07-17T15:52:13.389337+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:13.354875+00:00
 
 ---
 
@@ -154827,7 +154827,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quick-order/slots
 
-**Coletado em (UTC):** 2026-07-17T15:47:37.300657+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:55.193713+00:00
 
 ---
 
@@ -156029,7 +156029,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quick-order/styles
 
-**Coletado em (UTC):** 2026-07-17T15:50:41.514192+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:19.790223+00:00
 
 ---
 
@@ -156592,7 +156592,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management
 
-**Coletado em (UTC):** 2026-07-17T15:47:45.886870+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:52.189453+00:00
 
 ---
 
@@ -156929,7 +156929,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management/containers
 
-**Coletado em (UTC):** 2026-07-17T15:47:41.176166+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:02.720875+00:00
 
 ---
 
@@ -157227,7 +157227,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management/containers/items-quoted-template
 
-**Coletado em (UTC):** 2026-07-17T15:49:33.574605+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:49.932300+00:00
 
 ---
 
@@ -157561,7 +157561,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management/containers/items-quoted
 
-**Coletado em (UTC):** 2026-07-17T15:47:57.679218+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:52.600879+00:00
 
 ---
 
@@ -157923,7 +157923,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management/containers/manage-negotiable-quote-template
 
-**Coletado em (UTC):** 2026-07-17T15:53:52.368506+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:38.617939+00:00
 
 ---
 
@@ -158281,7 +158281,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management/containers/manage-negotiable-quote
 
-**Coletado em (UTC):** 2026-07-17T15:52:28.491048+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:59.634974+00:00
 
 ---
 
@@ -158667,7 +158667,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management/containers/order-summary-line
 
-**Coletado em (UTC):** 2026-07-17T15:51:28.488619+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:33.903211+00:00
 
 ---
 
@@ -159034,7 +159034,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management/containers/order-summary
 
-**Coletado em (UTC):** 2026-07-17T15:48:54.170800+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:16.896165+00:00
 
 ---
 
@@ -159366,7 +159366,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management/containers/quote-comments-list
 
-**Coletado em (UTC):** 2026-07-17T15:53:19.094215+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:55.262103+00:00
 
 ---
 
@@ -159695,7 +159695,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management/containers/quote-history-log
 
-**Coletado em (UTC):** 2026-07-17T15:50:52.335680+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:08.283854+00:00
 
 ---
 
@@ -160024,7 +160024,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management/containers/quote-summary-list
 
-**Coletado em (UTC):** 2026-07-17T15:49:49.463684+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:27.303312+00:00
 
 ---
 
@@ -160408,7 +160408,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management/containers/quote-template-comments-list
 
-**Coletado em (UTC):** 2026-07-17T15:51:32.768647+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:18.399035+00:00
 
 ---
 
@@ -160737,7 +160737,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management/containers/quote-template-history-log
 
-**Coletado em (UTC):** 2026-07-17T15:48:54.965595+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:49.881876+00:00
 
 ---
 
@@ -161066,7 +161066,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management/containers/quote-templates-list-table
 
-**Coletado em (UTC):** 2026-07-17T15:49:03.596908+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:34.066176+00:00
 
 ---
 
@@ -161427,7 +161427,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management/containers/quotes-list-table
 
-**Coletado em (UTC):** 2026-07-17T15:49:02.645653+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:47.722654+00:00
 
 ---
 
@@ -161795,7 +161795,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management/containers/request-negotiable-quote-form
 
-**Coletado em (UTC):** 2026-07-17T15:51:58.743578+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:39.326952+00:00
 
 ---
 
@@ -162136,7 +162136,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management/containers/shipping-address-display
 
-**Coletado em (UTC):** 2026-07-17T15:49:30.731107+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:29.608408+00:00
 
 ---
 
@@ -162471,7 +162471,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management/dictionary
 
-**Coletado em (UTC):** 2026-07-17T15:49:43.545443+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:00.390347+00:00
 
 ---
 
@@ -165341,7 +165341,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management/events
 
-**Coletado em (UTC):** 2026-07-17T15:49:42.621433+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:29.120848+00:00
 
 ---
 
@@ -168107,7 +168107,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management/functions
 
-**Coletado em (UTC):** 2026-07-17T15:47:17.601380+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:18.395449+00:00
 
 ---
 
@@ -171223,7 +171223,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management/initialization
 
-**Coletado em (UTC):** 2026-07-17T15:53:41.393228+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:05.864127+00:00
 
 ---
 
@@ -172190,7 +172190,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management/quick-start
 
-**Coletado em (UTC):** 2026-07-17T15:47:28.899702+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:31.220532+00:00
 
 ---
 
@@ -172555,7 +172555,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management/slots
 
-**Coletado em (UTC):** 2026-07-17T15:52:29.477588+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:57.207333+00:00
 
 ---
 
@@ -180488,7 +180488,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/quote-management/styles
 
-**Coletado em (UTC):** 2026-07-17T15:48:15.039627+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:41.212109+00:00
 
 ---
 
@@ -181690,7 +181690,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/requisition-list
 
-**Coletado em (UTC):** 2026-07-17T15:47:59.543181+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:46.221416+00:00
 
 ---
 
@@ -181981,7 +181981,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/requisition-list/containers
 
-**Coletado em (UTC):** 2026-07-17T15:53:36.118964+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:43.402058+00:00
 
 ---
 
@@ -182271,7 +182271,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/requisition-list/containers/requisition-list-form
 
-**Coletado em (UTC):** 2026-07-17T15:52:57.740086+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:38.607386+00:00
 
 ---
 
@@ -182617,7 +182617,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/requisition-list/containers/requisition-list-grid
 
-**Coletado em (UTC):** 2026-07-17T15:54:02.564339+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:16.993243+00:00
 
 ---
 
@@ -182960,7 +182960,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/requisition-list/containers/requisition-list-header
 
-**Coletado em (UTC):** 2026-07-17T15:49:16.951403+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:17.720727+00:00
 
 ---
 
@@ -183323,7 +183323,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/requisition-list/containers/requisition-list-selector
 
-**Coletado em (UTC):** 2026-07-17T15:53:50.510262+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:42.274864+00:00
 
 ---
 
@@ -183669,7 +183669,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/requisition-list/containers/requisition-list-view
 
-**Coletado em (UTC):** 2026-07-17T15:47:31.822099+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:59.914041+00:00
 
 ---
 
@@ -184029,7 +184029,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/requisition-list/containers/share-requisition-list-content
 
-**Coletado em (UTC):** 2026-07-17T15:51:12.923470+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:45.172059+00:00
 
 ---
 
@@ -184408,7 +184408,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/requisition-list/containers/shared-requisition-list
 
-**Coletado em (UTC):** 2026-07-17T15:49:57.858412+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:36.233053+00:00
 
 ---
 
@@ -184866,7 +184866,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/requisition-list/dictionary
 
-**Coletado em (UTC):** 2026-07-17T15:50:54.109487+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:17.884413+00:00
 
 ---
 
@@ -186097,7 +186097,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/requisition-list/events
 
-**Coletado em (UTC):** 2026-07-17T15:51:53.384072+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:12.561667+00:00
 
 ---
 
@@ -186753,7 +186753,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/requisition-list/functions
 
-**Coletado em (UTC):** 2026-07-17T15:51:00.472902+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:05.953068+00:00
 
 ---
 
@@ -188461,7 +188461,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/requisition-list/initialization
 
-**Coletado em (UTC):** 2026-07-17T15:49:50.388158+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:25.792854+00:00
 
 ---
 
@@ -189641,7 +189641,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/requisition-list/quick-start
 
-**Coletado em (UTC):** 2026-07-17T15:47:34.483081+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:07.314741+00:00
 
 ---
 
@@ -190006,7 +190006,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/requisition-list/slots
 
-**Coletado em (UTC):** 2026-07-17T15:48:53.242566+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:52.995717+00:00
 
 ---
 
@@ -190389,7 +190389,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins-b2b/requisition-list/styles
 
-**Coletado em (UTC):** 2026-07-17T15:48:38.623794+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:40.490334+00:00
 
 ---
 
@@ -191065,7 +191065,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins
 
-**Coletado em (UTC):** 2026-07-17T15:52:39.275628+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:06.436286+00:00
 
 ---
 
@@ -191347,7 +191347,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/all/branding
 
-**Coletado em (UTC):** 2026-07-17T15:47:32.724552+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:45.901430+00:00
 
 ---
 
@@ -193304,7 +193304,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/all/commerce-blocks
 
-**Coletado em (UTC):** 2026-07-17T15:53:09.968515+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:29.041538+00:00
 
 ---
 
@@ -193600,7 +193600,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/all/common-events
 
-**Coletado em (UTC):** 2026-07-17T15:48:19.571258+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:45.574925+00:00
 
 ---
 
@@ -193617,7 +193617,7 @@ to
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/all/creating
 
-**Coletado em (UTC):** 2026-07-17T15:52:17.015557+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:08.767397+00:00
 
 ---
 
@@ -194859,7 +194859,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/all/dictionaries
 
-**Coletado em (UTC):** 2026-07-17T15:51:18.508001+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:00.987098+00:00
 
 ---
 
@@ -195666,7 +195666,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/all/events
 
-**Coletado em (UTC):** 2026-07-17T15:48:05.030388+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:10.446599+00:00
 
 ---
 
@@ -197027,7 +197027,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/all/extend-or-create
 
-**Coletado em (UTC):** 2026-07-17T15:52:14.285406+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:50.378725+00:00
 
 ---
 
@@ -197424,7 +197424,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/all/extending
 
-**Coletado em (UTC):** 2026-07-17T15:52:22.082777+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:52.109004+00:00
 
 ---
 
@@ -199768,7 +199768,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/all/introduction
 
-**Coletado em (UTC):** 2026-07-17T15:52:56.846358+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:37.891255+00:00
 
 ---
 
@@ -200119,7 +200119,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/all/labeling
 
-**Coletado em (UTC):** 2026-07-17T15:50:58.701005+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:57.359718+00:00
 
 ---
 
@@ -200561,7 +200561,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/all/layouts
 
-**Coletado em (UTC):** 2026-07-17T15:47:27.961807+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:24.351411+00:00
 
 ---
 
@@ -201085,7 +201085,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/all/linking
 
-**Coletado em (UTC):** 2026-07-17T15:53:16.353747+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:55.332383+00:00
 
 ---
 
@@ -201498,7 +201498,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/all/quick-start
 
-**Coletado em (UTC):** 2026-07-17T15:48:59.834415+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:55.929775+00:00
 
 ---
 
@@ -203202,7 +203202,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/all/slots
 
-**Coletado em (UTC):** 2026-07-17T15:53:17.275017+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:42.543761+00:00
 
 ---
 
@@ -203618,7 +203618,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/all/styling
 
-**Coletado em (UTC):** 2026-07-17T15:47:26.098919+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:46.998106+00:00
 
 ---
 
@@ -204691,7 +204691,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart
 
-**Coletado em (UTC):** 2026-07-17T15:49:20.692543+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:45.544864+00:00
 
 ---
 
@@ -205020,7 +205020,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/containers
 
-**Coletado em (UTC):** 2026-07-17T15:52:11.616134+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:11.183832+00:00
 
 ---
 
@@ -205314,7 +205314,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/containers/cart-summary-grid
 
-**Coletado em (UTC):** 2026-07-17T15:49:07.213055+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:37.911384+00:00
 
 ---
 
@@ -206385,7 +206385,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/containers/cart-summary-list
 
-**Coletado em (UTC):** 2026-07-17T15:50:44.044072+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:30.559545+00:00
 
 ---
 
@@ -207653,7 +207653,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/containers/cart-summary-table
 
-**Coletado em (UTC):** 2026-07-17T15:48:36.815284+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:08.987924+00:00
 
 ---
 
@@ -208811,7 +208811,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/containers/coupons
 
-**Coletado em (UTC):** 2026-07-17T15:51:29.356696+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:18.604687+00:00
 
 ---
 
@@ -209163,7 +209163,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/containers/empty-cart
 
-**Coletado em (UTC):** 2026-07-17T15:53:23.628992+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:32.439704+00:00
 
 ---
 
@@ -209468,7 +209468,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/containers/estimate-shipping
 
-**Coletado em (UTC):** 2026-07-17T15:48:04.079538+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:47.528504+00:00
 
 ---
 
@@ -209788,7 +209788,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/containers/gift-cards
 
-**Coletado em (UTC):** 2026-07-17T15:53:54.174492+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:41.421446+00:00
 
 ---
 
@@ -210160,7 +210160,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/containers/gift-options
 
-**Coletado em (UTC):** 2026-07-17T15:51:11.138634+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:18.942330+00:00
 
 ---
 
@@ -211041,7 +211041,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/containers/mini-cart
 
-**Coletado em (UTC):** 2026-07-17T15:47:46.790084+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:07.547647+00:00
 
 ---
 
@@ -212180,7 +212180,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/containers/order-summary-line
 
-**Coletado em (UTC):** 2026-07-17T15:53:26.314768+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:22.921458+00:00
 
 ---
 
@@ -212642,7 +212642,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/containers/order-summary
 
-**Coletado em (UTC):** 2026-07-17T15:52:44.912584+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:31.228891+00:00
 
 ---
 
@@ -213773,7 +213773,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/dictionary
 
-**Coletado em (UTC):** 2026-07-17T15:49:09.148859+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:56.684663+00:00
 
 ---
 
@@ -215417,7 +215417,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/events
 
-**Coletado em (UTC):** 2026-07-17T15:48:58.038674+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:16.933441+00:00
 
 ---
 
@@ -217279,7 +217279,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/functions
 
-**Coletado em (UTC):** 2026-07-17T15:49:26.936530+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:25.438963+00:00
 
 ---
 
@@ -219299,7 +219299,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/initialization
 
-**Coletado em (UTC):** 2026-07-17T15:51:52.411018+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:46.282679+00:00
 
 ---
 
@@ -220257,7 +220257,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/quick-start
 
-**Coletado em (UTC):** 2026-07-17T15:53:33.503951+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:23.399854+00:00
 
 ---
 
@@ -220622,7 +220622,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/slots
 
-**Coletado em (UTC):** 2026-07-17T15:54:01.451476+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:02.163815+00:00
 
 ---
 
@@ -225456,7 +225456,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/styles
 
-**Coletado em (UTC):** 2026-07-17T15:53:14.553725+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:34.810769+00:00
 
 ---
 
@@ -226386,7 +226386,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-messages-to-mini-cart
 
-**Coletado em (UTC):** 2026-07-17T15:48:31.347093+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:36.886701+00:00
 
 ---
 
@@ -228450,7 +228450,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary
 
-**Coletado em (UTC):** 2026-07-17T15:53:30.844894+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:25.077253+00:00
 
 ---
 
@@ -228752,7 +228752,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary
 
-**Coletado em (UTC):** 2026-07-17T15:49:15.094646+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:55.649431+00:00
 
 ---
 
@@ -229063,7 +229063,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/enable-product-variation-updates-in-cart
 
-**Coletado em (UTC):** 2026-07-17T15:50:18.577454+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:10.341502+00:00
 
 ---
 
@@ -229735,7 +229735,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/gift-options
 
-**Coletado em (UTC):** 2026-07-17T15:52:16.149064+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:24.838829+00:00
 
 ---
 
@@ -230846,7 +230846,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines
 
-**Coletado em (UTC):** 2026-07-17T15:47:15.756178+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:57.794144+00:00
 
 ---
 
@@ -231978,7 +231978,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout
 
-**Coletado em (UTC):** 2026-07-17T15:52:32.661091+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:35.436677+00:00
 
 ---
 
@@ -232287,7 +232287,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/containers
 
-**Coletado em (UTC):** 2026-07-17T15:51:26.627461+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:17.107502+00:00
 
 ---
 
@@ -232583,7 +232583,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/containers/address-validation
 
-**Coletado em (UTC):** 2026-07-17T15:51:41.502510+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:53.896063+00:00
 
 ---
 
@@ -232998,7 +232998,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/containers/bill-to-shipping-address
 
-**Coletado em (UTC):** 2026-07-17T15:50:56.783659+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:37.648549+00:00
 
 ---
 
@@ -233580,7 +233580,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/containers/estimate-shipping
 
-**Coletado em (UTC):** 2026-07-17T15:50:02.184265+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:24.148867+00:00
 
 ---
 
@@ -233993,7 +233993,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/containers/login-form
 
-**Coletado em (UTC):** 2026-07-17T15:49:44.618499+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:35.684158+00:00
 
 ---
 
@@ -235402,7 +235402,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/containers/merged-cart-banner
 
-**Coletado em (UTC):** 2026-07-17T15:49:38.328913+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:32.050525+00:00
 
 ---
 
@@ -235766,7 +235766,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/containers/out-of-stock
 
-**Coletado em (UTC):** 2026-07-17T15:47:48.757712+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:48.240473+00:00
 
 ---
 
@@ -236219,7 +236219,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/containers/payment-methods
 
-**Coletado em (UTC):** 2026-07-17T15:53:55.064014+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:54.103838+00:00
 
 ---
 
@@ -237446,7 +237446,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/containers/payment-on-account
 
-**Coletado em (UTC):** 2026-07-17T15:47:29.824909+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:01.698643+00:00
 
 ---
 
@@ -237773,7 +237773,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/containers/place-order
 
-**Coletado em (UTC):** 2026-07-17T15:51:38.860958+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:14.653956+00:00
 
 ---
 
@@ -238821,7 +238821,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/containers/purchase-order
 
-**Coletado em (UTC):** 2026-07-17T15:49:31.633361+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:14.710669+00:00
 
 ---
 
@@ -239148,7 +239148,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/containers/server-error
 
-**Coletado em (UTC):** 2026-07-17T15:49:58.656283+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:51.884944+00:00
 
 ---
 
@@ -239574,7 +239574,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/containers/shipping-methods
 
-**Coletado em (UTC):** 2026-07-17T15:48:42.056185+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:00.724212+00:00
 
 ---
 
@@ -240360,7 +240360,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/containers/terms-and-conditions
 
-**Coletado em (UTC):** 2026-07-17T15:52:55.054435+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:54.428362+00:00
 
 ---
 
@@ -241101,7 +241101,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/dictionary
 
-**Coletado em (UTC):** 2026-07-17T15:48:27.640556+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:22.645810+00:00
 
 ---
 
@@ -242016,7 +242016,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/error-handling
 
-**Coletado em (UTC):** 2026-07-17T15:53:11.750279+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:04.558226+00:00
 
 ---
 
@@ -242301,7 +242301,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/event-handling
 
-**Coletado em (UTC):** 2026-07-17T15:50:36.852842+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:52.361684+00:00
 
 ---
 
@@ -242878,7 +242878,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/events
 
-**Coletado em (UTC):** 2026-07-17T15:52:05.117529+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:59.129865+00:00
 
 ---
 
@@ -244604,7 +244604,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/extending
 
-**Coletado em (UTC):** 2026-07-17T15:49:39.142614+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:02.046334+00:00
 
 ---
 
@@ -245222,7 +245222,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/functions
 
-**Coletado em (UTC):** 2026-07-17T15:50:24.155687+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:29.342324+00:00
 
 ---
 
@@ -246476,7 +246476,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/initialization
 
-**Coletado em (UTC):** 2026-07-17T15:53:20.880120+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:40.761891+00:00
 
 ---
 
@@ -247226,7 +247226,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/quick-start
 
-**Coletado em (UTC):** 2026-07-17T15:49:04.625629+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:41.179756+00:00
 
 ---
 
@@ -247607,7 +247607,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/slots
 
-**Coletado em (UTC):** 2026-07-17T15:50:03.076024+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:53.161711+00:00
 
 ---
 
@@ -249055,7 +249055,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/styles
 
-**Coletado em (UTC):** 2026-07-17T15:51:43.276219+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:31.002000+00:00
 
 ---
 
@@ -249641,7 +249641,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/add-payment-method
 
-**Coletado em (UTC):** 2026-07-17T15:53:57.768679+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:05.725232+00:00
 
 ---
 
@@ -250154,7 +250154,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/address-integration
 
-**Coletado em (UTC):** 2026-07-17T15:52:02.292003+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:20.833441+00:00
 
 ---
 
@@ -250470,7 +250470,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store
 
-**Coletado em (UTC):** 2026-07-17T15:53:08.261408+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:34.953131+00:00
 
 ---
 
@@ -251137,7 +251137,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step
 
-**Coletado em (UTC):** 2026-07-17T15:52:40.210923+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:25.569715+00:00
 
 ---
 
@@ -253214,7 +253214,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/validate-shipping-address
 
-**Coletado em (UTC):** 2026-07-17T15:50:43.153541+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:36.378955+00:00
 
 ---
 
@@ -253975,7 +253975,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/utilities
 
-**Coletado em (UTC):** 2026-07-17T15:52:27.540347+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:42.996625+00:00
 
 ---
 
@@ -256295,7 +256295,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/order
 
-**Coletado em (UTC):** 2026-07-17T15:51:24.915910+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:58.856908+00:00
 
 ---
 
@@ -256604,7 +256604,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/order/containers
 
-**Coletado em (UTC):** 2026-07-17T15:48:05.897314+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:59.398062+00:00
 
 ---
 
@@ -256899,7 +256899,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/order/containers/create-return
 
-**Coletado em (UTC):** 2026-07-17T15:48:15.950068+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:34.577747+00:00
 
 ---
 
@@ -257264,7 +257264,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/order/containers/customer-details
 
-**Coletado em (UTC):** 2026-07-17T15:51:19.382061+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:45.269297+00:00
 
 ---
 
@@ -257584,7 +257584,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/order/containers/order-cancel-form
 
-**Coletado em (UTC):** 2026-07-17T15:48:29.557688+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:26.383614+00:00
 
 ---
 
@@ -257907,7 +257907,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/order/containers/order-comments
 
-**Coletado em (UTC):** 2026-07-17T15:51:04.919264+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:38.340662+00:00
 
 ---
 
@@ -258238,7 +258238,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/order/containers/order-cost-summary
 
-**Coletado em (UTC):** 2026-07-17T15:48:52.475710+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:11.662879+00:00
 
 ---
 
@@ -258558,7 +258558,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/order/containers/order-header
 
-**Coletado em (UTC):** 2026-07-17T15:48:11.363212+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:17.691201+00:00
 
 ---
 
@@ -258883,7 +258883,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/order/containers/order-product-list
 
-**Coletado em (UTC):** 2026-07-17T15:50:27.968305+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:24.708594+00:00
 
 ---
 
@@ -259219,7 +259219,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/order/containers/order-returns
 
-**Coletado em (UTC):** 2026-07-17T15:52:52.278203+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:39.711626+00:00
 
 ---
 
@@ -259717,7 +259717,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/order/containers/order-search
 
-**Coletado em (UTC):** 2026-07-17T15:49:06.418728+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:58.152073+00:00
 
 ---
 
@@ -260355,7 +260355,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/order/containers/order-status
 
-**Coletado em (UTC):** 2026-07-17T15:52:03.271338+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:37.647038+00:00
 
 ---
 
@@ -260709,7 +260709,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/order/containers/returns-list
 
-**Coletado em (UTC):** 2026-07-17T15:53:44.903065+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:51.889578+00:00
 
 ---
 
@@ -261194,7 +261194,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/order/containers/shipping-status
 
-**Coletado em (UTC):** 2026-07-17T15:48:00.409367+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:48.375855+00:00
 
 ---
 
@@ -261623,7 +261623,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/order/dictionary
 
-**Coletado em (UTC):** 2026-07-17T15:47:51.364550+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:46.710212+00:00
 
 ---
 
@@ -263777,7 +263777,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/order/events
 
-**Coletado em (UTC):** 2026-07-17T15:48:22.134538+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:13.365445+00:00
 
 ---
 
@@ -265556,7 +265556,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/order/functions
 
-**Coletado em (UTC):** 2026-07-17T15:50:23.167719+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:16.274021+00:00
 
 ---
 
@@ -268290,7 +268290,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/order/initialization
 
-**Coletado em (UTC):** 2026-07-17T15:51:35.628735+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:06.086756+00:00
 
 ---
 
@@ -270218,7 +270218,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/order/quick-start
 
-**Coletado em (UTC):** 2026-07-17T15:52:41.196228+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:34.173326+00:00
 
 ---
 
@@ -270583,7 +270583,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/order/slots
 
-**Coletado em (UTC):** 2026-07-17T15:48:28.566893+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:36.150343+00:00
 
 ---
 
@@ -272988,7 +272988,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/order/styles
 
-**Coletado em (UTC):** 2026-07-17T15:52:37.276028+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:09.761887+00:00
 
 ---
 
@@ -273792,7 +273792,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/order/tutorials/order-cancellation
 
-**Coletado em (UTC):** 2026-07-17T15:47:21.405402+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:13.111312+00:00
 
 ---
 
@@ -274823,7 +274823,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/payment-services
 
-**Coletado em (UTC):** 2026-07-17T15:53:56.975709+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:51.616290+00:00
 
 ---
 
@@ -275134,7 +275134,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/payment-services/containers
 
-**Coletado em (UTC):** 2026-07-17T15:50:12.345580+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:35.339235+00:00
 
 ---
 
@@ -275420,7 +275420,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/payment-services/containers/apple-pay
 
-**Coletado em (UTC):** 2026-07-17T15:52:31.705885+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:01.472326+00:00
 
 ---
 
@@ -275969,7 +275969,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/payment-services/containers/credit-card
 
-**Coletado em (UTC):** 2026-07-17T15:50:46.964242+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:53.291916+00:00
 
 ---
 
@@ -276376,7 +276376,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/payment-services/containers/google-pay
 
-**Coletado em (UTC):** 2026-07-17T15:52:25.726259+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:48.170581+00:00
 
 ---
 
@@ -276740,7 +276740,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/payment-services/dictionary
 
-**Coletado em (UTC):** 2026-07-17T15:50:06.871293+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:45.006689+00:00
 
 ---
 
@@ -277328,7 +277328,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/payment-services/events
 
-**Coletado em (UTC):** 2026-07-17T15:49:19.724887+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:22.716721+00:00
 
 ---
 
@@ -277833,7 +277833,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/payment-services/functions
 
-**Coletado em (UTC):** 2026-07-17T15:49:18.758446+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:15.394482+00:00
 
 ---
 
@@ -278101,7 +278101,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/payment-services/initialization
 
-**Coletado em (UTC):** 2026-07-17T15:53:21.889801+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:36.098574+00:00
 
 ---
 
@@ -278783,7 +278783,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/payment-services/installation
 
-**Coletado em (UTC):** 2026-07-17T15:50:20.420603+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:20.484615+00:00
 
 ---
 
@@ -279107,7 +279107,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/payment-services/slots
 
-**Coletado em (UTC):** 2026-07-17T15:48:46.700905+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:11.769563+00:00
 
 ---
 
@@ -279380,7 +279380,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/payment-services/styles
 
-**Coletado em (UTC):** 2026-07-17T15:49:55.077496+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:28.356735+00:00
 
 ---
 
@@ -279750,7 +279750,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/personalization
 
-**Coletado em (UTC):** 2026-07-17T15:51:30.239322+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:57.296910+00:00
 
 ---
 
@@ -280030,7 +280030,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/personalization/containers
 
-**Coletado em (UTC):** 2026-07-17T15:50:34.364766+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:50.068244+00:00
 
 ---
 
@@ -280314,7 +280314,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/personalization/containers/targeted-block
 
-**Coletado em (UTC):** 2026-07-17T15:48:13.043799+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:43.309404+00:00
 
 ---
 
@@ -280847,7 +280847,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/personalization/dictionary
 
-**Coletado em (UTC):** 2026-07-17T15:48:25.902082+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:03.252022+00:00
 
 ---
 
@@ -281201,7 +281201,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/personalization/events
 
-**Coletado em (UTC):** 2026-07-17T15:48:40.269156+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:43.773300+00:00
 
 ---
 
@@ -281793,7 +281793,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/personalization/functions
 
-**Coletado em (UTC):** 2026-07-17T15:53:00.597144+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:24.413217+00:00
 
 ---
 
@@ -282309,7 +282309,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/personalization/initialization
 
-**Coletado em (UTC):** 2026-07-17T15:50:29.842199+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:54.774094+00:00
 
 ---
 
@@ -282831,7 +282831,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/personalization/quick-start
 
-**Coletado em (UTC):** 2026-07-17T15:50:04.014686+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:21.430875+00:00
 
 ---
 
@@ -283196,7 +283196,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/personalization/slots
 
-**Coletado em (UTC):** 2026-07-17T15:49:25.026667+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:20.759957+00:00
 
 ---
 
@@ -283502,7 +283502,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/personalization/styles
 
-**Coletado em (UTC):** 2026-07-17T15:53:06.462244+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:58.004516+00:00
 
 ---
 
@@ -283796,7 +283796,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-details
 
-**Coletado em (UTC):** 2026-07-17T15:47:50.450378+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:34.956024+00:00
 
 ---
 
@@ -284124,7 +284124,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-details/containers
 
-**Coletado em (UTC):** 2026-07-17T15:48:02.241581+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:06.584885+00:00
 
 ---
 
@@ -284424,7 +284424,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-details/containers/product-attributes
 
-**Coletado em (UTC):** 2026-07-17T15:52:19.771370+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:31.710211+00:00
 
 ---
 
@@ -284725,7 +284725,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-details/containers/product-description
 
-**Coletado em (UTC):** 2026-07-17T15:51:24.063641+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:58.698580+00:00
 
 ---
 
@@ -285025,7 +285025,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-details/containers/product-details
 
-**Coletado em (UTC):** 2026-07-17T15:53:15.484641+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:53.324825+00:00
 
 ---
 
@@ -285400,7 +285400,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-details/containers/product-downloadable-options
 
-**Coletado em (UTC):** 2026-07-17T15:48:33.300451+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:41.859167+00:00
 
 ---
 
@@ -285721,7 +285721,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-details/containers/product-gallery
 
-**Coletado em (UTC):** 2026-07-17T15:52:15.247554+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:29.764756+00:00
 
 ---
 
@@ -286179,7 +286179,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-details/containers/product-gift-card-options
 
-**Coletado em (UTC):** 2026-07-17T15:48:12.174276+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:20.593512+00:00
 
 ---
 
@@ -286498,7 +286498,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-details/containers/product-giftcard-options
 
-**Coletado em (UTC):** 2026-07-17T15:52:45.920721+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:04.271424+00:00
 
 ---
 
@@ -286814,7 +286814,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-details/containers/product-header
 
-**Coletado em (UTC):** 2026-07-17T15:53:32.612852+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:05.267437+00:00
 
 ---
 
@@ -287128,7 +287128,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-details/containers/product-options
 
-**Coletado em (UTC):** 2026-07-17T15:48:34.156825+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:44.084654+00:00
 
 ---
 
@@ -287524,7 +287524,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-details/containers/product-price
 
-**Coletado em (UTC):** 2026-07-17T15:47:24.309785+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:32.714537+00:00
 
 ---
 
@@ -287824,7 +287824,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-details/containers/product-quantity
 
-**Coletado em (UTC):** 2026-07-17T15:51:08.404355+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:32.610445+00:00
 
 ---
 
@@ -288149,7 +288149,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-details/containers/product-short-description
 
-**Coletado em (UTC):** 2026-07-17T15:48:01.426880+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:14.206642+00:00
 
 ---
 
@@ -288449,7 +288449,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-details/dictionary
 
-**Coletado em (UTC):** 2026-07-17T15:51:31.183115+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:43.410593+00:00
 
 ---
 
@@ -289235,7 +289235,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-details/events
 
-**Coletado em (UTC):** 2026-07-17T15:53:03.521051+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:55.495813+00:00
 
 ---
 
@@ -289949,7 +289949,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-details/functions
 
-**Coletado em (UTC):** 2026-07-17T15:52:06.921025+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:21.164871+00:00
 
 ---
 
@@ -291051,7 +291051,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-details/initialization
 
-**Coletado em (UTC):** 2026-07-17T15:52:38.264116+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:21.469149+00:00
 
 ---
 
@@ -291767,7 +291767,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-details/quick-start
 
-**Coletado em (UTC):** 2026-07-17T15:53:27.254629+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:06.819906+00:00
 
 ---
 
@@ -292132,7 +292132,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-details/slots
 
-**Coletado em (UTC):** 2026-07-17T15:51:50.551716+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:49.826598+00:00
 
 ---
 
@@ -294440,7 +294440,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-details/styles
 
-**Coletado em (UTC):** 2026-07-17T15:52:34.341121+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:04.577671+00:00
 
 ---
 
@@ -295113,7 +295113,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-details/tutorials/notify-me-cta
 
-**Coletado em (UTC):** 2026-07-17T15:53:24.425691+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:37.876113+00:00
 
 ---
 
@@ -295880,7 +295880,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-discovery
 
-**Coletado em (UTC):** 2026-07-17T15:47:53.210100+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:38.330186+00:00
 
 ---
 
@@ -296199,7 +296199,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-discovery/containers
 
-**Coletado em (UTC):** 2026-07-17T15:52:53.136532+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:39.783726+00:00
 
 ---
 
@@ -296486,7 +296486,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-discovery/containers/facets
 
-**Coletado em (UTC):** 2026-07-17T15:50:00.406184+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:24.103056+00:00
 
 ---
 
@@ -297028,7 +297028,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-discovery/containers/pagination
 
-**Coletado em (UTC):** 2026-07-17T15:50:55.053734+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:45.711578+00:00
 
 ---
 
@@ -297447,7 +297447,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-discovery/containers/search-results
 
-**Coletado em (UTC):** 2026-07-17T15:50:39.660977+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:46.907916+00:00
 
 ---
 
@@ -298437,7 +298437,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-discovery/containers/sort-by
 
-**Coletado em (UTC):** 2026-07-17T15:51:17.524910+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:12.421283+00:00
 
 ---
 
@@ -298916,7 +298916,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-discovery/dictionary
 
-**Coletado em (UTC):** 2026-07-17T15:54:00.562726+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:40.017898+00:00
 
 ---
 
@@ -299363,7 +299363,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-discovery/events
 
-**Coletado em (UTC):** 2026-07-17T15:49:17.852346+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:08.277660+00:00
 
 ---
 
@@ -299978,7 +299978,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-discovery/functions
 
-**Coletado em (UTC):** 2026-07-17T15:50:10.495955+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:48.950303+00:00
 
 ---
 
@@ -300417,7 +300417,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-discovery/initialization
 
-**Coletado em (UTC):** 2026-07-17T15:48:07.629757+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:13.991752+00:00
 
 ---
 
@@ -301090,7 +301090,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-discovery/quick-start
 
-**Coletado em (UTC):** 2026-07-17T15:53:47.961874+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:05.176134+00:00
 
 ---
 
@@ -301455,7 +301455,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-discovery/slots
 
-**Coletado em (UTC):** 2026-07-17T15:48:24.912186+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:47.868897+00:00
 
 ---
 
@@ -302909,7 +302909,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/product-discovery/styles
 
-**Coletado em (UTC):** 2026-07-17T15:47:27.030430+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:02.431527+00:00
 
 ---
 
@@ -303306,7 +303306,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/recommendations
 
-**Coletado em (UTC):** 2026-07-17T15:52:55.942097+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:01.720982+00:00
 
 ---
 
@@ -303627,7 +303627,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/recommendations/containers
 
-**Coletado em (UTC):** 2026-07-17T15:50:25.948159+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:33.919589+00:00
 
 ---
 
@@ -303911,7 +303911,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/recommendations/containers/product-list
 
-**Coletado em (UTC):** 2026-07-17T15:53:01.619357+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:59.800141+00:00
 
 ---
 
@@ -305274,7 +305274,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/recommendations/dictionary
 
-**Coletado em (UTC):** 2026-07-17T15:50:01.316331+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:29.458109+00:00
 
 ---
 
@@ -305655,7 +305655,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/recommendations/events
 
-**Coletado em (UTC):** 2026-07-17T15:51:31.997360+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:37.125811+00:00
 
 ---
 
@@ -306067,7 +306067,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/recommendations/functions
 
-**Coletado em (UTC):** 2026-07-17T15:48:13.999205+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:10.480812+00:00
 
 ---
 
@@ -306556,7 +306556,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/recommendations/initialization
 
-**Coletado em (UTC):** 2026-07-17T15:49:46.580699+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:54.367340+00:00
 
 ---
 
@@ -307176,7 +307176,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/recommendations/quick-start
 
-**Coletado em (UTC):** 2026-07-17T15:51:37.725159+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:00.312691+00:00
 
 ---
 
@@ -307541,7 +307541,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/recommendations/slots
 
-**Coletado em (UTC):** 2026-07-17T15:53:53.282326+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:44.284651+00:00
 
 ---
 
@@ -308417,7 +308417,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/recommendations/styles
 
-**Coletado em (UTC):** 2026-07-17T15:47:35.473505+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:11.187761+00:00
 
 ---
 
@@ -308754,7 +308754,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account
 
-**Coletado em (UTC):** 2026-07-17T15:47:42.067546+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:16.117121+00:00
 
 ---
 
@@ -309047,7 +309047,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/containers
 
-**Coletado em (UTC):** 2026-07-17T15:50:42.444626+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:46.337220+00:00
 
 ---
 
@@ -309339,7 +309339,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/containers/address-form
 
-**Coletado em (UTC):** 2026-07-17T15:48:56.029381+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:31.287617+00:00
 
 ---
 
@@ -309902,7 +309902,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/containers/address-validation
 
-**Coletado em (UTC):** 2026-07-17T15:51:23.112079+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:07.214515+00:00
 
 ---
 
@@ -310355,7 +310355,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/containers/addresses
 
-**Coletado em (UTC):** 2026-07-17T15:50:37.751104+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:44.090163+00:00
 
 ---
 
@@ -310805,7 +310805,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/containers/customer-information
 
-**Coletado em (UTC):** 2026-07-17T15:53:10.894515+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:27.342537+00:00
 
 ---
 
@@ -311145,7 +311145,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/containers/orders-list
 
-**Coletado em (UTC):** 2026-07-17T15:53:28.129281+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:40.496022+00:00
 
 ---
 
@@ -311604,7 +311604,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/containers/payment-methods
 
-**Coletado em (UTC):** 2026-07-17T15:49:08.281018+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:23.699375+00:00
 
 ---
 
@@ -312042,7 +312042,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/containers/seller-assisted-buying-activity
 
-**Coletado em (UTC):** 2026-07-17T15:52:58.678893+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:34.635171+00:00
 
 ---
 
@@ -312375,7 +312375,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/containers/seller-assisted-buying-settings
 
-**Coletado em (UTC):** 2026-07-17T15:50:35.158316+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:29.904122+00:00
 
 ---
 
@@ -312684,7 +312684,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/containers/seller-assisted-buying
 
-**Coletado em (UTC):** 2026-07-17T15:53:18.184119+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:25.496233+00:00
 
 ---
 
@@ -313015,7 +313015,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/dictionary
 
-**Coletado em (UTC):** 2026-07-17T15:49:12.344531+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:13.185389+00:00
 
 ---
 
@@ -314824,7 +314824,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/events
 
-**Coletado em (UTC):** 2026-07-17T15:51:05.910310+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:39.050494+00:00
 
 ---
 
@@ -315343,7 +315343,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/functions
 
-**Coletado em (UTC):** 2026-07-17T15:52:48.648007+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:36.877708+00:00
 
 ---
 
@@ -317121,7 +317121,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/initialization
 
-**Coletado em (UTC):** 2026-07-17T15:47:16.670833+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:12.389564+00:00
 
 ---
 
@@ -317892,7 +317892,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/quick-start
 
-**Coletado em (UTC):** 2026-07-17T15:51:09.275795+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:16.103007+00:00
 
 ---
 
@@ -318257,7 +318257,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/sidebar
 
-**Coletado em (UTC):** 2026-07-17T15:50:14.894728+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:37.222528+00:00
 
 ---
 
@@ -318538,7 +318538,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/slots
 
-**Coletado em (UTC):** 2026-07-17T15:50:53.228522+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:26.271915+00:00
 
 ---
 
@@ -319473,7 +319473,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/styles
 
-**Coletado em (UTC):** 2026-07-17T15:51:48.784998+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:09.049607+00:00
 
 ---
 
@@ -320265,7 +320265,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials
 
-**Coletado em (UTC):** 2026-07-17T15:57:46.258637+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:17.887202+00:00
 
 ---
 
@@ -320282,7 +320282,7 @@ to
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/customize-layout
 
-**Coletado em (UTC):** 2026-07-17T15:51:40.630480+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:11.934818+00:00
 
 ---
 
@@ -320694,7 +320694,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/payment-services-my-account
 
-**Coletado em (UTC):** 2026-07-17T15:50:19.624508+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:15.504520+00:00
 
 ---
 
@@ -321199,7 +321199,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/validate-address
 
-**Coletado em (UTC):** 2026-07-17T15:49:47.520435+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:31.951990+00:00
 
 ---
 
@@ -322374,7 +322374,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-auth
 
-**Coletado em (UTC):** 2026-07-17T15:54:03.458621+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:49.075216+00:00
 
 ---
 
@@ -322659,7 +322659,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-auth/containers
 
-**Coletado em (UTC):** 2026-07-17T15:52:08.732491+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:02.035252+00:00
 
 ---
 
@@ -322948,7 +322948,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-auth/containers/auth-combine
 
-**Coletado em (UTC):** 2026-07-17T15:49:25.935274+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:41.514487+00:00
 
 ---
 
@@ -323258,7 +323258,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-auth/containers/reset-password
 
-**Coletado em (UTC):** 2026-07-17T15:48:49.675572+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:19.159748+00:00
 
 ---
 
@@ -323634,7 +323634,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-auth/containers/sign-in
 
-**Coletado em (UTC):** 2026-07-17T15:51:13.874021+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:26.181459+00:00
 
 ---
 
@@ -324262,7 +324262,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-auth/containers/sign-up
 
-**Coletado em (UTC):** 2026-07-17T15:53:37.830698+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:28.029600+00:00
 
 ---
 
@@ -324668,7 +324668,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-auth/containers/success-notification
 
-**Coletado em (UTC):** 2026-07-17T15:49:13.378339+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:49.168833+00:00
 
 ---
 
@@ -325249,7 +325249,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-auth/containers/update-password
 
-**Coletado em (UTC):** 2026-07-17T15:52:42.069539+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:04.998084+00:00
 
 ---
 
@@ -325845,7 +325845,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-auth/dictionary
 
-**Coletado em (UTC):** 2026-07-17T15:52:18.829708+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:40.719379+00:00
 
 ---
 
@@ -326640,7 +326640,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-auth/events
 
-**Coletado em (UTC):** 2026-07-17T15:50:45.106211+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:10.180334+00:00
 
 ---
 
@@ -327265,7 +327265,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-auth/functions
 
-**Coletado em (UTC):** 2026-07-17T15:48:57.069807+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:32.422098+00:00
 
 ---
 
@@ -328503,7 +328503,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-auth/initialization
 
-**Coletado em (UTC):** 2026-07-17T15:50:30.755068+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:31.850676+00:00
 
 ---
 
@@ -329204,7 +329204,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-auth/quick-start
 
-**Coletado em (UTC):** 2026-07-17T15:51:57.735578+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:02.197740+00:00
 
 ---
 
@@ -329569,7 +329569,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-auth/recaptcha
 
-**Coletado em (UTC):** 2026-07-17T15:50:13.215455+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:03.211550+00:00
 
 ---
 
@@ -330217,7 +330217,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-auth/slots
 
-**Coletado em (UTC):** 2026-07-17T15:51:27.647048+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:07.929405+00:00
 
 ---
 
@@ -331941,7 +331941,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-auth/styles
 
-**Coletado em (UTC):** 2026-07-17T15:47:49.673994+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:33.545436+00:00
 
 ---
 
@@ -332459,7 +332459,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/wishlist
 
-**Coletado em (UTC):** 2026-07-17T15:51:01.401958+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:17.796048+00:00
 
 ---
 
@@ -332747,7 +332747,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/wishlist/containers
 
-**Coletado em (UTC):** 2026-07-17T15:51:39.784977+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:27.673487+00:00
 
 ---
 
@@ -333034,7 +333034,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/wishlist/containers/wishlist-alert
 
-**Coletado em (UTC):** 2026-07-17T15:47:56.882003+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:30.479625+00:00
 
 ---
 
@@ -333345,7 +333345,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/wishlist/containers/wishlist-item
 
-**Coletado em (UTC):** 2026-07-17T15:50:08.570038+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:19.191688+00:00
 
 ---
 
@@ -333677,7 +333677,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/wishlist/containers/wishlist-toggle
 
-**Coletado em (UTC):** 2026-07-17T15:51:10.266718+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:32.845925+00:00
 
 ---
 
@@ -334020,7 +334020,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/wishlist/containers/wishlist
 
-**Coletado em (UTC):** 2026-07-17T15:53:34.374555+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:40.078841+00:00
 
 ---
 
@@ -334347,7 +334347,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/wishlist/dictionary
 
-**Coletado em (UTC):** 2026-07-17T15:48:18.779535+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:38.336353+00:00
 
 ---
 
@@ -334902,7 +334902,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/wishlist/events
 
-**Coletado em (UTC):** 2026-07-17T15:47:54.132700+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:35.562299+00:00
 
 ---
 
@@ -335485,7 +335485,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/wishlist/functions
 
-**Coletado em (UTC):** 2026-07-17T15:51:04.031231+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:41.425552+00:00
 
 ---
 
@@ -336514,7 +336514,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/wishlist/initialization
 
-**Coletado em (UTC):** 2026-07-17T15:51:46.949896+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:26.596413+00:00
 
 ---
 
@@ -337085,7 +337085,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/wishlist/quick-start
 
-**Coletado em (UTC):** 2026-07-17T15:51:22.140166+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:51.337449+00:00
 
 ---
 
@@ -337450,7 +337450,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/wishlist/slots
 
-**Coletado em (UTC):** 2026-07-17T15:49:24.073618+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:24.062507+00:00
 
 ---
 
@@ -337850,7 +337850,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/wishlist/styles
 
-**Coletado em (UTC):** 2026-07-17T15:51:14.805060+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:08.037747+00:00
 
 ---
 
@@ -338284,7 +338284,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/get-started
 
-**Coletado em (UTC):** 2026-07-17T15:47:11.440609+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:29.046717+00:00
 
 ---
 
@@ -338593,7 +338593,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/get-started/architecture
 
-**Coletado em (UTC):** 2026-07-17T15:51:56.879217+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:15.699502+00:00
 
 ---
 
@@ -338941,7 +338941,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/get-started/architecture/blocks-and-repo
 
-**Coletado em (UTC):** 2026-07-17T15:52:44.004342+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:15.531767+00:00
 
 ---
 
@@ -339300,7 +339300,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/get-started/architecture/commerce-services-and-backends
 
-**Coletado em (UTC):** 2026-07-17T15:49:10.928344+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:22.894605+00:00
 
 ---
 
@@ -339672,7 +339672,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/get-started/architecture/drop-ins-at-a-glance
 
-**Coletado em (UTC):** 2026-07-17T15:53:12.749386+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:00.961440+00:00
 
 ---
 
@@ -340008,7 +340008,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/get-started/architecture/drop-ins-on-a-page
 
-**Coletado em (UTC):** 2026-07-17T15:47:36.419440+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:44.869666+00:00
 
 ---
 
@@ -340302,7 +340302,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/get-started/architecture/how-a-page-loads
 
-**Coletado em (UTC):** 2026-07-17T15:51:15.702226+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:35.679154+00:00
 
 ---
 
@@ -340585,7 +340585,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/get-started/backends
 
-**Coletado em (UTC):** 2026-07-17T15:48:32.351592+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:58.099602+00:00
 
 ---
 
@@ -340994,7 +340994,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/get-started/before-you-start
 
-**Coletado em (UTC):** 2026-07-17T15:51:45.033363+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:55.155434+00:00
 
 ---
 
@@ -341335,7 +341335,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/get-started/boilerplate-project
 
-**Coletado em (UTC):** 2026-07-17T15:56:24.898942+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:01.649959+00:00
 
 ---
 
@@ -341352,7 +341352,7 @@ to
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/get-started/browser-compatibility
 
-**Coletado em (UTC):** 2026-07-17T15:53:59.610879+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:22.101158+00:00
 
 ---
 
@@ -341686,7 +341686,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/get-started/create-storefront
 
-**Coletado em (UTC):** 2026-07-17T15:50:15.916353+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:12.700617+00:00
 
 ---
 
@@ -342179,7 +342179,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/get-started/performance
 
-**Coletado em (UTC):** 2026-07-17T15:48:59.021038+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:14.804154+00:00
 
 ---
 
@@ -342516,7 +342516,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/how-tos/federated-search
 
-**Coletado em (UTC):** 2026-07-17T15:51:34.675747+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:50.515620+00:00
 
 ---
 
@@ -343649,7 +343649,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/how-tos/search-redirects
 
-**Coletado em (UTC):** 2026-07-17T15:48:35.050041+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:19.238089+00:00
 
 ---
 
@@ -344677,7 +344677,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/launch
 
-**Coletado em (UTC):** 2026-07-17T15:57:16.051856+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:37.814829+00:00
 
 ---
 
@@ -344694,7 +344694,7 @@ to
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/licensing
 
-**Coletado em (UTC):** 2026-07-17T15:53:39.636253+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:44.582810+00:00
 
 ---
 
@@ -345082,7 +345082,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/licensing/license-agreement
 
-**Coletado em (UTC):** 2026-07-17T15:48:20.321095+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:32.554477+00:00
 
 ---
 
@@ -345497,7 +345497,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks
 
-**Coletado em (UTC):** 2026-07-17T15:55:07.791024+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:18.374857+00:00
 
 ---
 
@@ -345780,7 +345780,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/author-and-developer-tasks
 
-**Coletado em (UTC):** 2026-07-17T15:56:05.411681+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:15.496131+00:00
 
 ---
 
@@ -346104,7 +346104,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/b2b
 
-**Coletado em (UTC):** 2026-07-17T15:55:27.520171+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:27.068174+00:00
 
 ---
 
@@ -346523,7 +346523,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/b2c
 
-**Coletado em (UTC):** 2026-07-17T15:55:58.613140+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:23.087179+00:00
 
 ---
 
@@ -346914,7 +346914,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/block-tables
 
-**Coletado em (UTC):** 2026-07-17T15:55:23.223745+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:29.830242+00:00
 
 ---
 
@@ -347219,7 +347219,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-account-header
 
-**Coletado em (UTC):** 2026-07-17T15:55:10.416575+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:43.153188+00:00
 
 ---
 
@@ -347519,7 +347519,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-account-nav
 
-**Coletado em (UTC):** 2026-07-17T15:55:52.538628+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:27.731884+00:00
 
 ---
 
@@ -347813,7 +347813,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-account-sidebar
 
-**Coletado em (UTC):** 2026-07-17T15:55:55.158993+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:57.686824+00:00
 
 ---
 
@@ -348102,7 +348102,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-addresses
 
-**Coletado em (UTC):** 2026-07-17T15:55:56.139788+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:28.495038+00:00
 
 ---
 
@@ -348416,7 +348416,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-b2b-negotiable-quote-template
 
-**Coletado em (UTC):** 2026-07-17T15:55:19.857538+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:19.004156+00:00
 
 ---
 
@@ -348710,7 +348710,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-b2b-negotiable-quote
 
-**Coletado em (UTC):** 2026-07-17T15:55:14.708802+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:51.020843+00:00
 
 ---
 
@@ -349015,7 +349015,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-b2b-po-approval-flow
 
-**Coletado em (UTC):** 2026-07-17T15:54:59.395146+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:51.622546+00:00
 
 ---
 
@@ -349309,7 +349309,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-b2b-po-approval-rule-details
 
-**Coletado em (UTC):** 2026-07-17T15:55:15.579118+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:02.992907+00:00
 
 ---
 
@@ -349603,7 +349603,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-b2b-po-approval-rule-form
 
-**Coletado em (UTC):** 2026-07-17T15:55:04.285113+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:38.908018+00:00
 
 ---
 
@@ -349897,7 +349897,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-b2b-po-approval-rules-list
 
-**Coletado em (UTC):** 2026-07-17T15:55:45.653914+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:20.392551+00:00
 
 ---
 
@@ -350202,7 +350202,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-b2b-po-checkout-success
 
-**Coletado em (UTC):** 2026-07-17T15:55:49.034342+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:14.860923+00:00
 
 ---
 
@@ -350496,7 +350496,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-b2b-po-comment-form
 
-**Coletado em (UTC):** 2026-07-17T15:55:47.307921+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:06.834156+00:00
 
 ---
 
@@ -350790,7 +350790,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-b2b-po-comments-list
 
-**Coletado em (UTC):** 2026-07-17T15:55:11.282041+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:26.387630+00:00
 
 ---
 
@@ -351084,7 +351084,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-b2b-po-company-purchase-orders
 
-**Coletado em (UTC):** 2026-07-17T15:56:02.115209+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:16.140260+00:00
 
 ---
 
@@ -351389,7 +351389,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-b2b-po-customer-purchase-orders
 
-**Coletado em (UTC):** 2026-07-17T15:55:31.000981+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:58.344245+00:00
 
 ---
 
@@ -351694,7 +351694,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-b2b-po-header
 
-**Coletado em (UTC):** 2026-07-17T15:56:01.242451+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:21.052199+00:00
 
 ---
 
@@ -351988,7 +351988,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-b2b-po-history-log
 
-**Coletado em (UTC):** 2026-07-17T15:55:42.209903+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:40.816961+00:00
 
 ---
 
@@ -352282,7 +352282,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-b2b-po-require-approval-purchase-orders
 
-**Coletado em (UTC):** 2026-07-17T15:54:57.658326+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:49.690261+00:00
 
 ---
 
@@ -352587,7 +352587,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-b2b-po-status
 
-**Coletado em (UTC):** 2026-07-17T15:55:54.266855+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:08.928516+00:00
 
 ---
 
@@ -352881,7 +352881,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-b2b-quote-checkout
 
-**Coletado em (UTC):** 2026-07-17T15:55:36.284984+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:19.680127+00:00
 
 ---
 
@@ -353186,7 +353186,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-b2b-requisition-list-view
 
-**Coletado em (UTC):** 2026-07-17T15:55:12.960620+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:46.376025+00:00
 
 ---
 
@@ -353491,7 +353491,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-b2b-requisition-list
 
-**Coletado em (UTC):** 2026-07-17T15:55:25.703026+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:04.258173+00:00
 
 ---
 
@@ -353796,7 +353796,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-cart
 
-**Coletado em (UTC):** 2026-07-17T15:55:30.112583+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:00.415079+00:00
 
 ---
 
@@ -354156,7 +354156,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-checkout-success
 
-**Coletado em (UTC):** 2026-07-17T15:55:12.116245+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:35.200184+00:00
 
 ---
 
@@ -354450,7 +354450,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-checkout
 
-**Coletado em (UTC):** 2026-07-17T15:55:59.488652+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:31.789200+00:00
 
 ---
 
@@ -354750,7 +354750,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-company-accept-invitation
 
-**Coletado em (UTC):** 2026-07-17T15:55:43.873504+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:32.454392+00:00
 
 ---
 
@@ -355044,7 +355044,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-company-create
 
-**Coletado em (UTC):** 2026-07-17T15:55:37.993422+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:49.003859+00:00
 
 ---
 
@@ -355348,7 +355348,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-company-credit
 
-**Coletado em (UTC):** 2026-07-17T15:55:33.662876+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:13.562449+00:00
 
 ---
 
@@ -355667,7 +355667,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-company-profile
 
-**Coletado em (UTC):** 2026-07-17T15:55:00.204806+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:03.663841+00:00
 
 ---
 
@@ -355972,7 +355972,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-company-roles-permissions
 
-**Coletado em (UTC):** 2026-07-17T15:55:06.021195+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:35.876422+00:00
 
 ---
 
@@ -356277,7 +356277,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-company-structure
 
-**Coletado em (UTC):** 2026-07-17T15:56:04.517543+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:47.757460+00:00
 
 ---
 
@@ -356582,7 +356582,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-company-users
 
-**Coletado em (UTC):** 2026-07-17T15:55:06.917863+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:09.591899+00:00
 
 ---
 
@@ -356887,7 +356887,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-confirm-account
 
-**Coletado em (UTC):** 2026-07-17T15:55:48.177077+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:02.334220+00:00
 
 ---
 
@@ -357176,7 +357176,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-create-account
 
-**Coletado em (UTC):** 2026-07-17T15:55:57.083147+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:39.551615+00:00
 
 ---
 
@@ -357476,7 +357476,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-create-password
 
-**Coletado em (UTC):** 2026-07-17T15:56:07.993027+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:55.659712+00:00
 
 ---
 
@@ -357765,7 +357765,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-create-return
 
-**Coletado em (UTC):** 2026-07-17T15:55:01.068746+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:10.253251+00:00
 
 ---
 
@@ -358054,7 +358054,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-customer-company
 
-**Coletado em (UTC):** 2026-07-17T15:55:29.258267+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:54.854482+00:00
 
 ---
 
@@ -358348,7 +358348,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-customer-details
 
-**Coletado em (UTC):** 2026-07-17T15:55:24.857386+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:48.422331+00:00
 
 ---
 
@@ -358637,7 +358637,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-customer-information
 
-**Coletado em (UTC):** 2026-07-17T15:54:58.534878+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:12.240568+00:00
 
 ---
 
@@ -358931,7 +358931,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-forgot-password
 
-**Coletado em (UTC):** 2026-07-17T15:55:05.013012+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:01.076675+00:00
 
 ---
 
@@ -359220,7 +359220,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-gift-options
 
-**Coletado em (UTC):** 2026-07-17T15:55:40.476195+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:43.777269+00:00
 
 ---
 
@@ -359509,7 +359509,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-login
 
-**Coletado em (UTC):** 2026-07-17T15:55:08.652441+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:25.757835+00:00
 
 ---
 
@@ -359809,7 +359809,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-mini-cart
 
-**Coletado em (UTC):** 2026-07-17T15:55:24.077532+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:52.963810+00:00
 
 ---
 
@@ -360143,7 +360143,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-order-comments
 
-**Coletado em (UTC):** 2026-07-17T15:55:22.387583+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:45.094080+00:00
 
 ---
 
@@ -360430,7 +360430,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-order-cost-summary
 
-**Coletado em (UTC):** 2026-07-17T15:55:35.394715+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:17.015886+00:00
 
 ---
 
@@ -360719,7 +360719,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-order-header
 
-**Coletado em (UTC):** 2026-07-17T15:55:02.701920+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:22.430549+00:00
 
 ---
 
@@ -361008,7 +361008,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-order-product-list
 
-**Coletado em (UTC):** 2026-07-17T15:56:00.289919+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:12.908808+00:00
 
 ---
 
@@ -361297,7 +361297,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-order-returns
 
-**Coletado em (UTC):** 2026-07-17T15:55:20.742479+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:29.165841+00:00
 
 ---
 
@@ -361586,7 +361586,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-order-status
 
-**Coletado em (UTC):** 2026-07-17T15:55:46.504167+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:30.447505+00:00
 
 ---
 
@@ -361875,7 +361875,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-orders-list
 
-**Coletado em (UTC):** 2026-07-17T15:55:42.987338+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:07.472004+00:00
 
 ---
 
@@ -362178,7 +362178,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-return-header
 
-**Coletado em (UTC):** 2026-07-17T15:55:39.674365+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:38.298683+00:00
 
 ---
 
@@ -362467,7 +362467,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-returns-list
 
-**Coletado em (UTC):** 2026-07-17T15:55:17.313066+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:53.619322+00:00
 
 ---
 
@@ -362770,7 +362770,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-search-order
 
-**Coletado em (UTC):** 2026-07-17T15:55:50.806685+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:24.464857+00:00
 
 ---
 
@@ -363059,7 +363059,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-shipping-status
 
-**Coletado em (UTC):** 2026-07-17T15:56:02.817367+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:11.566305+00:00
 
 ---
 
@@ -363348,7 +363348,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/commerce-wishlist
 
-**Coletado em (UTC):** 2026-07-17T15:55:51.671483+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:52.322237+00:00
 
 ---
 
@@ -363652,7 +363652,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/content-commerce-blocks
 
-**Coletado em (UTC):** 2026-07-17T15:55:41.345222+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:59.680997+00:00
 
 ---
 
@@ -363941,7 +363941,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/labels-and-placeholders
 
-**Coletado em (UTC):** 2026-07-17T15:54:54.985199+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:40.194437+00:00
 
 ---
 
@@ -364324,7 +364324,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/page-metadata
 
-**Coletado em (UTC):** 2026-07-17T15:55:28.401239+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:34.494764+00:00
 
 ---
 
@@ -364734,7 +364734,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/placeholder-sheets
 
-**Coletado em (UTC):** 2026-07-17T15:55:37.091547+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:08.259247+00:00
 
 ---
 
@@ -365034,7 +365034,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/product-details
 
-**Coletado em (UTC):** 2026-07-17T15:55:31.821464+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:50.362983+00:00
 
 ---
 
@@ -365372,7 +365372,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/product-list-page
 
-**Coletado em (UTC):** 2026-07-17T15:55:09.557018+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:31.135337+00:00
 
 ---
 
@@ -365675,7 +365675,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/section-metadata
 
-**Coletado em (UTC):** 2026-07-17T15:54:55.854761+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:33.258608+00:00
 
 ---
 
@@ -366026,7 +366026,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/blocks/seller-assisted-buying
 
-**Coletado em (UTC):** 2026-07-17T15:55:26.542106+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:21.672271+00:00
 
 ---
 
@@ -366351,7 +366351,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/content-customizations
 
-**Coletado em (UTC):** 2026-07-17T15:55:21.566675+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:56.294360+00:00
 
 ---
 
@@ -366631,7 +366631,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/content-customizations/enrichment
 
-**Coletado em (UTC):** 2026-07-17T15:55:18.995531+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:06.183509+00:00
 
 ---
 
@@ -367189,7 +367189,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/content-customizations/experiments
 
-**Coletado em (UTC):** 2026-07-17T15:56:06.192991+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:36.439549+00:00
 
 ---
 
@@ -367542,7 +367542,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/content-customizations/personalization
 
-**Coletado em (UTC):** 2026-07-17T15:56:08.970156+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:25.113581+00:00
 
 ---
 
@@ -367875,7 +367875,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/content-customizations/prerendered-product-pages
 
-**Coletado em (UTC):** 2026-07-17T15:54:56.698181+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:54.237079+00:00
 
 ---
 
@@ -368207,7 +368207,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/content-customizations/product-recommendations
 
-**Coletado em (UTC):** 2026-07-17T15:55:38.822555+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:45.724856+00:00
 
 ---
 
@@ -368576,7 +368576,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/content-customizations/terms-and-conditions
 
-**Coletado em (UTC):** 2026-07-17T15:56:07.119614+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:17.696763+00:00
 
 ---
 
@@ -368924,7 +368924,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/edge-delivery-services
 
-**Coletado em (UTC):** 2026-07-17T15:55:57.880502+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:14.230837+00:00
 
 ---
 
@@ -369209,7 +369209,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/edge-delivery-services/content-migration
 
-**Coletado em (UTC):** 2026-07-17T15:55:01.869422+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:23.763882+00:00
 
 ---
 
@@ -369578,7 +369578,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/edge-delivery-services/file-limits
 
-**Coletado em (UTC):** 2026-07-17T15:55:53.395603+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:33.851111+00:00
 
 ---
 
@@ -369873,7 +369873,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/edge-delivery-services/redirects
 
-**Coletado em (UTC):** 2026-07-17T15:55:18.160025+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:37.669871+00:00
 
 ---
 
@@ -370157,7 +370157,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/edge-delivery-services/scheduling
 
-**Coletado em (UTC):** 2026-07-17T15:55:13.844856+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:44.434308+00:00
 
 ---
 
@@ -370524,7 +370524,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/edge-delivery-services/sitemaps
 
-**Coletado em (UTC):** 2026-07-17T15:55:49.875230+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:58.993541+00:00
 
 ---
 
@@ -370821,7 +370821,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/quick-start
 
-**Coletado em (UTC):** 2026-07-17T15:47:14.013991+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:27.088775+00:00
 
 ---
 
@@ -371105,7 +371105,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/quick-start/content-localization-commerce-tasks
 
-**Coletado em (UTC):** 2026-07-17T15:54:52.441243+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:47.056673+00:00
 
 ---
 
@@ -371528,7 +371528,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/quick-start/content-localization-universal-editor
 
-**Coletado em (UTC):** 2026-07-17T15:56:03.641053+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:37.015050+00:00
 
 ---
 
@@ -371860,7 +371860,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/quick-start/content-localization
 
-**Coletado em (UTC):** 2026-07-17T15:55:32.592638+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:05.562150+00:00
 
 ---
 
@@ -372234,7 +372234,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/quick-start/create-content
 
-**Coletado em (UTC):** 2026-07-17T15:55:44.711323+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:01.710298+00:00
 
 ---
 
@@ -372563,7 +372563,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/quick-start/document-authoring
 
-**Coletado em (UTC):** 2026-07-17T15:55:34.524893+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:04.917210+00:00
 
 ---
 
@@ -372841,7 +372841,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/quick-start/universal-editor
 
-**Coletado em (UTC):** 2026-07-17T15:55:03.526737+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:10.949841+00:00
 
 ---
 
@@ -373136,7 +373136,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/quick-start/your-first-page
 
-**Coletado em (UTC):** 2026-07-17T15:55:16.443418+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:57.032911+00:00
 
 ---
 
@@ -373476,7 +373476,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/merchants/storefront-builder/commerce-picker
 
-**Coletado em (UTC):** 2026-07-17T15:57:47.046272+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:17.097137+00:00
 
 ---
 
@@ -373759,7 +373759,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/playgrounds
 
-**Coletado em (UTC):** 2026-07-17T15:47:13.212620+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:27.755609+00:00
 
 ---
 
@@ -374031,7 +374031,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/playgrounds/commerce-optimizer
 
-**Coletado em (UTC):** 2026-07-17T15:54:54.127605+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:42.010390+00:00
 
 ---
 
@@ -374302,7 +374302,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/playgrounds/commerce-services
 
-**Coletado em (UTC):** 2026-07-17T15:54:21.113403+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:24.686083+00:00
 
 ---
 
@@ -374573,7 +374573,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/reference
 
-**Coletado em (UTC):** 2026-07-17T15:49:55.960793+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:13.430260+00:00
 
 ---
 
@@ -374846,7 +374846,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/reference/dropins-mcp
 
-**Coletado em (UTC):** 2026-07-17T15:50:59.578241+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:09.521649+00:00
 
 ---
 
@@ -375389,7 +375389,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/releases
 
-**Coletado em (UTC):** 2026-07-17T15:47:14.822820+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:29.747190+00:00
 
 ---
 
@@ -376827,7 +376827,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/releases/changelog
 
-**Coletado em (UTC):** 2026-07-17T15:56:10.706382+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:46.602953+00:00
 
 ---
 
@@ -379256,7 +379256,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/releases/hotfixes/centralized-fetchgraphql
 
-**Coletado em (UTC):** 2026-07-17T15:56:09.917646+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:47.426360+00:00
 
 ---
 
@@ -379633,7 +379633,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/resources
 
-**Coletado em (UTC):** 2026-07-17T15:53:30.009260+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:04.052878+00:00
 
 ---
 
@@ -379901,7 +379901,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/resources/placeholders
 
-**Coletado em (UTC):** 2026-07-17T15:49:36.009624+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:57.005725+00:00
 
 ---
 
@@ -380169,7 +380169,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk
 
-**Coletado em (UTC):** 2026-07-17T15:46:58.876048+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:13.760309+00:00
 
 ---
 
@@ -380455,7 +380455,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/accordion
 
-**Coletado em (UTC):** 2026-07-17T15:53:13.635959+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:14.075719+00:00
 
 ---
 
@@ -380750,7 +380750,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/actionbutton
 
-**Coletado em (UTC):** 2026-07-17T15:48:41.124459+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:20.048838+00:00
 
 ---
 
@@ -381045,7 +381045,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/actionbuttongroup
 
-**Coletado em (UTC):** 2026-07-17T15:52:36.318762+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:24.870455+00:00
 
 ---
 
@@ -381340,7 +381340,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/alertbanner
 
-**Coletado em (UTC):** 2026-07-17T15:49:15.998707+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:33.438361+00:00
 
 ---
 
@@ -381635,7 +381635,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/breadcrumbs
 
-**Coletado em (UTC):** 2026-07-17T15:50:11.492659+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:16.419690+00:00
 
 ---
 
@@ -381930,7 +381930,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/button
 
-**Coletado em (UTC):** 2026-07-17T15:47:19.567019+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:45.999398+00:00
 
 ---
 
@@ -382225,7 +382225,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/card
 
-**Coletado em (UTC):** 2026-07-17T15:48:16.866527+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:51.142398+00:00
 
 ---
 
@@ -382520,7 +382520,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/cartitem
 
-**Coletado em (UTC):** 2026-07-17T15:52:24.923145+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:26.646172+00:00
 
 ---
 
@@ -382815,7 +382815,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/cartlist
 
-**Coletado em (UTC):** 2026-07-17T15:47:22.323019+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:08.361320+00:00
 
 ---
 
@@ -383110,7 +383110,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/checkbox
 
-**Coletado em (UTC):** 2026-07-17T15:51:59.612146+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:14.778259+00:00
 
 ---
 
@@ -383405,7 +383405,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/colorswatch
 
-**Coletado em (UTC):** 2026-07-17T15:52:00.480233+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:49.092244+00:00
 
 ---
 
@@ -383700,7 +383700,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/contentgrid
 
-**Coletado em (UTC):** 2026-07-17T15:53:48.753170+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:26.871533+00:00
 
 ---
 
@@ -383995,7 +383995,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/divider
 
-**Coletado em (UTC):** 2026-07-17T15:47:55.038060+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:44.054173+00:00
 
 ---
 
@@ -384290,7 +384290,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/field
 
-**Coletado em (UTC):** 2026-07-17T15:52:33.470460+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:49.311541+00:00
 
 ---
 
@@ -384585,7 +384585,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/header
 
-**Coletado em (UTC):** 2026-07-17T15:49:41.772349+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:22.010240+00:00
 
 ---
 
@@ -384880,7 +384880,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/icon
 
-**Coletado em (UTC):** 2026-07-17T15:51:54.464158+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:39.062135+00:00
 
 ---
 
@@ -385175,7 +385175,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/illustratedmessage
 
-**Coletado em (UTC):** 2026-07-17T15:48:09.534834+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:21.518383+00:00
 
 ---
 
@@ -385470,7 +385470,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/image
 
-**Coletado em (UTC):** 2026-07-17T15:49:23.173051+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:30.525149+00:00
 
 ---
 
@@ -385765,7 +385765,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/imageswatch
 
-**Coletado em (UTC):** 2026-07-17T15:48:42.987166+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:31.772370+00:00
 
 ---
 
@@ -386060,7 +386060,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/incrementer
 
-**Coletado em (UTC):** 2026-07-17T15:53:02.548530+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:15.409666+00:00
 
 ---
 
@@ -386355,7 +386355,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/inlinealert
 
-**Coletado em (UTC):** 2026-07-17T15:48:10.442830+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:48.436472+00:00
 
 ---
 
@@ -386650,7 +386650,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/input
 
-**Coletado em (UTC):** 2026-07-17T15:51:51.535534+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:03.744149+00:00
 
 ---
 
@@ -386945,7 +386945,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/inputdate
 
-**Coletado em (UTC):** 2026-07-17T15:49:14.187601+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:36.104808+00:00
 
 ---
 
@@ -387240,7 +387240,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/inputfile
 
-**Coletado em (UTC):** 2026-07-17T15:52:50.467516+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:42.150680+00:00
 
 ---
 
@@ -387535,7 +387535,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/inputpassword
 
-**Coletado em (UTC):** 2026-07-17T15:52:35.443711+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:00.559122+00:00
 
 ---
 
@@ -387830,7 +387830,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/modal
 
-**Coletado em (UTC):** 2026-07-17T15:47:44.980863+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:48.612889+00:00
 
 ---
 
@@ -388125,7 +388125,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/overview
 
-**Coletado em (UTC):** 2026-07-17T15:52:06.073633+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:31.877569+00:00
 
 ---
 
@@ -388437,7 +388437,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/pagination
 
-**Coletado em (UTC):** 2026-07-17T15:49:40.018454+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:26.952532+00:00
 
 ---
 
@@ -388732,7 +388732,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/picker
 
-**Coletado em (UTC):** 2026-07-17T15:47:38.237267+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:17.089230+00:00
 
 ---
 
@@ -389027,7 +389027,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/portal
 
-**Coletado em (UTC):** 2026-07-17T15:49:52.231372+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:14.092237+00:00
 
 ---
 
@@ -389322,7 +389322,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/price
 
-**Coletado em (UTC):** 2026-07-17T15:52:59.745529+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:55.989301+00:00
 
 ---
 
@@ -389617,7 +389617,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/pricerange
 
-**Coletado em (UTC):** 2026-07-17T15:51:12.129364+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:19.343844+00:00
 
 ---
 
@@ -389912,7 +389912,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/productitemcard
 
-**Coletado em (UTC):** 2026-07-17T15:52:10.691028+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:18.249656+00:00
 
 ---
 
@@ -390207,7 +390207,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/progressspinner
 
-**Coletado em (UTC):** 2026-07-17T15:48:47.592103+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:47.170900+00:00
 
 ---
 
@@ -390502,7 +390502,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/radiobutton
 
-**Coletado em (UTC):** 2026-07-17T15:49:56.888783+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:51.433935+00:00
 
 ---
 
@@ -390797,7 +390797,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/skeleton
 
-**Coletado em (UTC):** 2026-07-17T15:50:49.719079+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:56.350576+00:00
 
 ---
 
@@ -391092,7 +391092,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/tag
 
-**Coletado em (UTC):** 2026-07-17T15:51:55.267405+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:06.847737+00:00
 
 ---
 
@@ -391387,7 +391387,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/textarea
 
-**Coletado em (UTC):** 2026-07-17T15:53:35.293291+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:39.791184+00:00
 
 ---
 
@@ -391682,7 +391682,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/textswatch
 
-**Coletado em (UTC):** 2026-07-17T15:50:14.013565+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:30.307882+00:00
 
 ---
 
@@ -391977,7 +391977,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/components/togglebutton
 
-**Coletado em (UTC):** 2026-07-17T15:49:54.133554+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:56.224701+00:00
 
 ---
 
@@ -392272,7 +392272,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/design
 
-**Coletado em (UTC):** 2026-07-17T15:52:17.954464+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:21.932461+00:00
 
 ---
 
@@ -392550,7 +392550,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/design/base
 
-**Coletado em (UTC):** 2026-07-17T15:47:55.895512+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:52.593772+00:00
 
 ---
 
@@ -392853,7 +392853,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/design/colors
 
-**Coletado em (UTC):** 2026-07-17T15:49:35.256453+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:59.930249+00:00
 
 ---
 
@@ -393148,7 +393148,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/design/grid
 
-**Coletado em (UTC):** 2026-07-17T15:51:20.287562+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:03.905774+00:00
 
 ---
 
@@ -393443,7 +393443,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/design/shapes
 
-**Coletado em (UTC):** 2026-07-17T15:48:35.981344+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:28.623133+00:00
 
 ---
 
@@ -393738,7 +393738,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/design/spacing
 
-**Coletado em (UTC):** 2026-07-17T15:53:38.788432+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:41.206395+00:00
 
 ---
 
@@ -394033,7 +394033,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/design/typography
 
-**Coletado em (UTC):** 2026-07-17T15:48:37.639021+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:59.589098+00:00
 
 ---
 
@@ -394328,7 +394328,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/get-started/cli
 
-**Coletado em (UTC):** 2026-07-17T15:49:32.593029+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:44.795492+00:00
 
 ---
 
@@ -395071,7 +395071,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/reference
 
-**Coletado em (UTC):** 2026-07-17T15:48:17.867372+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:44.731328+00:00
 
 ---
 
@@ -395352,7 +395352,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/reference/events
 
-**Coletado em (UTC):** 2026-07-17T15:54:05.179674+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:35.364141+00:00
 
 ---
 
@@ -396438,7 +396438,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/reference/graphql
 
-**Coletado em (UTC):** 2026-07-17T15:51:25.775853+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:59.193268+00:00
 
 ---
 
@@ -397296,7 +397296,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/reference/initializer
 
-**Coletado em (UTC):** 2026-07-17T15:47:39.117402+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:30.306133+00:00
 
 ---
 
@@ -398067,7 +398067,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/reference/links
 
-**Coletado em (UTC):** 2026-07-17T15:52:51.476881+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:09.800107+00:00
 
 ---
 
@@ -398497,7 +398497,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/reference/recaptcha
 
-**Coletado em (UTC):** 2026-07-17T15:53:51.451509+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:28.761082+00:00
 
 ---
 
@@ -399046,7 +399046,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/reference/render
 
-**Coletado em (UTC):** 2026-07-17T15:49:28.797025+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:31.116595+00:00
 
 ---
 
@@ -399695,7 +399695,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/reference/slots
 
-**Coletado em (UTC):** 2026-07-17T15:50:50.494981+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:22.171673+00:00
 
 ---
 
@@ -400698,7 +400698,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/reference/vcomponent
 
-**Coletado em (UTC):** 2026-07-17T15:49:51.310719+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:47.664577+00:00
 
 ---
 
@@ -401181,7 +401181,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/utilities
 
-**Coletado em (UTC):** 2026-07-17T15:49:10.052229+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:31.051446+00:00
 
 ---
 
@@ -401461,7 +401461,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/utilities/classlist
 
-**Coletado em (UTC):** 2026-07-17T15:50:46.075019+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:11.848623+00:00
 
 ---
 
@@ -401900,7 +401900,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/utilities/debounce
 
-**Coletado em (UTC):** 2026-07-17T15:53:36.936397+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:34.188560+00:00
 
 ---
 
@@ -402257,7 +402257,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/utilities/deepmerge
 
-**Coletado em (UTC):** 2026-07-17T15:51:06.723573+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:02.432648+00:00
 
 ---
 
@@ -402526,7 +402526,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/utilities/getcookie
 
-**Coletado em (UTC):** 2026-07-17T15:47:47.812771+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:10.919905+00:00
 
 ---
 
@@ -402839,7 +402839,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/utilities/getformerrors
 
-**Coletado em (UTC):** 2026-07-17T15:52:46.866726+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:36.439206+00:00
 
 ---
 
@@ -403253,7 +403253,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/utilities/getformvalues
 
-**Coletado em (UTC):** 2026-07-17T15:51:47.927383+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:47.023082+00:00
 
 ---
 
@@ -403620,7 +403620,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk/utilities/getpathvalue
 
-**Coletado em (UTC):** 2026-07-17T15:47:25.189511+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:52.905241+00:00
 
 ---
 
@@ -403957,7 +403957,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup
 
-**Coletado em (UTC):** 2026-07-17T15:53:09.149471+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:42.647381+00:00
 
 ---
 
@@ -404386,7 +404386,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/analytics/adobe-experience-platform
 
-**Coletado em (UTC):** 2026-07-17T15:52:30.696585+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:09.350194+00:00
 
 ---
 
@@ -404909,7 +404909,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/analytics/instrumentation
 
-**Coletado em (UTC):** 2026-07-17T15:51:55.978421+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:50.665623+00:00
 
 ---
 
@@ -405597,7 +405597,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/configuration
 
-**Coletado em (UTC):** 2026-07-17T15:53:19.991778+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:01.297176+00:00
 
 ---
 
@@ -405882,7 +405882,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/configuration/aem-assets-configuration
 
-**Coletado em (UTC):** 2026-07-17T15:53:40.567225+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:18.577404+00:00
 
 ---
 
@@ -406505,7 +406505,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/configuration/aem-prerender
 
-**Coletado em (UTC):** 2026-07-17T15:49:34.401165+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:51.246822+00:00
 
 ---
 
@@ -407221,7 +407221,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/configuration/commerce-configuration
 
-**Coletado em (UTC):** 2026-07-17T15:52:54.059611+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:03.458032+00:00
 
 ---
 
@@ -409279,7 +409279,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/configuration/content-delivery-network
 
-**Coletado em (UTC):** 2026-07-17T15:51:33.654008+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:58.940882+00:00
 
 ---
 
@@ -410690,7 +410690,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/configuration/cors-setup
 
-**Coletado em (UTC):** 2026-07-17T15:48:43.794990+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:37.208310+00:00
 
 ---
 
@@ -411072,7 +411072,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/configuration/cors-troubleshooting
 
-**Coletado em (UTC):** 2026-07-17T15:48:21.205449+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:09.070873+00:00
 
 ---
 
@@ -411672,7 +411672,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/configuration/gated-content
 
-**Coletado em (UTC):** 2026-07-17T15:49:37.413219+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:53.710180+00:00
 
 ---
 
@@ -411969,7 +411969,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/configuration/multistore-setup
 
-**Coletado em (UTC):** 2026-07-17T15:50:05.881230+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:34.606019+00:00
 
 ---
 
@@ -412757,7 +412757,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/configuration/price-book-setup
 
-**Coletado em (UTC):** 2026-07-17T15:47:33.622365+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:40.692601+00:00
 
 ---
 
@@ -413096,7 +413096,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/configuration/storefront-compatibility-b2b
 
-**Coletado em (UTC):** 2026-07-17T15:50:55.910744+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:38.709450+00:00
 
 ---
 
@@ -413386,7 +413386,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/configuration/storefront-compatibility/install
 
-**Coletado em (UTC):** 2026-07-17T15:50:35.924490+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:11.917520+00:00
 
 ---
 
@@ -413687,7 +413687,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/configuration/storefront-compatibility/v247
 
-**Coletado em (UTC):** 2026-07-17T15:50:40.627826+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:36.903715+00:00
 
 ---
 
@@ -413987,7 +413987,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/configuration/storefront-compatibility/v248
 
-**Coletado em (UTC):** 2026-07-17T15:53:58.627852+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:16.235512+00:00
 
 ---
 
@@ -414278,7 +414278,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/configuration/storefront-compatibility/v249
 
-**Coletado em (UTC):** 2026-07-17T15:53:04.530735+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:25.928659+00:00
 
 ---
 
@@ -414564,7 +414564,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/discovery/data-export-validation
 
-**Coletado em (UTC):** 2026-07-17T15:54:06.192116+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:23.357517+00:00
 
 ---
 
@@ -414841,7 +414841,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/discovery/luma-bridge
 
-**Coletado em (UTC):** 2026-07-17T15:49:01.735716+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:11.034191+00:00
 
 ---
 
@@ -415182,7 +415182,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/launch
 
-**Coletado em (UTC):** 2026-07-17T15:48:44.719308+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:43.548025+00:00
 
 ---
 
@@ -415538,7 +415538,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/seo
 
-**Coletado em (UTC):** 2026-07-17T15:50:47.909223+00:00
+**Coletado em (UTC):** 2026-07-22T14:24:49.681473+00:00
 
 ---
 
@@ -415851,7 +415851,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/seo/indexing
 
-**Coletado em (UTC):** 2026-07-17T15:49:45.656272+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:28.194042+00:00
 
 ---
 
@@ -416206,7 +416206,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/seo/metadata
 
-**Coletado em (UTC):** 2026-07-17T15:52:43.001564+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:20.668251+00:00
 
 ---
 
@@ -416610,7 +416610,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/seo/platform-limits
 
-**Coletado em (UTC):** 2026-07-17T15:52:12.477037+00:00
+**Coletado em (UTC):** 2026-07-22T14:22:37.629575+00:00
 
 ---
 
@@ -416921,7 +416921,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/seo/sitemaps
 
-**Coletado em (UTC):** 2026-07-17T15:53:31.706028+00:00
+**Coletado em (UTC):** 2026-07-22T14:23:46.626836+00:00
 
 ---
 
@@ -417237,7 +417237,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/troubleshooting/faq
 
-**Coletado em (UTC):** 2026-07-17T15:52:49.551135+00:00
+**Coletado em (UTC):** 2026-07-22T14:25:56.620365+00:00
 
 ---
 
@@ -417848,7 +417848,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/troubleshooting/pagespeed-issues
 
-**Coletado em (UTC):** 2026-07-17T15:50:22.211550+00:00
+**Coletado em (UTC):** 2026-07-22T14:26:03.072462+00:00
 
 ---
 
@@ -418137,7 +418137,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/videos
 
-**Coletado em (UTC):** 2026-07-17T15:47:12.422885+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:28.407373+00:00
 
 ---
 
@@ -418419,7 +418419,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/videos/add-product-lines-to-cart-summary
 
-**Coletado em (UTC):** 2026-07-17T15:54:47.537959+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:43.390554+00:00
 
 ---
 
@@ -418714,7 +418714,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/videos/buy-online-pickup-in-store
 
-**Coletado em (UTC):** 2026-07-17T15:54:50.052362+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:42.700510+00:00
 
 ---
 
@@ -419000,7 +419000,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/videos/customize-address-form-layout
 
-**Coletado em (UTC):** 2026-07-17T15:54:48.371804+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:45.264020+00:00
 
 ---
 
@@ -419299,7 +419299,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/videos/customize-cart-summary
 
-**Coletado em (UTC):** 2026-07-17T15:54:51.621192+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:45.890025+00:00
 
 ---
 
@@ -419585,7 +419585,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/videos/customize-order-summary-lines
 
-**Coletado em (UTC):** 2026-07-17T15:54:49.182563+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:44.051514+00:00
 
 ---
 
@@ -419870,7 +419870,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/videos/multi-step-checkout
 
-**Coletado em (UTC):** 2026-07-17T15:54:50.781123+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:44.669445+00:00
 
 ---
 
@@ -420154,7 +420154,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/videos/shopper-experience
 
-**Coletado em (UTC):** 2026-07-17T15:54:53.184032+00:00
+**Coletado em (UTC):** 2026-07-22T14:28:41.444547+00:00
 
 ---
 
@@ -420440,7 +420440,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-companies
 
-**Coletado em (UTC):** 2026-07-17T15:59:42.999566+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:07.853001+00:00
 
 ---
 
@@ -420534,7 +420534,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-company-admin
 
-**Coletado em (UTC):** 2026-07-17T16:00:22.002553+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:45.400705+00:00
 
 ---
 
@@ -420580,7 +420580,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-company-approve
 
-**Coletado em (UTC):** 2026-07-17T16:00:18.502348+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:50.295669+00:00
 
 ---
 
@@ -420644,7 +420644,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-company-create
 
-**Coletado em (UTC):** 2026-07-17T16:00:19.304206+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:49.353034+00:00
 
 ---
 
@@ -421028,7 +421028,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-company-customer-group
 
-**Coletado em (UTC):** 2026-07-17T16:00:24.429135+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:47.631884+00:00
 
 ---
 
@@ -421076,7 +421076,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-company-manage
 
-**Coletado em (UTC):** 2026-07-17T15:59:33.321737+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:03.634768+00:00
 
 ---
 
@@ -421569,7 +421569,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/credit-company
 
-**Coletado em (UTC):** 2026-07-17T16:00:25.363702+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:51.902911+00:00
 
 ---
 
@@ -421786,7 +421786,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/email-company-configuration
 
-**Coletado em (UTC):** 2026-07-17T16:00:26.478514+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:52.674223+00:00
 
 ---
 
@@ -421827,7 +421827,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/users/account-company-roles-permissions
 
-**Coletado em (UTC):** 2026-07-17T15:59:36.391865+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:01.930854+00:00
 
 ---
 
@@ -422087,7 +422087,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/users/account-company-structure
 
-**Coletado em (UTC):** 2026-07-17T15:59:37.408992+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:12.290330+00:00
 
 ---
 
@@ -422203,7 +422203,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/users/account-company-users
 
-**Coletado em (UTC):** 2026-07-17T16:00:22.832628+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:48.452651+00:00
 
 ---
 
@@ -422321,7 +422321,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/company-management/manage-companies
 
-**Coletado em (UTC):** 2026-07-17T15:59:41.532460+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:07.058519+00:00
 
 ---
 
@@ -422438,7 +422438,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/company-management/manage-company-hierarchy
 
-**Coletado em (UTC):** 2026-07-17T16:00:20.405099+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:51.018143+00:00
 
 ---
 
@@ -422560,7 +422560,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/enable-basic-features
 
-**Coletado em (UTC):** 2026-07-17T15:58:12.421075+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:46.072668+00:00
 
 ---
 
@@ -422679,7 +422679,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/guide-overview
 
-**Coletado em (UTC):** 2026-07-17T15:58:17.314164+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:46.918981+00:00
 
 ---
 
@@ -422773,7 +422773,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/install
 
-**Coletado em (UTC):** 2026-07-17T15:57:00.878258+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:31.565295+00:00
 
 ---
 
@@ -422953,7 +422953,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/introduction
 
-**Coletado em (UTC):** 2026-07-17T15:59:42.279750+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:06.139108+00:00
 
 ---
 
@@ -423055,7 +423055,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules
 
-**Coletado em (UTC):** 2026-07-17T15:58:13.383960+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:49.115192+00:00
 
 ---
 
@@ -423177,7 +423177,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/purchase-orders/account-dashboard-my-purchase-orders
 
-**Coletado em (UTC):** 2026-07-17T15:59:38.341790+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:09.039401+00:00
 
 ---
 
@@ -423256,7 +423256,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow
 
-**Coletado em (UTC):** 2026-07-17T15:58:14.190497+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:47.608682+00:00
 
 ---
 
@@ -423387,7 +423387,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/quick-order
 
-**Coletado em (UTC):** 2026-07-17T15:59:34.113269+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:02.793858+00:00
 
 ---
 
@@ -423463,7 +423463,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes
 
-**Coletado em (UTC):** 2026-07-17T16:00:21.248267+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:46.875569+00:00
 
 ---
 
@@ -423713,7 +423713,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/quotes/configure-quotes
 
-**Coletado em (UTC):** 2026-07-17T16:00:23.731354+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:46.135348+00:00
 
 ---
 
@@ -423763,7 +423763,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/quotes/quote-price-negotiation
 
-**Coletado em (UTC):** 2026-07-17T15:59:40.706829+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:59.432243+00:00
 
 ---
 
@@ -424058,7 +424058,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/quotes/quote-request
 
-**Coletado em (UTC):** 2026-07-17T15:59:39.060999+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:01.149119+00:00
 
 ---
 
@@ -424102,7 +424102,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/quotes/quotes
 
-**Coletado em (UTC):** 2026-07-17T15:58:16.181568+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:43.853262+00:00
 
 ---
 
@@ -424240,7 +424240,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/quotes/sales-rep-initiates-quote
 
-**Coletado em (UTC):** 2026-07-17T15:59:39.775228+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:00.330204+00:00
 
 ---
 
@@ -424317,7 +424317,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/reference/packages
 
-**Coletado em (UTC):** 2026-07-17T15:58:18.068799+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:44.737509+00:00
 
 ---
 
@@ -424964,7 +424964,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/requisition-lists/configure-requisition-lists
 
-**Coletado em (UTC):** 2026-07-17T15:59:34.936734+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:05.290764+00:00
 
 ---
 
@@ -425007,7 +425007,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/requisition-lists/requisition-lists
 
-**Coletado em (UTC):** 2026-07-17T15:59:35.630009+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:04.455225+00:00
 
 ---
 
@@ -425132,7 +425132,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/catalog-shared-manage
 
-**Coletado em (UTC):** 2026-07-17T15:59:44.656645+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:10.518524+00:00
 
 ---
 
@@ -425274,7 +425274,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/catalog-shared
 
-**Coletado em (UTC):** 2026-07-17T15:58:19.198176+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:48.302435+00:00
 
 ---
 
@@ -425394,7 +425394,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-assign-companies
 
-**Coletado em (UTC):** 2026-07-17T15:59:45.486488+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:09.792618+00:00
 
 ---
 
@@ -425443,7 +425443,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create
 
-**Coletado em (UTC):** 2026-07-17T16:00:28.127692+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:54.367769+00:00
 
 ---
 
@@ -425601,7 +425601,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-pricing-structure
 
-**Coletado em (UTC):** 2026-07-17T15:59:43.887066+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:11.231990+00:00
 
 ---
 
@@ -425699,7 +425699,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-product-add
 
-**Coletado em (UTC):** 2026-07-17T16:00:27.294386+00:00
+**Coletado em (UTC):** 2026-07-22T14:32:53.588513+00:00
 
 ---
 
@@ -425754,7 +425754,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/account-companies
 
-**Coletado em (UTC):** 2026-07-17T15:54:13.864734+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:10.345931+00:00
 
 ---
 
@@ -425842,7 +425842,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/account-company-admin
 
-**Coletado em (UTC):** 2026-07-17T15:58:11.683255+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:42.086312+00:00
 
 ---
 
@@ -425886,7 +425886,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/account-company-approve
 
-**Coletado em (UTC):** 2026-07-17T15:58:53.602513+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:23.257960+00:00
 
 ---
 
@@ -425947,7 +425947,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/account-company-create
 
-**Coletado em (UTC):** 2026-07-17T15:56:57.247491+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:41.680438+00:00
 
 ---
 
@@ -426324,7 +426324,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/account-company-customer-group
 
-**Coletado em (UTC):** 2026-07-17T15:58:58.759772+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:43.014734+00:00
 
 ---
 
@@ -426368,7 +426368,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/account-company-manage
 
-**Coletado em (UTC):** 2026-07-17T15:57:04.677585+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:45.146020+00:00
 
 ---
 
@@ -426854,7 +426854,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/credit-company
 
-**Coletado em (UTC):** 2026-07-17T15:56:55.483252+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:42.621480+00:00
 
 ---
 
@@ -427063,7 +427063,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/email-company-configuration
 
-**Coletado em (UTC):** 2026-07-17T15:57:09.457868+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:47.892425+00:00
 
 ---
 
@@ -427102,7 +427102,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/users/account-company-roles-permissions
 
-**Coletado em (UTC):** 2026-07-17T15:56:58.307885+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:40.078543+00:00
 
 ---
 
@@ -427359,7 +427359,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/users/account-company-structure
 
-**Coletado em (UTC):** 2026-07-17T15:57:08.582528+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:46.937460+00:00
 
 ---
 
@@ -427474,7 +427474,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/users/account-company-users
 
-**Coletado em (UTC):** 2026-07-17T15:57:10.303098+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:46.096688+00:00
 
 ---
 
@@ -427590,7 +427590,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/company-management/manage-companies
 
-**Coletado em (UTC):** 2026-07-17T15:54:07.116007+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:07.542916+00:00
 
 ---
 
@@ -427704,7 +427704,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/company-management/manage-company-hierarchy
 
-**Coletado em (UTC):** 2026-07-17T15:56:56.431606+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:40.934142+00:00
 
 ---
 
@@ -427824,7 +427824,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/enable-basic-features
 
-**Coletado em (UTC):** 2026-07-17T15:54:11.045763+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:09.450379+00:00
 
 ---
 
@@ -427939,7 +427939,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/guide-overview
 
-**Coletado em (UTC):** 2026-07-17T15:46:59.760606+00:00
+**Coletado em (UTC):** 2026-07-22T14:21:14.502401+00:00
 
 ---
 
@@ -428026,7 +428026,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/install
 
-**Coletado em (UTC):** 2026-07-17T15:54:10.229285+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:05.372208+00:00
 
 ---
 
@@ -428202,7 +428202,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/introduction
 
-**Coletado em (UTC):** 2026-07-17T15:54:13.127285+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:04.600535+00:00
 
 ---
 
@@ -428299,7 +428299,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules
 
-**Coletado em (UTC):** 2026-07-17T15:57:03.939191+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:34.470821+00:00
 
 ---
 
@@ -428419,7 +428419,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/purchase-orders/account-dashboard-my-purchase-orders
 
-**Coletado em (UTC):** 2026-07-17T15:57:19.388550+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:48.627329+00:00
 
 ---
 
@@ -428495,7 +428495,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow
 
-**Coletado em (UTC):** 2026-07-17T15:54:16.003414+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:11.170496+00:00
 
 ---
 
@@ -428622,7 +428622,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/quick-order
 
-**Coletado em (UTC):** 2026-07-17T15:54:08.761656+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:06.187046+00:00
 
 ---
 
@@ -428693,7 +428693,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes
 
-**Coletado em (UTC):** 2026-07-17T15:56:59.896612+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:44.154806+00:00
 
 ---
 
@@ -428940,7 +428940,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/quotes/configure-quotes
 
-**Coletado em (UTC):** 2026-07-17T15:58:57.892761+00:00
+**Coletado em (UTC):** 2026-07-22T14:30:41.408592+00:00
 
 ---
 
@@ -428986,7 +428986,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/quotes/quote-price-negotiation
 
-**Coletado em (UTC):** 2026-07-17T15:57:18.469335+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:30.682486+00:00
 
 ---
 
@@ -429276,7 +429276,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/quotes/quote-request
 
-**Coletado em (UTC):** 2026-07-17T15:57:17.671431+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:29.037328+00:00
 
 ---
 
@@ -429318,7 +429318,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/quotes/quotes
 
-**Coletado em (UTC):** 2026-07-17T15:54:15.144122+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:02.844384+00:00
 
 ---
 
@@ -429450,7 +429450,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/quotes/sales-rep-initiates-quote
 
-**Coletado em (UTC):** 2026-07-17T15:57:16.913135+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:29.817722+00:00
 
 ---
 
@@ -429524,7 +429524,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/reference/packages
 
-**Coletado em (UTC):** 2026-07-17T15:57:02.731258+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:33.454343+00:00
 
 ---
 
@@ -430167,7 +430167,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/requisition-lists/configure-requisition-lists
 
-**Coletado em (UTC):** 2026-07-17T15:56:59.141821+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:43.484641+00:00
 
 ---
 
@@ -430209,7 +430209,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/requisition-lists/requisition-lists
 
-**Coletado em (UTC):** 2026-07-17T15:54:07.921733+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:08.534291+00:00
 
 ---
 
@@ -430329,7 +430329,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/shared-catalogs/catalog-shared-manage
 
-**Coletado em (UTC):** 2026-07-17T15:57:05.851189+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:50.322481+00:00
 
 ---
 
@@ -430462,7 +430462,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/shared-catalogs/catalog-shared
 
-**Coletado em (UTC):** 2026-07-17T15:54:12.314767+00:00
+**Coletado em (UTC):** 2026-07-22T14:27:12.017570+00:00
 
 ---
 
@@ -430575,7 +430575,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-assign-companies
 
-**Coletado em (UTC):** 2026-07-17T15:57:06.741921+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:51.038622+00:00
 
 ---
 
@@ -430623,7 +430623,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create
 
-**Coletado em (UTC):** 2026-07-17T15:58:55.319267+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:25.045867+00:00
 
 ---
 
@@ -430776,7 +430776,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-pricing-structure
 
-**Coletado em (UTC):** 2026-07-17T15:57:07.836331+00:00
+**Coletado em (UTC):** 2026-07-22T14:29:49.491142+00:00
 
 ---
 
@@ -430871,7 +430871,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-product-add
 
-**Coletado em (UTC):** 2026-07-17T15:58:54.360733+00:00
+**Coletado em (UTC):** 2026-07-22T14:31:24.013444+00:00
 
 ---
 

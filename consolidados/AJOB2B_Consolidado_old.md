@@ -8,7 +8,7 @@ title: "Account audience journey nodes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/account-audience-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:19.375369+00:00"
+created_at: "2026-07-22T12:49:20.698172+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -54,7 +54,7 @@ title: "Account audiences"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/audiences/account-audience-overview"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:35.813757+00:00"
+created_at: "2026-07-22T12:49:36.231327+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -112,7 +112,7 @@ title: "Account details"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/sales-experience/account-details"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:46.711814+00:00"
+created_at: "2026-07-22T12:49:46.769829+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -243,7 +243,7 @@ title: "Account lists"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/account-lists/account-lists"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:45.561344+00:00"
+created_at: "2026-07-22T12:49:45.648121+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -364,7 +364,7 @@ title: "Activate Marketo Engage connections to support actions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/marketo-actions-connect"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:10.382053+00:00"
+created_at: "2026-07-22T12:49:11.792513+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -434,7 +434,7 @@ title: "Add an email to your journey"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/add-email"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:26.973359+00:00"
+created_at: "2026-07-22T12:49:27.572653+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -551,7 +551,7 @@ title: "Add custom CSS for your content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/content-design/design-custom-css"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:03:04.380822+00:00"
+created_at: "2026-07-22T12:51:03.217961+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -644,7 +644,7 @@ title: "Add Custom CSS for your content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/content-design/design-custom-css"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:04.620412+00:00"
+created_at: "2026-07-22T12:50:03.943212+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -736,7 +736,7 @@ title: "Add emails to journeys"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/email-channel/email-channel"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:40.200093+00:00"
+created_at: "2026-07-22T12:50:39.275629+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -862,7 +862,7 @@ title: "Adobe Journey Optimizer B2B Edition Documentation"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/guide-overview"
 category: "guides"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:04.517072+00:00"
+created_at: "2026-07-22T12:49:05.898361+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -1030,7 +1030,7 @@ title: "Adobe Journey Optimizer B2B Edition overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/about-journey-optimizer-b2b-edition"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:05.708496+00:00"
+created_at: "2026-07-22T12:49:07.247551+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -1093,7 +1093,7 @@ title: "Adobe Journey Optimizer B2B Prime Documentation"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/guide-overview"
 category: "guides"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:22.878168+00:00"
+created_at: "2026-07-22T12:50:21.966408+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -1175,7 +1175,7 @@ title: "Adobe Target external audiences"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/audiences/target-external-audience"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:36.356574+00:00"
+created_at: "2026-07-22T12:49:36.775331+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -1260,7 +1260,7 @@ title: "Advanced HTML mode for email template design"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/email-templates/email-template-advanced-html"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:55.596091+00:00"
+created_at: "2026-07-22T12:49:55.701932+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -1311,7 +1311,7 @@ title: "AI Assistant for email content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/ai-assistant-emails"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:28.739321+00:00"
+created_at: "2026-07-22T12:49:29.309599+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -1548,7 +1548,7 @@ title: "AI Assistant for landing page content generative-full-content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/ai-assistant-landing-pages"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:02.180199+00:00"
+created_at: "2026-07-22T12:50:01.987864+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -1754,7 +1754,7 @@ title: "AI Assistant in Journey Optimizer B2B Edition"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-assistant-overview"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:12.597254+00:00"
+created_at: "2026-07-22T12:49:13.996438+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -2002,7 +2002,7 @@ title: "AI Assistant skills"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/ai-assistant/skills"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:28.246392+00:00"
+created_at: "2026-07-22T12:50:26.676649+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -2246,7 +2246,7 @@ title: "Assets"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/digital-asset-management"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:50.144978+00:00"
+created_at: "2026-07-22T12:50:49.213517+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -2347,7 +2347,7 @@ title: "Assets"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/assets/assets-overview"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:51.650940+00:00"
+created_at: "2026-07-22T12:49:51.734476+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -2448,7 +2448,7 @@ title: "Audience Agent B2B"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-agents/audience-agent-b2b"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:15.389490+00:00"
+created_at: "2026-07-22T12:49:16.790773+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -2809,7 +2809,7 @@ title: "Author from a governed template"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-authoring-governance"
 category: "guides"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:30.405219+00:00"
+created_at: "2026-07-22T12:49:30.968197+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -2860,7 +2860,7 @@ title: "B2B Namespaces and schemas"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/namespaces-schemas"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:06.880700+00:00"
+created_at: "2026-07-22T12:49:08.365688+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -3038,7 +3038,7 @@ title: "Build and publish a journey"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/create-publish-journey"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:17.767093+00:00"
+created_at: "2026-07-22T12:49:19.096006+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -3159,7 +3159,7 @@ title: "Business rules business-rules"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/admin/business-rules"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:03:08.791148+00:00"
+created_at: "2026-07-22T12:51:08.227860+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -3337,7 +3337,7 @@ title: "Buying group details"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/sales-experience/buying-group-details"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:47.262912+00:00"
+created_at: "2026-07-22T12:49:47.345185+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -3489,7 +3489,7 @@ title: "Buying group filters in Marketo Engage"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/marketo-engage-smart-list-buying-group-filters"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:44.473337+00:00"
+created_at: "2026-07-22T12:49:44.549411+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -3540,7 +3540,7 @@ title: "Buying group role templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:39.726702+00:00"
+created_at: "2026-07-22T12:49:40.112185+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -3723,7 +3723,7 @@ title: "Buying group stages"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/buying-group-stages"
 category: "tutorials"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-tutorials"
-created_at: "2026-08-01T10:05:31.958595+00:00"
+created_at: "2026-07-22T12:53:36.357273+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Tutorials
 
@@ -3756,7 +3756,7 @@ title: "Buying group stages"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-group-stages"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:42.492889+00:00"
+created_at: "2026-07-22T12:49:42.928017+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -3951,7 +3951,7 @@ title: "Buying Groups Overview dashboard"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/buying-groups-dashboard"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:13.616792+00:00"
+created_at: "2026-07-22T12:50:13.162947+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -4051,7 +4051,7 @@ title: "Buying groups overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/buying-groups-overview"
 category: "tutorials"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-tutorials"
-created_at: "2026-08-01T10:05:33.546764+00:00"
+created_at: "2026-07-22T12:53:38.408764+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Tutorials
 
@@ -4085,7 +4085,7 @@ title: "Buying groups"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:38.613273+00:00"
+created_at: "2026-07-22T12:49:39.012873+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -4255,7 +4255,7 @@ title: "Channel messaging consent"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/channels-consent-preferences"
 category: "reference"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:35.277755+00:00"
+created_at: "2026-07-22T12:49:35.658663+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -4363,7 +4363,7 @@ title: "Chat interface"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/ai-assistant/chat-interface"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:27.185156+00:00"
+created_at: "2026-07-22T12:50:25.779473+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -4481,7 +4481,7 @@ title: "Completeness scores completeness-scores"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/scoring/completeness-scores"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:41.924788+00:00"
+created_at: "2026-07-22T12:49:42.356923+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -4622,7 +4622,7 @@ title: "Conditional content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/conditional-content"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:03:00.996130+00:00"
+created_at: "2026-07-22T12:50:59.777064+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -4691,7 +4691,7 @@ title: "Conditional content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/conditional-content"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:08.091717+00:00"
+created_at: "2026-07-22T12:50:07.314879+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -4823,7 +4823,7 @@ title: "Configure branding domains"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/branding-domains"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:08.667325+00:00"
+created_at: "2026-07-22T12:49:10.118302+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -4934,7 +4934,7 @@ title: "Configure custom engagement score weighting"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/configurations/engagement-score-weighting"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:17.115211+00:00"
+created_at: "2026-07-22T12:50:16.544457+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -5053,7 +5053,7 @@ title: "Configure datastreams for event collection aep-datastreams"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/configurations/aep-event-collection"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:18.709325+00:00"
+created_at: "2026-07-22T12:50:17.833924+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -5084,7 +5084,7 @@ title: "Configure Experience Manager asset repositories"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/configurations/configure-aem-repositories"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:15.915759+00:00"
+created_at: "2026-07-22T12:50:15.346551+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -5182,7 +5182,7 @@ title: "Content components content-components"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/content-design/content-components"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:03:03.406863+00:00"
+created_at: "2026-07-22T12:51:02.326514+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -5801,7 +5801,7 @@ The displayed attributes reflect the styles that are currently defined for the c
 
 ### Form (landing pages only) form
 
-Use the *Form* component to add a published form to a landing page or landing page template. For more information about creating and publishing forms, see [Forms](/en/docs/journey-optimizer-b2b/prime/content/forms/forms).
+Use the *Form* component to add a published form to a landing page or landing page template. For more information about creating and publishing forms, see [Forms](/en/docs/journey-optimizer-b2b/prime/content/forms).
 
 - Click the Form tool in the component toolbar, or use the Embed Form properties on the right to select the published form. {width="600"}
 - If you want to override the default Follow up type for the form, change the setting according to the requirements for your page or template. This page is also known as the Thank-you page for the form and this setting determines what happens when a visitor submits the form: Stay on page - Choose this option to keep the visitor on the same page when the form is submitted. Landing page - Choose this option to select any Journey Optimizer B2B Prime or Marketo Engage landing page as the follow-up. External URL - Choose this option to specify any URL as the follow-up page. After the visitor submits the form, the browser loads the designated URL. note tip TIP If you want to use the form for downloading a file, you can specify a URL for the hosted file. With this configuration, the submit button functions as a download button. {width="280"}
@@ -5829,7 +5829,7 @@ title: "Content components content-components"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/content-design/content-components"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:03.953531+00:00"
+created_at: "2026-07-22T12:50:03.306466+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -6474,7 +6474,7 @@ title: "Content evaluation and scoring content-scoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/content-evaluation"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:07.541358+00:00"
+created_at: "2026-07-22T12:50:06.766361+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -6570,7 +6570,7 @@ title: "Content governance for templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/templates/template-content-governance"
 category: "guides"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:52.477661+00:00"
+created_at: "2026-07-22T12:50:51.899796+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -6654,7 +6654,7 @@ title: "Content personalization add-personalization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/personalization/personalization"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:09.231143+00:00"
+created_at: "2026-07-22T12:50:08.674328+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -6746,7 +6746,7 @@ title: "Convert an image to an email template"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/email-templates/email-template-image-convert"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:56.129420+00:00"
+created_at: "2026-07-22T12:49:56.235586+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -6792,7 +6792,7 @@ title: "Create a buying group"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/create-a-buying-group"
 category: "tutorials"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-tutorials"
-created_at: "2026-08-01T10:05:34.072246+00:00"
+created_at: "2026-07-22T12:53:39.099170+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Tutorials
 
@@ -6826,7 +6826,7 @@ title: "Create a program from a brief"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/ai-assistant/program-from-brief"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:29.035906+00:00"
+created_at: "2026-07-22T12:50:27.525982+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -7093,7 +7093,7 @@ title: "Create and manage your brands brand-library"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/brands/brands-manage-create"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:05.768546+00:00"
+created_at: "2026-07-22T12:50:05.045694+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -7307,7 +7307,7 @@ title: "Create and publish landing pages"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/landing-pages/landing-pages-create-publish"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:56.151067+00:00"
+created_at: "2026-07-22T12:50:55.466108+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -7470,7 +7470,7 @@ title: "Create and publish landing pages"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/landing-pages-create-publish"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:01.026553+00:00"
+created_at: "2026-07-22T12:50:00.822862+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -7661,7 +7661,7 @@ title: "Create audiences for programs"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/ai-assistant/audience-creation"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:29.883264+00:00"
+created_at: "2026-07-22T12:50:28.434355+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -7880,7 +7880,7 @@ title: "Create buying groups"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-create"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:43.067375+00:00"
+created_at: "2026-07-22T12:49:43.481208+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -7940,7 +7940,7 @@ title: "Create custom scoring models"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/ai-assistant/lead-scoring-model"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:30.625947+00:00"
+created_at: "2026-07-22T12:50:29.380984+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -8027,7 +8027,7 @@ title: "Create email templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/templates/templates-create"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:51.681136+00:00"
+created_at: "2026-07-22T12:50:50.842741+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -8159,7 +8159,7 @@ title: "Custom tokens for email personalization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/personalization-my-tokens"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:34.663511+00:00"
+created_at: "2026-07-22T12:49:35.105593+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -8230,7 +8230,7 @@ title: "Custom tokens for personalization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/programs/personalization-my-tokens"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:32.977315+00:00"
+created_at: "2026-07-22T12:50:31.820639+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -8331,7 +8331,7 @@ title: "Dark mode for email content dark-mode"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/email-channel/email-dark-mode"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:42.553930+00:00"
+created_at: "2026-07-22T12:50:41.996040+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -8472,7 +8472,7 @@ title: "Dark mode for email content dark-mode"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-dark-mode"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:29.863383+00:00"
+created_at: "2026-07-22T12:49:30.427507+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -8611,7 +8611,7 @@ title: "Default and custom roles"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/default-custom-roles"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:40.278193+00:00"
+created_at: "2026-07-22T12:49:40.675430+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -8657,7 +8657,7 @@ title: "Default XDM fields"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/audiences/field-mapping"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:37.485208+00:00"
+created_at: "2026-07-22T12:49:37.894811+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -8933,7 +8933,7 @@ title: "Derived personas"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/audiences/personas"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:48.616442+00:00"
+created_at: "2026-07-22T12:50:47.560713+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -9035,7 +9035,7 @@ title: "Design accessible content accessible-content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/accessible-content"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:08.672924+00:00"
+created_at: "2026-07-22T12:50:08.122476+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -9268,11 +9268,9 @@ title: "Destinations"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/audiences/destinations"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:49.391303+00:00"
+created_at: "2026-07-22T12:50:48.287529+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
-
-[Beta]{class="badge informative" title="This feature is currently in a limited beta release"}
 
 # Destinations
 
@@ -9287,104 +9285,35 @@ CREATED FOR:
 - Admin
 - User
 
-Destinations are pre-built integrations that let you send [static people lists](/en/docs/journey-optimizer-b2b/prime/audiences/people-lists#static-lists) from Journey Optimizer B2B Prime to external advertising or social platforms, such as a LinkedIn campaign audience, a Google Customer Match audience, or a Facebook Custom Audience. Activating a static list to a destination keeps membership in sync: as people are added to or removed from the list, they are correspondingly added to or removed from the destination audience and, by extension, from any campaign that the audience feeds.
+Destinations are pre-built integrations that allow you to export people list data from Adobe Journey Optimizer B2B Prime to external marketing platforms such as advertising networks, email service providers, and CRM systems. In Journey Optimizer B2B Prime, you activate [static people lists](/en/docs/journey-optimizer-b2b/prime/audiences/people-lists#static-list) (composed of Marketo Engage person records) to destinations so that those audiences are available for targeting and engagement in downstream channels.
 
-There are two ways to activate people to a connected destination:
+## Connect a destination connect-destination
 
-- **From a static list** — Activate an existing static list directly from the *People lists* tab. See [Activate to a destination](/en/docs/journey-optimizer-b2b/prime/audiences/people-lists#static-list-activate).
-- **From a person journey** — Add an *Activate to destination* action to a journey path so that anyone who reaches that node is added to a list and sent to the destination. See *Add an action node*.
-
-## Required permissions required-permissions
-
-Full destination capability requires the following Adobe Experience Platform permissions to be enabled.
-
-Category
-Permission
-Required
-Sandboxes
-Sandbox access
-(enabled by default)
-Yes
-Dashboards
-View Standard Dashboards
-Yes
-Dashboards
-Manage Standard Dashboards
-Yes
-Destinations
-View Destinations
-Yes
-Destinations
-Manage Destinations
-Yes
-Destinations
-Activate Destinations
-Yes
-Destinations
-Activate Segment without Mapping
-Yes
-Destinations
-Manage and Activate Dataset Destination
-Yes
-Destinations
-Destination Authoring
-Yes
-Data Governance
-View Data Usage Policies
-Yes
-Data Governance
-Manage Data Usage Policies
-Yes
-Data Ingestion
-View Sources
-Yes
-Data Ingestion
-Manage Sources
-Yes
-Profile Management
-View Profile Settings
-Yes
-Profile Management
-Manage Profile Settings
-Yes
-style
-shade-box
-## Supported destinations supported-destinations
-
-Before you can activate a static list, a destination must exist in the destinations catalog. On the left navigation, expand **Connections** and select **Destinations**. Journey Optimizer B2B Prime currently supports the following destinations:
-
-- **Google Customer Match** (Advertising)
-- **Facebook Custom Audience** (Social)
-- **LinkedIn Matched Audience** (Social)
-
-{width="800" modal="regular"}
-
-NOTE
-This catalog is not the full Adobe Experience Platform destinations catalog. If you access destinations directly from Experience Platform, you see a larger catalog, but only these destinations are currently available for activation in Journey Optimizer B2B Prime. Additional destinations are planned for future releases.
-## Set up a destination set-up-destination
-
-Each supported destination card shows **Configure new destination**. Configuring a destination is a prerequisite for activation.
-
+- On the left navigation, expand Connections and select Destinations .
+- In the Catalog tab, locate the external destination type connector. note tip TIP You can quickly find the connector by entering the name, such as LinkedIn , in the search box. {width="800" modal="regular"}
 - In the connector card, click Configure new destination .
-- Select Existing account or New account and enter the account details, such as the account name and description. {width="500"}
-- Click Connect to destination . An OAuth flow lets you sign in to the corresponding account: LinkedIn, Google, or Facebook. note important IMPORTANT At this point, do not enter the Destination details . Only the connection is needed.
-- Complete any required field mapping between people attributes and the fields required by the destination.
+- Select New Account and enter your account credentials. {width="500"}
+- Click Connect to destination . note important IMPORTANT At this point, do not enter the Destination details . Only the connection is needed.
 - Review the data governance and marketing action settings, then click Save .
 
-For the full setup steps, see [Create a new destination connection](/en/docs/experience-platform/destinations/ui/connect-destination#_blank) in the Experience Platform documentation.
+The connected destination appears in the list on the *Browse* tab and is available for static list activation.
 
-When configured, the destination is available for activation everywhere that you can select a destination in Journey Optimizer B2B Prime.
+## Activate a static list to a destination activate
 
-## Activation and sync activation-sync
+NOTE
+Only
+static people lists
+can be activated to destinations in Journey Optimizer B2B Prime.
+Dynamic lists
+are not eligible for destination activation.
+- On the left navigation, expand Marketing Management .
+- On the right in the Marketing resource list, select People lists . {width="800" modal="regular"}
+- Select the Static lists tab.
+- Locate the static list that you want to activate to a destination.
+- Click the Activate ( ) icon next to the static list name.
+- Select the check box for the configured destination connection. {width="700" modal="regular"}
+- Click Save .
 
-Activation is driven by static list membership, with a bidirectional sync between the list and the destination audience:
-
-- Adding a person to the static list activates them to the destination within 24 hours, adding them to the destination audience and, subsequently, to any campaign that the audience feeds.
-- Removing a person from the static list deactivates them from the destination — they are removed from the destination audience and from any connected campaign.
-- The same list can be activated to multiple destinations at once; membership syncs to all of them.
-
-TIP
-To run a LinkedIn campaign against a segment, activate the static list of those people to your LinkedIn Matched Audience destination. Everyone in the list is added to the matched audience in LinkedIn, where a campaign can target them, and the audience automatically stays current as the list changes.
 recommendation-more-help
 
 
@@ -9397,7 +9326,7 @@ title: "Edit images with Adobe Express edit-images-adobe-express"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/assets/internal-dam/image-edit-adobe-express"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:52.770492+00:00"
+created_at: "2026-07-22T12:49:52.839043+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -9489,7 +9418,7 @@ title: "Email channel configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/admin/channels/email-channel-configuration"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:03:05.546036+00:00"
+created_at: "2026-07-22T12:51:04.408930+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -9581,7 +9510,7 @@ title: "Email channel configurations"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-emails"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:19.258038+00:00"
+created_at: "2026-07-22T12:50:18.479982+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -9763,7 +9692,7 @@ title: "Email collaboration tools"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/emails/email-collaboration-tools"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:51.106311+00:00"
+created_at: "2026-07-22T12:49:51.190210+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -9914,7 +9843,7 @@ title: "Email content authoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/email-channel/email-authoring"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:41.781407+00:00"
+created_at: "2026-07-22T12:50:41.125560+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -10204,7 +10133,7 @@ title: "Email content creation with GenStudio for Performance Marketing genstudi
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/genstudio-email-workflow"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:29.309396+00:00"
+created_at: "2026-07-22T12:49:29.872056+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -10310,7 +10239,7 @@ title: "Email deduplication"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-deduplication"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:31.480083+00:00"
+created_at: "2026-07-22T12:49:32.049205+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -10361,7 +10290,7 @@ title: "Email deliverability"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/start/email-deliverability"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:25.675752+00:00"
+created_at: "2026-07-22T12:50:24.304678+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -10383,9 +10312,9 @@ The following information is for administrators who configure sending infrastruc
 
 - Configuring email channels - [Email channel configuration](/en/docs/journey-optimizer-b2b/prime/admin/channels/email-channel-configuration)
 - Creating emails - [Add emails to journeys](/en/docs/journey-optimizer-b2b/prime/marketing-management/email-channel/email-channel)
-- Designing email content - [Email content authoring](/en/docs/journey-optimizer-b2b/prime/marketing-management/email-channel/email-authoring)
+- Designing email content - [Email content authoring](/en/docs/journey-optimizer-b2b/prime/marketing-management/email-channel/email-authoring).
 
-Email deliverability in Adobe Journey Optimizer B2B Prime is the set of infrastructure and authentication configurations that help email messages reach the recipient’s inbox, not the spam folder, and not blocked by ISPs (Internet Service Providers).
+Email deliverability in Journey Optimizer B2B Prime is the set of infrastructure and authentication configurations that help email messages reach the recipient’s inbox, not the spam folder, and not blocked by ISPs (Internet Service Providers).
 
 It uses the following building blocks, configured by an administrator, typically in the following order:
 
@@ -10412,9 +10341,9 @@ What it means in Journey Optimizer B2B Prime
 Subdomain
 A delegated portion of your sending domain (for example,
 mail.contoso.com
-) used to send email through Journey Optimizer B2B Prime. Subdomains isolate your B2B marketing reputation from corporate or transactional mail.
+) used to send email through Prime. Subdomains isolate your B2B marketing reputation from corporate or transactional mail.
 IP pool
-A group of IP addresses associated with one or more subdomains. Journey Optimizer B2B Prime supports a shared IP pool managed by Adobe in this release; dedicated IP pools are on the GA roadmap.
+A group of IP addresses associated with one or more subdomains. Prime supports a shared IP pool managed by Adobe in this release; dedicated IP pools are on the GA roadmap.
 Channel configuration
 A reusable set of email-sending settings (sender identity, reply-to address, subdomain, IP pool, email type, and tracking) that you attach to email actions in journeys. You can have multiple named channel configurations for different brands, business units, or send types.
 ## Subdomain delegation subdomain-delegation
@@ -10427,10 +10356,10 @@ Subdomain delegation tells the internet that Adobe is authorized to send email o
 - **Compliance.** Helps meet bulk-sender requirements from Gmail, Yahoo, and other major ISPs.
 
 NOTE
-Each subdomain in Journey Optimizer B2B Prime can only be used by one Adobe product. You cannot share the same sending subdomain between Journey Optimizer B2B Prime and another product such as Adobe Marketo Engage or Adobe Campaign — you must use distinct subdomains.
+Each subdomain in Prime can only be used by one Adobe product. You cannot share the same sending subdomain between Prime and another product such as Adobe Marketo Engage or Adobe Campaign — you must use distinct subdomains.
 ### Supported methods supported-methods
 
-Journey Optimizer B2B Prime supports two of the three subdomain delegation methods in this Beta release. The third method (Custom Delegation) is on the roadmap.
+Prime supports two of the three subdomain delegation methods in this Beta release. The third method (Custom Delegation) is on the roadmap.
 
 Method
 When to use
@@ -10440,7 +10369,7 @@ Recommended
 Delegate full DNS authority for the subdomain to Adobe. Adobe creates and maintains MX, SPF, DKIM, DMARC, A, and CNAME records. Lowest operational overhead. Adobe handles DNS changes for you.
 CNAME
 For restricted policies
-Keep DNS authority on your side and create CNAME records pointing to Adobe-managed records. Use this when the DNS policy of your organization does not allow full delegation. You are responsible for maintaining DNS records.
+Keep DNS authority on your side and create CNAME records pointing to Adobe-managed records. Use this when your organization’s DNS policy does not allow full delegation. You are responsible for maintaining DNS records.
 Custom Delegation
 Roadmap (GA)
 Maintain full ownership of DNS and SSL certificates. Provides maximum control, including the ability to use your own certificates. This is targeted for the GA release.
@@ -10450,9 +10379,9 @@ PREREQUISITES
 - Decide on a subdomain naming convention (for example, mail.contoso.com for marketing, alerts.contoso.com for transactional).
 - Confirm with your IT/DNS team that they can delegate the subdomain (NS records) to Adobe.
 - Create the new subdomain in your DNS provider, then wait 24–48 hours for DNS propagation before delegating to Adobe.
-- Confirm you have the Administrator role in Journey Optimizer B2B Prime.
+- Confirm you have the Administrator role in Prime.
 
-- In the Journey Optimizer B2B Prime left navigation, expand Administration and select Channels .
+- In the Adobe Journey Optimizer B2B Prime left navigation, expand Administration and select Channels .
 - In the panel, expand Email settings and select Subdomains .
 - Click Set up subdomain .
 - Enter the full subdomain name (for example, mail.contoso.com ).
@@ -10463,7 +10392,7 @@ PREREQUISITES
 - Your DNS team adds the NS records in your domain hosting solution that delegate the subdomain to Adobe.
 - After your DNS team confirms the records are in place, return to Journey Optimizer B2B Prime and check the box confirming that you have created the required records on the hosting site.
 - Click Submit to initiate a series of validation checks (pre-validation, MX, SPF, DKIM, DMARC, FBL registration).
-- Wait for the subdomain status to change to Success . This typically takes a few minutes after DNS propagation is complete.
+- Wait for the subdomain status to change to Success . This typically takes a few minutes once DNS propagation is complete.
 
 NOTE
 If validation fails, the status changes to
@@ -10471,77 +10400,28 @@ Failed
 and Journey Optimizer B2B Prime displays the reason (for example, NS record not found, MX record missing, or DMARC misconfigured). Fix the underlying DNS issue, then retry submission.
 ### Delegate a subdomain (CNAME method) delegate-cname
 
-Use this method only if the DNS policy of your organization prohibits full delegation. With CNAME, you maintain DNS records on your side.
+Use this method only if your organization’s DNS policy prohibits full delegation. With CNAME, you maintain DNS records on your side.
 
-- In the Journey Optimizer B2B Prime left navigation, expand **Administration** and select **Channels**.
+- In the Adobe Journey Optimizer B2B Prime left navigation, expand **Administration** and select **Channels**.
 - In the panel, expand **Email settings** and select **Subdomains**.
 - Click **Set up subdomain**.
 - Enter the full subdomain name.
 - Choose **CNAME** as the delegation method.
 - Configure DMARC for the subdomain ([DMARC, SPF, and DKIM](#dmarc-spf-dkim)).
-- Review the list of CNAME records to generate. These point the components of your subdomain to Adobe-managed records.
+- Review the list of CNAME records to generate. These point your subdomain’s components to Adobe-managed records.
 - Download the records as CSV and share with your DNS team.
 - Your DNS team adds each CNAME record to your DNS hosting solution.
-- When records are in place and propagated, return to Journey Optimizer B2B Prime and confirm.
+- When records are in place and propagated, return to Adobe Journey Optimizer B2B Prime and confirm.
 - Click **Submit**.
 - Wait for status to reach **Success**.
 
 IMPORTANT
 With CNAME, Adobe cannot help you change, maintain, or troubleshoot DNS for the subdomain. Any future changes, such as adding a new CNAME for a feature update, must be made by your DNS team.
-For step-by-step instructions for common DNS providers, review the following sections:
-
-### Add CNAME records by DNS provider add-cname-records-dns-provider
-
-Journey Optimizer B2B Prime generates the exact CNAME and TXT records for your subdomain and lets you download them as a CSV file. Use the following provider-specific steps to help your DNS team locate the correct settings screen and add each record.
-
-NOTE
-The host, type, and target values in the downloaded CSV are specific to your subdomain and organization. Copy them exactly rather than reusing values from another subdomain.
-#### AWS Route 53 aws-route-53
-
-- Sign in to the AWS Management Console and open Route 53 .
-- Select Hosted zones , then choose the hosted zone for your domain.
-- Click Create record and keep the routing policy set to Simple routing .
-- For each row in the CSV: Record name — Enter only the portion before your zone name. For example, for data.mail.contoso.com in the contoso.com zone, enter data.mail . Record type — Choose CNAME or TXT to match the CSV. Value — Paste the target from the CSV. For TXT records, wrap the value in double quotation marks. TTL — 300 seconds is sufficient.
-- Click Add another record to batch entries, then Create records after all rows are entered.
-
-NOTE
-TXT values must be double-quoted, or the record fails validation. A CNAME record cannot sit at the zone apex, but this does not affect a delegated subdomain.
-#### Cloudflare cloudflare
-
-- Log in to the Cloudflare dashboard and select your domain.
-- Go to DNS Records and click Add record .
-- For each row in the CSV: Type — Choose CNAME or TXT . Name — Enter the host portion, for example data.mail . Cloudflare appends your domain automatically. Target (for CNAME) or Content (for TXT) — Paste the value from the CSV. Proxy status — Set to DNS only (grey cloud icon). TTL — Leave as Auto .
-- Click Save for each row.
-
-IMPORTANT
-Every record you add for Journey Optimizer B2B Prime must show a grey cloud (DNS only), not an orange cloud (Proxied). A proxied record routes traffic through the servers of Cloudflare instead of Adobe, which breaks DKIM signing, click tracking, and bounce handling. If a record shows orange, click the cloud icon to toggle it to grey.
-#### Azure DNS azure-dns
-
-- Sign in to the Azure portal and open DNS zones .
-- Select the DNS zone for your domain.
-- Click + Record set .
-- For each row in the CSV: Name — Enter the host portion, for example data.mail . Azure appends the zone name. Type — Choose CNAME or TXT . For a CNAME record, enter the target from the CSV in the Alias field. For a TXT record, paste the value into the Value field. Azure handles quoting for you. TTL — Enter a number and unit, for example 300 seconds.
-- Click OK to save the record set for each row.
-
-NOTE
-Use a standard CNAME record set, not the Alias record set option, which points only to Azure resources rather than external hostnames. Each CNAME record set holds exactly one target, matching how Journey Optimizer B2B Prime issues records — one CNAME per host.
-#### Google Cloud DNS google-cloud-dns
-
-- Open the Google Cloud console and go to Network Services > Cloud DNS .
-- Select the zone for your domain.
-- Click Add standard to add a record set.
-- For each row in the CSV: DNS name — Enter the host portion, for example data.mail . Cloud DNS shows the zone suffix, and you prepend the host. Resource record type — Choose CNAME or TXT . TTL — 300 seconds is sufficient. For a CNAME record, enter the target in Canonical name and end it with a trailing period. For a TXT record, paste the value into the data field.
-- Click Create for each row.
-
-NOTE
-The canonical name must be fully qualified and end with a trailing period, or resolution fails. Your DNS team can also add each record with the
-gcloud dns record-sets create
-command.
 ### Subdomain guardrails subdomain-guardrails
 
 - **Default limit:** 10 subdomains per organization. Contact your Adobe representative if you need more (up to 100 depending on contract).
 - **DNS propagation:** Allow 24–48 hours for changes to propagate globally. Validation can fail simply because DNS has not yet propagated.
-- **Subdomain reuse:** A subdomain that is already used by another Adobe product (Marketo Engage, Adobe Campaign) cannot be reused in Journey Optimizer B2B Prime.
+- **Subdomain reuse:** A subdomain that is already used by another Adobe product (Marketo Engage, Adobe Campaign) cannot be reused in Prime.
 
 ## DMARC, SPF, and DKIM dmarc-spf-dkim
 
@@ -10572,12 +10452,12 @@ Quarantine
 The receiving server places failing messages in the spam/junk folder.
 reject
 Reject
-The receiving server rejects (bounces) messages that fail authentication. Strictest mode. Recommended when you are confident in your authentication setup.
+The receiving server rejects (bounces) messages that fail authentication. Strictest mode. Recommended once you are confident in your authentication setup.
 ### Configure DMARC configure-dmarc
 
 DMARC is configured at the time of subdomain delegation, but you can also add or update DMARC for an already-delegated subdomain.
 
-- In the Journey Optimizer B2B Prime left navigation, expand Administration and select Channels .
+- In the Adobe Journey Optimizer B2B Prime left navigation, expand Administration and select Channels .
 - In the panel, expand Email settings and select Subdomains .
 - In the Subdomains list, locate your subdomain and check the DMARC Record column. If a record is missing, an alert is displayed.
 - Open the subdomain and scroll to the DMARC record section. If a DMARC record already exists on the parent domain, Journey Optimizer B2B Prime fetches the values automatically. You can keep them or override. If no record exists, choose Manage with Adobe and Adobe creates and hosts the DMARC record.
@@ -10593,7 +10473,7 @@ to monitor authentication reports, then progress to
 quarantine
 , and finally to
 reject
-after your reports show healthy SPF and DKIM alignment. Moving straight to
+once your reports show healthy SPF and DKIM alignment. Moving straight to
 reject
 without monitoring can cause legitimate mail to be rejected.
 ## IP pools ip-pools
@@ -10615,14 +10495,14 @@ One or more IP addresses allocated exclusively to your organization. You own the
 
 In this release, IP pools are pre-provisioned for your organization. You assign an IP pool when creating an email channel configuration.
 
-- In the Journey Optimizer B2B Prime left navigation, expand **Administration** and select **Channels**.
+- In the Adobe Journey Optimizer B2B Prime left navigation, expand **Administration** and select **Channels**.
 - In the panel, expand **Email settings** and select **IP pools**.
 - Confirm that an IP pool with status **Active** is available for your organization.
 - Hover over the pool to view the IP addresses and their PTR records (reverse DNS).
 - If your organization has multiple business units or brands, plan how you will use IP pools (for example, marketing-pool versus webinar-pool) before creating channel configurations.
 
 IMPORTANT
-Do not mix marketing and transactional traffic on the same IP pool, even when the shared pool is available. The Email type setting on the channel configuration (Marketing versus Transactional) governs suppression behavior, but your channel configurations should still use distinct pools where possible.
+Do not mix marketing and transactional traffic on the same IP pool, even when the shared pool is available. The Email type setting on the channel configuration (Marketing vs. Transactional) governs suppression behavior, but your channel configurations should still use distinct pools where possible.
 recommendation-more-help
 
 
@@ -10635,7 +10515,7 @@ title: "Email message authoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-authoring"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:28.109889+00:00"
+created_at: "2026-07-22T12:49:28.711899+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -10907,7 +10787,7 @@ title: "Email performance report"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/email-performance-dashboard"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:13.064201+00:00"
+created_at: "2026-07-22T12:50:12.604198+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -11057,7 +10937,7 @@ title: "Email send-time optimization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/email-channel/email-send-time-optimization"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:40.989560+00:00"
+created_at: "2026-07-22T12:50:40.218896+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -11149,7 +11029,7 @@ title: "Email send-time optimization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-send-time-optimization"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:27.535804+00:00"
+created_at: "2026-07-22T12:49:28.116017+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -11214,7 +11094,7 @@ title: "Email setup"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/email-setup"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:09.814662+00:00"
+created_at: "2026-07-22T12:49:11.243814+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -11397,7 +11277,7 @@ title: "Email template authoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/email-templates/email-template-authoring"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:55.039009+00:00"
+created_at: "2026-07-22T12:49:55.151544+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -11555,7 +11435,7 @@ title: "Email templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/templates/templates"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:50.897311+00:00"
+created_at: "2026-07-22T12:50:50.101608+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -11645,7 +11525,7 @@ title: "Email templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/email-templates/email-templates"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:54.467755+00:00"
+created_at: "2026-07-22T12:49:54.586964+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -11840,7 +11720,7 @@ title: "Emails"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/emails/emails-list"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:48.925117+00:00"
+created_at: "2026-07-22T12:49:49.033222+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -11890,7 +11770,7 @@ title: "Enable AI Assistant access"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/enable-ai-assistant-access"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:13.145341+00:00"
+created_at: "2026-07-22T12:49:14.542658+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -11950,7 +11830,7 @@ title: "Engagement Overview dashboard"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/engagement-dashboard"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:11.972854+00:00"
+created_at: "2026-07-22T12:50:11.518572+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -12080,7 +11960,7 @@ title: "Engagement scores engagement-scores"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/scoring/engagement-scores"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:41.369073+00:00"
+created_at: "2026-07-22T12:49:41.797516+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -12338,7 +12218,7 @@ title: "Event-based audiences"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/audiences/event-based-audiences"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:46.818343+00:00"
+created_at: "2026-07-22T12:50:45.859812+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -12384,7 +12264,7 @@ title: "Export accounts"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/account-list-export"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:43.913320+00:00"
+created_at: "2026-07-22T12:49:44.015379+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -12420,7 +12300,7 @@ title: "External actions configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/configurations/configure-external-actions"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:17.684379+00:00"
+created_at: "2026-07-22T12:50:17.101111+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -12589,7 +12469,7 @@ title: "External nodes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/external-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:24.321564+00:00"
+created_at: "2026-07-22T12:49:25.174971+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -12654,7 +12534,7 @@ title: "Form design"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/forms/form-design"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:59.221753+00:00"
+created_at: "2026-07-22T12:50:57.961916+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -12781,7 +12661,7 @@ title: "Form design"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/forms/form-design"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:59.889581+00:00"
+created_at: "2026-07-22T12:49:59.698533+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -12907,7 +12787,7 @@ title: "Forms"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/forms/forms"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:58.321117+00:00"
+created_at: "2026-07-22T12:50:57.158434+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -13160,7 +13040,7 @@ title: "Forms configurations"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/admin/channels/configuration-presets-forms"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:03:07.918398+00:00"
+created_at: "2026-07-22T12:51:07.260028+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -13227,7 +13107,7 @@ title: "Forms configurations"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-forms"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:22.123786+00:00"
+created_at: "2026-07-22T12:50:21.231499+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -13299,7 +13179,7 @@ title: "Forms"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/forms/forms"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:59.303379+00:00"
+created_at: "2026-07-22T12:49:59.126435+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -13556,7 +13436,7 @@ title: "Fragment authoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/visual-fragments/fragment-authoring"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:54.300088+00:00"
+created_at: "2026-07-22T12:50:53.746081+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -13633,7 +13513,7 @@ title: "Fragment authoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/visual-fragments/fragment-authoring"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:58.715970+00:00"
+created_at: "2026-07-22T12:49:58.550320+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -13735,7 +13615,7 @@ title: "Fragments"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/visual-fragments/fragments"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:53.477304+00:00"
+created_at: "2026-07-22T12:50:52.766628+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -14013,7 +13893,7 @@ title: "Fragments"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/visual-fragments/fragments"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:58.142663+00:00"
+created_at: "2026-07-22T12:49:57.984624+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -14275,7 +14155,7 @@ title: "Generative AI for content generative-ai-content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/generative-ai-content"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:14.805790+00:00"
+created_at: "2026-07-22T12:49:16.214630+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -14659,7 +14539,7 @@ title: "Generative AI models for brand alignment"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/brands/generative-ai-models"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:06.347606+00:00"
+created_at: "2026-07-22T12:50:05.602241+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -14738,7 +14618,7 @@ title: "Governance and privacy features"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/governance"
 category: "guides"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:14.819801+00:00"
+created_at: "2026-07-22T12:50:14.250253+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -14821,7 +14701,7 @@ title: "Helper functions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/personalization/personalization-helper-functions"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:10.668310+00:00"
+created_at: "2026-07-22T12:50:10.234951+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -17151,7 +17031,7 @@ title: "Home page"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/home-page"
 category: "overview"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:26.397667+00:00"
+created_at: "2026-07-22T12:50:25.071903+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -17227,7 +17107,7 @@ title: "In-CRM access to detail pages"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/sales-experience/crm-linking"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:48.371088+00:00"
+created_at: "2026-07-22T12:49:48.482219+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -17405,7 +17285,7 @@ title: "In-CRM Insights"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/incrm-insights"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:45.008748+00:00"
+created_at: "2026-07-22T12:49:45.085624+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -17485,7 +17365,7 @@ title: "Intelligent Dashboard"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/intelligent-dashboard"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:11.415308+00:00"
+created_at: "2026-07-22T12:50:10.951453+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -17501,7 +17381,7 @@ CREATED FOR:
 - Intermediate
 - User
 
-The Intelligent Dashboard provides a comprehensive view of [buying group](/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview) and account metrics, helping you to monitor and strategize your marketing efforts more effectively.
+The Intelligent Dashboard provides a comprehensive view of buying group and account metrics, helping you to monitor and strategize your Marketing efforts more effectively.
 
 To access the *Intelligent Dashboard*, select the **Dashboard** item in the left navigation.
 
@@ -17730,7 +17610,7 @@ title: "Intent data"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/configurations/intent-data"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:16.557394+00:00"
+created_at: "2026-07-22T12:50:15.895028+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -17803,7 +17683,7 @@ title: "Journey Agent B2B"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-agents/journey-agent"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:15.952433+00:00"
+created_at: "2026-07-22T12:49:17.342854+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -17950,7 +17830,7 @@ title: "Journey details"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-details"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:25.085745+00:00"
+created_at: "2026-07-22T12:49:25.894490+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -18043,7 +17923,7 @@ title: "Journey management"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journeys-overview"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:17.206978+00:00"
+created_at: "2026-07-22T12:49:18.541452+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -18251,7 +18131,7 @@ title: "Journey nodes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:18.841871+00:00"
+created_at: "2026-07-22T12:49:20.167636+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -18296,7 +18176,7 @@ title: "Journey Optimizer B2B Edition release notes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes"
 category: "release-notes"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:05.118593+00:00"
+created_at: "2026-07-22T12:49:06.489159+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -19012,7 +18892,7 @@ title: "Journey Optimizer B2B Edition Tutorials"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/overview"
 category: "tutorials"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-tutorials"
-created_at: "2026-08-01T10:05:16.463130+00:00"
+created_at: "2026-07-22T12:53:15.344755+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Tutorials
 
@@ -19047,7 +18927,7 @@ title: "Journey re-entry"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-re-entry"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:18.311155+00:00"
+created_at: "2026-07-22T12:49:19.636070+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -19100,7 +18980,7 @@ title: "Journey traffic control"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/journey-traffic-control"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:44.132654+00:00"
+created_at: "2026-07-22T12:50:43.629230+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -19280,7 +19160,7 @@ title: "Journeys Overview dashboard"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/journeys-dashboard"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:14.153607+00:00"
+created_at: "2026-07-22T12:50:13.699405+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -19361,7 +19241,7 @@ title: "Landing page configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/admin/channels/configuration-presets-landing-pages"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:03:07.137287+00:00"
+created_at: "2026-07-22T12:51:06.355877+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -19427,7 +19307,7 @@ title: "Landing page configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-landing-pages"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:21.568734+00:00"
+created_at: "2026-07-22T12:50:20.690642+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -19497,7 +19377,7 @@ title: "Landing page design"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/landing-pages/landing-page-design"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:56.962436+00:00"
+created_at: "2026-07-22T12:50:56.273380+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -19626,7 +19506,7 @@ title: "Landing page design"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/landing-page-design"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:01.601803+00:00"
+created_at: "2026-07-22T12:50:01.397378+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -19771,7 +19651,7 @@ title: "Landing page template design"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/landing-page-templates/landing-page-template-design"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:57.532499+00:00"
+created_at: "2026-07-22T12:49:57.378249+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -19907,7 +19787,7 @@ title: "Landing page templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/landing-page-templates/landing-page-templates"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:56.676902+00:00"
+created_at: "2026-07-22T12:49:56.815957+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -20096,7 +19976,7 @@ title: "Landing pages"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/landing-pages/landing-pages"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:55.222712+00:00"
+created_at: "2026-07-22T12:50:54.516429+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -20271,7 +20151,7 @@ title: "Landing pages"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/landing-pages"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:00.457481+00:00"
+created_at: "2026-07-22T12:50:00.260649+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -20445,7 +20325,7 @@ title: "LinkedIn Account Matched audiences"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/audiences/linkedin-account-matched-audiences"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:36.928443+00:00"
+created_at: "2026-07-22T12:49:37.334138+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -20525,7 +20405,7 @@ title: "Listen for AEP events"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/journey-nodes/listen-for-aep-events"
 category: "tutorials"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-tutorials"
-created_at: "2026-08-01T10:05:32.488303+00:00"
+created_at: "2026-07-22T12:53:37.027963+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Tutorials
 
@@ -20559,7 +20439,7 @@ title: "Listen for an event node"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/journey-nodes/listen-for-event-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:37.040311+00:00"
+created_at: "2026-07-22T12:50:35.962471+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -20632,7 +20512,7 @@ title: "Listen for an event"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:21.477952+00:00"
+created_at: "2026-07-22T12:49:22.391036+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -20884,7 +20764,7 @@ title: "Log in and home page"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/home-page"
 category: "overview"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:12.045324+00:00"
+created_at: "2026-07-22T12:49:13.441867+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -20932,7 +20812,7 @@ title: "Manage email open tracking"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-tracking-manage"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:32.131153+00:00"
+created_at: "2026-07-22T12:49:32.586901+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -21019,7 +20899,7 @@ title: "Marketing management"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/marketing-management"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:31.442378+00:00"
+created_at: "2026-07-22T12:50:30.156246+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -21091,7 +20971,7 @@ title: "Next best path node"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/journey-nodes/next-best-path"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:39.458263+00:00"
+created_at: "2026-07-22T12:50:38.483554+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -21231,7 +21111,7 @@ title: "Next best path node"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/next-best-path-node"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:23.194642+00:00"
+created_at: "2026-07-22T12:49:24.085119+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -21414,7 +21294,7 @@ title: "Paid media orchestration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/journey-nodes/paid-media-orchestration"
 category: "tutorials"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-tutorials"
-created_at: "2026-08-01T10:05:33.015933+00:00"
+created_at: "2026-07-22T12:53:37.690802+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Tutorials
 
@@ -21453,7 +21333,7 @@ title: "People lists"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/audiences/people-lists"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:44.936334+00:00"
+created_at: "2026-07-22T12:50:44.372210+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -21472,12 +21352,12 @@ CREATED FOR:
 
 In Adobe Journey Optimizer B2B Prime, people lists are the person-level audience containers for targeting and person journey entry, with dynamic lists for rule-based live qualification and static lists for fixed or journey-managed membership.
 
-## Access and browse people lists access-browse
+## Access and browse people lists access-and-browse
 
 - On the left navigation, expand Marketing Management .
 - On the right in the Marketing resource list, select People lists . {width="800" modal="regular"}
 
-There are two tabs for the page where you can view and manage **Dynamic lists** and **Static lists**. Click the tab to switch the list view between the two types.
+There are two tabs for the page where you can view and manage of **Dynamic lists** and **Static lists**. Click the tab to switch the list view between each type.
 
 You can enter text in the *Search* tool at the top of the list to filter the displayed list by name. Use the list tools to customize the displayed list:
 
@@ -21494,31 +21374,31 @@ From this space you can also:
 
 - Click Create list at the top right of the People lists page.
 - In the dialog, select a program as the Parent for the list.
-- Enter a Name (required) and Description (optional) for the list.
-- Choose the list Type : Static - Membership is determined by qualifying filters evaluated when you create the list. The list membership does not update unless you manually qualify or disqualify records. Dynamic - Membership is dynamically determined by qualifying filters. The list membership refreshes automatically. {width="450"}
+- Enter the list a Name and Description (optional).
+- Choose then list Type : Static - Membership is determined by qualifying filters evaluated when you create the list. The list membership does not update unless you manually qualify or disqualify records. *** Dynamic** - Membership is dynamically determined by qualifying filters. The list membership refreshes automatically. {width="450"}
 - Click Create .
 
 NOTE
 Delete and duplicate are not currently supported for people lists in this Beta release.
-## Static lists static-lists
+## Static lists static-list
 
 Static list membership is defined by simple filters that reference people attributes and activities. Membership does not change unless you manually qualify or disqualify members.
 
 NOTE
-Static list filter definitions are applied only once when you add to or remove members from the list. The defined filter is not available afterwards. If you want to maintain a consistent audience definition using filters, use a dynamic list instead.
+Static List filter definitions are applied only once when you add to or remove members from the list. The defined filter is not available afterwards. If you want to maintain a consistent audience definition using filters, use a dynamic list instead.
 ### Add members static-list-add-members
 
 - Open the static list and click Add people at the top right.
-- In the dialog, define the rules for qualifying your leads by dragging and dropping filters from the left. You can filter people using any combination of: Activity history Company attributes Person attributes Special filters such as journey membership For each filter that you add, click Add constraints to refine the matching criteria for the filter. {width="700" modal="regular"}
+- In the dialog, define the rules for qualifying your leads by dragging and dropping filters from the left. You can filter people using any combination of: Activity history Company attributes Person attributes Special filters such as journey membership
 - To save your changes, click Done .
-- Select the Members tab. After a brief time, qualifying members appear in the list. {width="700" modal="regular"}
+- Select the Members tab. After a brief time, qualifying members appear in the list.
 
 ### Remove members static-list-remove-members
 
 - Open the static list and click Remove people at the top right.
-- In the Remove people dialog, add the filters to match members that you want to disqualify. {width="700" modal="regular"}
+- In the dialog, add the filters to maatch members that you want to disqualify.
 - To save your changes, click Done .
-- Select the Members tab. After a brief time, the disqualified members leave the list.
+- Select the Members tab. After a brief time, disqualified members leave the list.
 
 ### Activate to a destination static-list-activate
 
@@ -21526,7 +21406,7 @@ When you activate a static list, it is actionable in downstream systems, with on
 
 - The static list acts as a container for the people.
 - The activation sends/syncs that membership to a destination.
-- The destination can then do something with those people, such as target them on LinkedIn or remove them from an external audience.
+- The destination can then do something with those people, suuch as target them on LinkedIn or remove them from an external audience.
 
 Because the activation model is meant to be persistent, not a one-time export:
 
@@ -21535,47 +21415,32 @@ Because the activation model is meant to be persistent, not a one-time export:
 - Marketers avoid repeated CSV exports and manual uploads.
 - Journeys can refresh the audience over time for ongoing orchestration.
 
-PREREQUISITES
-You must have one or more
-configured destinations
-for your Journey Optimizer B2B Prime sandbox before you can activate a static list to a destination.
 - Select the Static lists tab.
 - Locate the static list that you want to activate to a destination.
-- Click the More menu ( … ) icon next to the list and choose Activate to destination . {width="450"} You can also open the static list and use the More menu at the top right. which UI is it? _Activate_ ( ![Customize table icon](../../assets/do-not-localize/icon-falco-activate-dest.svg) ) icon next to the static list name.
+- Click the Activate ( ) icon next to the static list name.
 - Select the check box for the configured destination connection. {width="600" modal="regular"}
 - Click Save .
-- Confirm the activation in the Activate list to destination dialog by clicking Activate .
-
-When activation completes, a confirmation appears (*The destination has been activated.*) and the destination is listed as **Active** on the **Destinations** tab of the list. A static list can be activated to more than one destination at a time; membership syncs to all of them.
-
-To review the destinations that a static list is activated to, open the list and select the **Destinations** tab. By default, a new list has no destinations connected.
-
-#### Deactivate a destination deactivate-destination
-
-- Open the static list and select the Destinations tab.
-- Click the minus ( – ) icon on the row of the destination that you want to remove.
-- Confirm in the Deactivate destination dialog.
-
-Deactivating removes the destination from the list. The people in the list are also removed from the connected destination audience.
 
 ## Dynamic lists dynamic-lists
 
 Dynamic list membership is defined using simple filters that reference people attributes and activities. Membership is automatically maintained by qualifying and disqualifying leads according to the filter logic.
 
-### Set membership rules set-membership-rules
+### Set membership rules
 
 - Open the dynamic list and select the Rules tab.
-- Click the Edit rules . {width="550" modal="regular"}
-- In the dialog, define the rules for qualifying your leads by dragging and dropping filters from the left. You can qualify leads for the list using any combination of: Activity history Company attributes Person attributes Special filters such as journey membership For each filter that you add, click Add constraints to refine the matching criteria for the filter. {width="700" modal="regular"}
+- Click the Edit rules .
+- In the dialog, define the rules for qualifying your leads by dragging and dropping filters from the left. You can qualify leads for the list using any combination of: Activity history Company attributes Person attributes Special filters such as journey membership
 - To save your changes, click Done .
-- Select the Members tab. After a brief time, qualifying members appear in the list. {width="700" modal="regular"} To open the person details page where you can view the summary and recent activities, click the name of a person in the list.
+- Select the Members tab. After a brief time, qualifying members appear in the list.
 
-### Duplicate a dynamic list duplicate-dynamic-list
+To open the [person details](/en/docs/journey-optimizer-b2b/prime/audiences/person-details) page where you can view the summary and recent activities, click the name of a person in the list.
+
+### Duplicate a dynamic list
 
 For a dynamic list, a duplicate action is similar to a clone function. Use this function to replicate the membership filtering and add it to a different program.
 
-- In the Dynamic lists tab, click the More menu ( … ) icon next to the list and choose Duplicate .
-- In the dialog, select the Parent program for the duplicated list.
+- In the Dyanmic lists tab, click the Duplicate ( … ) icon next to the list you want to duplicate.
+- In the dialog, select the Parent program for the duplicated journey.
 - Enter a unique Name (required) and Description (optional). By default, the dialog uses the name of the originating list appended with _copy . Enter a different unique name for the list as needed. {width="375"}
 - Click Duplicate .
 
@@ -21591,7 +21456,7 @@ title: "Person audience journey nodes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/person-audience-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:20.312507+00:00"
+created_at: "2026-07-22T12:49:21.237715+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -21643,7 +21508,7 @@ title: "Person audience node"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/journey-nodes/person-audience-node"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:35.317216+00:00"
+created_at: "2026-07-22T12:50:34.275741+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -21682,7 +21547,7 @@ title: "Person details"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/audiences/person-details"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:46.053444+00:00"
+created_at: "2026-07-22T12:50:45.105391+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -21840,7 +21705,7 @@ title: "Person details"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/sales-experience/person-details"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:47.805893+00:00"
+created_at: "2026-07-22T12:49:47.892472+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -21921,7 +21786,7 @@ title: "Person engagement scores engagement-scores"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/audiences/engagement-scores"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:47.731002+00:00"
+created_at: "2026-07-22T12:50:46.687502+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -22161,7 +22026,7 @@ title: "Person journey nodes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/journey-nodes/person-journey-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:34.583990+00:00"
+created_at: "2026-07-22T12:50:33.438659+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -22234,7 +22099,7 @@ title: "Person Journeys"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/person-journeys"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:33.803493+00:00"
+created_at: "2026-07-22T12:50:32.632497+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -22439,7 +22304,7 @@ title: "Persona mapping"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/persona-mapping"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:15.364496+00:00"
+created_at: "2026-07-22T12:50:14.800927+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -22548,7 +22413,7 @@ title: "Personalization editor"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/personalization-expressions"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:03:00.127423+00:00"
+created_at: "2026-07-22T12:50:58.915447+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -22685,7 +22550,7 @@ title: "Personalization syntax personalization-syntax"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/personalization/personalization-syntax"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:09.773566+00:00"
+created_at: "2026-07-22T12:50:09.440436+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -22785,7 +22650,7 @@ title: "Preview and test your email content preview-simulate"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/emails/preview/email-simulate-content"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:49.461755+00:00"
+created_at: "2026-07-22T12:49:49.573359+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -22853,7 +22718,7 @@ title: "Program types"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/admin/program-types"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:03:09.673707+00:00"
+created_at: "2026-07-22T12:51:08.979475+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -22899,7 +22764,7 @@ title: "Programs"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/programs/programs"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:32.173350+00:00"
+created_at: "2026-07-22T12:50:30.939899+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -22995,7 +22860,7 @@ title: "Question guidance for AI Assistant in Journey Optimizer B2B Edition"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/question-guidance"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:13.685630+00:00"
+created_at: "2026-07-22T12:49:15.085628+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -23133,7 +22998,7 @@ title: "Review the spam report"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/emails/preview/email-spam-report"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:50.556305+00:00"
+created_at: "2026-07-22T12:49:50.648030+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -23170,7 +23035,7 @@ title: "Role Insights dashboard"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-group-role-insights"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:40.815199+00:00"
+created_at: "2026-07-22T12:49:41.227643+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -23281,7 +23146,7 @@ title: "Role templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/role-templates"
 category: "tutorials"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-tutorials"
-created_at: "2026-08-01T10:05:34.601284+00:00"
+created_at: "2026-07-22T12:53:39.787329+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Tutorials
 
@@ -23315,7 +23180,7 @@ title: "Sales alert email"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/sales-alert-email"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:30.941088+00:00"
+created_at: "2026-07-22T12:49:31.510482+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -23412,7 +23277,7 @@ title: "Sales Qualifier"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/sales-qualifier"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:03:10.698884+00:00"
+created_at: "2026-07-22T12:51:09.909061+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -23998,7 +23863,7 @@ title: "Sales Qualifier"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-agents/sales-qualifier"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:16.590537+00:00"
+created_at: "2026-07-22T12:49:17.955636+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -24029,7 +23894,7 @@ Sales Qualifier is included with Journey Optimizer B2B Edition, but it is a sepa
 
 ### Account Qualification Agent
 
-The Account Qualification Agent (AQA) is the core of the Sales Qualifier. The AQA uses AI to read your accounts and determine which ones are ready for the next step. It assists with research, email drafting, and CRM-informed context when your organization has connected the CRM.
+The Account Qualification Agent (AQA) is the core of the Sales Qualifier. The AQA uses AI to read your accounts and determine which ones are ready for the next step. It assists with research, email drafting, and CRM-informed context when your organization has connected the CRM (read-only).
 
 ### Basic agent usage
 
@@ -24043,91 +23908,43 @@ Using natural language, you can ask the agent to:
 
 Iterate your outbound workflows by refining your prompts to get the results you need. For example:
 
-- Draft a follow-up email drawing from context like earnings calls or reports. Up to 120 words. Subject line: Captivating, incorporating a key theme. Intro: Start with a direct quote from context sources. Body: Connect to pain points and value propositions. CTA: Propose a short call to explore further._
+- Draft a follow-up email drawing from context like earnings calls or reports. Up to 120 words. Subject line: Captivating, incorporating a key theme. Intro: Hook with a direct quote from context sources. Body: Connect to pain points and value propositions. CTA: Propose a short call to explore further._
 - The goal of this email is to start a conversation and build credibility. Draft an email under 120 words that has a consultative and empathetic tone. Avoid an overly familiar or sales approach and do not use the phrases “hope you are well,” “just checking in,” or “please.”_
 
 ### Product access and user groups
 
-Access to Sales Qualifier features is managed through two user groups in Adobe Admin Console. Product administrators must set up the groups during onboarding before users can access the application.
+Access to Sales Qualifier features is managed through user groups in Adobe Admin Console. Product administrators must set up the appropriate user groups before users can access the application.
 
-#### Sales Qualifier users
+#### Product administrators
 
-Users must be members of the Sales Qualifier user group to access the Sales Qualifier application.
-
-- In Adobe Admin Console, create a user group named Sales Qualifier.
-- Assign the **Default Production All Access** AEP profile to the group.
-- Add users who need access to Sales Qualifier.
-
-#### Sales Qualifier administrators
-
-Administrators who configure [CRM connections](#integrations-and-crm), the [Knowledge Center](#knowledge-center), and global email opt-out settings must also be members of the Sales Qualifier Admins user group.
+Product administrators who need access to the [Integrations](#integrations) functionality must be members of the Sales Qualifier Admins user group.
 
 - In Adobe Admin Console, create a user group named Sales Qualifier Admins.
-- Add the administrators to both the Sales Qualifier and Sales Qualifier Admins groups.
+- Add users who need to configure CRM connections and Knowledge Base settings.
 
-Membership in both groups makes **Admin Settings** visible under **Administration** in the left navigation. Standard users can use the configured fields, filters, and playbook, and the configured opt-out footer is applied to their outbound emails. They cannot change these settings.
+#### Standard BDR users
+
+Standard BDR users must be members of the Sales Qualifier users user group to access Sales Qualifier.
+
+- In Adobe Admin Console, create a user group named Sales Qualifier users.
+- Assign the **Default Production All Access** AEP profile to the group.
+- Add users to the group.
 
 NOTE
 User group names must match exactly as shown in the preceding steps.
 ## Prospects
 
-Select **Prospects** in the left navigation to view a list of the leads that you can access. The list provides a quick review of information, such as lead status and last activity.
+Select **Prospects** in the left navigation to view a list of all the leads that you can access. It provides a quick review of information, such as lead status and last activity.
 
 {width="800" modal="regular"}
 
-### Build your prospect list
-
-The prospect list combines people from more than one source:
-
-- **CRM-sourced prospects** – When you connect a CRM, it automatically imports leads owned by the connected user. See [Integrations and CRM](#integrations-and-crm).
-- **Imported prospects** – Import a lead list from a CSV file.
-- **Manually added prospects** – Add an individual person directly in the app.
-
-To add prospects that do not come from your CRM:
-
-- On the Prospects page, select Add prospects .
-- Choose Import CSV or Add manually . For a CSV import, upload the file and map its columns to prospect fields. To add a person manually, enter their details in the form.
-- Select Save .
-
-### Filter and find prospects
-
-Select the *Filter* icon to narrow the list. You can filter by:
-
-- Lead status
-- Engagement score
-- Interesting moments flagged by marketing
-- Star score and flame score
-- Associated deals
-
-Administrators can also make mapped CRM fields available as filters. In **Admin Settings**, they turn on **Filterable** for the fields that reps use to find prospects. See [Map CRM fields](#map-crm-fields-inbound-mapping).
-
-### Review prospect details
-
-Select a prospect to open their profile. Review the signals that matter before you reach out:
-
-- **Activity list** – A chronological list of the prospect’s activities, with an **AI activity summary** at the top that highlights the most relevant recent behavior.
-- **Timeline view** – A visual timeline of engagement across channels.
-- **Viewed content** – Open the actual content a prospect viewed, such as a web page or asset, directly from an activity.
-
-## Accounts
-
-Select **Accounts** in the left navigation to work with the accounts you sell into. Sales Qualifier brings together firmographic detail, pipeline, and engagement so that you can prioritize outreach at the account level.
-
-The account overview summarizes essentials like revenue, industry, company size, and headquarters. Alongside these details, each account surfaces:
-
-- **Open opportunities** – The open opportunities associated with the account, sourced from your connected CRM, so that you can align outreach with active pipeline.
-- **Top engaged members** – The contacts at the account with the most recent engagement, so that you know who to prioritize within the buying group.
-- **CRM inputs** – Account fields, opportunities, and owner information surfaced from your connected CRM. See [Integrations and CRM](#integrations-and-crm) for how this data is mapped.
-
-### Account deep dive
-
-To start a deep dive, open an account. The Account Qualification Agent (AQA) prioritizes the signals that are most relevant to your organization’s selling strategy, so that you can quickly understand where the account stands and decide what to do next.
+Click the *Filter* icon to filter the displayed list by lead status.
 
 ## Outbound workflows
 
 NOTE
 Outbound workflows created by product administrators are shared with all users in your organization.
-An *outbound workflow* is the structure Sales Qualifier uses to run a goal-driven cadence. You define an outreach goal and targeting criteria and the AI proposes a multi-touch cadence and writes personalized email content for each prospect. You review and approve each email before enrollment activates the cadence so that messages send only during your configured window.
+An *outbound workflow* is the structure Sales Qualifier uses to run a goal-driven email sequence. You define an outreach goal and targeting criteria and the AI proposes a multi-touch cadence and writes personalized email content for each prospect. You review and approve each email before enrollment activates the sequence so messages send only during your configured window.
 
 An outbound workflow connects four elements:
 
@@ -24149,7 +23966,7 @@ A reusable outbound activity defined by a goal, targeting filters, cadence, and 
 Goal
 What the outreach should accomplish.
 Touchpoint
-One step in the cadence (email, phone call, or LinkedIn InMail), scheduled relative to enrollment.
+One step in the sequence (email, phone call, or LinkedIn InMail), scheduled relative to enrollment.
 Touchpoint prompt
 Instructions the AI follows when generating email body and subject for a prospect—tone, length, focus, and call to action.
 Cadence
@@ -24179,7 +23996,7 @@ The goal is the most important input: it tells the AI what success looks like an
 - Choose one of the Recommended goals as a starting point, or enter your own goal.
 - Click Next: Targeting .
 
-Goals work best when they state a **concrete outcome**, not only a topic. To give the AI more to work with, use a goal like Book a 15-minute discovery call with marketing leaders evaluating campaign automation instead of Promote campaign automation.
+Goals work best when they state a **concrete outcome**, not only a topic. For example, Book a 15-minute discovery call with marketing leaders evaluating campaign automation gives the AI more to work with than Promote campaign automation.
 
 #### Step 2: Configure targeting filters
 
@@ -24196,7 +24013,7 @@ After targeting is set, the AI builds the *cadence*: it analyzes your goal and t
 
 {width="700" modal="regular"}
 
-To read its prompt, expand an email touchpoint. This instruction guides the AI when writing each prospect’s email, including tone, length, focus, and *call to action*.
+Expand an email touchpoint to read its prompt. This instruction guides the AI when writing each prospect’s email, including tone, length, focus, and *call to action*.
 
 **Regenerate the cadence**
 
@@ -24209,10 +24026,6 @@ If the cadence is not what you want, click **Regenerate** and enter a refinement
 The AI rewrites the full cadence based on your instruction.
 
 To adjust a single email touchpoint without regenerating the whole cadence, edit the prompt text directly in its text area.
-
-**Use a playbook in your prompts**
-
-If your organization has built a playbook in the [Knowledge Center](#knowledge-center), you can direct the AI to draw from it when writing emails. In the prompt, name the document and the context you want the AI to use—for example, Use the ABC positioning guide from the Knowledge Center and focus on the security value proposition. The generated emails then reflect the messaging in that playbook.
 
 When the cadence and prompts look right, click **Next: Settings**.
 
@@ -24227,12 +24040,9 @@ The **Settings** step controls how the workflow runs.
 - Review the **Workflow name** and change it if you want a clearer label.
 - In **Max prospects per workflow**, confirm the upper limit on how many prospects the workflow can manage at once.
 - Set the **Send window** for the hours when outbound emails are allowed to send.
-- Turn on **Skip Weekends** to move any touchpoint that falls on a weekend to the next business day.
-- To stop follow-up touchpoints automatically once a prospect books a meeting, turn on **Meeting Booking Pause**.
+- Confirm **Include opt out link** so that each email can include an opt-out link.
 - Confirm that the **Timezone** matches your audience.
 - Click **Save and add prospects**.
-
-The opt-out footer is configured globally by an administrator and applies to outbound emails independently of the workflow settings. See [Global opt-out sync](#global-opt-out-sync).
 
 #### Step 5: Add prospects and start email generation
 
@@ -24245,7 +24055,7 @@ Saving opens the prospect selection view, already filtered by your Step 2 target
 - Select prospects using the checkboxes.
 - Click Next: Review touchpoints to start per-prospect email generation.
 
-The AI generates personalized emails for every selected prospect for **each email touchpoint** in the cadence. Phone and LinkedIn InMail touchpoints remain in the cadence as scheduled steps. Generation can run in the background—use **Notify when ready** if you want to continue other work while it completes.
+The AI generates personalized emails for every selected prospect for **each email touchpoint** in the cadence. Phone and LinkedIn InMail touchpoints remain in the sequence as scheduled steps. Generation can run in the background—use **Notify when ready** if you want to continue other work while it completes.
 
 For each prospect, the AI combines each touchpoint prompt with prospect-specific data (person, account, engagement history, recent news) to produce subject line and body.
 
@@ -24262,7 +24072,7 @@ When generation finishes, the workflow detail view shows a banner to review draf
 
 #### Read the AI reasoning
 
-For each generated email, **Reasoning** explains how the AI crafted that message, including signals, attributes, and sources that shaped the content and call to action. Review this information and validate personalization before you approve.
+For each generated email, **Reasoning** explains how the AI crafted that message, including the signals, attributes, and sources that shaped the content and call to action. Review this information and validate personalization before you approve.
 
 {width="600" modal="regular"}
 
@@ -24284,9 +24094,9 @@ For larger changes (restructure, shift emphasis, or reframe the message), use **
 - Click Save .
 
 TIP
-Direct edits suit wording and tone. Use
+Direct edits suit wording and tone.
 Generate with AI
-to rewrite the email from scratch.
+is better when you would otherwise rewrite the email from scratch.
 ### Approve and enroll prospects
 
 Approval activates the cadence for a prospect. Until a prospect is approved and enrolled, the system does not send emails to them.
@@ -24310,10 +24120,6 @@ On the *Outbound workflow* page, the **Browse** tab lists every workflow. Each c
 - **Match the editing tool to the change.** Direct edits for wording and tone; **Generate with AI** for restructuring or reframing.
 - **Approve only what you have reviewed.** Expand touchpoints, read the content, and refine where needed before enrollment.
 
-### Global opt-out sync
-
-Administrators can append a light-touch unsubscribe footer that uses pre-approved Marketo verbiage to every outbound email. When a prospect selects the opt-out link, Sales Qualifier permanently suppresses the prospect from further emails and syncs the opt-out status back to the connected CRM. See [Configure global email opt-out](#configure-global-email-opt-out).
-
 ## Email outbox
 
 The Email outbox panel lists all the automated emails that you have sent.
@@ -24322,7 +24128,7 @@ The Email outbox panel lists all the automated emails that you have sent.
 
 The *Tasks* area in Sales Qualifier gives Business Development Representatives (BDRs) a dedicated space to manage and process their outbound workflow actions. The outbound workflow engine automatically generates tasks that represent the specific actions a BDR needs to take with each prospect — phone calls, LinkedIn InMails, and email reviews.
 
-The task management experience is a **processing queue**, not a to-do list. You can open a task, take action, mark it complete, and move to the next one — all without leaving the page.
+The task management experience is designed as a **processing queue**, not just a to-do list. You can open a task, take action, mark it complete, and move to the next one — all without leaving the page.
 
 Select **Tasks** in the left navigation bar to open the full tasks page. This page is the primary workspace for processing tasks one by one.
 
@@ -24332,9 +24138,9 @@ Select **Tasks** in the left navigation bar to open the full tasks page. This pa
 
 All tasks are tied to outbound workflow steps. There are three types:
 
-**Phone Call** — Created when a cadence reaches a phone call step. The task panel shows agent-generated pitch points and an inline notes field for capturing call notes.
+**Phone Call** — Created when a workflow sequence reaches a phone call step. The task panel shows agent-generated pitch points and an inline notes field for capturing call notes.
 
-**LinkedIn InMail** — Created when a cadence reaches a LinkedIn InMail step. The task panel shows an AI-generated subject line and message body that you can copy and send outside the product.
+**LinkedIn InMail** — Created when a sequence reaches a LinkedIn InMail step. The task panel shows suggested InMail content that you can copy and send outside the product.
 
 **Email Review** — Created once the system finishes generating personalized emails for a prospect enrolled in a workflow. You review and approve the emails before outbound begins for that prospect. Each prospect gets a separate Email Review task; if you enroll 10 prospects in a workflow, you see up to 10 Email Review tasks as generation completes.
 
@@ -24343,7 +24149,7 @@ All tasks are tied to outbound workflow steps. There are three types:
 The Tasks page is split into two panels:
 
 - **Left — Task list:** Your queue of tasks, ordered and filtered based on your selected view and sort settings.
-- **Right — Task work panel:** Details for the selected task, including prospect information, workflow context, task-specific content, and action controls.
+- **Right — Task work panel:** Details for the selected task, including prospect information, workflow context, task-specific content (pitch points, suggested copy, email drafts), and action controls.
 
 Selecting any task in the left panel loads its details into the right panel without navigating away from the page.
 
@@ -24362,15 +24168,11 @@ For Phone Call and LinkedIn InMail tasks, an inline notes field is available in 
 Use the following actions to manage your tasks:
 
 - Mark Complete - The primary action. Use this action after you’ve executed the task — made the call, sent the InMail, or reviewed and approved the emails. On completion, the task is recorded as Completed and the queue advances automatically.
-- Skip Touchpoint - Available from the overflow menu in the work panel. Use this option when you cannot complete this step, but the prospect remains a valid target in the workflow. The prospect advances to the next step in the cadence. Future tasks still generate on schedule. Select a reason: Bad contact info , Bad timing , Content not relevant , or Other (with a freetext field). The task status is set to Skipped and logged with the reason and timestamp. If this was the last step in the workflow, the prospect’s workflow run ends. The task is still logged as Skipped (not Removed).
+- Skip Touchpoint - Available from the overflow menu in the work panel. Use this option when you cannot complete this step, but the prospect remains a valid target in the workflow. The prospect advances to the next step in the sequence. Future tasks still generate on schedule. Select a reason: Bad contact info , Bad timing , Content not relevant , or Other (with a freetext field). The task status is set to Skipped and logged with the reason and timestamp. If this was the last step in the workflow, the prospect’s workflow run ends. The task is still logged as Skipped (not Removed).
 - Remove from Workflow - Available from the overflow menu in the work panel. Use this when the prospect no longer belongs in this workflow. When you remove a prospect from a workflow: All pending and future tasks for that prospect within this workflow are cancelled. The prospect’s enrollment status changes to Removed by BDR . Select a reason: Left company , Duplicate , Wrong fit , Already converted , or Other (with a text field). A confirmation dialog appears: “This action will cancel all remaining touchpoints for [Prospect] in [Workflow Name]. Continue?” The task status is set to Removed . All cancelled sibling tasks are also marked Removed .
 
 NOTE
-Skip and Remove reason data informs analytics, including channel skip rates, workflow removal rates, and top reasons. This helps improve workflow quality and informs performance analysis over time.
-**Automatic skipping**
-
-Stagnant LinkedIn InMail and phone call tasks are skipped automatically if they remain incomplete for two days. Automatic skipping keeps a prospect moving through the cadence without stalling the run, and it does not affect the email timeline. Scheduled email touchpoints continue to send as planned.
-
+Skip and Remove reason data informs analytics, including skip rate by channel, removal rate by workflow, and top reasons. This helps improve workflow quality and informs performance analysis over time.
 ### Task status
 
 Each task moves through the following states:
@@ -24456,100 +24258,18 @@ Task completion isn’t limited to the Tasks page.
 - **Today with no tasks:** You see a *You’re all caught up for today* message. If upcoming tasks exist, a prompt appears as *You have [N] upcoming tasks — view upcoming*.
 - **Overdue tasks present:** A prompt encourages you to address overdue tasks first.
 
-## Meeting booking
+## Integrations
 
-Sales Qualifier turns engaged conversations into booked meetings without leaving the outbound flow. When you connect your calendar, Sales Qualifier generates a personal booking link that prospects use to schedule time with you.
-
-- **Booking links** – Configure your calendar connection and availability in [Profile settings](#profile-settings). Your booking link can be added to your email signature so that it appears in outbound emails.
-- **Automatic insertion in a cadence** – Sales Qualifier inserts your booking link at suitable points in a cadence, so that the invitation to meet appears when it is most relevant. You can override the placement manually.
-- **Booking pause** – When a prospect books a meeting, **Meeting Booking Pause** stops further follow-ups automatically. See [Configure workflow settings](#step-4-configure-workflow-settings).
-
-Track booking outcomes in the [Performance](#performance) section.
-
-## Knowledge Center
-
-The *Knowledge Center* gives the Account Qualification Agent (AQA) access to your own sales materials, so that Sales Qualifier can generate research, qualification insights, and outreach that reflect how your organization sells. Building and managing the playbook is an administrator task.
-
-{width="700" modal="regular"}
-
-### Upload sales collateral
-
-- In the left navigation, expand **Administration** and select **Admin Settings**.
-- Select **Knowledge Center** under **Integrations**.
-- Set the **Company name** and **Company URL** that Sales Qualifier uses to research your company and draft emails.
-- Upload sales plays, ideal customer profiles (ICPs), positioning guides, and other sales collateral in PDF, PPTX, or DOCX format.
-
-Each uploaded document displays its processing status, such as **Ready**, and when it was last updated.
-
-### Build a playbook
-
-After you upload your documents, select **Build Playbook** to turn them into a playbook.
-
-NOTE
-A playbook takes about 24 hours to process before it is ready to use.
-When the playbook is ready, it feeds both outreach and assistance:
-
-- **Outbound email prompts** – Reference the playbook when generating emails by naming the document and context in your prompt. See [Generate and review touchpoints](#step-3-generate-and-review-touchpoints).
-- **Conversational Sales Assistant** – To pull from the playbook, point the assistant at the Knowledge Center. See [Conversational Sales Assistant](#conversational-sales-assistant).
-
-## Conversational Sales Assistant
-
-The Conversational Sales Assistant is a chat experience where you ask questions in natural language and get answers grounded in your sales context. The assistant draws on:
-
-- Your internal knowledge base, including any [Knowledge Center](#knowledge-center) playbook
-- CRM signals from your connected CRM
-- Marketo activity and engagement data
-- Web research
-
-Use the assistant to prepare before outreach—for example, to build account positioning ahead of a meeting. To pull from a built playbook, point the assistant at the Knowledge Center in your question. For example: From the Knowledge Center, help me position our security solution for ABC Corp ahead of tomorrow's call.
-
-## Performance
-
-The **Performance** section shows how your outbound is doing, so that you can see what is working and where to adjust.
-
-### Email performance
-
-Review the volume and effectiveness of your outbound email:
-
-- Emails sent
-- Open rate
-- Click rate
-- Reply rate
-
-Sales Qualifier identifies out-of-office replies and bounces with their corresponding statuses, so that you can distinguish them from prospect engagements.
-
-### Meeting booking performance
-
-Meeting-booking status cards summarize where your booked meetings stand. Filter the cards to focus on the meetings and statuses you want to review.
-
-## Integrations and CRM
-
-With integrations, Sales Qualifier connects to your CRM so that the Account Qualification Agent (AQA) and outbound workflows share a consistent view of leads, accounts, contacts, activities, and owners in Salesforce or Microsoft Dynamics 365. Sales Qualifier reads CRM sales data and activities to enrich insights, and it can write back logged outreach activities and opt-out status. It does not otherwise modify your CRM records through this connection.
-
-CRM connections, inbound field mapping, and activity synchronization are configured by an administrator under **Administration** > **Admin Settings** > **CRM connections**. Standard users consume the configured CRM data and filters but cannot change these settings.
-
-### CRM MCP and the embedded plugin
-
-Sales Qualifier works with your CRM in more than one way:
-
-- **Query CRM data through the CRM MCP** – The Account Qualification Agent queries live CRM data through the CRM MCP, so that answers and insights reflect the current state of your records.
-- **Embedded plugin** – The embedded CRM plugin surfaces Marketo Sales Insights (MSI) core insights alongside the new agentic data, directly in your CRM. From the plugin, add a prospect to Sales Qualifier in one click.
-- **Activity sync-back** – When an administrator enables **Activity sync**, outreach activities sync back to the CRM, so that reps see Sales Qualifier activity in the tools they already use.
+With integrations, Sales Qualifier can use your CRM so the Account Qualification Agent (AQA) and outbound workflows share a consistent view of leads, accounts, contacts, activities, and owners in Salesforce or Microsoft Dynamics 365. CRM integrations connect with **read-only** access so that AQA can retrieve CRM sales data and activities (for example emails, calls, tasks, and appointments) to enrich insights. CRM data is used for insights and operational efficiency in the app. It is not used to modify your CRM records through this connection.
 
 IMPORTANT
-Accessing
-Admin Settings
-requires membership in both the
-Sales Qualifier
-and
+Accessing integrations in Sales Qualifier requires
 Sales Qualifier Admins
-user groups.
+user group membership.
 ### CRM access scope
 
-Sales Qualifier reads the CRM entities it needs and can write back only a defined set of data. Typical entities read include users, contacts, owner mappings, leads, accounts, opportunities, and activities. Write-back is limited to logged outreach activities and opt-out status. Your CRM administrator prepares API access in Salesforce or Dynamics. You then connect Sales Qualifier, map inbound fields, and choose whether to sync activities in the app.
+The CRM connection is *read-only*. Typical entities used include users, contacts, owner mappings, leads, accounts, opportunities, and activities. Your CRM administrator prepares API access in Salesforce or Dynamics. You then connect Sales Qualifier and map inbound fields in the app.
 
-NOTE
-The credential steps that follow describe read access to CRM objects. If you enable activity sync or opt-out write-back, work with your CRM administrator to grant the corresponding write access required by your CRM configuration.
 ### Prepare credentials in your CRM
 
 Work with your CRM administrator before you connect Sales Qualifier. The following summarizes what is usually created in each system.
@@ -24559,7 +24279,7 @@ Work with your CRM administrator before you connect Sales Qualifier. The followi
 - In Azure Active Directory, register an application ( App registrations ). Note the Client ID and Tenant ID , and create a Client Secret .
 - In the Power Platform admin center , open your environment and go to Settings > Users + permissions > Application users .
 - Create an application user linked to that Azure AD app.
-- Assign a security role that grants read access to the entities Sales Qualifier needs, such as leads, contacts, accounts, opportunities, and activities. The app requires a security role with read access to read data.
+- Assign a security role that grants read access to the entities Sales Qualifier needs (for example leads, contacts, accounts, opportunities, and activities). The app requires a security role with read access to read data.
 
 **Information to provide when connecting Dynamics:**
 
@@ -24570,14 +24290,14 @@ Work with your CRM administrator before you connect Sales Qualifier. The followi
 
 #### Salesforce
 
-In Salesforce, [create an External Client App](https://help.salesforce.com/s/articleView?id=xcloud.create_a_local_external_client_app.htm&type=5) (or a *Connected App*) with OAuth enabled and scopes that allow API access to identity and data, following your org’s security standards. The integrating user must have read access to objects such as leads, accounts, contacts, tasks, events, and opportunities. Administrative tasks often require a user with **Manage Connected Apps** (among other permissions) to view a consumer key and secret after creation.
+In Salesforce, [create an External Client App](https://help.salesforce.com/s/articleView?id=xcloud.create_a_local_external_client_app.htm&type=5) (or a *Connected App*) with OAuth enabled and scopes that allow API access to identity and data, following your org’s security standards. The integrating user (for example when using a client-credentials style configuration) must have read access to objects such as leads, accounts, contacts, tasks, events, opportunities, and related opportunity objects. Administrative tasks often require a user with **Manage Connected Apps** (among other permissions) to view a consumer key and secret after creation.
 
 PREREQUISITES
 To create an External Client App, a product administrator should verify that you have the following enabled (from Profile or Permission Set):
 - Customize Application
 - View Setup and Configuration
 - Modify All Data
-- Manage Connected Apps (important) If Manage Connected Apps is not enabled, you cannot view the client ID and client secret after you create the External Client App.
+- Manage Connected Apps (important) If Manage Connected Apps is not enabled, you might not be able to view the client ID and client secret after you create the External Client App.
 
 When you create the External Client App, enable OAuth and give permissions. Also enable the following client credentials:
 
@@ -24610,11 +24330,10 @@ Do not send client secrets by email. Use your organization’s approved secure c
 ### Connect to your CRM
 
 - Log in to Sales Qualifier and confirm that the correct sandbox or environment is selected.
-- In the left navigation, expand Administration and select Admin Settings .
-- Select CRM connections under Integrations . The page displays cards for Salesforce and Microsoft Dynamics. An inactive connection displays Connect . A configured connection displays Connected and a Manage action. {width="800" modal="regular"}
+- In the left navigation, expand Administration and select Integrations . The page displays cards for Salesforce and Microsoft Dynamics. {width="800" modal="regular"}
 - Click Connect for the CRM that you use.
 - Enter the Client ID, secrets, tenant or callback values, and instance URL from your CRM administrator.
-- After a successful connection, confirm that the card shows Connected .
+- After a successful connection, the card shows Connected .
 
 ### Instance URL guidelines
 
@@ -24631,37 +24350,11 @@ The **instance URL** must be the environment base URL your CRM uses for API and 
 
 ### Map CRM fields (inbound mapping)
 
-After the CRM is connected, select **Manage** for the connection and open **Inbound mapping**. Inbound mapping controls which CRM fields Sales Qualifier pulls into the application.
+After the CRM is connected, open **Manage** on the integration to work with **CRM inbound mapping**.
 
-- Select an object group: Contact , Prospect , or Account .
-- Select Add Section and enter a section name and optional description.
-- Add the CRM fields to the section. Each field row displays its Display name , Field name , and Data type .
-- Turn on Filterable for each field that should be available as a filter on the Prospects list.
-- Preview the mapping and save it.
-
-Mapped fields appear in the corresponding areas of Sales Qualifier:
-
-- Prospect and contact fields appear on the **Person** tab for prospects.
-- Account fields appear on the account view.
-- Opportunity-related fields appear in the opportunity areas of the account experience.
-
-### Configure activity sync (outbound mapping)
-
-- From **CRM connections**, select **Manage** for the connected CRM.
-- Open **Outbound mapping**.
-- Turn on **Activity sync** to sync Sales Qualifier outreach activities back to the CRM.
-
-When activity sync is off, Sales Qualifier can continue to use inbound CRM data, but it does not write outreach activities back to the CRM.
-
-### Configure global email opt-out
-
-- In the left navigation, expand **Administration** and select **Admin Settings**.
-- Select **Email settings** under **Compliance**.
-- Turn on **Include opt-out link in every email** to append an unsubscribe footer to outbound emails.
-- In **Opt-out message template**, enter the footer text. Include the {{opt_out_link}} token where the clickable unsubscribe link should appear.
-- Save the settings.
-
-When a prospect selects the link, Sales Qualifier permanently suppresses the prospect from further emails. The opt-out status also syncs back to the connected CRM.
+- Click Add Section and enter a name, optional description, and entity type (for example prospect).
+- Select the CRM fields to import, preview the mapping, and save. The section appears under the inbound mapping tab.
+- Mapped prospect fields appear on the Person tab for prospects: Account fields on the account view. Opportunity-related fields in the opportunity areas of the account experience.
 
 ### Reference: sample API parameters
 
@@ -24688,16 +24381,22 @@ WHERE OwnerId = '<crmUserId>' AND IsDeleted = false
 ORDER BY LastModifiedDate DESC
 ```
 
+### Knowledge Center
+
+The *Knowledge Center* gives AQA access to customer documents and linked knowledge so Sales Qualifier can generate better research and qualification insights using your own materials. Upload the content and informational resources that you want to use for generating emails.
+
+{width="700" modal="regular"}
+
 ## Profile settings
 
-The profile settings specify information about yourself, including personal details, email, calendar, and chat availability.
+The profile settings specify information about yourself, including personal details, email and calendar settings, and chat availability.
 
 ### Email settings
 
 In the **Email settings** tab, set up your email connections.
 
 - Email connections - Click Connect and follow the Microsoft login procedure.
-- Email signature - Configure the email signature that is used in auto-generated emails. Add your meeting booking link to the signature so that prospects can schedule time with you.
+- Email signature - Configure the email signature that is used in auto-generated emails.
 
 ### Calendar configuration
 
@@ -24744,7 +24443,7 @@ title: "Select Experience Events and fields"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/configure-aep-events"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:08.067482+00:00"
+created_at: "2026-07-22T12:49:09.532657+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -25157,7 +24856,7 @@ title: "Setup checklist"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/start/setup-prime"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:23.748991+00:00"
+created_at: "2026-07-22T12:50:22.671746+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -25237,7 +24936,7 @@ title: "Setup checklist"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/setup-ultimate"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:06.310399+00:00"
+created_at: "2026-07-22T12:49:07.801279+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -25449,7 +25148,7 @@ title: "Setup for email tracking and delivery"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/email-protocols"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:09.235643+00:00"
+created_at: "2026-07-22T12:49:10.675030+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -25737,7 +25436,7 @@ title: "Single-page applications"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/web-channel/web-single-page-applications"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:34.119848+00:00"
+created_at: "2026-07-22T12:49:34.556640+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -25926,7 +25625,7 @@ title: "SMS authoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/sms-authoring"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:25.857696+00:00"
+created_at: "2026-07-22T12:49:26.470963+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -26028,7 +25727,7 @@ title: "SMS channel configurations"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-sms"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:19.836665+00:00"
+created_at: "2026-07-22T12:50:19.031264+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -26101,7 +25800,7 @@ title: "Solution interests"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/solution-interests"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:39.162298+00:00"
+created_at: "2026-07-22T12:49:39.557120+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -26174,7 +25873,7 @@ title: "Split and merge paths nodes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/journey-nodes/split-merge-paths-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:38.695881+00:00"
+created_at: "2026-07-22T12:50:37.709835+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -26242,7 +25941,7 @@ title: "Split and merge paths split-paths"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:22.068063+00:00"
+created_at: "2026-07-22T12:49:22.969859+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -26524,7 +26223,7 @@ title: "Structure components structure-components"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/content-design/structure-components"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:03:01.900430+00:00"
+created_at: "2026-07-22T12:51:00.662030+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -26766,7 +26465,7 @@ title: "Structure components structure-components"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/content-design/structure-components"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:03.215934+00:00"
+created_at: "2026-07-22T12:50:02.592575+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -27044,7 +26743,7 @@ title: "Take an action node"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/journey-nodes/action-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:36.120094+00:00"
+created_at: "2026-07-22T12:50:35.059727+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -27067,11 +26766,11 @@ Action
 Constraints
 Activate to destination
 - Select or create a static list
-- If the list does not have an activated destination, activate the list to one or more destinations
+- If the list does not have an activated estination, activate the list
 
 Add Person to Journey
 - Select a scheduled or live journey
-- Audience criteria of the target journey are not applied
+- Audience criteria of the target journey is not applied
 
 Add To List
 - Create a new static list or select an existing one
@@ -27120,33 +26819,12 @@ Send WhatsApp
 - In the node properties on the right, select an action from the list and set any values for the action.
 
 Activate to destination
-Use this action to add people to a static list and activate that list to a destination directly from your journey. You can use an existing static list, or create one specifically for the journey.
-
-| note prerequisites |
-| --- |
-| PREREQUISITES |
-| You must have one or more [configured destinations](/en/docs/journey-optimizer-b2b/prime/audiences/destinations) for your Journey Optimizer B2B Prime sandbox before you set up an *Activate to destination* journey node. |
+Use this action to activate people to Experience Platform destinations directly from your journey. Select the destination and enter an audience name to identify the activated audience in the destination.
 
 {width="450"}
 
-Under **Add to list**, choose one of the following options:
-
-- Create — Create a new static list and add people to it. The list is immediately available under People lists . Select a parent program for the list and enter a Name (required) and Description (optional). Click Create to add the new list for the node. {width="375"}
-- Select — Select an existing static list where you want to add people who reach the node. Select the checkbox for the existing static list and click Save . {width="700" modal="regular"}
-
-Anyone who reaches the node is added to the selected static list, but the action is not complete until the list is activated to a destination:
-
-- If the selected list is already activated, its destinations appear under **Destinations** and the action is ready.
-- Otherwise, an *At least one destination is required* message appears. Click **Activate list to destination**, select the destination, and click **Save**. Click **Activate** in the confirmation dialog.
-
-{width="600" modal="regular"}
-
-When activation completes, the destination appears under **Destinations** and the action is ready. You can activate the list to additional destinations if needed.
-
-Anyone who reaches the node is added to the selected static list, which is activated to the chosen destination, so they are added to that destination audience and, in turn, to any campaign that the audience feeds.
-
 Add Person to Journey
-Use this action to add people to other scheduled or live journeys. People added through this action are immediately added to the audience of the target journey; the audience criteria of the target journey are not applied.
+Use this action to add people to other scheduled or live journeys. People added through this action are immediately added to the audience of the target journey; the journey’s audience criteria is not applied.
 
 {width="450"}
 
@@ -27158,7 +26836,7 @@ Use this action to add people to a static list in Journey Optimizer B2B Prime.
 Choose one of the following options:
 
 - **Create** — Create a new static list asset and add people to it. The list is immediately available for use by other assets in Journey Optimizer B2B Prime.
-- **Select** — Select an existing static list asset where you want to add people who reach the node.
+- **Select** — Selects an existing static list asset where you want to add people who reach the node.
 
 Add to Marketo List
 Use this action to add people to a static list in Marketo Engage.
@@ -27231,7 +26909,7 @@ title: "Take an action"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/action-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:20.883962+00:00"
+created_at: "2026-07-22T12:49:21.804519+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -27588,7 +27266,7 @@ title: "Template content governance"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/template-content-governance"
 category: "guides"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:53.909048+00:00"
+created_at: "2026-07-22T12:49:54.027522+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -27644,7 +27322,7 @@ title: "Test email rendering with Litmus"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/emails/preview/email-test-rendering"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:50.024582+00:00"
+created_at: "2026-07-22T12:49:50.108809+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -27688,7 +27366,7 @@ title: "Test profiles test-profiles"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/audiences/test-profiles"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:38.041388+00:00"
+created_at: "2026-07-22T12:49:38.457158+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -27778,7 +27456,7 @@ title: "Use account lists in journeys and programs"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/account-lists/account-lists-journeys"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:46.136252+00:00"
+created_at: "2026-07-22T12:49:46.225655+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -27862,7 +27540,7 @@ title: "Use AI Assistant in Journey Optimizer B2B Edition"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/use-ai-assistant"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:14.233367+00:00"
+created_at: "2026-07-22T12:49:15.637126+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -27982,7 +27660,7 @@ title: "Use brand themes for email content email-brand-themes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/brand-themes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:06.945100+00:00"
+created_at: "2026-07-22T12:50:06.196291+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -28195,7 +27873,7 @@ title: "Use brands for content generation and consistency brands"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/brands/brands-overview"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:05.192241+00:00"
+created_at: "2026-07-22T12:50:04.486681+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -28261,15 +27939,15 @@ title: "User access and permissions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/start/user-management"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:24.750385+00:00"
+created_at: "2026-07-22T12:50:23.504818+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
-[Beta]{class="badge informative" title="This feature is part of a limited beta release."}
+[Beta]{class="badge informative" title="This feature is currently in a limited beta release"}
 
 # User access and permissions
 
-Last update: July 31, 2026
+Last update: June 18, 2026
 - Topics:
 - [Onboarding](#)
 - [Administration](#)
@@ -28349,7 +28027,7 @@ For information about user management, see *Adobe Admin Console users* in the Ad
 
 ## Assign product permissions assign-product-permissions
 
-Permissions are unitary rights that allow you to define the authorizations assigned to a product profile. Each permission is grouped under a capability, such as person journeys or content, representing functionalities in Journey Optimizer B2B Prime.
+Permissions are unitary rights that allow you to define the authorizations assigned to a product profile. Each permission is grouped under a capability, such as journeys or buying groups, representing functionalities in Journey Optimizer B2B Prime.
 
 The *Permissions* area of Adobe Experience Platform is where administrators can define user roles and access policies to manage access permissions for features and objects within a product application. In this app, you can create and manage roles, as well as assign the desired resource permissions for these roles. Permissions also allow you to manage the sandboxes and users associated with a specific role.
 
@@ -28358,123 +28036,6 @@ For more information about role permissions in Experience Platform, see [Manage 
 - Go to experience.adobe.com .
 - In the Quick access panel, select Permissions . note NOTE If you don’t see Permissions , you may need to click View all and select it from the available applications. {width="700" modal="regular"}
 
-### Permissions permissions
-
-The following permissions control access to channel configuration, content management, and person journey features in Journey Optimizer B2B Prime:
-
-Category
-Permission
-Description
-B2B Channel Configurations
-View B2B Email Settings
-View email settings (subdomains, PTR records, IP pools, suppression lists, seed lists, IP warm-up plans).
-Manage B2B Email Settings
-Configure email settings (subdomains, PTR records, IP pools, suppression lists, seed lists, IP warm-up plans). These settings are required before users can send emails.
-Manage B2B Channels Configurations
-Access to the
-Channels
-menu item in the left navigation and all channel configuration operations.
-Manage B2B WhatsApp Presets
-Create, view, and delete WhatsApp message presets and associated SMS settings.
-B2B Journeys
-Manage B2B Person Journeys
-Access to the
-Person Journeys
-list and all person journey operations.
-B2B Assets
-View content templates
-View content templates list and details.
-Manage B2B Templates
-Create, edit, and delete content templates.
-View B2B Fragments
-View content fragments list and details.
-Manage B2B Fragments
-Create, edit, and delete content fragments.
-Publish B2B Fragments
-Publish content fragments for use in templates, emails, and landing pages.
-View B2B Assets
-View the Assets library and asset file details.
-Manage B2B Assets
-Create, edit, and delete asset files.
-View B2B Emails
-View email messages.
-Manage B2B Emails
-Create, edit, and delete email messages.
-Manage B2B Message Export
-Export message reports under the Email section.
-Journey Optimizer Library
-Manage B2B Library Items
-Add and delete saved expressions in the library.
-Data Governance
-Manage B2B Delete Usage Labels
-View, create, and delete data usage labels (DULE) applied to datasets and schemas.
-Sandbox Administration
-Manage B2B Packages
-Create, export, import, copy, and delete sandbox packages.
-To provide support for external destinations in Journey Optimizer B2B Prime, the following permissions are required:
-
-Category
-Permission
-Description
-Dashboards
-View Standard Dashboards
-View-only access to the
-Profiles
-,
-Destinations
-, and
-Segments
-dashboards. Also enables access to
-Dashboards
-in the left navigation and the
-Dashboards
-inventory and integrations tab.
-Manage Standard Dashboards
-Add custom attributes that are not yet in the data warehouse.
-Destinations
-View Destinations
-View-only access to view available destinations in the
-Catalog
-tab and authenticated destinations in the
-Browse
-tab.
-Manage Destinations
-View, create, and delete destinations connections and destination accounts.
-Activate Destinations
-Activate data to active destinations. Either
-View Destinations
-or
-Manage Destinations
-is also required to access this function.
-Activate Segment without Mapping
-Activate audiences to existing destinations, without displaying the mapping step. Users can add and remove audiences in activation workflows, but cannot add or remove mapped attributes or identities. The
-View Destinations
-permission is also required to access this function.
-Manage and Activate Dataset Destination
-View, create, edit, and disable dataset export flows, as well as activate data to active datasets. The
-View Destinations
-permission is also required to access this function.
-Destination Authoring
-Ability to author destinations using the Adobe Experience Platform Destination SDK.
-Data Governance
-View Data Usage Policies
-View-only access for data usage policies belonging to your organization.
-Manage Data Usage Policies
-View, create, edit, and delete data usage policies.
-Data Ingestion
-View Sources
-View-only access to available sources in the
-Catalog
-tab and authenticated sources in the
-Browse
-tab.
-Manage Sources
-View, create, edit, and disable sources.
-Profile Management
-View Profile Settings
-View-only access to all profile settings.
-Manage Profile Settings
-View and edit all profile settings.
 ### Edit role permissions edit-role-permissions
 
 For built-in or custom roles, you can decide at any time to add or delete permissions. If you modify a default or custom role, it impacts every user assigned to the role.
@@ -28526,7 +28087,7 @@ For information about user management, see *Adobe Admin Console users* in the Ad
 - In the Create new role dialog, enter a name for the role, such as B2B Marketers , and a description (optional).
 - Click Confirm .
 - Select the sandbox provisioned for Journey Optimizer B2B Prime access ( <Marketo subscription prefix>Prime ). {width="800" modal="regular"}
-- Add B2B product permissions: To determine which product capabilities you want for the role, refer to the list of product permissions . In the Resources list on the left, locate the B2B items and click the Add ( + ) icon to add each attribute that you want to enable for the role. You can enter B2B in the search tool to filter the list for many of the B2B product permissions. {width="700" modal="regular"}
+- Add B2B product permissions: To determine which product capabilities that you want for the role, refer to the list of [B2B product permissions](#b2b-product-permissions). In the Resources list on the left, locate the B2B items and click the Add ( + ) icon to add each attribute that you want to enable for the role. You can enter B2B in the search tool to filter the list for the B2B product permissions. {width="700" modal="regular"}
 - Click Save at the top right.
 - Go to the role details and select the User groups tab.
 - Click Add Groups .
@@ -28547,7 +28108,7 @@ title: "User access and permissions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/user-management"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:05:20.825377+00:00"
+created_at: "2026-07-22T12:53:21.474655+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -28792,7 +28353,7 @@ title: "User access and permissions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/user-management"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:10.953737+00:00"
+created_at: "2026-07-22T12:49:12.351722+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -29037,7 +28598,7 @@ title: "User onboarding guidance"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/get-started"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:11.511794+00:00"
+created_at: "2026-07-22T12:49:12.912726+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -29082,7 +28643,7 @@ title: "Variant split paths"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/variant-split-paths-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:22.635673+00:00"
+created_at: "2026-07-22T12:49:23.532019+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -29229,7 +28790,7 @@ title: "Wait node"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/journey-nodes/wait-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:37.820119+00:00"
+created_at: "2026-07-22T12:50:36.835420+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -29333,7 +28894,7 @@ title: "Wait nodes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/wait-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:23.748952+00:00"
+created_at: "2026-07-22T12:49:24.640306+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -29437,7 +28998,7 @@ title: "Web channel configurations"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-web"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:20.991381+00:00"
+created_at: "2026-07-22T12:50:20.141054+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -29513,7 +29074,7 @@ title: "Web engagement dashboard"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/web-engagement-dashboard"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:12.514948+00:00"
+created_at: "2026-07-22T12:50:12.060539+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -29602,7 +29163,7 @@ title: "Web experience design"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/web-channel/web-experience-design"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:33.261589+00:00"
+created_at: "2026-07-22T12:49:33.729549+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -29841,7 +29402,7 @@ title: "Web experiences"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/web-channel/web-experiences"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:32.683222+00:00"
+created_at: "2026-07-22T12:49:33.137178+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -29977,7 +29538,7 @@ title: "WhatsApp authoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/whatsapp-authoring"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:02:43.381078+00:00"
+created_at: "2026-07-22T12:50:42.831864+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -30084,7 +29645,7 @@ title: "WhatsApp authoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/whatsapp-authoring"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:26.416110+00:00"
+created_at: "2026-07-22T12:49:27.026604+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -30193,7 +29754,7 @@ title: "WhatsApp channel configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/admin/channels/configuration-channels-whatsapp"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-08-01T10:03:06.332642+00:00"
+created_at: "2026-07-22T12:51:05.382962+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -30317,7 +29878,7 @@ title: "WhatsApp channel setup"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-whatsapp"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:02:20.412045+00:00"
+created_at: "2026-07-22T12:50:19.584295+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -30446,7 +30007,7 @@ title: "Work with Experience Manager assets"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/assets/aem-assets"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:53.322111+00:00"
+created_at: "2026-07-22T12:49:53.483230+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -30520,7 +30081,7 @@ title: "Work with internal image assets"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/assets/internal-dam/internal-image-assets"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:52.207174+00:00"
+created_at: "2026-07-22T12:49:52.284925+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -30715,7 +30276,7 @@ title: "XDM field management"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/xdm-field-management"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-08-01T10:01:07.442172+00:00"
+created_at: "2026-07-22T12:49:08.921292+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 

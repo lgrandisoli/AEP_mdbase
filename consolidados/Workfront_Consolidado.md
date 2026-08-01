@@ -5369,7 +5369,7 @@ Workfront Guide
 
 Actions allowed for group administrators
 
-Last update: June 12, 2026
+Last update: July 30, 2026
 
 Topics:
 
@@ -5408,6 +5408,14 @@ Create and edit user profiles
 ✓*
 
 ✓*
+
+Create, edit, and delete business profiles
+
+✓
+
+✓
+
+✓
 
 Create and manage subgroups
 
@@ -9297,7 +9305,7 @@ Workfront Guide
 
 Add a Proof to a Basecamp Classic Project
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -14969,6 +14977,14 @@ CREATED FOR:
 
 Admin
 
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
 Logic rules allow you to further customize the fields on your form.
 
 For example, you can display or skip fields or sections in a custom form based on the choices that a user makes when filling it out.
@@ -15297,7 +15313,9 @@ note
 
 NOTE
 
-Advanced display logic is not supported in the form designer preview mode.
+In the Production environment, advanced display logic is not supported in the form designer preview mode.
+
+In the Preview environment, all logic types are available in preview mode.
 
 Add skip logic to a custom form
 
@@ -15483,7 +15501,9 @@ note
 
 NOTE
 
-Default value logic is not supported in the form designer preview mode.
+In the Production environment, default value logic is not supported in the form designer preview mode.
+
+In the Preview environment, all logic types are available in preview mode.
 
 Add validation logic to a custom form
 
@@ -15579,7 +15599,9 @@ note
 
 NOTE
 
-Validation logic is not supported in the form designer preview mode.
+In the Production environment, validation logic is not supported in the form designer preview mode.
+
+In the Preview environment, all logic types are available in preview mode.
 
 Add formatting logic to a custom form
 
@@ -15695,7 +15717,9 @@ note
 
 NOTE
 
-Formatting logic is not supported in the form designer preview mode.
+In the Production environment, formatting logic is not supported in the form designer preview mode.
+
+In the Preview environment, all logic types are available in preview mode.
 
 Add editability logic to a custom form
 
@@ -15781,7 +15805,9 @@ note
 
 NOTE
 
-Editability logic is not supported in the form designer preview mode.
+In the Production environment, editability logic is not supported in the form designer preview mode.
+
+In the Preview environment, all logic types are available in preview mode.
 
 recommendation-more-help
 
@@ -20505,13 +20531,15 @@ What’s new
 
 Latest release
 
-Third Quarter 2026 release overview
+Fourth Quarter 2026 release overview
 
 Adobe Workfront Planning release activity
 
 Adobe Workfront Fusion release activity
 
 2026 releases
+
+Fourth Quarter 2026 release overview
 
 Third Quarter 2026 release overview
 
@@ -22393,6 +22421,14 @@ CREATED FOR:
 
 User
 
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
 This article lists the tools that the Adobe Workfront MCP server exposes to a connected AI agentic platform. The platform calls these tools on your behalf when you ask it to find, create, update, or delete Workfront items.
 
 For information about how to use these tools through an AI agentic platform, see
@@ -22517,13 +22553,17 @@ approvals_get_approval_info
 
 Returns the current approval workflow (stages, participants, status) for a document version.
 
+For approvals with multiple paths, it shows each path and its stages.
+
 Read
 
 Create or update approval workflow
 
 approvals_create_or_update_approval_workflow
 
-Creates or updates the approval workflow stages for a document version. Supports linear and parallel (graph) stage dependencies.
+Creates or updates the approval workflow stages for a document version.
+
+Supports a single track of stages or multiple parallel review paths.
 
 Write
 
@@ -22531,7 +22571,9 @@ Create approval from template
 
 approvals_create_approval_from_template
 
-Creates an approval workflow on a document using an existing template.
+Creates an approval workflow on a document using an existing template,
+
+including templates that define multiple parallel paths.
 
 Write
 
@@ -22540,6 +22582,46 @@ Delete approval stage
 approvals_delete_approval_stage
 
 Deletes a single stage from an approval workflow by name or position. Only not-started stages can be deleted.
+
+Write
+
+Add path to approval
+
+approvals_add_path_to_approval
+
+Adds a new parallel review path to an existing approval workflow, so multiple review tracks run at the same time on a document version.
+
+Write
+
+Remove path from approval
+
+approvals_remove_path_from_approval
+
+Removes a parallel path from an approval workflow. The first path can’t be removed, and paths that contain completed or locked stages are protected.
+
+Write
+
+Add stage to path
+
+approvals_add_stage_to_path
+
+Adds a review stage to the end of a specific path within a parallel approval workflow.
+
+Write
+
+Remove stage from path
+
+approvals_remove_stage_from_path
+
+Removes a not-started stage from a specific path in a parallel approval workflow. Each path must keep at least one stage.
+
+Write
+
+Reorder stages in path
+
+approvals_reorder_stages_in_path
+
+Changes the order of stages within a single path of a parallel approval workflow.
 
 Write
 
@@ -32251,6 +32333,12 @@ Hierarchy and breadcrumb overview
 
 Create workspace hierarchies
 
+Manage dependent connections
+
+style
+
+highlighted
+
 recommendation-more-help
 
 workfront-help-quicksilver
@@ -33073,7 +33161,7 @@ CREATED FOR:
 
 User
 
-You can assign tasks to users, job roles, or teams to indicate who is responsible for completing the tasks. You can assign a task to more than one resource at a time.
+You can assign tasks to users, job roles, teams, or Task Collaborators to indicate who is responsible for completing the tasks. You can assign a task to more than one resource at a time.
 
 TIP
 
@@ -33100,6 +33188,8 @@ Smart assignments overview
 Make smart assignments
 
 Create advanced assignments
+
+Use task collaborators
 
 Modify multiple user assignments in a task list
 
@@ -33211,7 +33301,7 @@ Click the name of the assignments if the task is already assigned.
 
 Do one of the following:
 
-Start typing the name of a user, job role, or team that you want to assign, then click it when it appears in the list.
+Start typing the name of a user, job role, team, or Task Collaborator that you want to assign, then click it when it appears in the list.
 
 note tip
 
@@ -33293,7 +33383,7 @@ Assign one user
 
 Assignments
 
-Assign users, job roles, or teams
+Assign users, job roles, teams, or Task Collaborators
 
 To assign tasks in a list:
 
@@ -33345,7 +33435,7 @@ Click inside the
 
 Assignments
 
-field and start typing the name of an active user, job role, or team that you want to assign to the task, then click it when it displays in the list.
+field and start typing the name of an active user, job role, team, or Task Collaborator that you want to assign to the task, then click it when it displays in the list.
 
 note tip
 
@@ -33423,7 +33513,7 @@ In the
 
 Assignments
 
-area, start typing the name of users, teams, or roles in the
+area, start typing the name of users, teams, roles, or Task Collaborators in the
 
 Search people, roles, or teams
 
@@ -33957,15 +34047,15 @@ You cannot assign resources to work items that are completed, or to items that a
 
 You can do the following when assigning job roles and users in bulk:
 
-Replace assignments between users and roles in all valid combinations.
+Make assignments between users and roles in all valid combinations.
 
 Unassign a user from all their work items.
 
 EXAMPLES
 
-You are responsible for making user assignments on several new projects. The projects were originally created from templates and job roles are already assigned to the various tasks within the projects. You want to assign a specific user, Jackie Simms, to all tasks that are currently assigned to a job role. You can use the Replace function to assign these tasks to Jackie Simms.
+You are responsible for making user assignments on several new projects. The projects were originally created from templates and job roles are already assigned to the various tasks within the projects. You want to assign a specific user, Jackie Simms, to all tasks that are currently assigned to a job role. You can use the Assign function to assign these tasks to Jackie Simms.
 
-45 tasks across 3 different projects are assigned to Jackie Simms. Jackie leaves the organization, and now you need to reassign her tasks to another user. You can use the Replace function to assign these tasks to the new person.
+45 tasks across 3 different projects are assigned to Jackie Simms. Jackie leaves the organization, and now you need to reassign her tasks to another user. You can use the Assign function to assign these tasks to the new person.
 
 10 tasks across 2 different projects are assigned to another user, Rick Kuvec. You realize that Rick was assigned to these tasks in error, but you are not sure who they need to be assigned to at this time. You need to unassign Rick to all the tasks at the same time. You can use the Unassign function to remove Rick from these tasks.
 
@@ -34051,7 +34141,7 @@ in the upper-right corner of the Bulk Assignments panel to remove all selections
 
 Select one of the following options and continue with the steps described below:
 
-Replace resource
+Assign resource
 
 Unassign resource
 
@@ -34061,35 +34151,35 @@ TIP
 
 If no items match the selected filters, these options are dimmed.
 
-Replace resource
+Assign resource
 
 replace-user
 
-You can replace a resource who is already assigned to work items with another resource in the selected projects.
+You can assign or replace resources in the selected projects.
 
-The resource replacement can be:
+The resource assignment can be:
 
-Role with role
+Role to role
 
-User with user
+User to user
 
-User with role
+User to role
 
-Role with user
+Role to user
 
-When you replace a resource with another resource using Bulk Assignments in the Workload Balancer, the following things occur:
+When you assign or replace a resource using Bulk Assignments in the Workload Balancer, the following things occur:
 
-The replacement resource is assigned to all work items currently assigned to the original resource within the selected projects.
+The new resource is assigned to all work items currently assigned to the original resource within the selected projects.
 
 The new resource is not assigned to any work items that are already marked Complete.
 
 For user to user replacement, if the role associated with the first user does not match any of the roles of the second user, the second user is assigned in their Primary Role.
 
-To replace a resource with another resource:
+To bulk assign a resource:
 
 Select work items in the Workload Balancer bulk assignments area as described above and select
 
-Replace resource
+Assign resource
 
 .
 
@@ -34113,13 +34203,13 @@ Workfront displays a note about the number of items where the currently assigned
 
 Click
 
-Replace
+Assign
 
 .
 
 The first resource is replaced by the second resource in all work items from the selected project or task.
 
-You receive a confirmation about how many work items have had the original assignment replaced with the selected second resource.
+A confirmation displays how many work items have had the original assignment replaced with the selected second resource.
 
 Unassign resource
 
@@ -34163,7 +34253,7 @@ Unassign
 
 .
 
-You receive a confirmation about the number of work items where the specified user was removed.
+A confirmation displays the number of work items where the specified user was removed.
 
 recommendation-more-help
 
@@ -38067,7 +38157,7 @@ Workfront Guide
 
 Avoid spam filters
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -38449,7 +38539,7 @@ Workfront Guide
 
 Basic Proofing Process in Workfront Proof
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -39810,6 +39900,26 @@ If you are looking at a project that is connected to an object in Workfront Plan
 Hierarchy and breadcrumb overview
 
 .
+
+Copy the name and link from a breadcrumb
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
+
+You can copy an object’s name and link together in one action from the breadcrumb path.
+
+Hover over any object in the breadcrumb path.
+
+Click the
+
+Copy link
+
+icon that appears next to the object name.
+
+The object’s name and link are copied together. When you paste the copied information, it appears as a clickable link with the object name as the link text.
+
+style
+
+highlighted
 
 recommendation-more-help
 
@@ -44943,6 +45053,8 @@ CREATED FOR:
 
 Admin
 
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
+
 Business profiles are an enhanced permission model that allows customers such as agencies to efficiently manage user access and ensure precise control over permissions at the group level. In a business profile, users have distinct permissions to group-specific objects. Additional objects can also be shared directly with the business profile.
 
 A business profile for a user is similar to that user having a specific role in a group, such as a financial controller or project manager, and receiving the permissions that go along with that role for the specified group. The business profile can be temporary, allowing the permissions for a period of time that is set to expire, and maintaining data restrictions for the group or agency.
@@ -44956,6 +45068,8 @@ Updates the user profile with the group and the access level for that group (thi
 Defines effective dates for the business profile as needed
 
 Assigns layout templates to the access levels
+
+Group administrators can also create, edit, and delete business profiles, but only for the groups they administer.
 
 Any user who has access to share objects can share them with the business profile, and all users with the profile will see the object.
 
@@ -51101,7 +51215,7 @@ Workfront Guide
 
 Change email alert settings for a proof in Workfront Proof
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -51183,6 +51297,14 @@ CREATED FOR:
 
 Admin
 
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
 You can view change history, including audit logs, in the Change Tracking area of Setup.
 
 Audit Logs
@@ -51193,13 +51315,21 @@ For more information on Audit Logs and the Audit Logs area, see
 
 Audit Logs overview
 
+and
+
+View and export audit logs
+
+.
+
 Configuration
 
-displays which field are being tracked for the Change History List.
+displays which fields are being tracked for the Change History List.
 
-Configuration is currently available only as information and cannot be changed. The ability to change which fields are tracked will be available in the near future.
+As a Workfront administrator, you can configure which object fields and actions Workfront tracks. For example, you could have Workfront track all changes users make to the names of issues throughout the system. Any issue name change then appears as an entry on the change history log.
 
-Change History List allows you to view a log of changes to Workfront objects, including attributes such as:
+Change History List
+
+allows you to view a log of changes to Workfront objects, including attributes such as:
 
 Object
 
@@ -51208,6 +51338,8 @@ Object type
 Type of change (operation)
 
 Source of the change, such as specific users, APIs, Workfront Fusion, AI LLMs, or the Workfront system
+
+Unified review and approval workflow activity is tracked in Change History, including participants and decisions.
 
 Access requirements
 
@@ -51225,7 +51357,11 @@ Standard
 
 Access level configurations
 
-You must be a Workfront administrator to view Change History
+System administrator
+
+To view change history: Administrative access to change history
+
+To configure tracked fields: System administrator
 
 For information, see
 
@@ -51233,21 +51369,7 @@ Access requirements in Workfront documentation
 
 .
 
-View and manage Audit Logs
-
-To view and manage audit logs, see
-
-View and export audit logs
-
-.
-
-View the Configuration area for change tracking
-
-NOTE
-
-Configuration is currently available only as information and cannot be changed. The ability to change which fields are tracked will be available in the near future.
-
-To view the types of changes that are tracked:
+Add fields you want to track
 
 Click the
 
@@ -51263,11 +51385,101 @@ Setup
 
 In the left panel, click
 
-Change Tracking
+Change Tracking > Configuration
 
 .
 
+On the Configuration screen, click
+
+Add field
+
+.
+
+In the
+
+Add fields
+
+box, select an object. You can begin typing the object name, then select it when it appears in the list.
+
+Next, select the field names that you want to track for that object. You can being typing the field name, then select it when it appears in the list.
+
+Both custom fields and native fields are available for the object.
+
+Fields already being tracked are shown as selected in the list.
+
+After selecting all of the fields you want to track, click
+
+Add
+
+.
+
+The fields are added to the Tracked Fields list.
+
+Remove fields you no longer want tracked
+
+You can remove fields you don’t want the system to track for a particular type of object throughout the Workfront interface.
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-left corner of Adobe Workfront, then click
+
+Setup
+
+.
+
+In the left panel, click
+
+Change Tracking > Configuration
+
+.
+
+On the Configuration screen, select the field or fields you want to stop tracking.
+
+You might see the same field name more than once. The fields are grouped by object so you can locate the correct field. You can also use the search box at the top of the screen.
+
+Select
+
+Delete
+
+in the action bar at the bottom of the screen.
+
 Click
+
+Remove
+
+on the confirmation message.
+
+The fields are removed from the Tracked Fields list.
+
+style
+
+highlighted
+
+View the Configuration area for change tracking
+
+NOTE
+
+In the Production environment, Configuration is currently available only as information and cannot be changed. The ability to change which fields are tracked will be available in the near future.
+
+To view the types of changes that are tracked:
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-left corner of Adobe Workfront, then click
+
+Setup
+
+.
+
+In the left panel, click **Change Tracking >
 
 Configuration
 
@@ -51297,13 +51509,7 @@ Setup
 
 In the left panel, click
 
-Change Tracking
-
-.
-
-Click
-
-Change History List
+Change Tracking > Change History List
 
 .
 
@@ -51313,31 +51519,81 @@ To adjust the dates for which changes display, click the date picker and select 
 
 Changes are available for the last 90 days.
 
-To search for a specific term, click the search bar and enter the term. Results are filtered as you type.
+To search for a specific term, click the search bar and enter the term. The results are highlighted in the list as you type.
 
 (Optional) To filter by a column, see
 
 Filter items in an enhanced list
 
-in the article Use enhance lists.
+in the article
+
+Use enhanced lists
+
+.
 
 (Optional) To hide, display, or reorder columns, see
 
 Customize columns
 
-in the article Use enhance lists.
+in the article
 
-To add or remove columns, see
+Use enhanced lists
+
+.
+
+(Optional)To add or remove columns, see
 
 Add and remove columns with the Column manager
 
-in the article Use enhance lists.
+in the article
 
-To adjust row height, see
+Use enhanced lists
+
+.
+
+(Optional)To adjust row height, see
 
 Change the row height in a view
 
-in the article Use enhance lists.
+in the article
+
+Use enhanced lists
+
+.
+
+Export change history
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-left corner of Adobe Workfront, then click
+
+Setup
+
+.
+
+In the left panel, click
+
+Change Tracking > Change History List
+
+.
+
+Filter the list to display the items you want to export.
+
+Click the
+
+Export
+
+icon
+
+and select whether you want to save to XLSX or CSV format.
+
+The save file box opens and you can save the exported file on your computer.
+
+Finish saving the exported file. You can now find it on your computer and share it with others.
 
 recommendation-more-help
 
@@ -53319,7 +53575,7 @@ Workfront Guide
 
 Choosing Your Payment Method in Workfront Proof
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -53699,7 +53955,7 @@ Workfront Guide
 
 Close your Workfront Proof account
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -53769,7 +54025,7 @@ Workfront Guide
 
 Codecs in Workfront Proof
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -60913,7 +61169,7 @@ Workfront Guide
 
 Configure AI Collaborators
 
-Last update: April 20, 2026
+Last update: July 31, 2026
 
 Topics:
 
@@ -60923,9 +61179,7 @@ CREATED FOR:
 
 Admin
 
-IMPORTANT
-
-Currently, Content Reviewer is the only available AI Collaborator type. More AI Collaborator capabilities will be available in the future.
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
 
 AI Collaborators are a way to onboard AI agents into your projects and tasks. You can configure an AI Collaborator, then assign it as you would a user.
 
@@ -60938,6 +61192,14 @@ Reviewer: Create a collaborator using brands or Adobe Brand Intelligence, then a
 For more information, see
 
 Get started with the Workfront Content Reviewer
+
+.
+
+Task Collaborator: Create a collaborator using Copilot or Writer, then assign the collaborator to a task to complete task-level work.
+
+For more information, see
+
+Use Task Collaborators
 
 .
 
@@ -60967,6 +61229,8 @@ Access requirements in Workfront documentation
 
 Prerequisites
 
+For AI Reviewers:
+
 Your organization must have a signed Adobe Gen AI Agreement on file.
 
 For more information, see
@@ -60990,6 +61254,14 @@ For more information, see
 Get started with unified review and approval
 
 .
+
+For Task Collaborators
+
+You must configure an agent in Claude, Copilot Studio, or Writer before you can use it as a Task Collaborator.
+
+style
+
+highlighted
 
 Create a new Reviewer-type AI Collaborator
 
@@ -61037,12 +61309,6 @@ Continue
 
 .
 
-note
-
-NOTE
-
-Currently, only the Reviewer type is available. More AI Collaborator types will be available in the future.
-
 In the Collaborator Name field, enter a name for the collaborator. This is the name that appears in the list of available assignees on a task.
 
 Select whether the collaborator will use a brand or Adobe Brand Intelligence for its reviews.
@@ -61054,6 +61320,236 @@ Click
 Save
 
 .
+
+Configure a Task Collaborator
+
+Task Collaborators are MCP agents that you can assign to tasks in Workfront. You configure the Task Collaborator with a name, access level, and other details, and assign it as you would assign a user.
+
+Because Task Collaborators are MCP agents, their actions and abilities are configured where you configure your agents. Currently, agents used as Task Collaborators can be created in Copilot Studio, Claude, or Writer.
+
+For a list of best practices when creating an agent to work as a Task Collaborator, see
+
+Best practices for creating an agent for a Task Collaborator
+
+.
+
+Configure a task collaborator in Workfront
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-left corner of Adobe Workfront, then click
+
+Setup
+
+.
+
+In the left navigation, click
+
+AI Collaborators
+
+.
+
+Click
+
+New Collaborator
+
+in the upper-right corner of the screen.
+
+Select
+
+Task agents
+
+, then click
+
+Continue
+
+.
+
+In the AI Collaborator Name field, enter a name for the collaborator. This is the name that appears in the list of available assignees on a task.
+
+In the AI Collaborator description field, enter a description of the collaborator’s purpose or the actions it performs.
+
+In the Access Level field, select an access level for this collaborator. This access level controls what the collaborator can do, in the same way an access level controls what a user can do.
+
+In the
+
+Choose agent’s origin
+
+area, select whether you want to connect an agent created in an common platform such as Copilot or Writer, or use a custom agent.
+
+(Conditional) If you are using an agent from a common platform, enter authentication details for the agent’s platform:
+
+table 0-row-2 1-row-2 2-row-2 3-row-2
+
+Platform
+
+Required authentication
+
+Copilot Studio
+
+Web channel secret
+
+Claude Managed Agents
+
+Anthropic API key
+
+Agent ID
+
+Environment ID
+
+Writer
+
+API key
+
+Application ID
+
+Click
+
+Test connection
+
+. This lets you know whether the connection was set up correctly.
+
+In the
+
+After the Collaborator is finished with its work, it can
+
+area, toggle on the actions that you want the collaborator to take.
+
+Click
+
+Save
+
+.
+
+For more information on Task Collaborators, including how to assign them to tasks, see
+
+Use Task Collaborators
+
+.
+
+Best practices for creating an agent for a Task Collaborator
+
+You may find the following best practices helpful when creating an agent to use as a Task Collaborator in Workfront. To see best practices, click the section for the application where you are creating the agent.
+
+Claude
+
+Navigate to the Claude Console at
+
+platform.claude.com
+
+.
+
+Create an API key.
+
+Under API Keys, click
+
+Create Key
+
+in the upper-right corner.
+
+Provide a name and expiration date.
+
+Copy the key and save it somewhere safe and secure. You will need this key to configure the Task Collaborator in Workfront.
+
+Create an environment.
+
+Under
+
+Managed Agents
+
+>
+
+Environments
+
+, click
+
+Create Environment
+
+in the upper-right corner.
+
+Provide a name and hosting type as applicable.
+
+Configure shared packages and metadata as needed. Environments can be reused across multiple agents and allow for shared packages and metadata.
+
+The environment ID appears below the environment name in the upper-left corner.
+
+Create an agent.
+
+Under Managed Agents > Agents, click
+
+Create Agent
+
+in the upper-right corner.
+
+Provide a name, model, system prompt, skills, and tools as applicable. Be descriptive, because Task Collaborators pass task context through to this agent, which then executes the work.
+
+The agent ID appears below the agent name in the upper-left corner.
+
+Configure the Task Collaborator in Workfront.
+
+Enter your API key, environment ID, and agent ID
+
+Click
+
+Test Connection
+
+to verify.
+
+Assign the Task Collaborator to a Workfront task.
+
+The Task Collaborator fires after all predecessor tasks are complete.
+
+Writer
+
+When creating an agent for use as a Task Collaborator in Writer, we recommend the following workflow.
+
+More detailed information about creating agents can be found in the
+
+Writer documentation
+
+.
+
+Create a no-code app in Writer AI Studio.
+
+Add a single Text input field. You can use the default name “Text input.”
+
+Add
+
+@TextInput
+
+to your Prompt. In the Prompts section of your app configuration, make sure your prompt template references the input variable. Without this, the model never sees the task data.
+
+Adjust your Prompt to generate output immediately. Remove any instructions that ask the user for clarification or additional context before responding. For example: “When you receive input, treat it as a content generation request and produce the output immediately. Do not ask for clarification.”
+
+Copy your API key and Application ID. You will need Task Collaborator to configure the Task Collaborator in Workfront.
+
+For instructions on setting up an API key in Writer, see
+
+Quickstart
+
+in the Writer documentation.
+
+For instructions on setting up an application ID in Writer, see
+
+Invoke no-code agents via the API
+
+in the Writer documentation.
+
+Configure the Task Collaborator in Workfront. As part of the configuration, enter your API key and Application ID, then click
+
+Test connection
+
+to verify.
+
+Assign the Task Collaborator to a Workfront task. The Collaborator begins work when all of the task’s predecessor tasks are complete.
+
+style
+
+highlighted
 
 Manage AI Collaborators
 
@@ -63407,7 +63903,7 @@ Workfront Guide
 
 Configure email notification settings in Workfront Proof
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -67303,6 +67799,8 @@ Check document storage limits
 
 Images are accessible through the Updates tab on an object and are also available in the Documents area under the Main Menu.
 
+This preference also governs whether users can attach images to comments on objects using Adobe cloud storage. Attached images are stored in Adobe cloud storage.
+
 Click the
 
 Main Menu
@@ -70693,7 +71191,7 @@ Workfront Guide
 
 Configure spam settings for common email clients
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -71394,14 +71892,6 @@ Integrations
 CREATED FOR:
 
 Admin
-
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
 
 IMPORTANT
 
@@ -73545,13 +74035,29 @@ You connect to Workfront once per Claude account. The connection authenticates y
 
 Connect to Claude desktop from the connectors directory
 
+Connect to Claude with a URL
+
+Customize Claude behavior with skills
+
+Connect to Claude desktop from the connectors directory
+
 Expand to view step-by-step instructions for connecting Workfront to Claude.
 
 To connect Workfront to Claude:
 
 Open Claude.
 
-Navigate to the connectors area.
+Click
+
+Customize
+
+.
+
+In the left navigation, click
+
+Connectors
+
+.
 
 Find
 
@@ -73571,9 +74077,9 @@ Connect
 
 .
 
-When prompted, log in to your Workfront instance.
+When prompted, log in to your Workfront instance. You may need to select a profile and a Workfront instance. The profile you select determines which workspace is connected.
 
-After authentication completes, you’re connected.
+After authentication completes, the Workfront MCP server is connected.
 
 Connect to Claude with a URL
 
@@ -73605,21 +74111,21 @@ Customize
 
 icon.
 
-Select
+In the left navigation select
 
 Connectors
 
-, then select the
-
-+
-
-icon to add a connector.
+.
 
 Select the
 
-Create app
++
 
-button.
+icon, then select
+
+Add custom connector
+
+.
 
 Give the connector a desired name (such as “Workfront”) and enter the MCP Server URL:
 
@@ -73627,7 +74133,17 @@ code language-none
 
 https://mcp.workfront.adobe.com/mcp/v1/workfront
 
-After the connector is created, a login window pops up. Authenticate using your Adobe ID credentials. Ensure that you select the desired Workfront instance if you belong to more than one.
+Click
+
+Connect
+
+.
+
+A Workfront login window appears.
+
+Authenticate using your Adobe ID credentials.
+
+You may need to select a profile and a Workfront instance. The profile you select determines which workspace is connected.
 
 Customize Claude behavior with skills
 
@@ -73641,39 +74157,109 @@ or ask Claude for help with skills.
 
 Connect to ChatGPT
 
+The procedure to connect the Woorkfront MCP server with ChatGPT differs based on whether you are using ChatGPT Desktop or Codex, or ChatGPT on the web.
+
+Connect to ChatGPT Desktop or ChatGPT Codex
+
+Connect to ChatGPT on the web
+
+Customize ChatGPT behavior with Custom GPTs
+
+Connect to ChatGPT Desktop or ChatGPT Codex
+
+Expand to view step-by-step instructions for connecting Workfront to ChatGPT Desktop or ChatGPT Codex.
+
+In ChatGPT, open
+
+Settings
+
+.
+
+Click
+
+Plugins
+
+in the left navigation.
+
+Click
+
+Add server
+
+near the upper-right of the window.
+
+Enter a name for the server.
+
+For the type, select
+
+Streamable HTTP
+
+.
+
+Set the MCP Server URL:
+
+code language-none
+
+https://mcp.workfront.adobe.com/mcp/v1/workfront
+
+Click
+
+Save
+
+.
+
+In the list that appears, click
+
+Authenticate
+
+for the MCP server that you are adding.
+
+Log in to Workfront.
+
+You may need to select a profile and a Workfront instance. The profile you select determines which workspace is connected.
+
+In ChatGPT, in the MCP server list, ensure that the toggle to the right of the new MCP server remains toggled on.
+
+Connect to ChatGPT on the web
+
+Expand to view step-by-step instructions for connecting Workfront to ChatGPT on the web.
+
 Log in to
 
 ChatGPT
 
 using your credentials.
 
-In the lower left, select
-
-your name
-
-→
+In the lower left, select your name, then select
 
 Settings
 
 .
 
-Select
+In the left navigation, select
 
-Apps
-
-, then enable
-
-Developer mode
+Security and login
 
 .
 
-Select the
+Go to the ChatGPT plugins page at https://chatgpt.com/plugins.
 
-Create app
+Click the Plus icon near the upper-right of the Plugins page.
 
-button.
+In the
 
-Give the app a desired name (such as “Workfront”) and enter the MCP Server URL:
+Name
+
+field, enter a name for the MCP server.
+
+In the
+
+Connection
+
+field, select
+
+Server URL
+
+and enter the MCP Server URL:
 
 code language-none
 
@@ -73683,9 +74269,17 @@ Ensure that Authentication is set to
 
 OAuth
 
-(set by default), and select the acceptance check box to continue.
+(set by default).
 
-After the app is created, a login window pops up. Authenticate using your Adobe ID credentials. Ensure that you select the desired Workfront instance if you belong to more than one.
+Read the risk message and check the box to show that you have read it.
+
+Click
+
+Create
+
+.
+
+After the app is created, a Workfront login window appears. Authenticate using your Adobe ID credentials. You may need to select a profile and a Workfront instance. The profile you select determines which workspace is connected.
 
 Customize ChatGPT behavior with Custom GPTs
 
@@ -73698,6 +74292,8 @@ ChatGPT user documentation
 or ask ChatGPT for help with Custom GPTs.
 
 Connect Workfront to Copilot
+
+Expand to view step-by-step instructions for connecting Workfront to Copilot.
 
 To build a custom Copilot agent that the Workfront MCP can connect to, use Copilot Studio.
 
@@ -73741,9 +74337,11 @@ In the panel that appears, enter a name and description for this connection.
 
 In the server URL field, enter the URL:
 
+code language-none
+
 https://mcp.workfront.adobe.com/mcp/v1/workfront`
 
-For Authorization, select
+For Authentication, select
 
 OAuth 2.0
 
@@ -73775,11 +74373,25 @@ Create
 
 .
 
-In the login panel that appears, log in to Workfront, then select
+Set up a connection by clicking
+
+Not connected
+
+, then
+
+Create new connection
+
+, then
+
+Create
+
+.
+
+In the login panel that appears, log in to Workfront, select the instance that you want to use (if you have access to more than one instance), then click
 
 Continue
 
-when it shows which Workfront instance you want to use.
+.
 
 In the panel that displays your server, click
 
@@ -73796,6 +74408,46 @@ Publish
 .
 
 You may not have permissions to publish. If this is the case, contact your Copilot administrator.
+
+Connect Workfront to a custom MCP solution
+
+If you’re building your own custom application or agent, you can connect to the Workfront MCP server directly.
+
+There are two ways to connect:
+
+Connect with a service-to-service token
+
+Connect with OAuth
+
+Connect with a service-to-service token
+
+Create a service credential using the Adobe Developer Console. For information, see
+
+Server to Server authentication
+
+.
+
+Connect to the Workfront MCP server using the following information:
+
+URL
+
+:
+
+https://mcp.workfront.adobe.com/mcp/v1/workfront
+
+Headers
+
+:
+
+Authorization: Bearer <access_token>
+
+wf-url: <your_subdomain>.my.workfront.com
+
+(Required if your credential has access to more than one Workfront instance, such as Preview and Production).
+
+Connect with OAuth
+
+Self-service support for custom OAuth integrations is not yet available for Workfront.
 
 Verify your connection
 
@@ -73892,6 +74544,12 @@ Use the Adobe Workfront MCP server
 Frequently asked questions about setup
 
 Expand to view frequently asked questions about setting up the Workfront MCP server.
+
+Can I connect to multiple Workfront instances at the same time?
+
+Which administrator enables this?
+
+Can I use the Workfront MCP server if my Workfront instance isn’t enabled on Adobe Identity Management System (IMS)?
 
 Can I connect to multiple Workfront instances at the same time?
 
@@ -77423,7 +78081,7 @@ Workfront Guide
 
 Configure Workfront Proof emails to avoid spam filters
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -79345,15 +80003,19 @@ Adobe Workfront package
 
 To connect record types from the same workspace:
 
-Any Workfront and any Planning package
+Any Workfront or Workflow package with any Planning package
 
-Any Workflow and any Planning package
+Or
+
+Any Planning package when purchased as a standalone product
 
 To connect record types from different workspaces:
 
-Any Workfront and any Planning package
-
 Any Workflow and a Planning Prime or Ultimate package
+
+Or
+
+Any Planning Prime or Ultimate package when purchased as a standalone product
 
 For more information about what is included in each Workfront Planning package, contact your Workfront account representative.
 
@@ -79537,7 +80199,7 @@ Brands
 
 from Adobe GenStudio for Performance Marketing from the
 
-Adobe GenStudio
+Adobe Applications
 
 section
 
@@ -79579,145 +80241,13 @@ Select the
 
 Create corresponding field on linked record type
 
-. When selected, a connection field is created on the record type you are connecting to, in addition to the connection field added to the current record type. This is disabled by default.
+in the
 
-note tip
+Connection type
 
-TIP
-
-In addition to the limit of 30 connection fields for one record type, there is a limit of 500 fields for one record type. We recommend to keep this setting off, especially for taxonomical record types, to avoid reaching this limit.
-
-Selecting the
-
-Create corresponding field on linked record type
-
-is a prerequisite for creating hierarchies.
-
-A linked record field is not created for objects from another application in their respective applications. For example:
-
-There is no field created for Workfront objects connected to Planning records.
-
-There is no field created for a Planning record type when it’s connected to a record type from the GenStudio workspace.
-
-(Conditional) If you enabled
-
-Create corresponding field on linked record type
-
-, choose from the following options to indicate how many records users can connect to and from:
-
-Many to many
-
-One to many
-
-Many to one
-
-One to one
-
-For more information about connection types, see
-
-Connected record types overview
+section
 
 .
-
-note
-
-NOTE
-
-If you select One to many or One to one for the Connection type and you later want to connect a record or an object that is already connected elsewhere, you will receive a warning that connecting it again will remove it from the original connection. You can allow the removal or select another record.
-
-(Conditional and optional) When you select to connect a Workfront object, choose a
-
-Custom form
-
-from the
-
-Link only objects that match these criteria
-
-section. Only objects that have the selected custom forms attached can be linked to the selected record type. You can select more than one form.
-
-note
-
-NOTE
-
-You must create custom forms in Workfront for the selected objects before they display in this list.
-
-(Conditional) When you select to connect to Experience Manager, choose a repository from the
-
-Experience Manager repository
-
-drop-down menu in the
-
-Link assets from the following repository
-
-section. This is a required field. Only repositories you have access to in Experience Manager display in this field.
-
-note
-
-NOTE
-
-Your Workfront administrator can map Workfront Planning fields to Experience Manager Assets fields through the Metadata mapping in Workfront. For more information, see
-
-Configure asset metadata mapping between Adobe Workfront and Experience Manager Assets
-
-.
-
-(Conditional) When you select to connect to Experience Manager, to a Workfront Planning record type, or to a GenStudio Brand, choose one of the following options in the
-
-Record appearance
-
-area:
-
-Name and image
-
-: Both the name and the thumbnail or icon of the connected records will display in the connected record field. This is the default option.
-
-Name
-
-: Only the name of the connected records will display in the connected record field.
-
-Image
-
-: Only the thumbnail or icon of the connected records will display in the connected record field.
-
-Records without a thumbnail image display the record type icon instead. An example of how the connected records will display shows in the
-
-Record appearance
-
-area.
-
-note
-
-NOTE
-
-When you allow multiple records to be linked, displaying only the thumbnail might save space in smaller areas, like record views.
-
-The name of a record is the primary field of the record. For more information, see
-
-Primary field overview
-
-.
-
-Selecting a record appearance is not available when selecting Workfront object types.
-
-What you select in the Record appearance area determines how the records display in connections everywhere in the system, including all the views and details pages.
-
-Select the
-
-Select lookup fields
-
-to add fields from the record type you are connecting to. The lookup fields are fields associated with the record or object type that you are linking to. Linking them displays information from the record or object you’re linking to on the record you are linking from. This is selected by default.
-
-note
-
-NOTE
-
-In addition to system fields like Name and Description, you can add the following types of fields as lookup fields from object types from another application:
-
-User fields, like Project Owner, or Sponsor, from Workfront projects.
-
-Reference fields, like Project Group or Project Company from Workfront projects.
-
-Only the following fields are supported for AEM Content Fragments:
 
 Created by and Created at
 
@@ -88287,7 +88817,7 @@ Save and Close
 
 Add Workfront native fields
 
-You can add Workfront native fields to your custom forms. When the custom form is attached to an object, the field is populated from the object data. For example, the Description field on a custom form attached to a project will pull in the project description. (The field may show “N/A” if no data is available.)
+You can add Workfront native fields to your custom forms. When the custom form is attached to an object, the field is populated from the object data. For example, if the custom field references the Description field and it is on a custom form attached to a project, it pulls in the project description. (The field may show “N/A” if no data is available.)
 
 Expand to see the list of supported native fields.
 
@@ -95967,7 +96497,7 @@ Workfront Guide
 
 Create a report dashboard for review and approvals
 
-Last update: May 13, 2026
+Last update: July 31, 2026
 
 Topics:
 
@@ -96327,7 +96857,7 @@ Pick a Field
 
 Select
 
-Approval Stage
+Approval Stages
 
 >
 
@@ -97131,7 +97661,7 @@ Pick a Field
 
 Select
 
-Approval stage
+Approval stages
 
 >
 
@@ -97163,7 +97693,7 @@ Pick a Field
 
 Select
 
-Approval stage
+Approval stages
 
 >
 
@@ -97281,7 +97811,7 @@ Add column
 
 Scroll down and select
 
-Document Approvals
+Document Approval
 
 >
 
@@ -97307,15 +97837,15 @@ in the search box.
 
 Document version
 
-Document Version > Document > Version
+Document Version > Document > Current Version > Version
 
 Deadline
 
-Document Approval > Approval Stage > Deadline
+Document Approval > Approval Stages > Deadline
 
 Requested by
 
-Document Approval > Approval Stage > Approval Stage Participants* > Requester > type
+Document Approval > Approval Stages > Approval Stage Participants* > Requester > type
 
 Name
 
@@ -97323,11 +97853,11 @@ in the search box.
 
 Requested date
 
-Document Approval > Approval Stage > Approval Stage Participants* > Created at
+Document Approval > Approval Stages > Approval Stage Participants* > Created at
 
 Approver
 
-Document Approval > Approval Stage > Approval Stage Participants* > Participant User > type
+Document Approval > Approval Stages > Approval Stage Participants* > Participant User > type
 
 Name
 
@@ -97475,7 +98005,7 @@ Pick a Field
 
 Select
 
-Approval Stage
+Approval Stages
 
 >
 
@@ -97613,11 +98143,11 @@ Document Version > Document > Version
 
 Deadline
 
-Document > Approval Stage > Deadline
+Document > Approval Stages > Deadline
 
 Requested by
 
-Document > Approval Stage > Approval Stage Participants* > Requester > type
+Document > Approval Stages > Approval Stage Participants* > Requester > type
 
 Name
 
@@ -97625,11 +98155,11 @@ in the search box.
 
 Requested date
 
-Document > Approval Stage > Approval Stage Participants* > Created at
+Document > Approval Stages > Approval Stage Participants* > Created at
 
 Approver
 
-Document > Approval Stage > Approval Stage Participants* > Participant User > type
+Document > Approval Stages > Approval Stage Participants* > Participant User > type
 
 Name
 
@@ -97669,7 +98199,7 @@ Pick a Field
 
 Select
 
-Approval Stage
+Approval Stages
 
 >
 
@@ -97791,7 +98321,7 @@ Pick a Field
 
 Select
 
-Approval Stage
+Approval Stages
 
 >
 
@@ -97843,7 +98373,7 @@ Pick a Field
 
 Select
 
-Approval Stage
+Approval Stages
 
 >
 
@@ -104474,6 +105004,10 @@ For information on custom localization, see
 Configure custom localization
 
 .
+
+NOTE
+
+Business rules are executed after the main process completes. In other words, business rules are intended to prevent actions that are not already handled by the main process. They do not override or replace exceptions thrown during the main execution—they run at the very end of the process.
 
 Scenarios for business rule automation
 
@@ -126459,6 +126993,14 @@ User
 
 Admin
 
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
 IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
@@ -126566,6 +127108,18 @@ note important
 IMPORTANT
 
 A workspace manager must create a request form for the record type in order for users with View permissions to add records using a request form. Otherwise, View-permission users cannot create records.
+
+All records are automatically color-coded when they are created, regardless of the method you are using to create them.
+
+For more information, see the section
+
+Color coding records
+
+in this article.
+
+style
+
+highlighted
 
 Create records using the New record or Request record button from any record type view
 
@@ -127298,6 +127852,120 @@ For information, see
 Create objects using Adobe Workfront Planning record automations
 
 .
+
+Color coding records
+
+All records are automatically associated with a color when they are created.
+
+Create a record using one of the methods described in this article.
+
+The color is immediately applied to the new record in the following areas:
+
+As a bar, to the left of the record name or primary field in the table, timeline and calendar views.
+
+As a circle, to the left of the record name in the record’s
+
+Details
+
+page.
+
+For information, see
+
+Manage the record page layout
+
+.
+
+(Conditional) To view the color of a record, do one of the following:
+
+From the table view, click the
+
+Fields
+
+icon in the toolbar at the top of a list of records, then turn on the
+
+Color
+
+setting. A bar is added to the left of the record’s primary field.
+
+For information, see
+
+Manage the table view
+
+.
+
+From the timeline view, click
+
+Settings
+
+>
+
+Bar style
+
+, then turn on the
+
+Color
+
+setting. A bar is added to the left margin of the record’s bar, when you select to color code the bar by
+
+Record
+
+.
+
+For information, see
+
+Manage the timeline view
+
+.
+
+From the calendar view, click
+
+Settings
+
+>
+
+Bar style
+
+, then turn on the
+
+Color
+
+setting. The record bar color matches the record color and a darker shade of the same color is added to the left margin of the record’s bar, when you select to color code the bar by
+
+Record
+
+.
+
+For information, see
+
+Manage the calendar view
+
+.
+
+The Color setting is turned off by default.
+
+To change the color associated with a record, do the following:
+
+From the table view, click the record color bar
+
+Or
+
+From the record details preview or page, click the record color circle.
+
+Click the
+
+Swatches
+
+or the
+
+Custom
+
+tab to select a new color.
+
+Once selected, the new color is applied immediately.
+
+style
+
+highlighted
 
 recommendation-more-help
 
@@ -132937,6 +133605,14 @@ CREATED FOR:
 
 Admin
 
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
 As an Adobe Workfront administrator, you can use a layout template to specify which list controls appear in the Filter, View, and Grouping drop-down menus. These menus appear above lists throughout Workfront, such as the list of tasks for a project:
 
 For more information about layout templates, see
@@ -133034,6 +133710,12 @@ In the list of filters that displays when they click the filter icon
 above a list:
 
 In the header on the Projects area header:
+
+Some enhanced lists are available to choose from. These lists have a “New Experience” label next to the list controls. For information on enhanced lists, see
+
+Use enhanced lists
+
+.
 
 (Optional) If you want to change the default filter, view, or grouping for the layout template, hover over the filter, view, or grouping, then click
 
@@ -133983,7 +134665,7 @@ Workfront Guide
 
 Customize the landing page using a layout template
 
-Last update: June 12, 2026
+Last update: July 30, 2026
 
 Topics:
 
@@ -133992,6 +134674,14 @@ Administration
 CREATED FOR:
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 As an Adobe Workfront administrator, you can use a layout template to specify the area you want users to see each time they log in to Workfront.
 
@@ -134109,6 +134799,18 @@ Blueprints
 
 Planning
 
+Custom Application
+
+note
+
+NOTE
+
+Custom applications that have already been added to the Main Menu are available to use as a landing page. They must be created separately before they become available as Main Menu or landing page options. For more information, see
+
+Create a custom application for Workfront with Adobe App Builder
+
+.
+
 note important
 
 IMPORTANT
@@ -134175,9 +134877,21 @@ CREATED FOR:
 
 Admin
 
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
 In a layout template, you can customize what users see in the left panel area throughout Adobe Workfront.
 
 For example, you can determine which of the following items users see in the left panel when viewing a project:
+
+Sample image in the Preview environment:
+
+Sample image in the Production environment:
 
 IMPORTANT
 
@@ -134307,9 +135021,7 @@ Billing Record Details, Billable Hours, Billable Expenses, Fixed Revenues
 
 Projects
 
-Projects
-
-in the Main Menu
+Projects in the Main Menu
 
 Projects
 
@@ -146563,7 +147275,7 @@ Workfront Guide
 
 Designating Temporary Proof Owners in Workfront Proof
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -150931,7 +151643,7 @@ Workfront Guide
 
 Downloading Your Workfront Proof Invoice
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -154940,8 +155652,6 @@ Create an approval process for work items
 NOTE
 
 When you edit a global approval process that is already in use, your changes affect all objects throughout the system that are already associated with it.
-
-If you add a new approver to the current stage on an approval process that has already started on an object, the process for that object resets and the approvers have to start over.
 
 However, if you make the following changes in an approval process that has already started on an object, that process continues without interruption:
 
@@ -162593,6 +163303,14 @@ CREATED FOR:
 
 User
 
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
 IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
@@ -162975,6 +163693,16 @@ Connect record types
 
 Fields of the following types: Created by, Created date, Last modified by, Last Modified date, Formula fields.
 
+(Optional) Click the color circle to the left of the record name to change the record color. Records are automatically assigned colors when they are created. Click
+
+Swatches
+
+or
+
+Custom
+
+to select a new color.
+
 (Optional) Click
 
 Add cover
@@ -163126,6 +163854,16 @@ Connect record types
 Fields of the following types: Created by, Created date, Last modified by, Last Modified date, Formula fields.
 
 (Optional) Click the information icon to the right of any field that displays it to view the description of a field.
+
+(Optional) Click the color circle to the left of the record name to change the record color. Records are automatically assigned colors when they are created. Click
+
+Swatches
+
+or
+
+Custom
+
+to select a new color.
 
 (Optional) Click
 
@@ -168513,7 +169251,7 @@ Workfront Guide
 
 Email alerts
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -182899,16 +183637,6 @@ CREATED FOR:
 
 User
 
-The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers, or in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
-To collaborate more efficiently with others that might not have a Workfront account, you can export a record’s details page to a Microsoft Word file and share it with them.
-
 Access requirements
 
 Expand to view the access requirements for the functionality in this article.
@@ -182929,9 +183657,7 @@ Light or higher
 
 Object permissions
 
-View or higher permissions to a workspace, record type and
-
-record
+View or higher permissions to a workspace, record type and record
 
 System Administrators have permissions to all workspaces, including the ones they did not create
 
@@ -183123,7 +183849,7 @@ Workfront Guide
 
 FAQ - Create and share proofs and files
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -183477,7 +184203,7 @@ Workfront Guide
 
 FAQ - Review proofs
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -183655,7 +184381,7 @@ Workfront Guide
 
 FAQ - Workfront Proof account
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -183807,7 +184533,7 @@ Workfront Guide
 
 FAQ: Workfront Proof - US to EMEA migration
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -201707,7 +202433,7 @@ Workfront Guide
 
 Getting started with Workfront Proof: article index
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -210519,6 +211245,14 @@ CREATED FOR:
 
 Admin
 
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
 As an Adobe Workfront administrator, you can use an access level to grant users with a Standard or Plan license administrative access to certain areas of the system.
 
 NOTE
@@ -210589,13 +211323,19 @@ section, check boxes to grant the necessary administrative access.
 
 These options allow you to grant the following capabilities:
 
-table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 layout-auto html-authored no-header
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 8-row-2 layout-auto html-authored no-header
 
 Approval Processes
 
 Create and manage approval processes for use throughout the system and for specific groups.
 
 Without this access, users can create only ad-hoc approval processes on items they have access to manage.
+
+Change history
+
+View the Workfront change history logs in Setup > Change Tracking > Change History List.
+
+Without this access, users do not have this option in the Setup area.
 
 Companies
 
@@ -221891,7 +222631,7 @@ Workfront Guide
 
 Integrations - User Setup
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -222157,7 +222897,7 @@ Workfront Guide
 
 Internal Then External Review in Workfront Proof
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -225145,7 +225885,7 @@ Workfront Guide
 
 Language Settings in Workfront Proof
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -225303,7 +226043,7 @@ Workfront Guide
 
 Late proof email
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -225466,6 +226206,14 @@ Get Started with Workfront
 CREATED FOR:
 
 User
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 Most areas and objects in WF use a simple navigation panel on the left side of the screen. The following are benefits of left panel navigation:
 
@@ -225809,6 +226557,10 @@ From the object page, click any of the sections in the left panel to view or edi
 
 You must have permissions to edit the object before you can edit the information.
 
+Sample image in the Preview environment:
+
+Sample image in the Production environment:
+
 (Optional) To add a dashboard quick link, click
 
 Add a Dashboard
@@ -225833,6 +226585,12 @@ TIP
 
 You must build the dashboard before it appears in the list.
 
+Not all objects allow a dashboard in the left panel. For information about which objects support dashboards, see
+
+Add a dashboard in the left panel of a Workfront object or area
+
+.
+
 (Optional) To remove a dashboard quick link, hover over the dashboard in the left navigation, then click the
 
 Remove
@@ -225841,13 +226599,15 @@ icon
 
 when it appears.
 
-(Optional) To change the order of a section in the left panel, click the
+(Optional) To change the order of a section in the left panel in the Production environment, click the
 
 Drag
 
 icon
 
 next to a section and drag it up or down.
+
+To change the order of a section in the left panel in the Preview environment, click and drag the section up or down into the correct position.
 
 (Optional) To close the left panel, click the
 
@@ -227185,7 +227945,7 @@ Workfront Guide
 
 Link content and folders with Experience Manager Assets’ Content Advisor
 
-Last update: June 12, 2026
+Last update: June 16, 2026
 
 Topics:
 
@@ -227489,7 +228249,7 @@ Considerations
 
 Content Advisor functionality is not available for objects using Adobe cloud storage. If your organization uses Adobe cloud storage, you can still link assets and folders from Experience Manager Assets or Assets Essentials, but you won’t have access to Content Advisor features such as AI Search, smart suggestions, or Dynamic Media renditions. For more information, see
 
-Use the Adobe Experience Manager with the Frame.io integration
+Link content and folders from Experience Manager Assets with Adobe cloud storage
 
 .
 
@@ -232315,7 +233075,7 @@ Workfront Guide
 
 Logging in and changing your password and email for Workfront Proof
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -233625,7 +234385,7 @@ Workfront Guide
 
 Manage a satellite account in Workfront Proof
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -234759,9 +235519,9 @@ Manage record comments
 
 .
 
-Someone asks for your permission to access a view, a workspace, or record type
+Someone asks for your permission to access a view, a workspace, record type or a record
 
-Someone confirms your access has been granted for a view, workspace, or record type
+Someone confirms your access has been granted for a view, workspace, record type or record
 
 You submit a Workfront Planning request. For information, see
 
@@ -234967,9 +235727,9 @@ Manage record comments
 
 .
 
-Someone asks for your permission to access a view or a workspace
+Someone asks for your permission to access a view, a workspace or record
 
-Someone confirms your access has been granted for a view or a workspace
+Someone confirms your access has been granted for a view, a workspace, or record
 
 Access requirements
 
@@ -235115,9 +235875,9 @@ You may receive in-app or email notification when the following actions occur in
 
 Someone adds you or your teams to a comment on the record page
 
-Someone asks for permission to access a view or a workspace
+Someone asks for permission to access a view or a workspace or a record
 
-Someone grants you permission to access a view or a workspace
+Someone grants you permission to access a view or a workspace or a record
 
 You submit a Workfront Planning request.
 
@@ -237510,6 +238270,368 @@ View restored item
 Configure affect on hours when an object is deleted and restored
 
 Restoring individual child objects
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
+# FILE: manage-dependent-connections-adobe-workfront.md
+---
+
+Manage Dependent Connections | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Manage dependent connections
+
+Last update: July 30, 2026
+
+Topics:
+
+Workfront Planning
+
+CREATED FOR:
+
+User
+
+The information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
+As a workspace manager, you can define dependent connections when creating connection fields between record types in Adobe Workfront Planning.
+
+When adding connected fields, you can turn on a setting that indicates that the values of the connected record type depend on the values of the source record type (the one where you’re adding the connection), whenever both fields appear together on a third record type.
+
+For example, you might want to ensure that a Region field only shows values tied to the selected Geo. This is configured directly in the connection field setup: when adding a connection from a Geo record type to a dependent record type (like Region), a new setting allows workspace managers to mark it as dependent on the Geo record type, using the relationships already established between those record types.
+
+Once configured, any record type that references both fields (such as a Campaign) will see the effect immediately: selecting a Geo value narrows the Region picker to only those Regions actually linked to that Geo. This enforces your record structure automatically, eliminating mismatched combinations and reducing manual cleanup.
+
+Access requirements
+
+Expand to view the access requirements for the functionality in this article.
+
+table 0-row-0 1-row-0 2-row-2 3-row-2 4-row-2 5-row-2 layout-auto html-authored no-header
+
+Adobe Workfront package
+
+To connect record types from the same workspace:
+
+Any Workfront or Workflow package with any Planning package
+
+Or
+
+Any Planning package when purchased as a standalone product
+
+To connect record types from different workspaces:
+
+Any Workflow and a Planning Prime or Ultimate package
+
+Or
+
+Any Planning Prime or Ultimate package when purchased as a standalone product
+
+For more information about what is included in each Workfront Planning package, contact your Workfront account representative.
+
+Additional products
+
+In addition to Adobe Workfront, you must have the following, if you want to connect record types with objects from the following applications:
+
+An Adobe Experience Manager Assets license and an integration between AEM Assets and Workfront to connect AEM assets with Planning record types.
+
+For information, see
+
+Adobe Workfront for Experience Manager Assets and Assets Essentials: article index
+
+.
+
+An Adobe GenStudio for Performance Marketing license to connect record types with GenStudio objects and Brands
+
+For information, see
+
+Get started with Adobe GenStudio for Performance Marketing
+
+.
+
+Adobe Workfront license
+
+Standard
+
+Object permissions
+
+Manage permissions to a workspace
+
+System Administrators have permissions to all workspaces, including the ones they did not create
+
+For more information about Workfront access requirements, see
+
+Access requirements in Workfront documentation
+
+.
+
+Considerations for dependent connected fields
+
+Dependent connected fields can only be set up between record types that have an established connection field relationship. You cannot define dependency logic between unrelated record types.
+
+You can have a dependent connected field between record types in separate workspaces.
+
+You cannot have a dependent connected field between Planning record types and Workfront or AEM object types.
+
+The dependency setting is configured one connection at a time, within the connection field setup itself, rather than as a global rule.
+
+The filtering behavior between the two connected records only activates when both the source and dependent fields are present together on a third record type. The dependency has no effect if only one of the two fields displays on a record type.
+
+The dependent field’s picker is limited to values already linked to the selected source value at the record level; it cannot show or suggest unlinked values.
+
+If the source field’s value changes, the dependent field is automatically cleared rather than left in an invalid state, preventing mismatched combinations from persisting.
+
+You receive an inline or toast message explaining why the dependent field was cleared.
+
+Each dependent field can have up to 3 direct controlling fields.
+
+Dependency levels are limited to 6 connections. This means that up to 7 record types can be connected.
+
+For the dependency chain to work, all dependent fields must exist on the same record type at the same time.
+
+Create a dependent connection
+
+As a workspace manager, go to a record type in Workfront Planning and open it in the table view.
+
+Click the
+
++
+
+icon in the upper-right corner of the table view to add a new field.
+
+Click
+
+New connection
+
+, then start adding a new connection for a second record type.
+
+note tip
+
+TIP
+
+You can create a dependent connection only between two Planning record types. You cannot create dependent connections between record types and objects from Workfront or AEM.
+
+In the
+
+Connection settings
+
+section, turn on the
+
+Make this connection dependent
+
+.
+
+note tip
+
+TIP
+
+Turning on the
+
+Make this connection dependent
+
+setting automatically turns on the
+
+Create a corresponding field on linked record type
+
+. There is a limit of 500 fields per record type.
+
+Continue setting up the connection, as described in the article
+
+Connect record types
+
+.
+
+Click
+
+Save
+
+.
+
+The following things occur:
+
+The connection between the two record types is created and their values will depend on one another when they display together on the same record type.
+
+A corresponding field displaying the first record type is created for the second record type.
+
+When both record types are connected to a third record type, the values displayed as choices for the second connected record field are those that are connected to the first record. The values displayed as choices for the first record type are the ones connected to the second record type.
+
+For information, see the section
+
+Example of dependent connected record types
+
+in this article.
+
+There is an indication in the column header of the connected record fields that explains that the field is in a dependent connection relationship.
+
+(Optional and recommended) Go to a third record type and add both the first and second record type as connected record fields.
+
+Example of dependent connected record types
+
+This section provides a simple example of how you can set up dependent record types and how they work for a third record type.
+
+In a workspace that you can manage, create the following record types:
+
+Campaign
+
+Countries
+
+Continents
+
+In the
+
+Countries
+
+record type, add the following records:
+
+France
+
+United States
+
+Japan
+
+In the
+
+Continents
+
+record type, add the following records:
+
+Europe
+
+America
+
+Asia
+
+From the
+
+Countries
+
+record type, create a connected dependent field for
+
+Continents
+
+.
+
+This adds the following connected record fields:
+
+The
+
+Countries
+
+connected record field for the
+
+Continents
+
+record type.
+
+The
+
+Continents
+
+connected record field for the
+
+Countries
+
+record type.
+
+Do one of the following:
+
+From the
+
+Countries
+
+record type table view, add the following values for the Continents connected record field:
+
+Europe for France
+
+America for United States
+
+Asia for Japan
+
+From the
+
+Continents
+
+record type table view, add the following values for the
+
+Countries
+
+connected record field:
+
+France for Europe
+
+United States for America
+
+Japan for Asia
+
+Add the
+
+Countries
+
+and
+
+Continents
+
+connected fields to the
+
+Campaign
+
+record type table view.
+
+Select
+
+Japan
+
+for the
+
+Countries
+
+field on the
+
+Campaign
+
+record type. Notice that the only value available for the
+
+Continents
+
+connected field on the campaign is
+
+Asia
+
+.
+
+Or
+
+Select
+
+Europe
+
+for the
+
+Continents
+
+field on the Campaign record type.
+
+Notice that the only value available for the
+
+Countries
+
+connected field on the campaign is
+
+France
+
+.
 
 recommendation-more-help
 
@@ -242997,6 +244119,14 @@ CREATED FOR:
 
 User
 
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
 IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
@@ -243174,6 +244304,20 @@ For more information about updating objects, including Workfront Planning record
 Update work
 
 .
+
+Click
+
+Submit
+
+to record the comment.
+
+The users you tagged in your message receive notifications that there is a new message.
+
+Everyone with View permissions to the record type can see a
+
+New comment
+
+indicator in the table view for the record you added the comment to.
 
 (Optional) Click the
 
@@ -246047,6 +247191,14 @@ CREATED FOR:
 
 User
 
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
 IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
@@ -246569,6 +247721,8 @@ None
 
 : Records displays in a white bar.
 
+The None option has been removed from the Preview environment.
+
 (Conditional) If you selected
 
 Field values
@@ -246584,6 +247738,24 @@ Only fields with color-coded options display in the drop-down menu.
 For example, multi-select or single-select fields can have color-coded options.
 
 If you do not have a field with color-coded options for the selected record type, this option is dimmed.
+
+note
+
+NOTE
+
+You can match the color only to fields with color-coded options. For example, you can match the color to Status fields, or fields with options associated with colors.
+
+In the Production environment, you cannot match the color to connected records or their lookup fields.
+
+In the Preview environment, you can match the color to connected records, but not to their lookup fields.
+
+Click
+
+Save
+
+.
+
+The records display in the calendar view with the specifications that you selected.
 
 recommendation-more-help
 
@@ -247210,14 +248382,6 @@ Workfront Planning
 CREATED FOR:
 
 User
-
-The information highlighted on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
 
 IMPORTANT
 
@@ -248025,14 +249189,6 @@ User
 
 Admin
 
-The information highlighted on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
-
-For information about fast releases, see
-
-Enable or disable fast releases for your organization
-
-.
-
 IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
@@ -248091,9 +249247,7 @@ Standard
 
 Object permissions
 
-Contribute or higher permissions to a workspace and record type and
-
-Manage permissions to a record
+Contribute or higher permissions to a workspace and record type and Manage permissions to a record
 
 System Administrators have permissions to all workspaces, including the ones they did not create
 
@@ -248395,178 +249549,6 @@ in the first column.
 
 The record’s preview opens in the view.
 
-(Optional and conditional) If you are using the Production environment, depending on which fields you want to display in the Details page, do one of the following:
-
-Select the
-
-Show all fields
-
-setting to include all the record’s fields in the
-
-Details
-
-page. This is the default setting.
-
-Deselect the
-
-Show all fields
-
-setting to exclude the record’s fields that are hidden in the table view of the record from the
-
-Details
-
-page.
-
-note tip
-
-TIP
-
-The
-
-Show all fields
-
-setting is available only in the record’s Details preview box. It is not available when the record’s Details page opens in a browser window.
-
-You cannot add sections to a record’s page when you exclude hidden fields in the Details preview box.
-
-(Optional and conditional) If you are using the Preview environment, the details area opens by default in the
-
-Selected table view fields
-
-view. This displays only the fields that are visible in the table view.
-
-note tip
-
-TIP
-
-The
-
-Selected table view fields
-
-view is only available when you view records in the table view in the record’s details preview page.
-
-The
-
-Selected table view fields
-
-is not available for any other record type view or for the record’s details page that opens in a browser window.
-
-(Conditional) In the Preview environment, continue with the following:
-
-To display all the fields, expand the page view dropdown menu, then select
-
-All fields
-
-.
-
-(Optional) ClicK
-
-New Details
-
-to add a new page and customize it, then do the following:
-
-In the
-
-Create view
-
-box, add a name for the new details page view, then click
-
-Create
-
-.
-
-Hover over the fields on the view and click the
-
-Hide field
-
-icon
-
-to the left of the fields, to hide the field.
-
-note tip
-
-TIP
-
-Custom pages are visible by everyone who accesses the record.
-
-The last page view you choose will be the one that opens by default when you open another record of the same type.
-
-(Optional) Click the
-
-Fields icon
-
-at the top of the details page, then hide or show fields on the Details page.
-
-note tip
-
-TIP
-
-The
-
-Fields
-
-icon is not available when you display the details page in the
-
-Selected table view
-
-or the
-
-All fields
-
-views.
-
-(Optional) To edit the name of a custom details page view, hover over the name of the view and click the
-
-More
-
-icon
-
-, then click
-
-Edit
-
-.
-
-(Optional) To delete a custom details page view, hover over the name of the view and click the
-
-More
-
-icon
-
-, then click
-
-Delete
-
-, then
-
-Delete
-
-to confirm. Deleted details page views cannot be recovered.
-
-(Optional) If you want to navigate to a connected record, click the name of that record in the breadcrumb at the top of the details page.
-
-If you cannot see the name of a record in the breadcrumb, click
-
-More
-
-. This displays the breadcrumb on multiple rows. Click
-
-Less
-
-to shorten the breadcrumb and display it on one row.
-
-note tip
-
-TIP
-
-You must have connected record types, records, and hierarchies in your workspace to be able to see breadcrumbs in the record’s details page.
-
-(Optional) Click the
-
-Open in new tab
-
-icon
-
 in the upper-right corner of the record preview to open the record’s page in a new tab.
 
 The record
@@ -248636,6 +249618,14 @@ Administration
 CREATED FOR:
 
 User
+
+The information highlighted on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 IMPORTANT
 
@@ -249005,7 +249995,37 @@ Create records
 
 The records you add in the table view are saved immediately and are visible to all users who have View or higher permissions to the workspace.
 
-A default thumbnail image is also added to the new record.
+A default thumbnail image
+
+and color
+
+are also added to the new record.
+
+note tip
+
+TIP
+
+When a record has unread comments, a
+
+New comment
+
+indicator displays in the upper-right corner of the record’s primary field.
+
+(Optional) Select one or multiple records or rows, then drag and drop the
+
+handle
+
+icon
+
+to the left of the record to reorder the rows.
+
+note
+
+NOTE
+
+You cannot reorder rows if you apply at least one sort or grouping to the table view.
+
+The changes you make to the row order are visible to all users who access the record type in the same view.
 
 (Optional) Click the
 
@@ -249032,6 +250052,40 @@ field to display it to the left of the primary field. It is deselected by defaul
 For information, see
 
 Add a thumbnail to a record
+
+.
+
+(Optional) Click
+
+Fields
+
+at the top of the table, then click
+
+Color
+
+to display the color of a record to the left of its primary field. Colors are assigned randomly by default for each new record. The
+
+Color
+
+setting is deselected by default.
+
+(Optional and conditional) If you turned on the
+
+Color
+
+setting, click the color bar to the left of the record’s primary field and select a color from the
+
+Swatches
+
+or
+
+Custom
+
+tabs, then click outside the box to close it. The color is applied immediately.
+
+For more information, see
+
+Create records
 
 .
 
@@ -249602,6 +250656,14 @@ Administration
 CREATED FOR:
 
 User
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 IMPORTANT
 
@@ -250405,7 +251467,33 @@ NOTE
 
 You can match the color only to fields with color-coded options. For example, you can match the color to Status fields, or fields with options associated with colors.
 
-You cannot match the color to connected records and their lookup fields.
+In the Production environment, you cannot match the color to connected records or their lookup fields.
+
+In the Preview environment, you can match the color to connected records, but not to their lookup fields.
+
+For example, multi-select or single-select fields can have color-coded options.
+
+If you group by fields without color-coded options, the grouping color remains gray.
+
+note tip
+
+TIP
+
+If you did not add groupings to the timeline view, this section does not display.
+
+In the
+
+Set record color
+
+section, select from the following options to set a color for the records:
+
+Record type
+
+: The color of the records match the color of the record type you selected. This is the default option.
+
+Field values
+
+: The color of the records matches the color of a field that you specify. Continue with step 10.
 
 Grouping
 
@@ -250414,6 +251502,8 @@ Grouping
 None
 
 : Records displays in a white bar.
+
+The None option has been removed from the Preview environment.
 
 (Conditional) If you selected
 
@@ -253529,7 +254619,7 @@ Workfront Guide
 
 Manage your billing
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -263765,7 +264855,7 @@ Workfront Guide
 
 New proof email
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -270699,6 +271789,14 @@ CREATED FOR:
 
 Admin
 
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
 You can organize a custom form with the form designer, and preview it to verify that it is set up correctly.
 
 Access requirements
@@ -270969,7 +272067,9 @@ note
 
 NOTE
 
-Advanced logic is not supported in the form designer preview mode.
+In the Production environment, advanced logic is not supported in the form designer preview mode.
+
+In the Preview environment, all logic types are available in preview mode.
 
 recommendation-more-help
 
@@ -283531,7 +284631,7 @@ Workfront Guide
 
 Personal settings in Workfront Proof
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -286051,7 +287151,7 @@ Workfront Guide
 
 Preview Sandbox Testing Environment- Workfront Proof
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -290259,7 +291359,7 @@ Workfront Guide
 
 Proof notifications and reminders
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -290305,7 +291405,7 @@ Workfront Guide
 
 Proof notifications and reminders
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -295309,7 +296409,7 @@ Workfront Guide
 
 Remind a reviewer about assignments in Workfront Proof
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -307997,6 +309097,8 @@ Unified review and approval overview
 
 Use the Adobe Experience Manager with the Frame.io integration
 
+Link content and folders from Experience Manager Assets with Adobe cloud storage
+
 Get started with the Adobe Express and Workfront with Frame.io integration
 
 recommendation-more-help
@@ -311611,7 +312713,7 @@ Workfront Guide
 
 Satellite accounts in Workfront Proof
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -311715,7 +312817,7 @@ Workfront Guide
 
 Satellite accounts in Workfront Proof
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -314607,7 +315709,7 @@ Workfront Guide
 
 Send a reminder message to the reviewers on a proof
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -315485,7 +316587,7 @@ Workfront Guide
 
 Send messages to reviewers
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -319539,7 +320641,7 @@ Workfront Guide
 
 Setting time zones in Workfront Proof
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -334519,7 +335621,7 @@ Workfront Guide
 
 System information in Workfront Proof
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -338639,8 +339741,6 @@ Any outage to a Workfront Preview environment during regular business hours will
 
 Any outage to a Workfront Preview environment on weekends (Saturdays and Sundays) will be addressed so that the environment is running for business hours on Monday.
 
-Proofing is not available in the Preview environment.
-
 The Frame.io viewer is not available in the Preview environment. Adobe cloud storage is available so you can test it in the sandbox, but the full unified review and approval experience must be validated in production. For more information, see
 
 Adobe cloud storage overview
@@ -339697,7 +340797,7 @@ Workfront Guide
 
 The New Version email
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -339739,7 +340839,7 @@ Workfront Guide
 
 The Proof Made email
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -339983,7 +341083,7 @@ Workfront Guide
 
 The Workfront Proof API
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -340023,7 +341123,7 @@ Workfront Guide
 
 The Workfront Proof Billing Page
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -340274,6 +341374,38 @@ For a list of all changes available at this point in the Third Quarter 2026 rele
 Third Quarter 2026 release overview
 
 .
+
+Change tracking for unified review and approval
+
+NOTE
+
+Preview: July 10, 2026
+
+Production fast release: July 15, 2026
+
+Production for everyone: July 16, 2026
+
+The Change History page in Workfront now captures activity across unified review and approval workflows, giving administrators a complete governance trail for review and document lifecycle events.
+
+Approval, stage, and participant actions are now tracked. These actions may include:
+
+Making an approval decision in the Frame.io viewer
+
+Creating or deleting an approval
+
+Updating a document such as renaming, moving, or deleting it
+
+Each entry includes the standard tracked fields: date and time, operation, user name (or “system generated”), and object name. Frame.io viewer comments are not included.
+
+This phase of change tracking does not include MCP events. Those will be part of a future release.
+
+For more information, see
+
+View and manage change history
+
+.
+
+-->
 
 New license type fields for Access Levels
 
@@ -341275,6 +342407,18 @@ Fast release
 
 Quarterly
 
+Change tracking for unified review and approval
+
+[Off schedule]{class="badge neutral"}
+
+The Change History page now captures activity across unified review and approval workflows, giving administrators a complete governance trail for approval, stage, and participant actions.
+
+July 10, 2026
+
+July 15, 2026
+
+July 16, 2026
+
 New license type fields for Access Levels
 
 [Off schedule]{class="badge neutral"}
@@ -341860,6 +343004,20 @@ The Desktop Proofing Viewer has been updated to from 2.1.54 to 2.1.55. This upda
 This update is for both Mac and Windows.
 
 Announcements
+
+Password-only authentication for Data Connect reader users ends August 8, 2026
+
+Starting August 8, 2026, Workfront Data Connect / Snowflake reader users who authenticate with a password-only login will stop functioning unless multi-factor authentication (MFA) has been enabled. MFA cannot be added retroactively after this date — if a reader user is allowed to lapse without it, access can only be restored by creating a new user profile.
+
+If you are a Workfront Administrator with Data Connect reader users who have not yet enabled MFA, please notify your users promptly of this change.
+
+This change was first announced in the April 2026 Workfront release notes, and this is the final reminder before the deadline. Please ensure that all affected reader users enable MFA before August 8, 2026 to avoid disruption to their access.
+
+For information, see
+
+Create a reader account or connection for Snowflake
+
+.
 
 Adobe Workfront Planning as a standalone product
 
@@ -343241,7 +344399,7 @@ Workfront Guide
 
 Tips, tricks, and troubleshooting for Workfront Proof account administration
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -348131,6 +349289,16 @@ If your organization wants to take advantage of additional Frame.io functionalit
 
 Workfront Proofing functionality is not available with this integration.
 
+Complete audit trail
+
+Unified review and approval includes comprehensive audit logging that creates a complete governance trail across Workfront and Frame.io. Change tracking logs capture approval decisions made in the Frame.io viewer and document lifecycle. Each log entry includes source system attribution (Workfront or Frame.io) alongside the standard Workfront audit fields: date and time, log type, user name, action, and object name. Frame.io viewer comments are not included in audit logs.
+
+Change tracking logs appear in Workfront’s Setup area and are available for export. For more information, see
+
+View and manage change history
+
+.
+
 Powerful project management in Workfront
 
 Project coordinators can leverage Workfront’s powerful project management capabilities to plan, track, and manage work.
@@ -348406,6 +349574,18 @@ For a full list of supported file types, see the Frame.io supported file types d
 Can I share assets externally with stakeholders who don’t have access to Workfront?
 
 Yes. Assets can be shared externally. External users are notified via email and will be prompted to create a Frame.io login to access the viewer and participate in the review.
+
+Can I attach images to comments on a document in Workfront?
+
+If your organization uses Adobe cloud storage as part of Unified review and approval, you can attach image files directly to comments on a document. Attached images are stored in Adobe cloud storage, and all media type image file formats are supported.
+
+These comments are Workfront-native and are separate from comments in the Frame.io viewer. Images attached to a comment are not accessible in Frame.io, and attaching an image does not add markup to the asset or route it for approval. Non-image file types cannot be attached to a comment.
+
+For more information, see
+
+Update work
+
+.
 
 Storage and file management
 
@@ -354888,6 +356068,10 @@ You can send an update with an image and no text.
 When you delete a comment that contains an image, the image is removed from the Updates section as well as from the Documents area. The image is also deleted from the Documents area when you edit a comment and delete the image.
 
 When someone deletes an image attached to a comment from the Documents area, it is also removed from the comment.
+
+If your organization uses Adobe cloud storage as part of Unified review and approval, your Workfront administrator can enable the same preference to let you attach images to comments. All standard image formats are supported, and attached images are stored in Adobe cloud storage.
+
+Images attached to comments on objects using Adobe cloud storage are not accessible in the Frame.io viewer.
 
 (Optional) To view an image in the existing update do one of the following:
 
@@ -363903,6 +365087,14 @@ CREATED FOR:
 
 User
 
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
 Enhanced lists are available in some areas of Adobe Workfront. These lists use a table format for displaying the list items, and they have a different look and feel than the standard lists. The management of views is also enhanced, including filtering, grouping, managing columns, and searching.
 
 For information about the standard lists, see
@@ -364203,6 +365395,18 @@ NOTE
 
 Some fields might be fixed and cannot be removed.
 
+(Optional) To reorder the columns, hover over a column name in the
+
+Selected
+
+section and click the
+
+Drag
+
+icon
+
+. Move the columns vertically to place them in order.
+
 Click
 
 Save
@@ -364211,11 +365415,13 @@ Save
 
 The list updates the columns according to the choices you made.
 
-Change the row height in a view
+Customize rows
 
 NOTE
 
 Not all enhanced lists have all the elements described in this section.
+
+To change the row height in a view:
 
 Click the
 
@@ -364234,6 +365440,16 @@ Standard. This is the default choice.
 Medium
 
 Tall
+
+To change the order of rows:
+
+Drag and drop rows into your preferred order.
+
+note
+
+NOTE
+
+If you have a sort applied, you cannot change the row order manually.
 
 Update enhanced list elements
 
@@ -366132,6 +367348,116 @@ If the default label options are not available for a certain object, the object 
 Click
 
 Save
+
+.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
+# FILE: use-task-collaborators-adobe-workfront.md
+---
+
+Use Task Collaborators | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Use Task Collaborators
+
+Last update: July 31, 2026
+
+Topics:
+
+Work Management
+
+Tasks
+
+CREATED FOR:
+
+User
+
+The information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
+
+Task Collaborators are AI Collaborators that can be assigned directly to Workfront tasks, in addition to the existing Reviewer-type AI Collaborator used for document and asset reviews. Like other AI Collaborators, Task Collaborators are configured in the Setup area and assigned to tasks just like a user.
+
+Task Collaborators connect to agents that you have configured, much like an MCP server.
+
+For information and instructions about creating a Task Collaborator in Workfront, see
+
+Configure a Task Collaborator
+
+in the article Configure AI Collaborators.
+
+Access requirements
+
+Expand to view access requirements for the functionality in this article.
+
+table 0-row-2 1-row-2 2-row-2 layout-auto html-authored no-header
+
+Adobe Workfront package
+
+Standard, Prime, or Ultimate
+
+Adobe Workfront license
+
+Standard
+
+Access level configurations
+
+System Administrator
+
+For information, see
+
+Access requirements in Workfront documentation
+
+.
+
+Prerequisites
+
+You must configure an agent in Copilot, Claude, or Writer.ai before you can use it as a Task Collaborator.
+
+Task Collaborator overview
+
+Task Collaborators are a way to assign MCP agents to specific tasks in Workfront. You configure the agent in an app such as Copilot Studio, Claude, or Writer.ai, then connect that agent to Workfront as a Task Collaborator. You can then assign it to tasks as you would assign a user.
+
+Some example workflows may include:
+
+Detecting images uploaded to a task, generating variations based on criteria given to the agent, and uploading the new images to the task.
+
+Generating copy from a task description, reviewing the copy against guidelines configured in the agent, and posting copy to the update stream.
+
+Reading details of an event, identifying missing details, and posting questions in the update stream about the missing details.
+
+NOTE
+
+Specific details about an agent’s responsibilities and abilities are configured in the application where the agent is created, not in Workfront.
+
+Task Collaborators currently support agents created in Copilot Studio, Claude, and Writer.ai.
+
+When configuring an agent in Copilot Studio, you must set security to
+
+No authentication
+
+.
+
+For information and instructions about creating a Task Collaborator in Workfront, see
+
+Configure a Task Collaborator
+
+in the article Configure AI Collaborators.
+
+Assign a Task Collaborator to a task
+
+Task Collaborators are assigned to tasks the same way users are assigned.
+
+For instructions, see
+
+Assign tasks
 
 .
 
@@ -374297,9 +375623,13 @@ CREATED FOR:
 
 Admin
 
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
+
 To assign a business profile to a user, you must assign a group and an associated access level.
 
 As a Workfront administrator, you can set a user’s business profile by assigning combinations of access levels and groups. This is managed from the user’s User page in Workfront.
+
+Group administrators can also create, edit, and delete business profiles, but only for groups they administer.
 
 For more information on Business Profiles, see
 
@@ -374324,6 +375654,8 @@ Standard
 Access level configurations
 
 System Administrator
+
+Group Administrator (for groups they administer)
 
 For more detail about the information in this table, see
 
@@ -374370,6 +375702,106 @@ Click
 Save
 
 .
+
+Edit a business profile
+
+Editing a business profile opens the same window used to create one.
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-left corner of Adobe Workfront, then click
+
+Users
+
+.
+
+Select the user whose business profile you want to edit.
+
+In the left navigation of that user’s page, click
+
+Business profiles
+
+.
+
+Click the
+
+More
+
+icon
+
+in the row of the business profile you want to edit, then click
+
+Edit
+
+.
+
+Update the access level, group, or start and end dates as needed.
+
+Click
+
+Save
+
+.
+
+NOTE
+
+Group administrators can only edit business profiles for groups they administer.
+
+style
+
+highlighted
+
+Delete a business profile
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-left corner of Adobe Workfront, then click
+
+Users
+
+.
+
+Select the user whose business profile you want to delete.
+
+In the left navigation of that user’s page, click
+
+Business profiles
+
+.
+
+Click the
+
+More
+
+icon
+
+in the row of the business profile you want to delete, then click
+
+Delete
+
+.
+
+Click
+
+Delete
+
+to confirm.
+
+NOTE
+
+Group administrators can only delete business profiles for groups they administer.
+
+style
+
+highlighted
 
 recommendation-more-help
 
@@ -374909,7 +376341,7 @@ Workfront Guide
 
 View and manage in-app notifications
 
-Last update: June 12, 2026
+Last update: July 29, 2026
 
 Topics:
 
@@ -392997,7 +394429,7 @@ Workfront Guide
 
 Workflow examples
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -403561,37 +404993,7 @@ Related Table
 
 Related Field
 
-`ID`
-
-Varchar
-
-The unique identifier for the field definition. Primary key for this view.
-
-—
-
-—
-
-`RECORDTYPEID`
-
-Varchar
-
-The unique identifier of the record type this field belongs to. Use with RECORDTYPE\_CURRENT to look up record type details.
-
-RECORDTYPE\_CURRENT
-
-ID
-
-`DISPLAYNAME`
-
-Varchar
-
-The display name of the field as shown in the Planning interface.
-
-—
-
-—
-
-`ALIASNAME`
+ALIASNAME
 
 Varchar
 
@@ -403601,167 +405003,7 @@ A URL-safe, lowercase version of the field's display name, used for system-level
 
 —
 
-`DESCRIPTION`
-
-Varchar
-
-A user-provided description of the field's purpose.
-
-—
-
-—
-
-`FIELDTYPE`
-
-Varchar
-
-The data type or field category. Possible values include: `text`, `long-text`, `number`, `percentage`, `currency`, `date`, `boolean`, `single-select`, `multi-select`, `reference`, `lookup`, `formula`, `user`, `created-at`, and `created-by`.
-
-—
-
-—
-
-`HASERROR`
-
-Varchar
-
-Indicates whether the field currently has a configuration or sync error. Values are the strings `true` or `false`. A value of `true` means the field is in an error state and may not be returning data correctly.
-
-—
-
-—
-
-`LINKEDFIELD`
-
-Variant
-
-A JSON object containing the full field definition of the source field that this field is linked to. Present for `reference` and `lookup` field types; includes properties such as `alias`, `displayName`, `fieldType`, and `createdAt`. Null for non-linked fields.
-
-FIELD\_CURRENT
-
-ID
-
-`OPTIONS`
-
-Variant
-
-A JSON array of choice objects for `single-select` and `multi-select` fields. Each choice object contains `color` (a named color label), `displayName` (the label shown in the UI), and `name` (the internal API name). Null for non-select field types.
-
-—
-
-—
-
-`DATEOPTIONS`
-
-Variant
-
-A JSON object containing date-specific display configuration for `date` fields. Includes `dateFormat` (e.g., `locale`) and `timeFormat` (null if time is not shown). Null for non-date field types.
-
-—
-
-—
-
-`FORMULAOPTIONS`
-
-Variant
-
-A JSON object containing formula configuration for `formula` fields. Includes `formula` (the human-readable formula expression), `returnType` (e.g., `PERCENTAGE`, `NUMBER`), `numberOptions` (precision, visualization), and `dateOptions`. Null for non-formula fields.
-
-—
-
-—
-
-`REFERENCEOPTIONS`
-
-Variant
-
-A JSON object containing connection configuration for `reference` fields that link to other Planning record types. Includes `backField` (the definition of the reverse reference field on the connected record type) and `linkedRecordTypeId`. Null for non-reference fields.
-
-—
-
-—
-
-`LOOKUPOPTIONS`
-
-Variant
-
-A JSON object containing lookup configuration for `lookup` fields that pull values from a connected record type. Includes `referenceFieldId` (the ID of the reference field driving the lookup), `rollup` (aggregation method, or null for no rollup), and `sourceField` (an object with the `id` of the field being looked up). Null for non-lookup fields.
-
-—
-
-—
-
-`NUMBEROPTIONS`
-
-Variant
-
-A JSON object containing numeric formatting options for `number`, `percentage`, and `currency` fields. Includes `allowNegatives` (boolean), `currency` (currency code or null), `precision` (decimal places), and `visualizationType` (display style, or null for plain text). Null for non-numeric field types.
-
-—
-
-—
-
-`EXTERNALOPTIONS`
-
-Variant
-
-A JSON object containing configuration for fields connected to external systems outside of Planning. Typically null for natively created fields; populated for fields on externally connected record types.
-
-—
-
-—
-
-`CREATEDAT`
-
-Timestamp\_NTZ
-
-The timestamp (no timezone) of when this field was created.
-
-—
-
-—
-
-`CREATEDBY`
-
-Varchar
-
-The identifier of the user who created this field.
-
-WF.USERS\_CURRENT
-
-EAUTHUSERID
-
-`UPDATEDAT`
-
-Timestamp\_NTZ
-
-The timestamp (no timezone) of when this field was last updated.
-
-—
-
-—
-
-`UPDATEDBY`
-
-Varchar
-
-The identifier of the user who last updated this field.
-
-WF.USERS\_CURRENT
-
-EAUTHUSERID
-
-`USERID`
-
-Varchar
-
-The identifier of the user associated with this field, typically the field owner.
-
-WF.USERS\_CURRENT
-
-EAUTHUSERID
-
-`CREATED`
+CREATED
 
 Number
 
@@ -403771,17 +405013,37 @@ A flag indicating the last operation type that affected this field record. A val
 
 —
 
-`UPDATED`
+CREATEDAT
 
-Number
+Timestamp\_NTZ
 
-A flag indicating the last operation type that affected this field record. A value of 1 indicates the record was updated in the most recent data refresh cycle; 0 indicates it was not. See UPDATEDAT for the actual last-updated timestamp.
+The timestamp (no timezone) of when this field was created.
+
+—
+
+—
+
+CREATEDBY
+
+Varchar
+
+The identifier of the user who created this field.
+
+WF.USERS\_CURRENT
+
+EAUTHUSERID
+
+DATEOPTIONS
+
+Variant
+
+A JSON object containing date-specific display configuration for `date` fields. Includes `dateFormat` (e.g., `locale`) and `timeFormat` (null if time is not shown). Null for non-date field types.
 
 —
 
 —
 
-`DELETED`
+DELETED
 
 Number
 
@@ -403791,27 +405053,87 @@ A flag indicating whether this field has been soft-deleted. A value of 1 indicat
 
 —
 
-`RESTORED`
-
-Number
-
-A flag indicating whether this field was restored after being soft-deleted.
-
-—
-
-—
-
-`TRIGGEREDBYSERVICE`
+DESCRIPTION
 
 Varchar
 
-The name of the service or integration that triggered the last modification to this field record. A value of `Unknown` indicates the originating service could not be determined.
+A user-provided description of the field's purpose.
 
 —
 
 —
 
-`ISFUSION`
+DISPLAYNAME
+
+Varchar
+
+The display name of the field as shown in the Planning interface.
+
+—
+
+—
+
+DL_LOAD_TIMESTAMP
+
+Timestamp\_NTZ
+
+The timestamp of the data refresh job that last loaded this field record into the data lake. Updated after each successful data refresh cycle.
+
+—
+
+—
+
+EXTERNALOPTIONS
+
+Variant
+
+A JSON object containing configuration for fields connected to external systems outside of Planning. Typically null for natively created fields; populated for fields on externally connected record types.
+
+—
+
+—
+
+FIELDTYPE
+
+Varchar
+
+The data type or field category. Possible values include: `text`, `long-text`, `number`, `percentage`, `currency`, `date`, `boolean`, `single-select`, `multi-select`, `reference`, `lookup`, `formula`, `user`, `created-at`, and `created-by`.
+
+—
+
+—
+
+FORMULAOPTIONS
+
+Variant
+
+A JSON object containing formula configuration for `formula` fields. Includes `formula` (the human-readable formula expression), `returnType` (e.g., `PERCENTAGE`, `NUMBER`), `numberOptions` (precision, visualization), and `dateOptions`. Null for non-formula fields.
+
+—
+
+—
+
+HASERROR
+
+Varchar
+
+Indicates whether the field currently has a configuration or sync error. Values are the strings true or false. A value of true means the field is in an error state and may not be returning data correctly.
+
+—
+
+—
+
+ID
+
+Varchar
+
+The unique identifier for the field definition. Primary key for this view.
+
+—
+
+—
+
+ISFUSION
 
 Boolean
 
@@ -403821,15 +405143,11 @@ A flag indicating whether this field was created or managed through a Workfront 
 
 —
 
-`DL_LOAD_TIMESTAMP`
+LINKEDFIELD
 
-Timestamp\_NTZ
+Variant
 
-The timestamp of the data refresh job that last loaded this field record into the data lake. Updated after each successful data refresh cycle.
-
-—
-
-—
+A JSON object containing the full field definition of the source field that this field is linked to. Present for `reference` and `lookup` field types; includes properties such as `alias`, `displayName`, `fieldType`, and `createdAt`. Null for non-linked
 
 PLANNINGRECORD_CURRENT
 
@@ -403845,137 +405163,7 @@ Related Table
 
 Related Field
 
-`RECORDID`
-
-Varchar
-
-The unique identifier for the Planning record. Primary key for this view.
-
-WF.PLANNINGRECORDS\_CURRENT
-
-RECORDID
-
-`WORKSPACEID`
-
-Varchar
-
-The unique identifier for the Planning workspace that contains this record.
-
-WORKSPACE\_CURRENT
-
-ID
-
-`WORKSPACENAME`
-
-Varchar
-
-The display name of the Planning workspace that contains this record.
-
-—
-
-—
-
-`RECORDTYPEID`
-
-Varchar
-
-The unique identifier for the record type (e.g., Campaign, Initiative) that this record belongs to.
-
-RECORDTYPE\_CURRENT
-
-ID
-
-`RECORDTYPENAME`
-
-Varchar
-
-The display name of the record type that this record belongs to.
-
-—
-
-—
-
-`FIELD_IDS`
-
-Variant
-
-A JSON object mapping each field's display name to its field ID (e.g., `{"Status": "F69bc...", "End Date": "F69bc..."}`). Use this to map human-readable field names to the IDs used in FIELDID\_VALUES and FIELDID\_VALUES\_RAW.
-
-—
-
-—
-
-`FIELD_VALUES_RAW`
-
-Variant
-
-A JSON object mapping each field's display name to its raw (unformatted) value. For reference fields, the value is an array of connected record objects; for number and formula fields, it is a plain numeric value; for long-text fields, it is a rich-text content object. Keyed by field display name, matching FIELD\_IDS.
-
-—
-
-—
-
-`FIELD_VALUES`
-
-Variant
-
-A JSON object mapping each field's display name to its display-formatted string value. Keyed by field display name, matching FIELD\_IDS.
-
-—
-
-—
-
-`FIELD_TYPES`
-
-Variant
-
-A JSON object mapping each field's display name to its field type string (e.g., `text`, `number`, `date`, `single-select`, `reference`, `formula`). Keyed by field display name, matching FIELD\_IDS.
-
-—
-
-—
-
-`FIELDID_VALUES`
-
-Variant
-
-A JSON object mapping each field ID to its display-formatted value. For simple field types the value is a string or number; for long-text fields it is an object containing both `content` (plain text) and `contentHTML` (HTML-formatted) properties. Use FIELD\_IDS to look up the display name for each field ID.
-
-—
-
-—
-
-`FIELDID_VALUES_RAW`
-
-Variant
-
-A JSON object mapping each field ID to its raw (unformatted) value. For most field types, values are plain strings, numbers, or epoch millisecond timestamps. Long-text fields return the plain text content as a string. Use FIELD\_IDS to look up the display name for each field ID.
-
-—
-
-—
-
-`FIELDID_FIELDID`
-
-Variant
-
-A JSON object that lists all field IDs present on this record as a self-mapping (each field ID maps to itself). Use this to enumerate which fields are populated on a given record, or to cross-reference with FIELD\_CURRENT.
-
-—
-
-—
-
-`REFERENCE_IDS`
-
-Variant
-
-A JSON object mapping each reference field's display name to the ID of the connection record (e.g., `{"Project": "Ref8b471aa..."}`). Use in conjunction with REFERENCE\_CURRENT to resolve connected external objects for this record.
-
-—
-
-—
-
-`CREATED`
+CREATED
 
 Number
 
@@ -403985,27 +405173,7 @@ A flag indicating the last operation type that affected this record. A value of 
 
 —
 
-`UPDATED`
-
-Number
-
-A flag indicating the last operation type that affected this record. A value of 1 indicates the record was updated in the most recent data refresh cycle; 0 indicates it was not. See UPDATEDAT for the actual last-updated timestamp.
-
-—
-
-—
-
-`DELETED`
-
-Number
-
-A flag indicating whether this record has been soft-deleted. A value of 1 indicates the record is deleted; 0 indicates it is active.
-
-—
-
-—
-
-`CREATEDAT`
+CREATEDAT
 
 Timestamp\_NTZ
 
@@ -404015,7 +405183,7 @@ The timestamp (no timezone) of when this record was created.
 
 —
 
-`CREATEDBY`
+CREATEDBY
 
 Varchar
 
@@ -404025,7 +405193,147 @@ WF.USERS\_CURRENT
 
 EAUTHUSERID
 
-`UPDATEDAT`
+DELETED
+
+Number
+
+A flag indicating whether this record has been soft-deleted. A value of 1 indicates the record is deleted; 0 indicates it is active.
+
+—
+
+—
+
+DL_LOAD_TIMESTAMP
+
+Timestamp\_NTZ
+
+The timestamp of the data refresh job that last loaded this record into the data lake. Updated after each successful data refresh cycle.
+
+—
+
+—
+
+FIELD_IDS
+
+Variant
+
+A JSON object mapping each field's display name to its field ID (e.g., `{"Status": "F69bc...", "End Date": "F69bc..."}`). Use this to map human-readable field names to the IDs used in FIELDID\_VALUES and FIELDID\_VALUES\_RAW.
+
+—
+
+—
+
+FIELD_TYPES
+
+Variant
+
+A JSON object mapping each field's display name to its field type string (e.g., `text`, `number`, `date`, `single-select`, `reference`, `formula`). Keyed by field display name, matching FIELD\_IDS.
+
+—
+
+—
+
+FIELD_VALUES
+
+Variant
+
+A JSON object mapping each field's display name to its display-formatted string value. Keyed by field display name, matching FIELD\_IDS.
+
+—
+
+—
+
+FIELD_VALUES_RAW
+
+Variant
+
+A JSON object mapping each field's display name to its raw (unformatted) value. For reference fields, the value is an array of connected record objects; for number and formula fields, it is a plain numeric value; for long-text fields, it is a rich-text content object. Keyed by field display name, matching FIELD\_IDS.
+
+—
+
+—
+
+FIELDID_FIELDID
+
+Variant
+
+A JSON object that lists all field IDs present on this record as a self-mapping (each field ID maps to itself). Use this to enumerate which fields are populated on a given record, or to cross-reference with FIELD\_CURRENT.
+
+—
+
+—
+
+FIELDID_VALUES
+
+Variant
+
+A JSON object mapping each field ID to its display-formatted value. For simple field types the value is a string or number; for long-text fields it is an object containing both `content` (plain text) and `contentHTML` (HTML-formatted) properties. Use FIELD\_IDS to look up the display name for each field ID.
+
+—
+
+—
+
+FIELDID_VALUES_RAW
+
+Variant
+
+A JSON object mapping each field ID to its raw (unformatted) value. For most field types, values are plain strings, numbers, or epoch millisecond timestamps. Long-text fields return the plain text content as a string. Use FIELD\_IDS to look up the display name for each field ID.
+
+—
+
+—
+
+RECORDID
+
+Varchar
+
+The unique identifier for the Planning record. Primary key for this view.
+
+WF.PLANNINGRECORDS\_CURRENT
+
+RECORDID
+
+RECORDTYPEID
+
+Varchar
+
+The unique identifier for the record type (e.g., Campaign, Initiative) that this record belongs to.
+
+RECORDTYPE\_CURRENT
+
+ID
+
+RECORDTYPENAME
+
+Varchar
+
+The display name of the record type that this record belongs to.
+
+—
+
+—
+
+REFERENCE_IDS
+
+Variant
+
+A JSON object mapping each reference field's display name to the ID of the connection record (e.g., `{"Project": "Ref8b471aa..."}`). Use in conjunction with REFERENCE\_CURRENT to resolve connected external objects for this record.
+
+—
+
+—
+
+UPDATED
+
+Number
+
+A flag indicating the last operation type that affected this record. A value of 1 indicates the record was updated in the most recent data refresh cycle; 0 indicates it was not. See UPDATEDAT for the actual last-updated timestamp.
+
+—
+
+—
+
+UPDATEDAT
 
 Timestamp\_NTZ
 
@@ -404035,7 +405343,7 @@ The timestamp (no timezone) of when this record was last updated.
 
 —
 
-`UPDATEDBY`
+UPDATEDBY
 
 Varchar
 
@@ -404045,11 +405353,21 @@ WF.USERS\_CURRENT
 
 EAUTHUSERID
 
-`DL_LOAD_TIMESTAMP`
+WORKSPACEID
 
-Timestamp\_NTZ
+Varchar
 
-The timestamp of the data refresh job that last loaded this record into the data lake. Updated after each successful data refresh cycle.
+The unique identifier for the Planning workspace that contains this record.
+
+WORKSPACE\_CURRENT
+
+ID
+
+WORKSPACENAME
+
+Varchar
+
+The display name of the Planning workspace that contains this record.
 
 —
 
@@ -404069,237 +405387,7 @@ Related Table
 
 Related Field
 
-`ID`
-
-Varchar
-
-The unique identifier for the record type. Primary key for this view.
-
-—
-
-—
-
-`CREATED`
-
-Number
-
-A flag indicating the last operation type that affected this record type. A value of 1 indicates the record type was created in the most recent data refresh cycle; 0 indicates it was not. See CREATEDAT for the actual creation timestamp.
-
-—
-
-—
-
-`UPDATED`
-
-Number
-
-A flag indicating the last operation type that affected this record type. A value of 1 indicates the record type was updated in the most recent data refresh cycle; 0 indicates it was not. See UPDATEDAT for the actual last-updated timestamp.
-
-—
-
-—
-
-`DELETED`
-
-Number
-
-A flag indicating whether this record type has been soft-deleted. A value of 1 indicates deleted; 0 indicates active.
-
-—
-
-—
-
-`DL_LOAD_TIMESTAMP`
-
-Timestamp\_NTZ
-
-The timestamp of the data refresh job that last loaded this record type into the data lake. Updated after each successful data refresh cycle.
-
-—
-
-—
-
-`CREATEDBY`
-
-Varchar
-
-The identifier of the user who created this record type.
-
-WF.USERS\_CURRENT
-
-EAUTHUSERID
-
-`CREATEDAT`
-
-Timestamp\_NTZ
-
-The timestamp (no timezone) of when this record type was created.
-
-—
-
-—
-
-`UPDATEDBY`
-
-Varchar
-
-The identifier of the user who last updated this record type.
-
-WF.USERS\_CURRENT
-
-EAUTHUSERID
-
-`UPDATEDAT`
-
-Timestamp\_NTZ
-
-The timestamp (no timezone) of when this record type was last updated.
-
-—
-
-—
-
-`USERID`
-
-Varchar
-
-The identifier of the user associated with this record type, typically the owner.
-
-WF.USERS\_CURRENT
-
-EAUTHUSERID
-
-`WORKSPACEID`
-
-Varchar
-
-The unique identifier of the workspace this record type belongs to. Use with WORKSPACE\_CURRENT to look up workspace details.
-
-WORKSPACE\_CURRENT
-
-ID
-
-`DISPLAYNAME`
-
-Varchar
-
-The display name of the record type as shown in the Planning interface (e.g., "Campaign", "Initiative").
-
-—
-
-—
-
-`DESCRIPTION`
-
-Varchar
-
-A user-provided description of the record type's purpose.
-
-—
-
-—
-
-`COLOR`
-
-Varchar
-
-A named color label associated with this record type in the Planning interface (e.g., `blue`, `green`, `purple`, `magenta`, `chartreuse`, `dark-gray`). Not a hex code.
-
-—
-
-—
-
-`PERMISSION`
-
-Varchar
-
-The permission level configured for access to this record type (e.g., `VIEW`, `CONTRIBUTE`, `MANAGE`). May be empty if no custom permission is set.
-
-—
-
-—
-
-`PRIMARYFIELDID`
-
-Varchar
-
-The identifier of the field designated as the primary (title) field for this record type. Foreign key to FIELD\_CURRENT.ID.
-
-FIELD\_CURRENT
-
-ID
-
-`ISTAXONOMY`
-
-Varchar
-
-Indicates whether this record type is classified as a taxonomy type, used to organize and categorize other records. A value of `true` indicates a taxonomy type. May be empty for non-taxonomy record types.
-
-—
-
-—
-
-`PERMISSION`
-
-Varchar
-
-The permission level configured for access to this record type (e.g., `VIEW`, `CONTRIBUTE`, `MANAGE`). May be empty if no custom permission is set.
-
-—
-
-—
-
-`PRIMARYFIELDID`
-
-Varchar
-
-The identifier of the field designated as the primary (title) field for this record type. Foreign key to FIELD\_CURRENT.ID.
-
-FIELD\_CURRENT
-
-ID
-
-`ISTAXONOMY`
-
-Varchar
-
-Indicates whether this record type is classified as a taxonomy type, used to organize and categorize other records. A value of `true` indicates a taxonomy type. May be empty for non-taxonomy record types.
-
-—
-
-—
-
-`ISEXTERNAL`
-
-Boolean
-
-A flag indicating whether this record type represents an externally connected object type rather than a native Planning record.
-
-—
-
-—
-
-`EXTERNALOPTIONS`
-
-Variant
-
-A JSON object containing configuration details for record types connected to external systems. Includes `connectionName` (e.g., `workfront`), `objectName` (the Workfront API object code, e.g., `PROJ`), and `fields` (a map of standard field aliases to Planning field IDs for the synced fields). Null for natively created record types.
-
-—
-
-—
-
-`RESTORED`
-
-Number
-
-A flag indicating whether this record type was restored after being soft-deleted.
-
-—
-
-—
-
-`ALIAS`
+ALIAS
 
 Varchar
 
@@ -404309,137 +405397,27 @@ An internal alias for the record type, used for system-level identification and 
 
 —
 
-`TRIGGEREDBYSERVICE`
+COLOR
 
 Varchar
 
-The name of the service or integration that triggered the last modification to this record type. A value of `Unknown` indicates the originating service could not be determined.
+A named color label associated with this record type in the Planning interface (e.g., `blue`, `green`, `purple`, `magenta`, `chartreuse`, `dark-gray`). Not a hex code.
 
 —
 
 —
 
-`ISFUSION`
+CREATED
 
-Boolean
+Number
 
-A flag indicating whether this record type was created or managed through a Workfront Fusion integration. A value of `true` indicates Fusion management; `false` or an empty value indicates it is a natively created record type.
-
-—
-
-—
-
-`CREATEDAT`
-
-Timestamp\_NTZ
-
-The timestamp (no timezone) of when this record type was created.
+A flag indicating the last operation type that affected this record type. A value of 1 indicates the record type was created in the most recent data refresh cycle; 0 indicates it was not. See CREATEDAT for the actual creation timestamp.
 
 —
 
 —
 
-`CREATEDBY`
-
-Varchar
-
-The identifier of the user who created this record type.
-
-WF.USERS\_CURRENT
-
-EAUTHUSERID
-
-`UPDATEDAT`
-
-Timestamp\_NTZ
-
-The timestamp (no timezone) of when this record type was last updated.
-
-—
-
-—
-
-`UPDATEDBY`
-
-Varchar
-
-The identifier of the user who last updated this record type.
-
-WF.USERS\_CURRENT
-
-EAUTHUSERID
-
-`USERID`
-
-Varchar
-
-The identifier of the user associated with this record type, typically the owner.
-
-WF.USERS\_CURRENT
-
-EAUTHUSERID
-
-`TO_RECORDID`
-
-Varchar
-
-The unique identifier of the Planning record that owns this reference connection. Foreign key to PLANNINGRECORD\_CURRENT.RECORDID.
-
-PLANNINGRECORD\_CURRENT
-
-RECORDID
-
-`TO_EXTERNALID`
-
-Varchar
-
-The unique identifier of the external object being referenced (e.g., a Workfront project ID, task ID, or other connected object ID).
-
-—
-
-—
-
-`TO_EXTERNALCONNECTIONNAME`
-
-Varchar
-
-The name of the external connection through which the referenced object is connected (e.g., the name of the Workfront connection configured in Planning).
-
-—
-
-—
-
-`TO_EXTERNALOBJECTNAME`
-
-Varchar
-
-The Workfront API object code for the type of external object being referenced (e.g., `PROJ` for Project, `TASK` for Task, `PORT` for Portfolio). Use this to determine which Workfront table to join when looking up the referenced object.
-
-—
-
-—
-
-`RECORDTYPEID`
-
-Varchar
-
-The unique identifier of the Planning record type associated with the record that owns this reference. Foreign key to PLANNINGRECORD\_CURRENT.RECORDTYPEID.
-
-RECORDTYPE\_CURRENT
-
-ID
-
-`REFERENCEVALUE`
-
-Varchar
-
-The display name of the referenced external object as of the last data refresh (e.g., a Workfront project name like "Beta" or "Canvas Dashboards Project"). This value reflects the object's name at refresh time and may become stale if the object is renamed.
-
-—
-
-—
-
-`CREATED`
+CREATED
 
 Number
 
@@ -404449,17 +405427,57 @@ A flag indicating the last operation type that affected this reference record. A
 
 —
 
-`UPDATED`
+CREATEDAT
+
+Timestamp\_NTZ
+
+The timestamp (no timezone) of when this record type was created.
+
+—
+
+—
+
+CREATEDAT
+
+Timestamp\_NTZ
+
+The timestamp (no timezone) of when this record type was created.
+
+—
+
+—
+
+CREATEDBY
+
+Varchar
+
+The identifier of the user who created this record type.
+
+WF.USERS\_CURRENT
+
+EAUTHUSERID
+
+CREATEDBY
+
+Varchar
+
+The identifier of the user who created this record type.
+
+WF.USERS\_CURRENT
+
+EAUTHUSERID
+
+DELETED
 
 Number
 
-A flag indicating the last operation type that affected this reference record. A value of 1 indicates the reference was updated in the most recent data refresh cycle; 0 indicates it was not.
+A flag indicating whether this record type has been soft-deleted. A value of 1 indicates deleted; 0 indicates active.
 
 —
 
 —
 
-`DELETED`
+DELETED
 
 Number
 
@@ -404469,7 +405487,37 @@ A flag indicating whether this reference connection has been soft-deleted. A val
 
 —
 
-`DL_LOAD_TIMESTAMP`
+DESCRIPTION
+
+Varchar
+
+A user-provided description of the record type's purpose.
+
+—
+
+—
+
+DISPLAYNAME
+
+Varchar
+
+The display name of the record type as shown in the Planning interface (e.g., "Campaign", "Initiative").
+
+—
+
+—
+
+DL_LOAD_TIMESTAMP
+
+Timestamp\_NTZ
+
+The timestamp of the data refresh job that last loaded this record type into the data lake. Updated after each successful data refresh cycle.
+
+—
+
+—
+
+DL_LOAD_TIMESTAMP
 
 Timestamp\_NTZ
 
@@ -404478,6 +405526,276 @@ The timestamp of the data refresh job that last loaded this reference record int
 —
 
 —
+
+EXTERNALOPTIONS
+
+Variant
+
+A JSON object containing configuration details for record types connected to external systems. Includes `connectionName` (e.g., `workfront`), `objectName` (the Workfront API object code, e.g., `PROJ`), and `fields` (a map of standard field aliases to Planning field IDs for the synced fields). Null for natively created record types.
+
+—
+
+—
+
+ID
+
+Varchar
+
+The unique identifier for the record type. Primary key for this view.
+
+—
+
+—
+
+ISEXTERNAL
+
+Boolean
+
+A flag indicating whether this record type represents an externally connected object type rather than a native Planning record.
+
+—
+
+—
+
+ISFUSION
+
+Boolean
+
+A flag indicating whether this record type was created or managed through a Workfront Fusion integration. A value of `true` indicates Fusion management; `false` or an empty value indicates it is a natively created record type.
+
+—
+
+—
+
+ISTAXONOMY
+
+Varchar
+
+Indicates whether this record type is classified as a taxonomy type, used to organize and categorize other records. A value of `true` indicates a taxonomy type. May be empty for non-taxonomy record types.
+
+—
+
+—
+
+ISTAXONOMY
+
+Varchar
+
+Indicates whether this record type is classified as a taxonomy type, used to organize and categorize other records. A value of `true` indicates a taxonomy type. May be empty for non-taxonomy record types.
+
+—
+
+—
+
+PERMISSION
+
+Varchar
+
+The permission level configured for access to this record type (e.g., `VIEW`, `CONTRIBUTE`, `MANAGE`). May be empty if no custom permission is set.
+
+—
+
+—
+
+PERMISSION
+
+Varchar
+
+The permission level configured for access to this record type (e.g., `VIEW`, `CONTRIBUTE`, `MANAGE`). May be empty if no custom permission is set.
+
+—
+
+—
+
+PRIMARYFIELDID
+
+Varchar
+
+The identifier of the field designated as the primary (title) field for this record type. Foreign key to FIELD\_CURRENT.ID.
+
+FIELD\_CURRENT
+
+ID
+
+PRIMARYFIELDID
+
+Varchar
+
+The identifier of the field designated as the primary (title) field for this record type. Foreign key to FIELD\_CURRENT.ID.
+
+FIELD\_CURRENT
+
+ID
+
+RECORDTYPEID
+
+Varchar
+
+The unique identifier of the Planning record type associated with the record that owns this reference. Foreign key to PLANNINGRECORD\_CURRENT.RECORDTYPEID.
+
+RECORDTYPE\_CURRENT
+
+ID
+
+REFERENCEVALUE
+
+Varchar
+
+The display name of the referenced external object as of the last data refresh (e.g., a Workfront project name like "Beta" or "Canvas Dashboards Project"). This value reflects the object's name at refresh time and may become stale if the object is renamed.
+
+—
+
+—
+
+RESTORED
+
+Number
+
+A flag indicating whether this record type was restored after being soft-deleted.
+
+—
+
+—
+
+TO_EXTERNALCONNECTIONNAME
+
+Varchar
+
+The name of the external connection through which the referenced object is connected (e.g., the name of the Workfront connection configured in Planning).
+
+—
+
+—
+
+TO_EXTERNALID
+
+Varchar
+
+The unique identifier of the external object being referenced (e.g., a Workfront project ID, task ID, or other connected object ID).
+
+—
+
+—
+
+TO_EXTERNALOBJECTNAME
+
+Varchar
+
+The Workfront API object code for the type of external object being referenced (e.g., `PROJ` for Project, `TASK` for Task, `PORT` for Portfolio). Use this to determine which Workfront table to join when looking up the referenced object.
+
+—
+
+—
+
+TO_RECORDID
+
+Varchar
+
+The unique identifier of the Planning record that owns this reference connection. Foreign key to PLANNINGRECORD\_CURRENT.RECORDID.
+
+PLANNINGRECORD\_CURRENT
+
+RECORDID
+
+TRIGGEREDBYSERVICE
+
+Varchar
+
+The name of the service or integration that triggered the last modification to this record type. A value of `Unknown` indicates the originating service could not be determined.
+
+—
+
+—
+
+UPDATED
+
+Number
+
+A flag indicating the last operation type that affected this record type. A value of 1 indicates the record type was updated in the most recent data refresh cycle; 0 indicates it was not. See UPDATEDAT for the actual last-updated timestamp.
+
+—
+
+—
+
+UPDATED
+
+Number
+
+A flag indicating the last operation type that affected this reference record. A value of 1 indicates the reference was updated in the most recent data refresh cycle; 0 indicates it was not.
+
+—
+
+—
+
+UPDATEDAT
+
+Timestamp\_NTZ
+
+The timestamp (no timezone) of when this record type was last updated.
+
+—
+
+—
+
+UPDATEDAT
+
+Timestamp\_NTZ
+
+The timestamp (no timezone) of when this record type was last updated.
+
+—
+
+—
+
+UPDATEDBY
+
+Varchar
+
+The identifier of the user who last updated this record type.
+
+WF.USERS\_CURRENT
+
+EAUTHUSERID
+
+UPDATEDBY
+
+Varchar
+
+The identifier of the user who last updated this record type.
+
+WF.USERS\_CURRENT
+
+EAUTHUSERID
+
+USERID
+
+Varchar
+
+The identifier of the user associated with this record type, typically the owner.
+
+WF.USERS\_CURRENT
+
+EAUTHUSERID
+
+USERID
+
+Varchar
+
+The identifier of the user associated with this record type, typically the owner.
+
+WF.USERS\_CURRENT
+
+EAUTHUSERID
+
+WORKSPACEID
+
+Varchar
+
+The unique identifier of the workspace this record type belongs to. Use with WORKSPACE\_CURRENT to look up workspace details.
+
+WORKSPACE\_CURRENT
+
+ID
 
 WORKSPACE_CURRENT
 
@@ -404493,17 +405811,7 @@ Related Table
 
 Related Field
 
-`ID`
-
-Varchar
-
-The unique identifier for the Planning workspace. Primary key for this view.
-
-WF.WORKSPACES\_CURRENT
-
-ID
-
-`CREATED`
+CREATED
 
 Number
 
@@ -404513,47 +405821,7 @@ A flag indicating the last operation type that affected this workspace record. A
 
 —
 
-`UPDATED`
-
-Number
-
-A flag indicating the last operation type that affected this workspace record. A value of 1 indicates the workspace was updated in the most recent data refresh cycle; 0 indicates it was not. See UPDATEDAT for the actual last-updated timestamp.
-
-—
-
-—
-
-`DELETED`
-
-Number
-
-A flag indicating whether this workspace has been soft-deleted. A value of 1 indicates deleted; 0 indicates active.
-
-—
-
-—
-
-`DL_LOAD_TIMESTAMP`
-
-Timestamp\_NTZ
-
-The timestamp of the data refresh job that last loaded this workspace record into the data lake. Updated after each successful data refresh cycle.
-
-—
-
-—
-
-`CREATEDBY`
-
-Varchar
-
-The identifier of the user who created this workspace.
-
-WF.USERS\_CURRENT
-
-EAUTHUSERID
-
-`CREATEDAT`
+CREATEDAT
 
 Timestamp\_NTZ
 
@@ -404563,37 +405831,57 @@ The timestamp (no timezone) of when this workspace was created.
 
 —
 
-`UPDATEDBY`
+CREATEDBY
 
 Varchar
 
-The identifier of the user who last updated this workspace.
+The identifier of the user who created this workspace.
 
 WF.USERS\_CURRENT
 
 EAUTHUSERID
 
-`UPDATEDAT`
+DELETED
+
+Number
+
+A flag indicating whether this workspace has been soft-deleted. A value of 1 indicates deleted; 0 indicates active.
+
+—
+
+—
+
+DL_LOAD_TIMESTAMP
 
 Timestamp\_NTZ
 
-The timestamp (no timezone) of when this workspace was last updated.
+The timestamp of the data refresh job that last loaded this workspace record into the data lake. Updated after each successful data refresh cycle.
 
 —
 
 —
 
-`USERID`
+ID
 
 Varchar
 
-The identifier of the user associated with this workspace, typically the workspace owner.
+The unique identifier for the Planning workspace. Primary key for this view.
 
-WF.USERS\_CURRENT
+WF.WORKSPACES\_CURRENT
 
-EAUTHUSERID
+ID
 
-`NAME`
+ISFUSION
+
+Boolean
+
+A flag indicating whether this workspace was created or managed through a Workfront Fusion integration. A value of `true` indicates Fusion management; `false` or an empty value indicates it is a natively created workspace.
+
+—
+
+—
+
+NAME
 
 Varchar
 
@@ -404603,7 +405891,7 @@ The display name of the workspace as shown in the Planning interface.
 
 —
 
-`PARENTID`
+PARENTID
 
 Varchar
 
@@ -404613,7 +405901,7 @@ WORKSPACE\_CURRENT
 
 ID
 
-`RESTORED`
+RESTORED
 
 Number
 
@@ -404623,7 +405911,7 @@ A flag indicating whether this workspace was restored after being soft-deleted.
 
 —
 
-`TRIGGEREDBYSERVICE`
+TRIGGEREDBYSERVICE
 
 Varchar
 
@@ -404633,15 +405921,45 @@ The name of the service or integration that triggered the last modification to t
 
 —
 
-`ISFUSION`
+UPDATED
 
-Boolean
+Number
 
-A flag indicating whether this workspace was created or managed through a Workfront Fusion integration. A value of `true` indicates Fusion management; `false` or an empty value indicates it is a natively created workspace.
+A flag indicating the last operation type that affected this workspace record. A value of 1 indicates the workspace was updated in the most recent data refresh cycle; 0 indicates it was not. See UPDATEDAT for the actual last-updated timestamp.
+
+—
+
+—
+
+UPDATEDAT
+
+Timestamp\_NTZ
+
+The timestamp (no timezone) of when this workspace was last updated.
 
 —
 
 —
+
+UPDATEDBY
+
+Varchar
+
+The identifier of the user who last updated this workspace.
+
+WF.USERS\_CURRENT
+
+EAUTHUSERID
+
+USERID
+
+Varchar
+
+The identifier of the user associated with this workspace, typically the workspace owner.
+
+WF.USERS\_CURRENT
+
+EAUTHUSERID
 
 recommendation-more-help
 
@@ -405029,7 +406347,7 @@ Workfront Guide
 
 Workfront Proof account administration
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -405079,7 +406397,7 @@ Workfront Guide
 
 Workfront Proof API
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -405177,7 +406495,7 @@ Workfront Guide
 
 Workfront Proof Billing Settings
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -405379,7 +406697,7 @@ Workfront Guide
 
 Workfront Proof SPF records
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -405889,7 +407207,7 @@ Workfront Guide
 
 Working with Designers and Project Managers in Workfront Proof
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 
@@ -406013,7 +407331,7 @@ Workfront Guide
 
 Working with Freelancers in Workfront Proof
 
-Last update: June 12, 2026
+Last update: July 27, 2026
 
 Topics:
 

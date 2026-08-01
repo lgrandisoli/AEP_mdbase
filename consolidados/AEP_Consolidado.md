@@ -8,7 +8,7 @@ title: "Accelerated queries endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/accelerated-queries"
 category: "reference"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-07-22T12:22:32.148569+00:00"
+created_at: "2026-08-01T09:30:02.509542+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -255,7 +255,7 @@ title: "Access Control API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/api/getting-started"
 category: "reference"
 topic: "experience-platform/access-control-guide"
-created_at: "2026-07-22T12:20:41.085921+00:00"
+created_at: "2026-08-01T09:26:44.415095+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Access Control Guide
 
@@ -320,7 +320,7 @@ title: "Access control overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/home"
 category: "overview"
 topic: "experience-platform/access-control-guide"
-created_at: "2026-07-22T12:14:37.748172+00:00"
+created_at: "2026-08-01T09:18:46.367746+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Access Control Guide
 
@@ -1122,7 +1122,7 @@ title: "Access control troubleshooting guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/troubleshooting-guide"
 category: "guides"
 topic: "experience-platform/access-control-guide"
-created_at: "2026-07-22T12:18:31.929150+00:00"
+created_at: "2026-08-01T09:24:20.867079+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Access Control Guide
 
@@ -1172,7 +1172,7 @@ title: "Access control UI overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/ui/overview"
 category: "overview"
 topic: "experience-platform/access-control-guide"
-created_at: "2026-07-22T12:15:40.507923+00:00"
+created_at: "2026-08-01T09:19:41.120686+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Access Control Guide
 
@@ -1202,46 +1202,6 @@ recommendation-more-help
 
 
 ---
-# FILE: accessibility-in-adobe-experience-platform.md
----
-
----
-title: "Accessibility in Adobe Experience Platform"
-url: "https://experienceleague.adobe.com/en/docs/experience-platform/accessibility/home"
-category: "overview"
-topic: "experience-platform/adobe-experience-platform-accessibility"
-created_at: "2026-07-22T12:14:51.133898+00:00"
----
-Breadcrumbs: Documentation > Experience Platform > Adobe Experience Platform Accessibility
-
-# Accessibility in Adobe Experience Platform
-
-Last update: May 13, 2026
-CREATED FOR:
-
-- Developer
-- User
-- Admin
-- Leader
-
-Accessibility refers to a series of features that make a software product usable, with as little effort as possible, for users with visual, auditory, cognitive, motor, or other kinds of disabilities. Adobe is an industry leader in accessibility and supports the creation of outstanding web experiences by encouraging developers to produce rich, engaging content that is accessible to all users. For more details about Adobe’s commitment to accessibility, see [Adobe Accessibility](https://www.adobe.com/accessibility.html).
-
-Adobe Experience Platform is committed to providing accessible and inclusive features to all individuals, including users working with assistive devices such as speech recognition software and screen readers. Experience Platform is continuously enhanced to meet the needs of all types of users and adheres to worldwide standards that include individuals with visual, auditory, mobility, or other impairments.
-
-Other accessibility features supported by Experience Platform include keyboard navigation, semantic structure, sufficient contrast between foreground elements and background elements, assistive technology support, and clear element labels.
-
-To learn more about the general accessibility features supported by Experience Platform, visit the [accessibility features guide](/en/docs/experience-platform/accessibility/features).
-
-For information regarding custom accessibility features in specific sections of the Experience Platform user interface, please visit the [custom accessibility solutions for Experience Platform guide](/en/docs/experience-platform/accessibility/custom).
-
-To help meet the goal of accessibility conformance, Experience Platform follows the internationally recognized best practices in the Web Content Accessibility Guidelines (WCAG) 2.1 Level A and Level AA. For more detailed information about recent accessibility improvements to Experience Platform, review the latest [Experience Platform release notes](/en/docs/experience-platform/release-notes/latest).
-
-To read detailed reports of how Adobe applications meet each level of compliance, refer to the [accessibility conformance report](https://www.adobe.com/accessibility/compliance.html) (ACR) documentation.
-
-recommendation-more-help
-
-
----
 # FILE: account-profile-ui-guide.md
 ---
 
@@ -1250,7 +1210,7 @@ title: "Account profile UI guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/account/account-profile-ui-guide"
 category: "guides"
 topic: "experience-platform/real-time-customer-data-platform-guide"
-created_at: "2026-07-22T12:17:50.674793+00:00"
+created_at: "2026-08-01T09:23:15.132650+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Data Platform Guide
 
@@ -1390,7 +1350,7 @@ title: "Account Profiles dashboard"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/account-profiles"
 category: "guides"
 topic: "experience-platform/dashboards-guide"
-created_at: "2026-07-22T12:23:57.598472+00:00"
+created_at: "2026-08-01T09:34:27.003379+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dashboards Guide
 
@@ -1585,7 +1545,7 @@ title: "Activate audiences on-demand to batch destinations via the ad-hoc activa
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/ad-hoc-activation-api"
 category: "reference"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:15:43.351084+00:00"
+created_at: "2026-08-01T09:19:44.668183+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -1881,7 +1841,7 @@ title: "Activate audiences to file-based destinations by using the Flow Service 
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/activate-segments-file-based-destinations"
 category: "reference"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:19:27.625746+00:00"
+created_at: "2026-08-01T09:24:53.511305+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -3144,7 +3104,7 @@ title: "Ad-hoc schemas"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/ad-hoc"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:20:44.314832+00:00"
+created_at: "2026-08-01T09:26:59.221325+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -3172,7 +3132,7 @@ title: "Add data to Real-Time Customer Profile"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/tutorials/add-profile-data"
 category: "tutorials"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-07-22T12:17:19.454972+00:00"
+created_at: "2026-08-01T09:22:25.616577+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -3228,7 +3188,7 @@ title: "Adobe AI Machine Learning API guide appendix"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/appendix"
 category: "reference"
 topic: "experience-platform/data-science-workspace-guide"
-created_at: "2026-07-22T12:26:08.520480+00:00"
+created_at: "2026-08-01T09:36:38.874983+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Science Workspace Guide
 
@@ -3402,7 +3362,7 @@ title: "Adobe AI Machine Learning API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/getting-started"
 category: "reference"
 topic: "experience-platform/data-science-workspace-guide"
-created_at: "2026-07-22T12:20:43.234652+00:00"
+created_at: "2026-08-01T09:26:50.172327+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Science Workspace Guide
 
@@ -3465,7 +3425,7 @@ title: "Adobe Analytics extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/analytics/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:26:46.271165+00:00"
+created_at: "2026-08-01T09:37:41.411734+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -3872,7 +3832,7 @@ title: "Adobe Analytics Product String extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/product-string/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:27:18.566663+00:00"
+created_at: "2026-08-01T09:39:58.458824+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -3967,7 +3927,7 @@ title: "Adobe Audience Manager extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/audience-manager/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:26:49.601500+00:00"
+created_at: "2026-08-01T09:37:44.274081+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -4061,7 +4021,7 @@ title: "Adobe Client Data Layer extension"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/client-data-layer/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:20:49.408603+00:00"
+created_at: "2026-08-01T09:27:08.579690+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -4195,7 +4155,7 @@ title: "Adobe ContextHub extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/contexthub/overview"
 category: "overview"
 topic: "tags/extensions/client"
-created_at: "2026-07-22T12:27:19.271945+00:00"
+created_at: "2026-08-01T09:39:59.287687+00:00"
 ---
 Breadcrumbs: Documentation > Tags
 
@@ -4241,7 +4201,7 @@ title: "Adobe destinations overview adobe-destinations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/adobe/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:17:31.457007+00:00"
+created_at: "2026-08-01T09:22:45.118964+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -4307,7 +4267,7 @@ title: "Adobe Experience Cloud ID Service extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/id-service/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:19:22.539711+00:00"
+created_at: "2026-08-01T09:25:46.144554+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -4423,7 +4383,7 @@ title: "Adobe Experience Platform Assurance"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/assurance/home"
 category: "overview"
 topic: "experience-platform/assurance-guide"
-created_at: "2026-07-22T12:14:54.935741+00:00"
+created_at: "2026-08-01T09:39:09.318278+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Assurance Guide
 
@@ -4527,7 +4487,7 @@ title: "Adobe Experience Platform Debugger overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/debugger/home"
 category: "overview"
 topic: "experience-platform/adobe-experience-platform-debugger-guide"
-created_at: "2026-07-22T12:14:55.480446+00:00"
+created_at: "2026-08-01T09:40:59.312635+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Adobe Experience Platform Debugger Guide
 
@@ -4578,7 +4538,7 @@ title: "Adobe Experience Platform Demo Extension"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/platform-demo/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:27:20.013635+00:00"
+created_at: "2026-08-01T09:40:00.041025+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -4700,7 +4660,7 @@ title: "Adobe Experience Platform Destination SDK"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:14:45.525248+00:00"
+created_at: "2026-08-01T09:18:58.614178+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -4857,7 +4817,7 @@ title: "Adobe Experience Platform end-to-end example workflow"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/getting-started/end-to-end-tutorial"
 category: "tutorials"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-07-22T12:14:26.516488+00:00"
+created_at: "2026-08-01T09:18:27.810159+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -4969,7 +4929,7 @@ title: "Adobe Experience Platform Identity Service"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/home"
 category: "overview"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-07-22T12:14:32.691260+00:00"
+created_at: "2026-08-01T09:18:38.176537+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -5117,7 +5077,7 @@ https://video.tv.adobe.com/vc/27841/eng.json
 Identity Service plays a vital role within Experience Platform. Some of these key integrations include the following:
 
 - [Schemas](/en/docs/experience-platform/xdm/home): Within a given schema, the schema fields that are marked as identity allow for identity graphs to be built.
-- [Datasets](/en/docs/experience-platform/catalog/datasets/overview): When a dataset is enabled for ingestion into Real-Time Customer Profile, identity graphs are generated from the dataset, given that the dataset as at least two fields marked as identity.
+- [Datasets](/en/docs/experience-platform/catalog/datasets/overview): When a dataset is enabled for ingestion into Real-Time Customer Profile, identity graphs are generated from the dataset, given that the dataset has at least two fields marked as identity.
 - [Data collection](/en/docs/experience-platform/collection/home): Data collection libraries (such as the Web SDK) send experience events to Adobe Experience Platform. The Identity Service generates a graph when two or more identities exist in the event.
 - [Real-Time Customer Profile](/en/docs/experience-platform/profile/home): Before attributes and events for a given profile are merged, Real-Time Customer Profile could reference the identity graph. For more information, read the guide on [understanding the relationship between Identity Service and Real-Time Customer Profile](/en/docs/experience-platform/identity/identity-and-profile).
 - [Destinations](/en/docs/experience-platform/destinations/home): Destinations can send profile information to other systems based on an identity namespace, such as hashed email.
@@ -5136,7 +5096,7 @@ title: "Adobe Experience Platform overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/home"
 category: "overview"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-07-22T12:04:16.615398+00:00"
+created_at: "2026-08-01T09:06:13.933798+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -5211,7 +5171,7 @@ title: "Adobe Experience Platform UI guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/platform-ui/ui-guide"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-07-22T12:14:25.961402+00:00"
+created_at: "2026-08-01T09:18:26.912346+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -5381,7 +5341,7 @@ title: "Adobe Experience Platform Web SDK tag extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:16:11.091310+00:00"
+created_at: "2026-08-01T09:20:36.365969+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -5415,7 +5375,7 @@ title: "Adobe Media Analytics (3.x SDK) for Audio and Video extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/media-analytics-3x/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:27:21.587890+00:00"
+created_at: "2026-08-01T09:40:01.694739+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -5517,7 +5477,7 @@ title: "Adobe Media Analytics for Audio and Video extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/media-analytics/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:26:47.035287+00:00"
+created_at: "2026-08-01T09:37:42.221151+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -5620,7 +5580,7 @@ title: "Adobe Privacy extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/privacy/overview"
 category: "guides"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:26:45.467012+00:00"
+created_at: "2026-08-01T09:37:40.640088+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -5726,7 +5686,7 @@ title: "Adobe Privacy JavaScript Library overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/js-library"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-07-22T12:23:03.339079+00:00"
+created_at: "2026-08-01T09:32:52.793586+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -5986,7 +5946,7 @@ title: "Adobe Real-Time CDP Documentation rtcdp-documentation"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/home"
 category: "overview"
 topic: "experience-platform/real-time-customer-data-platform-guide"
-created_at: "2026-07-22T12:04:16.063332+00:00"
+created_at: "2026-08-01T09:06:13.383738+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Data Platform Guide
 
@@ -6188,7 +6148,7 @@ title: "Adobe Target extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/target/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:26:47.729272+00:00"
+created_at: "2026-08-01T09:37:42.983442+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -6391,7 +6351,7 @@ title: "Adobe Target v2 extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/target-v2/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:26:48.904970+00:00"
+created_at: "2026-08-01T09:37:43.737491+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -6587,7 +6547,7 @@ title: "Advanced Data Lifecycle Management in Adobe Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-lifecycle/home"
 category: "overview"
 topic: "experience-platform/advanced-data-lifecycle-management-guide"
-created_at: "2026-07-22T12:15:00.999300+00:00"
+created_at: "2026-08-01T09:25:34.557364+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Advanced Data Lifecycle Management Guide
 
@@ -6694,7 +6654,7 @@ title: "Advertising destinations overview advertising-destinations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/advertising/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:17:32.006267+00:00"
+created_at: "2026-08-01T09:22:45.927388+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -6727,6 +6687,7 @@ To understand the difference between connections and extensions, see [Connection
 - [(Beta) Acxiom Real ID Audience Connection](/en/docs/experience-platform/destinations/catalog/advertising/acxiom-real-id-audience-connection)
 - [Adobe Advertising DSP connection](/en/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-dsp-connection)
 - [Legacy Adobe Advertising DSP connection](/en/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-dsp-connection-legacy)
+- [Adhese connection](/en/docs/experience-platform/destinations/catalog/advertising/adhese)
 - [Amazon Ads connection](/en/docs/experience-platform/destinations/catalog/advertising/amazon-ads)
 - [Amazon Ads v2 connection](/en/docs/experience-platform/destinations/catalog/advertising/amazon-ads-v2)
 - [Bombora connection](/en/docs/experience-platform/destinations/catalog/advertising/bombora)
@@ -6779,7 +6740,7 @@ title: "AEM Asset Insights extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/asset-insights/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:27:20.865940+00:00"
+created_at: "2026-08-01T09:40:00.868427+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -6910,7 +6871,7 @@ title: "AI Assistant (Legacy) in Adobe Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home"
 category: "overview"
 topic: "experience-platform/ai-assistant-in-adobe-experience-platform-guide"
-created_at: "2026-07-22T12:14:50.588884+00:00"
+created_at: "2026-08-01T09:23:03.960462+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > AI Assistant in Adobe Experience Platform Guide
 
@@ -7209,7 +7170,7 @@ title: "AI Assistant UI Guide (Legacy)"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/ui-guide"
 category: "guides"
 topic: "experience-platform/ai-assistant-in-adobe-experience-platform-guide"
-created_at: "2026-07-22T12:18:37.078085+00:00"
+created_at: "2026-08-01T09:34:10.969733+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > AI Assistant in Adobe Experience Platform Guide
 
@@ -7405,7 +7366,7 @@ title: "AI/ML feature pipelines"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/data-distiller/ml-feature-pipelines/overview"
 category: "overview"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-07-22T12:20:24.382272+00:00"
+created_at: "2026-08-01T09:26:13.837355+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -7466,7 +7427,7 @@ title: "Alert Subscriptions endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/alert-subscriptions"
 category: "reference"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-07-22T12:22:32.725986+00:00"
+created_at: "2026-08-01T09:30:03.522891+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -8433,7 +8394,7 @@ title: "Alerts overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/observability/alerts/overview"
 category: "overview"
 topic: "experience-platform/observability-insights-guide"
-created_at: "2026-07-22T12:14:51.676142+00:00"
+created_at: "2026-08-01T09:26:42.654414+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Observability Insights Guide
 
@@ -8562,7 +8523,7 @@ title: "Analytics destinations overview analytics-destinations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/analytics/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:17:32.546001+00:00"
+created_at: "2026-08-01T09:22:46.616940+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -8617,7 +8578,7 @@ title: "App configurations endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/app-configurations"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:28:45.643463+00:00"
+created_at: "2026-08-01T09:39:52.598782+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -9038,7 +8999,7 @@ title: "Attribute-based access control API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/abac-api/overview"
 category: "overview"
 topic: "experience-platform/access-control-guide"
-created_at: "2026-07-22T12:17:44.661573+00:00"
+created_at: "2026-08-01T09:23:06.278908+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Access Control Guide
 
@@ -9090,7 +9051,7 @@ title: "Attribute-based access control end-to-end guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/end-to-end-guide"
 category: "guides"
 topic: "experience-platform/access-control-guide"
-created_at: "2026-07-22T12:14:38.881588+00:00"
+created_at: "2026-08-01T09:18:48.213664+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Access Control Guide
 
@@ -9233,7 +9194,7 @@ title: "Attribute-based access control overview attribute-based-access-control-o
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/overview"
 category: "overview"
 topic: "experience-platform/access-control-guide"
-created_at: "2026-07-22T12:14:38.330524+00:00"
+created_at: "2026-08-01T09:18:47.190057+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Access Control Guide
 
@@ -9393,7 +9354,7 @@ title: "Attribution AI overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/intelligent-services/attribution-ai/overview"
 category: "overview"
 topic: "experience-platform/intelligent-services-guide"
-created_at: "2026-07-22T12:19:09.773521+00:00"
+created_at: "2026-08-01T09:34:14.619798+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Intelligent Services Guide
 
@@ -9453,13 +9414,13 @@ title: "Attribution AI UI guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/intelligent-services/attribution-ai/user-guide"
 category: "guides"
 topic: "experience-platform/intelligent-services-guide"
-created_at: "2026-07-22T12:24:53.771429+00:00"
+created_at: "2026-08-01T09:37:54.657065+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Intelligent Services Guide
 
 # Attribution AI UI guide
 
-Last update: May 23, 2026
+Last update: July 29, 2026
 - Topics:
 - [Attribution AI](#)
 
@@ -9653,7 +9614,7 @@ title: "Audience evaluation methods"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/methods/overview"
 category: "overview"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-07-22T12:22:54.569434+00:00"
+created_at: "2026-08-01T09:32:35.747386+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -9699,64 +9660,6 @@ recommendation-more-help
 
 
 ---
-# FILE: audience-manager-expanded-activation.md
----
-
----
-title: "Audience Manager Expanded Activation"
-url: "https://experienceleague.adobe.com/en/docs/experience-platform/expanded-activation/overview"
-category: "overview"
-topic: "experience-platform/audience-manager-expanded-activation-guide"
-created_at: "2026-07-22T12:15:03.765098+00:00"
----
-Breadcrumbs: Documentation > Experience Platform > Audience Manager Expanded Activation Guide
-
-# Audience Manager Expanded Activation
-
-Last update: June 18, 2026
-- Topics:
-- [Destinations](#)
-
-CREATED FOR:
-
-- Admin
-- User
-
-Built on Adobe Experience Platform, Audience Manager Expanded Activation helps existing [Audience Manager](/en/docs/audience-manager/user-guide/aam-home) users activate their audiences to [social](/en/docs/experience-platform/destinations/catalog/social/overview) and [advertising](/en/docs/experience-platform/destinations/catalog/advertising/overview) destination platforms from Real-Time CDP, such as [Facebook](/en/docs/experience-platform/destinations/catalog/social/facebook), [Google Ads](/en/docs/experience-platform/destinations/catalog/advertising/google-ads-destination), and more.
-
-IMPORTANT
-Audience Manager Expanded Activation is only available to existing Audience Manager users.
-## Terminology terminology
-
-Audience Manager Expanded Activation uses concepts and components from Adobe Experience Platform. To better understand the Expanded Activation workflow and the components that you will be using, make sure you have a basic understanding of the following concepts:
-
-- [Audiences](/en/docs/experience-platform/segmentation/ui/overview): Audiences are sets of people who share similar behaviors and/or characteristics. This collection of people can either be generated by Adobe Experience Platform using segment definitions or audience composition (Experience Platform-generated audience) or from external sources such as custom uploads (externally generated audience). In Expanded Activation, your Audience Manager segments (audiences) are imported as [custom uploads](/en/docs/experience-platform/segmentation/ui/audience-portal#import-audience).
-- [Source connectors](/en/docs/experience-platform/sources/home): Source connectors (also known as sources) help Experience Platform users easily ingest data from multiple sources, allowing the structuring, labeling and enhancement of data using Experience Platform services. Data can be ingested from a variety of sources such as cloud-based storage, third party software, and CRM systems.
-- [Destination connectors](/en/docs/experience-platform/destinations/home): Destinations describe any endpoint, such as an Adobe application, advertising platform, cloud storage service, or marketing service, where an audience is activated and delivered. Expanded Activation supports the activation of audiences to [advertising](/en/docs/experience-platform/destinations/catalog/advertising/overview) and [social](/en/docs/experience-platform/destinations/catalog/social/overview) destination connectors.
-
-## Prerequisites prerequisites
-
-Before you can activate audiences through Expanded Activation, make sure you meet the prerequisites described below.
-
-### User and role requirements permission-requirements
-
-Before you can use Expanded Activation, you must create a user account from the Admin Console and assign it to the Expanded Activation role. See the [administration](/en/docs/experience-platform/expanded-activation/administration) page for detailed instructions on how to do this.
-
-### Audience requirements audience-requirements
-
-To activate audiences through Expanded Activation, make sure that your Audience Manager audiences are based on **hashed email addresses**. There are two ways to ensure this, based on your Audience Manager usage:
-
-- If you are using the [Audience Manager People-based Destinations](/en/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview) functionality, then you are already ingesting hashed email addresses in Audience Manager. There is no additional step that you need to take in this case. You can skip to [activating audiences through Expanded Activation](/en/docs/experience-platform/expanded-activation/activate-audiences).
-- If you are *not* using the [Audience Manager People-based Destinations](/en/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview) functionality, you must create a new data source in Audience Manager, and use it to store hashed email addresses. See the documentation on [configuring a data source for hashed email workflows](/en/docs/audience-manager/user-guide/features/data-sources/create-data-source-hashed-emails) to learn how to do this. After you have ingested hashed email addresses in your Audience Manager data source, read the documentation on [activating audiences through Expanded Activation](/en/docs/experience-platform/expanded-activation/activate-audiences).
-
-## Next steps next-steps
-
-Now that you have a better understanding of the use cases and benefits of using Expanded Activation, start [configuring your account](/en/docs/experience-platform/expanded-activation/administration) and then [activate your audiences](/en/docs/experience-platform/expanded-activation/activate-audiences).
-
-recommendation-more-help
-
-
----
 # FILE: audience-types.md
 ---
 
@@ -9765,7 +9668,7 @@ title: "Audience types"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/types/overview"
 category: "overview"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-07-22T12:17:47.370519+00:00"
+created_at: "2026-08-01T09:23:10.010935+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -9821,7 +9724,7 @@ title: "Audiences dashboard audiences-dashboard"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/audiences"
 category: "guides"
 topic: "experience-platform/dashboards-guide"
-created_at: "2026-07-22T12:20:17.134040+00:00"
+created_at: "2026-08-01T09:25:57.842955+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dashboards Guide
 
@@ -10058,7 +9961,7 @@ title: "Audiences endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/audiences"
 category: "reference"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-07-22T12:25:45.481883+00:00"
+created_at: "2026-08-01T09:36:13.234252+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -10411,7 +10314,7 @@ title: "Audit events endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/audit-events"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:28:46.381703+00:00"
+created_at: "2026-08-01T09:39:53.366098+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -10662,7 +10565,7 @@ title: "Audit log endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/audit-log"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:17:00.222238+00:00"
+created_at: "2026-08-01T09:21:51.982850+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -10811,7 +10714,7 @@ title: "Audit logs audit-logs"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-07-22T12:15:01.556735+00:00"
+created_at: "2026-08-01T09:23:04.744345+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -11110,7 +11013,7 @@ title: "Auditor tab"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/debugger/auditor/overview"
 category: "overview"
 topic: "experience-platform/adobe-experience-platform-debugger-guide"
-created_at: "2026-07-22T12:18:48.802617+00:00"
+created_at: "2026-08-01T09:41:15.663110+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Adobe Experience Platform Debugger Guide
 
@@ -11190,7 +11093,7 @@ title: "Authenticate and access Experience Platform APIs"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/platform-apis/api-authentication"
 category: "reference"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-07-22T12:14:44.936503+00:00"
+created_at: "2026-08-01T09:18:57.795087+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -11470,7 +11373,7 @@ title: "Authenticate and access the Privacy Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/getting-started"
 category: "reference"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-07-22T12:18:03.180001+00:00"
+created_at: "2026-08-01T09:23:35.259454+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -11587,7 +11490,7 @@ title: "Authenticate and access the Reactor API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/getting-started"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:27:28.459407+00:00"
+created_at: "2026-08-01T09:39:43.478156+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -11714,7 +11617,7 @@ title: "Automatic policy enforcement"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/enforcement/auto-enforcement"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-07-22T12:17:28.700414+00:00"
+created_at: "2026-08-01T09:22:40.365564+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -11903,7 +11806,7 @@ title: "Available sandboxes endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/api/available"
 category: "reference"
 topic: "experience-platform/sandboxes-guide"
-created_at: "2026-07-22T12:19:53.298722+00:00"
+created_at: "2026-08-01T09:24:48.133986+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Sandboxes Guide
 
@@ -12035,7 +11938,7 @@ title: "AWS extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/aws/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:28:55.534604+00:00"
+created_at: "2026-08-01T09:40:46.541086+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -12128,7 +12031,7 @@ title: "Batch ingestion API overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/batch/overview"
 category: "overview"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-07-22T12:14:28.196446+00:00"
+created_at: "2026-08-01T09:18:30.950947+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -12639,7 +12542,7 @@ title: "Batch ingestion developer guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/batch/api-overview"
 category: "reference"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-07-22T12:16:09.423791+00:00"
+created_at: "2026-08-01T09:20:33.549441+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -13600,7 +13503,7 @@ title: "Behaviors endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/behaviors"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:24:34.335254+00:00"
+created_at: "2026-08-01T09:35:55.542907+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -13790,7 +13693,7 @@ title: "Best practices for Privacy Service"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/best-practices"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-07-22T12:14:44.370077+00:00"
+created_at: "2026-08-01T09:18:56.840981+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -13908,7 +13811,7 @@ title: "Braze Track Events API event forwarding extension"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/braze/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:28:56.389156+00:00"
+created_at: "2026-08-01T09:40:47.446936+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -14200,7 +14103,7 @@ title: "BrightCove Video Tracking extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/brightcove/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:27:22.400418+00:00"
+created_at: "2026-08-01T09:40:02.501517+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -14306,7 +14209,7 @@ title: "Build audiences using SQL"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/data-distiller-audiences/overview"
 category: "overview"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-07-22T12:20:02.071873+00:00"
+created_at: "2026-08-01T09:25:09.909342+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -14694,7 +14597,7 @@ title: "Builds endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/builds"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:28:43.839834+00:00"
+created_at: "2026-08-01T09:39:50.849433+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -15804,7 +15707,7 @@ title: "Callbacks endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/callbacks"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:28:47.128017+00:00"
+created_at: "2026-08-01T09:39:54.299688+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -16213,7 +16116,7 @@ title: "Catalog Service API guide appendix"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/api/appendix"
 category: "reference"
 topic: "experience-platform/catalog-and-datasets-guide"
-created_at: "2026-07-22T12:28:29.721585+00:00"
+created_at: "2026-08-01T09:39:32.208232+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Catalog and Datasets Guide
 
@@ -16339,7 +16242,7 @@ title: "Catalog Service API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/api/getting-started"
 category: "reference"
 topic: "experience-platform/catalog-and-datasets-guide"
-created_at: "2026-07-22T12:18:55.647335+00:00"
+created_at: "2026-08-01T09:26:45.188662+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Catalog and Datasets Guide
 
@@ -16419,7 +16322,7 @@ title: "Catalog Service overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/home"
 category: "overview"
 topic: "experience-platform/catalog-and-datasets-guide"
-created_at: "2026-07-22T12:14:56.631305+00:00"
+created_at: "2026-08-01T09:20:31.292411+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Catalog and Datasets Guide
 
@@ -16501,7 +16404,7 @@ title: "Classes endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/classes"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:24:04.836060+00:00"
+created_at: "2026-08-01T09:34:40.047230+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -17234,7 +17137,7 @@ title: "Cloud Connector extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/cloud-connector/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:18:51.527520+00:00"
+created_at: "2026-08-01T09:34:30.904419+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -17458,13 +17361,13 @@ title: "Cloud storage destinations overview cloud-storage-destinations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/cloud-storage/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:17:33.100665+00:00"
+created_at: "2026-08-01T09:22:47.354401+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
 # Cloud storage destinations overview cloud-storage-destinations
 
-Last update: May 23, 2026
+Last update: July 20, 2026
 - Topics:
 - [Destinations](#)
 
@@ -17533,6 +17436,7 @@ Cloud storage destinations support the following export types:
 
 - **Profile-based export**. This means that you are exporting details about the individuals in the audience. These details are needed for personalization and can include attributes, events, audience memberships, and more.
 - **Dataset export**. Use this functionality to export entire datasets to cloud storage destinations. [Read more](/en/docs/experience-platform/destinations/ui/activate/export-datasets) about the functionality.
+- **Real-Time CDP Collaboration audience export**. Export Real-Time CDP Collaboration audiences that contain match keys to cloud storage destinations. These audiences are activated from a Real-Time CDP Collaboration project rather than from the standard Experience Platform audience activation workflow.
 
 ## Next steps next-steps
 
@@ -17550,7 +17454,7 @@ title: "Common Analytics Plugins extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/plugins/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:27:23.202263+00:00"
+created_at: "2026-08-01T09:40:03.334717+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -17630,7 +17534,7 @@ title: "Companies endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/companies"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:28:37.211133+00:00"
+created_at: "2026-08-01T09:39:44.224532+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -17836,7 +17740,7 @@ title: "Computed attributes API endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/computed-attributes/api"
 category: "reference"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-07-22T12:15:34.552380+00:00"
+created_at: "2026-08-01T09:19:28.338646+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -18136,7 +18040,7 @@ title: "Computed attributes overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/computed-attributes/overview"
 category: "overview"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-07-22T12:14:23.055276+00:00"
+created_at: "2026-08-01T09:18:22.097304+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -18301,7 +18205,7 @@ title: "Configure a Customer AI instance"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/intelligent-services/customer-ai/user-guide/configure"
 category: "guides"
 topic: "experience-platform/intelligent-services-guide"
-created_at: "2026-07-22T12:17:48.484478+00:00"
+created_at: "2026-08-01T09:23:12.024835+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Intelligent Services Guide
 
@@ -18508,7 +18412,7 @@ title: "Configure a dataflow to ingest batch data from a cloud storage source in
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/cloud-storage"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:20:12.121969+00:00"
+created_at: "2026-08-01T09:25:40.037508+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -18710,7 +18614,7 @@ title: "Configure a dataset for Profile using APIs"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/tutorials/dataset-configuration"
 category: "tutorials"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-07-22T12:15:58.059689+00:00"
+created_at: "2026-08-01T09:20:11.987149+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -18740,7 +18644,7 @@ title: "Configure a dataset to capture consent and preference data"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/consent/adobe/dataset"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-07-22T12:25:48.289230+00:00"
+created_at: "2026-08-01T09:36:15.018865+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -18937,7 +18841,7 @@ title: "Configure a file-based destination to export prospect audiences to a sto
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/guides/configure-file-based-destinations/configure-prospect-audience-destination"
 category: "guides"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:18:09.906462+00:00"
+created_at: "2026-08-01T09:23:46.566968+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -19398,7 +19302,7 @@ title: "Configure an Amazon S3 destination with predefined file formatting optio
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/guides/configure-file-based-destinations/configure-amazon-s3-destination-with-predefined-file-formatting"
 category: "guides"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:18:12.659757+00:00"
+created_at: "2026-08-01T09:23:50.960725+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -19724,7 +19628,7 @@ title: "Configure file formatting options for file-based destinations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/guides/configure-file-based-destinations/configure-file-formatting-options"
 category: "guides"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:18:12.104164+00:00"
+created_at: "2026-08-01T09:23:50.206823+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -20480,7 +20384,7 @@ title: "Configure the Adobe Experience Platform Web SDK"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/collection/js/commands/configure/overview"
 category: "overview"
 topic: "experience-platform/data-collection"
-created_at: "2026-07-22T12:18:44.939534+00:00"
+created_at: "2026-08-01T09:35:43.103680+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Collection
 
@@ -20545,7 +20449,7 @@ title: "Connect Adobe Analytics to Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:16:14.962757+00:00"
+created_at: "2026-08-01T09:20:42.094363+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -20783,7 +20687,7 @@ title: "Connect Amazon S3 to Experience Platform using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/s3"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:15:58.610214+00:00"
+created_at: "2026-08-01T09:20:12.806834+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -21044,7 +20948,7 @@ title: "Connect AWS Redshift to Experience Platform using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/redshift"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:20:56.168186+00:00"
+created_at: "2026-08-01T09:27:19.552300+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -21193,7 +21097,7 @@ title: "Connect AWS Redshift to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/redshift"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:20:57.804137+00:00"
+created_at: "2026-08-01T09:27:22.006715+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -21304,7 +21208,7 @@ title: "Connect Azure Blob Storage to Experience Platform using the API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/blob"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:13.949062+00:00"
+created_at: "2026-08-01T09:27:45.696040+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -21433,7 +21337,7 @@ title: "Connect Azure Blob Storage to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/blob"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:14.493446+00:00"
+created_at: "2026-08-01T09:27:46.445723+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -21519,7 +21423,7 @@ title: "Connect Azure Synapse Analytics to Experience Platform using the Flow Se
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/synapse-analytics"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:01.103042+00:00"
+created_at: "2026-08-01T09:27:26.859272+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -21655,7 +21559,7 @@ title: "Connect Bombora Intent to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/data-partner/bombora"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:53.452259+00:00"
+created_at: "2026-08-01T09:28:44.559378+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -21768,7 +21672,7 @@ title: "Connect Capillary Streaming Events to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/loyalty/capillary"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:59.037311+00:00"
+created_at: "2026-08-01T09:28:54.906956+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -21893,7 +21797,7 @@ title: "Connect clients to Query Service"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/clients/overview"
 category: "overview"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-07-22T12:17:12.287730+00:00"
+created_at: "2026-08-01T09:22:12.249642+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -21949,7 +21853,7 @@ title: "Connect Data Landing Zone to Adobe Experience Platform using the Flow Se
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/data-landing-zone"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:17.803892+00:00"
+created_at: "2026-08-01T09:27:51.537457+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -22494,7 +22398,7 @@ title: "Connect Data Landing Zone to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/data-landing-zone"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:17.237434+00:00"
+created_at: "2026-08-01T09:27:50.578534+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -22598,7 +22502,7 @@ title: "Connect Databricks to Experience Platform in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/databricks"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:20:59.431592+00:00"
+created_at: "2026-08-01T09:27:24.282385+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -22685,7 +22589,7 @@ title: "Connect Databricks to Experience Platform using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/databricks"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:20:58.900249+00:00"
+created_at: "2026-08-01T09:27:23.593330+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -22800,7 +22704,7 @@ title: "Connect Demandbase Intent to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/data-partner/demandbase"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:53.988554+00:00"
+created_at: "2026-08-01T09:28:45.340141+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -22912,7 +22816,7 @@ title: "Connect Didomi to Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/consent/didomi"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:21.630097+00:00"
+created_at: "2026-08-01T09:27:57.223112+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -23073,13 +22977,15 @@ title: "Connect Google Ads to Experience Platform using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/advertising/ads"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:07.809206+00:00"
+created_at: "2026-08-01T09:27:36.633866+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
+[beta]{class="badge informative"}
+
 # Connect Google Ads to Experience Platform using the Flow Service API
 
-Last update: May 23, 2026
+Last update: July 29, 2026
 - Topics:
 - [Sources](#)
 
@@ -23087,9 +22993,13 @@ CREATED FOR:
 
 - Developer
 
-A base connection represents the authenticated connection between a source and Adobe Experience Platform.
+NOTE
+The Google Ads source is currently in beta and only supports one-time ingestion. See the
+Sources overview
+for more information on using beta-labeled sources.
+A base connection represents the authenticated connection between your source and Adobe Experience Platform. Use this tutorial to connect your Google Ads account to Experience Platform using the [Flow Service API](https://developer.adobe.com/experience-platform-apis/references/flow-service/).
 
-Read this tutorial to learn how to connect your Google Ads account to Adobe Experience Platform using the [Flow Service API](https://developer.adobe.com/experience-platform-apis/references/flow-service/).
+A Google Ads base connection stores the authentication details required to access the Google Ads API and creates the connection ID that you will use in later steps to explore your source configuration and create a dataflow.
 
 ## Get Started
 
@@ -23104,13 +23014,27 @@ The following sections provide additional information that you will need to know
 
 For information on how to successfully make calls to Experience Platform APIs, see the guide on [getting started with Experience Platform APIs](/en/docs/experience-platform/landing/platform-apis/api-guide).
 
+### Gather values for required headers
+
+In order to make calls to Experience Platform APIs, you must first complete the authentication tutorial. Completing the [authentication tutorial](/en/docs/experience-platform/landing/platform-apis/api-authentication) provides the values for each of the required headers in all Experience Platform API calls, as shown below:
+
+```
+Authorization: Bearer {ACCESS_TOKEN}
+x-api-key: {API_KEY}
+x-gw-ims-org-id: {ORG_ID}
+x-sandbox-name: {SANDBOX_NAME}
+Content-Type: application/json
+```
+
+All resources in Experience Platform are isolated to specific virtual sandboxes. All requests to Experience Platform APIs require a header that specifies the name of the sandbox the operation will take place in.
+
 ### Gather required credentials
 
 For information on authentication, read the [Google Ads source overview](/en/docs/experience-platform/sources/connectors/advertising/ads).
 
 ## Create a base connection
 
-A base connection retains information between your source and Experience Platform, including your source’s authentication credentials, the current state of the connection, and your unique base connection ID. The base connection ID allows you to explore and navigate files from within your source and identify the specific items that you want to ingest, including information regarding their data types and formats.
+A base connection retains information between your source and Experience Platform, including your source’s authentication credentials, the current state of the connection, and your unique base connection ID.
 
 To create a base connection ID, make a POST request to the /connections endpoint while providing your Google Ads authentication credentials as part of the request parameters.
 
@@ -23155,8 +23079,16 @@ curl -X POST \
   }'
 ```
 
+If your target advertiser account is directly accessible and does not require manager-account routing, you may omit loginCustomerID from the auth.params object.
+
 Property
 Description
+name
+The name of your base connection. Use a descriptive name that makes it easy to identify the Google Ads connection later.
+description
+An optional description that you can use to store additional context about the connection.
+auth.specName
+The authentication type used by the connector.
 auth.params.clientCustomerID
 The client customer ID of your Google Ads account.
 auth.params.loginCustomerID
@@ -23188,12 +23120,39 @@ A successful response returns details of the newly created base connection, incl
 }
 ```
 
-## Create a dataflow to ingest advertising data
+## Verify your connection details
 
-By following this tutorial, you have created a Google Ads base connection using the Flow Service API and connected your Google Ads account to Experience Platform. You can use this base connection ID in the following tutorials:
+After you create your base connection, validate the following before proceeding:
 
-- [Explore the structure and contents of your data tables using the Flow Service API](/en/docs/experience-platform/sources/api-tutorials/explore/tabular)
-- [Create a dataflow to bring advertising data to Experience Platform using the Flow Service API](/en/docs/experience-platform/sources/api-tutorials/collect/advertising)
+- The base connection was created in the intended sandbox,
+- The clientCustomerId points to the intended advertiser account,
+- The loginCustomerId is correct if the advertiser account is accessed through an MCC,
+- The Google Ads API version is one supported by Experience Platform.
+
+If authentication succeeds but downstream data access fails, the most common cause is an incorrect or unnecessary loginCustomerId.
+
+## Next steps
+
+By following this tutorial, you have created a Google Ads base connection using the Flow Service API.
+
+You can now continue with the following tutorials:
+
+- [Explore your source configuration](/en/docs/experience-platform/sources/api-tutorials/explore/tabular) to identify the source object and fields that you want to ingest.
+- [Create a dataflow for an advertising](/en/docs/experience-platform/sources/api-tutorials/collect/advertising) source to bring Google Ads data into Experience Platform.
+
+## Troubleshooting
+
+### Authorization errors for child advertiser accounts
+
+If requests fail when you attempt to access a child advertiser account, verify that loginCustomerId is set to the correct manager account. This is required when access is mediated through an MCC hierarchy.
+
+### Invalid or revoked refresh token
+
+If the connector cannot refresh access tokens, re-authorize the Google Ads account to generate a new refresh token.
+
+### Unsupported API version
+
+If requests fail due to version mismatch, ensure that googleAdsApiVersion is set to a version supported by Experience Platform.
 
 recommendation-more-help
 
@@ -23207,7 +23166,7 @@ title: "Connect Google Ads to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/advertising/ads"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:08.982965+00:00"
+created_at: "2026-08-01T09:27:37.449954+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -23215,7 +23174,7 @@ Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
 # Connect Google Ads to Experience Platform using the UI
 
-Last update: May 23, 2026
+Last update: July 24, 2026
 - Topics:
 - [Sources](#)
 
@@ -23247,25 +23206,33 @@ For information on authentication, read the [Google Ads source overview](/en/doc
 
 ## Connect your Google Ads account
 
-In the Experience Platform UI, select **Sources** from the left navigation to access the *Sources* workspace. You can select the appropriate category in the *Categories* panel. Alternatively, you can use the search bar to navigate to the specific source that you want to use.
+In the Experience Platform UI, select **Sources** from the left navigation to access the Sources workspace. You can browse available connectors by category or use the search bar to find Google Ads directly.
 
-To use Google Ads, select the **Google Ads** source card under *Advertising* and then select **Add data**.
+To use Google Ads, select the **Google Ads** source card under Advertising, and then select **Add data**.
 
 .
 
 ### Existing account
 
-To use an existing account, select **Existing account** and then select the account that you want to use from the list of accounts on the interface.
+To use an existing Google Ads account connection:
 
-Once you have selected your account, select **Next** to proceed to the next step.
+- Select **Existing account**.
+- Choose the Google Ads account that you want to use from the account list.
+- Review the connection details.
+- Select **Next**.
+
+If the account already exists and is valid, you can skip credential re-entry and proceed directly to data selection.
 
 .
 
 ### New account
 
-If you do not have an existing account, then you must create a new account by providing the necessary authentication credentials that correspond with your source.
+To create a new Google Ads account connection:
 
-To create a new account, select **New account** and then provide an account name and optionally, a description for your account details. Next, provide the appropriate authentication values to authenticate your source against Experience Platform:
+- Select **New account**.
+- Enter an **account name**.
+- Optionally provide a **description**.
+- Enter the required authentication values:
 
 - **Client customer ID**: The client customer ID is the account number that corresponds with the Google Ads client account that you want to manage with the Google Ads API. This ID follows the template of 123-456-7890.
 - **Login customer ID**: The login customer ID is the account number that corresponds with your Google Ads manager account and is used to fetch report data from a specific operating customer. For more information on the login customer ID, read the [Google Ads API documentation](https://developers.google.com/search-ads/reporting/concepts/login-customer-id).
@@ -23281,9 +23248,9 @@ Once you have inputted your credentials, select **Connect to source** and allow 
 
 ## Select data select-data
 
-With Google Ads, you must provide the list of attributes for ingestion during the data selection phase of the workflow. In order to retrieve these attributes, you must use the [Google Ads Query Builder](https://developers.google.com/google-ads/api/fields/v19/overview_query_builder).
+With Google Ads, you must provide the list of attributes for ingestion during the data selection phase of the workflow. To retrieve those attributes, you must use the [Google Ads Query Builder](https://developers.google.com/google-ads/api/fields/v19/overview_query_builder).
 
-In the Google Ads Query Builder, navigate to the resource type that you want to use and then use the attributes selector to select your attributes, segments, and metrics.
+In the Google Ads Query Builder, navigate to the **resource type** that you want to use and then use the attributes selector to select your **attributes**, **segments**, and **metrics**.
 
 The attributes that you select populates the Google Ads Query Language panel. Ensure that you use the Standard mode and then select, **Enter or edit a query**.
 
@@ -23311,7 +23278,7 @@ title: "Connect Google BigQuery to Experience Platform using the Flow Service AP
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/bigquery"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:02.185747+00:00"
+created_at: "2026-08-01T09:27:28.466009+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -23464,7 +23431,7 @@ title: "Connect Google BigQuery to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/bigquery"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:02.729654+00:00"
+created_at: "2026-08-01T09:27:29.235914+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -23563,7 +23530,7 @@ title: "Connect MariaDB to Experience Platform using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/mariadb"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:45.014165+00:00"
+created_at: "2026-08-01T09:28:32.201564+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -23689,7 +23656,7 @@ title: "Connect MariaDB to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/mariadb"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:45.556238+00:00"
+created_at: "2026-08-01T09:28:32.989426+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -23764,7 +23731,7 @@ title: "Connect Microsoft Dynamics to Experience Platform using the Flow Service
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/crm/ms-dynamics"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:24.485079+00:00"
+created_at: "2026-08-01T09:28:01.901862+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -24143,7 +24110,7 @@ title: "Connect MySQL to Experience Platform using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/mysql"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:47.186273+00:00"
+created_at: "2026-08-01T09:28:35.307502+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -24310,7 +24277,7 @@ title: "Connect MySQL to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/mysql"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:47.731389+00:00"
+created_at: "2026-08-01T09:28:36.092058+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -24393,7 +24360,7 @@ title: "Connect Oracle DB to Experience Platform using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/oracle"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:48.275716+00:00"
+created_at: "2026-08-01T09:28:36.927843+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -24528,7 +24495,7 @@ title: "Connect Oracle DB to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/oracle"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:48.813308+00:00"
+created_at: "2026-08-01T09:28:38.103398+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -24607,7 +24574,7 @@ title: "Connect Oracle Eloqua (V2) to Experience Platform in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/eloqua"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:08.468722+00:00"
+created_at: "2026-08-01T09:29:11.475982+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -24742,7 +24709,7 @@ title: "Connect PostgreSQL to Experience Platform using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/postgres"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:49.354814+00:00"
+created_at: "2026-08-01T09:28:38.906598+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -24938,7 +24905,7 @@ title: "Connect PostgreSQL to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/postgres"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:49.897421+00:00"
+created_at: "2026-08-01T09:28:39.746658+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -25045,7 +25012,7 @@ title: "Connect Relay to Experience Platform in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/relay-connector"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:16:53.465437+00:00"
+created_at: "2026-08-01T09:21:41.281163+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -25136,7 +25103,7 @@ title: "Connect Salesforce Marketing Cloud to Experience Platform using the Flow
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/salesforce-marketing-cloud"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:26:29.081393+00:00"
+created_at: "2026-08-01T09:37:11.577517+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -25277,7 +25244,7 @@ title: "Connect Salesforce Marketing Cloud to Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/sfmc"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:13.971527+00:00"
+created_at: "2026-08-01T09:29:20.197936+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -25375,7 +25342,7 @@ title: "Connect Salesforce to Experience Platform using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/crm/salesforce"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:27.377826+00:00"
+created_at: "2026-08-01T09:28:06.700674+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -25573,7 +25540,7 @@ title: "Connect Snowflake to Experience Platform using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/snowflake"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:06.679644+00:00"
+created_at: "2026-08-01T09:27:35.125216+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -25761,7 +25728,7 @@ title: "Connect Snowflake to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/snowflake"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:07.274752+00:00"
+created_at: "2026-08-01T09:27:35.854012+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -25895,7 +25862,7 @@ title: "Connect to file-based email marketing destinations and activate data usi
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/connect-activate-batch-destinations"
 category: "reference"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:16:04.390723+00:00"
+created_at: "2026-08-01T09:20:21.996183+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -26938,7 +26905,7 @@ title: "Connect to streaming destinations and activate data using the Flow Servi
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/streaming-destinations"
 category: "reference"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:19:29.348239+00:00"
+created_at: "2026-08-01T09:24:33.127661+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -27611,7 +27578,7 @@ title: "Connect your PathFactory account to Experience Platform through the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/pathfactory"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:11.771069+00:00"
+created_at: "2026-08-01T09:29:16.854110+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -27695,7 +27662,7 @@ title: "Connect your RainFocus account to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/analytics/rainfocus"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:20:47.626563+00:00"
+created_at: "2026-08-01T09:27:04.232936+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -27823,7 +27790,7 @@ title: "Connect your Salesforce account to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/crm/salesforce"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:27.927402+00:00"
+created_at: "2026-08-01T09:28:07.525868+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -27941,7 +27908,7 @@ title: "Connect your Salesforce Marketing Cloud account to Experience Platform t
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/salesforce-marketing-cloud"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:26:29.846114+00:00"
+created_at: "2026-08-01T09:37:12.394263+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -28022,7 +27989,7 @@ title: "Connect your Salesforce Service Cloud account to Experience Platform usi
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/customer-success/salesforce-service-cloud"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:32.320411+00:00"
+created_at: "2026-08-01T09:28:14.557871+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -28096,7 +28063,7 @@ title: "Connection parameters endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/connection-parameters"
 category: "reference"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-07-22T12:22:30.493369+00:00"
+created_at: "2026-08-01T09:29:59.249663+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -28163,7 +28130,7 @@ title: "Consent analysis and tracking"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/insights-use-cases/consent-analysis"
 category: "guides"
 topic: "experience-platform/dashboards-guide"
-created_at: "2026-07-22T12:20:29.875365+00:00"
+created_at: "2026-08-01T09:26:22.261662+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dashboards Guide
 
@@ -28294,7 +28261,7 @@ title: "Consent and identity in Data Collection"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/collection/identity/consent"
 category: "guides"
 topic: "experience-platform/data-collection"
-created_at: "2026-07-22T12:25:42.280195+00:00"
+created_at: "2026-08-01T09:35:54.784141+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Collection
 
@@ -28491,7 +28458,7 @@ title: "Consent configuration settings consent"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/configure/consent"
 category: "guides"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:27:37.643393+00:00"
+created_at: "2026-08-01T09:38:13.693943+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -28534,7 +28501,7 @@ title: "Consent endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/consent"
 category: "reference"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-07-22T12:23:03.898373+00:00"
+created_at: "2026-08-01T09:32:53.537011+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -28635,7 +28602,7 @@ title: "Consent policy rule building reference"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/consent-policy-rule-building-reference"
 category: "reference"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-07-22T12:20:18.771044+00:00"
+created_at: "2026-08-01T09:26:00.168894+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -28990,7 +28957,7 @@ title: "Consent processing in Adobe Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/consent/adobe/overview"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-07-22T12:20:18.220109+00:00"
+created_at: "2026-08-01T09:25:59.384792+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -29116,7 +29083,7 @@ title: "Consent String data type"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/data-types/consent-string"
 category: "guides"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:25:24.499482+00:00"
+created_at: "2026-08-01T09:37:27.067603+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -29171,7 +29138,7 @@ title: "Consents and Preferences data type"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/data-types/consents"
 category: "guides"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:25:00.350930+00:00"
+created_at: "2026-08-01T09:35:32.892848+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -29589,7 +29556,7 @@ title: "Consents and Preferences field group"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/field-groups/profile/consents"
 category: "guides"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:19:18.730324+00:00"
+created_at: "2026-08-01T09:24:45.773128+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -29791,7 +29758,7 @@ title: "Core event forwarding extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/core/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:18:50.976767+00:00"
+created_at: "2026-08-01T09:34:30.135007+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -30031,7 +29998,7 @@ title: "Core extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/core/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:24:00.952615+00:00"
+created_at: "2026-08-01T09:34:34.191462+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -30897,7 +30864,7 @@ title: "Create a Amazon S3 source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/s3"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:15:59.155724+00:00"
+created_at: "2026-08-01T09:20:13.540505+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -30980,7 +30947,7 @@ title: "Create a Braze Currents source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/braze"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:00.706035+00:00"
+created_at: "2026-08-01T09:29:00.095424+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -31098,7 +31065,7 @@ title: "Create a Chatlio source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/chatlio-webhook"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:01.272295+00:00"
+created_at: "2026-08-01T09:29:00.833400+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -31259,7 +31226,7 @@ title: "Create a custom namespace in the Identity Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/api/create-custom-namespace"
 category: "reference"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-07-22T12:20:08.751871+00:00"
+created_at: "2026-08-01T09:25:22.256050+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -31335,7 +31302,7 @@ title: "Create a Customer Attributes source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/customer-attributes"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:16:17.751981+00:00"
+created_at: "2026-08-01T09:20:45.899986+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -31413,7 +31380,7 @@ title: "Create a Customer.io source connection and dataflow in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/customerio-webhook"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:02.373282+00:00"
+created_at: "2026-08-01T09:29:02.265328+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -31599,7 +31566,7 @@ title: "Create a data governance policy in the API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-07-22T12:17:30.381946+00:00"
+created_at: "2026-08-01T09:22:43.155685+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -32064,7 +32031,7 @@ title: "Create a dataflow for a OneTrust Integration source using the Flow Servi
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/consent/onetrust"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:22.206333+00:00"
+created_at: "2026-08-01T09:27:58.128407+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -32614,7 +32581,7 @@ title: "Create a dataflow for a payments source in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/payments"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:16.211224+00:00"
+created_at: "2026-08-01T09:29:23.461086+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -32767,7 +32734,7 @@ title: "Create a dataflow for advertising sources using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/advertising"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:08.360950+00:00"
+created_at: "2026-08-01T09:27:38.391871+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -33241,7 +33208,7 @@ title: "Create a dataflow for cloud storage sources using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/cloud-storage"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:20:13.232664+00:00"
+created_at: "2026-08-01T09:25:41.945750+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -33865,7 +33832,7 @@ title: "Create a dataflow for customer success sources using the Flow Service AP
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/customer-success"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:31.774698+00:00"
+created_at: "2026-08-01T09:28:13.771956+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -34288,7 +34255,7 @@ title: "Create a dataflow for database sources using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/database-nosql"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:20:57.261566+00:00"
+created_at: "2026-08-01T09:27:21.197099+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -34812,7 +34779,7 @@ title: "Create a dataflow for E-commerce sources using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/ecommerce"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:57.394063+00:00"
+created_at: "2026-08-01T09:28:50.681133+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -35242,7 +35209,7 @@ title: "Create a dataflow for Mailchimp Campaign using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/mailchimp-campaign"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:05.754667+00:00"
+created_at: "2026-08-01T09:29:07.434341+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -35819,7 +35786,7 @@ title: "Create a dataflow for Mailchimp Members using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/mailchimp-members"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:06.854224+00:00"
+created_at: "2026-08-01T09:29:09.233217+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -36554,7 +36521,7 @@ title: "Create a dataflow for marketing automation sources using the Flow Servic
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/marketing-automation"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:04.067917+00:00"
+created_at: "2026-08-01T09:29:04.968340+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -36994,7 +36961,7 @@ title: "Create a dataflow for payments sources using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/payments"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:15.102023+00:00"
+created_at: "2026-08-01T09:29:21.857094+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -37481,7 +37448,7 @@ title: "Create a dataflow for protocols sources Using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/protocols"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:18.971854+00:00"
+created_at: "2026-08-01T09:29:27.558199+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -37967,7 +37934,7 @@ title: "Create a dataflow for Zendesk using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/customer-success/zendesk"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:35.683374+00:00"
+created_at: "2026-08-01T09:28:18.985630+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -38837,7 +38804,7 @@ title: "Create a dataflow to ingest data from a CRM into Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/crm"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:25.056955+00:00"
+created_at: "2026-08-01T09:28:02.903061+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -39377,7 +39344,7 @@ title: "Create a dataflow using a consent and preferences source in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/consent-and-preferences"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:23.311733+00:00"
+created_at: "2026-08-01T09:27:59.690863+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -39532,7 +39499,7 @@ title: "Create a dataflow using a CRM source in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/crm"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:26.155089+00:00"
+created_at: "2026-08-01T09:28:04.543177+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -39687,7 +39654,7 @@ title: "Create a Dataflow using a customer success source in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/customer-success"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:32.888828+00:00"
+created_at: "2026-08-01T09:28:15.361049+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -39840,7 +39807,7 @@ title: "Create a dataflow using a database source in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/databases"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:20:58.349383+00:00"
+created_at: "2026-08-01T09:27:22.777058+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -40004,7 +39971,7 @@ title: "Create a dataflow using a marketing automation source in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/marketing-automation"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:05.179647+00:00"
+created_at: "2026-08-01T09:29:06.602105+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -40157,7 +40124,7 @@ title: "Create a dataflow using a protocols source in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/protocols"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:20.062187+00:00"
+created_at: "2026-08-01T09:29:29.334707+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -40310,7 +40277,7 @@ title: "Create a dataflow using an advertising source in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/advertising"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:09.531024+00:00"
+created_at: "2026-08-01T09:37:00.198784+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -40463,7 +40430,7 @@ title: "Create a dataflow using an analytics source in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/analytics"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:11.198364+00:00"
+created_at: "2026-08-01T09:27:39.227283+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -40607,7 +40574,7 @@ title: "Create a dataflow using an e-commerce source in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/ecommerce"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:56.288875+00:00"
+created_at: "2026-08-01T09:28:48.952480+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -40760,7 +40727,7 @@ title: "Create a dataset for exporting an audience"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment"
 category: "tutorials"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-07-22T12:25:59.768308+00:00"
+created_at: "2026-08-01T09:36:29.605230+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -40844,7 +40811,7 @@ title: "Create a dataset in the API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/api/create-dataset"
 category: "reference"
 topic: "experience-platform/catalog-and-datasets-guide"
-created_at: "2026-07-22T12:24:18.832882+00:00"
+created_at: "2026-08-01T09:35:02.426164+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Catalog and Datasets Guide
 
@@ -40933,7 +40900,7 @@ title: "Create a Generic OData base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/protocols/odata"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:18.422878+00:00"
+created_at: "2026-08-01T09:29:26.728438+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -41056,7 +41023,7 @@ title: "Create a Generic OData source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/protocols/odata"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:19.517475+00:00"
+created_at: "2026-08-01T09:29:28.385166+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -41127,7 +41094,7 @@ title: "Create a Generic REST API base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/protocols/generic-rest"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:20.626848+00:00"
+created_at: "2026-08-01T09:29:30.177515+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -41366,7 +41333,7 @@ title: "Create a Google Cloud Storage base connection using the Flow Service API
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/google"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:19.477417+00:00"
+created_at: "2026-08-01T09:27:53.994799+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -41498,7 +41465,7 @@ title: "Create a Google Cloud Storage source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/google-cloud-storage"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:20.015051+00:00"
+created_at: "2026-08-01T09:27:54.731546+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -41585,7 +41552,7 @@ title: "Create a Google PubSub source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/google-pubsub"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:03.883852+00:00"
+created_at: "2026-08-01T09:27:31.280124+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -41703,7 +41670,7 @@ title: "Create a Google PubSub Source Connection Using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/google-pubsub"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:03.317735+00:00"
+created_at: "2026-08-01T09:27:30.443965+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -41921,7 +41888,7 @@ title: "Create a GreenPlum base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/greenplum"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:41.785020+00:00"
+created_at: "2026-08-01T09:28:27.249320+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -42043,7 +42010,7 @@ title: "Create a GreenPlum source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/greenplum"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:42.324089+00:00"
+created_at: "2026-08-01T09:28:28.015592+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -42115,7 +42082,7 @@ title: "Create a HubSpot base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/hubspot"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:03.471324+00:00"
+created_at: "2026-08-01T09:29:03.967549+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -42253,7 +42220,7 @@ title: "Create a HubSpot source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/hubspot"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:04.611701+00:00"
+created_at: "2026-08-01T09:29:05.776822+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -42330,7 +42297,7 @@ title: "Create a local file upload source connector in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/local-system/local-file-upload"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:58.489417+00:00"
+created_at: "2026-08-01T09:28:54.045975+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -42417,7 +42384,7 @@ title: "Create a Mailchimp Campaigns source connection using Experience Platform
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/mailchimp-campaigns"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:06.296835+00:00"
+created_at: "2026-08-01T09:29:08.339061+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -42526,7 +42493,7 @@ title: "Create a Mailchimp Members source connection using Experience Platform U
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/mailchimp-members"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:07.402815+00:00"
+created_at: "2026-08-01T09:29:09.958082+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -42635,7 +42602,7 @@ title: "Create a Marketo Engage source connection and dataflow for custom activi
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/marketo-custom-activities"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:16:19.428096+00:00"
+created_at: "2026-08-01T09:20:48.436928+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -42788,7 +42755,7 @@ title: "Create a Marketo Engage source connection and dataflow in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/marketo"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:16:18.877848+00:00"
+created_at: "2026-08-01T09:20:47.712023+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -42985,7 +42952,7 @@ title: "Create a Merkury Enterprise Identity Resolution source connection and da
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/data-partner/merkury"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:54.584539+00:00"
+created_at: "2026-08-01T09:28:46.131756+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -43206,7 +43173,7 @@ title: "Create a Microsoft Dynamics source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/crm/dynamics"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:25.609933+00:00"
+created_at: "2026-08-01T09:28:03.710782+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -43300,7 +43267,7 @@ title: "Create a Microsoft SQL Server base connection using the Flow Service API
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/sql-server"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:46.105473+00:00"
+created_at: "2026-08-01T09:28:33.756873+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -43430,7 +43397,7 @@ title: "Create a Microsoft SQL Server source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/sql-server"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:46.642946+00:00"
+created_at: "2026-08-01T09:28:34.487135+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -43509,7 +43476,7 @@ title: "Create a Mixpanel source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/analytics/mixpanel"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:10.075737+00:00"
+created_at: "2026-08-01T09:27:40.322176+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -43655,7 +43622,7 @@ title: "Create a OneTrust Integration source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/consent/onetrust"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:22.758797+00:00"
+created_at: "2026-08-01T09:27:58.900815+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -43736,7 +43703,7 @@ title: "Create a Oracle NetSuite Activities source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/oracle-netsuite-activities"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:09.579232+00:00"
+created_at: "2026-08-01T09:29:13.138759+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -43822,7 +43789,7 @@ title: "Create a Oracle NetSuite Entities source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/oracle-netsuite-entities"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:10.687894+00:00"
+created_at: "2026-08-01T09:29:14.894257+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -43920,7 +43887,7 @@ title: "Create a PathFactory base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/pathfactory"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:11.226088+00:00"
+created_at: "2026-08-01T09:29:16.029575+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -44056,7 +44023,7 @@ title: "Create a Pendo source connection dataflow and in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/analytics/pendo-webhook"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:11.752482+00:00"
+created_at: "2026-08-01T09:27:42.313880+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -44222,7 +44189,7 @@ title: "Create a Salesforce Service Cloud source connection using the Flow Servi
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/customer-success/salesforce-service-cloud"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:31.220291+00:00"
+created_at: "2026-08-01T09:28:12.928189+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -44344,7 +44311,7 @@ title: "Create a SAP Commerce source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/ecommerce/sap-commerce"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:55.741955+00:00"
+created_at: "2026-08-01T09:28:48.045860+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -44515,7 +44482,7 @@ title: "Create a schema using the Schema Editor"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui"
 category: "tutorials"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:15:47.819459+00:00"
+created_at: "2026-08-01T09:19:53.551204+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -44876,7 +44843,7 @@ title: "Create a schema using the Schema Registry API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-api"
 category: "tutorials"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:17:01.370271+00:00"
+created_at: "2026-08-01T09:21:54.427883+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -46347,7 +46314,7 @@ title: "Create a segment definition using the Segmentation Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/tutorials/create-a-segment"
 category: "tutorials"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-07-22T12:16:00.976155+00:00"
+created_at: "2026-08-01T09:20:16.626355+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -46467,7 +46434,7 @@ title: "Create a ServiceNow base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/customer-success/servicenow"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:33.433149+00:00"
+created_at: "2026-08-01T09:28:16.342397+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -46599,7 +46566,7 @@ title: "Create a ServiceNow source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/customer-success/servicenow"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:33.980143+00:00"
+created_at: "2026-08-01T09:28:17.075468+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -46674,7 +46641,7 @@ title: "Create a Shopify base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/ecommerce/shopify"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:56.838151+00:00"
+created_at: "2026-08-01T09:28:49.775109+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -46784,7 +46751,7 @@ title: "Create a Shopify source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/ecommerce/shopify"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:57.953643+00:00"
+created_at: "2026-08-01T09:28:51.373592+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -46855,7 +46822,7 @@ title: "Create a source connection and dataflow for Chatlio using the Flow Servi
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/chatlio-webhook"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:01.821528+00:00"
+created_at: "2026-08-01T09:29:01.713796+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -47359,7 +47326,7 @@ title: "Create a source connection and dataflow for Customer.io using the Flow S
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/customerio-webhook"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:02.927546+00:00"
+created_at: "2026-08-01T09:29:03.142741+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -47863,7 +47830,7 @@ title: "Create a source connection and dataflow for Mixpanel using the Flow Serv
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/analytics/mixpanel"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:10.646813+00:00"
+created_at: "2026-08-01T09:27:41.252805+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -48661,7 +48628,7 @@ title: "Create a source connection and dataflow for Oracle NetSuite Activities u
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/oracle-netsuite-activities"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:09.031385+00:00"
+created_at: "2026-08-01T09:29:12.399235+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -49218,7 +49185,7 @@ title: "Create a source connection and dataflow for Oracle NetSuite Entities usi
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/oracle-netsuite-entities"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:10.141997+00:00"
+created_at: "2026-08-01T09:29:14.072681+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -49790,7 +49757,7 @@ title: "Create a source connection and dataflow for Pendo using the Flow Service
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/analytics/pendo-webhook"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:12.313750+00:00"
+created_at: "2026-08-01T09:27:43.156522+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -50294,7 +50261,7 @@ title: "Create a source connection and dataflow for SAP Commerce using the Flow 
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/ecommerce/sap-commerce"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:55.180056+00:00"
+created_at: "2026-08-01T09:28:47.091319+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -50863,7 +50830,7 @@ title: "Create a source connection and dataflow for Shopify Streaming data using
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/ecommerce/shopify-streaming"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:19:51.096473+00:00"
+created_at: "2026-08-01T09:28:53.167268+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -50966,7 +50933,7 @@ title: "Create a source connection and dataflow for SugarCRM Accounts & Contacts
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/crm/sugarcrm-accounts-contacts"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:28.496539+00:00"
+created_at: "2026-08-01T09:28:08.439803+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -51605,7 +51572,7 @@ title: "Create a source connection and dataflow to stream LAVA data using the Fl
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/loyalty/lava"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:19:49.342623+00:00"
+created_at: "2026-08-01T09:28:56.720699+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -52273,7 +52240,7 @@ title: "Create a source connection and dataflow to stream LAVA data using the UI
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/loyalty/lava"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:19:49.920682+00:00"
+created_at: "2026-08-01T09:28:57.541834+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -52473,7 +52440,7 @@ title: "Create a sources dataflow using templates in the UI create-a-sources-dat
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/templates"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:26:19.522044+00:00"
+created_at: "2026-08-01T09:37:01.617464+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -52692,7 +52659,7 @@ title: "Create a Square base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/payments/square"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:14.503479+00:00"
+created_at: "2026-08-01T09:29:20.999319+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -52831,7 +52798,7 @@ title: "Create a Square source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/payments/square"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:15.652342+00:00"
+created_at: "2026-08-01T09:29:22.651976+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -52908,7 +52875,7 @@ title: "Create a streaming connection using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/create-streaming-connection-ui"
 category: "tutorials"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-07-22T12:26:42.715518+00:00"
+created_at: "2026-08-01T09:37:37.369741+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -52940,7 +52907,7 @@ title: "Create a streaming dataflow for a cloud storage source in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/cloud-storage-streaming"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:20:55.594464+00:00"
+created_at: "2026-08-01T09:27:18.232527+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -53066,7 +53033,7 @@ title: "Create a streaming dataflow for raw data using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/streaming"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:20:54.448081+00:00"
+created_at: "2026-08-01T09:27:16.675245+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -53616,7 +53583,7 @@ title: "Create a streaming source connection and dataflow for Shopify data using
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/ecommerce/shopify-streaming"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:19:50.489988+00:00"
+created_at: "2026-08-01T09:28:52.273249+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -54397,7 +54364,7 @@ title: "Create a SugarCRM Accounts & Contacts source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/crm/sugarcrm-accounts-contacts"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:29.051363+00:00"
+created_at: "2026-08-01T09:28:09.225913+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -54511,7 +54478,7 @@ title: "Create a SugarCRM Events source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/crm/sugarcrm-events"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:29.594492+00:00"
+created_at: "2026-08-01T09:28:10.120031+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -54613,7 +54580,7 @@ title: "Create a Teradata Vantage base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/teradata-vantage"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:50.441287+00:00"
+created_at: "2026-08-01T09:28:40.485364+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -54737,7 +54704,7 @@ title: "Create a Teradata Vantage source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/teradata-vantage"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:50.974671+00:00"
+created_at: "2026-08-01T09:28:41.279578+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -54810,7 +54777,7 @@ title: "Create a Veeva CRM base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/crm/veeva"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:30.145619+00:00"
+created_at: "2026-08-01T09:28:10.980175+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -54956,7 +54923,7 @@ title: "Create a Veeva CRM source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/crm/veeva"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:30.684390+00:00"
+created_at: "2026-08-01T09:28:12.085673+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -55031,7 +54998,7 @@ title: "Create a Zendesk source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/customer-success/zendesk"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:36.244378+00:00"
+created_at: "2026-08-01T09:28:19.911014+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -55215,7 +55182,7 @@ title: "Create an Acxiom Data Ingestion source connection and dataflow in the UI
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/data-partner/acxiom-data-ingestion"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:51.539585+00:00"
+created_at: "2026-08-01T09:28:42.114576+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -55428,7 +55395,7 @@ title: "Create an Acxiom Prospecting Data Import source connection and dataflow 
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/data-partner/acxiom-prospecting-data-import"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:52.338962+00:00"
+created_at: "2026-08-01T09:28:42.997931+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -55641,7 +55608,7 @@ title: "Create an ad-hoc schema"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/ad-hoc"
 category: "tutorials"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:18:42.704161+00:00"
+created_at: "2026-08-01T09:25:26.260352+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -55967,7 +55934,7 @@ title: "Create an Adobe Analytics source connection for classifications data in 
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:16:13.849749+00:00"
+created_at: "2026-08-01T09:20:40.384251+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -56041,7 +56008,7 @@ title: "Create an Adobe Audience Manager source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/audience-manager"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:16:12.741954+00:00"
+created_at: "2026-08-01T09:20:38.864823+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -56114,7 +56081,7 @@ title: "Create an Adobe Campaign Managed Cloud Services source connection using 
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/campaign"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:16:16.093575+00:00"
+created_at: "2026-08-01T09:20:43.701948+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -56233,7 +56200,7 @@ title: "Create an Amazon Kinesis source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/kinesis"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:20:54.987049+00:00"
+created_at: "2026-08-01T09:27:17.441818+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -56312,7 +56279,7 @@ title: "Create an Amazon Kinesis source connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/kinesis"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:20:53.897266+00:00"
+created_at: "2026-08-01T09:27:15.880019+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -56527,7 +56494,7 @@ title: "Create an Apache HDFS base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/hdfs"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:15.034585+00:00"
+created_at: "2026-08-01T09:27:47.334022+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -56649,7 +56616,7 @@ title: "Create an Apache HDFS source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/hdfs"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:15.581653+00:00"
+created_at: "2026-08-01T09:27:48.105367+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -56724,7 +56691,7 @@ title: "Create an Apache Hive on Azure HDInsights base connection using the Flow
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/hive"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:36.790067+00:00"
+created_at: "2026-08-01T09:28:20.725992+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -56854,7 +56821,7 @@ title: "Create an Apache Hive on Azure HDInsights source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/hive"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:37.327180+00:00"
+created_at: "2026-08-01T09:28:21.534753+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -56933,7 +56900,7 @@ title: "Create an Apache Spark on Azure HDInsights base connection using the Flo
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/spark"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:38.072610+00:00"
+created_at: "2026-08-01T09:28:22.418180+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -57069,7 +57036,7 @@ title: "Create an Apache Spark on Azure HDInsights source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/spark"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:38.605860+00:00"
+created_at: "2026-08-01T09:28:23.202156+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -57148,7 +57115,7 @@ title: "Create an authenticated streaming connection"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/create-authenticated-streaming-connection"
 category: "tutorials"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-07-22T12:24:25.923134+00:00"
+created_at: "2026-08-01T09:35:13.551026+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -57178,7 +57145,7 @@ title: "Create an Azure Azure Data Explorer base connection using the Flow Servi
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/data-explorer"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:39.138009+00:00"
+created_at: "2026-08-01T09:28:24.135862+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -57321,7 +57288,7 @@ title: "Create an Azure Data Explorer source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/data-explorer"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:39.675276+00:00"
+created_at: "2026-08-01T09:28:24.906211+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -57400,7 +57367,7 @@ title: "Create an Azure Data Lake Storage Gen2 base connection using the Flow Se
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/adls-gen2"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:12.857510+00:00"
+created_at: "2026-08-01T09:27:43.907104+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -57537,7 +57504,7 @@ title: "Create an Azure Data Lake Storage Gen2 source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/adls-gen2"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:13.393893+00:00"
+created_at: "2026-08-01T09:27:44.864238+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -57614,7 +57581,7 @@ title: "Create an Azure Event Hubs source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/eventhub"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:00.555525+00:00"
+created_at: "2026-08-01T09:27:26.052246+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -57741,7 +57708,7 @@ title: "Create an Azure Event Hubs source connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/eventhub"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:20:59.994205+00:00"
+created_at: "2026-08-01T09:27:25.255121+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -58034,7 +58001,7 @@ title: "Create an Azure File Storage base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/azure-file-storage"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:16.139973+00:00"
+created_at: "2026-08-01T09:27:48.980675+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -58164,7 +58131,7 @@ title: "Create an Azure File Storage source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/azure-file-storage"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:16.696766+00:00"
+created_at: "2026-08-01T09:27:49.738790+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -58239,7 +58206,7 @@ title: "Create an Azure Synapse Analytics source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/synapse-analytics"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:01.640113+00:00"
+created_at: "2026-08-01T09:27:27.681893+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -58318,7 +58285,7 @@ title: "Create an Azure Table Storage base connection using the Flow Service API
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/ats"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:40.250661+00:00"
+created_at: "2026-08-01T09:28:25.653469+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -58449,7 +58416,7 @@ title: "Create an Azure Table Storage source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/ats"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:41.251383+00:00"
+created_at: "2026-08-01T09:28:26.437580+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -58522,7 +58489,7 @@ title: "Create an FTP base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/ftp"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:18.368161+00:00"
+created_at: "2026-08-01T09:27:52.496188+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -58653,7 +58620,7 @@ title: "Create an FTP source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/ftp"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:18.939402+00:00"
+created_at: "2026-08-01T09:27:53.277795+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -58730,7 +58697,7 @@ title: "Create an HP Vertica base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/hp-vertica"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:42.856912+00:00"
+created_at: "2026-08-01T09:28:28.793569+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -58859,7 +58826,7 @@ title: "Create an HP Vertica source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/hp-vertica"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:43.393631+00:00"
+created_at: "2026-08-01T09:28:29.518522+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -58935,7 +58902,7 @@ title: "Create an HTTP API streaming connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/streaming/http"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:20:44.868345+00:00"
+created_at: "2026-08-01T09:27:00.055692+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -59492,7 +59459,7 @@ title: "Create an HTTP API streaming connection using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/streaming/http"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:17.886318+00:00"
+created_at: "2026-08-01T09:29:25.988229+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -59615,7 +59582,7 @@ title: "Create an IBM DB2 source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/ibm-db2"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:44.470004+00:00"
+created_at: "2026-08-01T09:28:31.278927+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -59696,7 +59663,7 @@ title: "Create an IBM IBM DB2 base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/ibm-db2"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:43.928833+00:00"
+created_at: "2026-08-01T09:28:30.505162+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -59829,7 +59796,7 @@ title: "Create an Oracle Eloqua base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/oracle-eloqua"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:26:25.187464+00:00"
+created_at: "2026-08-01T09:37:07.479758+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -59978,7 +59945,7 @@ title: "Create an Oracle Eloqua source connection using Experience Platform UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/oracle-eloqua"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:26:25.907102+00:00"
+created_at: "2026-08-01T09:37:08.261977+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -60077,7 +60044,7 @@ title: "Create an Oracle Object Storage base connection using the Flow Service A
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/oracle-object-storage"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:20.548789+00:00"
+created_at: "2026-08-01T09:27:55.517796+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -60220,7 +60187,7 @@ title: "Create an Oracle Object Storage Source Connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/oracle-object-storage"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:21.093510+00:00"
+created_at: "2026-08-01T09:27:56.307704+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -60298,7 +60265,7 @@ title: "Create an SFTP base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/sftp"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:20:13.791394+00:00"
+created_at: "2026-08-01T09:25:42.867015+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -60430,7 +60397,7 @@ title: "Create an SFTP source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/sftp"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:20:14.344171+00:00"
+created_at: "2026-08-01T09:25:44.019089+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -60526,7 +60493,7 @@ title: "Create audiences with predicted scores"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/intelligent-services/customer-ai/user-guide/create-segment"
 category: "guides"
 topic: "experience-platform/intelligent-services-guide"
-created_at: "2026-07-22T12:23:55.942845+00:00"
+created_at: "2026-08-01T09:34:24.613366+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Intelligent Services Guide
 
@@ -60570,7 +60537,7 @@ title: "Create datasets for capturing IAB TCF 2.0 consent data"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/consent/iab/dataset"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-07-22T12:26:41.560305+00:00"
+created_at: "2026-08-01T09:37:36.635739+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -60730,7 +60697,7 @@ title: "Create drafts of your Flow Service entities using the API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/draft"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:24:02.619474+00:00"
+created_at: "2026-08-01T09:34:36.788524+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -61219,7 +61186,7 @@ title: "Creating a streaming connection using the API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/create-streaming-connection"
 category: "tutorials"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-07-22T12:16:09.995667+00:00"
+created_at: "2026-08-01T09:20:34.568844+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -61251,7 +61218,7 @@ title: "CSV template to schema conversion API endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/csv-to-schema"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:27:04.961408+00:00"
+created_at: "2026-08-01T09:38:33.385822+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -61494,7 +61461,7 @@ title: "Customer AI overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/intelligent-services/customer-ai/overview"
 category: "overview"
 topic: "experience-platform/intelligent-services-guide"
-created_at: "2026-07-22T12:17:49.593317+00:00"
+created_at: "2026-08-01T09:23:13.635313+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Intelligent Services Guide
 
@@ -61557,7 +61524,7 @@ title: "Dashboard customization overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/customize/overview"
 category: "overview"
 topic: "experience-platform/dashboards-guide"
-created_at: "2026-07-22T12:28:11.630252+00:00"
+created_at: "2026-08-01T09:38:15.982001+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dashboards Guide
 
@@ -61620,7 +61587,7 @@ title: "Dashboards overview dashboards"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/home"
 category: "overview"
 topic: "experience-platform/dashboards-guide"
-created_at: "2026-07-22T12:14:57.162577+00:00"
+created_at: "2026-08-01T09:22:33.325550+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dashboards Guide
 
@@ -61673,7 +61640,7 @@ title: "Data Access API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-access/api"
 category: "reference"
 topic: "experience-platform/data-access-guide"
-created_at: "2026-07-22T12:18:56.723084+00:00"
+created_at: "2026-08-01T09:26:46.377198+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Access Guide
 
@@ -61945,7 +61912,7 @@ title: "Data Access overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-access/home"
 category: "overview"
 topic: "experience-platform/data-access-guide"
-created_at: "2026-07-22T12:14:57.691298+00:00"
+created_at: "2026-08-01T09:22:03.767025+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Access Guide
 
@@ -61987,7 +61954,7 @@ title: "Data collection overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/web-sdk/home"
 category: "overview"
 topic: "experience-platform/data-collection"
-created_at: "2026-07-22T12:14:54.376316+00:00"
+created_at: "2026-08-01T09:26:55.942105+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Collection
 
@@ -62036,7 +62003,7 @@ title: "Data collection overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/collection/home"
 category: "overview"
 topic: "experience-platform/data-collection"
-created_at: "2026-07-22T12:14:53.302142+00:00"
+created_at: "2026-08-01T09:22:31.827846+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Collection
 
@@ -62084,14 +62051,14 @@ recommendation-more-help
 title: "Data Distiller overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/data-distiller/overview"
 category: "overview"
-topic: "query/data-distiller/overview"
-created_at: "2026-07-22T12:25:55.443969+00:00"
+topic: "experience-platform/query-service-guide"
+created_at: "2026-08-01T09:32:39.718253+00:00"
 ---
-Breadcrumbs: Documentation > Query Service Guide
+Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
 # Data Distiller overview
 
-Last update: May 13, 2026
+Last update: July 27, 2026
 - Topics:
 - [Queries](#)
 
@@ -62101,6 +62068,8 @@ CREATED FOR:
 - Developer
 
 Data Distiller is a package offering that includes a subset of the functionalities from Adobe Experience Platform. With Data Distiller you can perform post-ingestion data preparation (such as cleaning, shaping, and manipulation) for real-time customer profile or analytical use cases by executing batch queries in Query Service. Your use of Data Distiller is dependent on your entitlement for Experience Platform-based applications.
+
+To learn how Data Distiller derives activation-ready signals from historical data in the data lake, see [Long-term personalization with Data Distiller](/en/docs/experience-platform/query/data-distiller/long-term-personalization). To compare that approach with Customer Journey Analytics and Federated Audience Composition, see [Choose the right long-term personalization approach](/en/docs/experience-platform/data-lifecycle/choose-a-personalization-approach).
 
 Commented out references to licence usage dashboard. It is temporarily hidden:
                 ## License usage {#license-usage}
@@ -62145,7 +62114,7 @@ title: "Data Distiller Templates"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/sql-insights-query-pro-mode/templates/overview"
 category: "overview"
 topic: "experience-platform/dashboards-guide"
-created_at: "2026-07-22T12:25:56.159842+00:00"
+created_at: "2026-08-01T09:36:25.806597+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dashboards Guide
 
@@ -62206,7 +62175,7 @@ title: "Data elements endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/data-elements"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:28:39.357824+00:00"
+created_at: "2026-08-01T09:39:46.038136+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -63801,7 +63770,7 @@ title: "Data encryption in Adobe Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/encryption"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-07-22T12:18:46.048603+00:00"
+created_at: "2026-08-01T09:24:40.511502+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -63884,7 +63853,7 @@ title: "Data governance end-to-end guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/e2e"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-07-22T12:17:05.225347+00:00"
+created_at: "2026-08-01T09:22:00.719690+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -64037,7 +64006,7 @@ title: "Data Governance in Real-Time CDP"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/privacy/data-governance-overview"
 category: "guides"
 topic: "experience-platform/real-time-customer-data-platform-guide"
-created_at: "2026-07-22T12:15:08.915097+00:00"
+created_at: "2026-08-01T09:19:07.807920+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Data Platform Guide
 
@@ -64112,7 +64081,7 @@ title: "Data Governance overview data-governance-overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/home"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-07-22T12:14:34.393930+00:00"
+created_at: "2026-08-01T09:18:40.813682+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -64273,7 +64242,7 @@ title: "Data governance policies endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/api/policies"
 category: "reference"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-07-22T12:26:02.110219+00:00"
+created_at: "2026-08-01T09:36:32.368627+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -65108,7 +65077,7 @@ title: "Data Hygiene API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-lifecycle/api/overview"
 category: "reference"
 topic: "experience-platform/advanced-data-lifecycle-management-guide"
-created_at: "2026-07-22T12:19:06.450347+00:00"
+created_at: "2026-08-01T09:26:47.107441+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Advanced Data Lifecycle Management Guide
 
@@ -65180,7 +65149,7 @@ title: "Data Ingestion overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/home"
 category: "overview"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-07-22T12:14:58.232419+00:00"
+created_at: "2026-08-01T09:20:29.800127+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -65339,7 +65308,7 @@ title: "Data lifecycle UI guide lifecycle-ui-guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-lifecycle/ui/overview"
 category: "overview"
 topic: "experience-platform/advanced-data-lifecycle-management-guide"
-created_at: "2026-07-22T12:19:05.924404+00:00"
+created_at: "2026-08-01T09:25:35.297466+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Advanced Data Lifecycle Management Guide
 
@@ -65379,7 +65348,7 @@ title: "Data Management Platform (DMP) destinations overview dmp-destinations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/data-management/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:17:33.653219+00:00"
+created_at: "2026-08-01T09:22:48.083974+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -65412,7 +65381,7 @@ title: "Data Mirror overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/data-mirror/overview"
 category: "overview"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:18:43.256409+00:00"
+created_at: "2026-08-01T09:25:27.044014+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -65583,7 +65552,7 @@ title: "Data Prep overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-prep/home"
 category: "overview"
 topic: "experience-platform/data-prep-guide"
-created_at: "2026-07-22T12:14:58.801959+00:00"
+created_at: "2026-08-01T09:26:55.129761+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Prep Guide
 
@@ -65680,7 +65649,7 @@ title: "Data quality in Adobe Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/quality/overview"
 category: "overview"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-07-22T12:17:18.916371+00:00"
+created_at: "2026-08-01T09:22:24.860020+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -65793,7 +65762,7 @@ title: "Data Science Workspace overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/home"
 category: "overview"
 topic: "experience-platform/data-science-workspace-guide"
-created_at: "2026-07-22T12:15:02.139562+00:00"
+created_at: "2026-08-01T09:20:05.795939+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Science Workspace Guide
 
@@ -65997,7 +65966,7 @@ title: "Data Science Workspace troubleshooting guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/troubleshooting-guide"
 category: "guides"
 topic: "experience-platform/data-science-workspace-guide"
-created_at: "2026-07-22T12:18:33.559411+00:00"
+created_at: "2026-08-01T09:24:23.293842+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Science Workspace Guide
 
@@ -66145,7 +66114,7 @@ title: "Data types endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/data-types"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:20:43.778642+00:00"
+created_at: "2026-08-01T09:26:58.494548+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -66860,7 +66829,7 @@ title: "Data usage labels glossary data-usage-labels-glossary"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/reference"
 category: "reference"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-07-22T12:15:48.378919+00:00"
+created_at: "2026-08-01T09:19:54.411810+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -67042,7 +67011,7 @@ title: "Data usage labels overview overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/overview"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-07-22T12:14:34.942760+00:00"
+created_at: "2026-08-01T09:18:41.595391+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -67120,7 +67089,7 @@ title: "Data usage policies overview policies-overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/overview"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-07-22T12:14:35.531129+00:00"
+created_at: "2026-08-01T09:18:42.731745+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -67230,7 +67199,7 @@ title: "Dataflows overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dataflows/home"
 category: "overview"
 topic: "experience-platform/dataflows-guide"
-created_at: "2026-07-22T12:14:59.344446+00:00"
+created_at: "2026-08-01T09:26:36.358562+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dataflows Guide
 
@@ -67274,7 +67243,7 @@ title: "Dataset expiration endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-lifecycle/api/dataset-expiration"
 category: "reference"
 topic: "experience-platform/advanced-data-lifecycle-management-guide"
-created_at: "2026-07-22T12:19:04.175131+00:00"
+created_at: "2026-08-01T09:25:36.277705+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Advanced Data Lifecycle Management Guide
 
@@ -68040,7 +68009,7 @@ title: "Datasets overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/overview"
 category: "overview"
 topic: "experience-platform/catalog-and-datasets-guide"
-created_at: "2026-07-22T12:14:30.482845+00:00"
+created_at: "2026-08-01T09:18:34.476021+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Catalog and Datasets Guide
 
@@ -68123,7 +68092,7 @@ title: "Datasets UI guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/user-guide"
 category: "guides"
 topic: "experience-platform/catalog-and-datasets-guide"
-created_at: "2026-07-22T12:15:55.838383+00:00"
+created_at: "2026-08-01T09:20:08.612947+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Catalog and Datasets Guide
 
@@ -68462,7 +68431,7 @@ title: "Datastreams overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/datastreams/overview"
 category: "overview"
 topic: "experience-platform/datastreams-guide"
-created_at: "2026-07-22T12:14:53.831952+00:00"
+created_at: "2026-08-01T09:25:12.263638+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Datastreams Guide
 
@@ -68542,7 +68511,7 @@ title: "defaultConsent"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/collection/js/commands/configure/defaultconsent"
 category: "guides"
 topic: "experience-platform/data-collection"
-created_at: "2026-07-22T12:27:35.956818+00:00"
+created_at: "2026-08-01T09:38:12.200754+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Collection
 
@@ -68620,7 +68589,7 @@ title: "Define a many-to-one relationship between two schemas in Real-Time Custo
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/relationship-b2b"
 category: "tutorials"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:17:16.726957+00:00"
+created_at: "2026-08-01T09:22:19.749660+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -68748,7 +68717,7 @@ title: "Define a one-to-one relationship between two schemas using the Schema Ed
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/relationship-ui"
 category: "tutorials"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:16:58.560957+00:00"
+created_at: "2026-08-01T09:21:49.096545+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -68874,7 +68843,7 @@ title: "Define a relationship between two schemas using the Schema Registry API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/relationship-api"
 category: "tutorials"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:22:21.716929+00:00"
+created_at: "2026-08-01T09:29:31.878400+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -69380,7 +69349,7 @@ title: "Define XDM fields in the Schema Registry API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/custom-fields-api"
 category: "tutorials"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:17:01.968260+00:00"
+created_at: "2026-08-01T09:21:55.244275+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -69799,7 +69768,7 @@ title: "Define XDM fields in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/ui/fields/overview"
 category: "overview"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:17:59.776511+00:00"
+created_at: "2026-08-01T09:23:30.586594+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -69985,7 +69954,7 @@ title: "Delegate descriptor IDs"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/guides/delegate-descriptor-ids"
 category: "guides"
 topic: "tags/api/guides"
-created_at: "2026-07-22T12:29:31.569512+00:00"
+created_at: "2026-08-01T09:40:44.231570+00:00"
 ---
 Breadcrumbs: Documentation > Tags
 
@@ -70051,7 +70020,7 @@ title: "Delete a dataflow using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/delete-dataflows"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:24:20.539977+00:00"
+created_at: "2026-08-01T09:35:05.776996+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -70131,7 +70100,7 @@ title: "Delete a destination account using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/delete-destination-account"
 category: "reference"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:27:35.277227+00:00"
+created_at: "2026-08-01T09:38:10.702026+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -70260,7 +70229,7 @@ title: "Delete a destination dataflow using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/delete-destination-dataflow"
 category: "reference"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:29:10.403905+00:00"
+created_at: "2026-08-01T09:40:11.234115+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -70371,7 +70340,7 @@ title: "Delete an account using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/delete"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:24:21.071024+00:00"
+created_at: "2026-08-01T09:35:06.569152+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -70455,7 +70424,7 @@ title: "Delete dataflows in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/delete"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:20:52.800813+00:00"
+created_at: "2026-08-01T09:27:14.192180+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -70518,7 +70487,7 @@ title: "Delete source connection accounts"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/delete-accounts"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:27:03.755644+00:00"
+created_at: "2026-08-01T09:38:09.956544+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -70583,7 +70552,7 @@ title: "Deploy JavaScript tags to manage customer consent"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/client-side/consent"
 category: "guides"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:23:02.205285+00:00"
+created_at: "2026-08-01T09:32:50.871067+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -70656,7 +70625,7 @@ title: "Deprecate an XDM field in the API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/field-deprecation-api"
 category: "tutorials"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:22:22.261465+00:00"
+created_at: "2026-08-01T09:29:32.604811+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -70945,7 +70914,7 @@ title: "Deprecate an XDM field in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/field-deprecation-ui"
 category: "tutorials"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:26:31.406066+00:00"
+created_at: "2026-08-01T09:37:13.987444+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -71011,7 +70980,7 @@ title: "Derived datasets"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/data-distiller/derived-datasets/overview"
 category: "overview"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-07-22T12:20:23.829031+00:00"
+created_at: "2026-08-01T09:26:12.691944+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -71079,7 +71048,7 @@ title: "Descriptors endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/descriptors"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:16:57.992105+00:00"
+created_at: "2026-08-01T09:21:48.067090+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -71902,7 +71871,7 @@ title: "Destinations catalog overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:14:36.075007+00:00"
+created_at: "2026-08-01T09:18:43.498685+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -71956,7 +71925,7 @@ title: "Destinations dashboard"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/destinations"
 category: "guides"
 topic: "experience-platform/dashboards-guide"
-created_at: "2026-07-22T12:22:49.212374+00:00"
+created_at: "2026-08-01T09:32:27.568505+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dashboards Guide
 
@@ -72198,7 +72167,7 @@ title: "Destinations in Real-Time Customer Data Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/destinations/overview"
 category: "overview"
 topic: "experience-platform/real-time-customer-data-platform-guide"
-created_at: "2026-07-22T12:15:08.379177+00:00"
+created_at: "2026-08-01T09:19:06.836960+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Data Platform Guide
 
@@ -72229,7 +72198,7 @@ title: "Destinations overview overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/home"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:15:03.218772+00:00"
+created_at: "2026-08-01T09:19:16.811375+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -72440,7 +72409,7 @@ title: "Developing ETL Integrations for Adobe Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/etl/home"
 category: "overview"
 topic: "experience-platform/etl-guide"
-created_at: "2026-07-22T12:22:26.700101+00:00"
+created_at: "2026-08-01T09:29:39.266370+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > ETL Guide
 
@@ -73260,7 +73229,7 @@ title: "Didomi"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/connectors/consent/didomi"
 category: "guides"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:16:31.048572+00:00"
+created_at: "2026-08-01T09:21:05.528232+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -73424,7 +73393,7 @@ title: "Discover insights with Customer AI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/intelligent-services/customer-ai/user-guide/discover-insights"
 category: "guides"
 topic: "experience-platform/intelligent-services-guide"
-created_at: "2026-07-22T12:17:49.047144+00:00"
+created_at: "2026-08-01T09:23:12.877681+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Intelligent Services Guide
 
@@ -73609,7 +73578,7 @@ title: "Download scores in Customer AI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/intelligent-services/customer-ai/user-guide/download-scores"
 category: "guides"
 topic: "experience-platform/intelligent-services-guide"
-created_at: "2026-07-22T12:23:56.489208+00:00"
+created_at: "2026-08-01T09:34:25.467954+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Intelligent Services Guide
 
@@ -73923,7 +73892,7 @@ title: "Draft dataflows in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/draft"
 category: "tutorials"
 topic: "sources/ui-tutorials/draft"
-created_at: "2026-07-22T12:24:02.052667+00:00"
+created_at: "2026-08-01T09:34:35.866178+00:00"
 ---
 Breadcrumbs: Documentation > Source Connectors Guide
 
@@ -74005,7 +73974,7 @@ title: "Dynamic datastream configuration overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/datastreams/dynamic-datastream/overview"
 category: "overview"
 topic: "experience-platform/datastreams-guide"
-created_at: "2026-07-22T12:26:10.119053+00:00"
+created_at: "2026-08-01T09:36:51.692863+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Datastreams Guide
 
@@ -74109,7 +74078,7 @@ title: "Edit destination connections using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/edit-destination"
 category: "reference"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:25:12.122171+00:00"
+created_at: "2026-08-01T09:37:45.930681+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -74498,7 +74467,7 @@ title: "Effective policies endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/api/effective-policies"
 category: "reference"
 topic: "experience-platform/access-control-guide"
-created_at: "2026-07-22T12:24:24.312567+00:00"
+created_at: "2026-08-01T09:35:11.210102+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Access Control Guide
 
@@ -74665,7 +74634,7 @@ title: "Email marketing destinations overview email-marketing-destinations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/email-marketing/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:17:34.189370+00:00"
+created_at: "2026-08-01T09:22:48.786173+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -74765,7 +74734,7 @@ title: "Enable change data capture for source connections in the API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/change-data-capture"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:18:44.403328+00:00"
+created_at: "2026-08-01T09:25:28.789800+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -75099,7 +75068,7 @@ title: "Encrypted data ingestion"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/encrypt-data"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:23:58.741968+00:00"
+created_at: "2026-08-01T09:24:42.980058+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -75501,7 +75470,7 @@ title: "Encrypting values"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/guides/encrypting-values"
 category: "guides"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:29:30.882167+00:00"
+created_at: "2026-08-01T09:40:41.697144+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -75603,7 +75572,7 @@ title: "Enforce data usage compliance for a segment definition using APIs"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/tutorials/governance"
 category: "tutorials"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-07-22T12:23:05.714294+00:00"
+created_at: "2026-08-01T09:32:55.894596+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -76022,7 +75991,7 @@ title: "Enforce data usage policies using the Policy Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/enforcement/api-enforcement"
 category: "reference"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-07-22T12:23:04.593049+00:00"
+created_at: "2026-08-01T09:32:54.278606+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -76442,7 +76411,7 @@ title: "Engines endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/engines"
 category: "reference"
 topic: "experience-platform/data-science-workspace-guide"
-created_at: "2026-07-22T12:26:03.746444+00:00"
+created_at: "2026-08-01T09:36:34.225428+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Science Workspace Guide
 
@@ -76992,7 +76961,7 @@ title: "Entities endpoint (Profile access)"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/api/entities"
 category: "reference"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-07-22T12:15:59.780929+00:00"
+created_at: "2026-08-01T09:20:14.731296+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -77483,7 +77452,7 @@ title: "Environments endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/environments"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:27:27.023453+00:00"
+created_at: "2026-08-01T09:40:09.612816+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -78530,7 +78499,7 @@ title: "Evaluate and access segment definition results"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/tutorials/evaluate-a-segment"
 category: "tutorials"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-07-22T12:16:03.225881+00:00"
+created_at: "2026-08-01T09:20:19.981604+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -78781,7 +78750,7 @@ title: "Event forwarding extensions reference"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:27:17.881712+00:00"
+created_at: "2026-08-01T09:39:57.584180+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -78840,7 +78809,7 @@ title: "Event Forwarding guided setup overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/event-forwarding/guided-setup"
 category: "guides"
 topic: "tags/event-forwarding/guided-setup"
-created_at: "2026-07-22T12:29:35.965572+00:00"
+created_at: "2026-08-01T09:41:14.087489+00:00"
 ---
 Breadcrumbs: Documentation > Tags
 
@@ -78949,7 +78918,7 @@ title: "Event forwarding overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/event-forwarding/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:14:56.086028+00:00"
+created_at: "2026-08-01T09:23:21.189866+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -79066,7 +79035,7 @@ title: "Examples"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/use-cases/overview"
 category: "overview"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-07-22T12:25:33.998966+00:00"
+created_at: "2026-08-01T09:35:37.484070+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -79103,7 +79072,7 @@ title: "Experience Platform API fundamentals"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/platform-apis/api-fundamentals"
 category: "reference"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-07-22T12:14:48.320671+00:00"
+created_at: "2026-08-01T09:19:02.805383+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -79252,7 +79221,7 @@ title: "Experience Platform documentation overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/documentation/overview"
 category: "overview"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-07-22T12:14:47.168275+00:00"
+created_at: "2026-08-01T09:19:01.158877+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -79293,7 +79262,7 @@ title: "Experiments endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/experiments"
 category: "reference"
 topic: "experience-platform/data-science-workspace-guide"
-created_at: "2026-07-22T12:26:04.592051+00:00"
+created_at: "2026-08-01T09:36:34.783880+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Science Workspace Guide
 
@@ -79756,7 +79725,7 @@ title: "Explore a payment system using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/explore/payments"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:26:30.704320+00:00"
+created_at: "2026-08-01T09:37:13.268423+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -79955,7 +79924,7 @@ title: "Explore data tables using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/explore/tabular"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:20:56.709601+00:00"
+created_at: "2026-08-01T09:27:20.289692+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -80176,7 +80145,7 @@ title: "Explore your cloud storage folders using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/explore/cloud-storage"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:20:12.671421+00:00"
+created_at: "2026-08-01T09:25:40.926939+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -80397,7 +80366,7 @@ title: "Export datasets by using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/export-datasets"
 category: "reference"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:15:35.915890+00:00"
+created_at: "2026-08-01T09:19:31.070092+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -81094,14 +81063,14 @@ Amazon S3
 | accordion |
 | --- |
 | Create dataset dataflow to Amazon S3 destination - Request |
-| Note the highlighted lines with inline comments in the request example, which provide additional information. Remove the inline comments in the request when copy-pasting the request into your terminal of choice. code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an Amazon S3 cloud storage destination", "description": "This operation creates a dataflow to export datasets to an Amazon S3 cloud storage destination", "flowSpec": { "id": "269ba276-16fc-47db-92b0-c1049a3c131f", // Amazon S3 flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' The table below provides descriptions of all parameters in the scheduleParams section for customizing export times, frequency, location, and more for your dataset exports. table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto Parameter Description exportMode Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL" . For more information about the two options, see export full files and export incremental files in the batch destinations activation tutorial. The three available export options are: Full file - Once : "DAILY_FULL_EXPORT" can only be used in combination with timeUnit : day and interval : 0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option. Incremental daily exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : day , and interval : 1 for daily incremental exports. Incremental hourly exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : hour , and interval : 3 , 6 , 9 , or 12 for hourly incremental exports. timeUnit Select day or hour depending on the frequency with which you want to export dataset files. interval Select 1 when the timeUnit is day and 3 , 6 , 9 , 12 when the time unit is hour . startTime The date and time in UNIX seconds when dataset exports should start. endTime The date and time in UNIX seconds when dataset exports should end. foldernameTemplate Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. | code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 | curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an Amazon S3 cloud storage destination", "description": "This operation creates a dataflow to export datasets to an Amazon S3 cloud storage destination", "flowSpec": { "id": "269ba276-16fc-47db-92b0-c1049a3c131f", // Amazon S3 flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' | table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto |  | Parameter | Description | exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :3,6,9, or 12 for hourly incremental exports. | timeUnit | Select day or hour depending on the frequency with which you want to export dataset files. | interval | Select 1 when the timeUnit is day and 3,6,9,12 when the time unit is hour. | startTime | The date and time in UNIX seconds when dataset exports should start. | endTime | The date and time in UNIX seconds when dataset exports should end. | foldernameTemplate | Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. |
+| Note the highlighted lines with inline comments in the request example, which provide additional information. Remove the inline comments in the request when copy-pasting the request into your terminal of choice. code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an Amazon S3 cloud storage destination", "description": "This operation creates a dataflow to export datasets to an Amazon S3 cloud storage destination", "flowSpec": { "id": "269ba276-16fc-47db-92b0-c1049a3c131f", // Amazon S3 flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 1, 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' The table below provides descriptions of all parameters in the scheduleParams section for customizing export times, frequency, location, and more for your dataset exports. table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto Parameter Description exportMode Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL" . For more information about the two options, see export full files and export incremental files in the batch destinations activation tutorial. The three available export options are: Full file - Once : "DAILY_FULL_EXPORT" can only be used in combination with timeUnit : day and interval : 0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option. Incremental daily exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : day , and interval : 1 for daily incremental exports. Incremental hourly exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : hour , and interval : 1 , 3 , 6 , 9 , or 12 for hourly incremental exports. timeUnit Select day or hour depending on the frequency with which you want to export dataset files. interval Select 1 when the timeUnit is day. Select 1 , 3 , 6 , 9 , or 12 when the timeUnit is hour. startTime The date and time in UNIX seconds when dataset exports should start. endTime The date and time in UNIX seconds when dataset exports should end. foldernameTemplate Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. | code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 | curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an Amazon S3 cloud storage destination", "description": "This operation creates a dataflow to export datasets to an Amazon S3 cloud storage destination", "flowSpec": { "id": "269ba276-16fc-47db-92b0-c1049a3c131f", // Amazon S3 flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 1, 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' | table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto |  | Parameter | Description | exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :1,3,6,9, or 12 for hourly incremental exports. | timeUnit | Select day or hour depending on the frequency with which you want to export dataset files. | interval | Select 1 when the timeUnit is day. Select 1, 3, 6, 9, or 12 when the timeUnit is hour. | startTime | The date and time in UNIX seconds when dataset exports should start. | endTime | The date and time in UNIX seconds when dataset exports should end. | foldernameTemplate | Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. |
 | code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 |
-| curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an Amazon S3 cloud storage destination", "description": "This operation creates a dataflow to export datasets to an Amazon S3 cloud storage destination", "flowSpec": { "id": "269ba276-16fc-47db-92b0-c1049a3c131f", // Amazon S3 flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' |
+| curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an Amazon S3 cloud storage destination", "description": "This operation creates a dataflow to export datasets to an Amazon S3 cloud storage destination", "flowSpec": { "id": "269ba276-16fc-47db-92b0-c1049a3c131f", // Amazon S3 flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 1, 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' |
 | table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto |  |
 | Parameter | Description |
-| exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :3,6,9, or 12 for hourly incremental exports. |
+| exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :1,3,6,9, or 12 for hourly incremental exports. |
 | timeUnit | Select day or hour depending on the frequency with which you want to export dataset files. |
-| interval | Select 1 when the timeUnit is day and 3,6,9,12 when the time unit is hour. |
+| interval | Select 1 when the timeUnit is day. Select 1, 3, 6, 9, or 12 when the timeUnit is hour. |
 | startTime | The date and time in UNIX seconds when dataset exports should start. |
 | endTime | The date and time in UNIX seconds when dataset exports should end. |
 | foldernameTemplate | Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. |
@@ -81121,14 +81090,14 @@ Azure Blob Storage
 | accordion |
 | --- |
 | Create dataset dataflow to Azure Blob Storage destination - Request |
-| Note the highlighted lines with inline comments in the request example, which provide additional information. Remove the inline comments in the request when copy-pasting the request into your terminal of choice. code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an Azure Blob Storage cloud storage destination", "description": "This operation creates a dataflow to export datasets to an Azure Blob Storage cloud storage destination", "flowSpec": { "id": "95bd8965-fc8a-4119-b9c3-944c2c2df6d2", // Azure Blob Storage flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' The table below provides descriptions of all parameters in the scheduleParams section for customizing export times, frequency, location, and more for your dataset exports. table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto Parameter Description exportMode Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL" . For more information about the two options, see export full files and export incremental files in the batch destinations activation tutorial. The three available export options are: Full file - Once : "DAILY_FULL_EXPORT" can only be used in combination with timeUnit : day and interval : 0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option. Incremental daily exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : day , and interval : 1 for daily incremental exports. Incremental hourly exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : hour , and interval : 3 , 6 , 9 , or 12 for hourly incremental exports. timeUnit Select day or hour depending on the frequency with which you want to export dataset files. interval Select 1 when the timeUnit is day and 3 , 6 , 9 , 12 when the time unit is hour . startTime The date and time in UNIX seconds when dataset exports should start. endTime The date and time in UNIX seconds when dataset exports should end. foldernameTemplate Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. | code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 | curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an Azure Blob Storage cloud storage destination", "description": "This operation creates a dataflow to export datasets to an Azure Blob Storage cloud storage destination", "flowSpec": { "id": "95bd8965-fc8a-4119-b9c3-944c2c2df6d2", // Azure Blob Storage flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' | table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto |  | Parameter | Description | exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :3,6,9, or 12 for hourly incremental exports. | timeUnit | Select day or hour depending on the frequency with which you want to export dataset files. | interval | Select 1 when the timeUnit is day and 3,6,9,12 when the time unit is hour. | startTime | The date and time in UNIX seconds when dataset exports should start. | endTime | The date and time in UNIX seconds when dataset exports should end. | foldernameTemplate | Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. |
+| Note the highlighted lines with inline comments in the request example, which provide additional information. Remove the inline comments in the request when copy-pasting the request into your terminal of choice. code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an Azure Blob Storage cloud storage destination", "description": "This operation creates a dataflow to export datasets to an Azure Blob Storage cloud storage destination", "flowSpec": { "id": "95bd8965-fc8a-4119-b9c3-944c2c2df6d2", // Azure Blob Storage flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 1, 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' The table below provides descriptions of all parameters in the scheduleParams section for customizing export times, frequency, location, and more for your dataset exports. table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto Parameter Description exportMode Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL" . For more information about the two options, see export full files and export incremental files in the batch destinations activation tutorial. The three available export options are: Full file - Once : "DAILY_FULL_EXPORT" can only be used in combination with timeUnit : day and interval : 0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option. Incremental daily exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : day , and interval : 1 for daily incremental exports. Incremental hourly exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : hour , and interval : 1 , 3 , 6 , 9 , or 12 for hourly incremental exports. timeUnit Select day or hour depending on the frequency with which you want to export dataset files. interval Select 1 when the timeUnit is day. Select 1 , 3 , 6 , 9 , or 12 when the timeUnit is hour. startTime The date and time in UNIX seconds when dataset exports should start. endTime The date and time in UNIX seconds when dataset exports should end. foldernameTemplate Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. | code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 | curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an Azure Blob Storage cloud storage destination", "description": "This operation creates a dataflow to export datasets to an Azure Blob Storage cloud storage destination", "flowSpec": { "id": "95bd8965-fc8a-4119-b9c3-944c2c2df6d2", // Azure Blob Storage flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 1, 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' | table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto |  | Parameter | Description | exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :1,3,6,9, or 12 for hourly incremental exports. | timeUnit | Select day or hour depending on the frequency with which you want to export dataset files. | interval | Select 1 when the timeUnit is day. Select 1, 3, 6, 9, or 12 when the timeUnit is hour. | startTime | The date and time in UNIX seconds when dataset exports should start. | endTime | The date and time in UNIX seconds when dataset exports should end. | foldernameTemplate | Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. |
 | code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 |
-| curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an Azure Blob Storage cloud storage destination", "description": "This operation creates a dataflow to export datasets to an Azure Blob Storage cloud storage destination", "flowSpec": { "id": "95bd8965-fc8a-4119-b9c3-944c2c2df6d2", // Azure Blob Storage flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' |
+| curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an Azure Blob Storage cloud storage destination", "description": "This operation creates a dataflow to export datasets to an Azure Blob Storage cloud storage destination", "flowSpec": { "id": "95bd8965-fc8a-4119-b9c3-944c2c2df6d2", // Azure Blob Storage flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 1, 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' |
 | table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto |  |
 | Parameter | Description |
-| exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :3,6,9, or 12 for hourly incremental exports. |
+| exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :1,3,6,9, or 12 for hourly incremental exports. |
 | timeUnit | Select day or hour depending on the frequency with which you want to export dataset files. |
-| interval | Select 1 when the timeUnit is day and 3,6,9,12 when the time unit is hour. |
+| interval | Select 1 when the timeUnit is day. Select 1, 3, 6, 9, or 12 when the timeUnit is hour. |
 | startTime | The date and time in UNIX seconds when dataset exports should start. |
 | endTime | The date and time in UNIX seconds when dataset exports should end. |
 | foldernameTemplate | Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. |
@@ -81148,14 +81117,14 @@ Azure Data Lake Gen 2(ADLS Gen2)
 | accordion |
 | --- |
 | Create dataset dataflow to Azure Data Lake Gen 2(ADLS Gen2) destination - Request |
-| Note the highlighted lines with inline comments in the request example, which provide additional information. Remove the inline comments in the request when copy-pasting the request into your terminal of choice. code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an Azure Data Lake Gen 2(ADLS Gen2) cloud storage destination", "description": "This operation creates a dataflow to export datasets to an Azure Data Lake Gen 2(ADLS Gen2) cloud storage destination", "flowSpec": { "id": "17be2013-2549-41ce-96e7-a70363bec293", // Azure Data Lake Gen 2(ADLS Gen2) flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' The table below provides descriptions of all parameters in the scheduleParams section for customizing export times, frequency, location, and more for your dataset exports. table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto Parameter Description exportMode Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL" . For more information about the two options, see export full files and export incremental files in the batch destinations activation tutorial. The three available export options are: Full file - Once : "DAILY_FULL_EXPORT" can only be used in combination with timeUnit : day and interval : 0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option. Incremental daily exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : day , and interval : 1 for daily incremental exports. Incremental hourly exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : hour , and interval : 3 , 6 , 9 , or 12 for hourly incremental exports. timeUnit Select day or hour depending on the frequency with which you want to export dataset files. interval Select 1 when the timeUnit is day and 3 , 6 , 9 , 12 when the time unit is hour . startTime The date and time in UNIX seconds when dataset exports should start. endTime The date and time in UNIX seconds when dataset exports should end. foldernameTemplate Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. | code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 | curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an Azure Data Lake Gen 2(ADLS Gen2) cloud storage destination", "description": "This operation creates a dataflow to export datasets to an Azure Data Lake Gen 2(ADLS Gen2) cloud storage destination", "flowSpec": { "id": "17be2013-2549-41ce-96e7-a70363bec293", // Azure Data Lake Gen 2(ADLS Gen2) flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' | table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto |  | Parameter | Description | exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :3,6,9, or 12 for hourly incremental exports. | timeUnit | Select day or hour depending on the frequency with which you want to export dataset files. | interval | Select 1 when the timeUnit is day and 3,6,9,12 when the time unit is hour. | startTime | The date and time in UNIX seconds when dataset exports should start. | endTime | The date and time in UNIX seconds when dataset exports should end. | foldernameTemplate | Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. |
+| Note the highlighted lines with inline comments in the request example, which provide additional information. Remove the inline comments in the request when copy-pasting the request into your terminal of choice. code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an Azure Data Lake Gen 2(ADLS Gen2) cloud storage destination", "description": "This operation creates a dataflow to export datasets to an Azure Data Lake Gen 2(ADLS Gen2) cloud storage destination", "flowSpec": { "id": "17be2013-2549-41ce-96e7-a70363bec293", // Azure Data Lake Gen 2(ADLS Gen2) flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 1, 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' The table below provides descriptions of all parameters in the scheduleParams section for customizing export times, frequency, location, and more for your dataset exports. table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto Parameter Description exportMode Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL" . For more information about the two options, see export full files and export incremental files in the batch destinations activation tutorial. The three available export options are: Full file - Once : "DAILY_FULL_EXPORT" can only be used in combination with timeUnit : day and interval : 0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option. Incremental daily exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : day , and interval : 1 for daily incremental exports. Incremental hourly exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : hour , and interval : 1 , 3 , 6 , 9 , or 12 for hourly incremental exports. timeUnit Select day or hour depending on the frequency with which you want to export dataset files. interval Select 1 when the timeUnit is day. Select 1 , 3 , 6 , 9 , or 12 when the timeUnit is hour. startTime The date and time in UNIX seconds when dataset exports should start. endTime The date and time in UNIX seconds when dataset exports should end. foldernameTemplate Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. | code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 | curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an Azure Data Lake Gen 2(ADLS Gen2) cloud storage destination", "description": "This operation creates a dataflow to export datasets to an Azure Data Lake Gen 2(ADLS Gen2) cloud storage destination", "flowSpec": { "id": "17be2013-2549-41ce-96e7-a70363bec293", // Azure Data Lake Gen 2(ADLS Gen2) flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 1, 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' | table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto |  | Parameter | Description | exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :1,3,6,9, or 12 for hourly incremental exports. | timeUnit | Select day or hour depending on the frequency with which you want to export dataset files. | interval | Select 1 when the timeUnit is day. Select 1, 3, 6, 9, or 12 when the timeUnit is hour. | startTime | The date and time in UNIX seconds when dataset exports should start. | endTime | The date and time in UNIX seconds when dataset exports should end. | foldernameTemplate | Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. |
 | code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 |
-| curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an Azure Data Lake Gen 2(ADLS Gen2) cloud storage destination", "description": "This operation creates a dataflow to export datasets to an Azure Data Lake Gen 2(ADLS Gen2) cloud storage destination", "flowSpec": { "id": "17be2013-2549-41ce-96e7-a70363bec293", // Azure Data Lake Gen 2(ADLS Gen2) flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' |
+| curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an Azure Data Lake Gen 2(ADLS Gen2) cloud storage destination", "description": "This operation creates a dataflow to export datasets to an Azure Data Lake Gen 2(ADLS Gen2) cloud storage destination", "flowSpec": { "id": "17be2013-2549-41ce-96e7-a70363bec293", // Azure Data Lake Gen 2(ADLS Gen2) flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 1, 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' |
 | table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto |  |
 | Parameter | Description |
-| exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :3,6,9, or 12 for hourly incremental exports. |
+| exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :1,3,6,9, or 12 for hourly incremental exports. |
 | timeUnit | Select day or hour depending on the frequency with which you want to export dataset files. |
-| interval | Select 1 when the timeUnit is day and 3,6,9,12 when the time unit is hour. |
+| interval | Select 1 when the timeUnit is day. Select 1, 3, 6, 9, or 12 when the timeUnit is hour. |
 | startTime | The date and time in UNIX seconds when dataset exports should start. |
 | endTime | The date and time in UNIX seconds when dataset exports should end. |
 | foldernameTemplate | Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. |
@@ -81175,14 +81144,14 @@ Data Landing Zone(DLZ)
 | accordion |
 | --- |
 | Create dataset dataflow to Data Landing Zone destination - Request |
-| Note the highlighted lines with inline comments in the request example, which provide additional information. Remove the inline comments in the request when copy-pasting the request into your terminal of choice. code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to a Data Landing Zone cloud storage destination", "description": "This operation creates a dataflow to export datasets to a Data Landing Zone cloud storage destination", "flowSpec": { "id": "cd2fc47e-e838-4f38-a581-8fff2f99b63a", // Data Landing Zone flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' The table below provides descriptions of all parameters in the scheduleParams section for customizing export times, frequency, location, and more for your dataset exports. table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto Parameter Description exportMode Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL" . For more information about the two options, see export full files and export incremental files in the batch destinations activation tutorial. The three available export options are: Full file - Once : "DAILY_FULL_EXPORT" can only be used in combination with timeUnit : day and interval : 0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option. Incremental daily exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : day , and interval : 1 for daily incremental exports. Incremental hourly exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : hour , and interval : 3 , 6 , 9 , or 12 for hourly incremental exports. timeUnit Select day or hour depending on the frequency with which you want to export dataset files. interval Select 1 when the timeUnit is day and 3 , 6 , 9 , 12 when the time unit is hour . startTime The date and time in UNIX seconds when dataset exports should start. endTime The date and time in UNIX seconds when dataset exports should end. foldernameTemplate Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. | code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 | curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to a Data Landing Zone cloud storage destination", "description": "This operation creates a dataflow to export datasets to a Data Landing Zone cloud storage destination", "flowSpec": { "id": "cd2fc47e-e838-4f38-a581-8fff2f99b63a", // Data Landing Zone flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' | table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto |  | Parameter | Description | exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :3,6,9, or 12 for hourly incremental exports. | timeUnit | Select day or hour depending on the frequency with which you want to export dataset files. | interval | Select 1 when the timeUnit is day and 3,6,9,12 when the time unit is hour. | startTime | The date and time in UNIX seconds when dataset exports should start. | endTime | The date and time in UNIX seconds when dataset exports should end. | foldernameTemplate | Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. |
+| Note the highlighted lines with inline comments in the request example, which provide additional information. Remove the inline comments in the request when copy-pasting the request into your terminal of choice. code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to a Data Landing Zone cloud storage destination", "description": "This operation creates a dataflow to export datasets to a Data Landing Zone cloud storage destination", "flowSpec": { "id": "cd2fc47e-e838-4f38-a581-8fff2f99b63a", // Data Landing Zone flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 1, 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' The table below provides descriptions of all parameters in the scheduleParams section for customizing export times, frequency, location, and more for your dataset exports. table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto Parameter Description exportMode Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL" . For more information about the two options, see export full files and export incremental files in the batch destinations activation tutorial. The three available export options are: Full file - Once : "DAILY_FULL_EXPORT" can only be used in combination with timeUnit : day and interval : 0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option. Incremental daily exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : day , and interval : 1 for daily incremental exports. Incremental hourly exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : hour , and interval : 1 , 3 , 6 , 9 , or 12 for hourly incremental exports. timeUnit Select day or hour depending on the frequency with which you want to export dataset files. interval Select 1 when the timeUnit is day. Select 1 , 3 , 6 , 9 , or 12 when the timeUnit is hour. startTime The date and time in UNIX seconds when dataset exports should start. endTime The date and time in UNIX seconds when dataset exports should end. foldernameTemplate Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. | code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 | curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to a Data Landing Zone cloud storage destination", "description": "This operation creates a dataflow to export datasets to a Data Landing Zone cloud storage destination", "flowSpec": { "id": "cd2fc47e-e838-4f38-a581-8fff2f99b63a", // Data Landing Zone flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 1, 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' | table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto |  | Parameter | Description | exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :1,3,6,9, or 12 for hourly incremental exports. | timeUnit | Select day or hour depending on the frequency with which you want to export dataset files. | interval | Select 1 when the timeUnit is day. Select 1, 3, 6, 9, or 12 when the timeUnit is hour. | startTime | The date and time in UNIX seconds when dataset exports should start. | endTime | The date and time in UNIX seconds when dataset exports should end. | foldernameTemplate | Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. |
 | code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 |
-| curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to a Data Landing Zone cloud storage destination", "description": "This operation creates a dataflow to export datasets to a Data Landing Zone cloud storage destination", "flowSpec": { "id": "cd2fc47e-e838-4f38-a581-8fff2f99b63a", // Data Landing Zone flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' |
+| curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to a Data Landing Zone cloud storage destination", "description": "This operation creates a dataflow to export datasets to a Data Landing Zone cloud storage destination", "flowSpec": { "id": "cd2fc47e-e838-4f38-a581-8fff2f99b63a", // Data Landing Zone flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 1, 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' |
 | table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto |  |
 | Parameter | Description |
-| exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :3,6,9, or 12 for hourly incremental exports. |
+| exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :1,3,6,9, or 12 for hourly incremental exports. |
 | timeUnit | Select day or hour depending on the frequency with which you want to export dataset files. |
-| interval | Select 1 when the timeUnit is day and 3,6,9,12 when the time unit is hour. |
+| interval | Select 1 when the timeUnit is day. Select 1, 3, 6, 9, or 12 when the timeUnit is hour. |
 | startTime | The date and time in UNIX seconds when dataset exports should start. |
 | endTime | The date and time in UNIX seconds when dataset exports should end. |
 | foldernameTemplate | Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. |
@@ -81202,14 +81171,14 @@ Google Cloud Storage
 | accordion |
 | --- |
 | Create dataset dataflow to Google Cloud Storage destination - Request |
-| Note the highlighted lines with inline comments in the request example, which provide additional information. Remove the inline comments in the request when copy-pasting the request into your terminal of choice. code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to a Google Cloud Storage cloud storage destination", "description": "This operation creates a dataflow to export datasets to a Google Cloud Storage destination", "flowSpec": { "id": "585c15c4-6cbf-4126-8f87-e26bff78b657", // Google Cloud Storage flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' The table below provides descriptions of all parameters in the scheduleParams section for customizing export times, frequency, location, and more for your dataset exports. table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto Parameter Description exportMode Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL" . For more information about the two options, see export full files and export incremental files in the batch destinations activation tutorial. The three available export options are: Full file - Once : "DAILY_FULL_EXPORT" can only be used in combination with timeUnit : day and interval : 0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option. Incremental daily exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : day , and interval : 1 for daily incremental exports. Incremental hourly exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : hour , and interval : 3 , 6 , 9 , or 12 for hourly incremental exports. timeUnit Select day or hour depending on the frequency with which you want to export dataset files. interval Select 1 when the timeUnit is day and 3 , 6 , 9 , 12 when the time unit is hour . startTime The date and time in UNIX seconds when dataset exports should start. endTime The date and time in UNIX seconds when dataset exports should end. foldernameTemplate Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. | code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 | curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to a Google Cloud Storage cloud storage destination", "description": "This operation creates a dataflow to export datasets to a Google Cloud Storage destination", "flowSpec": { "id": "585c15c4-6cbf-4126-8f87-e26bff78b657", // Google Cloud Storage flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' | table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto |  | Parameter | Description | exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :3,6,9, or 12 for hourly incremental exports. | timeUnit | Select day or hour depending on the frequency with which you want to export dataset files. | interval | Select 1 when the timeUnit is day and 3,6,9,12 when the time unit is hour. | startTime | The date and time in UNIX seconds when dataset exports should start. | endTime | The date and time in UNIX seconds when dataset exports should end. | foldernameTemplate | Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. |
+| Note the highlighted lines with inline comments in the request example, which provide additional information. Remove the inline comments in the request when copy-pasting the request into your terminal of choice. code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to a Google Cloud Storage cloud storage destination", "description": "This operation creates a dataflow to export datasets to a Google Cloud Storage destination", "flowSpec": { "id": "585c15c4-6cbf-4126-8f87-e26bff78b657", // Google Cloud Storage flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 1, 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' The table below provides descriptions of all parameters in the scheduleParams section for customizing export times, frequency, location, and more for your dataset exports. table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto Parameter Description exportMode Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL" . For more information about the two options, see export full files and export incremental files in the batch destinations activation tutorial. The three available export options are: Full file - Once : "DAILY_FULL_EXPORT" can only be used in combination with timeUnit : day and interval : 0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option. Incremental daily exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : day , and interval : 1 for daily incremental exports. Incremental hourly exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : hour , and interval : 1 , 3 , 6 , 9 , or 12 for hourly incremental exports. timeUnit Select day or hour depending on the frequency with which you want to export dataset files. interval Select 1 when the timeUnit is day. Select 1 , 3 , 6 , 9 , or 12 when the timeUnit is hour. startTime The date and time in UNIX seconds when dataset exports should start. endTime The date and time in UNIX seconds when dataset exports should end. foldernameTemplate Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. | code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 | curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to a Google Cloud Storage cloud storage destination", "description": "This operation creates a dataflow to export datasets to a Google Cloud Storage destination", "flowSpec": { "id": "585c15c4-6cbf-4126-8f87-e26bff78b657", // Google Cloud Storage flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 1, 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' | table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto |  | Parameter | Description | exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :1,3,6,9, or 12 for hourly incremental exports. | timeUnit | Select day or hour depending on the frequency with which you want to export dataset files. | interval | Select 1 when the timeUnit is day. Select 1, 3, 6, 9, or 12 when the timeUnit is hour. | startTime | The date and time in UNIX seconds when dataset exports should start. | endTime | The date and time in UNIX seconds when dataset exports should end. | foldernameTemplate | Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. |
 | code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 |
-| curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to a Google Cloud Storage cloud storage destination", "description": "This operation creates a dataflow to export datasets to a Google Cloud Storage destination", "flowSpec": { "id": "585c15c4-6cbf-4126-8f87-e26bff78b657", // Google Cloud Storage flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' |
+| curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to a Google Cloud Storage cloud storage destination", "description": "This operation creates a dataflow to export datasets to a Google Cloud Storage destination", "flowSpec": { "id": "585c15c4-6cbf-4126-8f87-e26bff78b657", // Google Cloud Storage flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 1, 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' |
 | table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto |  |
 | Parameter | Description |
-| exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :3,6,9, or 12 for hourly incremental exports. |
+| exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :1,3,6,9, or 12 for hourly incremental exports. |
 | timeUnit | Select day or hour depending on the frequency with which you want to export dataset files. |
-| interval | Select 1 when the timeUnit is day and 3,6,9,12 when the time unit is hour. |
+| interval | Select 1 when the timeUnit is day. Select 1, 3, 6, 9, or 12 when the timeUnit is hour. |
 | startTime | The date and time in UNIX seconds when dataset exports should start. |
 | endTime | The date and time in UNIX seconds when dataset exports should end. |
 | foldernameTemplate | Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. |
@@ -81229,14 +81198,14 @@ SFTP
 | accordion |
 | --- |
 | Create dataset dataflow to SFTP destination - Request |
-| Note the highlighted lines with inline comments in the request example, which provide additional information. Remove the inline comments in the request when copy-pasting the request into your terminal of choice. code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an SFTP cloud storage destination", "description": "This operation creates a dataflow to export datasets to an SFTP cloud storage destination", "flowSpec": { "id": "354d6aad-4754-46e4-a576-1b384561c440", // SFTP flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' The table below provides descriptions of all parameters in the scheduleParams section for customizing export times, frequency, location, and more for your dataset exports. table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto Parameter Description exportMode Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL" . For more information about the two options, see export full files and export incremental files in the batch destinations activation tutorial. The three available export options are: Full file - Once : "DAILY_FULL_EXPORT" can only be used in combination with timeUnit : day and interval : 0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option. Incremental daily exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : day , and interval : 1 for daily incremental exports. Incremental hourly exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : hour , and interval : 3 , 6 , 9 , or 12 for hourly incremental exports. timeUnit Select day or hour depending on the frequency with which you want to export dataset files. interval Select 1 when the timeUnit is day and 3 , 6 , 9 , 12 when the time unit is hour . startTime The date and time in UNIX seconds when dataset exports should start. endTime The date and time in UNIX seconds when dataset exports should end. foldernameTemplate Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. | code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 | curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an SFTP cloud storage destination", "description": "This operation creates a dataflow to export datasets to an SFTP cloud storage destination", "flowSpec": { "id": "354d6aad-4754-46e4-a576-1b384561c440", // SFTP flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' | table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto |  | Parameter | Description | exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :3,6,9, or 12 for hourly incremental exports. | timeUnit | Select day or hour depending on the frequency with which you want to export dataset files. | interval | Select 1 when the timeUnit is day and 3,6,9,12 when the time unit is hour. | startTime | The date and time in UNIX seconds when dataset exports should start. | endTime | The date and time in UNIX seconds when dataset exports should end. | foldernameTemplate | Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. |
+| Note the highlighted lines with inline comments in the request example, which provide additional information. Remove the inline comments in the request when copy-pasting the request into your terminal of choice. code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an SFTP cloud storage destination", "description": "This operation creates a dataflow to export datasets to an SFTP cloud storage destination", "flowSpec": { "id": "354d6aad-4754-46e4-a576-1b384561c440", // SFTP flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 1, 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' The table below provides descriptions of all parameters in the scheduleParams section for customizing export times, frequency, location, and more for your dataset exports. table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto Parameter Description exportMode Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL" . For more information about the two options, see export full files and export incremental files in the batch destinations activation tutorial. The three available export options are: Full file - Once : "DAILY_FULL_EXPORT" can only be used in combination with timeUnit : day and interval : 0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option. Incremental daily exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : day , and interval : 1 for daily incremental exports. Incremental hourly exports : Select "FIRST_FULL_THEN_INCREMENTAL" , timeUnit : hour , and interval : 1 , 3 , 6 , 9 , or 12 for hourly incremental exports. timeUnit Select day or hour depending on the frequency with which you want to export dataset files. interval Select 1 when the timeUnit is day. Select 1 , 3 , 6 , 9 , or 12 when the timeUnit is hour. startTime The date and time in UNIX seconds when dataset exports should start. endTime The date and time in UNIX seconds when dataset exports should end. foldernameTemplate Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. | code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 | curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an SFTP cloud storage destination", "description": "This operation creates a dataflow to export datasets to an SFTP cloud storage destination", "flowSpec": { "id": "354d6aad-4754-46e4-a576-1b384561c440", // SFTP flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 1, 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' | table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto |  | Parameter | Description | exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :1,3,6,9, or 12 for hourly incremental exports. | timeUnit | Select day or hour depending on the frequency with which you want to export dataset files. | interval | Select 1 when the timeUnit is day. Select 1, 3, 6, 9, or 12 when the timeUnit is hour. | startTime | The date and time in UNIX seconds when dataset exports should start. | endTime | The date and time in UNIX seconds when dataset exports should end. | foldernameTemplate | Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. |
 | code language-shell line-numbers data-start-1 data-line-offset-4 h-12 h-22-25 |
-| curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an SFTP cloud storage destination", "description": "This operation creates a dataflow to export datasets to an SFTP cloud storage destination", "flowSpec": { "id": "354d6aad-4754-46e4-a576-1b384561c440", // SFTP flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' |
+| curl --location --request POST 'https://platform.adobe.io/data/foundation/flowservice/flows' \ --header 'accept: application/json' \ --header 'x-api-key: {API_KEY}' \ --header 'x-gw-ims-org-id: {ORG_ID}' \ --header 'x-sandbox-name: {SANDBOX_NAME}' \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer {ACCESS_TOKEN}' \ --data-raw '{ "name": "Activate datasets to an SFTP cloud storage destination", "description": "This operation creates a dataflow to export datasets to an SFTP cloud storage destination", "flowSpec": { "id": "354d6aad-4754-46e4-a576-1b384561c440", // SFTP flow spec ID "version": "1.0" }, "sourceConnectionIds": [ "<FROM_STEP_CREATE_SOURCE_CONNECTION>" ], "targetConnectionIds": [ "<FROM_STEP_CREATE_TARGET_CONNECTION>" ], "transformations": [], "scheduleParams": { // specify the scheduling info "exportMode": DAILY_FULL_EXPORT or FIRST_FULL_THEN_INCREMENTAL "interval": 3, // also supports 1, 6, 9, 12 hour increments "timeUnit": "hour", // also supports "day" for daily increments. "interval": 1, // when you select "timeUnit": "day" "startTime": 1675901210, // UNIX timestamp start time (in seconds) "endTime": 1975901210, // UNIX timestamp end time (in seconds) "foldernameTemplate": "%DESTINATION%_%DATASET_ID%_%DATETIME(YYYYMMdd_HHmmss)%" } }' |
 | table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto |  |
 | Parameter | Description |
-| exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :3,6,9, or 12 for hourly incremental exports. |
+| exportMode | Select "DAILY_FULL_EXPORT" or "FIRST_FULL_THEN_INCREMENTAL". For more information about the two options, see [export full files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-full-files) and [export incremental files](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations#export-incremental-files) in the batch destinations activation tutorial. The three available export options are:**Full file - Once**: "DAILY_FULL_EXPORT" can only be used in combination with timeUnit:day and interval:0 for a one-time full export of the dataset. Daily full exports of datasets are not supported. If you need daily exports, use the incremental export option.**Incremental daily exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:day, and interval :1 for daily incremental exports.**Incremental hourly exports**: Select "FIRST_FULL_THEN_INCREMENTAL", timeUnit:hour, and interval :1,3,6,9, or 12 for hourly incremental exports. |
 | timeUnit | Select day or hour depending on the frequency with which you want to export dataset files. |
-| interval | Select 1 when the timeUnit is day and 3,6,9,12 when the time unit is hour. |
+| interval | Select 1 when the timeUnit is day. Select 1, 3, 6, 9, or 12 when the timeUnit is hour. |
 | startTime | The date and time in UNIX seconds when dataset exports should start. |
 | endTime | The date and time in UNIX seconds when dataset exports should end. |
 | foldernameTemplate | Specify the expected folder name structure in your storage location where the exported files will be deposited. DATASET_ID = A unique identifier for the dataset. DESTINATION = The name of the destination. DATETIME = The date and time formatted as yyyyMMdd_HHmmss. EXPORT_TIME = The scheduled time for data export formatted as exportTime=YYYYMMDDHHMM . DESTINATION_INSTANCE_NAME = The name of the specific instance of the destination. DESTINATION_INSTANCE_ID = A unique identifier for the destination instance. SANDBOX_NAME = The name of the sandbox environment. ORGANIZATION_NAME = The name of the organization. |
@@ -81387,7 +81356,7 @@ title: "Export endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/export"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:24:34.871220+00:00"
+created_at: "2026-08-01T09:35:56.284501+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -81603,7 +81572,7 @@ title: "Extension packages endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/extension-packages"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:28:41.024170+00:00"
+created_at: "2026-08-01T09:39:48.048013+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -82966,7 +82935,7 @@ title: "Extension submission process overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extension-dev/submit/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:29:47.268243+00:00"
+created_at: "2026-08-01T09:41:11.515315+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -83010,7 +82979,7 @@ title: "Extensions endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/extensions"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:28:41.855164+00:00"
+created_at: "2026-08-01T09:39:48.950269+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -84467,7 +84436,7 @@ title: "Extensions"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/extensions/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:18:50.428155+00:00"
+created_at: "2026-08-01T09:34:08.450841+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -84547,7 +84516,7 @@ title: "External audiences endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/external-audiences"
 category: "reference"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-07-22T12:25:46.474196+00:00"
+created_at: "2026-08-01T09:19:17.890581+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -84622,7 +84591,7 @@ POST /external-audience/
 A sample request to create an external audience.
 | code language-shell |
 | --- |
-| curl -X POST https://platform.adobe.io/data/core/ais/external-audience/ \ -H 'Authorization: Bearer {ACCESS_TOKEN}' \ -H 'Content-Type: application/json' \ -H 'x-gw-ims-org-id: {ORG_ID}' \ -H 'x-api-key: {API_KEY}' \ -H 'x-sandbox-name: {SANDBOX_NAME}' -d '{ "name": "Sample external audience", "description": "A sample version of an external audience", "fields": [ { "name": "ppid", "type": "string", "identityNs": "email" }, { "name": "list_id", "type": "string", "labels": ["core/C2", "custom/deep"] }, { "name": "delete", "type": "number" }, { "name": "process_consent", "type": "string" } ], "sourceSpec": { "params": { "path": "activation/sample-source/example.csv", "type": "file", "sourceType": "Cloud Storage", "baseConnectionId": "1d1d4bc5-b527-46a3-9863-530246a61b2b", "encryption": { "publicKeyId": "e31ae895-7896-469a-8e06-eb9207ddf1c2", "signVerificationId": "ZTMxYWU4OTUtNzg5Ni00NjlhLThlMDYtZWI5MjA3ZGRmMWMy" } } }, "ttlInDays": "40", "labels": ["core/C1"], "audienceType": "people", "originName": "CUSTOM_UPLOAD", "expressActivation": true }' |
+| curl -X POST https://platform.adobe.io/data/core/ais/external-audience/ \ -H 'Authorization: Bearer {ACCESS_TOKEN}' \ -H 'Content-Type: application/json' \ -H 'x-gw-ims-org-id: {ORG_ID}' \ -H 'x-api-key: {API_KEY}' \ -H 'x-sandbox-name: {SANDBOX_NAME}' -d '{ "name": "Sample external audience", "description": "A sample version of an external audience", "fields": [ { "name": "ppid", "type": "string", "identityNs": "email" }, { "name": "list_id", "type": "string", "labels": ["core/C2", "custom/deep"] }, { "name": "delete", "type": "number" }, { "name": "process_consent", "type": "string" } ], "sourceSpec": { "format": "delimited", "params": { "path": "activation/sample-source/example.csv", "type": "file", "sourceType": "Cloud Storage", "baseConnectionId": "1d1d4bc5-b527-46a3-9863-530246a61b2b", "encryption": { "publicKeyId": "e31ae895-7896-469a-8e06-eb9207ddf1c2", "signVerificationId": "ZTMxYWU4OTUtNzg5Ni00NjlhLThlMDYtZWI5MjA3ZGRmMWMy" } } }, "ttlInDays": "40", "labels": ["core/C1"], "audienceType": "people", "originName": "CUSTOM_UPLOAD", "expressActivation": true }' |
 
 | table 0-row-3 1-row-3 2-row-3 3-row-3 4-row-3 5-row-3 6-row-3 7-row-3 8-row-3 9-row-3 10-row-3 11-row-3 12-row-3 |  |  |
 | --- | --- | --- |
@@ -84631,7 +84600,7 @@ A sample request to create an external audience.
 | description | String | An optional description for the external audience. |
 | customAudienceId | String | An optional identifier for your external audience. |
 | fields | Array of objects | The list of fields and their data types. You must have a minimum of 1 field and a maximum of 41 fields in your array. One of the fields must be an identity field, and include the identityNs . When creating the list of fields, you can add the following items: name : Required The name of the field that is part of the external audience specification. type : Required The type of data that goes into the field. Supported values include string , number , long , integer , date ( 2025-05-13 ), datetime ( 2025-05-23T20:19:00+00:00 ), and boolean . identityNs : Required for identity field The namespace that is used by the identity field. Supported values include all valid namespaces, such as ECID or email . labels : Optional An array of access control labels for the field. More information about the available access control labels can be found in the data usage labels glossary . |
-| sourceSpec | Object | An object that contains the information where the external audience is located. When using this object, you must include the following information: path : Required : The location of the external audience or the folder that contains the external audience within the source. The file path cannot contain any spaces. For example, if your path is activation/sample-source/Example CSV File.csv , set the path to activation/sample-source/ExampleCSVFile.csv . You can find the path to your source within the Source data column of the dataflows section. type : Required The type of the object you’re retrieving from the source. This value can either be file or folder . sourceType : Optional The type of source you’re retrieving from. Currently, the only supported value is Cloud Storage . cloudType : Required The type of cloud storage, based off of the source type. Supported values include S3 , DLZ , GCS , Azure , and SFTP . baseConnectionId : The ID of the base connection, and is provided from your source provider. This value is required if using a cloudType value of S3 , GCS , or SFTP . Otherwise, you do not need to include this parameter. For more information, please read the source connectors overview . encryption : Optional An object that contains the encryption key required for asynchronous encrypted data ingestion. publicKeyId : Required : The public key ID that was returned when you generated the encryption key pair. For more information, read the encrypt data guide . signVerificationKeyId : Optional : The public key ID that was returned when you shared your customer managed key with Experience Platform. Note: This field is labeled as publicKeyId in the response for that API request. For more information, read the encrypt data guide . |
+| sourceSpec | Object | An object that contains the information where the external audience is located. When using this object, you must include the following information: format : Optional The format that the audience comes in. This value can be delimited , json , or parquet . If left empty, this value defaults to delimited . path : Required : The location of the external audience or the folder that contains the external audience within the source. The file path cannot contain any spaces. For example, if your path is activation/sample-source/Example CSV File.csv , set the path to activation/sample-source/ExampleCSVFile.csv . You can find the path to your source within the Source data column of the dataflows section. type : Required The type of the object you’re retrieving from the source. This value can either be file or folder . sourceType : Optional The type of source you’re retrieving from. Currently, the only supported value is Cloud Storage . cloudType : Required The type of cloud storage, based off of the source type. Supported values include S3 , DLZ , GCS , Azure , and SFTP . baseConnectionId : The ID of the base connection, and is provided from your source provider. This value is required if using a cloudType value of S3 , GCS , or SFTP . Otherwise, you do not need to include this parameter. For more information, please read the source connectors overview . encryption : Optional An object that contains the encryption key required for asynchronous encrypted data ingestion. publicKeyId : Required : The public key ID that was returned when you generated the encryption key pair. For more information, read the encrypt data guide . signVerificationKeyId : Optional : The public key ID that was returned when you shared your customer managed key with Experience Platform. Note: This field is labeled as publicKeyId in the response for that API request. For more information, read the encrypt data guide . |
 | ttlInDays | Integer | The data expiration for the external audience, in days. This value can be set from 1 to 90. By default, the data expiration is set to 30 days. |
 | audienceType | String | The audience type for the external audience. Currently, only people is supported. |
 | originName | String | **Required** The origin of the audience. This states where the audience comes from. For external audiences, you should use CUSTOM_UPLOAD. |
@@ -84647,7 +84616,7 @@ A successful response returns HTTP status 202 with details of your newly created
 A sample response when creating an external audience.
 | code language-json |
 | --- |
-| { "operationId": "df8cd82f-a214-4b72-b549-d6ee23f1ff1a", "operationDetails": { "name": "Sample external audience", "description": "A sample version of an external audience", "fields": [ { "name": "ppid", "type": "string", "identityNs": "Email" }, { "name": "list_id", "type": "string", "labels": ["core/C2", "custom/deep"] }, { "name": "delete", "type": "number" }, { "name": "process_consent", "type": "string" } ], "sourceSpec": { "params": { "path": "activation/sample-source/example.csv", "type": "file", "sourceType": "Cloud Storage", "baseConnectionId": "1d1d4bc5-b527-46a3-9863-530246a61b2b", "encryption": { "publicKeyId": "e31ae895-7896-469a-8e06-eb9207ddf1c2", "signVerificationId": "ZTMxYWU4OTUtNzg5Ni00NjlhLThlMDYtZWI5MjA3ZGRmMWMy" } } }, "ttlInDays": 40, "labels": ["core/C1"], "audienceType": "people", "originName": "CUSTOM_UPLOAD" } } |
+| { "operationId": "df8cd82f-a214-4b72-b549-d6ee23f1ff1a", "operationDetails": { "name": "Sample external audience", "description": "A sample version of an external audience", "fields": [ { "name": "ppid", "type": "string", "identityNs": "Email" }, { "name": "list_id", "type": "string", "labels": ["core/C2", "custom/deep"] }, { "name": "delete", "type": "number" }, { "name": "process_consent", "type": "string" } ], "sourceSpec": { "format": "delimited", "params": { "path": "activation/sample-source/example.csv", "type": "file", "sourceType": "Cloud Storage", "baseConnectionId": "1d1d4bc5-b527-46a3-9863-530246a61b2b", "encryption": { "publicKeyId": "e31ae895-7896-469a-8e06-eb9207ddf1c2", "signVerificationId": "ZTMxYWU4OTUtNzg5Ni00NjlhLThlMDYtZWI5MjA3ZGRmMWMy" } } }, "ttlInDays": 40, "labels": ["core/C1"], "audienceType": "people", "originName": "CUSTOM_UPLOAD" } } |
 
 | table 0-row-3 1-row-3 2-row-3 3-row-3 4-row-3 5-row-3 6-row-3 7-row-3 8-row-3 9-row-3 10-row-3 11-row-3 |  |  |
 | --- | --- | --- |
@@ -84657,7 +84626,7 @@ A sample response when creating an external audience.
 | name | String | The name for the external audience. |
 | description | String | The description for the external audience. |
 | fields | Array of objects | The list of fields and their data types. This array determines what fields you need in your external audience. |
-| sourceSpec | Object | An object that contains the information where the external audience is located. |
+| sourceSpec | Object | An object that contains the information about the external audience, included its format and where it’s is located. |
 | ttlInDays | Integer | The data expiration for the external audience, in days. This value can be set from 1 to 90. By default, the data expiration is set to 30 days. |
 | audienceType | String | The audience type for the external audience. |
 | originName | String | **Required** The origin of the audience. This states where the audience comes from. |
@@ -84694,7 +84663,7 @@ A successful response returns HTTP status 200 with details of the external audie
 A sample response when you retrieve an external audience's task status.
 | code language-json |
 | --- |
-| { "operationId": "df8cd82f-a214-4b72-b549-d6ee23f1ff1a", "status": "SUCCESS", "operationDetails": { "name": "Sample external audience", "description": "A sample version of an external audience", "fields": [ { "name": "ppid", "type": "string", "identityNs": "Email" }, { "name": "list_id", "type": "string", "labels": ["core/C2", "custom/deep"] }, { "name": "delete", "type": "number" }, { "name": "process_consent", "type": "string" } ], "sourceSpec": { "params": { "path": "activation/sample-source/example.csv", "type": "file", "sourceType": "Cloud Storage", "baseConnectionId": "1d1d4bc5-b527-46a3-9863-530246a61b2b" } }, "ttlInDays": 40, "labels": ["core/C1"], "audienceType": "people", "originName": "CUSTOM_UPLOAD" }, "audienceName": "Sample external audience", "audienceId": "60ccea95-1435-4180-97a5-58af4aa285ab", "createdBy": "{USER_ID}", "createdAt": 1749324248, "updatedBy": "{USER_ID}", "updatedAt": 1749624273 } |
+| { "operationId": "df8cd82f-a214-4b72-b549-d6ee23f1ff1a", "status": "SUCCESS", "operationDetails": { "name": "Sample external audience", "description": "A sample version of an external audience", "fields": [ { "name": "ppid", "type": "string", "identityNs": "Email" }, { "name": "list_id", "type": "string", "labels": ["core/C2", "custom/deep"] }, { "name": "delete", "type": "number" }, { "name": "process_consent", "type": "string" } ], "sourceSpec": { "format": "parquet", "params": { "path": "activation/sample-source/example.parquet", "type": "file", "sourceType": "Cloud Storage", "baseConnectionId": "1d1d4bc5-b527-46a3-9863-530246a61b2b" } }, "ttlInDays": 40, "labels": ["core/C1"], "audienceType": "people", "originName": "CUSTOM_UPLOAD" }, "audienceName": "Sample external audience", "audienceId": "60ccea95-1435-4180-97a5-58af4aa285ab", "createdBy": "{USER_ID}", "createdAt": 1749324248, "updatedBy": "{USER_ID}", "updatedAt": 1749624273 } |
 
 | table 0-row-3 1-row-3 2-row-3 3-row-3 4-row-3 5-row-3 6-row-3 7-row-3 8-row-3 |  |  |
 | --- | --- | --- |
@@ -84763,7 +84732,7 @@ A successful response returns HTTP status 200 with details of the updated extern
 A sample response when updating the external audience's description.
 | code language-json |
 | --- |
-| { "audienceId": "60ccea95-1435-4180-97a5-58af4aa285ab", "audienceName": "Sample external audience", "description": "New sample description", "fields": [ { "name": "ppid", "type": "string", "identityNs": "Email" }, { "name": "list_id", "type": "string", "labels": ["core/C2", "custom/deep"] }, { "name": "delete", "type": "number" }, { "name": "process_consent", "type": "string" } ], "sourceSpec": { "path": "activation/sample-source/example.csv", "type": "file", "sourceType": "Cloud Storage", "baseConnectionId": "1d1d4bc5-b527-46a3-9863-530246a61b2b" }, "ttlInDays": 40, "labels": ["core/C1"], "audienceType": "people", "originName": "CUSTOM_UPLOAD", "createdBy": "{USER_ID}", "createdAt": 1749324248, "updatedBy": "{USER_ID}", "updatedAt": 1749624273 } |
+| { "audienceId": "60ccea95-1435-4180-97a5-58af4aa285ab", "audienceName": "Sample external audience", "description": "New sample description", "fields": [ { "name": "ppid", "type": "string", "identityNs": "Email" }, { "name": "list_id", "type": "string", "labels": ["core/C2", "custom/deep"] }, { "name": "delete", "type": "number" }, { "name": "process_consent", "type": "string" } ], "sourceSpec": { "format": "delimited", "params":{ "path": "activation/sample-source/example.csv", "type": "file", "sourceType": "Cloud Storage", "baseConnectionId": "1d1d4bc5-b527-46a3-9863-530246a61b2b" } }, "ttlInDays": 40, "labels": ["core/C1"], "audienceType": "people", "originName": "CUSTOM_UPLOAD", "createdBy": "{USER_ID}", "createdAt": 1749324248, "updatedBy": "{USER_ID}", "updatedAt": 1749624273 } |
 
 ## Start audience ingestion start-audience-ingestion
 
@@ -84790,9 +84759,16 @@ POST /external-audience/{AUDIENCE_ID}/runs
 
 **Request**
 
-The following request triggers an ingestion run for the external audience.
+The request to trigger an ingestion run for the external audience differs on the source type of the external audience.
 
-A sample request to start an audience ingestion.
+File
+| code language-shell |
+| --- |
+| curl -X POST https://platform.adobe.io/data/core/ais/external-audience/60ccea95-1435-4180-97a5-58af4aa285ab/runs \ -H 'Authorization: Bearer {ACCESS_TOKEN}' \ -H 'x-gw-ims-org-id: {ORG_ID}' \ -H 'x-api-key: {API_KEY}' \ -H 'x-sandbox-name: {SANDBOX_NAME}' |
+
+No body is required when triggering an ingestion run for an external audience that is from a file-based source.
+
+Folder
 | code language-shell |
 | --- |
 | curl -X POST https://platform.adobe.io/data/core/ais/external-audience/60ccea95-1435-4180-97a5-58af4aa285ab/runs \ -H 'Authorization: Bearer {ACCESS_TOKEN}' \ -H 'x-gw-ims-org-id: {ORG_ID}' \ -H 'x-api-key: {API_KEY}' \ -H 'x-sandbox-name: {SANDBOX_NAME}' -d '{ "dataFilterStartTime": 764245635 }' |
@@ -84801,13 +84777,28 @@ A sample request to start an audience ingestion.
 | --- | --- | --- |
 | Property | Type | Description |
 | dataFilterStartTime | Epoch timestamp | **Required** The range specifying the starting time to determine which files will be processed. This means that the files selected will be files **after** the specified time. |
-| dataFilterEndTime | Epoch timestamp | The range specifying the ending time which the flow will run to select which files will be processed. This means that the files selected will be files **before** the specified time. |
+| dataFilterEndTime | Epoch timestamp | *Optional* The range specifying the ending time which the flow will run to select which files will be processed. This means that the files selected will be files **before** the specified time. If left blank, this value defaults to the current time. |
 
 **Response**
 
-A successful response returns HTTP status 200 with details about the ingestion run.
+A successful response returns HTTP status 200. The details about the ingestion run differ, based off of the external audience’s source type.
 
-A sample response when starting the audience ingestion.
+File
+| code language-json |
+| --- |
+| { "audienceName": "Sample external audience", "audienceId": "60ccea95-1435-4180-97a5-58af4aa285ab", "runId": "fb342311-725d-4b48-ab7d-c6105fbc2b8b", "differentialIngestion": true, "createdAt": 4565657575, "createdBy:" "{USER_ID}" } |
+
+| table 0-row-3 1-row-3 2-row-3 3-row-3 4-row-3 5-row-3 6-row-3 |  |  |
+| --- | --- | --- |
+| Property | Type | Description |
+| audienceName | String | The name of the audience you’re starting an ingestion run for. |
+| audienceId | String | The ID of the audience. |
+| runId | String | The ID of the ingestion run you started. |
+| differentialIngestion | Boolean | A field that determines if the ingestion is a partial ingestion based off of the difference since the last ingestion or a full audience ingestion. |
+| createdAt | Long epoch timestamp | The timestamp, in seconds, when the request to create the external audience was submitted. |
+| createdBy | String | The ID of the user who created the external audience. |
+
+Folder
 | code language-json |
 | --- |
 | { "audienceName": "Sample external audience", "audienceId": "60ccea95-1435-4180-97a5-58af4aa285ab", "runId": "fb342311-725d-4b48-ab7d-c6105fbc2b8b", "differentialIngestion": true, "dataFilterStartTime": 764245635, "dataFilterEndTime": 4565657575, "createdAt": 4565657575, "createdBy:" "{USER_ID}" } |
@@ -84859,12 +84850,29 @@ A sample request to retrieve the external audience's ingestion status.
 
 **Response**
 
-A successful response returns HTTP status 200 with details of the external audience ingestion.
+A successful response returns HTTP status 200. The details of the external audience ingestion differ based on the external audience’s source type.
 
-A sample response when retrieving the external audience's ingestion.
+File
 | code language-json |
 | --- |
-| { "audienceName": "Sample external audience", "audienceId": "60ccea95-1435-4180-97a5-58af4aa285ab", "runId": "fb342311-725d-4b48-ab7d-c6105fbc2b8b", "status": "SUCCESS", "differentialIngestion": true, "dataFilterStartTime": 764245635, "dataFilterEndTime": 3456788568, "createdAt": 1749324248, "createdBy": "{USER_ID}", "details": [ { "stage": "DATASET_INGEST", "status": "SUCCESS", "flowRunId": "{FLOW_RUN_ID}" }, { "stage": "PROFILE_STORE_INGEST", "status": "SUCCESS", "flowRunId": "{FLOW_RUN_ID}" } ] } |
+| { "audienceName": "Sample external audience", "audienceId": "60ccea95-1435-4180-97a5-58af4aa285ab", "runId": "fb342311-725d-4b48-ab7d-c6105fbc2b8b", "status": "SUCCESS", "differentialIngestion": true, "createdAt": 1749324248, "createdBy": "{USER_ID}", "details": [ { "stage": "DATASET_INGEST", "status": "SUCCESS", "flowRunId": "{FLOW_RUN_ID}" }, { "stage": "PROFILE_STORE_INGEST", "status": "SUCCESS", "flowRunId": "{FLOW_RUN_ID}" } ] } |
+
+| table 0-row-3 1-row-3 2-row-3 3-row-3 4-row-3 5-row-3 6-row-3 7-row-3 8-row-3 |  |  |
+| --- | --- | --- |
+| Property | Type | Description |
+| audienceName | String | The name of the audience. |
+| audienceId | String | The ID of the audience. |
+| runId | String | The ID of the ingestion run. |
+| status | String | The status of the ingestion run. Possible statuses include SUCCESS and FAILED. |
+| differentialIngestion | Boolean | A field that determines if the ingestion is a partial ingestion based off of the difference since the last ingestion or a full audience ingestion. |
+| createdAt | Long epoch timestamp | The timestamp, in seconds, when the request to create the external audience was submitted. |
+| createdBy | String | The ID of the user who created the external audience. |
+| details | Array of objects | An object containing the details of the ingestion run. stage : The stage of the ingestion run. This can either be DATASET_INGEST or PROFILE_STORE_INGEST , which represent the data lake ingestion and the profile ingestion. status : The status of the ingestion on the stage. Possible statuses include SUCCESS and FAILED . flowRunId : The ID of the stage’s ingestion flow run. |
+
+Folder
+| code language-json |
+| --- |
+| { "audienceName": "Sample external audience", "audienceId": "c067efdb-eefa-42d8-81b8-7dc79bfcbbbd", "runId": "1b745f76-fd26-4d3e-8b2b-aed1fe88b959", "status": "SUCCESS", "differentialIngestion": true, "dataFilterStartTime": 764245635, "dataFilterEndTime": 3456788568, "createdAt": 1749324248, "createdBy": "{USER_ID}", "details": [ { "stage": "DATASET_INGEST", "status": "SUCCESS", "flowRunId": "{FLOW_RUN_ID}" }, { "stage": "PROFILE_STORE_INGEST", "status": "SUCCESS", "flowRunId": "{FLOW_RUN_ID}" } ] } |
 
 | table 0-row-3 1-row-3 2-row-3 3-row-3 4-row-3 5-row-3 6-row-3 7-row-3 8-row-3 9-row-3 10-row-3 |  |  |
 | --- | --- | --- |
@@ -84909,13 +84917,31 @@ A sample request to get a list of audience ingestion runs.
 
 **Response**
 
-A successful response returns HTTP status 200 with a list of ingestion runs for the specified external audience.
+A successful response returns HTTP status 200. Details of the ingestion runs depends on the source type of the specified external audience.
 
-A sample response when you retrieve a list of the audience ingestion runs.
+File
+| code language-json |
+| --- |
+| { "runs": [ { "audienceName": "Sample external audience", "audienceId": "60ccea95-1435-4180-97a5-58af4aa285ab", "runId": "fb342311-725d-4b48-ab7d-c6105fbc2b8b", "status": "SUCCESS", "differentialIngestion": true, "createdAt": 1785678909, "createdBy": "{USER_NAME}" }, { "audienceName": "Sample external audience 2", "audienceId": "60ccea95-1435-4180-97a5-58af4aa285ab", "runId": "406e38e4-fbd5-43e1-8d0c-01ccb3f9ad10", "status": "SUCCESS", "differentialIngestion": true, "createdAt": 1749324248, "createdBy": "{USER_ID}" } ] } |
+
+| table 0-row-3 1-row-3 |  |  |
+| --- | --- | --- |
+| Property | Type | Description |
+| runs | Object | An object that contains the list of ingestion runs that belongs to the audience. More information about this object can be found in the [retrieve ingestion status section](#retrieve-ingestion-status). |
+
+Folder
 | code language-json |
 | --- |
 | { "runs": [ { "audienceName": "Sample external audience", "audienceId": "60ccea95-1435-4180-97a5-58af4aa285ab", "runId": "fb342311-725d-4b48-ab7d-c6105fbc2b8b", "status": "SUCCESS", "differentialIngestion": true, "dataFilterStartTime": 764245635, "dataFilterEndTime": 3456788568, "createdAt": 1785678909, "createdBy": "{USER_NAME}" }, { "audienceName": "Sample external audience 2", "audienceId": "60ccea95-1435-4180-97a5-58af4aa285ab", "runId": "406e38e4-fbd5-43e1-8d0c-01ccb3f9ad10", "status": "SUCCESS", "differentialIngestion": true, "dataFilterStartTime": 764245635, "dataFilterEndTime": 3456788568, "createdAt": 1749324248, "createdBy": "{USER_ID}" } ] } |
 
+,
+                                  "_page": {
+                                      "limit": 20,
+                                      "count": 2,
+                                      "totalCount": 2
+                                  }
+              
+                              | `_page` | Object | An object that contains the pagination information about the list of results. |
 | table 0-row-3 1-row-3 |  |  |
 | --- | --- | --- |
 | Property | Type | Description |
@@ -85072,7 +85098,7 @@ title: "Filter Catalog data using query parameters"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/api/filter-data"
 category: "reference"
 topic: "experience-platform/catalog-and-datasets-guide"
-created_at: "2026-07-22T12:18:31.370643+00:00"
+created_at: "2026-08-01T09:24:20.109644+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Catalog and Datasets Guide
 
@@ -85887,7 +85913,7 @@ title: "Filter row-level data for a source using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/filter"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:17:57.409519+00:00"
+created_at: "2026-08-01T09:23:26.776227+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -86472,7 +86498,7 @@ title: "Filter sources objects in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/filter"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:26:21.803680+00:00"
+created_at: "2026-08-01T09:37:04.275108+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -86675,7 +86701,7 @@ title: "Filtering responses in the Reactor API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/guides/filtering"
 category: "guides"
 topic: "tags/api/guides"
-created_at: "2026-07-22T12:29:07.168647+00:00"
+created_at: "2026-08-01T09:40:42.434567+00:00"
 ---
 Breadcrumbs: Documentation > Tags
 
@@ -86798,7 +86824,7 @@ title: "Functions endpoints"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-prep/api/functions"
 category: "reference"
 topic: "experience-platform/data-prep-guide"
-created_at: "2026-07-22T12:24:51.058718+00:00"
+created_at: "2026-08-01T09:39:08.007991+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Prep Guide
 
@@ -86991,7 +87017,7 @@ title: "Generate the dataset overlap report"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/tutorials/dataset-overlap-report"
 category: "tutorials"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-07-22T12:17:55.143870+00:00"
+created_at: "2026-08-01T09:23:23.152306+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -87129,7 +87155,7 @@ title: "Generic Consent Field data type"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/data-types/consent-field"
 category: "guides"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:28:18.656907+00:00"
+created_at: "2026-08-01T09:38:57.028466+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -87225,7 +87251,7 @@ title: "Get the cluster history of an identity"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/api/list-cluster-history"
 category: "reference"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-07-22T12:26:32.078030+00:00"
+created_at: "2026-08-01T09:37:14.845503+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -87453,7 +87479,7 @@ title: "Get the native ID for an identity"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/api/list-native-id"
 category: "reference"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-07-22T12:23:59.817234+00:00"
+created_at: "2026-08-01T09:34:29.334811+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -87510,7 +87536,7 @@ title: "Getting started with Adobe Experience Platform APIs"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/platform-apis/api-guide"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-07-22T12:16:06.641862+00:00"
+created_at: "2026-08-01T09:20:26.234505+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -87695,7 +87721,7 @@ title: "Getting started with Real-Time Customer Data Platform B2B Edition"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/intro/rtcdpb2b-intro/b2b-tutorial"
 category: "tutorials"
 topic: "experience-platform/real-time-customer-data-platform-guide"
-created_at: "2026-07-22T12:18:30.264100+00:00"
+created_at: "2026-08-01T09:24:18.219013+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Data Platform Guide
 
@@ -87811,7 +87837,7 @@ title: "Getting started with the Data Prep API getting-started"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-prep/api/getting-started"
 category: "reference"
 topic: "experience-platform/data-prep-guide"
-created_at: "2026-07-22T12:24:50.526953+00:00"
+created_at: "2026-08-01T09:39:07.246276+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Prep Guide
 
@@ -87851,7 +87877,7 @@ title: "Getting started with the MTLS Service API getting-started"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/mtls-api/getting-started"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-07-22T12:26:01.271652+00:00"
+created_at: "2026-08-01T09:35:23.184824+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -87897,7 +87923,7 @@ title: "Getting started with the Observability Insights API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/observability/api/getting-started"
 category: "reference"
 topic: "experience-platform/observability-insights-guide"
-created_at: "2026-07-22T12:22:57.783161+00:00"
+created_at: "2026-08-01T09:32:41.932796+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Observability Insights Guide
 
@@ -87945,7 +87971,7 @@ title: "Getting started with the Policy Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/api/getting-started"
 category: "reference"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-07-22T12:17:30.923684+00:00"
+created_at: "2026-08-01T09:22:44.016319+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -88016,7 +88042,7 @@ title: "Getting started with the Real-Time Customer Profile API getting-started"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/api/getting-started"
 category: "reference"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-07-22T12:19:47.099232+00:00"
+created_at: "2026-08-01T09:24:48.864787+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -88078,7 +88104,7 @@ title: "Getting started with the Sandbox API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/api/getting-started"
 category: "reference"
 topic: "experience-platform/sandboxes-guide"
-created_at: "2026-07-22T12:15:33.944879+00:00"
+created_at: "2026-08-01T09:19:27.436111+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Sandboxes Guide
 
@@ -88136,7 +88162,7 @@ title: "Getting started with the Schema Registry API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/getting-started"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:16:08.838384+00:00"
+created_at: "2026-08-01T09:20:32.221099+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -88448,7 +88474,7 @@ title: "Getting started with the Segmentation Service API getting-started"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/getting-started"
 category: "reference"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-07-22T12:20:36.473230+00:00"
+created_at: "2026-08-01T09:26:32.185165+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -88509,7 +88535,7 @@ title: "Google Cloud Platform event forwarding extension"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/google-cloud-platform/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:28:58.095561+00:00"
+created_at: "2026-08-01T09:40:48.794817+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -88589,7 +88615,7 @@ title: "Google Data Layer extension"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/google-data-layer/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:27:24.714098+00:00"
+created_at: "2026-08-01T09:40:04.957287+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -88766,7 +88792,7 @@ title: "Governance, privacy, and security in Adobe Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/overview"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-07-22T12:24:39.887471+00:00"
+created_at: "2026-08-01T09:35:30.711665+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -88870,7 +88896,7 @@ title: "Honoring consent in segment definitions"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/tutorials/consents"
 category: "tutorials"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-07-22T12:17:21.612720+00:00"
+created_at: "2026-08-01T09:22:29.554117+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -88956,7 +88982,7 @@ title: "Hosts endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/hosts"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:28:44.647490+00:00"
+created_at: "2026-08-01T09:39:51.704028+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -89531,7 +89557,7 @@ title: "IAB TCF 2.0 support in Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/consent/iab/overview"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-07-22T12:22:58.338532+00:00"
+created_at: "2026-08-01T09:32:43.991844+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -89840,7 +89866,7 @@ title: "Identity data for privacy requests"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/identity-data"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-07-22T12:17:26.007540+00:00"
+created_at: "2026-08-01T09:22:36.400790+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -89899,7 +89925,7 @@ title: "Identity Graph Linking Rules overview identity-graph-linking-rules-overv
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/features/identity-graph-linking-rules/overview"
 category: "overview"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-07-22T12:19:47.657451+00:00"
+created_at: "2026-08-01T09:35:53.053268+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -90079,7 +90105,7 @@ title: "Identity in Data Collection"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/collection/identity/overview"
 category: "overview"
 topic: "experience-platform/data-collection"
-created_at: "2026-07-22T12:23:59.289004+00:00"
+created_at: "2026-08-01T09:34:28.521017+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Collection
 
@@ -90135,7 +90161,7 @@ title: "Identity Service API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/api/getting-started"
 category: "reference"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-07-22T12:20:41.617002+00:00"
+created_at: "2026-08-01T09:26:47.848812+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -90238,7 +90264,7 @@ title: "Identity Service troubleshooting guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/troubleshooting-guide"
 category: "guides"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-07-22T12:16:59.152566+00:00"
+created_at: "2026-08-01T09:21:50.022391+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -90589,7 +90615,7 @@ title: "Implementation guide for Identity Graph Linking Rules"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/features/identity-graph-linking-rules/implementation-guide"
 category: "guides"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-07-22T12:19:48.230971+00:00"
+created_at: "2026-08-01T09:35:54.016139+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -90808,7 +90834,7 @@ title: "Implementing the Adobe Experience Platform Assurance extension"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/assurance/tutorials/implement-assurance"
 category: "tutorials"
 topic: "experience-platform/assurance-guide"
-created_at: "2026-07-22T12:24:41.750086+00:00"
+created_at: "2026-08-01T09:41:02.280218+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Assurance Guide
 
@@ -90869,7 +90895,7 @@ title: "Import endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/import"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:24:35.405133+00:00"
+created_at: "2026-08-01T09:35:57.142800+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -91241,7 +91267,7 @@ title: "Industry data models overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/schema/industries/overview"
 category: "overview"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:19:37.347200+00:00"
+created_at: "2026-08-01T09:25:32.205892+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -91302,7 +91328,7 @@ title: "Ingest Algolia User Profiles data into Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/data-partner/algolia-user-profiles"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:52.899255+00:00"
+created_at: "2026-08-01T09:28:43.776054+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -91473,7 +91499,7 @@ title: "Ingest batch data from Talon.One into Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/loyalty/talon-one-batch"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:00.164630+00:00"
+created_at: "2026-08-01T09:28:59.294382+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -91652,7 +91678,7 @@ title: "Ingest data into Adobe Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/ingest-batch-data"
 category: "tutorials"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-07-22T12:15:39.918342+00:00"
+created_at: "2026-08-01T09:19:40.360419+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -91776,6 +91802,94 @@ recommendation-more-help
 
 
 ---
+# FILE: ingest-meta-ads-data-to-experience-platform-in-the-ui.md
+---
+
+---
+title: "Ingest Meta Ads data to Experience Platform in the UI"
+url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/advertising/meta-ads"
+category: "tutorials"
+topic: "experience-platform/source-connectors-guide"
+created_at: "2026-08-01T09:24:46.701056+00:00"
+---
+Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
+
+# Ingest Meta Ads data to Experience Platform in the UI
+
+Last update: June 18, 2026
+- Topics:
+- [Sources](#)
+
+CREATED FOR:
+
+- Developer
+
+Learn how to connect your Meta Ads account and import ads data into Adobe Experience Platform using the sources workspace.
+
+## Getting started
+
+This tutorial requires a working understanding of the following components of Experience Platform:
+
+- Experience Data Model (XDM) System : The standardized framework by which Experience Platform organizes customer experience data. Basics of schema composition : Learn about the basic building blocks of XDM schemas, including key principles and best practices in schema composition. Schema Editor tutorial : Learn how to create custom schemas using the Schema Editor UI.
+- Real-Time Customer Profile : Provides a unified, real-time consumer profile based on aggregated data from multiple sources.
+
+IMPORTANT
+Read the
+Meta Ads overview
+to learn about prerequisite steps that you need to complete before connecting your account to Experience Platform.
+## Navigate the sources catalog
+
+In the Experience Platform UI, select **Sources** from the left navigation to access the *Sources* workspace. Select the appropriate category in the *Categories* panel. Alternatively, use the search bar to navigate to the specific source that you want to use.
+
+To ingest data from Meta Ads, select the **Meta Ads** source card under *Advertising* and then select **Add data**.
+
+TIP
+Sources in the sources catalog display the
+Set up
+option when a given source does not yet have an authenticated account. Once an authenticated account is created, this option changes to
+Add data
+.
+### Use an existing account
+
+To use an existing account, select **Existing account** and select the Meta Ads account that you want to use from the accounts interface.
+
+### Create a new account
+
+To create a new account, select **New account** and provide a name and description for your new Meta Ads source account. Select **Connect to source**.
+
+After selecting **Connect to source**, you will be redirected to the Facebook login page. Enter your credentials to authenticate. Once logged in, you will be prompted to configure the necessary Facebook permissions for Experience Platform.
+
+### Configure permissions on Meta
+
+First, specify which Pages you want Experience Platform to access:
+
+- **Opt in to all current and future Pages**: Grant Experience Platform access to all your existing Pages, as well as any Pages you create in the future.
+- **Opt in to current Pages only**: Grant access only to the Pages you select at this time.
+
+Next, select which Instagram accounts Experience Platform should access:
+
+- **Opt in to all current and future Instagram accounts**: Allow access to all of your current and future Instagram accounts.
+- **Opt in to current Instagram accounts only**: Allow access only to the Instagram accounts you currently select.
+
+After reviewing the access requests, select **Save** to confirm your permissions and continue.
+
+## Provide dataflow details
+
+Use the Dataflow details page to provide a name and description for your dataflow. Additionally, you can configure alerts for your dataflow during this step.
+
+## Review dataflow
+
+Finally, use the Review interface review the details of your dataflow before it is created. Details are grouped within the following categories:
+
+- **Connection**: Shows the account name, source platform, and the source name.
+- **Assign dataset and map fields**: Shows the target dataset and the schema that the dataset adheres to.
+
+After confirming the details are correct, select **Finish**.
+
+recommendation-more-help
+
+
+---
 # FILE: ingest-payments-data-from-your-stripe-account-to-experience-platform-using-apis.md
 ---
 
@@ -91784,7 +91898,7 @@ title: "Ingest payments data from your Stripe account to Experience Platform usi
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/payments/stripe"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:16.779847+00:00"
+created_at: "2026-08-01T09:29:24.443140+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -92292,7 +92406,7 @@ title: "Ingest payments data from your Stripe account to Experience Platform usi
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/payments/stripe"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:22:17.337971+00:00"
+created_at: "2026-08-01T09:29:25.217586+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -92485,7 +92599,7 @@ title: "Insights endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/insights"
 category: "reference"
 topic: "experience-platform/data-science-workspace-guide"
-created_at: "2026-07-22T12:26:05.353107+00:00"
+created_at: "2026-08-01T09:36:35.562901+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Science Workspace Guide
 
@@ -92819,7 +92933,7 @@ title: "Integrate the Experience Platform Web SDK to process customer consent da
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/consent/sdk"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-07-22T12:25:49.077650+00:00"
+created_at: "2026-08-01T09:36:15.916173+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -93053,7 +93167,7 @@ title: "Intelligent Services overview intelligent-services-overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/intelligent-services/home"
 category: "overview"
 topic: "experience-platform/intelligent-services-guide"
-created_at: "2026-07-22T12:15:02.676478+00:00"
+created_at: "2026-08-01T09:34:21.976570+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Intelligent Services Guide
 
@@ -93120,7 +93234,7 @@ title: "JupyterLab UI overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/jupyterlab/overview"
 category: "overview"
 topic: "experience-platform/data-science-workspace-guide"
-created_at: "2026-07-22T12:15:54.176538+00:00"
+created_at: "2026-08-01T09:20:04.953807+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Science Workspace Guide
 
@@ -93398,7 +93512,7 @@ title: "Labels endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/api/labels"
 category: "reference"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-07-22T12:17:29.788404+00:00"
+created_at: "2026-08-01T09:22:42.251911+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -93657,7 +93771,7 @@ title: "Libraries endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/libraries"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:28:42.909756+00:00"
+created_at: "2026-08-01T09:39:49.969699+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -95347,7 +95461,7 @@ title: "License usage dashboard license-usage-dashboard"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/license-usage"
 category: "guides"
 topic: "experience-platform/dashboards-guide"
-created_at: "2026-07-22T12:14:33.247685+00:00"
+created_at: "2026-08-01T09:18:39.112951+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dashboards Guide
 
@@ -95604,7 +95718,7 @@ title: "LinkedIn conversions API extension"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/linkedin/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:28:58.864491+00:00"
+created_at: "2026-08-01T09:40:49.576628+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -95728,7 +95842,7 @@ title: "List all identities in a cluster"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/api/list-cluster-identites"
 category: "reference"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-07-22T12:22:22.797942+00:00"
+created_at: "2026-08-01T09:29:33.378267+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -95980,7 +96094,7 @@ title: "List available identity namespaces"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/api/list-namespaces"
 category: "reference"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-07-22T12:22:23.343024+00:00"
+created_at: "2026-08-01T09:29:34.175017+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -96071,7 +96185,7 @@ title: "List Catalog objects"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/api/list-objects"
 category: "reference"
 topic: "experience-platform/catalog-and-datasets-guide"
-created_at: "2026-07-22T12:22:29.417546+00:00"
+created_at: "2026-08-01T09:29:55.650168+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Catalog and Datasets Guide
 
@@ -96173,7 +96287,7 @@ title: "List identity mappings"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/api/list-identity-mappings"
 category: "reference"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-07-22T12:28:29.023739+00:00"
+created_at: "2026-08-01T09:39:17.102483+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -96373,7 +96487,7 @@ title: "Look up a Catalog object"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/api/look-up-object"
 category: "reference"
 topic: "experience-platform/catalog-and-datasets-guide"
-created_at: "2026-07-22T12:26:36.093705+00:00"
+created_at: "2026-08-01T09:37:30.237592+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Catalog and Datasets Guide
 
@@ -96461,7 +96575,7 @@ title: "Mailchimp event forwarding extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/mailchimp/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:28:59.626446+00:00"
+created_at: "2026-08-01T09:40:50.409534+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -96654,7 +96768,7 @@ title: "Manage data usage labels for a schema"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/labels"
 category: "tutorials"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:17:29.245211+00:00"
+created_at: "2026-08-01T09:22:41.531203+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -96731,7 +96845,7 @@ title: "Manage data usage labels for datasets using APIs"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/dataset-api"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-07-22T12:17:06.343648+00:00"
+created_at: "2026-08-01T09:22:02.716237+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -97076,7 +97190,7 @@ title: "Manage data usage labels in the UI user-guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/user-guide"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-07-22T12:17:05.782188+00:00"
+created_at: "2026-08-01T09:22:01.889869+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -97182,7 +97296,7 @@ title: "Manage data usage policies in the UI user-guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/user-guide"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-07-22T12:15:53.057332+00:00"
+created_at: "2026-08-01T09:20:03.133988+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -97410,7 +97524,7 @@ title: "Manage Experience Event Dataset Retention in the data lake using TTL"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide"
 category: "guides"
 topic: "experience-platform/catalog-and-datasets-guide"
-created_at: "2026-07-22T12:17:57.985874+00:00"
+created_at: "2026-08-01T09:23:27.977577+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Catalog and Datasets Guide
 
@@ -97804,7 +97918,7 @@ title: "Manage permissions for Privacy Service"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/permissions"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-07-22T12:18:00.947372+00:00"
+created_at: "2026-08-01T09:23:31.990207+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -97940,7 +98054,7 @@ title: "Manage privacy jobs in the Privacy Service UI user-guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/ui/user-guide"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-07-22T12:15:53.618263+00:00"
+created_at: "2026-08-01T09:20:03.927793+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -98182,7 +98296,7 @@ title: "Manage resources"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:24:46.635234+00:00"
+created_at: "2026-08-01T09:38:05.357467+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -98208,175 +98322,6 @@ recommendation-more-help
 
 
 ---
-# FILE: manage-sources-dataflows-in-the-ui.md
----
-
----
-title: "Manage sources dataflows in the UI"
-url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/manage"
-category: "tutorials"
-topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:15:29.031704+00:00"
----
-Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
-
-# Manage sources dataflows in the UI
-
-Last update: June 22, 2026
-- Topics:
-- [Sources](#)
-
-CREATED FOR:
-
-- Developer
-
-You can use the *Sources workspace* in the Adobe Experience Platform user interface to manage your existing source dataflows.
-
-- Use the Dataflows page to access a centralized view of your organization’s existing dataflows and search, filter, organize, and take actions on individual flows.
-- Use filtering and search capabilities to navigate through source accounts and dataflows in your organization
-- Use inline actions to modify configuration settings applied to your dataflows, improve organizational workflows, and apply tags, subscribe to alerts, or create ingestion jobs on demand.
-
-## Get started
-
-Before you begin, ensure that you have the following:
-
-- Access to Adobe Experience Platform.
-- Both **View Sources** and **Manage Sources** permissions are required.
-
-It is helpful to have an understanding of the following Experience Platform features and concepts before working with the object navigation tools in the Sources workspace:
-
-- [Sources](/en/docs/experience-platform/sources/home): Learn how to connect, manage, and monitor external data sources in Experience Platform.
-- [Sandboxes](/en/docs/experience-platform/sandbox/home): Discover how sandboxes let you develop and test different projects in isolated environments.
-- [Administrative tags](/en/docs/experience-platform/administrative-tags/overview): Use administrative tags to apply metadata keywords to your objects and enable search to find that object within the Experience Platform ecosystem.
-- [Datasets](/en/docs/experience-platform/catalog/datasets/user-guide): A dataset is a management construct for a collection of data, typically a table, that contains a schema (columns) and fields (rows).
-
-## Access your source dataflows
-
-In the Experience Platform UI, select **Sources** from the left navigation to access the Sources workspace, and then select **Dataflows** from the top header. The *Dataflows* page displays a list of existing dataflows in your organization. From this page, you can search for specific dataflows, apply filters to narrow results, organize dataflows with tags, inspect metadata in the table, and continue to related actions such as updating or deleting a dataflow.
-
-## Search and filter dataflows
-
-Use the Dataflows page to quickly locate a specific dataflow or narrow the results.
-
-### Search for a dataflow
-
-Use the search field on the **Dataflows** page to find a dataflow from the current inventory view. After you enter a search term, the table updates to show matching results.
-
-### Filter your dataflows
-
-Select the filter icon ( ) to refine the list of available dataflows. You can apply one or more filters to narrow the results based on the metadata associated with each dataflow.
-
-Available filter categories include:
-
-Filter
-Description
-Source platform
-Filter your dataflows based on the source that they were created with.
-Tags
-Filter your dataflows based on the tags applied to them.
-Status
-Filter your dataflows based on their current status.
-Target dataset
-Filter your dataflows based on the target dataset they were created with.
-Account name
-Filter your dataflows based on the name of the account that they correspond with.
-Created by
-Filter your dataflows based on who created them.
-Creation date
-Filter your dataflows based on the date they were created.
-Modified date
-Filter your dataflows based on the date they were last updated.
-To filter your dataflows:
-
-- Select the filter control to open the filter panel.
-- Select one or more filter criteria.
-- Review the updated results in the dataflows table.
-- Clear individual filters or select Clear all to remove all filters and return to the full list.
-
-Use filters to find dataflows by source platform, identify dataflows with a particular status, or narrow the table to dataflows associated with a specific dataset or account.
-
-## Organize dataflows with tags
-
-You can use tags to organize your dataflows and improve discoverability on the **Dataflows** page. Tags are especially useful when you want to group related dataflows and then use filters to find them again later
-
-To organize a dataflow with tags:
-
-- Locate the dataflow that you want to update.
-- Select the ellipses (...) beside the dataflow name to open the action menu.
-- Select the tag-related action.
-- Add or remove tags as needed.
-- Select **Done** to save your changes.
-- Use the **Tags** filter to find similarly tagged dataflows.
-
-Use tags to create an organizational layer for browsing and filtering workflows, and to manage a larger number of dataflows more efficiently.
-
-## Resize table columns
-
-You can resize table columns on the **Dataflows** page to display more metadata when values are truncated in the default table view. This is useful when you want to inspect longer values such as dataflow names, account details, or target dataset information.
-
-To resize a column, hover over the edge of a column header and drag the boundary to adjust its width.
-
-Resize columns as needed to make it easier to review dataflow details before you take action.
-
-## Take action on a dataflow
-
-After you locate the dataflow that you want to work with, select the ellipses (...) beside the dataflow name to view the available inline actions. Depending on the dataflow type and your permissions, available actions can include editing a schedule, disabling or deleting a dataflow, running a dataflow on demand, managing tags, and more.
-
-Inline actions
-Description
-Edit schedule
-Select
-Edit schedule
-to update the ingestion schedule of your dataflow. A dataflow that has been set to one-time ingestion cannot be edited.
-Disable dataflow
-Select
-Disable dataflow
-to deactivate a dataflow run. This option does not delete your dataflow.
-View in monitoring
-Select
-View in monitoring
-to view the metrics and status of your dataflow in the monitoring dashboard. For more information, read the guide on
-monitoring sources dataflows
-.
-Delete
-Select
-Delete
-to delete your dataflow.
-Run on-demand
-Select
-Run on-demand
-to trigger a single iteration of a dataflow run. For more information, read the guide on
-creating an on-demand dataflow run
-.
-Subscribe to alerts
-Select **Subscribe to alerts** to view a pop-up window of alerts that you can subscribe to:
-
-- Sources Dataflow Run Start: Select this alert to receive a notification when your on-demand dataflow run begins.
-- Sources Dataflow Run Success: Select this alert to receive a notification when your on-demand dataflow run finishes successfully.
-- Sources Dataflow Run Failure: Select this alert to receive a notification when your on-demand dataflow run fails due to errors.
-
-For more information, read the guide on [subscribing to alerts for sources dataflows](/en/docs/experience-platform/sources/ui-tutorials/alerts).
-
-Add to package
-Select
-Add to package
-to add your dataflow to a package and export it for use in a different sandbox. During this step, you can either create a new package or add your dataflow to an existing package. For more information, read the guide on
-sandbox tooling
-.
-Manage tags
-Select
-Manage tags
-to add or remove tags from your dataflow. Use tags to manage metadata taxonomies and classify business objects for easier discovery and categorization. For more information, read the guide on
-managing tags
-.
-## Next steps
-
-By reading this document, you have learned how to navigate your way through the sources accounts and dataflows pages. For more information on sources, read the [sources overview](/en/docs/experience-platform/sources/home).
-
-recommendation-more-help
-
-
----
 # FILE: manage-suggested-values-in-the-api.md
 ---
 
@@ -98385,7 +98330,7 @@ title: "Manage suggested values in the API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/suggested-values"
 category: "tutorials"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:22:25.531521+00:00"
+created_at: "2026-08-01T09:29:37.527021+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -98606,7 +98551,7 @@ title: "Map a CSV file to an existing XDM schema"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/map-csv/existing-schema"
 category: "tutorials"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-07-22T12:25:43.129767+00:00"
+created_at: "2026-08-01T09:36:03.535552+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -98722,7 +98667,7 @@ title: "Map a CSV file to an XDM schema using AI-generated recommendations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/map-csv/recommendations"
 category: "tutorials"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-07-22T12:20:10.448829+00:00"
+created_at: "2026-08-01T09:25:33.046920+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -98827,7 +98772,7 @@ title: "Map a CSV file to an XDM schema"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/map-csv/overview"
 category: "tutorials"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-07-22T12:20:14.880816+00:00"
+created_at: "2026-08-01T09:25:48.522832+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -98864,7 +98809,7 @@ title: "Mapping Service API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-prep/api/overview"
 category: "reference"
 topic: "experience-platform/data-prep-guide"
-created_at: "2026-07-22T12:19:03.066276+00:00"
+created_at: "2026-08-01T09:36:47.420352+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Prep Guide
 
@@ -98910,7 +98855,7 @@ title: "Mapping sets endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-prep/api/mapping-set"
 category: "reference"
 topic: "experience-platform/data-prep-guide"
-created_at: "2026-07-22T12:19:01.437530+00:00"
+created_at: "2026-08-01T09:35:03.307400+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Prep Guide
 
@@ -99916,7 +99861,7 @@ title: "Marketing actions endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/api/marketing-actions"
 category: "reference"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-07-22T12:25:09.969967+00:00"
+created_at: "2026-08-01T09:35:38.369531+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -100195,7 +100140,7 @@ title: "Marketo Munchkin extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/marketo/overview"
 category: "overview"
 topic: "tags/extensions/client"
-created_at: "2026-07-22T12:27:25.439673+00:00"
+created_at: "2026-08-01T09:40:05.696565+00:00"
 ---
 Breadcrumbs: Documentation > Tags
 
@@ -100251,7 +100196,7 @@ title: "Merge policies overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/merge-policies/overview"
 category: "overview"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-07-22T12:17:17.799352+00:00"
+created_at: "2026-08-01T09:22:23.155146+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -100345,7 +100290,7 @@ title: "Merge policies UI guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/merge-policies/ui-guide"
 category: "guides"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-07-22T12:16:01.531999+00:00"
+created_at: "2026-08-01T09:20:17.474117+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -100523,7 +100468,7 @@ title: "Meta Conversions API extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/meta/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:29:00.361024+00:00"
+created_at: "2026-08-01T09:40:51.174718+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -100750,7 +100695,7 @@ title: "Meta Pixel extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/meta/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:29:35.230612+00:00"
+created_at: "2026-08-01T09:41:13.286689+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -100838,7 +100783,7 @@ title: "Metrics endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/observability/api/metrics"
 category: "reference"
 topic: "experience-platform/observability-insights-guide"
-created_at: "2026-07-22T12:17:20.521613+00:00"
+created_at: "2026-08-01T09:22:27.611761+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Observability Insights Guide
 
@@ -101221,7 +101166,7 @@ title: "Microsoft Azure extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/azure/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:29:01.073229+00:00"
+created_at: "2026-08-01T09:40:52.062586+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -101318,7 +101263,7 @@ title: "Mixpanel Track Events API event forwarding extension"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/mixpanel/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:29:01.919377+00:00"
+created_at: "2026-08-01T09:40:52.922772+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -101458,7 +101403,7 @@ title: "MLInstances endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/mlinstances"
 category: "reference"
 topic: "experience-platform/data-science-workspace-guide"
-created_at: "2026-07-22T12:26:06.169342+00:00"
+created_at: "2026-08-01T09:36:36.323904+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Science Workspace Guide
 
@@ -101952,7 +101897,7 @@ title: "MLServices endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/mlservices"
 category: "reference"
 topic: "experience-platform/data-science-workspace-guide"
-created_at: "2026-07-22T12:26:06.986596+00:00"
+created_at: "2026-08-01T09:36:37.215668+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Science Workspace Guide
 
@@ -102339,7 +102284,7 @@ title: "Mobile engagement destinations overview mobile-destinations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/mobile-engagement/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:17:34.719561+00:00"
+created_at: "2026-08-01T09:22:49.517811+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -102376,7 +102321,7 @@ title: "Models endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/models"
 category: "reference"
 topic: "experience-platform/data-science-workspace-guide"
-created_at: "2026-07-22T12:26:07.812842+00:00"
+created_at: "2026-08-01T09:36:38.109840+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Science Workspace Guide
 
@@ -102879,7 +102824,7 @@ title: "Monitor Dataflows for Streaming Sources in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/monitor-streaming"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:26:22.849128+00:00"
+created_at: "2026-08-01T09:37:05.076244+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -102997,7 +102942,7 @@ title: "Monitor dataflows in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/monitor"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:25:35.573434+00:00"
+created_at: "2026-08-01T09:35:42.549284+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -103027,7 +102972,7 @@ title: "Monitor dataflows using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dataflows/api/monitor"
 category: "reference"
 topic: "experience-platform/dataflows-guide"
-created_at: "2026-07-22T12:19:03.605404+00:00"
+created_at: "2026-08-01T09:36:30.515918+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dataflows Guide
 
@@ -103257,7 +103202,7 @@ title: "Monitor sources dataflows using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/monitor"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:20:02.619861+00:00"
+created_at: "2026-08-01T09:25:10.781148+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -103515,7 +103460,7 @@ title: "MTLS Service API overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/mtls-api/overview"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-07-22T12:20:42.143592+00:00"
+created_at: "2026-08-01T09:26:48.578157+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -103551,7 +103496,7 @@ title: "Multi-entity segmentation overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/tutorials/multi-entity-segmentation"
 category: "tutorials"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-07-22T12:17:15.613309+00:00"
+created_at: "2026-08-01T09:22:18.235824+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -103623,7 +103568,7 @@ title: "Observability Insights API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/observability/api/overview"
 category: "reference"
 topic: "experience-platform/observability-insights-guide"
-created_at: "2026-07-22T12:17:19.974870+00:00"
+created_at: "2026-08-01T09:22:26.348677+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Observability Insights Guide
 
@@ -103657,7 +103602,7 @@ title: "Observability Insights overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/observability/home"
 category: "overview"
 topic: "experience-platform/observability-insights-guide"
-created_at: "2026-07-22T12:14:59.879485+00:00"
+created_at: "2026-08-01T09:26:41.903793+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Observability Insights Guide
 
@@ -103703,7 +103648,7 @@ title: "On-demand ingestion for sources dataflows in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/on-demand-ingestion"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:19:51.632235+00:00"
+created_at: "2026-08-01T09:39:16.314320+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -103777,7 +103722,7 @@ title: "OneTrust Integration source"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/connectors/consent/onetrust"
 category: "guides"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:16:31.612908+00:00"
+created_at: "2026-08-01T09:21:06.333494+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -103822,7 +103767,7 @@ title: "Personalization destinations overview personalization-destinations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/personalization/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:17:35.265835+00:00"
+created_at: "2026-08-01T09:22:50.477786+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -103878,7 +103823,7 @@ title: "Pinterest event forwarding extension"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/pinterest/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:29:02.734541+00:00"
+created_at: "2026-08-01T09:40:40.170222+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -104110,7 +104055,7 @@ title: "Policy enforcement overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/enforcement/overview"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-07-22T12:20:19.345481+00:00"
+created_at: "2026-08-01T09:26:00.896880+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -104156,7 +104101,7 @@ title: "Policy evaluation endpoints"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/api/evaluation"
 category: "reference"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-07-22T12:26:02.947980+00:00"
+created_at: "2026-08-01T09:36:33.391255+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -104939,7 +104884,7 @@ title: "Policy Service API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/api/overview"
 category: "reference"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-07-22T12:20:42.700706+00:00"
+created_at: "2026-08-01T09:26:49.380283+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -105004,7 +104949,7 @@ title: "Preview sample status endpoint (Profile preview)"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/api/preview-sample-status"
 category: "reference"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-07-22T12:17:55.707707+00:00"
+created_at: "2026-08-01T09:23:24.078111+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -105274,7 +105219,7 @@ title: "Previews and estimates endpoints"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/previews-and-estimates"
 category: "reference"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-07-22T12:20:37.606095+00:00"
+created_at: "2026-08-01T09:26:33.962992+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -105456,7 +105401,7 @@ title: "Privacy jobs endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/privacy-jobs"
 category: "reference"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-07-22T12:18:01.513635+00:00"
+created_at: "2026-08-01T09:23:32.835777+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -105982,7 +105927,7 @@ title: "Privacy regulations FAQ"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/regulations/faq"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-07-22T12:22:59.434011+00:00"
+created_at: "2026-08-01T09:32:46.452689+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -106164,7 +106109,7 @@ title: "Privacy regulations overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/regulations/overview"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-07-22T12:17:24.901163+00:00"
+created_at: "2026-08-01T09:22:34.903574+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -106358,7 +106303,7 @@ title: "Privacy regulations terminology"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/regulations/terminology"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-07-22T12:22:59.978374+00:00"
+created_at: "2026-08-01T09:32:47.741845+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -106567,7 +106512,7 @@ title: "Privacy request processing in Identity Service"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/privacy"
 category: "guides"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-07-22T12:23:01.124204+00:00"
+created_at: "2026-08-01T09:32:49.279830+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -106714,7 +106659,7 @@ title: "Privacy request processing in Real-Time Customer Profile"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/privacy"
 category: "guides"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-07-22T12:23:01.667488+00:00"
+created_at: "2026-08-01T09:32:50.030973+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -106977,7 +106922,7 @@ title: "Privacy request processing in the data lake"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/privacy"
 category: "guides"
 topic: "experience-platform/catalog-and-datasets-guide"
-created_at: "2026-07-22T12:23:00.577436+00:00"
+created_at: "2026-08-01T09:32:48.498648+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Catalog and Datasets Guide
 
@@ -107238,7 +107183,7 @@ title: "Privacy, Security, and Governance in AI Assistant (Legacy)"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/privacy"
 category: "guides"
 topic: "experience-platform/ai-assistant-in-adobe-experience-platform-guide"
-created_at: "2026-07-22T12:18:38.169773+00:00"
+created_at: "2026-08-01T09:34:12.604410+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > AI Assistant in Adobe Experience Platform Guide
 
@@ -107281,7 +107226,7 @@ title: "Privacy Service and Experience Cloud applications"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/experience-cloud-apps"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-07-22T12:17:25.443675+00:00"
+created_at: "2026-08-01T09:22:35.673918+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -107434,7 +107379,7 @@ title: "Privacy Service API guide appendix"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/appendix"
 category: "reference"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-07-22T12:23:02.741199+00:00"
+created_at: "2026-08-01T09:32:51.933271+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -107583,7 +107528,7 @@ title: "Privacy Service API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/overview"
 category: "reference"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-07-22T12:17:26.537572+00:00"
+created_at: "2026-08-01T09:22:37.220252+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -107631,7 +107576,7 @@ title: "Privacy Service overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/home"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-07-22T12:14:33.831543+00:00"
+created_at: "2026-08-01T09:18:39.933108+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -107756,7 +107701,7 @@ title: "Privacy Service troubleshooting guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/troubleshooting-guide"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-07-22T12:18:02.076074+00:00"
+created_at: "2026-08-01T09:23:33.590680+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -107902,7 +107847,7 @@ title: "Privacy Service UI overview privacy-ui-guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/ui/overview"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-07-22T12:17:27.082130+00:00"
+created_at: "2026-08-01T09:22:37.960073+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -107951,7 +107896,7 @@ title: "Private Link Support for Sources in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/private-link"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:19:26.362721+00:00"
+created_at: "2026-08-01T09:35:24.809640+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -108052,7 +107997,7 @@ title: "Profile endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/profile"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:28:47.984542+00:00"
+created_at: "2026-08-01T09:39:55.874548+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -108168,7 +108113,7 @@ title: "Profile export jobs endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/api/export-jobs"
 category: "reference"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-07-22T12:20:38.768566+00:00"
+created_at: "2026-08-01T09:26:35.632508+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -108706,7 +108651,7 @@ title: "Profile Query Language (PQL) overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/pql/overview"
 category: "overview"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-07-22T12:17:10.057538+00:00"
+created_at: "2026-08-01T09:22:09.085269+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -108891,7 +108836,7 @@ title: "Profile system jobs endpoint (Delete requests)"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/api/profile-system-jobs"
 category: "reference"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-07-22T12:15:25.630615+00:00"
+created_at: "2026-08-01T09:26:09.986454+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -109111,7 +109056,7 @@ title: "Profiles dashboard"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/profiles"
 category: "guides"
 topic: "experience-platform/dashboards-guide"
-created_at: "2026-07-22T12:19:07.552054+00:00"
+created_at: "2026-08-01T09:25:50.273702+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dashboards Guide
 
@@ -109466,7 +109411,7 @@ title: "Properties endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/properties"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:28:38.424346+00:00"
+created_at: "2026-08-01T09:39:45.152067+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -110979,7 +110924,7 @@ title: "Public certificate endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/mtls-api/public-certificate-endpoint"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-07-22T12:23:44.374003+00:00"
+created_at: "2026-08-01T09:24:29.935001+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -111084,7 +111029,7 @@ title: "Publishing overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/publish/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:24:00.351963+00:00"
+created_at: "2026-08-01T09:34:33.294465+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -111155,7 +111100,7 @@ title: "Queries endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/queries"
 category: "reference"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-07-22T12:22:29.956735+00:00"
+created_at: "2026-08-01T09:29:58.449211+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -111600,7 +111545,7 @@ title: "Query Editor UI guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/ui/user-guide"
 category: "guides"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-07-22T12:19:54.964367+00:00"
+created_at: "2026-08-01T09:24:51.483018+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -111865,7 +111810,7 @@ title: "Query Service and Data Distiller frequently asked questions"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/troubleshooting-guide"
 category: "guides"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-07-22T12:18:34.161097+00:00"
+created_at: "2026-08-01T09:24:24.513119+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -112659,7 +112604,7 @@ title: "Query Service API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/getting-started"
 category: "reference"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-07-22T12:17:06.881541+00:00"
+created_at: "2026-08-01T09:22:04.501301+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -112733,7 +112678,7 @@ title: "Query Service audit log integration"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/data-governance/audit-log-guide"
 category: "guides"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-07-22T12:24:30.983544+00:00"
+created_at: "2026-08-01T09:35:21.706501+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -112865,7 +112810,7 @@ title: "Query Service overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/home"
 category: "overview"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-07-22T12:14:31.069394+00:00"
+created_at: "2026-08-01T09:18:35.548517+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -112946,7 +112891,7 @@ title: "Query Service SQL reference"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/sql/overview"
 category: "overview"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-07-22T12:22:33.271324+00:00"
+created_at: "2026-08-01T09:30:04.269773+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -112975,7 +112920,7 @@ title: "Query Service UI guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/ui/overview"
 category: "overview"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-07-22T12:15:56.422385+00:00"
+created_at: "2026-08-01T09:20:09.479401+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -113193,7 +113138,7 @@ title: "Query templates endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/query-templates"
 category: "reference"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-07-22T12:22:31.609316+00:00"
+created_at: "2026-08-01T09:30:01.647120+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -113624,7 +113569,7 @@ title: "Quota endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-lifecycle/api/quota"
 category: "reference"
 topic: "experience-platform/advanced-data-lifecycle-management-guide"
-created_at: "2026-07-22T12:19:06.983864+00:00"
+created_at: "2026-08-01T09:36:04.362906+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Advanced Data Lifecycle Management Guide
 
@@ -113753,7 +113698,7 @@ title: "Reactor API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/overview"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:26:52.804154+00:00"
+created_at: "2026-08-01T09:37:48.841073+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -113891,7 +113836,7 @@ title: "Real-Time CDP Guardrails"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/guardrails/overview"
 category: "overview"
 topic: "experience-platform/real-time-customer-data-platform-guide"
-created_at: "2026-07-22T12:14:42.678384+00:00"
+created_at: "2026-08-01T09:18:53.912624+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Data Platform Guide
 
@@ -113972,7 +113917,7 @@ title: "Real-Time Customer Data Platform overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/intro/rtcdp-intro/overview"
 category: "overview"
 topic: "experience-platform/real-time-customer-data-platform-guide"
-created_at: "2026-07-22T12:14:20.787550+00:00"
+created_at: "2026-08-01T09:18:18.487488+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Data Platform Guide
 
@@ -114069,7 +114014,7 @@ title: "Real-Time Customer Profile API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/api/overview"
 category: "reference"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-07-22T12:17:22.151344+00:00"
+created_at: "2026-08-01T09:22:30.265786+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -114143,7 +114088,7 @@ title: "Real-Time Customer Profile overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/home"
 category: "overview"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-07-22T12:14:32.149442+00:00"
+created_at: "2026-08-01T09:18:37.314588+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -114186,6 +114131,8 @@ Dimensional and B2B entities are linked to the primary entity through **schema r
 Although Real-Time Customer Profile processes ingested data and uses Adobe Experience Platform Identity Service to merge related data through identity mapping, it maintains its own data in the Profile data store. The Profile store is separate from catalog data in the data lake and Identity Service data in the identity graph.
 
 The Profile store uses a Microsoft Azure Cosmos DB infrastructure and the Experience Platform Data Lake uses Microsoft Azure Data Lake storage.
+
+For guidance on separating long-term analytical history from activation-ready profile data, see [Choose the right long-term personalization approach](/en/docs/experience-platform/data-lifecycle/choose-a-personalization-approach).
 
 ### Profile guardrails
 
@@ -114283,7 +114230,7 @@ title: "Real-Time Customer Profile UI guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/ui/user-guide"
 category: "guides"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-07-22T12:15:51.938049+00:00"
+created_at: "2026-08-01T09:20:01.499425+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -114471,7 +114418,7 @@ title: "Record delete work orders work-order-endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-lifecycle/api/workorder"
 category: "reference"
 topic: "experience-platform/advanced-data-lifecycle-management-guide"
-created_at: "2026-07-22T12:19:04.789865+00:00"
+created_at: "2026-08-01T09:25:37.380009+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Advanced Data Lifecycle Management Guide
 
@@ -115391,7 +115338,7 @@ title: "Reference endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/api/permissions-and-resource-types"
 category: "reference"
 topic: "experience-platform/access-control-guide"
-created_at: "2026-07-22T12:26:00.616463+00:00"
+created_at: "2026-08-01T09:36:31.372314+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Access Control Guide
 
@@ -115488,7 +115435,7 @@ title: "Relationships in the Reactor API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/guides/relationships"
 category: "guides"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:27:30.173669+00:00"
+created_at: "2026-08-01T09:40:10.485490+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -115915,7 +115862,7 @@ title: "Repair data element references repair-data-element-references"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/configure/repair-data-element-references"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:28:28.355878+00:00"
+created_at: "2026-08-01T09:39:15.762636+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -115953,7 +115900,7 @@ title: "Rule components endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/rule-components"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:29:08.096126+00:00"
+created_at: "2026-08-01T09:40:43.464235+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -117016,7 +116963,7 @@ title: "Rules endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/rules"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:28:40.223302+00:00"
+created_at: "2026-08-01T09:39:47.099005+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -118098,102 +118045,6 @@ recommendation-more-help
 
 
 ---
-# FILE: run-and-operate-overview.md
----
-
----
-title: "Run and Operate overview"
-url: "https://experienceleague.adobe.com/en/docs/experience-platform/run-and-operate/overview"
-category: "overview"
-topic: "experience-platform/run-and-operate-guide"
-created_at: "2026-07-22T12:15:04.300093+00:00"
----
-Breadcrumbs: Documentation > Experience Platform > Run and Operate Guide
-
-# Run and Operate overview
-
-Last update: June 18, 2026
-CREATED FOR:
-
-- Admin
-- User
-
-When batch jobs fail or deliver incomplete data, you need to quickly understand what caused the issue. The root cause could be data availability issues, incorrect timing, configuration problems, or system capacity constraints. Without clear visibility, you may spend hours investigating multiple systems before finding the answer.
-
-With Run and Operate tools, you can:
-
-- **Inspect your data operations**: Get a complete view of job execution status and health across all your workflows.
-- **Troubleshoot faster**: Access detailed diagnostic information and execution history to quickly identify root causes and reduce your mean time to resolution.
-- **Prevent issues proactively**: Analyze job patterns, detect configuration problems before they cause failures, and optimize your data operations.
-
-## Target audiences target-audiences
-
-Run and Operate tools are designed to serve multiple audiences across your organization:
-
-- **Data and IT teams**: System administrators and data engineers who maintain reliable data pipelines and troubleshoot technical issues.
-- **Marketing operations**: Marketing technologists who inspect data delivery to marketing platforms and resolve activation issues.
-- **Implementers**: Practitioners who validate implementation efficiency and reliability, and who troubleshoot technical issues.
-
-## Prerequisites prerequisites
-
-To access Run and Operate tools, you need the **View Job Schedules** and **View Profile Management** [access control permissions](/en/docs/experience-platform/access-control/home#permissions). Contact your system administrator to ensure you have the appropriate permissions.
-
-## Getting started getting-started
-
-To access the Run and Operate tools from the Experience Platform UI:
-
-- Log in to your Experience Platform account and select **Run and Operate** from the left navigation.
-- Select the tool that matches your inspection or troubleshooting needs.
-
-## Available tools available-tools
-
-The following tools help you inspect and optimize your data operations.
-
-### Job schedules job-schedules
-
-IMPORTANT
-Job schedules are currently available only for the following Real-Time CDP jobs:
-- Batch data lake ingestion
-- Batch profile ingestion
-- Batch segmentation
-- Batch destination activation
-
-With [Job Schedules](/en/docs/experience-platform/run-and-operate/job-schedules/job-schedules), you can inspect all scheduled batch operations across your organization, per sandbox, including data lake ingestion, profile ingestion, segmentation, and destination activation. View job execution status, performance metrics, and execution history to identify patterns and diagnose configuration issues that affect reliability.
-
-Job Schedules provides three levels of investigation:
-
-- **Inspect job schedules**: View all datasets and their scheduled jobs in a timeline to identify patterns and scheduling conflicts across your entire pipeline.
-- **Identify anti-patterns**: Learn to spot and resolve common configuration issues like schedule overlap, dense batch stacking, and excessive batching that impact performance.
-- **View job details**: Drill down into specific datasets and individual job runs to investigate failures, check timing, and verify records processed.
-
-You can also understand dependencies between data processing stages, helping you ensure reliable data flow throughout your Experience Platform workflows.
-
-### Health checks health-checks
-
-With [Health Checks](/en/docs/experience-platform/run-and-operate/health-checks), you can proactively detect schema and identity configuration issues before they impact your business operations. Currently, health checks run daily static scans across your schemas and identity namespaces, surfacing missing best practices, misconfigurations, and patterns that lead to downstream failures.
-
-Health checks currently evaluate five foundational areas:
-
-- **Identity field validation**: Verify that identity fields have proper length and pattern constraints.
-- **Identity graph linking rules**: Confirm that linking rules are configured to prevent profile collapse.
-- **People and non-people identity configuration**: Validate correct identity type usage across schema classes.
-- **Custom identity namespace description**: Ensure namespace metadata is complete.
-- **Deprecated identity namespaces**: Detect obsolete namespaces for cleanup.
-
-## Next steps next-steps
-
-Now that you understand the purpose and capabilities of Run and Operate tools, explore the following resources to deepen your knowledge:
-
-- Learn how to use [health checks](/en/docs/experience-platform/run-and-operate/health-checks) to detect schema and identity configuration issues
-- Learn how to [inspect job schedules](/en/docs/experience-platform/run-and-operate/job-schedules/job-schedules) for your batch ingestion and activations
-- Learn about [batch ingestion](/en/docs/experience-platform/ingestion/batch/overview) to understand how data is ingested into Experience Platform
-- Understand how to [configure scheduled activations](/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations) for batch destinations
-- Explore [dataflow monitoring](/en/docs/experience-platform/dataflows/ui/monitor-destinations) for destinations
-
-recommendation-more-help
-
-
----
 # FILE: sample-data-endpoint.md
 ---
 
@@ -118202,7 +118053,7 @@ title: "Sample data endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/sample-data"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:24:35.958695+00:00"
+created_at: "2026-08-01T09:35:34.380851+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -118384,7 +118235,7 @@ title: "Sample use cases in Real-Time CDP"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/overview"
 category: "overview"
 topic: "experience-platform/real-time-customer-data-platform-guide"
-created_at: "2026-07-22T12:14:27.061477+00:00"
+created_at: "2026-08-01T09:18:28.913736+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Data Platform Guide
 
@@ -118448,7 +118299,7 @@ title: "Sandbox API guide appendix"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/api/appendix"
 category: "reference"
 topic: "experience-platform/sandboxes-guide"
-created_at: "2026-07-22T12:24:05.418610+00:00"
+created_at: "2026-08-01T09:34:40.927253+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Sandboxes Guide
 
@@ -118492,7 +118343,7 @@ title: "Sandbox API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/api/overview"
 category: "reference"
 topic: "experience-platform/sandboxes-guide"
-created_at: "2026-07-22T12:17:45.728311+00:00"
+created_at: "2026-08-01T09:23:07.677078+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Sandboxes Guide
 
@@ -118538,7 +118389,7 @@ title: "Sandbox management endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/api/sandboxes"
 category: "reference"
 topic: "experience-platform/sandboxes-guide"
-created_at: "2026-07-22T12:18:02.634627+00:00"
+created_at: "2026-08-01T09:23:34.491376+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Sandboxes Guide
 
@@ -119131,7 +118982,7 @@ title: "Sandbox Types endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/api/types"
 category: "reference"
 topic: "experience-platform/sandboxes-guide"
-created_at: "2026-07-22T12:23:54.228242+00:00"
+created_at: "2026-08-01T09:34:20.516977+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Sandboxes Guide
 
@@ -119196,7 +119047,7 @@ title: "Sandbox UI guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/ui/user-guide"
 category: "guides"
 topic: "experience-platform/sandboxes-guide"
-created_at: "2026-07-22T12:15:33.400811+00:00"
+created_at: "2026-08-01T09:19:26.564907+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Sandboxes Guide
 
@@ -119310,7 +119161,7 @@ title: "Sandbox UI overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/ui/overview"
 category: "overview"
 topic: "experience-platform/sandboxes-guide"
-created_at: "2026-07-22T12:17:45.187171+00:00"
+created_at: "2026-08-01T09:23:06.949727+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Sandboxes Guide
 
@@ -119345,7 +119196,7 @@ title: "Sandboxes overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/home"
 category: "overview"
 topic: "experience-platform/sandboxes-guide"
-created_at: "2026-07-22T12:14:39.437292+00:00"
+created_at: "2026-08-01T09:18:48.936188+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Sandboxes Guide
 
@@ -119438,7 +119289,7 @@ title: "Sandboxes troubleshooting guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/troubleshooting-guide"
 category: "guides"
 topic: "experience-platform/sandboxes-guide"
-created_at: "2026-07-22T12:18:35.344021+00:00"
+created_at: "2026-08-01T09:24:26.240639+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Sandboxes Guide
 
@@ -119518,7 +119369,7 @@ title: "Scheduled query runs endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/runs-scheduled-queries"
 category: "reference"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-07-22T12:22:31.035013+00:00"
+created_at: "2026-08-01T09:30:00.203874+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -119873,7 +119724,7 @@ title: "Schedules endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/scheduled-queries"
 category: "reference"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-07-22T12:20:32.095893+00:00"
+created_at: "2026-08-01T09:26:25.770732+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -120450,7 +120301,7 @@ title: "Schedules endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/schedules"
 category: "reference"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-07-22T12:16:02.659595+00:00"
+created_at: "2026-08-01T09:20:19.191668+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -120865,7 +120716,7 @@ title: "Schema field groups endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/field-groups"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:22:24.987420+00:00"
+created_at: "2026-08-01T09:29:36.755248+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -121667,7 +121518,7 @@ title: "Schema Registry API guide appendix"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/appendix"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:24:36.533567+00:00"
+created_at: "2026-08-01T09:35:57.914682+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -121876,7 +121727,7 @@ title: "Schema Registry API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/overview"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:18:42.157257+00:00"
+created_at: "2026-08-01T09:25:25.519424+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -121988,7 +121839,7 @@ title: "Schemas endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/schemas"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:18:43.821278+00:00"
+created_at: "2026-08-01T09:25:27.941785+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -122888,7 +122739,7 @@ title: "Schemas UI overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/ui/overview"
 category: "overview"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:18:41.622430+00:00"
+created_at: "2026-08-01T09:25:24.739654+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -122982,7 +122833,7 @@ title: "Search endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/search"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:28:48.792987+00:00"
+created_at: "2026-08-01T09:39:56.782324+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -123263,7 +123114,7 @@ title: "Searching resources in the Reactor API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/guides/search"
 category: "guides"
 topic: "tags/api/guides"
-created_at: "2026-07-22T12:29:32.994325+00:00"
+created_at: "2026-08-01T09:40:45.826055+00:00"
 ---
 Breadcrumbs: Documentation > Tags
 
@@ -123523,7 +123374,7 @@ title: "Secrets endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/secrets"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:24:47.757017+00:00"
+created_at: "2026-08-01T09:38:06.212718+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -124673,7 +124524,7 @@ title: "Secrets in the Reactor API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/guides/secrets"
 category: "guides"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:24:46.091058+00:00"
+created_at: "2026-08-01T09:38:04.814469+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -124856,7 +124707,7 @@ title: "Segment definitions endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/segment-definitions"
 category: "reference"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-07-22T12:20:37.036222+00:00"
+created_at: "2026-08-01T09:26:33.100205+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -125198,7 +125049,7 @@ title: "Segment export jobs endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/export-jobs"
 category: "reference"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-07-22T12:16:03.790040+00:00"
+created_at: "2026-08-01T09:20:20.937317+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -125425,7 +125276,7 @@ title: "Segment jobs endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/segment-jobs"
 category: "reference"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-07-22T12:16:02.095871+00:00"
+created_at: "2026-08-01T09:20:18.279672+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -125670,7 +125521,7 @@ title: "Segment Match overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/ui/segment-match/overview"
 category: "overview"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-07-22T12:17:23.827266+00:00"
+created_at: "2026-08-01T09:19:18.834906+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -125872,7 +125723,7 @@ title: "Segment Search endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/segment-search"
 category: "reference"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-07-22T12:25:47.306037+00:00"
+created_at: "2026-08-01T09:36:14.187443+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -126213,7 +126064,7 @@ title: "Segmentation Service API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/overview"
 category: "reference"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-07-22T12:20:17.680152+00:00"
+created_at: "2026-08-01T09:25:58.647041+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -126297,7 +126148,7 @@ title: "Segmentation Service overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/home"
 category: "overview"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-07-22T12:14:31.605881+00:00"
+created_at: "2026-08-01T09:18:36.429309+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -126466,7 +126317,7 @@ title: "Segmentation Service UI guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/ui/overview"
 category: "overview"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-07-22T12:15:52.493549+00:00"
+created_at: "2026-08-01T09:20:02.256445+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -126611,7 +126462,7 @@ title: "Self-Serve Sources (Batch SDK) API Guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/sdk/self-serve-api/api-overview"
 category: "reference"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:18:19.756092+00:00"
+created_at: "2026-08-01T09:24:02.099245+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -126671,7 +126522,7 @@ title: "Self-Serve Sources (Batch SDK) overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/sdk/overview"
 category: "overview"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:14:46.062741+00:00"
+created_at: "2026-08-01T09:18:59.434257+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -126731,7 +126582,7 @@ title: "Send multiple messages in a single HTTP request"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/streaming-multiple-messages"
 category: "tutorials"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-07-22T12:24:26.465034+00:00"
+created_at: "2026-08-01T09:35:14.414337+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -127330,7 +127181,7 @@ title: "sendEvent"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/collection/js/commands/sendevent/overview"
 category: "overview"
 topic: "experience-platform/data-collection"
-created_at: "2026-07-22T12:24:37.158228+00:00"
+created_at: "2026-08-01T09:35:52.257789+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Collection
 
@@ -127384,7 +127235,7 @@ title: "Set consent"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/actions/set-consent"
 category: "guides"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:25:02.010053+00:00"
+created_at: "2026-08-01T09:35:35.945652+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -127481,7 +127332,7 @@ title: "Set primary identities in an ad hoc dataset"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/data-governance/ad-hoc-schema-identities"
 category: "guides"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-07-22T12:22:39.973867+00:00"
+created_at: "2026-08-01T09:30:14.186172+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -127577,7 +127428,7 @@ title: "setConsent"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/collection/js/commands/setconsent"
 category: "guides"
 topic: "experience-platform/data-collection"
-created_at: "2026-07-22T12:25:01.436084+00:00"
+created_at: "2026-08-01T09:35:35.190601+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Collection
 
@@ -127717,7 +127568,7 @@ title: "Snowflake overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/snowflake/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:29:03.415107+00:00"
+created_at: "2026-08-01T09:40:53.665173+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -127771,7 +127622,7 @@ title: "Social destinations overview social-network-destinations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/social/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:17:35.798517+00:00"
+created_at: "2026-08-01T09:22:51.184825+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -127815,7 +127666,7 @@ title: "Source connectors overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/home"
 category: "overview"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:14:29.361039+00:00"
+created_at: "2026-08-01T09:18:32.709843+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -127921,6 +127772,9 @@ Source
 Ingestion type
 Cloud
 Google Ads
+Batch
+Azure
+Meta Ads
 Batch
 Azure
 ### Analytics analytics
@@ -128305,7 +128159,7 @@ title: "Splunk extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/splunk/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:29:04.129489+00:00"
+created_at: "2026-08-01T09:40:54.491444+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -128428,7 +128282,7 @@ title: "SQL Insights for extended app reporting"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/sql-insights-query-pro-mode/overview"
 category: "overview"
 topic: "experience-platform/dashboards-guide"
-created_at: "2026-07-22T12:22:48.613209+00:00"
+created_at: "2026-08-01T09:32:26.739117+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dashboards Guide
 
@@ -128560,7 +128414,7 @@ title: "SQL Insights"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/data-distiller/sql-insights/overview"
 category: "overview"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-07-22T12:20:24.927648+00:00"
+created_at: "2026-08-01T09:26:14.589081+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -128652,7 +128506,7 @@ title: "Stream data from your Snowflake database to Experience Platform using th
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/snowflake-streaming"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:06.119208+00:00"
+created_at: "2026-08-01T09:27:34.221905+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -128811,7 +128665,7 @@ title: "Stream record data using Streaming Ingestion APIs"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/streaming-record-data"
 category: "tutorials"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-07-22T12:22:57.250238+00:00"
+created_at: "2026-08-01T09:32:41.247883+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -129300,7 +129154,7 @@ title: "Stream Snowflake data to Experience Platform using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/snowflake-streaming"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:05.569672+00:00"
+created_at: "2026-08-01T09:27:33.379498+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -129635,7 +129489,7 @@ title: "Stream Talon.One data to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/loyalty/talon-one-streaming"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:21:59.606425+00:00"
+created_at: "2026-08-01T09:28:58.487393+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -129758,7 +129612,7 @@ title: "Stream time-series data using Streaming Ingestion APIs"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/streaming-time-series-data"
 category: "tutorials"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-07-22T12:26:09.407845+00:00"
+created_at: "2026-08-01T09:36:50.907967+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -130328,7 +130182,7 @@ title: "Streaming ingestion overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/streaming/overview"
 category: "overview"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-07-22T12:14:28.763035+00:00"
+created_at: "2026-08-01T09:18:31.817186+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -130414,7 +130268,7 @@ title: "Submit a productized destination for review"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/guides/submit-destination"
 category: "guides"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:18:10.445496+00:00"
+created_at: "2026-08-01T09:23:47.433859+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -130693,7 +130547,7 @@ title: "Subscribe to alerts for sources dataflows in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/alerts"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:19:52.183856+00:00"
+created_at: "2026-08-01T09:27:07.798631+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -130800,7 +130654,7 @@ title: "Subscribe to Privacy Service Events"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/privacy-events"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-07-22T12:17:27.616110+00:00"
+created_at: "2026-08-01T09:22:38.756296+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -130904,7 +130758,7 @@ title: "Survey destinations overview survey-destinations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/survey/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:17:36.889659+00:00"
+created_at: "2026-08-01T09:22:51.883662+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -130950,7 +130804,7 @@ title: "Tag extensions in Adobe Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/launch-extensions/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:17:40.809143+00:00"
+created_at: "2026-08-01T09:22:59.527902+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -131020,7 +130874,7 @@ title: "Tag extensions reference"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:24:45.004218+00:00"
+created_at: "2026-08-01T09:37:49.837828+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -131150,7 +131004,7 @@ title: "Tags overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/home"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:18:48.262280+00:00"
+created_at: "2026-08-01T09:25:12.965413+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -131249,7 +131103,7 @@ title: "TikTok web events API extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/tiktok/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:29:05.577744+00:00"
+created_at: "2026-08-01T09:40:56.218199+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -131411,7 +131265,7 @@ title: "Twitter event forwarding extension"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/twitter/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:29:04.856645+00:00"
+created_at: "2026-08-01T09:40:55.389507+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -131588,7 +131442,7 @@ title: "Unified tags overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/administrative-tags/overview"
 category: "overview"
 topic: "experience-platform/unified-tags-guide"
-created_at: "2026-07-22T12:14:52.216983+00:00"
+created_at: "2026-08-01T09:35:31.259812+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Unified Tags Guide
 
@@ -131664,7 +131518,7 @@ title: "Unions endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/unions"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:22:21.165895+00:00"
+created_at: "2026-08-01T09:29:31.007641+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -131966,7 +131820,7 @@ title: "Update account details in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/update"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:19:09.243179+00:00"
+created_at: "2026-08-01T09:34:14.083553+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -132027,7 +131881,7 @@ title: "Update accounts using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/update"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:24:19.921748+00:00"
+created_at: "2026-08-01T09:35:05.037702+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -132223,7 +132077,7 @@ title: "Update dataflows in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/update-dataflows"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:20:53.360363+00:00"
+created_at: "2026-08-01T09:27:14.920562+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -132313,7 +132167,7 @@ title: "Update dataflows using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/update-dataflows"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-07-22T12:24:19.369101+00:00"
+created_at: "2026-08-01T09:35:04.181826+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -132641,7 +132495,7 @@ title: "Update destination dataflows using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/update-destination-dataflows"
 category: "reference"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:19:54.399209+00:00"
+created_at: "2026-08-01T09:24:50.648925+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -133561,7 +133415,7 @@ title: "Use Case Playbooks overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/use-case-playbooks/playbooks/overview"
 category: "overview"
 topic: "experience-platform/adobe-experience-platform-use-case-playbooks"
-created_at: "2026-07-22T12:14:21.887104+00:00"
+created_at: "2026-08-01T09:18:20.182858+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Adobe Experience Platform Use Case Playbooks
 
@@ -133635,7 +133489,7 @@ title: "Use Destination SDK to configure a file-based destination"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/guides/configure-file-based-destination-instructions"
 category: "guides"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:18:09.369368+00:00"
+created_at: "2026-08-01T09:23:45.678560+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -134082,7 +133936,7 @@ title: "Use Destination SDK to configure a streaming destination"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/guides/configure-destination-instructions"
 category: "guides"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:18:08.813915+00:00"
+created_at: "2026-08-01T09:23:44.903851+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -134402,7 +134256,7 @@ title: "Using Adobe Experience Platform Assurance"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/assurance/tutorials/using-assurance"
 category: "tutorials"
 topic: "experience-platform/assurance-guide"
-created_at: "2026-07-22T12:18:47.722874+00:00"
+created_at: "2026-08-01T09:40:28.523713+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Assurance Guide
 
@@ -134512,7 +134366,7 @@ title: "View dataset data using Data Access API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-access/tutorials/dataset-data"
 category: "tutorials"
 topic: "experience-platform/data-access-guide"
-created_at: "2026-07-22T12:20:38.177481+00:00"
+created_at: "2026-08-01T09:26:34.853704+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Access Guide
 
@@ -135057,7 +134911,7 @@ title: "Voice of the Customer destinations overview voice-of-customer-destinatio
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/voice/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-07-22T12:17:37.415306+00:00"
+created_at: "2026-08-01T09:22:52.783467+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -135103,7 +134957,7 @@ title: "Web SDK installation overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/collection/js/install/overview"
 category: "overview"
 topic: "experience-platform/data-collection"
-created_at: "2026-07-22T12:28:21.577623+00:00"
+created_at: "2026-08-01T09:39:00.250463+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Collection
 
@@ -135143,7 +134997,7 @@ title: "XDM System overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/home"
 category: "overview"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:14:52.757293+00:00"
+created_at: "2026-08-01T09:19:49.093735+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -135330,7 +135184,7 @@ title: "XDM System troubleshooting guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/troubleshooting-guide"
 category: "guides"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-07-22T12:18:00.361227+00:00"
+created_at: "2026-08-01T09:23:31.437291+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -135706,7 +135560,7 @@ title: "YouTube Video Tracking extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/youtube/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:27:26.136822+00:00"
+created_at: "2026-08-01T09:40:06.456572+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -135821,7 +135675,7 @@ title: "Zendesk Events API extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/zendesk/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-07-22T12:29:06.337160+00:00"
+created_at: "2026-08-01T09:40:57.256642+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 

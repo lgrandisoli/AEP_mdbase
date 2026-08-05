@@ -16,6 +16,7 @@ Base de conhecimento em Markdown gerada automaticamente a partir da documentaç�
 | Adobe Workfront | `workfront_crawler_v4.py` | `Workfront_Consolidado.md` | [Workfront](https://chatgpt.com/g/g-6a3ebff01e0881918e9babcfe7457fbf-workfront) |
 | Experience Cloud AI / Agent Orchestrator | `experience_cloud_ai_crawler.py` | `Agents_Consolidado.md` | [Agent Orchestration](https://chatgpt.com/g/g-6a26dbb1eed88191b2e0f28514216d6f-agent-orchestration) |
 | Adobe Commerce | `commerce_crawler_v1.py` | `Commerce_Consolidado.md` | [Commerce](https://chatgpt.com/g/g-6a453c8d6f388191b9f53006cc7f6fb8-commerce) |
+| Adobe Marketo Engage | `marketo_crawler.py` | `Marketo_Consolidado.md` | — |
 
 Cada crawler captura a documentação técnica do [Experience League](https://experienceleague.adobe.com) e as Product Descriptions do [helpx.adobe.com](https://helpx.adobe.com/legal/product-descriptions).
 
@@ -48,6 +49,7 @@ consolidados/
 ├── Workfront_Consolidado.md
 ├── Agents_Consolidado.md
 ├── Commerce_Consolidado.md
+├── Marketo_Consolidado.md
 ├── README.md          # índice combinado
 └── manifest.json      # metadados de todas as páginas
 ```

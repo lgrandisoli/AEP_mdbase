@@ -57,8 +57,9 @@ jobs:
           AGENTS_OUT="$BASE_DIR/agents_guides"
           WORKFRONT_OUT="$BASE_DIR/workfront_guides"
           COMMERCE_OUT="$BASE_DIR/commerce_guides"
+          MARKETO_OUT="$BASE_DIR/marketo_guides"
 
-          mkdir -p "$AEP_OUT" "$AJO_OUT" "$AJOB2B_OUT" "$CJA_OUT" "$TARGET_OUT" "$AGENTS_OUT" "$WORKFRONT_OUT" "$COMMERCE_OUT"
+          mkdir -p "$AEP_OUT" "$AJO_OUT" "$AJOB2B_OUT" "$CJA_OUT" "$TARGET_OUT" "$AGENTS_OUT" "$WORKFRONT_OUT" "$COMMERCE_OUT" "$MARKETO_OUT"
 
           run_crawler() {
             local label="$1"; local script="$2"; local out_dir="$3"
@@ -78,6 +79,7 @@ jobs:
           run_crawler "Agents"    "experience_cloud_ai_crawler.py"   "$AGENTS_OUT"
           run_crawler "Workfront" "workfront_crawler_v4.py"          "$WORKFRONT_OUT"
           run_crawler "Commerce"  "commerce_crawler_v1.py"           "$COMMERCE_OUT"
+          run_crawler "Marketo"   "marketo_crawler.py"               "$MARKETO_OUT"
 
           concat_dir() {
             local dir="$1"; local out_file="$2"
@@ -116,6 +118,7 @@ jobs:
           concat_dir "$TARGET_OUT"    "$CONSOLIDATED_DIR/Target_Consolidado.md"
           concat_dir "$WORKFRONT_OUT" "$CONSOLIDATED_DIR/Workfront_Consolidado.md"
           concat_dir "$COMMERCE_OUT"  "$CONSOLIDATED_DIR/Commerce_Consolidado.md"
+          concat_dir "$MARKETO_OUT"   "$CONSOLIDATED_DIR/Marketo_Consolidado.md"
 
           echo "==> Gerando README.md combinado ..."
           COMBINED_README="$CONSOLIDATED_DIR/README.md"
@@ -135,6 +138,7 @@ jobs:
             "$TARGET_OUT|Target"
             "$WORKFRONT_OUT|Workfront"
             "$COMMERCE_OUT|Commerce"
+            "$MARKETO_OUT|Marketo Engage"
           )
 
           for entry in "${GUIDE_SETS[@]}"; do
@@ -249,6 +253,7 @@ jobs:
               ("AJO_B2B_Knowledge",    base / "AJOB2B_Consolidado.md"),
               ("Commerce_Knowledge",   base / "Commerce_Consolidado.md"),
               ("Workfront_Knowledge",  base / "Workfront_Consolidado.md"),
+              ("Marketo_Knowledge",    base / "Marketo_Consolidado.md"),
           ]
 
           # Pagina todas as stores; sem isso, contas com >20 stores não
@@ -301,6 +306,7 @@ jobs:
               base / "AJOB2B_Consolidado.md",
               base / "Commerce_Consolidado.md",
               base / "Workfront_Consolidado.md",
+              base / "Marketo_Consolidado.md",
           ]
 
           for md_file in all_files:

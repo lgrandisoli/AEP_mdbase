@@ -6,9 +6,9 @@
 ---
 title: "Adobe Experience Platform Agent Orchestrator"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/agent-orchestrator"
-created_at: "2026-08-01T10:25:50.411475+00:00"
+created_at: "2026-09-01T13:43:20.732294+00:00"
 ---
-Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe CX Enterprise
+Breadcrumbs: Documentation > AI Documentation > AI in CX Enterprise
 
 # Adobe Experience Platform Agent Orchestrator
 
@@ -109,9 +109,9 @@ recommendation-more-help
 ---
 title: "Adobe Marketing Agent for Microsoft 365 Copilot"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms"
-created_at: "2026-08-01T10:25:56.059573+00:00"
+created_at: "2026-09-01T13:43:27.639616+00:00"
 ---
-Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe CX Enterprise
+Breadcrumbs: Documentation > AI Documentation > AI in CX Enterprise
 
 # Adobe Marketing Agent for Microsoft 365 Copilot
 
@@ -277,9 +277,9 @@ recommendation-more-help
 ---
 title: "AI Assistant Prompt Library"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/ai-assistant/prompt-library"
-created_at: "2026-08-01T10:25:57.702883+00:00"
+created_at: "2026-09-01T13:43:29.485257+00:00"
 ---
-Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe CX Enterprise
+Breadcrumbs: Documentation > AI Documentation > AI in CX Enterprise
 
 # AI Assistant Prompt Library
 
@@ -422,9 +422,9 @@ recommendation-more-help
 ---
 title: "Audience Agent"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/audience"
-created_at: "2026-08-01T10:25:51.218369+00:00"
+created_at: "2026-09-01T13:43:21.590012+00:00"
 ---
-Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe CX Enterprise
+Breadcrumbs: Documentation > AI Documentation > AI in CX Enterprise
 
 # Audience Agent
 
@@ -581,9 +581,9 @@ recommendation-more-help
 ---
 title: "Experimentation Agent"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/agent-experiment"
-created_at: "2026-08-01T10:25:52.903074+00:00"
+created_at: "2026-09-01T13:43:23.710006+00:00"
 ---
-Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe CX Enterprise
+Breadcrumbs: Documentation > AI Documentation > AI in CX Enterprise
 
 # Experimentation Agent
 
@@ -710,9 +710,9 @@ recommendation-more-help
 ---
 title: "Field Discovery Agent"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/field-discovery-agent"
-created_at: "2026-08-01T10:25:53.792984+00:00"
+created_at: "2026-09-01T13:43:24.867649+00:00"
 ---
-Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe CX Enterprise
+Breadcrumbs: Documentation > AI Documentation > AI in CX Enterprise
 
 # Field Discovery Agent
 
@@ -980,9 +980,9 @@ recommendation-more-help
 ---
 title: "Journey Agent: Overview and User Guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ajo-agent"
-created_at: "2026-08-01T10:25:54.671984+00:00"
+created_at: "2026-09-01T13:43:25.921675+00:00"
 ---
-Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe CX Enterprise
+Breadcrumbs: Documentation > AI Documentation > AI in CX Enterprise
 
 # Journey Agent: Overview and User Guide
 
@@ -1421,13 +1421,13 @@ recommendation-more-help
 ---
 title: "Legal Disclaimer: Personal Data, Language Support, and Verifying Responses"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/ai-assistant/legal-disclaimer"
-created_at: "2026-08-01T10:25:58.437947+00:00"
+created_at: "2026-09-01T13:43:30.329835+00:00"
 ---
-Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe CX Enterprise
+Breadcrumbs: Documentation > AI Documentation > AI in CX Enterprise
 
 # Legal Disclaimer: Personal Data, Language Support, and Verifying Responses
 
-Last update: July 13, 2026
+Last update: August 11, 2026
 CREATED FOR:
 
 - User
@@ -1461,9 +1461,9 @@ recommendation-more-help
 ---
 title: "Product Support Agent"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/product-support"
-created_at: "2026-08-01T10:25:55.279483+00:00"
+created_at: "2026-09-01T13:43:26.794620+00:00"
 ---
-Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe CX Enterprise
+Breadcrumbs: Documentation > AI Documentation > AI in CX Enterprise
 
 # Product Support Agent
 
@@ -1520,9 +1520,9 @@ recommendation-more-help
 ---
 title: "Real-Time CDP MCP (Beta) rtcdp-mcp"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/mcp/rtcdp-mcp"
-created_at: "2026-08-01T10:25:56.955565+00:00"
+created_at: "2026-09-01T13:43:28.641974+00:00"
 ---
-Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe CX Enterprise
+Breadcrumbs: Documentation > AI Documentation > AI in CX Enterprise
 
 [Beta]{class="badge informative"}
 
@@ -1902,13 +1902,13 @@ recommendation-more-help
 ---
 title: "Visualize data with Data Insights Agent"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/cja-data-insights-agent"
-created_at: "2026-08-01T10:25:52.094085+00:00"
+created_at: "2026-09-01T13:43:22.828547+00:00"
 ---
-Breadcrumbs: Documentation > AI Documentation > AI Assistant in Adobe CX Enterprise
+Breadcrumbs: Documentation > AI Documentation > AI in CX Enterprise
 
 # Visualize data with Data Insights Agent
 
-Last update: July 21, 2026
+Last update: August 11, 2026
 - Topics:
 - [Analytics dashboards](#)
 - [Analysis Workspace](#)

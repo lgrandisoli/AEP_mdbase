@@ -1,6 +1,6 @@
 # RFP Knowledge - Indice consolidado dos guias
 
-Gerado em: 2026-08-01 11:42:01 UTC
+Gerado em: 2026-09-01 15:27:17 UTC
 
 
 ## AEP / RT-CDP
@@ -16,6 +16,8 @@ Generated from Adobe Experience Platform documentation.
   - access-control-ui-overview.md
   - attribute-based-access-control-api-guide.md
   - attribute-based-access-control-overview-attribute-based-access-control-overview.md
+- experience-platform/adobe-experience-platform-accessibility
+  - accessibility-in-adobe-experience-platform.md
 - experience-platform/adobe-experience-platform-debugger-guide
   - adobe-experience-platform-debugger-overview.md
   - auditor-tab.md
@@ -28,6 +30,8 @@ Generated from Adobe Experience Platform documentation.
   - ai-assistant-legacy-in-adobe-experience-platform.md
 - experience-platform/assurance-guide
   - adobe-experience-platform-assurance.md
+- experience-platform/audience-manager-expanded-activation-guide
+  - audience-manager-expanded-activation.md
 - experience-platform/catalog-and-datasets-guide
   - catalog-service-overview.md
   - datasets-overview.md
@@ -118,6 +122,9 @@ Generated from Adobe Experience Platform documentation.
   - computed-attributes-overview.md
   - merge-policies-overview.md
   - real-time-customer-profile-overview.md
+- experience-platform/run-and-operate-guide
+  - health-checks.md
+  - run-and-operate-overview.md
 - experience-platform/sandboxes-guide
   - sandbox-ui-overview.md
   - sandboxes-overview.md
@@ -238,15 +245,19 @@ Generated from Adobe Experience Platform documentation.
   - privacy-request-processing-in-identity-service.md
 - experience-platform/experience-platform-overview
   - adobe-experience-platform-ui-guide.md
+  - audit-events-endpoint.md
   - audit-logs-audit-logs.md
   - configure-a-dataset-to-capture-consent-and-preference-data.md
   - consent-processing-in-adobe-experience-platform.md
   - create-datasets-for-capturing-iab-tcf-20-consent-data.md
   - data-encryption-in-adobe-experience-platform.md
+  - export-a-list-of-audit-events.md
   - getting-started-with-adobe-experience-platform-apis.md
+  - getting-started-with-the-audit-query-api.md
   - governance-privacy-and-security-in-adobe-experience-platform.md
   - iab-tcf-20-support-in-experience-platform.md
   - integrate-the-experience-platform-web-sdk-to-process-customer-consent-data.md
+  - update-your-trust-store-for-adobes-new-mtls-certificate-hierarchy-update-your-trust-store-for-adobes-new-mtls-certificate-hierarchy.md
 - experience-platform/intelligent-services-guide
   - attribution-ai-ui-guide.md
   - configure-a-customer-ai-instance.md
@@ -560,6 +571,7 @@ Generated from Adobe Experience Platform documentation.
   - filter-catalog-data-using-query-parameters.md
   - list-catalog-objects.md
   - look-up-a-catalog-object.md
+  - update-a-catalog-object.md
 - experience-platform/data-access-guide
   - data-access-api-guide.md
 - experience-platform/data-governance-guide
@@ -591,8 +603,9 @@ Generated from Adobe Experience Platform documentation.
 - experience-platform/dataflows-guide
   - monitor-dataflows-using-the-flow-service-api.md
 - experience-platform/destinations-guide
-  - activate-audiences-on-demand-to-batch-destinations-via-the-ad-hoc-activation-api.md
+  - activate-audiences-on-demand-via-the-ad-hoc-activation-api.md
   - activate-audiences-to-file-based-destinations-by-using-the-flow-service-api.md
+  - batch-destinations-mapping-reference.md
   - connect-to-file-based-email-marketing-destinations-and-activate-data-using-the-flow-service-api.md
   - connect-to-streaming-destinations-and-activate-data-using-the-flow-service-api.md
   - delete-a-destination-account-using-the-flow-service-api.md
@@ -677,7 +690,7 @@ Generated from Adobe Experience Platform documentation.
   - self-serve-sources-batch-sdk-api-guide.md
 - experience-platform/tags
   - app-configurations-endpoint.md
-  - audit-events-endpoint.md
+  - audit-events-endpoint-2.md
   - authenticate-and-access-the-reactor-api.md
   - builds-endpoint.md
   - callbacks-endpoint.md
@@ -762,12 +775,14 @@ Generated from Adobe Journey Optimizer documentation.
 - configure-a-custom-action-configure-a-custom-action.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/about-custom-action-configuration
 - get-started-with-journey-activities-about-journey-activities.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/about-journey-activities
 - learn-through-use-cases-jo-uc-gs.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/jo-use-cases
-- test-your-journey-testing-the-journey.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/testing-the-journey
-- journey-dry-run-journey-dry-run.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run
+- choose-a-validation-method-choose-validation-method.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/validate-journey/choose-validation-method
+- test-your-journey-testing-the-journey.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/validate-journey/testing-the-journey
+- journey-dry-run-journey-dry-run.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/validate-journey/journey-dry-run
 - publish-your-journey-publishing-the-journey.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/publish-journey
 - live-report-in-the-journey-canvas-report-journey.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/report-journey
 - access-and-subscribe-to-system-alerts-alerts.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts
 - get-started-with-the-optimize-activity-journey-path-optimization.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/optimize-activity/optimize
+- send-time-optimization-send-time-optimization.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/delivery-settings/send-time-optimization
 - send-a-message-to-the-subscribers-of-a-list-send-a-message-to-the-subscribers-of-a-list.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/message-to-subscribers-uc
 - use-case-ramp-up-your-deliveries-use-case-ramp-up-your-deliveries.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/ramp-up-deliveries-uc
 - send-emails-only-on-weekdays-send-emails-only-on-weekdays.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/weekday-email-uc
@@ -793,6 +808,7 @@ Generated from Adobe Journey Optimizer documentation.
 - license-usage-dashboard-license-usage.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/license-usage
 - set-up-channel-configurations-set-up-channel-surfaces.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/channel-surfaces
 - built-in-roles-ootb-product-profiles.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/ootb-product-profiles
+- send-using-waves-send-using-waves.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/delivery-settings/send-using-waves
 - define-the-action-campaign-properties-action-campaign-properties.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/campaign-properties
 - define-the-api-triggered-campaign-properties-api-properties.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/api-triggered-campaigns/api-triggered-campaign-properties
 - create-and-schedule-an-orchestrated-campaign-create-first-campaign.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/launch/create-orchestrated-campaign
@@ -824,6 +840,7 @@ Generated from Adobe Journey Optimizer documentation.
 - test-email-rendering-email-rendering.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/preview-test/rendering
 - email-spam-report-spam-report.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/preview-test/spam-report
 - get-started-with-journeys-campaigns-approval-send-proofs.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/approve/gs-approval
+- get-started-with-journey-simulation-simulate-journey-gs.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/validate-journey/simulate-journey/simulate-journey-gs
 - preview-test-your-content-preview-test.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/preview-test/preview-test
 - create-test-profiles-create-test-profiles.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/profiles/creating-test-profiles
 - create-a-content-experiment-content-experiment.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/content-experiment
@@ -837,7 +854,13 @@ Generated from Adobe Journey Optimizer documentation.
 - get-started-with-deliverability-manage-deliverability.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/deliverability/deliverability
 - troubleshoot-errors-before-testing-your-journey-troubleshooting.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/troubleshooting/troubleshoot-journey/troubleshooting
 - troubleshoot-your-custom-actions-troubleshoot-a-custom-action.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/troubleshooting/troubleshoot-journey/troubleshoot-custom-action
+- troubleshoot-live-activities-troubleshoot-mobile-live.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/troubleshoot-mobile-live
+- considerations-and-troubleshooting-aem-fragments-limitations.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem/aem-fragments-limitations
 - navigate-the-interface-user-interface.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/work-efficiently/user-interface
+- execute-an-api-triggered-campaign-execute.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/api-triggered-campaigns/trigger-campaigns
+- get-started-with-whatsapp-configuration-whatsapp-config.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/whatsapp-configuration
+- frequently-asked-questions-about-integrations-vendor-integration-faq.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/vendor-integration-faq
+- set-up-a-custom-subdomain-delegate-custom-subdomain.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/delegate-subdomains/delegate-custom-subdomain
 - email-channel-section-overview.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/email-landing-page
 - push-notification-channel-section-overview.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-landing-page
 - get-started-with-live-activities-get-started-mobile-live.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/get-started-mobile-live
@@ -879,27 +902,21 @@ Generated from Adobe Journey Optimizer documentation.
 - object-level-access-control-object-level-access.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/object-based-access
 - work-with-consent-policies-consent-management.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent
 - journey-optimizer-release-cycle-releases.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/releases
-- get-started-with-custom-channels-get-started-custom-channel.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/custom-channel/get-started-custom-channel
-- get-started-with-datasets-datasets-gs.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/datasets/get-started-datasets
-- manage-allowed-ips-waf-ip-allowlist.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/waf-ip-allowlist
-- personalize-urls-in-emails-url-personalization.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/url-personalization
-- datasets-time-to-live-ttl-guardrails-ttl-guardrail.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/datasets/datasets-ttl
-- use-modules-in-the-email-designer-email-layout-modules.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/email-modules
-- content-check-in-the-email-designer-content-check.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/content-check
-- leverage-expression-fragments-use-expression-fragments.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/use-expression-fragments
-- migrate-batch-audiences-from-audience-qualification-journeys-and-exit-criteria-aq-batch-migration.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/aq-batch-audiences-migration
-- simulate-your-journey-simulate-journey.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/simulate-journey/simulate-journey
-- integrate-with-external-systems-external-systems.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/external-systems/external-systems
-- load-file-load-file.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/load-file
-- build-rules-rules.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/rules
+- date-functions-date-functions.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/main-functions-journey/date-functions
+- generate-content-use-cases-generative-uc.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/generative-uc
+- set-your-journey-properties-jo-properties.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-properties
+- list-functions-list-functions.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/main-functions-journey/list-functions
+- wait-activity-wait-activity.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/wait-activity
+- attach-a-pdf-file-to-an-email-pdf-attachments.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/start-creating-content/pdf-attachments
+- channel-activities-channel.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/channels
+- configure-a-targeting-dimension-configuration.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/data-configuration/target-dimension
+- create-a-live-activity-create-mobile-live.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/create-mobile-live
+- activate-high-throughput-mode-for-api-triggered-campaigns-high-throughput.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/api-triggered-campaigns/api-triggered-high-throughput
+- migrate-an-email-subdomain-from-cname-to-custom-delegation-migrate-cname-to-custom.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/delegate-subdomains/custom-subdomain-migration
 - create-your-first-decision-item-items.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/manage-decision-items/items
-- create-ranking-formulas-create-ranking-formulas.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-rankings/ranking-formulas
-- migrate-content-and-journeys-migrate-content-and-journeys.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/migrate-content-and-journeys
-- manage-fragments-manage-fragments.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/manage-fragments
-- access-and-manage-content-templates-access-manage-templates.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-templates/access-content-templates
-- get-started-with-helper-functions-functions.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/functions
-- work-with-dynamic-media-aem-dynamic.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem-dynamic
-- work-with-mcp-clients-ajo-mcp.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/ajo-mcp
+- add-links-track-messages-tracking.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/message-tracking
+- browse-filter-your-journeys-browse-journeys.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/journey-ui
+- simulate-content-variations-simulate-content-variations.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/preview-test/simulate-content-variations
 - configure-loyalty-challenges-loyalty-admin.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/configure-integrate-loyalty/loyalty-admin
 - create-challenges-create-challenges.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/create-manage-challenges/create-challenges
 - monitor-loyalty-challenge-performance-loyalty-reporting.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/create-manage-challenges/loyalty-reporting
@@ -923,8 +940,9 @@ Generated from Adobe Journey Optimizer documentation.
 - work-with-the-advanced-expression-editor-about-the-advanced-expression-editor.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/expressionadvanced
 - pass-collections-into-custom-action-parameters-passing-collection.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/collections
 - collection-management-functions-collection-management-functions.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/syntax/collection-management-functions
-- list-functions-list-functions.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/main-functions-journey/list-functions
 - work-with-computed-attributes-computed-attributes.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/profiles/computed-attributes
+- test-your-journey-testing-the-journey-2.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/testing-the-journey
+- leverage-expression-fragments-use-expression-fragments.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/use-expression-fragments
 - work-with-conditional-rules-conditions.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/dynamic/create-conditions
 - arrays-and-list-functions-arrays.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/arrays-list
 - preview-your-content-using-test-profiles-preview.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/preview-test/preview
@@ -976,28 +994,29 @@ Generated from Adobe Journey Optimizer documentation.
 - create-content-using-ai-assistant-for-content-generation.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
 - decisioning-end-to-end-walkthrough.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
 - configure-content-experiments-for-in-app-messages.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
-- browse-filter-your-journeys-browse-journeys.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/journey-ui
 - use-an-audience-in-a-journey-segment-trigger-activity.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/read-audience
 - audience-qualification-events-segment-qualification.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/audience-qualification-events
 - configure-a-business-event-configure-a-business-event.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/events-journeys/about-creating-business
 - get-started-with-custom-actions-about-actions.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/action
-- set-your-journey-properties-jo-properties.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-properties
 - jump-from-one-journey-to-another-jump.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/jump
+- journey-dry-run-journey-dry-run-2.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run
 - implement-a-customer-onboarding-journey.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding
 - use-case-playbook-abandoned-shopping-cart.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart
+- migrate-batch-audiences-from-audience-qualification-journeys-and-exit-criteria-aq-batch-migration.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/aq-batch-audiences-migration
 - journeys-vs-campaigns-choose-the-right-approach-journeys-vs-campaigns.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/work-efficiently/journeys-vs-campaigns
 - reaction-events-reaction-events.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/reaction-events
 - journey-fragments-journey-fragments.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/journey-fragments
 - general-events-general-events.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/general-events
 - work-with-journey-entry-and-exit-criteria-entry-exit-criteria-guide.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/entry-exit-criteria-guide
+- integrate-with-external-systems-external-systems.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/external-systems/external-systems
 - end-a-journey-journey-ending.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/end-journey
+- channel-optimization-channel-optimization.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/channel-optimization
 - get-started-with-multilingual-content-multilingual-gs.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-multilingual/multilingual-gs
 - create-an-email-create-email.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/create-email
 - create-an-in-app-message-create-in-app.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app
 - create-web-experiences-create-web.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/web/create-web
 - create-content-cards-create-content-card.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card
 - create-code-based-experiences-create-code-based.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based
-- wait-activity-wait-activity.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/wait-activity
 - integrate-with-adobe-campaign-v7v8-integrating-with-adobe-campaign-v7-v8.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/adobe-solutions/acc-action
 - integrate-with-adobe-campaign-standard-using-adobe-campaign-standard.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/adobe-solutions/acs-action
 - journey-properties-attributes-journey-properties.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/syntax/journey-properties
@@ -1018,20 +1037,19 @@ Generated from Adobe Journey Optimizer documentation.
 - use-case-description.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
 - personalize-offers-with-ranking-formulas-based-on-user-zip-code-and-income.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction
 - scaling-orchestration-to-omnichannel-engagement-in-adobe-journey-optimizer-introduction.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
+- simulate-your-journey-simulate-journey.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/validate-journey/simulate-journey/simulate-journey
 - custom-upload-custom-upload.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/audiences/create/custom-upload
-- get-started-with-journey-simulation-simulate-journey-gs.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/simulate-journey/simulate-journey-gs
 - configure-and-track-your-journey-metrics-success-metrics.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/success-metrics
 - create-journey-reports-design-jo-reports.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reports/sharing-overview
 - start-and-monitor-your-orchestrated-campaigns-start-monitor.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/launch/start-monitor-campaigns
 - access-manage-campaigns-manage-campaigns.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/manage-campaigns
 - subdomain-delegation-in-journey-optimizer-subdomain-delegation.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/delegate-subdomains/about-subdomain-delegation
 - delegate-a-subdomain-delegate-subdomain.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/delegate-subdomains/delegate-subdomain
-- set-up-a-custom-subdomain-delegate-custom-subdomain.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/delegate-subdomains/delegate-custom-subdomain
 - get-started-with-email-configuration-get-starte-email-config.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/configure-email/get-started-email-config
 - use-path-experimentation-experimentation.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/optimize-activity/path-experimentation
 - leverage-path-targeting-targeting.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/optimize-activity/path-targeting
+- overview-report-channel-report-cja.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/channel-report-cja
 - field-references-field-references.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/syntax/field-references
-- date-functions-date-functions.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/main-functions-journey/date-functions
 - use-custom-actions-to-write-journey-events-in-experience-platform-custom-action-aep.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/custom-action-aep
 - syntax-section-overview.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/syntax/syntax-landing-page
 - functions-functions.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/main-functions-journey/functions
@@ -1040,7 +1058,6 @@ Generated from Adobe Journey Optimizer documentation.
 - integrate-with-intelligent-services-ai-overview.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/intelligent-services
 - about-orchestrated-campaign-activities-orchestrated-campaign-activities.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/about-activities
 - fork-fork.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/fork
-- channel-activities-channel.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/channels
 - key-steps-to-create-an-orchestrated-campaign-orchestrated-campaign-creation.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/launch/gs-campaign-creation
 - build-your-first-rule-build-query.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/query-database/build-query
 - get-started-with-relational-schemas-and-datasets-gs-schemas.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/data-configuration/schemas-datasets/gs-schemas
@@ -1062,8 +1079,10 @@ Generated from Adobe Journey Optimizer documentation.
 - design-content-from-scratch-with-the-email-designer-content-from-scratch.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/start-creating-content/content-from-scratch
 - get-started-with-profiles-profiles-gs.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/profiles/get-started-profiles
 - adobe-journey-optimizer-documentation.md — https://experienceleague.adobe.com/en/docs/journey-optimizer
+- datasets-time-to-live-ttl-guardrails-ttl-guardrail.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/datasets/datasets-ttl
 - get-started-with-audience-composition-get-start-audience-composition.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/audiences/create/get-started-audience-orchestration
 - manage-the-suppression-list-manage-suppression-list.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/monitor-reputation/manage-suppression-list
+- create-multilingual-content-with-manual-translation-multilingual-manual.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-multilingual/multilingual-manual
 - get-started-with-code-based-channel-get-started-code-based.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/get-started-code-based
 - code-based-experience-prerequisites-code-based-prerequisites.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/configure-code-based-channel/code-based-prerequisites
 - get-started-with-web-channel-get-started-web.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/web/get-started-web
@@ -1074,7 +1093,6 @@ Generated from Adobe Journey Optimizer documentation.
 - get-started-with-generate-content-gs-content-assistant.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/gs-generative
 - get-started-with-fragments-fragments.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/fragments
 - apply-themes-to-your-email-content-apply-email-themes.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/start-creating-content/apply-email-themes
-- add-links-track-messages-tracking.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/message-tracking
 - decisioning-guardrails-limitations-decisioning-guardrails.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/decisioning-guardrails
 - decision-management-guardrails-limitations-decision-management-guardrails.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/decision-management-guardrails
 - adobe-campaign-standard-actions-using-campaign-action.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/using-adobe-campaign-standard
@@ -1082,18 +1100,17 @@ Generated from Adobe Journey Optimizer documentation.
 - configure-a-unitary-event-configure-an-event.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/events-journeys/about-creating
 - step-event-field-list-sharing-field-list.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reports/sharing-field-list
 - url-tracking-url-tracking.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/configure-email/url-tracking
+- get-started-with-datasets-datasets-gs.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/datasets/get-started-datasets
 - configure-the-campaign-action-action-campaign-action.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/campaign-action
 - configure-the-api-triggered-campaign-action-api-action.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/api-triggered-campaigns/api-triggered-campaign-action
 - define-the-api-triggered-campaign-audience-api-audience.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/api-triggered-campaigns/api-triggered-campaign-audience
 - schedule-the-api-triggered-campaign-api-schedule.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/api-triggered-campaigns/api-triggered-campaign-schedule
-- execute-an-api-triggered-campaign-execute.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/api-triggered-campaigns/trigger-campaigns
 - audience-activation-in-journey-optimizer-segments-in-journey-optimizer.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/audiences/target-audiences
 - get-started-with-mobile-configuration-sms-configuration.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/mobile/configure-mobile/mobile-configuration
 - configure-your-code-based-experience-code-based-configuration.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/configure-code-based-channel/code-based-configuration
 - configure-your-web-experiences-web-configuration.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/web/configure-web-channel/web-configuration
 - direct-mail-configuration-direct-mail-configuration.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/direct-mail/direct-mail-configuration
 - create-ip-pools-create-ip-pools.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/delegate-subdomains/ip-pools
-- activate-high-throughput-mode-for-api-triggered-campaigns-high-throughput.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/api-triggered-campaigns/api-triggered-high-throughput
 - trigger-orchestrated-campaigns-using-a-signal-trigger-signal.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/orchestrated-advanced/trigger-orchestrated-campaign
 - orchestrate-campaign-activities-orchestrate.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/launch/orchestrate-activities
 - create-a-direct-mail-message-create-direct.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/direct-mail/create-direct-mail
@@ -1106,12 +1123,12 @@ Generated from Adobe Journey Optimizer documentation.
 - create-ip-warmup-campaigns-create-ip-warmup-campaign.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-campaign
 - use-experimentation-experimentation.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/message-optimization/optimization-experimentation
 - combine-targeting-and-experimentation-combination.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/message-optimization/optimization-combination
-- overview-report-channel-report-cja.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/channel-report-cja
 - create-a-dataset-to-collect-events-create-dataset.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-collect-event-data/create-dataset
 - request-approval-request-approval.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/approve/request-approval
 - review-approve-a-request-approve-requests.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/approve/review-approve-request
 - use-adobe-experience-platform-data-for-personalization-aep-data.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/aep-data-perso
 - generate-content-for-personalization-expressions-generative-personalization-expressions.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/generative-personalization-expressions
+- get-started-with-helper-functions-functions.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/functions
 - personalization-recipes-personalization-recipes.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/personalization-use-cases/personalization-recipes
 - personalization-editor-overview.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/personalization-editor-overview
 - use-decisioning-in-a-code-based-experience-with-content-experiment-experience-decisioning-uc.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc
@@ -1120,6 +1137,8 @@ Generated from Adobe Journey Optimizer documentation.
 - get-started-with-the-journey-optimizer-experimentation-accelerator-content-experiment.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/experiment-accelerator-gs
 - understand-statistical-calculations-in-experimentation-report-experiment-report-calculations.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-report-calculations
 - introduction-to-experimentation.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/experimentation-overview
+- simulate-your-journey-simulate-journey-2.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/simulate-journey/simulate-journey
+- brand-alignment-brands-score.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands-score
 - create-dynamic-content-dynamic-content.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/dynamic/dynamic-content
 - reporting-experimentation-prerequisites-reporting-configuration.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/reporting-configuration
 - experimentation-campaign-report-campaign-global-report-cja-experimentation.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/campaign-reporting/campaign-global-report-cja-experimentation
@@ -1157,15 +1176,15 @@ Generated from Adobe Journey Optimizer documentation.
 - journeystep-events-action-execution-fields-sharing-execution-fields.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reports/legacy-step-event-fields/sharing-execution-fields
 - export-datasets-to-cloud-storage-locations-export-datasets.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/datasets/export-datasets
 - dmarc-record-dmarc-record.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/delegate-subdomains/dmarc-record
+- live-activity-campaign-report-campaign-global-report-cja-activity.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/campaign-reporting/campaign-global-report-cja-activity
 - subscription-lists-create-subscription-list.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/landing-pages/subscription-list
+- work-with-integrations-external-sources.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/integrations
+- sample-vendor-configurations-vendor-integration.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/vendors/vendor-integration
+- get-started-with-adobe-experience-manager-content-fragments-aem-fragments.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem/aem-fragments-gs
 - design-your-email-content-section-overview.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/design-email-landing-page
 - email-opt-out-management-email-opt-out.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/email-opt-out
 - configure-email-channel-section-overview.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/configure-email/configure-email-landing-page
 - check-send-your-push-notification-send-push.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push
-- get-started-with-live-activity-configuration-mobile-live-config.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure/mobile-live-configuration
-- live-activity-integration-with-adobe-experience-platform-mobile-sdk-mobile-live-config-sdk.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure/mobile-live-configuration-sdk
-- create-a-live-activity-create-mobile-live.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/create-mobile-live
-- live-activity-campaign-report-campaign-global-report-cja-activity.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/campaign-reporting/campaign-global-report-cja-activity
 - configure-sinch-provider-sms-configuration-sinch.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/mobile/configure-mobile/mobile-configuration-sinch
 - configure-twilio-provider-sms-configuration-twilio.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/mobile/configure-mobile/mobile-configuration-twilio
 - configure-infobip-provider-sms-configuration-infobip.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/mobile/configure-mobile/mobile-configuration-infobip
@@ -1178,7 +1197,6 @@ Generated from Adobe Journey Optimizer documentation.
 - generate-text-with-ai-generative-text.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/generative-text
 - get-started-with-direct-mail-create-direct.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/direct-mail/get-started-direct-mail
 - check-send-a-direct-mail-message-direct-mail-test-send.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/direct-mail/test-send-direct-mail
-- get-started-with-whatsapp-configuration-whatsapp-config.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/whatsapp-configuration
 - create-a-whatsapp-message-create-whatsapp.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp
 - check-and-send-your-whatsapp-messages-send-whatsapp.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp
 - configure-line-channel-in-journey-optimizer-line-configuration.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/line/line-configuration
@@ -1201,20 +1219,22 @@ Generated from Adobe Journey Optimizer documentation.
 - configure-landing-page-subdomains-lp-subdomains.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/landing-pages/lp-configuration/lp-subdomains
 - define-landing-page-presets-lp-presets.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/landing-pages/lp-configuration/lp-presets
 - design-the-landing-page-content-design-lp.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/landing-pages/landing-pages-design/design-lp
+- access-and-manage-content-templates-access-manage-templates.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-templates/access-content-templates
 - create-content-templates-create-content-templates.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-templates/create-content-templates
 - lock-content-in-email-templates-lock-content-email-templates.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-templates/content-locking
 - test-email-content-templates-test-template.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-templates/test-content-templates
 - use-content-templates-use-content-templates.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-templates/use-content-templates
 - create-a-fragment-create-fragments.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/create-fragments
 - customizable-fragments-customizable-fragments.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/customizable-fragments
+- manage-fragments-manage-fragments.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/manage-fragments
 - combine-solutions-and-apps-to-manage-your-content-combine-solutions.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/content-integrations
 - work-with-adobe-stock-images-stock.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/stock
 - edit-assets-with-adobe-express-express.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/express
 - work-with-adobe-experience-manager-content-fragments-aem-fragments.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem/aem-fragments
+- work-with-dynamic-media-aem-dynamic.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem-dynamic
 - work-with-genstudio-for-performance-marketing-ajo-genstudio.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/genstudio
 - create-locale-multilingual-locale.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-multilingual/multilingual-locale
 - add-language-providers-multilingual-provider.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-multilingual/multilingual-provider
-- create-multilingual-content-with-manual-translation-multilingual-manual.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-multilingual/multilingual-manual
 - create-multilingual-content-with-automated-translation-multilingual-automated.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-multilingual/multilingual-automated
 - create-audiences-section-overview.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/audiences/create/create-landing-page
 - use-audiences-enrichment-attributes-enrichment.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/audiences/enrichment-attributes
@@ -1227,7 +1247,6 @@ Generated from Adobe Journey Optimizer documentation.
 - report-and-monitor.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/report-and-monitor
 - list-of-components-list-of-components-live.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/live-report/live-report-components
 - list-of-metrics-list-of-components-global.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/global-report-components-cja
-- campaign-reports-section-overview.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/campaign-reporting/campaign-reporting-landing-page
 - journey-reports-section-overview.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/journey-reporting/journey-reporting-landing-page
 - legacy-step-event-fields-section-overview.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reports/legacy-step-event-fields/legacy-step-event-fields-landing-page
 - get-started-with-decisioning-get-started-experience-decisioning.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/gs-experience-decisioning
@@ -1235,6 +1254,7 @@ Generated from Adobe Journey Optimizer documentation.
 - decisioning-frequently-asked-questions-decisioning-faq.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/decisioning-faq
 - api-reference-section-overview.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-api-reference/experience-decisioning-api-reference-landing-page
 - manage-decision-items-section-overview.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/manage-decision-items/manage-decision-items-landing-page
+- build-rules-rules.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/rules
 - create-rankings-section-overview.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-rankings/experience-decisioning-rankings-landing-page
 - work-with-placements-create-decision.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/placements
 - use-adobe-experience-platform-data-section-overview.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/aep-data/aep-data-landing-page
@@ -1253,59 +1273,55 @@ Generated from Adobe Journey Optimizer documentation.
 - set-up-data-overview.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-management/set-up-data-overview
 - create-datasets-and-ingest-data.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-management/create-datasets-and-ingest-data
 - use-adobe-experience-platform-data-for-decisioning-aep-data.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/aep-data/aep-data-exd
-- configure-a-custom-channel-custom-channel-configuration.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/custom-channel/configure-custom-channel/configure-custom-channel
+- manage-allowed-ips-waf-ip-allowlist.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/waf-ip-allowlist
+- data-types-data-types.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/syntax/data-types
+- inaudience-function-inaudience.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/main-functions-journey/functioninaudience
+- build-audience-build-audience.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/build-audience
+- read-audience-read-audience.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/read-audience
+- set-up-a-custom-channel-create-custom-channel.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/custom-channel/configure-custom-channel/create-custom-channel
 - create-custom-channel-experiences-create-custom-channel.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/custom-channel/create-custom-channel-experiences/create-custom-experience
-- monitor-custom-channels-monitor-custom-channel.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/custom-channel/monitor-custom-channel
-- export-message-content-message-export.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/message-export
-- use-the-email-designer-content-components-content-components.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/content-components
-- add-visual-fragments-to-your-emails-use-visual-fragments.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/use-visual-fragments
-- get-started-with-email-style-get-started-email-style.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/edit-style/get-started-email-style
-- use-dynamic-fragments-dynamic-fragments.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/dynamic-fragments
-- configure-a-targeting-dimension-configuration.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/data-configuration/target-dimension
-- configure-your-channel-configuration-channel-configuration.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/data-configuration/channel-config
-- leverage-context-data-in-decisioning-context.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/aep-data/context-data
+- get-started-with-live-activity-configuration-mobile-live-config.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration
+- personalize-email-configuration-settings-surface-personalization.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/configure-email/surface-personalization
 - configure-the-item-catalog-catalog.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/manage-decision-items/catalogs
 - leverage-fragments-in-decision-policies-fragments.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/decision-policies/fragments-decision-policies
 - decision-management-data-collection-data-collection.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-collect-event-data/data-collection
-- personalized-optimization-model-personalized-optimization-model.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-rankings/experience-decisioning-ai-models/personalized-optimization-model
-- operators-operators.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/operators
-- code-your-own-content-code-content.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/start-creating-content/code-content
-- aggregation-functions-aggregation.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/aggregation
-- maps-functions-maps.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/maps
-- math-functions-math.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/math
-- object-functions-objects.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/objects
-- string-functions-string.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/string
-- arithmetic-functions-maths.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/arithmetic-functions
+- use-and-configure-deep-links-in-emails-and-sms-deeplinks.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/deeplinks
+- personalize-urls-in-emails-url-personalization.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/url-personalization
 - reward-definition-guide-reward-definition-guide.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/configure-integrate-loyalty/reward-definition-guide
 - event-transformer-guide-event-transformer-guide.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/configure-integrate-loyalty/event-transformer-guide
 - get-started-with-push-notification-gs-push-notification.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/get-started-push
+- code-your-own-content-code-content.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/start-creating-content/code-content
 - import-your-email-content-existing-content.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/start-creating-content/existing-content
 - convert-images-to-email-content-templates-image-to-html.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-templates/image-to-html
 - use-email-templates-email-templates.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/start-creating-content/use-email-templates
+- content-check-in-the-email-designer-content-check.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/content-check
+- brand-alignment-brands-score-2.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/brands/brands-score
 - design-accessible-content-accessible-content.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/accessible-content
+- manage-dark-mode-content-dark-mode.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/edit-style/dark-mode
 - configure-web-push-notification-channel-push-notification-configuration.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-configuration-web
 - push-notification-data-flow-and-components-get-started-push.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs
 - enrichment-enrichment.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/enrichment
-- use-and-configure-deep-links-in-emails-and-sms-deeplinks.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/deeplinks
 - encrypt-url-parameters-url-parameter-encryption.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/url-parameter-encryption
 - work-with-adobe-analytics-data-analytics-data.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/events-journeys/about-analytics
 - offer-library-user-interface-user-interface.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/user-interface
-- personalize-email-configuration-settings-surface-personalization.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/configure-email/surface-personalization
 - create-personalized-offers-create-personalized-offers.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/managing-offers-in-the-offer-library/configure-offers/creating-personalized-offers
 - deliver-offers-using-the-decisioning-api-decisioning-api.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/api-reference/offer-delivery-api/decisioning-api
 - generate-expressions-with-ai-generate-expression.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/generate-expression
+- use-dynamic-fragments-dynamic-fragments.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/dynamic-fragments
 - test-code-based-experiences-test-code-based.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/test-code-based
+- string-functions-string.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/string
 - use-case-configure-personalized-offers-to-use-them-in-an-email-configure-add-personalized-offers-email.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/offers-e2e
 - create-decisions-create-offer-activities.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/create-manage-activities/create-offer-activities
 - introduction-to-adobe-journey-optimizer.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/introduction
 - adobe-journey-optimizer-b2b-edition-documentation.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/guide-overview
 - generate-full-content-with-ai-generative-full-content.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/generative-full-content
 - generate-images-with-ai-generative-image.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/generative-image
-- brand-alignment-brands-score.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/brands/brands-score
 - generate-content-prompt-best-practices-ai-assistant-prompting-guide.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/ai-assistant-prompting-guide
+- work-with-mcp-clients-ajo-mcp.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/ajo-mcp
 - get-started-with-ai-models-ai-models.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-rankings/experience-decisioning-ai-models/ai-models
 - build-ai-models-create-ai-models.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-rankings/experience-decisioning-ai-models/create-ai-models
-- migrate-an-email-subdomain-from-cname-to-custom-delegation-migrate-cname-to-custom.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/delegate-subdomains/custom-subdomain-migration
+- create-ranking-formulas-create-ranking-formulas.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-rankings/ranking-formulas
+- export-message-content-message-export.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/message-export
 - retries-retries.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/monitor-reputation/retries
 - set-up-an-allowed-list-allow-list.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/monitor-reputation/allow-list
 - mobile-onboarding-quick-start-workflow-mobile-wf.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/mobile-onboarding-wf
@@ -1320,6 +1336,7 @@ Generated from Adobe Journey Optimizer documentation.
 - analyze-and-build-journeys-with-the-journey-agent.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview
 - configure-content-experiments-for-emails.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/experimentation/content-experiments-for-emails
 - use-decisioning-to-personalize-web-offers.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction
+- leverage-context-data-in-decisioning-context.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/aep-data/context-data
 - ai-assistant-for-content-generation-overview.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview
 - create-content-cards.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/content-cards/create-content-cards
 - monitor-and-analyze-your-journey-with-live-reports.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports
@@ -1328,8 +1345,12 @@ Generated from Adobe Journey Optimizer documentation.
 - comply-with-new-dmarc-requirement-dmarc-record-update.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/deliverability/dmarc-record-update
 - configure-content-cards-support-in-web-sdk-content-card-configuration-sdk.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-configuration-sdk
 - create-collections-create-collections.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/managing-offers-in-the-offer-library/creating-collections
+- add-visual-fragments-to-your-emails-use-visual-fragments.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/use-visual-fragments
+- decision-management-data-collection-data-collection-2.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/collect-event-data/data-collection
+- use-the-email-designer-content-components-content-components.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/content-components
+- math-functions-math.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/math
 - create-edit-ptr-records-ptr-records.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/delegate-subdomains/ptr-records
-- send-time-optimization-send-time-optimization.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/delivery-settings/send-time-optimization
+- personalized-optimization-model-personalized-optimization-model.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-rankings/experience-decisioning-ai-models/personalized-optimization-model
 - personalized-optimization-model-personalized-optimization-model-2.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/rankings/ai-models/personalized-optimization-model
 - split-split.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/split
 - batch-decisioning-in-direct-mail-batch-decisioning-direct-mail.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/decision-policies/batch-decisioning-direct-mail
@@ -1337,13 +1358,13 @@ Generated from Adobe Journey Optimizer documentation.
 - ajo-message-export-schema-ajo-message-export-schema.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/message-export-schema
 - change-dimension-change-dimension.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/change-dimension
 - add-a-cc-field-to-emails-cc-email-field.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/cc-email-field
-- build-audience-build-audience.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/build-audience
 - edit-email-content-with-the-advanced-html-editor-email-expert-mode.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/email-expert-mode
 - save-audience-save-audience.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/save-audience
 - monitor-your-ai-models-ai-model-observability.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-rankings/experience-decisioning-ai-models/ai-model-observability
 - supported-functions-in-the-personalization-editor-personalization-editor-supported-functions.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/managing-offers-in-the-offer-library/configure-offers/personalization-editor-supported-functions
 - create-decision-policies-create-decision.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/decision-policies/create-decision-policy
 - manage-the-text-version-of-an-email-text-version-email.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/text-version-email
+- configure-your-channel-configuration-channel-configuration.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/data-configuration/channel-config
 - leverage-custom-upload-audiences-for-decisioning-custom-upload-decisioning.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/custom-upload-decisioning
 - ip-warmup-deliverability-guide-ip-warmup-deliverability-guide.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-deliverability-guide
 - add-constraints-to-an-offer-add-constraints.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/managing-offers-in-the-offer-library/configure-offers/add-constraints
@@ -1351,7 +1372,6 @@ Generated from Adobe Journey Optimizer documentation.
 - auto-optimization-models-auto-optimization-model-2.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-rankings/experience-decisioning-ai-models/auto-optimization-model
 - collections-collections.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/manage-decision-items/collections
 - create-fallback-offers-create-fallback-offers.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/managing-offers-in-the-offer-library/creating-fallback-offers
-- inaudience-function-inaudience.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/main-functions-journey/functioninaudience
 - configure-web-subdomains-web-subdomains.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/web/configure-web-channel/web-delegated-subdomains
 - list-personalized-offers-list-personalized-offers.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/api-reference/offers-api/personalized-offers/offers-list
 - list-unsubscribe-list-unsubscribe.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/configure-email/list-unsubscribe
@@ -1382,12 +1402,11 @@ Generated from Adobe Journey Optimizer documentation.
 - configure-content-cards-content-card-configuration.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-configuration
 - configure-inbox-inbox-configuration.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/inbox/inbox-configuration
 - use-editable-form-fields-in-code-based-experiences-code-based-form-fields.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields
-- data-types-data-types.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/syntax/data-types
 - identity-stitching-in-aep.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction
 - about-legacy-fields-sharing-legacy-fields.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reports/legacy-step-event-fields/sharing-legacy-fields
 - advanced-expression-editor-syntax-syntax.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/syntax/generalities
 - conditional-instruction-if-then-else-conditional-instruction.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/syntax/conditional-instruction
-- operators-operators-2.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/syntax/operators
+- operators-operators.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/syntax/operators
 - aggregation-functions-aggregation-functions.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/main-functions-journey/aggregation-functions
 - conversion-functions-conversion-functions.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/main-functions-journey/conversion-functions
 - math-functions-math-functions.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/main-functions-journey/math-functions
@@ -1396,16 +1415,16 @@ Generated from Adobe Journey Optimizer documentation.
 - combine-combine.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/combine
 - deduplication-deduplication.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/deduplication
 - reconciliation-reconciliation.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/reconciliation
+- load-file-load-file.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/load-file
 - and-join-join.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/and-join
 - wait-wait.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/wait
-- read-audience-read-audience.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/read-audience
-- set-up-a-custom-channel-create-custom-channel.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/custom-channel/configure-custom-channel/create-custom-channel
 - building-retargeting-queries-retarget.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/query-database/retarget
 - work-with-predefined-filters-predefined-filters.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/query-database/predefined-filters
 - edit-expressions-edit-expressions.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/query-database/edit-expressions
 - create-relational-schemas-using-a-ddl-file-file-upload-schema.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/data-configuration/schemas-datasets/file-upload-schema
 - ingest-data-ingest-data.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/data-configuration/schemas-datasets/ingest-data
 - work-with-the-rule-builder-orchestrated-rule-builder.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/query-database/orchestrated-rule-builder
+- get-started-with-email-style-get-started-email-style.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/edit-style/get-started-email-style
 - deliver-offers-using-the-edge-decisioning-api-edge-decisioning-api.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/api-reference/offer-delivery-api/edge-decisioning-api
 - get-started-with-ai-models-ai-models-2.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/rankings/ai-models/ai-models
 - adjust-vertical-alignment-padding-alignment-and-padding.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/edit-style/alignment-and-padding
@@ -1420,20 +1439,25 @@ Generated from Adobe Journey Optimizer documentation.
 - manage-web-modifications-manage-web-modifications.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/web/author-web-pages/manage-web-modifications
 - create-a-web-campaign.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/web-channel/create-a-web-campaign
 - in-app-messages-overview-2.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/in-app-messages-overview
-- generate-content-use-cases-generative-uc.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/generative-uc
 - ai-assistant.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant
 - create-placements-create-placements.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/create-components/creating-placements
 - create-feedback-webhooks-for-api-triggered-campaigns-webhooks.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/feedback-webhooks
 - generate-sms-usage-report-sms-usage-report.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/mobile/sms-usage-report
 - use-variables-in-orchestrated-campaigns-variables-oc.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/orchestrated-advanced/variables-orchestrated-campaigns
 - introduction-to-the-whatsapp-channel.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction
+- aggregation-functions-aggregation.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/aggregation
+- maps-functions-maps.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/maps
+- object-functions-objects.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/objects
+- arithmetic-functions-maths.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/arithmetic-functions
+- operators-operators-2.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/operators
+- create-manage-your-brands-brands.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/brands/brands
+- using-external-integrations-for-personalization-integrations-personalization.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/integrations-personalization
+- configure-adobe-experience-manager-repository-access-aem-admin-settings.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem/aem-admin-settings
 - start-creating-content-section-overview.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/start-creating-content/start-creating-content-landing-page
 - design-your-content-section-overview.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/add-content-landing-page
 - edit-style-section-overview.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/edit-style/edit-style-landing-page
-- troubleshoot-live-activities-troubleshoot-mobile-live.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/troubleshoot-mobile-live
 - use-a-custom-dataset-for-inbound-keywords-custom-dataset-inbound-keywords.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/mobile/configure-mobile/custom-dataset-inbound-keywords
 - best-practices-for-sms-cost-optimization-sms-cost-optimization.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/mobile/mobile-cost-optimization
-- create-manage-your-brands-brands.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/brands/brands
 - direct-mail-channel.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/direct-mail-channel/direct-mail
 - author-single-page-applications-web-author-spas.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/web/web-sdk/web-spa
 - configure-content-cards-support-in-mobile-sdk-content-card-lp.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp
@@ -1465,7 +1489,6 @@ Generated from Adobe Journey Optimizer documentation.
 - configure-offers-selection-in-decisions-offers-selection-in-decisions.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/create-manage-activities/configure-offer-selection
 - create-simulations-create-simulations.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/create-manage-activities/simulation
 - deliver-offers-using-the-batch-decisioning-api-deliver-offers-batch.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/api-reference/offer-delivery-api/batch-decisioning-api
-- decision-management-data-collection-data-collection-2.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/collect-event-data/data-collection
 - create-a-dataset-to-collect-events-create-dataset-2.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/collect-event-data/create-dataset
 - configure-data-collection-schema-requirements-2.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/collect-event-data/schema-requirement
 - context-data-edge-decisioning-requests-edge.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/context-data/context-data-edge
@@ -1479,23 +1502,21 @@ Generated from Adobe Journey Optimizer documentation.
 - placements-dataset-placements-dataset.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/export-catalog/export-placements
 - fallback-offers-dataset-fallback-dataset.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/export-catalog/export-fallback
 - deliver-offers-using-apis-section-overview.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/api-reference/offer-delivery-api/offer-delivery-api-landing-page
+- create-a-channel-configuration-create-channel-config.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/custom-channel/configure-custom-channel/custom-channel-configuration
 - manage-api-credentials-api-credentials.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/custom-channel/configure-custom-channel/custom-channel-api-credentials
 - configure-custom-channel-subdomains-custom-channel-subdomains.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/custom-channel/configure-custom-channel/custom-channel-subdomains
-- create-a-channel-configuration-create-channel-config.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/custom-channel/configure-custom-channel/custom-channel-configuration
+- configure-a-custom-channel-custom-channel-configuration.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/custom-channel/configure-custom-channel/configure-custom-channel
 - test-your-custom-channel-test-custom-channel.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/custom-channel/create-custom-channel-experiences/test-custom-channel
-- custom-channel-campaign-report-campaign-global-report-cja-custom-channel.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/campaign-reporting/campaign-global-report-cja-custom
-- add-personalized-offers-deliver-personalized-offers.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/add-offers-email
-- personalize-your-email-background-backgrounds.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/edit-style/backgrounds
-- add-inline-styling-attributes-inline-styling.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/edit-style/inline-styling
-- add-custom-css-to-your-email-content-email-metadata.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/edit-style/custom-css
-- manage-dark-mode-content-dark-mode.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/edit-style/dark-mode
+- live-activity-integration-with-adobe-experience-platform-mobile-sdk-mobile-live-config-sdk.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk
 - loyalty-data-and-datasets-loyalty-data-and-datasets.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/configure-integrate-loyalty/loyalty-data-and-datasets
+- get-started-with-generate-content-gs-content-assistant-2.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/gs-generative
+- personalize-your-email-background-backgrounds.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/edit-style/backgrounds
 - add-representations-to-an-offer-add-representations.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/managing-offers-in-the-offer-library/configure-offers/add-representations
-- create-a-placement-create-placement.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/api-reference/offers-api/placements/create
+- create-a-placement-create-placement.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/api-reference/offers-api/dm-placements/create
 - create-a-decision-create-decision.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/api-reference/offers-api/decisions-api/create
+- add-personalized-offers-deliver-personalized-offers.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/add-offers-email
 - audience-agent-b2b.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-agents/audience-agent-b2b
 - journey-agent-b2b.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-agents/journey-agent
-- sales-qualifier.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-agents/sales-qualifier
 - whatsapp-channel-setup.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-whatsapp
 - generative-ai-models-for-brand-alignment.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/brands/generative-ai-models
 - email-send-time-optimization.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-send-time-optimization
@@ -1511,7 +1532,7 @@ Generated from Adobe Journey Optimizer documentation.
 - journey-management.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journeys-overview
 - buying-groups.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview
 - log-in-and-home-page.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/home-page
-- ai-assistant-in-journey-optimizer-b2b-edition.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-assistant-overview
+- ai-capabilities-in-journey-optimizer-b2b-edition.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-assistant-overview
 - buying-group-role-templates.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates
 - solution-interests.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/solution-interests
 - create-buying-groups.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-create
@@ -1538,7 +1559,7 @@ Generated from Adobe Journey Optimizer documentation.
 - set-up-data-manually.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/set-up-data-structure-and-ingest-data/manual-data-set-up
 - create-audiences-using-web-sdk.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction
 - journey-optimizer-experimentation-accelerator.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/experiment/experiment-accelerator
-- attach-a-pdf-file-to-an-email-pdf-attachments.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/start-creating-content/pdf-attachments
+- create-ai-models-ai-rankings.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/rankings/ai-models/create-ranking-strategies
 - get-started-with-offer-delivery-apis-about-decisioning-apis.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/api-reference/offer-delivery-api/start-offer-delivery-apis
 - create-an-eligibility-rule-create-eligibility-rule.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-api-reference/eligibility-rules/create
 - create-a-ranking-formula-create-ranking-formula.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-api-reference/ranking-formulas/create
@@ -1573,7 +1594,8 @@ Generated from Adobe Journey Optimizer documentation.
 - journey-frequency-capping-and-prioritization.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization
 - introduction-to-reporting-in-journey-optimizer-2.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview
 - create-an-inbox-inbox-create.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/inbox/inbox-create
-- create-ai-models-ai-rankings.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/rankings/ai-models/create-ranking-strategies
+- add-inline-styling-attributes-inline-styling.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/edit-style/inline-styling
+- add-custom-css-to-your-email-content-email-metadata.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/edit-style/custom-css
 - deliver-offers-using-the-decisioning-api-decisioning-api-2.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/offer-decisioning/api-reference/offer-delivery-api/decisioning-api
 - deliver-offers-using-the-edge-decisioning-api-edge-decisioning-api-2.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/offer-decisioning/api-reference/offer-delivery-api/edge-decisioning-api
 - define-global-variables-in-orchestrated-campaigns-define-global-variables.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/orchestrated-advanced/global-variables
@@ -1582,10 +1604,13 @@ Generated from Adobe Journey Optimizer documentation.
 - add-metadata-to-your-email-content-email-metadata.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/email-metadata
 - implement-single-page-applications-spas-web-spa-implementation.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/web/web-sdk/web-spa-implementation
 - overview-report-channel-report-cja-2.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/channel-report
+- monitor-custom-channels-monitor-custom-channel.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/custom-channel/monitor-custom-channel
 - intent-data.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/configurations/intent-data
+- user-access-and-permissions.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/user-management
 - take-an-action.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/action-nodes
 - wait-nodes.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/wait-nodes
 - variant-split-paths.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/variant-split-paths-nodes
+- c2pa-metadata.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/assets/c2pa-metadata
 - listen-for-an-event.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes
 - landing-page-configuration.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-landing-pages
 - landing-pages.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/landing-pages
@@ -1638,11 +1663,10 @@ Generated from Adobe Journey Optimizer documentation.
 - email-setup.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/email-setup
 - web-channel-configurations.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-web
 - web-experiences.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/web-channel/web-experiences
-- user-access-and-permissions.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/user-management
 - account-audiences.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/audiences/account-audience-overview
 - enable-ai-assistant-access.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/enable-ai-assistant-access
 - question-guidance-for-ai-assistant-in-journey-optimizer-b2b-edition.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/question-guidance
-- use-ai-assistant-in-journey-optimizer-b2b-edition.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/use-ai-assistant
+- use-the-chat-interface.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/use-ai-assistant
 - default-xdm-fields.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/audiences/field-mapping
 - account-audience-journey-nodes.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/account-audience-nodes
 - person-audience-journey-nodes.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/person-audience-nodes
@@ -1667,7 +1691,9 @@ Generated from Adobe Journey Optimizer documentation.
 - enforce-data-usage-policies-in-journey-optimizer-channels.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/enforce-data-usage-policies-in-journey-optimizer-channels
 - create-a-channel-set-up-set-mobile-ios.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up
 - design-an-inbox-inbox-design.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/inbox/inbox-design
+- custom-channel-campaign-report-campaign-global-report-cja-custom-channel.md — https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/campaign-reporting/campaign-global-report-cja-custom
 - whatsapp-authoring.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/whatsapp-authoring
+- journey-details.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-details
 - create-and-publish-landing-pages.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/landing-pages-create-publish
 - landing-page-design.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/landing-page-design
 - form-design.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/forms/form-design
@@ -1676,13 +1702,14 @@ Generated from Adobe Journey Optimizer documentation.
 - personalization-syntax-personalization-syntax-2.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/personalization/personalization-syntax
 - helper-functions.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/personalization/personalization-helper-functions
 - author-from-a-governed-template.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-authoring-governance
+- structure-components-structure-components.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/content-design/structure-components
+- content-components-content-components.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/content-design/content-components
 - web-experience-design.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/web-channel/web-experience-design
 - governance-and-privacy-features.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/governance
 - ai-assistant-for-landing-page-content-generative-full-content.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/ai-assistant-landing-pages
 - configure-experience-manager-asset-repositories.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/configurations/configure-aem-repositories
 - configure-events.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/configure-events
 - test-profiles-test-profiles.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/audiences/test-profiles
-- content-components-content-components.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/content-design/content-components
 - manage-email-open-tracking.md — https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-tracking-manage
 
 
@@ -1708,10 +1735,10 @@ Gerado a partir da documentacao do Adobe Journey Optimizer B2B Edition.
 - user-access-and-permissions.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/user-management
 - user-onboarding-guidance.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/get-started
 - log-in-and-home-page.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/home-page
-- ai-assistant-in-journey-optimizer-b2b-edition.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-assistant-overview
+- ai-capabilities-in-journey-optimizer-b2b-edition.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-assistant-overview
 - enable-ai-assistant-access.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/enable-ai-assistant-access
 - question-guidance-for-ai-assistant-in-journey-optimizer-b2b-edition.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/question-guidance
-- use-ai-assistant-in-journey-optimizer-b2b-edition.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/use-ai-assistant
+- use-the-chat-interface.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/use-ai-assistant
 - generative-ai-for-content-generative-ai-content.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/generative-ai-content
 - audience-agent-b2b.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-agents/audience-agent-b2b
 - journey-agent-b2b.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-agents/journey-agent
@@ -1859,7 +1886,6 @@ Gerado a partir da documentacao do Adobe Journey Optimizer B2B Edition.
 - person-engagement-scores-engagement-scores.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/audiences/engagement-scores
 - derived-personas.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/audiences/personas
 - destinations.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/audiences/destinations
-- assets-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/digital-asset-management
 - email-templates-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/templates/templates
 - create-email-templates.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/templates/templates-create
 - content-governance-for-templates.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/templates/template-content-governance
@@ -1883,7 +1909,9 @@ Gerado a partir da documentacao do Adobe Journey Optimizer B2B Edition.
 - program-types.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/admin/program-types
 - sales-qualifier-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/sales-qualifier
 - journey-optimizer-b2b-edition-tutorials.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/overview
+- c2pa-metadata.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/assets/c2pa-metadata
 - user-access-and-permissions-3.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/user-management
+- assets-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/assets/digital-asset-management
 - buying-group-stages-2.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/buying-group-stages
 - listen-for-aep-events.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/journey-nodes/listen-for-aep-events
 - paid-media-orchestration.md - https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/journey-nodes/paid-media-orchestration
@@ -2174,7 +2202,7 @@ Generated from Experience League Customer Journey Analytics documentation.
 - analytics-platform/using/releases/2026
   - 2026-customer-journey-analytics-release-notes.md
 - analytics-platform/using/releases/latest
-  - current-customer-journey-analytics-release-notes-july-2026.md
+  - current-customer-journey-analytics-release-notes-august-2026.md
 
 ## other
 
@@ -2270,7 +2298,7 @@ Generated from Experience League Customer Journey Analytics documentation.
   - combined-event-datasets.md
 - analytics-platform/using/cja-connections/consent-reporting-filtering
   - analyze-consent-policy-data.md
-  - configure-consent-reporting-and-filtering.md
+  - configure-consent-reporting-and-filtering-configure-consent-reporting.md
   - consent-reporting-and-filtering-use-cases.md
   - manage-consent-reporting-and-filtering-configurations.md
 - analytics-platform/using/cja-connections/create-connection
@@ -2555,10 +2583,10 @@ Generated from Experience League Customer Journey Analytics documentation.
   - integrate-decision-management.md
 - analytics-platform/using/integrations/at
   - target-reporting.md
+- analytics-platform/using/integrations/bv
+  - adobe-brand-visibility-integration.md
 - analytics-platform/using/integrations/customer-ai
   - integrate-customer-ai-data.md
-- analytics-platform/using/integrations/llmo
-  - llm-optimizer-integration.md
 - analytics-platform/using/releases/doc-changes
   - customer-journey-analytics-documentation-updates.md
 - analytics-platform/using/releases/releases
@@ -2567,6 +2595,8 @@ Generated from Experience League Customer Journey Analytics documentation.
   - view-reporting-activity-view-reporting-activity.md
 - analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests
   - cancel-reporting-requests-in-the-reporting-activity-manager.md
+- analytics-platform/using/stitching/b2b-account-stitching
+  - b2b-account-stitching.md
 - analytics-platform/using/stitching/faq
   - frequently-asked-questions.md
 - analytics-platform/using/stitching/fbs
@@ -2639,8 +2669,6 @@ Generated from Adobe Experience League Target documentation.
 - [Recursos e informações de contato](recursos-e-informações-de-contato-4fd5394a.md)
 - [Recomendações](recomendações-26748b64.md)
 - [Visão geral da API do Target](visão-geral-da-api-do-target-ffc80823.md)
-- [Cálculos estatísticos em testes A/Bn](cálculos-estatísticos-em-testes-abn-c70a40db.md)
-- [Target relatórios em Adobe Customer Journey Analytics](target-relatórios-em-adobe-customer-journey-analytics-702587ff.md)
 - [Notas de versão para versões anteriores](notas-de-versão-para-versões-anteriores-62f56a4a.md)
 - [Notas de versão do Target (pré-lançamento)](notas-de-versão-do-target-pré-lançamento-cedcfc81.md)
 - [Visual Experience Composer (VEC)](visual-experience-composer-vec-1a488450.md)
@@ -2666,12 +2694,14 @@ Generated from Adobe Experience League Target documentation.
 - [Configurar relatórios em Target](configurar-relatórios-em-target-340986aa.md)
 - [Metas e Configurações](metas-e-configurações-b8acc75e.md)
 - [Aumento estimado na receita](aumento-estimado-na-receita-2cec521a.md)
+- [Adobe Target servidor MCP target-mcp](adobe-target-servidor-mcp-target-mcp-dc3a6590.md)
 - [Visão geral da decisão no dispositivo](visão-geral-da-decisão-no-dispositivo-a5aa42b3.md)
 - [Tipos de atividade do Target](tipos-de-atividade-do-target-941f19b0.md)
 - [Visão geral do teste A/B](visão-geral-do-teste-ab-1964cd30.md)
 - [Visão geral das Auto-Allocate](visão-geral-das-auto-allocate-20067a22.md)
 - [Visão geral das Multivariate Test](visão-geral-das-multivariate-test-4a87bce5.md)
 - [Experience Targeting (XT)](experience-targeting-xt-6f39ceb8.md)
+- [Target relatórios em Adobe Customer Journey Analytics](target-relatórios-em-adobe-customer-journey-analytics-702587ff.md)
 - [Experience Composer baseado em formulário](experience-composer-baseado-em-formulário-ea65aa02.md)
 - [Success metrics](success-metrics-5b809f32.md)
 - [Editar uma atividade](editar-uma-atividade-b6ac891b.md)
@@ -2714,7 +2744,6 @@ Generated from Adobe Experience League Target documentation.
 - [Personalization Insights relatórios](personalization-insights-relatórios-1a77a795.md)
 - [Relatórios do Analytics for Adobe Target (A4T)](relatórios-do-analytics-for-adobe-target-a4t-aa9fabae.md)
 - [Referência de ferramentas do servidor MCP Adobe Target target-mcp-tools-reference](referência-de-ferramentas-do-servidor-mcp-adobe-target-target-mcp-tools-reference-4fe27d11.md)
-- [Adobe Target servidor MCP target-mcp](adobe-target-servidor-mcp-target-mcp-dc3a6590.md)
 - [Introdução ao servidor MCP Adobe Target target-mcp-get-started](introdução-ao-servidor-mcp-adobe-target-target-mcp-get-started-8cc1fb3f.md)
 - [Servidor MCP Adobe Target — casos de uso e apresentações target-mcp-use-cases](servidor-mcp-adobe-target-casos-de-uso-e-apresentações-target-mcp-use-cases-82a99d4d.md)
 - [Criar uma atividade Recommendations](criar-uma-atividade-recommendations-14961e89.md)
@@ -2784,8 +2813,6 @@ Generated from Adobe Experience League Target documentation.
 - [Criar um design](criar-um-design-c6d6df4a.md)
 - [Introdução à API de entrega do Adobe Target](introdução-à-api-de-entrega-do-adobe-target-3ebc9ad7.md)
 - [Configurar autenticação para Adobe Target APIs](configurar-autenticação-para-adobe-target-apis-ae8cfcf4.md)
-- [Usuários](usuários-356944ce.md)
-- [Visão geral da biblioteca JavaScript do at.js](visão-geral-da-biblioteca-javascript-do-atjs-3289b053.md)
 - [Painel do Adobe Target Insights](painel-do-adobe-target-insights-9b07039d.md)
 - [Adobe Analytics for Target (A4T) fazendo logon no Experience Platform Web SDK](adobe-analytics-for-target-a4t-fazendo-logon-no-experience-platform-web-sdk-f5106885.md)
 - [Criar públicos-alvo](criar-públicos-alvo-d00a7bc3.md)
@@ -2811,6 +2838,7 @@ Generated from Adobe Experience League Target documentation.
 - [Uso das regras de inclusão estática e dinâmica](uso-das-regras-de-inclusão-estática-e-dinâmica-d7cc73a2.md)
 - [Criar sequências de critérios](criar-sequências-de-critérios-37135796.md)
 - [Selecione o controle para sua atividade Automated Personalization ou Auto-Target](selecione-o-controle-para-sua-atividade-automated-personalization-ou-auto-target-d8c00553.md)
+- [Usuários](usuários-356944ce.md)
 - [Configuração de permissões empresariais](configuração-de-permissões-empresariais-f1db3202.md)
 - [Relatórios do A4T](relatórios-do-a4t-3296af99.md)
 - [Trabalhar com atributos de vários valores](trabalhar-com-atributos-de-vários-valores-61cc7b9a.md)
@@ -2830,6 +2858,7 @@ Generated from Adobe Experience League Target documentation.
 - [Dispositivo móvel](dispositivo-móvel-c7459128.md)
 - [Parâmetros personalizados](parâmetros-personalizados-a6d98a8f.md)
 - [Alterações na criptografia do TLS (Transport Layer Security)](alterações-na-criptografia-do-tls-transport-layer-security-ff3eff94.md)
+- [Cálculos estatísticos em testes A/Bn](cálculos-estatísticos-em-testes-abn-c70a40db.md)
 - [Time Frame](time-frame-3b75c58e.md)
 - [Criar um público-alvo com apenas uma atividade](criar-um-público-alvo-com-apenas-uma-atividade-edb8b29c.md)
 - [Upload dos critérios personalizados](upload-dos-critérios-personalizados-72cf7227.md)
@@ -2892,6 +2921,7 @@ Generated from Adobe Experience League Target documentation.
 - [Sistema operacional](sistema-operacional-dcc45f65.md)
 - [Fontes de tráfego](fontes-de-tráfego-ab513041.md)
 - [Auto-Allocate fornece resultados de teste mais rápidos e receita maior do que um teste manual](auto-allocate-fornece-resultados-de-teste-mais-rápidos-e-receita-maior-do-que-um-teste-manual-63ccc774.md)
+- [Visão geral da biblioteca JavaScript do at.js](visão-geral-da-biblioteca-javascript-do-atjs-3289b053.md)
 - [Usar decisões de oferta](usar-decisões-de-oferta-9fd52398.md)
 - [Atributos do cliente](atributos-do-cliente-0d8b429a.md)
 - [Privacidade](privacidade-3a6609f2.md)
@@ -2926,8 +2956,6 @@ Generated from Adobe Experience League Target documentation.
 - [Duração do perfil do visitante](duração-do-perfil-do-visitante-16ef1039.md)
 - [Implementação do aplicativo de página única](implementação-do-aplicativo-de-página-única-c3e3c41b.md)
 - [Implementar o Targetusando a Adobe Experience Platform](implementar-o-targetusando-a-adobe-experience-platform-60557c3d.md)
-- [Como a at.js gerencia a cintilação](como-a-atjs-gerencia-a-cintilação-27ba85e7.md)
-- [Integrações da at.js](integrações-da-atjs-50fbd9a2.md)
 - [Inicializar SDKs](inicializar-sdks-d9639df4.md)
 - [Configurar coleção de dados](configurar-coleção-de-dados-5c1787a7.md)
 - [Renderizar experiências](renderizar-experiências-010516d0.md)
@@ -2953,6 +2981,8 @@ Generated from Adobe Experience League Target documentation.
 - [Recursos com suporte para decisão no dispositivo](recursos-com-suporte-para-decisão-no-dispositivo-373779ce.md)
 - [Artefato da regra de decisão no dispositivo](artefato-da-regra-de-decisão-no-dispositivo-676561bf.md)
 - [adobe.target.getOffers() - at.js 2.x](adobetargetgetoffers-atjs-2x-c24880f9.md)
+- [Como a at.js gerencia a cintilação](como-a-atjs-gerencia-a-cintilação-27ba85e7.md)
+- [Integrações da at.js](integrações-da-atjs-50fbd9a2.md)
 - [adobe.target.triggerView (viewName, options) - at.js 2.x](adobetargettriggerview-viewname-options-atjs-2x-4acf7909.md)
 - [Implementação de aplicativos de página única](implementação-de-aplicativos-de-página-única-fed3f5bf.md)
 - [Acesso aos tokens de resposta](acesso-aos-tokens-de-resposta-86fc2b42.md)
@@ -2966,11 +2996,11 @@ Generated from Adobe Experience League Target documentation.
 - [Exemplo de artefato de regra](exemplo-de-artefato-de-regra-a7173698.md)
 - [targetPageParamsAll()](targetpageparamsall-f2193ddf.md)
 - [Adobe Target Single Profile Update API](adobe-target-single-profile-update-api-f25be675.md)
-- [Personalizar uma mbox global](personalizar-uma-mbox-global-c9698c35.md)
 - [adobe.target.trackEvent(options)](adobetargettrackeventoptions-d93268c6.md)
 - [adobe.target.applyOffers(options) - at.js 2.x](adobetargetapplyoffersoptions-atjs-2x-9c98f761.md)
 - [Biblioteca do Target](biblioteca-do-target-5cf6ed20.md)
 - [Planejar e implementar o Recommendations](planejar-e-implementar-o-recommendations-1156f299.md)
+- [Personalizar uma mbox global](personalizar-uma-mbox-global-c9698c35.md)
 - [adobe.target.getOffer(options)](adobetargetgetofferoptions-2619266a.md)
 - [adobe.target.applyOffer(options)](adobetargetapplyofferoptions-6e24fce0.md)
 - [mboxCreate(mbox,params) - at.js 1.x](mboxcreatemboxparams-atjs-1x-98689d40.md)
@@ -2986,210 +3016,987 @@ Generated from Adobe Experience League Target documentation.
 
 # Adobe Workfront Documentation
 
-Total pages: 4990
+Total pages: 4998
 
 - [Adobe Workfront documentation | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/home)
-- [Acquire and install apps from Adobe Exchange | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/app-builder/install-apps-on-exchange)
-- [API basics | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-basics)
-- [Create custom applications for Workfront with Adobe App Builder | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/app-builder/app-builder)
-- [Adobe Workfront integrations overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-integrations)
-- [Adobe Workfront documentation | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/home#/schema)
-- [Manage work | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/manage-work)
-- [Agile Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-overview)
-- [The Workload Balancer: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/workload-balancer)
+- [Documents: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/documents-overview)
+- [Reports and Dashboards: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports-and-dashboards-overview)
+- [Get Started with Adobe Workfront Administration: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/get-started-with-wf-administration)
 - [Workload Balancer Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/overview-workload-balancer)
 - [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview)
+- [Manage work | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/manage-work)
 - [Text Mode resources: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/text-mode-resources)
+- [Agile Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-overview)
+- [The Workload Balancer: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/workload-balancer)
+- [Create custom applications for Workfront with Adobe App Builder | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/app-builder/app-builder)
 - [Adobe Workfront basics: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-basics)
+- [Adobe Workfront documentation | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/home#/schema)
 - [Workfront](https://experienceleague.adobe.com/en/browse/workfront)
-- [Get Started with Adobe Workfront Administration: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/get-started-with-wf-administration)
-- [Reports and Dashboards: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports-and-dashboards-overview)
-- [Documents: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/documents-overview)
+- [Adobe Workfront integrations overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-integrations)
 - [Adobe Workfront Documentation](https://experienceleague.adobe.com/en/docs/workfront)
-- [Acquire and install apps from Adobe Exchange | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/app-builder/install-apps-on-exchange#/schema)
-- [API basics | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-basics#/schema)
-- [Create OAuth2 Applications for Workfront Integrations | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application)
-- [Domain format for Adobe Workfront API calls | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/tips-troubleshooting-apis/locate-domain-for-api)
-- [API basics | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-basics#using-paginated-responses)
-- [API versioning and support schedule | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-notes/api-version-support-schedule)
-- [API Explorer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
-- [Using JWT flow for custom OAuth 2 applications | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-notes/oauth-app-jwt-flow)
-- [Authorization code flow for custom OAuth 2 applications | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-notes/oauth-app-code-token-flow)
-- [Administration differences between Adobe Workfront and Adobe Business Platform | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console)
-- [Customize the Main Menu Using a Layout Template | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-main-menu)
-- [Create custom applications for Workfront with Adobe App Builder | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/app-builder/app-builder#/schema)
-- [Customize the Left Panel Using a Layout Template | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-left-panel)
-- [Adobe Workfront for Google Workspace | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-g-suite/workfront-for-gsuite)
+- [Acquire and install apps from Adobe Exchange | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/app-builder/install-apps-on-exchange)
+- [API basics | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-basics)
+- [Add new documents to Adobe Workfront: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/add-new-documents-to-workfront/add-new-documents-to-workfront)
 - [Workfront and Experience Manager Assets Integrations: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/wf-aem-integrations/wf-experience-manager-integrations)
-- [Adobe Workfront for Microsoft Teams | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/use-workfront-with-ms-teams)
-- [Adobe Workfront for Jira: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-jira/workfront-for-jira)
-- [Adobe Workfront for Salesforce | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-salesforce/workfront-for-salesforce)
-- [Adobe Workfront plugin for Creative Cloud Apps | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc)
-- [Adobe Workfront for Slack | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-slack/use-workfront-for-slack)
-- [Adobe Workfront integrations overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-integrations#/schema)
-- [Adobe Workfront built-in integrations overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/built-in-integrations-non-admin)
-- [Adobe Workfront integration methods | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/built-in-vs-api-vs-fusion)
-- [Tasks: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/tasks/tasks-overview)
-- [Issues: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/issues/issues-overview)
-- [The Gantt Chart: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/the-gantt-chart/the-gantt-chart)
-- [Manage work | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/manage-work#/schema)
-- [Requests: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/requests-overview)
-- [Portfolio Management: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/portfolio-management/portfolio-management-overview)
-- [Delegate Work | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/delegate-work/delegate-work)
-- [Projects: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/projects/projects-overview)
-- [Create an Agile Team | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team#deciding)
-- [Configure Kanban | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/configure-kanban)
-- [Manage an Agile Project in the Board View | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/projects/manage-projects/manage-projects-in-agile-view)
-- [Agile Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-overview#/schema)
-- [Create an Agile Team | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team#converting-an-existing-team-into-an-agaile-team)
-- [Kanban Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/kanban/kanban-overview)
-- [Add Existing Tasks or Issues to the Kanban Board | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/kanban/add-existing-tasks-or-issues-to-the-kanban-board)
-- [Add Stories to an Existing Iteration | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/scrum/iterations/add-stories-to-existing-iteration)
-- [Configure Scrum | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/configure-scrum)
-- [Scrum Board Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/scrum/scrum-board/scrum-board-overview)
-- [Manage the Agile Backlog | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/work-in-agile-environment/manage-the-agile-backlog)
-- [Create an Agile Team | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team#create-an-agile-team-1)
-- [Create an Agile Team | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team)
-- [Iterations Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/scrum/iterations/iterations-overview)
-- [Boards Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/boards-overview)
-- [Locate the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/locate-workload-balancer)
-- [Access Needed to Manage Resources in the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/access-needed-manage-resources-balancer)
-- [Manage User Allocations in the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/manage-user-allocations-workload-balancer)
-- [Assign Work Manually using the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-manually)
-- [Filter Information in the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer)
-- [Update Work Items in the Workload Balancer Using the Summary | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/update-items-in-summary-panel-in-workload-balancer)
-- [The Workload Balancer: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/workload-balancer#/schema)
-- [Navigate the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/navigate-the-workload-balancer)
-- [Share the Workload Balancer with a Link | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/share-link-for-workload-balancer)
-- [Overview of Assigning Work in the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer)
-- [Unassign Work in the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/unassign-work-in-workload-balancer)
-- [Assign Work in Bulk using the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk)
-- [Assign Work in the Workload Balancer by Dragging and Dropping | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-by-drag-and-drop)
-- [Resource Planner Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/get-started-resource-planner)
-- [Configure personal time off | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/manage-account-profile/configure-user-profile/personal-time-overview)
-- [Configure Resource Management Preferences | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/configure-system-defaults/configure-resource-mgmt-preferences)
-- [Workload Balancer Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/overview-workload-balancer#/schema)
-- [The Scenario Planner Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/scenario-planner/scenario-planner-overview)
-- [Workload Balancer Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/overview-workload-balancer#best-practices-for-setting-up-users)
-- [Add Users | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/create-manage-users/add-users)
-- [Workload Balancer Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/overview-workload-balancer#best-practices-for-setting-up-tasks-and-issues)
-- [Create a Schedule | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/configure-timesheets-schedules/create-schedules)
-- [Workload Balancer Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/overview-workload-balancer#best-practices-for-displaying-information-in-the-workload-balancer)
-- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#financial-management-enhancements)
-- [Third Quarter 2026 Reporting enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-reports)
-- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#documents-enhancements)
-- [Third Quarter 2026 Financial Management enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-financial-management-enhancements)
-- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#/schema)
-- [Third Quarter 2026 Documents enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-documents)
-- [Third Quarter 2026 Requests enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-requests)
-- [Home enhancements during the Third Quarter 2026 release timeframe | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-home)
-- [Get Started with the Adobe Workfront Planning Free Trial | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/trial-workfront-planning)
-- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#resource-management-enhancements)
-- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#other-enhancements)
-- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#ai-enhancements)
-- [Get Started with Adobe Workfront Planning as a standalone product | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/planning-standalone/planning-sta-overview)
-- [Third Quarter 2026 Administrator enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-admin-and-setup)
-- [Other enhancements during the Third Quarter 2026 release timeframe | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-other)
-- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#administrator-enhancements)
-- [What's new in API version 22 | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-notes/new-api-version-22)
-- [Enable or Disable Fast Releases for Your Organization | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/configure-system-defaults/enable-fast-release-process)
-- [Third Quarter 2026 Project enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-projects)
-- [Create a reader account for Snowflake | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/data-lake/create-a-reader-account)
-- [Third Quarter 2026 Resource Management enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-resource-mgmt)
-- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#home-enhancements)
-- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#reporting-enhancements)
-- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#project-enhancements)
-- [Third Quarter 2026 AI enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-ai)
-- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#requesting-enhancements)
-- [Create complex Text Mode filters using EXISTS statements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements)
-- [Format numbers, currency and percentage values in text mode reports | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/format-numbers-in-text-mode-reports)
-- [Overview of common uses for Text Mode | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/understand-common-uses-text-mode)
-- [Edit a filter using text mode | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/edit-text-mode-in-filter)
-- [Compare fields in conditional formatting | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/compare-fields-conditional-formatting)
-- [Edit a grouping using text mode | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/edit-text-mode-in-grouping)
-- [Custom view, filter, and grouping samples: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/custom-view-samples/custom-view-filter-grouping-samples)
-- [Text mode syntax overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/text-mode-syntax-overview)
-- [Text Mode overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/understand-text-mode)
-- [Use conditional formatting in Text Mode | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/use-conditional-formatting-text-mode)
-- [Text Mode resources: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/text-mode-resources#/schema)
-- [Edit a view using text mode | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/edit-text-mode-in-view)
-- [Create "OR" statements in text mode filters | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-or-statements-in-filters-text-mode)
-- [Format dates in text mode reports | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/format-dates-in-text-mode-reports)
-- [Calculated custom data in reports | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-custom-data-reports)
-- [Reference collections in a report | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
-- [Manage your account and profile | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/manage-account-profile/manage-your-account-and-profile)
-- [Work with custom forms | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/work-with-custom-forms/work-with-custom-forms)
-- [Adobe Workfront browser requirements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-browser-requirements)
-- [Use notifications: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/use-notifications/use-notifications)
-- [Update work items and view updates: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/update-work-items-view-updates/update-work-items-and-view-updates)
-- [Glossary of Adobe Workfront terminology | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-terminology-glossary)
-- [Mobile Apps | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/mobile-apps/mobile-apps)
-- [Adobe Workfront basics: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-basics#/schema)
-- [AI Assistant: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant)
-- [Priorities | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/priorities/priorities-toc)
-- [Grant and request permissions to objects: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/grant-request-object-permissions/grant-and-request-access-to-objects)
-- [Supported languages in Adobe Workfront | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/supported-languages-in-workfront)
-- [Navigate Adobe Workfront: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/navigate/navigate-workfront)
-- [Workfront MCP server: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-mcp-server/workfront-mcp-server)
-- [HIPAA Readiness for Workfront | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/hipaa-readiness-for-workfront)
-- [Home | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/home/home)
-- [Tips, Tricks, and Troubleshooting for Adobe Workfront: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/tips-tricks-for-basics/tips-tricks-troubleshooting-basics)
-- [Send Announcements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/view-send-announcements)
-- [Get Started with Adobe Workfront Administration: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/get-started-with-wf-administration#/schema)
-- [Overview of Defining Objectives for Your Adobe Workfront Implementation | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives)
-- [Firewall overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/firewall-overview)
-- [Configure Your Firewall's Allowlist | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/configure-your-firewall)
-- [Configure Basic Information for Your System | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/configure-basic-info)
-- [Browser Requirements for Workfront | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/workfront-browser-requirements)
-- [Configure Your Email Allowlist | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/configure-your-email-allowlist)
-- [Manage Available Licenses in your System | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/manage-available-licenses-in-your-system)
+- [C2PA metadata in Adobe Workfront | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/c2pa-metadata-overview)
+- [Documents: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/documents-overview#/schema)
+- [Manage documents: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/manage-documents/manage-documents)
+- [Adobe Cloud Drive: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/adobe-cloud-drive/adobe-cloud-drive)
+- [Organize documents: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/organize-documents/organize-documents)
+- [Reports and Dashboards: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports-and-dashboards-overview#/schema)
 - [Dashboards | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/dashboards/dashboards-overview)
 - [Canvas Dashboards overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
 - [Reports | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/reports-overview)
-- [Reports and Dashboards: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports-and-dashboards-overview#/schema)
-- [Adobe Cloud Drive: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/adobe-cloud-drive/adobe-cloud-drive)
-- [Add new documents to Adobe Workfront: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/add-new-documents-to-workfront/add-new-documents-to-workfront)
-- [Documents: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/documents-overview#/schema)
-- [Manage documents: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/manage-documents/manage-documents)
-- [Organize documents: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/organize-documents/organize-documents)
+- [Manage Available Licenses in your System | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/manage-available-licenses-in-your-system)
+- [Configure Your Email Allowlist | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/configure-your-email-allowlist)
+- [Get Started with Adobe Workfront Administration: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/get-started-with-wf-administration#/schema)
+- [Configure Basic Information for Your System | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/configure-basic-info)
+- [Administration differences between Adobe Workfront and Adobe Business Platform | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console)
+- [Overview of Defining Objectives for Your Adobe Workfront Implementation | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives)
+- [Firewall overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/firewall-overview)
+- [Browser Requirements for Workfront | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/workfront-browser-requirements)
+- [Send Announcements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/view-send-announcements)
+- [Configure Your Firewall's Allowlist | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/configure-your-firewall)
+- [Workload Balancer Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/overview-workload-balancer#best-practices-for-setting-up-tasks-and-issues)
+- [Add Users | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/create-manage-users/add-users)
+- [Manage User Allocations in the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/manage-user-allocations-workload-balancer)
+- [Create a Schedule | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/configure-timesheets-schedules/create-schedules)
+- [Assign Work in Bulk using the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk)
+- [Navigate the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/navigate-the-workload-balancer)
+- [The Scenario Planner Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/scenario-planner/scenario-planner-overview)
+- [Share the Workload Balancer with a Link | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/share-link-for-workload-balancer)
+- [Overview of Assigning Work in the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer)
+- [Access Needed to Manage Resources in the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/access-needed-manage-resources-balancer)
+- [Locate the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/locate-workload-balancer)
+- [Workload Balancer Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/overview-workload-balancer#best-practices-for-displaying-information-in-the-workload-balancer)
+- [Configure Resource Management Preferences | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/configure-system-defaults/configure-resource-mgmt-preferences)
+- [Workload Balancer Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/overview-workload-balancer#best-practices-for-setting-up-users)
+- [Filter Information in the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer)
+- [Configure AI Collaborators | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/configure-system-defaults/configure-ai-collaborators)
+- [Configure personal time off | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/manage-account-profile/configure-user-profile/personal-time-overview)
+- [Workload Balancer Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/overview-workload-balancer#/schema)
+- [Resource Planner Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/get-started-resource-planner)
+- [Configure AI Collaborators | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/configure-system-defaults/configure-ai-collaborators#configure-a-task-collaborator)
+- [Create a reader account for Snowflake | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/data-lake/create-a-reader-account)
+- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#resource-management-enhancements)
+- [Third Quarter 2026 Administrator enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-admin-and-setup)
+- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#project-enhancements)
+- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#requesting-enhancements)
+- [Third Quarter 2026 Documents enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-documents)
+- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#financial-management-enhancements)
+- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#/schema)
+- [Enable or Disable Fast Releases for Your Organization | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/configure-system-defaults/enable-fast-release-process)
+- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#home-enhancements)
+- [What's new in API version 22 | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-notes/new-api-version-22)
+- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#administrator-enhancements)
+- [Third Quarter 2026 Project enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-projects)
+- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#ai-enhancements)
+- [Home enhancements during the Third Quarter 2026 release timeframe | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-home)
+- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#documents-enhancements)
+- [Get Started with Adobe Workfront Planning as a standalone product | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/planning-standalone/planning-sta-overview)
+- [Third Quarter 2026 Resource Management enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-resource-mgmt)
+- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#other-enhancements)
+- [Third Quarter 2026 Financial Management enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-financial-management-enhancements)
+- [Third Quarter 2026 Reporting enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-reports)
+- [Third Quarter 2026 Requests enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-requests)
+- [Get Started with the Adobe Workfront Planning Free Trial | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/trial-workfront-planning)
+- [API versioning and support schedule | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-notes/api-version-support-schedule)
+- [Third Quarter 2026 AI enhancements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-ai)
+- [Other enhancements during the Third Quarter 2026 release timeframe | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-other)
+- [Third Quarter 2026 release overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview#reporting-enhancements)
+- [Tasks: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/tasks/tasks-overview)
+- [The Gantt Chart: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/the-gantt-chart/the-gantt-chart)
+- [Issues: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/issues/issues-overview)
+- [Delegate Work | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/delegate-work/delegate-work)
+- [Manage work | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/manage-work#/schema)
+- [Projects: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/projects/projects-overview)
+- [Portfolio Management: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/portfolio-management/portfolio-management-overview)
+- [Requests: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/requests-overview)
+- [Calculated custom data in reports | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-custom-data-reports)
+- [Text Mode resources: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/text-mode-resources#/schema)
+- [Edit a grouping using text mode | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/edit-text-mode-in-grouping)
+- [Create complex Text Mode filters using EXISTS statements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements)
+- [Custom view, filter, and grouping samples: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/custom-view-samples/custom-view-filter-grouping-samples)
+- [Create "OR" statements in text mode filters | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-or-statements-in-filters-text-mode)
+- [Text mode syntax overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/text-mode-syntax-overview)
+- [Overview of common uses for Text Mode | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/understand-common-uses-text-mode)
+- [Format dates in text mode reports | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/format-dates-in-text-mode-reports)
+- [Compare fields in conditional formatting | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/compare-fields-conditional-formatting)
+- [Edit a filter using text mode | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/edit-text-mode-in-filter)
+- [Reference collections in a report | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
+- [Format numbers, currency and percentage values in text mode reports | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/format-numbers-in-text-mode-reports)
+- [Edit a view using text mode | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/edit-text-mode-in-view)
+- [Use conditional formatting in Text Mode | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/use-conditional-formatting-text-mode)
+- [Text Mode overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/understand-text-mode)
+- [Add Existing Tasks or Issues to the Kanban Board | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/kanban/add-existing-tasks-or-issues-to-the-kanban-board)
+- [Iterations Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/scrum/iterations/iterations-overview)
+- [Create an Agile Team | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team#create-an-agile-team-1)
+- [Configure Kanban | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/configure-kanban)
+- [Agile Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-overview#/schema)
+- [Create an Agile Team | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team)
+- [Scrum Board Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/scrum/scrum-board/scrum-board-overview)
+- [Manage an Agile Project in the Board View | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/projects/manage-projects/manage-projects-in-agile-view)
+- [Add Stories to an Existing Iteration | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/scrum/iterations/add-stories-to-existing-iteration)
+- [Configure Scrum | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/configure-scrum)
+- [Create an Agile Team | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team#converting-an-existing-team-into-an-agaile-team)
+- [Create an Agile Team | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team#deciding)
+- [Boards Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/boards-overview)
+- [Manage the Agile Backlog | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/work-in-agile-environment/manage-the-agile-backlog)
+- [Kanban Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/agile/kanban/kanban-overview)
+- [The Workload Balancer: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/workload-balancer#/schema)
+- [Assign Work in the Workload Balancer by Dragging and Dropping | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-by-drag-and-drop)
+- [Assign Work Manually using the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-manually)
+- [Update Work Items in the Workload Balancer Using the Summary | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/update-items-in-summary-panel-in-workload-balancer)
+- [Unassign Work in the Workload Balancer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/the-workload-balancer/unassign-work-in-workload-balancer)
+- [Create custom applications for Workfront with Adobe App Builder | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/app-builder/app-builder#/schema)
+- [Customize the Left Panel Using a Layout Template | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-left-panel)
+- [Customize the Main Menu Using a Layout Template | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-main-menu)
+- [Adobe Workfront browser requirements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-browser-requirements)
+- [Tips, Tricks, and Troubleshooting for Adobe Workfront: Article Index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/tips-tricks-for-basics/tips-tricks-troubleshooting-basics)
+- [Navigate Adobe Workfront: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/navigate/navigate-workfront)
+- [HIPAA Readiness for Workfront | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/hipaa-readiness-for-workfront)
+- [Grant and request permissions to objects: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/grant-request-object-permissions/grant-and-request-access-to-objects)
+- [Mobile Apps | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/mobile-apps/mobile-apps)
+- [Priorities | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/priorities/priorities-toc)
+- [Adobe Workfront basics: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-basics#/schema)
+- [Manage your account and profile | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/manage-account-profile/manage-your-account-and-profile)
+- [Use notifications: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/use-notifications/use-notifications)
+- [Glossary of Adobe Workfront terminology | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-terminology-glossary)
+- [AI Assistant: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant)
+- [Supported languages in Adobe Workfront | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/supported-languages-in-workfront)
+- [Home | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/home/home)
+- [Work with custom forms | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/work-with-custom-forms/work-with-custom-forms)
+- [Workfront MCP server: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-mcp-server/workfront-mcp-server)
+- [Update work items and view updates: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/update-work-items-view-updates/update-work-items-and-view-updates)
+- [Adobe Workfront built-in integrations overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/built-in-integrations-non-admin)
+- [Adobe Workfront for Microsoft Teams | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/use-workfront-with-ms-teams)
+- [Adobe Workfront for Google Workspace | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-g-suite/workfront-for-gsuite)
+- [Adobe Workfront integrations overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-integrations#/schema)
+- [Adobe Workfront for Slack | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-slack/use-workfront-for-slack)
+- [Adobe Workfront for Salesforce | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-salesforce/workfront-for-salesforce)
+- [Adobe Workfront plugin for Creative Cloud Apps | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc)
+- [Adobe Workfront for Jira: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/workfront-for-jira/workfront-for-jira)
+- [Adobe Workfront integration methods | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-integrations/built-in-vs-api-vs-fusion)
 - [General Information and Article Index for Adobe Workfront Planning | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/planning-information)
 - [Product announcements | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-announcements)
-- [Access Requirements in Workfront Documentation | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/access-levels/access-level-requirements-in-documentation)
-- [Using PKCE flow for OAuth 2 applications | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-notes/oauth-app-pkce-flow)
-- [Create OAuth2 Applications for Workfront Integrations | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application#create-an-oauth2-application-using-server-authentication-jwt-flow)
-- [Create OAuth2 Applications for Workfront Integrations | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application#/schema)
-- [Create OAuth2 Applications for Workfront Integrations | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application#authorizing-with-an-authorization-code-and-access-token)
-- [Create OAuth2 Applications for Workfront Integrations | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application#create-an-oauth2-single-page-web-application-using-pkce)
-- [Create OAuth2 Applications for Workfront Integrations | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application#create-an-oauth2-application-using-user-credentials-authorization-code-flow)
-- [Domain format for Adobe Workfront API calls | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/tips-troubleshooting-apis/locate-domain-for-api#/schema)
-- [Specify an API Version in your integrations | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-notes/specify-api-version-integrations)
-- [API versioning and support schedule | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-notes/api-version-support-schedule#/schema)
-- [API Explorer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer#/schema)
-- [Using the API Explorer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/using-api-explorer)
-- [Create OAuth2 Applications for Workfront Integrations | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application#create2)
-- [Using JWT flow for custom OAuth 2 applications | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-notes/oauth-app-jwt-flow#/schema)
-- [Authorization code flow for custom OAuth 2 applications | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-notes/oauth-app-code-token-flow#/schema)
-- [Create OAuth2 Applications for Workfront Integrations | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application#create3)
-- [Administration differences between Adobe Workfront and Adobe Business Platform | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console#/schema)
-- [Manage Users in the Adobe Admin Console | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/create-manage-users/admin-console)
-- [Configure System Preferences | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/manage-wf/security/configure-security-preferences)
-- [Configure Adobe Workfront with SAML 2.0 | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/sso/configure-workfront-saml-2)
-- [Configure password policies for authentication | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/manage-wf/security/configure-password-policies-authentication)
-- [Update SAML 2.0 Metadata in Your Identity Provider | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/sso/update-saml-2-metadata-ip)
-- [Deactivate Single Sign-On in Adobe Workfront | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/sso/deactivate-sso)
-- [Update Users for Single Sign-On | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/sso/update-users-sso)
-- [Configure Adobe Workfront with SAML 2.0 Using ADFS | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/sso/configure-workfront-saml-2-adfs)
-- [Create and Modify a Group's Layout Templates | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-layout-templates)
-- [Adobe Workfront Goals Overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-goals/wf-goals-overview)
-- [Customize the Main Menu Using a Layout Template | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-main-menu#/schema)
-- [Configurable Access to Functionality for Each Object Type (Legacy) | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/legacy-access-levels/configurable-functionality-in-each-access-level-by-object-type)
-- [Get started with Adobe Workfront Planning | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
-- [How Legacy Access Levels and Permissions Work Together | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/legacy-access-levels/how-access-levels-permissions-work-together)
-- [Adobe Unified Experience for Workfront | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/navigate/adobe-unified-experience)
-- [Create and Manage Layout Templates | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/customize/layout-templates/create-and-manage-layout-templates)
-- [Assign Users to a Layout Template | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/customize/layout-templates/assign-users-to-layout-template)
+- [Acquire and install apps from Adobe Exchange | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/app-builder/install-apps-on-exchange#/schema)
+- [API basics | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-basics#using-paginated-responses)
+- [Create OAuth2 Applications for Workfront Integrations | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application)
+- [Authorization code flow for custom OAuth 2 applications | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-notes/oauth-app-code-token-flow)
+- [API Explorer | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
+- [Using JWT flow for custom OAuth 2 applications | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-notes/oauth-app-jwt-flow)
+- [API basics | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-basics#/schema)
+- [Domain format for Adobe Workfront API calls | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/tips-troubleshooting-apis/locate-domain-for-api)
+- [Remove links between Adobe Workfront and external document storage providers | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/add-new-documents-to-workfront/remove-links-between-wf-and-doc-apps)
+- [Request a Document | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/add-new-documents-to-workfront/request-a-document)
+- [Add new documents to Adobe Workfront: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/add-new-documents-to-workfront/add-new-documents-to-workfront#/schema)
+- [Link documents from external applications | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/add-new-documents-to-workfront/link-documents-from-external-apps)
+- [Add documents to Adobe Workfront from your file system | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/add-new-documents-to-workfront/add-documents-from-file-system)
+- [Workfront and Experience Manager Assets Integrations: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/wf-aem-integrations/wf-experience-manager-integrations#/schema)
+- [Workfront for Experience Manager enhanced connector | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/wf-aem-integrations/wf-aem-enhanced-connector/workfront-for-aem-enhanced-connector)
+- [Migrate from the legacy or enhanced connector to Workfront for Adobe Experience Manager as a Cloud Service integration | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/migrate-from-legacy-enhanced-connectors/migrate-to-workfont-integration)
+- [Adobe Workfront for Experience Manager Assets Essentials: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/wf-aem-integrations/wf-aem-essentials/workfront-for-aem-asset-essentials)
+- [C2PA metadata in Adobe Workfront | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/c2pa-metadata-overview#/schema)
+- [Manage document versions | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/manage-documents/manage-document-versions)
+- [Preview documents | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/manage-documents/preview-documents)
+- [Paste images from the Clipboard | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/manage-documents/paste-image-clipboard)
+- [The Documents area | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/manage-documents/documents-area)
+- [Manage documents: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/manage-documents/manage-documents#/schema)
+- [Edit documents in bulk | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/manage-documents/bulk-edit-documents)
+- [Download Documents | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/manage-documents/download-documents)
+- [Add or edit a custom form to a document | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/manage-documents/add-custom-form-documents)
+- [Document Details overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/manage-documents/document-details-overview)
+- [Upload a new version of a document | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/manage-documents/upload-new-document-version)
+- [Add an update to a document | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/manage-documents/add-update-documents)
+- [Copy and share a link to a document folder | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/manage-documents/copy-a-doc-folder-url)
+- [Move documents | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/manage-documents/move-documents)
+- [Document approvals and proofing | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/manage-documents/document-approvals-and-proofing)
+- [Summary for documents overview | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/manage-documents/summary-for-documents)
+- [Delete Documents | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/manage-documents/delete-documents)
+- [Check out documents | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/manage-documents/check-out-documents)
+- [Check document storage limits | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/manage-documents/check-document-storage)
+- [Troubleshoot Adobe Cloud Drive | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/adobe-cloud-drive/troubleshoot-adobe-cloud-drive)
+- [Adobe Cloud Drive: article index | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/adobe-cloud-drive/adobe-cloud-drive#/schema)
+- [Use Adobe Cloud Drive | Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/documents/adobe-cloud-drive/use-adobe-cloud-drive)
 
 ## Commerce
 
 _(README nao gerado para este conjunto)_
+
+
+## Marketo Engage
+
+# Marketo Engage Knowledge Index
+
+Gerado a partir da documentação do Adobe Marketo Engage (Experience League).
+
+## overview
+
+- home
+  - documentação-do-desenvolvedor-do-marketo-engage.md
+
+## guides
+
+- marketo-engage/guia-do-marketo
+  - acessar-a-nova-instância-do-sales-connect-accessing-your-new-sales-connect-instance.md
+  - adicionando-um-novo-dispositivo-de-teste-adding-a-new-test-device.md
+  - adicionar-a-guia-marketo-a-salesforce-add-marketo-tab-to-salesforce.md
+  - adicionar-ao-programa-de-engajamento-add-to-engagement-program.md
+  - adicionar-campos-de-link-de-objeto-personalizado-do-marketo-add-marketo-custom-object-link-fields.md
+  - adicionar-campos-de-objeto-personalizados-do-marketo-add-marketo-custom-object-fields.md
+  - adicionar-clientes-em-potencial-a-um-público-alvo-personalizado-em-facebook-add-leads-to-a-custom-audience-in-facebook.md
+  - adicionar-colunas-de-oportunidade-a-um-relatório-de-leads-add-opportunity-columns-to-a-lead-report.md
+  - adicionar-colunas-personalizadas-a-um-relatório-de-pessoas-add-custom-columns-to-a-person-report.md
+  - adicionar-conjunto-de-permissões-sales-insight-add-sales-insight-permission-set.md
+  - adicionar-conteúdo-a-um-fluxo-add-content-to-a-stream.md
+  - adicionar-conteúdo-a-um-snippet-add-content-to-a-snippet.md
+  - adicionar-editar-ou-excluir-campos-de-atividade-personalizados-do-marketo-add-edit-delete-marketo-custom-activity-fields.md
+  - adicionar-facebook-públicos-alvo-personalizados-como-um-serviço-de-launchpoint-add-facebook-custom-audiences-as-a-launchpoint-service.md
+  - adicionar-google-adwords-como-um-serviço-launchpoint-add-google-adwords-as-a-launchpoint-service.md
+  - adicionar-google-adwords-como-um-serviço-launchpoint-com-uma-conta-de-gerente-add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md
+  - adicionar-gotowebinar-como-um-serviço-launchpoint-add-gotowebinar-as-a-launchpoint-service.md
+  - adicionar-imagens-de-mensagens-no-aplicativo-add-in-app-message-images.md
+  - adicionar-imagens-e-arquivos-ao-marketo-add-images-and-files-to-marketo.md
+  - adicionar-linkedin-públicos-alvo-correspondentes-como-um-serviço-launchpoint-add-linkedin-matched-audiences-as-a-launchpoint-service.md
+  - adicionar-links-rastreados-a-um-email-de-texto-add-tracked-links-to-a-text-email.md
+  - adicionar-módulos-ao-email-add-modules-to-your-email.md
+  - adicionar-múltiplos-valores-a-um-filtro-de-lista-inteligente-add-multiple-values-to-a-smart-list-filter.md
+  - adicionar-o-adobe-connect-as-a-launchpoint-service-add-adobe-connect-as-a-launchpoint-service.md
+  - adicionar-o-código-de-rastreamento-munchkin-ao-seu-site-add-munchkin-tracking-code-to-your-website.md
+  - adicionar-o-vibes-como-um-serviço-do-launchpoint-add-vibes-as-a-launchpoint-service.md
+  - adicionar-ou-remover-admin-de-produto-add-or-remove-a-product-admin.md
+  - adicionar-ou-remover-usuário-add-or-remove-a-user-2.md
+  - adicionar-ou-remover-usuário-add-or-remove-a-user.md
+  - adicionar-ou-remover-usuários-do-chat-add-or-remove-chat-users.md
+  - adicionar-pessoa-à-lista-de-bloqueio-add-person-to-blocklist.md
+  - adicionar-pessoas-a-um-programa-de-engajamento-add-people-to-an-engagement-program.md
+  - adicionar-pessoas-a-uma-conta-nomeada-add-people-to-a-named-account.md
+  - adicionar-sales-insight-acesso-a-perfis-add-sales-insight-access-to-profiles.md
+  - adicionar-texto-e-tokens-a-uma-página-de-destino-add-text-and-tokens-to-a-landing-page.md
+  - adicionar-tokens-a-um-link-de-email-add-tokens-to-an-email-link.md
+  - adicionar-um-aplicativo-móvel-add-a-mobile-app.md
+  - adicionar-um-campo-a-um-formulário-add-a-field-to-a-form.md
+  - adicionar-um-campo-salesforce-existente-à-sincronização-do-marketo-add-an-existing-salesforce-field-to-the-marketo-sync.md
+  - adicionar-um-conjunto-de-campos-a-um-formulário-add-a-fieldset-to-a-form.md
+  - adicionar-um-fluxo-add-a-stream.md
+  - adicionar-um-link-exibir-como-página-da-web-a-um-email-add-a-view-as-web-page-link-to-an-email.md
+  - adicionar-um-novo-domínio-de-marca-add-an-additional-branding-domain.md
+  - adicionar-um-novo-formulário-a-uma-página-de-destino-de-forma-livre-add-a-new-form-to-a-free-form-landing-page.md
+  - adicionar-um-programa-a-um-fluxo-de-programa-de-engajamento-adding-a-program-to-an-engagement-program-stream.md
+  - adicionar-um-snippet-a-um-email-add-a-snippet-to-an-email.md
+  - adicionar-um-snippet-a-uma-página-de-destino-add-a-snippet-to-a-landing-page.md
+  - adicionar-um-teste-ab-add-an-a-b-test.md
+  - adicionar-um-token-de-script-de-email-ao-seu-email-add-an-email-script-token-to-your-email.md
+  - adicionar-um-token-do-sistema-como-um-link-em-um-email-add-a-system-token-as-a-link-in-an-email.md
+  - adicionar-uma-conta-nomeada-existente-a-uma-lista-de-contas-add-an-existing-named-account-to-an-account-list.md
+  - adicionar-uma-equipe-de-webinário-add-a-webinar-team.md
+  - adicionar-uma-etapa-de-fluxo-a-uma-campanha-inteligente-add-a-flow-step-to-a-smart-campaign.md
+  - adicionar-uma-lista-de-opções-de-país-ao-formulário-add-a-country-picklist-to-your-form.md
+  - adicionar-uma-restrição-a-um-filtro-de-lista-inteligente-add-a-constraint-to-a-smart-list-filter.md
+  - adicionar-usuário-somente-de-api-para-assinaturas-habilitadas-para-o-adobe-ims-add-api-only-user-for-adobe-ims-enabled-subscriptions.md
+  - adicionar-webex-como-um-serviço-launchpoint-add-webex-as-a-launchpoint-service.md
+  - adicionar-zoom-como-um-serviço-launchpoint-add-zoom-as-a-launchpoint-service.md
+  - adicionar-à-campanha-do-sfdc-add-to-sfdc-campaign.md
+  - adicionar-à-lista-add-to-list.md
+  - adicionarremover-campo-de-objeto-personalizado-como-restrições-de-lista-inteligenteacionador-add-remove-custom-object-field-as-smart-list-trigger-constraints.md
+  - adicione-um-email-championchallenger-add-an-email-champion-challenger.md
+  - adobe-marketo-engage-adobe-marketo-engage.md
+  - agendar-mensagem-no-aplicativo-schedule-your-in-app-message.md
+  - agendar-o-teste-ab-schedule-the-a-b-test.md
+  - agendar-programas-de-email-com-o-fuso-horário-do-destinatário-schedule-email-programs-with-recipient-time-zone.md
+  - agendar-programas-de-engajamento-com-fuso-horário-do-destinatário-schedule-engagement-programs-with-recipient-time-zone.md
+  - agendar-seu-programa-de-email-schedule-your-email-program.md
+  - agrupar-relatórios-de-email-por-segmentações-group-email-reports-by-segmentations.md
+  - agrupar-relatórios-de-pessoa-por-atributo-group-person-reports-by-attribute.md
+  - agrupar-relatórios-de-pessoas-por-segmento-group-person-reports-by-segment.md
+  - alertar-oa-representante-de-vendas-alert-the-sales-rep.md
+  - alterar-cadência-do-programa-de-envolvimento-change-engagement-program-cadence.md
+  - alterar-dados-de-membros-do-programa-change-program-member-data.md
+  - alterar-fluxo-do-programa-de-envolvimento-change-engagement-program-stream.md
+  - alterar-fuso-horário-change-time-zone.md
+  - alterar-limites-de-recuperação-de-objeto-personalizado-em-velocity-scripting-change-custom-object-retrieval-limits-in-velocity-scripting.md
+  - alterar-o-email-padrão-e-rótulo-de-remetente-change-the-default-from-email-and-from-label.md
+  - alterar-o-intervalo-de-tempo-do-relatório-change-a-report-time-frame.md
+  - alterar-o-url-da-página-de-destino-change-the-landing-page-url.md
+  - alterar-pontuação-change-score.md
+  - alterar-proprietário-change-owner.md
+  - alterar-status-de-campanha-do-sfdc-change-status-in-sfdc-campaign.md
+  - alterar-status-do-programa-change-program-status.md
+  - alterar-sucesso-do-programa-change-program-success.md
+  - alterar-valor-dos-dados-change-data-value.md
+  - alternar-dinamicamente-a-visibilidade-de-um-campo-de-formulário-dynamically-toggle-visibility-of-a-form-field.md
+  - analytics-analytics.md
+  - anexar-dados-a-um-campo-append-data-to-a-field.md
+  - antes-de-criar-notificações-por-push-e-mensagens-no-aplicativo-before-you-create-push-notifications-and-in-app-messages.md
+  - api-incorporada-do-adobe-pdf-adobe-pdf-embed-api.md
+  - aplicar-limites-de-comunicação-à-campanha-inteligente-apply-communication-limits-to-smart-campaign.md
+  - aprovar-cancelar-aprovação-de-ou-excluir-uma-página-de-destino-approve-unapprove-or-delete-a-landing-page.md
+  - aprovar-mensagem-no-aplicativo-approve-your-in-app-message.md
+  - aprovar-um-email-approve-an-email.md
+  - aprovar-um-formulário-approve-a-form.md
+  - aprovar-um-objeto-personalizado-approve-a-custom-object.md
+  - aprovar-um-snippet-approve-a-snippet.md
+  - aprovar-um-snippet-sem-rascunho-approve-a-snippet-with-no-draft.md
+  - aprovar-um-título-para-conteúdo-preditivo-approve-a-title-for-predictive-content.md
+  - aprovar-uma-segmentação-approve-a-segmentation.md
+  - aprovar-várias-páginas-de-destino-de-uma-vez-approve-multiple-landing-pages-at-once.md
+  - aprovarcancelar-aprovação-de-um-programa-de-email-approve-unapprove-an-email-program.md
+  - arquivar-e-desarquivar-conteúdo-de-fluxo-archive-and-unarchive-stream-content.md
+  - assinar-um-relatório-básico-subscribe-to-a-basic-report.md
+  - assinar-uma-lista-inteligente-subscribe-to-a-smart-list.md
+  - ativar-a-opção-sem-rascunho-para-trechos-enable-no-draft-for-snippets.md
+  - atualizar-a-solução-marketo-para-microsoft-dynamics-update-the-marketo-solution-for-microsoft-dynamics.md
+  - atualizar-dados-da-pessoa-update-person-data.md
+  - atualização-do-pacote-msi-upgrading-your-msi-package.md
+  - atualizações-de-registro-de-evento-on24-on-event-registration-updates.md
+  - biblioteca-de-respostas-response-library.md
+  - bloquear-atualizações-em-um-campo-block-updates-to-a-field.md
+  - bloquear-conteúdo-em-modelos-de-email-lock-content-email-templates.md
+  - caixa-de-entrada-do-agente-agent-inbox.md
+  - campos-personalizados-de-membros-de-programas-program-member-custom-fields.md
+  - cancelamento-de-assinatura-durável-durable-unsubscribe.md
+  - capturar-as-imagens-de-uma-página-da-web-grab-the-images-from-a-web-page.md
+  - chamadas-não-estão-registrando-em-log-para-salesforce-calls-arent-logging-to-salesforce.md
+  - chamar-webhook-call-webhook.md
+  - classificar-relatório-em-colunas-sort-report-on-columns.md
+  - clonagem-de-um-grupo-de-teste-de-página-de-destino-cloning-a-landing-page-test-group.md
+  - clonar-um-ativo-em-um-programa-clone-an-asset-in-a-program.md
+  - clonar-um-fluxo-clone-a-stream.md
+  - clonar-um-programa-clone-a-program.md
+  - clonar-um-relatório-para-agrupar-relatórios-clone-a-report-to-group-reports.md
+  - clonar-uma-campanha-da-web-clone-a-web-campaign.md
+  - como-fazer-a-correspondência-entre-os-status-do-programa-e-salesforce-status-da-campanha-antes-da-sincronização-how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md
+  - como-instalar-botões-do-sales-connect-no-salesforce-how-to-install-sales-connect-buttons-in-salesforce.md
+  - comparação-de-recursos-do-email-designereditor-de-email-feature-comparison.md
+  - compartilhar-segmentações-entre-espaços-de-trabalho-e-partições-share-segmentations-across-workspaces-and-partitions.md
+  - compartilhar-uma-definição-de-filtro-no-calendário-de-marketing-sharing-a-filter-definition-in-the-marketing-calendar.md
+  - compreender-atividades-anônimas-e-pessoas-understanding-anonymous-activity-and-people.md
+  - conceder-acesso-a-usuários-granting-access-to-users.md
+  - conceder-aos-usuários-acesso-ao-aplicativo-de-check-in-grant-users-access-to-the-check-in-app.md
+  - conceder-consentimento-para-a-id-do-cliente-e-o-registro-do-aplicativo-grant-consent-for-client-id-and-app-registration.md
+  - conectar-brighttalk-ao-marketo-connect-brighttalk-to-marketo.md
+  - conectar-sua-conta-do-sales-connect-ao-salesforce-connect-your-sales-connect-account-to-salesforce.md
+  - conectar-sua-conta-do-sales-insight-actions-ao-salesforce-connect-your-sales-insight-actions-account-to-salesforce.md
+  - configurar-a-api-soap-configuring-your-soap-api-settings.md
+  - configurar-a-conexão-do-marketo-set-up-your-marketo-connection.md
+  - configurar-a-criação-de-perfis-progressiva-do-formulário-configure-form-progressive-profiling.md
+  - configurar-a-personalização-dos-detalhes-da-atividade-salesforce-configure-salesforce-activity-detail-customization.md
+  - configurar-a-spf-e-o-dkim-para-a-sua-capacidade-de-entrega-de-emails-set-up-spf-and-dkim-for-your-email-deliverability.md
+  - configurar-anúncios-de-lead-no-facebook-set-up-facebook-lead-ads.md
+  - configurar-categorias-set-up-categories.md
+  - configurar-e-adicionar-uma-pessoa-get-set-up-and-add-a-person.md
+  - configurar-notificação-por-push-para-dispositivo-móvel-configure-mobile-push-notification.md
+  - configurar-o-acesso-por-push-do-android-para-aplicativos-móveis-configure-mobile-app-android-push-access.md
+  - configurar-o-acesso-por-push-do-ios-para-aplicativos-móveis-configure-mobile-app-ios-push-access.md
+  - configurar-o-botão-dispensar-e-aprovar-a-mensagem-set-up-the-dismiss-button-and-approve-the-message.md
+  - configurar-o-botão-mensagens-no-aplicativo-set-up-the-in-app-message-button.md
+  - configurar-o-marketo-sales-insight-no-salesforce-enterpriseunlimited-configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md
+  - configurar-o-marketo-sales-insight-no-salesforce-professional-edition-configure-marketo-sales-insight-in-salesforce-professional-edition.md
+  - configurar-o-plano-de-fundo-das-mensagens-no-aplicativo-set-up-the-in-app-message-background.md
+  - configurar-protocolos-para-o-marketo-engage-configure-protocols-for-marketo-engage.md
+  - configurar-tamanho-do-relatório-configure-report-size.md
+  - configurar-uma-assinatura-personalizada-do-dkim-set-up-a-custom-dkim-signature.md
+  - configurar-uma-campanha-inteligente-acionável-para-vendas-usando-a-campanha-é-solicitada-setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md
+  - configuração-configuration.md
+  - configuração-de-admin-admin-setup.md
+  - configuração-de-sales-insight-actions-em-salesforce-sales-insight-actions-configuration-in-salesforce.md
+  - configuração-inicial-initial-setup.md
+  - configurações-de-fluxo-de-conversação-para-o-marketo-engage-forms-conversational-flow-settings-for-marketo-engage-forms.md
+  - configurações-de-insights-de-desempenho-performance-insights-settings.md
+  - configurações-do-agente-agent-settings.md
+  - confirmar-entradas-diretamente-no-calendário-de-marketing-confirm-entries-directly-in-the-marketing-calendar.md
+  - conteúdo-condicional-conditional-content.md
+  - controladorvariante-análise-champion-challenger-analytics.md
+  - controladorvariante-definir-critérios-de-um-controlador-champion-challenger-define-champion-criteria.md
+  - controladorvariante-emails-inteiros-champion-challenger-whole-emails.md
+  - controladorvariante-endereço-de-remetente-champion-challenger-from-address.md
+  - controladorvariante-linha-de-assunto-champion-challenger-subject-line.md
+  - converter-imagens-em-modelos-html-image-to-html.md
+  - converter-pessoa-convert-person.md
+  - convidar-usuários-invite-users.md
+  - correspondência-entre-leads-e-contas-lead-to-account-matching.md
+  - corrigir-problemas-de-sincronização-de-validação-do-dynamics-fix-dynamics-validation-sync-issues.md
+  - criar-campanhas-secundárias-e-ativos-locais-create-child-campaigns-and-local-assets.md
+  - criar-deletar-editar-e-alterar-uma-atribuição-do-usuário-create-delete-edit-and-change-a-user-role.md
+  - criar-e-usar-um-campo-de-string-concatenada-fórmula-create-and-use-a-concatenated-string-formula-field.md
+  - criar-entradas-diretamente-no-calendário-de-marketing-create-entries-directly-in-the-marketing-calendar.md
+  - criar-nova-pasta-do-campaign-create-new-campaign-folder.md
+  - criar-objetos-personalizados-do-marketo-create-marketo-custom-objects.md
+  - criar-seu-evento-de-webinário-no-on24-create-your-webinar-event-in-on.md
+  - criar-tags-personalizadas-create-custom-tags.md
+  - criar-tarefa-create-task.md
+  - criar-texto-de-mensagem-no-aplicativo-create-in-app-message-text.md
+  - criar-tipos-de-entrada-personalizados-create-custom-entry-types.md
+  - criar-um-arquivo-de-evento-de-calendário-ics-create-a-calendar-event-ics-file.md
+  - criar-um-campo-personalizado-no-marketo-create-a-custom-field-in-marketo.md
+  - criar-um-campo-personalizado-para-descoberta-de-crm-create-a-custom-field-for-crm-discovery.md
+  - criar-um-canal-de-programa-create-a-program-channel.md
+  - criar-um-contato-em-microsoft-dynamics-create-a-contact-in-microsoft-dynamics.md
+  - criar-um-diálogo-create-a-dialogue.md
+  - criar-um-email-create-an-email.md
+  - criar-um-email-para-um-programa-de-email-create-an-email-for-an-email-program.md
+  - criar-um-email-somente-texto-create-a-text-only-email.md
+  - criar-um-evento-com-gotowebinar-create-an-event-with-gotowebinar.md
+  - criar-um-evento-com-o-adobe-connect-create-an-event-with-adobe-connect.md
+  - criar-um-evento-com-o-marketo-on24-adapter-create-an-event-with-the-marketo-on-adapter.md
+  - criar-um-evento-com-webex-create-an-event-with-webex.md
+  - criar-um-evento-com-zoom-create-an-event-with-zoom.md
+  - criar-um-evento-no-marketo-create-an-event-in-marketo.md
+  - criar-um-filtro-de-sincronização-dynamics-personalizado-create-a-custom-dynamics-sync-filter.md
+  - criar-um-fluxo-de-conversa-create-a-conversational-flow.md
+  - criar-um-formulário-create-a-form.md
+  - criar-um-modelo-de-email-create-an-email-template.md
+  - criar-um-modelo-de-página-de-destino-de-forma-livre-create-a-free-form-landing-page-template.md
+  - criar-um-modelo-de-página-de-destino-guiada-create-a-guided-landing-page-template.md
+  - criar-um-novo-espaço-de-trabalho-create-a-new-workspace.md
+  - criar-um-novo-programa-de-email-na-visualização-cronograma-creating-a-new-email-program-in-the-schedule-view.md
+  - criar-um-novo-programa-de-evento-create-a-new-event-program.md
+  - criar-um-programa-create-a-program.md
+  - criar-um-programa-de-email-create-an-email-program.md
+  - criar-um-programa-de-engajamento-create-an-engagement-program.md
+  - criar-um-público-alvo-personalizado-em-facebook-create-a-custom-audience-in-facebook.md
+  - criar-um-relatório-de-desempenho-do-programa-create-a-program-performance-report.md
+  - criar-um-relatório-em-um-programa-create-a-report-in-a-program.md
+  - criar-um-segmento-básico-da-web-create-a-basic-web-segment.md
+  - criar-um-segmento-usando-dados-de-uma-pessoa-conhecida-create-a-segment-using-known-person-data.md
+  - criar-um-segmento-usando-uma-lista-de-contas-create-a-segment-using-an-account-list.md
+  - criar-um-serviço-personalizado-para-usar-com-a-api-rest-create-a-custom-service-for-use-with-rest-api.md
+  - criar-um-snippet-create-a-snippet.md
+  - criar-um-token-de-script-de-email-create-an-email-script-token.md
+  - criar-um-webhook-create-a-webhook.md
+  - criar-um-webinário-interativo-create-an-interactive-webinar.md
+  - criar-uma-atividade-personalizada-create-a-custom-activity.md
+  - criar-uma-campanha-create-a-campaign.md
+  - criar-uma-conta-nomeada-create-a-named-account.md
+  - criar-uma-função-de-usuário-somente-de-api-create-an-api-only-user-role.md
+  - criar-uma-guia-personalizada-para-a-página-detalhes-da-pessoa-creating-a-custom-tab-for-the-person-detail-page.md
+  - criar-uma-lista-de-permissões-de-acesso-à-api-baseada-em-ip-create-an-allowlist-for-ip-based-api-access.md
+  - criar-uma-lista-estática-create-a-static-list.md
+  - criar-uma-lista-inteligente-create-a-smart-list.md
+  - criar-uma-mensagem-de-sms-create-an-sms-message.md
+  - criar-uma-mensagem-no-aplicativo-create-an-in-app-message.md
+  - criar-uma-notificação-por-push-create-a-push-notification.md
+  - criar-uma-nova-caixa-de-diálogo-da-campanha-da-web-create-a-new-dialog-web-campaign.md
+  - criar-uma-nova-campanha-da-web-do-widget-create-a-new-widget-web-campaign.md
+  - criar-uma-nova-campanha-da-web-na-zona-create-a-new-in-zone-web-campaign.md
+  - criar-uma-nova-campanha-inteligente-create-a-new-smart-campaign.md
+  - criar-uma-nova-lista-de-contas-create-a-new-account-list.md
+  - criar-uma-nova-tag-de-programa-e-valores-de-tag-create-a-new-program-tag-and-tag-values.md
+  - criar-uma-partição-de-pessoa-create-a-person-partition.md
+  - criar-uma-página-de-destino-de-forma-livre-create-a-free-form-landing-page.md
+  - criar-uma-página-de-destino-guiada-create-a-guided-landing-page.md
+  - criar-uma-segmentação-create-a-segmentation.md
+  - criação-de-email-email-authoring.md
+  - criação-de-modelo-de-email-email-template-authoring.md
+  - criação-de-uma-campanha-inteligente-em-lote-na-visualização-do-cronograma-do-programa-creating-a-batch-smart-campaign-in-the-program-schedule-view.md
+  - criação-de-uma-entrada-na-visualização-cronograma-do-programa-creating-an-entry-in-the-program-schedule-view.md
+  - criação-de-webinários-interativos-designing-interactive-webinars.md
+  - critérios-de-público-alvo-audience-criteria.md
+  - ct-mm-aaaa-conteúdo-de-página-de-destino-não-gerenciado-pelo-marketo-ct-yyyy-mm-content-non-marketo-landing-page.md
+  - ct-mm-aaaa-conteúdo-na-página-de-destino-do-marketo-ct-yyyy-mm-content-on-marketo-landing-page.md
+  - definir-a-moeda-padrão-set-default-currency.md
+  - definir-cadência-dos-fluxos-set-stream-cadence.md
+  - definir-como-a-campanha-da-web-será-exibida-set-how-your-web-campaign-displays.md
+  - definir-configurações-de-evento-e-sincronizar-o-marketo-com-seu-webinário-configure-event-settings-and-sync-marketo-with-your-webinar.md
+  - definir-filtros-de-lista-inteligente-define-smart-list-filters.md
+  - definir-lista-inteligente-para-campanha-inteligente-acionável-define-smart-list-for-smart-campaign-trigger.md
+  - definir-lista-inteligente-para-campanha-inteligente-lote-define-smart-list-for-smart-campaign-batch.md
+  - definir-o-público-alvo-da-mensagem-no-aplicativo-set-your-in-app-message-audience.md
+  - definir-os-critérios-do-vencedor-do-teste-ab-define-the-a-b-test-winner-criteria.md
+  - definir-regras-de-segmento-define-segment-rules.md
+  - definir-sobrenome-da-pessoa-e-nome-da-empresa-padrão-set-default-person-last-name-and-company-name.md
+  - definir-um-campo-de-formulário-como-oculto-set-a-form-field-as-hidden.md
+  - definir-um-formulário-da-página-de-agradecimento-set-a-form-thank-you-page.md
+  - definir-um-prefixo-de-campo-personalizado-padrão-set-a-default-custom-field-prefix.md
+  - definir-um-público-alvo-com-uma-lista-inteligente-define-an-audience-with-a-smart-list.md
+  - definir-um-público-alvo-importando-uma-lista-define-an-audience-by-importing-a-list.md
+  - definir-um-valor-de-campo-de-formulário-oculto-set-a-hidden-form-field-value.md
+  - definir-uma-página-substituta-set-a-fallback-page.md
+  - desabilitar-preenchimento-prévio-de-um-campo-de-formulário-disable-pre-fill-for-a-form-field.md
+  - descobrir-contas-discover-accounts.md
+  - descrições-de-permissões-de-função-descriptions-of-role-permissions.md
+  - designer-de-fluxo-stream-designer.md
+  - detalhar-um-relatório-de-desempenho-de-pessoas-drill-down-in-a-people-performance-report.md
+  - detalhes-da-alteração-na-trilha-de-auditoria-change-details-in-audit-trail.md
+  - detalhes-de-acesso-do-usuário-user-access-details.md
+  - diferenças-entre-páginas-de-destino-de-forma-livre-e-guiadas-understanding-free-form-vs-guided-landing-pages.md
+  - documentos-de-produto-do-marketo-engage-2.md
+  - documentos-de-produto-do-marketo-engage-3.md
+  - documentos-de-produto-do-marketo-engage.md
+  - download-da-solução-de-gerenciamento-de-leads-do-marketo-download-the-marketo-lead-management-solution.md
+  - dynamic-chat-atividades-dynamic-chat-activities.md
+  - dynamic-chat-visão-geral-dynamic-chat-overview.md
+  - editando-campos-para-sincronização-antes-de-excluí-los-em-dynamics-editing-fields-to-sync-before-deleting-them-in-dynamics.md
+  - editar-a-mensagem-de-cancelamento-de-inscrição-edit-the-unsubscribe-message.md
+  - editar-as-configurações-de-suporte-não-rastrear-do-navegador-edit-do-not-track-browser-support-settings.md
+  - editar-configurações-da-página-de-destino-edit-landing-page-settings.md
+  - editar-conteúdo-preditivo-da-barra-de-recomendação-edit-predictive-content-for-the-recommendation-bar.md
+  - editar-conteúdo-preditivo-para-emails-edit-predictive-content-for-emails.md
+  - editar-conteúdo-preditivo-para-mídia-avançada-edit-predictive-content-for-rich-media.md
+  - editar-disponibilidade-de-conteúdo-de-fluxo-edit-availability-of-stream-content.md
+  - editar-e-excluir-campos-de-objeto-personalizado-do-marketo-edit-and-delete-marketo-custom-object-fields.md
+  - editar-e-excluir-um-objeto-personalizado-do-marketo-edit-and-delete-a-marketo-custom-object.md
+  - editar-elementos-em-um-email-edit-elements-in-an-email.md
+  - editar-entradas-diretamente-no-calendário-de-marketing-edit-entries-directly-in-the-marketing-calendar.md
+  - editar-expiração-de-link-em-relatórios-e-alertas-edit-link-expiration-in-reports-and-alerts.md
+  - editar-html-de-um-email-edit-an-emails-html.md
+  - editar-imagens-com-o-adobe-express-edit-images-with-adobe-express.md
+  - editar-mapeamentos-de-campo-iniciais-edit-initial-field-mappings.md
+  - editar-modelos-de-email-com-o-editor-avançado-do-html-advanced-html-mode.md
+  - editar-o-cabeçalho-do-email-edit-your-email-header.md
+  - editar-o-css-de-um-tema-de-formulário-edit-the-css-of-a-form-theme.md
+  - editar-regras-de-qualificação-em-uma-campanha-inteligente-edit-qualification-rules-in-a-smart-campaign.md
+  - editar-seu-domínio-de-marca-padrão-edit-your-default-branding-domain.md
+  - editar-título-e-metadados-da-página-de-destino-edit-landing-page-title-and-metadata.md
+  - editar-um-canal-de-evento-edit-an-event-channel.md
+  - editar-um-espaço-de-trabalho-edit-a-workspace.md
+  - editar-um-formulário-edit-a-form.md
+  - editar-um-modelo-de-página-de-destino-do-marketo-edit-a-marketo-landing-page-template.md
+  - editar-uma-assinatura-de-lista-inteligente-edit-a-smart-list-subscription.md
+  - editar-uma-partição-de-pessoa-existente-edit-an-existing-person-partition.md
+  - edite-a-mensagem-exibir-como-página-da-web-edit-the-view-as-web-page-message.md
+  - em-dd-mm-aaaa-envio-de-email-único-em-yyyy-mm-dd-single-email-send.md
+  - email-de-relatório-desempenho-de-campanha-em-espaços-de-trabalho-report-email-campaign-performance-across-workspaces.md
+  - emitir-ou-revogar-uma-licença-de-calendário-de-marketing-issue-revoke-a-marketing-calendar-license.md
+  - emitir-uma-licença-issue-a-license.md
+  - encaminhar-para-sales-connect-push-to-sales-connect.md
+  - entender-e-ativar-o-foco-do-programa-understand-enable-program-focus.md
+  - enviar-alerta-send-alert.md
+  - enviar-código-do-sdk-para-um-desenvolvedor-send-sdk-code-to-a-developer.md
+  - enviar-email-de-exemplo-send-a-sample-email.md
+  - enviar-sua-mensagem-no-aplicativo-send-your-in-app-message.md
+  - enviar-um-email-send-an-email.md
+  - enviar-uma-notificação-por-push-para-dispositivos-móveis-send-a-mobile-push-notification.md
+  - escolha-um-layout-para-a-mensagem-no-aplicativo-choose-a-layout-for-your-in-app-message.md
+  - escolher-um-email-existente-choose-an-existing-email.md
+  - estímulo-gota-a-gota-drip-drip-nurture.md
+  - etapa-1-de-3-adicionar-campos-do-marketo-a-salesforce-empresarialilimitada-step-of-add-marketo-fields-to-salesforce-enterprise-unlimited.md
+  - etapa-1-de-3-adicionar-campos-do-marketo-ao-salesforce-professional-step-of-add-marketo-fields-to-salesforce-professional.md
+  - etapa-1-de-3-instalar-a-solução-da-marketo-com-conexão-de-servidor-a-servidor-step-1-of-3-install-the-marketo-solution-s2s.md
+  - etapa-1-de-4-instalar-a-solução-marketo-com-a-conexão-de-controle-de-senha-de-proprietário-de-recurso-step-1-of-4-install-the-marketo-solution-ropc.md
+  - etapa-2-de-3-configurar-a-solução-da-marketo-com-conexão-de-servidor-a-servidor-step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s.md
+  - etapa-2-de-3-criar-um-usuário-salesforce-para-marketo-enterpriseunlimited-step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited.md
+  - etapa-2-de-3-criar-um-usuário-salesforce-para-o-marketo-professional-step-of-create-a-salesforce-user-for-marketo-professional.md
+  - etapa-2-de-4-configurar-a-solução-da-marketo-com-a-conexão-de-controle-de-senha-do-proprietário-do-recurso-step-2-of-4-set-up-the-marketo-solution-ropc.md
+  - etapa-3-de-3-conectar-a-solução-da-marketo-com-conexão-de-servidor-a-servidor-step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s.md
+  - etapa-3-de-3-conectar-o-marketo-e-o-salesforce-professional-step-of-connect-marketo-and-salesforce-professional.md
+  - etapa-3-de-3-conectar-o-marketo-e-salesforce-empresailimitado-step-of-connect-marketo-and-salesforce-enterprise-unlimited.md
+  - etapa-3-de-4-configurar-o-aplicativo-cliente-no-ms-dynamics-step-3-of-4-set-up-client-app-ms-dynamics-ropc.md
+  - etapa-4-de-4-conectar-a-solução-marketo-com-a-conexão-de-controle-de-senha-de-proprietário-de-recurso-step-4-of-4-connect-the-marketo-solution-ropc.md
+  - etapas-de-configuração-setup-steps.md
+  - ev-dd-mm-aaaa-programa-de-evento-ev-yyyy-mm-dd-event-program.md
+  - evitar-o-envio-de-conteúdo-duplicado-avoid-sending-duplicate-content.md
+  - excluir-entradas-diretamente-no-calendário-de-marketing-delete-entries-directly-in-the-marketing-calendar.md
+  - excluir-um-canal-de-programa-delete-a-program-channel.md
+  - excluir-um-lead-ou-contato-deleting-a-lead-or-contact.md
+  - excluir-um-relatório-delete-a-report.md
+  - excluir-um-status-de-programa-de-um-canal-de-programa-delete-a-program-status-from-a-program-channel.md
+  - executar-campanha-execute-campaign.md
+  - executar-novamente-uma-campanha-inteligente-na-visualização-cronograma-do-programa-rerun-a-smart-campaign-in-the-program-schedule-view.md
+  - executar-uma-única-etapa-de-fluxo-de-uma-lista-inteligente-run-a-single-flow-step-from-a-smart-list.md
+  - exemplo-de-integração-de-evento-do-on24-example-on-event-integration.md
+  - exibir-a-lista-de-campanhas-como-outro-usuário-view-campaigns-list-as-another-user.md
+  - exibir-a-lista-de-modelos-como-outro-usuário-view-template-list-as-another-user.md
+  - exibir-o-url-de-serviço-da-organização-view-the-organization-service-url.md
+  - exibir-pessoas-ou-visitantes-anônimos-em-relatórios-da-web-display-people-or-anonymous-visitors-in-web-reports.md
+  - exibição-de-detalhes-da-pessoa-person-detail-view.md
+  - exportar-os-dados-usado-por-de-um-campo-export-used-by-data-for-a-field.md
+  - exportar-um-relatório-para-excel-export-a-report-to-excel.md
+  - exportar-uma-lista-de-todos-os-nomes-de-campos-da-api-do-marketo-export-a-list-of-all-marketo-api-field-names.md
+  - fazer-a-transição-de-pessoas-entre-fluxos-de-engajamento-transition-people-between-engagement-streams.md
+  - fazer-logon-usando-oauth-20-log-in-using-oauth-2-0.md
+  - fazer-o-check-in-de-pessoas-no-evento-pelo-tablet-check-people-into-your-event-from-your-tablet.md
+  - fazer-referência-a-uma-lista-ou-lista-inteligente-em-espaços-de-trabalho-reference-a-list-or-smart-list-across-workspaces.md
+  - fazer-um-teste-ab-em-sua-campanha-da-web-ab-test-your-web-campaign.md
+  - fazer-upload-de-imagens-e-arquivos-do-box-upload-images-and-files-from-box.md
+  - filtragem-da-atividade-do-bot-de-email-filtering-email-bot-activity.md
+  - filtragem-na-trilha-de-auditoria-filtering-in-audit-trail.md
+  - filtrar-ativos-em-relatórios-de-email-de-campanha-filter-assets-in-a-campaign-email-reports.md
+  - filtrar-ativos-em-um-relatório-de-email-filter-assets-in-an-email-report.md
+  - filtrar-campanhas-da-web-filter-web-campaigns.md
+  - filtrar-o-calendário-de-marketing-filtering-the-marketing-calendar.md
+  - filtrar-pessoas-em-um-relatório-com-uma-lista-inteligente-filter-people-in-a-report-with-a-smart-list.md
+  - filtrar-registros-excluídosmesclados-em-um-relatório-de-desempenho-de-email-filter-deleted-merged-records-in-an-email-performance-report.md
+  - filtrar-tipos-de-atividade-no-log-de-atividades-de-uma-pessoa-filter-activity-types-in-the-activity-log-of-a-person.md
+  - filtrar-um-relatório-de-atividades-de-campanha-filter-a-campaign-activity-report.md
+  - filtrar-um-relatório-de-desempenho-de-página-de-destino-filter-a-landing-page-performance-report.md
+  - filtrar-um-relatório-de-programa-por-custo-do-período-filter-a-program-report-by-period-cost.md
+  - filtrar-um-relatório-de-programa-por-programa-filter-a-program-report-by-program.md
+  - filtrar-um-relatório-de-programa-por-tag-filter-a-program-report-by-tag.md
+  - filtro-de-sincronização-do-dynamics-microsoft-mesclar-microsoft-dynamics-sync-filter-merge.md
+  - filtro-de-sincronização-microsoft-dynamics-qualificar-microsoft-dynamics-sync-filter-qualify.md
+  - folha-de-informações-de-dados-da-ia-do-marketo-data-information.md
+  - fragmentos-personalizáveis-customizable-fragments.md
+  - fragmentos.md
+  - funções-de-retorno-de-chamada-callback-functions.md
+  - gerar-conteúdo-no-designer-de-email-generate-content.md
+  - geração-de-perguntas-question-generation.md
+  - gerenciamento-de-agentes-agent-management.md
+  - gerenciamento-de-conta-de-destino-target-account-management-overview.md
+  - gerenciamento-de-funções-e-permissões-de-usuário-managing-user-roles-and-permissions.md
+  - gerenciamento-de-privacidade-privacy-management.md
+  - gerenciamento-de-usuários-e-licenças-user-and-license-management.md
+  - gerenciamento-de-valores-de-tag-managing-tag-values.md
+  - gerenciar-assinaturas-de-relatório-manage-report-subscriptions.md
+  - gerenciar-dados-de-pessoa-manage-person-data.md
+  - gerenciar-e-exibir-membros-manage-and-view-members.md
+  - gerenciar-meus-tokens-managing-my-tokens.md
+  - glossário-de-operadores-de-filtro-de-lista-inteligente-smart-list-filter-operators-glossary.md
+  - glossário-de-tipos-de-campos-personalizados-custom-field-type-glossary.md
+  - glossário-de-tokens-do-sistema-system-tokens-glossary.md
+  - glossário-do-marketo-engage-marketo-engage-glossary.md
+  - grupos-de-teste-de-páginas-de-destino-landing-page-test-groups.md
+  - guia-configuração-marketo-sales-insight-em-salesforce-marketo-sales-insight-configuration-tab-in-salesforce.md
+  - guia-de-configuração-de-admin-do-recurso-ações-de-insight-de-vendas-sales-insight-actions-admin-setup-guide.md
+  - guia-de-introdução-para-sales-connect-administradores-getting-started-guide-for-sales-connect-admins.md
+  - habilitar-a-barra-de-recomendação-de-conteúdo-enable-the-content-recommendation-bar.md
+  - habilitar-conteúdo-preditivo-em-emails-enable-predictive-content-in-emails.md
+  - habilitar-conteúdo-preditivo-para-mídia-avançada-da-web-enable-predictive-content-for-web-rich-media.md
+  - habilitar-limites-de-comunicação-enable-communication-limits.md
+  - habilitar-ou-desabilitar-recursos-do-baú-do-tesouro-enable-or-disable-treasure-chest-features.md
+  - habilitar-restrições-de-pessoa-para-campanhas-inteligentes-enable-person-restrictions-for-smart-campaigns.md
+  - habilitar-sincronização-para-uma-entidade-personalizada-enable-sync-for-a-custom-entity.md
+  - habilitar-trilha-de-auditoria-enable-audit-trail.md
+  - habilitar-urls-personalizados-para-sua-conta-enable-personalized-urls-for-your-account.md
+  - habilitardesabilitar-a-sincronização-de-objetos-personalizados-enable-disable-custom-object-sync.md
+  - habilitardesabilitar-a-sincronização-do-salesforce-enable-disable-the-salesforce-sync.md
+  - habilitardesabilitar-sincronização-de-campanha-enable-disable-campaign-sync.md
+  - histórico-de-logon-do-usuário-user-login-history.md
+  - ia-gerativa-no-dynamic-chat-generative-ai-overview.md
+  - implantar-o-rtp-em-javascript-deploy-the-rtp-javascript.md
+  - importar-contas-nomeadas-import-named-accounts.md
+  - importar-contatos-via-csv-import-contacts-via-csv.md
+  - importar-dados-de-objeto-personalizado-import-custom-object-data.md
+  - importar-membros-de-uma-planilha-para-um-programa-import-members-from-a-spreadsheet-into-a-program.md
+  - importar-modelo-template-import.md
+  - importar-um-programa-import-a-program.md
+  - importar-uma-id-do-salesforce-para-o-sales-connect-import-a-salesforce-id-into-sales-connect.md
+  - importar-uma-lista-de-pessoas-import-a-list-of-people-2.md
+  - importar-uma-lista-de-pessoas-import-a-list-of-people.md
+  - incluir-um-arquivo-ics-de-evento-de-calendário-em-uma-página-de-destino-include-a-calendar-event-ics-file-in-a-landing-page.md
+  - incluir-um-evento-de-calendário-ics-em-um-email-include-a-calendar-event-ics-in-an-email.md
+  - incorporar-um-formulário-ao-seu-site-embed-a-form-on-your-website.md
+  - insights-da-lista-de-contas-account-list-insights.md
+  - insights-de-desempenho-gráficos-rápidos-performance-insights-quick-charts.md
+  - inspetor-de-campanhas-campaign-inspector.md
+  - instalar-o-pacote-marketo-sales-insight-no-appexchange-salesforce-install-marketo-sales-insight-package-in-salesforce-appexchange.md
+  - instância-herdada-documentar-sua-configuração-inherited-instance-document-your-setup.md
+  - instância-herdada-lista-de-verificação-da-seção-de-admins-inherited-instance-admin-section-checklist.md
+  - instância-herdada-lista-de-verificação-de-atividades-de-marketing-inherited-instance-marketing-activities-checklist.md
+  - instância-herdada-lista-de-verificação-do-banco-de-dados-inherited-instance-database-checklist.md
+  - instância-herdada-lista-de-verificação-do-estúdio-de-design-inherited-instance-design-studio-checklist.md
+  - integração-ao-dynamic-chat-dynamic-chat-integration.md
+  - integração-do-genstudio-para-marketo-engage-genstudio-integration-for-marketo-engage.md
+  - interromper-a-entrega-de-programas-de-email-agendados-com-o-fuso-horário-do-destinatário-abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md
+  - introdução-ao-tam-getting-started-with-tam.md
+  - introdução-aos-programas-de-email-head-start-for-email-programs.md
+  - limpar-valores-do-campo-clear-field-values.md
+  - limpeza-de-campanha-com-acionamento-automático-automatic-trigger-campaign-cleanup.md
+  - lista-de-reuniões-meeting-list.md
+  - lista-de-verificação-de-campanha-inteligente-smart-campaign-checklist.md
+  - lista-de-verificação-de-configuração-do-usuário-user-setup-checklist.md
+  - listas-de-contas-account-lists.md
+  - localizar-campanhas-da-web-que-estão-usando-um-segmento-específico-find-web-campaigns-that-are-using-a-specific-segment.md
+  - localizar-e-adicionar-filtros-a-uma-lista-inteligente-find-and-add-filters-to-a-smart-list.md
+  - localizar-e-mesclar-pessoas-duplicadas-find-and-merge-duplicate-people.md
+  - localizar-o-log-de-atividades-de-uma-pessoa-locate-the-activity-log-for-a-person.md
+  - localizar-o-url-de-uma-imagem-ou-arquivo-carregado-find-the-url-of-an-uploaded-image-or-file.md
+  - localizar-pessoas-duplicadas-com-lógica-personalizada-find-duplicate-people-with-custom-logic.md
+  - mapear-campos-personalizados-para-o-marketo-map-custom-fields-to-marketo.md
+  - marcar-campo-como-confidencial-mark-a-field-as-sensitive.md
+  - marketing-na-web-baseado-em-conta-com-o-tam-account-based-web-marketing-with-tam.md
+  - modelo-de-email-de-início-rápido-quick-start-email-template.md
+  - modelo-de-página-de-destino-de-início-rápido-quick-start-landing-page-template.md
+  - momento-interessante-interesting-moment.md
+  - momentos-interessantes-em-sales-connect-interesting-moments-in-sales-connect.md
+  - mover-um-email-move-an-email.md
+  - navegar-pelo-calendário-de-marketing-navigating-the-marketing-calendar.md
+  - navegação-na-página-inicial-do-analytics-navigating-the-analytics-home-page.md
+  - navegação-na-visualização-cronograma-do-programa-navigating-the-program-schedule-view.md
+  - nl-mm-aaaa-boletim-informativo-nl-yyyy-mm-newsletter.md
+  - novas-práticas-recomendadas-da-instância-documentar-sua-configuração-new-instance-best-practices-document-your-setup.md
+  - novas-práticas-recomendadas-da-instância-lista-de-verificação-da-seção-de-admins-new-instance-best-practices-admin-section-checklist.md
+  - novas-práticas-recomendadas-da-instância-lista-de-verificação-de-atividades-de-marketing-new-instance-best-practices-marketing-activities-checklist.md
+  - novas-práticas-recomendadas-da-instância-lista-de-verificação-do-analytics-new-instance-best-practices-analytics-checklist.md
+  - novas-práticas-recomendadas-da-instância-lista-de-verificação-do-banco-de-dados-new-instance-best-practices-database-checklist.md
+  - novas-práticas-recomendadas-da-instância-lista-de-verificação-do-estúdio-de-design-new-instance-best-practices-design-studio-checklist.md
+  - noções-básicas-da-sincronização-com-o-microsoft-dynamics-understanding-the-microsoft-dynamics-sync.md
+  - noções-básicas-da-sincronização-com-o-salesforce-understanding-the-salesforce-sync.md
+  - noções-básicas-de-atividades-personalizadas-understanding-custom-activities.md
+  - noções-básicas-de-listas-inteligentes-understanding-smart-lists.md
+  - noções-básicas-de-objetos-personalizados-do-marketo-understanding-marketo-custom-objects.md
+  - noções-básicas-de-programas-de-engajamento-understanding-engagement-programs.md
+  - noções-básicas-de-programas-understanding-programs.md
+  - noções-básicas-sobre-a-pontuação-de-engajamento-understanding-the-engagement-score.md
+  - noções-básicas-sobre-análise-de-conteúdo-understanding-content-analytics.md
+  - noções-básicas-sobre-assinaturas-de-programas-understanding-program-membership.md
+  - noções-básicas-sobre-ativos-locais-em-um-programa-understanding-local-assets-in-a-program.md
+  - noções-básicas-sobre-campanhas-inteligentes-em-lote-e-acionáveis-understanding-batch-and-trigger-smart-campaigns.md
+  - noções-básicas-sobre-campanhas-inteligentes-understanding-smart-campaigns.md
+  - noções-básicas-sobre-campos-gerenciados-pelo-sistema-understanding-system-managed-fields.md
+  - noções-básicas-sobre-cancelamento-de-inscrição-understanding-unsubscribe.md
+  - noções-básicas-sobre-conteúdo-dinâmico-understanding-dynamic-content.md
+  - noções-básicas-sobre-custos-do-período-understanding-period-costs.md
+  - noções-básicas-sobre-espaços-de-trabalho-e-partições-de-pessoas-understanding-workspaces-and-person-partitions.md
+  - noções-básicas-sobre-integrações-de-rede-de-publicidade-understanding-ad-network-integrations.md
+  - noções-básicas-sobre-listas-estáticas-understanding-static-lists.md
+  - noções-básicas-sobre-mensagens-no-aplicativo-understanding-in-app-messages.md
+  - noções-básicas-sobre-meus-relatórios-e-relatórios-de-grupo-understanding-my-reports-and-group-reports.md
+  - noções-básicas-sobre-meus-tokens-em-um-programa-understanding-my-tokens-in-a-program.md
+  - noções-básicas-sobre-notificações-por-push-understanding-push-notifications.md
+  - noções-básicas-sobre-notificações-understanding-notifications.md
+  - noções-básicas-sobre-o-fuso-horário-do-destinatário-understanding-recipient-time-zone.md
+  - noções-básicas-sobre-opções-de-envio-understanding-send-options.md
+  - noções-básicas-sobre-opções-de-teste-de-email-understanding-email-testing-options.md
+  - noções-básicas-sobre-os-eventos-do-marketo-on24-adapter-understanding-marketo-on-adapter-events.md
+  - noções-básicas-sobre-os-status-do-programa-de-webinário-understanding-webinar-program-statuses.md
+  - noções-básicas-sobre-pastas-understanding-folders.md
+  - noções-básicas-sobre-programas-de-email-understanding-email-programs.md
+  - noções-básicas-sobre-programas-de-evento-understanding-event-programs.md
+  - noções-básicas-sobre-tags-understanding-tags.md
+  - nur-mm-aaaa-estímulo-avançado-nur-yyyy-mm-advanced-nurture.md
+  - nur-mm-aaaa-estímulo-simples-nur-yyyy-mm-simple-nurture.md
+  - o-painel-de-engajamento-the-engagement-dashboard.md
+  - oa-mm-aaaa-página-de-destino-de-publicidade-online-do-marketo-oa-yyyy-mm-online-advertising-marketo-landing-page.md
+  - ocultar-e-reexibir-um-campo-hide-and-unhide-a-field.md
+  - ocultar-um-campo-salesforce-da-sincronização-do-marketo-hide-a-salesforce-field-from-the-marketo-sync.md
+  - ocultarreexibir-um-canal-de-programa-hide-unhide-a-program-channel.md
+  - op-aquisição-api-op-acquisition-api.md
+  - op-gerenciamento-de-capacidade-de-entrega-op-deliverability-management.md
+  - op-gerenciamento-de-dados-op-data-management.md
+  - op-gerenciamento-de-leads-op-lead-management.md
+  - op-pontuação-comportamento-op-scoring-behavior.md
+  - op-pontuação-demográfica-op-scoring-demographic.md
+  - organizar-imagens-e-arquivos-usando-pastas-organize-your-images-and-files-using-folders.md
+  - painel-de-banco-de-dados-database-dashboard.md
+  - parceiros-de-evento-event-partners.md
+  - pausar-pessoas-em-um-programa-de-engajamento-pause-people-in-an-engagement-program.md
+  - perguntas-frequentes-sobre-o-dynamic-chat-dynamic-chat-faq.md
+  - perguntas-não-respondidas-unanswered-questions.md
+  - permissões-permissions-2.md
+  - permissões-permissions.md
+  - permitir-acesso-do-usuário-a-um-espaço-de-trabalho-allow-user-access-to-a-workspace.md
+  - personalizar-estrelas-e-chamas-customize-stars-and-flames.md
+  - personalizar-os-urls-da-página-de-destino-com-um-cname-customize-your-landing-page-urls-with-a-cname.md
+  - personalizar-sincronização-de-atividades-customize-activities-sync.md
+  - personalizar-um-email-personalize-an-email.md
+  - pesquisar-imagens-e-arquivos-carregados-search-uploaded-images-and-files.md
+  - pessoas-com-conteúdo-esgotado-people-who-have-exhausted-content.md
+  - pessoas-por-relatório-de-status-people-by-status-report.md
+  - pontuação-da-conta-account-score.md
+  - pontuação-simples-simple-scoring-2.md
+  - pontuação-simples-simple-scoring.md
+  - por-onde-começar-where-to-start-2.md
+  - por-onde-começar-where-to-start.md
+  - power-pack-de-capacidade-de-entrega-de-email-como-importar-uma-lista-de-seeds-email-deliverability-power-pack-how-to-import-a-seed-list.md
+  - prioridade-da-ordem-de-segmentação-segmentation-order-priority.md
+  - prioridade-urgência-pontuação-relativa-e-best-bets-priority-urgency-relative-score-and-best-bets.md
+  - priorizar-conteúdo-de-fluxo-prioritize-stream-content.md
+  - programar-uma-campanha-em-lote-recorrente-schedule-a-recurring-batch-campaign.md
+  - proteger-a-configuração-de-administração-de-assinatura-secure-the-subscription-admin-setting.md
+  - prática-recomendada-como-organizar-seus-programas-best-practice-how-to-organize-your-programs.md
+  - pré-visualizar-e-testar-uma-campanha-da-web-preview-and-test-a-web-campaign.md
+  - pré-visualizar-um-email-com-conteúdo-dinâmico-preview-an-email-with-dynamic-content.md
+  - pré-visualizar-um-snippet-preview-a-snippet.md
+  - pré-visualizar-uma-página-de-destino-com-conteúdo-dinâmico-preview-a-landing-page-with-dynamic-content.md
+  - pré-visualizar-uma-página-de-destino-preview-a-landing-page.md
+  - página-de-destino-com-formulário-landing-page-with-a-form-2.md
+  - página-de-destino-com-formulário-landing-page-with-a-form.md
+  - páginas-da-web-exibidas-relatório-de-atividades-de-página-da-web-web-pages-viewed-web-page-activity-report.md
+  - rastreamento-de-atividades-anônimas-e-pessoas-tracking-anonymous-activity-and-people.md
+  - reconfigurar-método-de-autenticação-do-dynamics-reconfigure-dynamics-authentication-method.md
+  - redirecionamento-com-dados-web-personalization-retargeting-with-web-personalization-data.md
+  - redirecionar-um-caminho-de-url-redirect-a-url-path.md
+  - redirecionar-uma-página-de-destino-do-marketo-para-outra-página-redirect-a-marketo-landing-page-to-another-page.md
+  - redirecionar-uma-página-de-destino-redirect-a-landing-page-2.md
+  - redirecionar-uma-página-de-destino-redirect-a-landing-page.md
+  - registro-de-atividades-activity-log.md
+  - regras-de-filtro-de-sincronização-personalizado-para-um-endereço-de-email-custom-sync-filter-rules-for-an-email-address.md
+  - regras-globais-de-validação-de-formulários-global-form-validation-rules.md
+  - rejeições-permanentes-e-temporárias-no-email-hard-and-soft-bounces-in-email.md
+  - relatório-de-atividades-da-empresa-na-web-company-web-activity-report.md
+  - relatório-de-atividades-de-campanha-campaign-activity-report.md
+  - relatório-de-atividades-de-página-da-web-web-page-activity-report.md
+  - relatório-de-desempenho-da-página-de-destino-landing-page-performance-report.md
+  - relatório-de-desempenho-de-email-da-campanha-campaign-email-performance-report.md
+  - relatório-de-desempenho-de-email-email-performance-report.md
+  - relatório-de-desempenho-de-emails-do-insight-de-vendas-sales-insight-email-performance-report.md
+  - relatório-de-desempenho-de-link-de-email-email-link-performance-report.md
+  - relatório-de-desempenho-de-pessoas-people-performance-report.md
+  - relatório-de-desempenho-do-fluxo-de-engajamento-engagement-stream-performance-report.md
+  - relatório-de-spam-de-email-email-spam-report.md
+  - remarketing-personalizado-em-facebook-personalized-remarketing-in-facebook.md
+  - remarketing-personalizado-no-google-personalized-remarketing-in-google.md
+  - remover-acesso-de-sales-insight-remove-sales-insight-access.md
+  - remover-conteúdo-de-fluxo-remove-stream-content.md
+  - remover-da-campanha-do-sfdc-remove-from-sfdc-campaign.md
+  - remover-da-lista-remove-from-list.md
+  - remover-do-fluxo-remove-from-flow.md
+  - renomear-um-ativo-do-marketo-rename-a-marketo-asset.md
+  - reordenar-adicionar-escolha-em-uma-etapa-de-fluxo-reorder-add-choice-in-a-flow-step.md
+  - reordenar-as-etapas-de-fluxo-em-uma-campanha-inteligente-reorder-the-flow-steps-in-a-smart-campaign.md
+  - reordenar-campos-em-um-formulário-reorder-fields-in-a-form.md
+  - resposta-automática-por-email-email-auto-response.md
+  - roteamento-routing.md
+  - rotular-o-segmento-label-your-segment.md
+  - sales-connect-e-conformidade-com-o-gdpr-sales-connect-and-gdpr-compliance.md
+  - sales-connect-personalizações-para-o-crm-sales-connect-customizations-for-crm.md
+  - salesforce-erros-de-sincronização-salesforce-sync-errors.md
+  - salvar-a-campanha-como-um-modelo-save-your-campaign-as-a-template.md
+  - salvar-um-relatório-save-a-report.md
+  - salvar-uma-definição-de-filtro-no-calendário-de-marketing-saving-a-filter-definition-in-the-marketing-calendar.md
+  - sandbox-do-marketo-marketo-sandbox.md
+  - segmentos-da-web-web-segments.md
+  - selecionar-colunas-do-relatório-select-report-columns.md
+  - selecionar-mensagem-no-aplicativo-select-your-in-app-message.md
+  - selecionar-um-tema-de-formulário-select-a-form-theme.md
+  - sincronizando-cancelamentos-de-assinatura-com-salesforce-syncing-unsubscribes-with-salesforce.md
+  - sincronizar-atividades-de-vendas-com-o-salesforce-sync-sales-activities-to-salesforce.md
+  - sincronizar-campos-personalizados-de-membros-de-programas-program-member-custom-field-sync.md
+  - sincronizar-dados-de-ação-de-vendas-com-o-marketo-e-o-salesforce-sync-sales-action-data-with-marketo-and-salesforce.md
+  - sincronizar-pessoa-ao-sfdc-sync-person-to-sfdc.md
+  - sincronizar-pessoa-com-a-microsoft-sync-person-to-microsoft.md
+  - sincronizar-uma-campanha-do-sfdc-com-um-programa-sync-an-sfdc-campaign-with-a-program.md
+  - sincronização-de-microsoft-dynamics-sincronização-de-cliente-potencial-microsoft-dynamics-sync-lead-sync.md
+  - sincronização-de-microsoft-dynamics-sincronização-de-conta-microsoft-dynamics-sync-account-sync.md
+  - sincronização-de-microsoft-dynamics-sincronização-de-contatos-microsoft-dynamics-sync-contact-sync.md
+  - sincronização-de-microsoft-dynamics-sincronização-de-oportunidade-microsoft-dynamics-sync-opportunity-sync.md
+  - sincronização-de-tarefa-de-lembrete-com-salesforce-reminder-task-sync-with-salesforce.md
+  - sincronização-do-microsoft-dynamics-sincronização-de-usuário-microsoft-dynamics-sync-user-sync.md
+  - sincronização-do-sfdc-sincronização-de-atividade-sfdc-sync-activity-sync.md
+  - sincronização-do-sfdc-sincronização-de-campanha-sfdc-sync-campaign-sync.md
+  - sincronização-do-sfdc-sincronização-de-campos-sfdc-sync-field-sync.md
+  - sincronização-do-sfdc-sincronização-de-conta-sfdc-sync-account-sync.md
+  - sincronização-do-sfdc-sincronização-de-contato-sfdc-sync-contact-sync.md
+  - sincronização-do-sfdc-sincronização-de-leadproprietário-da-conta-sfdc-sync-lead-account-owner-sync.md
+  - sincronização-do-sfdc-sincronização-de-leads-sfdc-sync-lead-sync.md
+  - sincronização-do-sfdc-sincronização-de-objeto-personalizado-sfdc-sync-custom-object-sync.md
+  - sincronização-do-sfdc-sincronização-de-oportunidade-sfdc-sync-opportunity-sync.md
+  - sintaxe-do-modelo-de-email-email-template-syntax.md
+  - solicitar-campanha-request-campaign.md
+  - solicitações-de-privacidade-privacy-requests.md
+  - substituir-domínio-primário-dos-emails-overwrite-primary-domain-for-emails.md
+  - substituir-restrições-de-pessoa-em-uma-campanha-inteligente-override-person-restrictions-in-a-smart-campaign.md
+  - substituir-uma-imagem-ou-arquivo-carregado-replace-an-uploaded-image-or-file.md
+  - temas-da-marca-brand-themes.md
+  - testar-renderização-de-email-com-litmus-test-email-rendering-with-litmus.md
+  - teste-a-integração-de-evento-do-on24-test-your-on-event-integration.md
+  - tipos-de-de-entrada-da-visualização-cronograma-do-programa-program-schedule-view-entry-types.md
+  - tipos-de-etapa-da-campanha-campaign-step-types.md
+  - tipos-de-notificação-notification-types.md
+  - tokens-acionadores-de-momentos-interessantes-trigger-tokens-for-interesting-moments.md
+  - tornar-um-campo-de-formulário-obrigatório-make-a-form-field-required.md
+  - tornar-um-email-operacional-make-an-email-operational.md
+  - tornar-uma-campanha-visível-para-sales-connect-usuários-make-a-campaign-visible-to-sales-connect-users.md
+  - transformar-o-usuário-de-sincronização-do-marketo-em-um-usuário-de-marketing-make-marketo-sync-user-a-marketing-user.md
+  - ts-dd-mm-aaaa-programa-de-feira-de-vendas-ts-yyyy-mm-dd-tradeshow-program.md
+  - usando-o-editor-de-rich-text-web-personalization-using-the-web-personalization-rich-text-editor.md
+  - usar-a-opção-adicionar-escolha-em-uma-etapa-de-fluxo-use-add-choice-in-a-flow-step.md
+  - usar-conteúdo-dinâmico-em-um-email-using-dynamic-content-in-an-email.md
+  - usar-conteúdo-dinâmico-em-uma-página-de-destino-de-forma-livre-use-dynamic-content-in-a-free-form-landing-page.md
+  - usar-conteúdo-dinâmico-em-uma-página-de-destino-use-dynamic-content-in-a-landing-page.md
+  - usar-filtros-de-inatividade-em-uma-lista-inteligente-use-inactivity-filters-in-a-smart-list.md
+  - usar-filtros-de-segmento-em-uma-smart-list-use-segment-filters-in-a-smart-list.md
+  - usar-filtros-e-acionadores-de-anúncios-de-leads-em-uma-campanha-inteligente-use-lead-ads-filters-and-triggers-in-a-smart-campaign.md
+  - usar-o-filtro-alteração-do-valor-de-dados-em-uma-lista-inteligente-use-the-data-value-changed-filter-in-a-smart-list.md
+  - usar-o-token-de-envio-de-informações-de-alerta-use-the-send-alert-info-token-sp-send-alert-info.md
+  - usar-smart-lists-do-sistema-integradas-use-built-in-system-smart-lists.md
+  - usar-tags-em-um-programa-use-tags-in-a-program.md
+  - usar-teste-ab-de-datahora-use-date-time-a-b-testing.md
+  - usar-teste-ab-de-email-inteiro-use-whole-email-a-b-testing.md
+  - usar-teste-ab-do-endereço-use-from-address-a-b-testing.md
+  - usar-tokens-em-etapas-de-fluxo-use-tokens-in-flow-steps.md
+  - usar-um-formulário-em-um-lightbox-use-a-form-in-a-lightbox.md
+  - usar-um-webhook-em-uma-campanha-inteligente-use-a-webhook-in-a-smart-campaign.md
+  - usar-uma-lista-ou-lista-inteligente-do-marketo-como-segmento-de-público-alvo-do-linkedin-use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md
+  - use-o-teste-ab-linha-de-assunto-use-subject-line-a-b-testing.md
+  - uso-da-lógica-avançada-de-regras-de-lista-inteligente-using-advanced-smart-list-rule-logic.md
+  - uso-da-página-detalhes-da-pessoa-using-the-person-detail-page.md
+  - uso-de-custos-do-período-em-um-programa-using-period-costs-in-a-program.md
+  - uso-de-modelos-para-criar-campanhas-da-web-using-templates-to-create-web-campaigns.md
+  - uso-de-momentos-interessantes-using-interesting-moments.md
+  - uso-de-personas-using-personas.md
+  - uso-do-editor-de-rich-text-using-the-rich-text-editor.md
+  - utilização-de-urls-em-meus-tokens-using-urls-in-my-tokens.md
+  - validar-a-sincronização-de-microsoft-dynamics-validate-microsoft-dynamics-sync.md
+  - verificar-configuração-de-push-verify-push-configuration.md
+  - verificação-de-cancelamento-de-inscrição-do-marketo-marketo-unsubscribe-check.md
+  - visão-geral-da-biblioteca-de-importação-do-programa-program-import-library-overview.md
+  - visão-geral-da-conta-nomeada-named-account-overview.md
+  - visão-geral-da-contribuição-do-performance-insights-performance-insights-contribution-overview.md
+  - visão-geral-da-personalização-da-web-web-personalization-overview.md
+  - visão-geral-da-tendência-do-performance-insights-performance-insights-trend-overview.md
+  - visão-geral-da-trilha-de-auditoria-audit-trail-overview.md
+  - visão-geral-de-momentos-interessantes-interesting-moments-overview.md
+  - visão-geral-do-adobe-identity-management-adobe-identity-management-overview.md
+  - visão-geral-do-chat-ao-vivo-live-chat-overview.md
+  - visão-geral-do-check-in-do-evento-event-check-in-overview.md
+  - visão-geral-do-designer-de-email-overview.md
+  - visão-geral-do-diálogo-dialogue-overview.md
+  - visão-geral-do-editor-de-email-v20-email-editor-v2-overview.md
+  - visão-geral-do-feed-ao-vivo-live-feed-overview.md
+  - visão-geral-do-fluxo-de-conversa-conversational-flow-overview.md
+  - visão-geral-do-performance-insights-performance-insights-overview.md
+  - visão-geral-do-sales-connect-sales-connect-overview.md
+  - visão-geral-do-seletor-de-modelos-de-email-email-template-picker-overview.md
+  - visão-geral-do-telefone-de-vendas-sales-phone-overview.md
+  - visão-geral-do-tipo-de-relatório-report-type-overview.md
+  - visão-geral-dos-tokens-tokens-overview.md
+  - wbn-dd-mm-aaaa-programa-de-webinário-wbn-yyyy-mm-dd-webinar-program.md
+  - wr-mm-aaaa-programa-de-solicitação-da-web-wr-yyyy-mm-web-request-program.md
+
+## tutorials
+
+- marketo-engage/guia-do-marketo
+  - tutoriais-do-rastreador-da-caixa-de-entrada-inbox-tracker-tutorials.md
+- marketo-engage/tutoriais-do-marketo-engage
+  - adicionar-e-gerenciar-usuários-do-dynamic-chat.md
+  - assistente-de-ia-para-designer-de-email.md
+  - ativar-a-integração-do-marketo-com-o-dynamic-chat.md
+  - captura-de-atributos-inferidos.md
+  - como-configurar-e-gerenciar-uma-central-de-assinaturas.md
+  - como-criar-um-programa-de-pontuação-de-cliente-potencialpessoa.md
+  - conectar-visitantes-a-agentes-ativos.md
+  - configurar-e-instalar-seu-chatbot.md
+  - conteúdo-condicional.md
+  - criar-e-gerenciar-caixas-de-diálogo-personalizadas.md
+  - criar-e-medir-um-programa-padrão.md
+  - criar-um-teste-ab.md
+  - criar-um-webinário-interativo-eficiente-design-an-effective-interactive-webinar.md
+  - entre-no-ar-com-o-dynamic-chat-em-apenas-15-minutos.md
+  - fluxos-reutilizáveis.md
+  - formulários-de-conversação.md
+  - gerenciamento-de-agentes.md
+  - globalização-de-conteúdo-estático.md
+  - importar-modelo.md
+  - incorporar-o-pdf-em-conversas.md
+  - introdução-às-campanhas-inteligentes.md
+  - noções-básicas-sobre-os-programas-e-as-campanhas-do-marketo.md
+  - permitir-que-as-pessoas-agendem-reuniões-com-a-sua-equipe-de-vendas.md
+  - pesquisar-no-designer-de-stream.md
+  - práticas-recomendadas-para-organizar-uma-nova-instância-do-marketo-engage.md
+  - páginas-de-destino-de-conversa.md
+  - recursos-gerais-de-ia-do-dynamic-chat.md
+  - relatório-de-engajamento.md
+  - saiba-mais-sobre-como-configurar-e-gerenciar-uma-central-de-assinaturas.md
+  - sdk-de-conversas.md
+  - tour-de-produto-do-dynamic-chat-2022.md
+  - tour-de-produto-do-dynamic-chat-2023.md
+  - tutoriais-do-dynamic-chat.md
+  - tutoriais-do-marketo-engage.md
+  - visualização-do-diálogo.md
+- marketo-engage/tutorial-dicas-e-truques-para-auditar-uma-instância-herdada-do-marketo-engage
+  - como-auditar-uma-instância-herdada-do-marketo-engage.md
+  - crie-um-diagrama-de-fluxo-de-dados-visual-para-entender-sua-pilha-de-tecnologia-de-marketing.md
+  - desenvolver-um-guia-de-governança-de-instância-com-a-documentação.md
+  - dicas-e-truques-para-auditar-uma-instância-herdada-do-marketo-engage-visão-geral-do-tutorial.md
+  - processo-essencial-de-garantia-de-qualidade-de-pré-lançamento-do-programa-para-o-sucesso.md
+  - registrar-erros-de-sincronização-do-crm-para-facilitar-a-solução-de-problemas.md
+
+## reference
+
+- javascriptapi/forms-api-reference
+  - referência-da-api-do-forms.md
+- javascriptapi/leadtracking/api-reference
+  - referência-da-api-do-munchkin.md
 

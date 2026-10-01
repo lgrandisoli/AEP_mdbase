@@ -8,7 +8,7 @@ title: "Account audience journey nodes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/account-audience-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:43.236701+00:00"
+created_at: "2026-10-01T14:09:16.738584+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -54,7 +54,7 @@ title: "Account audiences"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/audiences/account-audience-overview"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:09.215600+00:00"
+created_at: "2026-10-01T14:09:32.398809+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -112,7 +112,7 @@ title: "Account details"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/sales-experience/account-details"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:26.445575+00:00"
+created_at: "2026-10-01T14:09:43.530709+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -243,13 +243,13 @@ title: "Account lists"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/account-lists/account-lists"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:24.542446+00:00"
+created_at: "2026-10-01T14:09:42.447664+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Account lists
 
-Last update: August 4, 2026
+Last update: September 3, 2026
 - Topics:
 - [Journeys](#)
 - [Generative AI](#)
@@ -265,12 +265,10 @@ In Journey Optimizer B2B Edition, an account list is a collection of named accou
 - **Static** - With a static account list, the list only changes when you add the accounts. You can manually add accounts by applying a filter set to populate the list based on current account data, or add and remove accounts through an account journey.
 - **Dynamic** - With a dynamic account list, you define a filter set for automatically curating the list. The system uses this filter set to add and remove accounts according to changes in the account information. This list management is similar to [audience segmentation in Real-time Customer Data Platform](/en/docs/experience-platform/rtcdp/segmentation/b2b#_blank).
 
-When an account list is in a *Live* (published) state, it is available for [use in account journeys and Marketo Engage programs](/en/docs/journey-optimizer-b2b/user/accounts/account-lists/account-lists-journeys).
+When an account list is in a *Live* (published) state, it is available for [use in account journeys](/en/docs/journey-optimizer-b2b/user/accounts/account-lists/account-lists-journeys).
 
 {width="30"} [Watch the video overview](#overview-video)
 
-NOTE
-Account lists leverage account data from Marketo Engage to create account segments and lists. This means that if an account segment from Adobe Experience Platform is not actively synced to Marketo Engage, accounts in that Experience Platform segment may not be available in Journey Optimizer B2B Edition account lists. Subsequently, only people from accounts in Experience Platform segments that are synced to Marketo Engage are included in person membership counts and trigger events.
 ## Access and browse account lists
 
 On the left navigation, expand **Accounts** and click **Account lists**.
@@ -364,7 +362,7 @@ title: "Activate Marketo Engage connections to support actions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/marketo-actions-connect"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:28.750761+00:00"
+created_at: "2026-10-01T14:09:06.958363+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -426,21 +424,21 @@ recommendation-more-help
 
 
 ---
-# FILE: add-an-email-to-your-journey.md
+# FILE: add-an-email-to-your-journey-2.md
 ---
 
 ---
 title: "Add an email to your journey"
-url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/add-email"
+url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/sales-alert-email"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:54.775926+00:00"
+created_at: "2026-10-01T14:09:27.623615+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Add an email to your journey
 
-Last update: August 4, 2026
+Last update: September 2, 2026
 - Topics:
 - [Journeys](#)
 - [Communication channels](#)
@@ -450,24 +448,26 @@ CREATED FOR:
 - Beginner
 - User
 
-Use Adobe Journey Optimizer B2B Edition to send email messages to your customers through account journeys. You can choose to create, personalize, and preview messages in the email design space. Alternatively, you can choose to send an email that is already defined in the connected Marketo Engage instance. After emails are live in journeys, monitor send, delivery, and engagement in the [Email performance report](/en/docs/journey-optimizer-b2b/user/dashboards/email-performance-dashboard).
+Use Adobe Journey Optimizer B2B Edition to send email messages to your customers through account journeys. You can choose to create, personalize, and preview messages in the email design space. After emails are live in journeys, monitor send, delivery, and engagement in the [Email performance report](/en/docs/journey-optimizer-b2b/user/dashboards/email-performance-dashboard).
 
 NOTE
-If you are sending an email for the first time, make sure that the email channel is configured from within Adobe Marketo Engage. To learn more, see
+If you are sending an email for the first time, make sure that the email channel is configured. To learn more, see
 Protocols for tracking and email delivery
 .
 For details about how email consent preferences are evaluated at delivery time, see
 Consent preferences
 .
-## Add an email action node in a journey
+## Add a send email action node send-email-node
 
 You can set up email deliveries in a journey when you [add a Take an action node](/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/action-nodes) and do the following:
 
-- For the Action on target, choose People .
-- For the Action on people , choose Send email .
-- For the Email source , choose how you want to source the email to send. {width="700" modal="regular"} Choose Create new email to author the email natively in Journey Optimizer B2B Edition. This option allows you to manage the email content natively in Journey Optimizer B2B Edition. Click Create email to open the Create new email dialog. You can create a new email content asset or duplicate an existing email content asset. accordion New email When you want to create an email using an empty canvas or an email template, use the New email option. In the dialog, choose New email . Enter a unique Name for the email and a Subject line . {width="400"} Click Create . In the Email properties section of the email content page, the From email and Reply to address fields are already configured. You can enter values for the From name and Description (optional) fields. Click Edit email to define the email settings and design the content . accordion Duplicate existing email When you want to create an email using an existing email from the current journey or from another journey, use the Duplicate existing email option. You can make changes to the duplicated email according to your objective for the journey node. In the Create new email dialog, choose Duplicate existing email . For Existing email to duplicate , click the Selection icon ( ) and select the email that you want to duplicate and use for the journey node. You can filter the list of emails by entering a text string in the search field to match the email name. {width="600" modal="regular"} Select the checkbox for the email that you want to duplicate and click Select . Enter a unique Name for the email and a Subject line . {width="400"} Click Create . In the Email properties section of the email content page, the From email and Reply to address fields are already configured. You can enter values for the From name and Description (optional) fields. If needed, click Edit email to modify the email settings and content . Choose Select email from Adobe Marketo Engage to use one of the pre-authored emails in Marketo Engage and send it as a part of the journey. If you have more than one workspace available in the connected Marketo Engage instance, select the workspace. Then, select the approved email that you want to send for the journey node. {width="500" modal="regular"} With this option, the node is set and the email content does not need further definition in the journey.
+- (Account journeys only) For the Action on target, choose People .
+- For the action, choose Send email .
+- Click Create email . {width="500"}
+- In the Create new email dialog, choose to create a new email content asset or duplicate an existing email content asset. Choose the New email option when you want to create an email using an empty canvas or an email template. {width="400"} Enter a unique Name for the email and a Subject line . Click Create . Choose the Duplicate existing email option when you want to create an email using an existing email from the current journey or from another journey. You can make changes to the duplicated email according to your objective for the journey node. For Existing email to duplicate , click the Selection icon ( ) and select the email that you want to duplicate and use for the journey node. You can filter the list of emails by entering a text string in the search field to match the email name. Select the checkbox for the email that you want to duplicate and click Select . {width="600" modal="regular"} Enter a unique Name for the email and a Subject line . {width="400"} Click Create .
+- Click Edit email to define the email settings and content . {width="500"}
 
-## Define the email settings
+## Define the email settings email-settings
 
 With the **Details** tab selected in the *Summary* panel on the right, scroll to the bottom to view and define the email settings.
 
@@ -506,10 +506,6 @@ Branding domain
 If you have more than one
 branding domain
 defined in the system, select the branding domain to use for sending the email. Use a specific branding domain to send emails that appear to be coming from your brand instead of the company as a whole. It builds trust with the brand, personalizes the email experience, and increases open and response rates.
-Dedicated IP
-If you have more than one dedicated IP addresses defined, select a dedicated IP address to use for sending the email. When you use a specific dedicated IP for your programs, you can track and monitor deliverability more closely and respond quickly to any changes in your delivery metrics. For more information about adding a dedicated IP for the connected Marketo Engage instance, refer to the
-Marketo Engage documentation
-.
 Operational email
 Select the checkbox if you want to designate the email as operational. Operational emails are excluded from opt-out/unsubscribe lists, and from communication limits. Select this option only when the recipient cannot consider the email message to be an unsolicited commercial message (SPAM).
 Include view as web page
@@ -524,19 +520,126 @@ Preheader
 Select the checkbox to include a preheader. A preheader is the short summary text that is displayed after the subject line in some email clients. It usually provides a short summary of the email, and is typically a single sentence. Enter the summary text in the field
 , or click the AI Assistant button ( ![AI Assistant icon](../../assets/do-not-localize/icon-gen-ai.svg){width="30" zoomable="no"} ) to generate summary text based on the current email content
 .
-Fields used as CC addresses
-If available, select up to 25 Lead or Company fields that are set up in Marketo Engage using the
-Email
-type.
-## Check alerts
+## Check alerts check-alerts
 
-As you design your email message content, alerts are displayed in the interface (top-right of the page) when key settings are missing. If you do not see this button, there are no detected issues.
+As you define your email settings and content, alerts are displayed in the interface (top-right of the page) when key settings are missing. If you do not see this button, there are no detected issues.
 
 {width="600" modal="regular"}
 
-Two types of alerts can be detected:
+There are two types of alerts:
 
-- Warnings that refer to recommendations and best practices, such as: The opt-out link is not present in the email body : Adding an unsubscribe link into your email body is a best practice. note NOTE Marketing-style email messages must include an opt-out link, which is not required for transactional messages. Text version of HTML is empty : Define a text version of your email body, which is used when HTML content cannot be displayed. Empty link is present in email body : Check that all the links in your email are correct. Email size has exceeded the limit of 100KB : For optimal delivery, make sure that the size of your email does not exceed 100KB.
+- Warnings that refer to recommendations and best practices, such as: The opt-out link is not present in the email body : Adding an unsubscribe link to your email body is a best practice. note NOTE Marketing-style email messages must include an opt-out link, which is not required for transactional messages. Text version of HTML is empty : Define a text version of your email body, which is used when HTML content cannot be displayed. Empty link is present in email body : Check that all the links in your email are correct. Email size has exceeded the limit of 100KB : For optimal delivery, make sure that the size of your email does not exceed 100KB.
+- Errors that prevent you from testing or activating the journey/campaign as long as they are not resolved, such as: From name is empty : The email From field (required) is not defined. The subject line is missing : The email subject line (required) is not defined. The email version of the message is empty : The email content is not defined.
+
+recommendation-more-help
+
+
+---
+# FILE: add-an-email-to-your-journey.md
+---
+
+---
+title: "Add an email to your journey"
+url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/add-email"
+category: "other"
+topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
+created_at: "2026-10-01T14:09:23.322113+00:00"
+---
+Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
+
+# Add an email to your journey
+
+Last update: September 2, 2026
+- Topics:
+- [Journeys](#)
+- [Communication channels](#)
+
+CREATED FOR:
+
+- Beginner
+- User
+
+Use Adobe Journey Optimizer B2B Edition to send email messages to your customers through account journeys. You can choose to create, personalize, and preview messages in the email design space. After emails are live in journeys, monitor send, delivery, and engagement in the [Email performance report](/en/docs/journey-optimizer-b2b/user/dashboards/email-performance-dashboard).
+
+NOTE
+If you are sending an email for the first time, make sure that the email channel is configured. To learn more, see
+Protocols for tracking and email delivery
+.
+For details about how email consent preferences are evaluated at delivery time, see
+Consent preferences
+.
+## Add a send email action node send-email-node
+
+You can set up email deliveries in a journey when you [add a Take an action node](/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/action-nodes) and do the following:
+
+- (Account journeys only) For the Action on target, choose People .
+- For the action, choose Send email .
+- Click Create email . {width="500"}
+- In the Create new email dialog, choose to create a new email content asset or duplicate an existing email content asset. Choose the New email option when you want to create an email using an empty canvas or an email template. {width="400"} Enter a unique Name for the email and a Subject line . Click Create . Choose the Duplicate existing email option when you want to create an email using an existing email from the current journey or from another journey. You can make changes to the duplicated email according to your objective for the journey node. For Existing email to duplicate , click the Selection icon ( ) and select the email that you want to duplicate and use for the journey node. You can filter the list of emails by entering a text string in the search field to match the email name. Select the checkbox for the email that you want to duplicate and click Select . {width="600" modal="regular"} Enter a unique Name for the email and a Subject line . {width="400"} Click Create .
+- Click Edit email to define the email settings and content . {width="500"}
+
+## Define the email settings email-settings
+
+With the **Details** tab selected in the *Summary* panel on the right, scroll to the bottom to view and define the email settings.
+
+{width="700" modal="regular"}
+
+Option
+Description
+From name
+The sender name used in the email header. Enter the name of the sender as you want it to appear to the recipient. Click the
+Personalize
+icon (
+) to use a personalization token in the field.
+From email
+The sender address used in the email header. The default value is populated from the
+email channel delivery settings
+. Click the
+Personalize
+icon (
+) to use a personalization token in the field.
+Reply-to address
+The sender address used in the email header. The default value is populated from the
+email channel delivery settings
+(From Label). Enter the email address that you want to populate if the recipient uses the reply function (it can be different or the same as the sender address). Click the
+Personalize
+icon (
+) to use a personalization token in the field.
+Subject line
+The text displayed in the subject field for the email. The default value is populated from the text that you entered in the
+Create new email
+dialog. You can change the text if needed. Click the
+Personalize
+icon (
+) to use a personalization token in the field.
+Click the AI Assistant button ( ![AI Assistant icon](../../assets/do-not-localize/icon-gen-ai.svg){width="30" zoomable="no"} ) to generate the subject line based on the current email content.
+Branding domain
+If you have more than one
+branding domain
+defined in the system, select the branding domain to use for sending the email. Use a specific branding domain to send emails that appear to be coming from your brand instead of the company as a whole. It builds trust with the brand, personalizes the email experience, and increases open and response rates.
+Operational email
+Select the checkbox if you want to designate the email as operational. Operational emails are excluded from opt-out/unsubscribe lists, and from communication limits. Select this option only when the recipient cannot consider the email message to be an unsolicited commercial message (SPAM).
+Include view as web page
+Select the checkbox to include a link to a web page that is generated from the email message content. Email messages have more limited capabilities than web pages, so it is useful for JavaScript, extended CSS, and forms. The text used to generate the link is configured in the
+email channel delivery settings
+(View as web page HTML and View as web page text).
+Disable open tracking
+Select the checkbox when you do not want to track email open activity. With the function disabled, email open activity counts are incremented only when a unique person opens the email. You can
+manage email content link tracking
+when you design the email body content.
+Preheader
+Select the checkbox to include a preheader. A preheader is the short summary text that is displayed after the subject line in some email clients. It usually provides a short summary of the email, and is typically a single sentence. Enter the summary text in the field
+, or click the AI Assistant button ( ![AI Assistant icon](../../assets/do-not-localize/icon-gen-ai.svg){width="30" zoomable="no"} ) to generate summary text based on the current email content
+.
+## Check alerts check-alerts
+
+As you define your email settings and content, alerts are displayed in the interface (top-right of the page) when key settings are missing. If you do not see this button, there are no detected issues.
+
+{width="600" modal="regular"}
+
+There are two types of alerts:
+
+- Warnings that refer to recommendations and best practices, such as: The opt-out link is not present in the email body : Adding an unsubscribe link to your email body is a best practice. note NOTE Marketing-style email messages must include an opt-out link, which is not required for transactional messages. Text version of HTML is empty : Define a text version of your email body, which is used when HTML content cannot be displayed. Empty link is present in email body : Check that all the links in your email are correct. Email size has exceeded the limit of 100KB : For optimal delivery, make sure that the size of your email does not exceed 100KB.
 - Errors that prevent you from testing or activating the journey/campaign as long as they are not resolved, such as: From name is empty : The email From field (required) is not defined. The subject line is missing : The email subject line (required) is not defined. The email version of the message is empty : The email content is not defined.
 
 recommendation-more-help
@@ -551,7 +654,7 @@ title: "Add custom CSS for your content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/content-design/design-custom-css"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:19:12.236490+00:00"
+created_at: "2026-10-01T14:11:03.551592+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -644,7 +747,7 @@ title: "Add Custom CSS for your content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/content-design/design-custom-css"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:55.123215+00:00"
+created_at: "2026-10-01T14:10:01.381971+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -736,7 +839,7 @@ title: "Add emails to journeys"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/email-channel/email-channel"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:43.571513+00:00"
+created_at: "2026-10-01T14:10:38.156560+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -862,13 +965,13 @@ title: "Adobe Journey Optimizer B2B Edition Documentation"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/guide-overview"
 category: "guides"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:19.105666+00:00"
+created_at: "2026-10-01T14:09:01.192901+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Adobe Journey Optimizer B2B Edition Documentation
 
-Last update: August 26, 2026
+Last update: September 16, 2026
 - Topics:
 - [Onboarding](#)
 
@@ -981,9 +1084,8 @@ Journey nodes
 {width="35px"}
 Journey content
 Email channel
-AI Assistant for email
+Generate email content
 GenStudio email experiences
-Sales alert email
 SMS channel
 {width="35px"}
 Content management
@@ -1030,13 +1132,13 @@ title: "Adobe Journey Optimizer B2B Edition overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/about-journey-optimizer-b2b-edition"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:21.358554+00:00"
+created_at: "2026-10-01T14:09:02.502946+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Adobe Journey Optimizer B2B Edition overview
 
-Last update: June 13, 2026
+Last update: September 4, 2026
 - Topics:
 - [Onboarding](#)
 
@@ -1045,41 +1147,45 @@ CREATED FOR:
 - Beginner
 - User
 
-With Adobe Journey Optimizer B2B Edition, you can orchestrate account and buying group journeys using built-in generative AI and industry-leading automation to maximize demand for specific offerings using marketing-qualified buying groups.
+With Adobe Journey Optimizer B2B Edition, you can orchestrate person and account journeys using built-in generative AI and industry-leading automation to maximize demand for specific offerings using marketing-qualified buying groups.
 
 ## Account journeys with buying groups
 
-When comparing account journeys to the journey capabilities in Marketo Engage and Adobe Journey Optimizer standard, the key distinction is that account journeys move accounts through the journey, not people. A person who is associated with an account typically has a non-linear progression that is based on the progress of the account through the journey, not based on their individual actions. For instance, when an account is in an early phase of the buying journey, the information sent is typically about general solution capabilities or features. Further along in the buying process, the content becomes more targeted on particular offers or other items geared toward closing a sale. After the solution is purchased, the information changes again to provide how-to guides, best practices, or information about upcoming events, or content about additional upsells. Even if an individual has not interacted with early phase content, you can progress them to the current phase based on the actions of others within their account or buying group.
+When comparing account journeys to the journey capabilities in Marketo Engage and Adobe Journey Optimizer standard, the key distinction is that account journeys move accounts through the journey, not people. A person who is associated with an account typically has a non-linear progression that is based on the progress of the account through the journey, not based on their individual actions. For instance, when an account is in an early phase of the buying journey, the information sent is typically about general solution capabilities or features. Further along in the buying process, the content becomes more targeted on particular offers or other items geared toward closing a sale. After the solution is purchased, the information changes again to provide how-to guides, best practices, information about upcoming events, or content about additional upsells. Even if an individual has not interacted with early phase content, you can progress them to the current phase based on the actions of others within their account or buying group.
 
 ## High-level architecture
 
-Adobe Journey Optimizer B2B Edition uses *Account Audiences* and *People Audiences* from Adobe Experience Platform to power an account journey, which runs inside of Marketo Engage. Experience Platform is always the primary source for this data, but all execution and processing of the account journey occurs within the Marketo Engage B2B marketing infrastructure. The orchestration brings data back to Experience Platform in near real time by the existing Marketo Engage - Adobe Real-Time CDP B2B Edition source connector, which streams data changes from Marketo Engage to Experience Platform.
+Adobe Journey Optimizer B2B Edition is built on Adobe Experience Platform, including Real-Time CDP B2B. Journey Optimizer B2B Edition and Marketo Engage run on separate systems, each with its own data store. Experience Platform is the primary data store and authoritative source for accounts, people, and opportunities. Journey Optimizer B2B Edition owns your account journeys, buying groups, and buying group roles.
 
-{width="500" modal="regular"}
+A dedicated Marketo Engage instance supports each Journey Optimizer B2B Edition subscription. This instance does not store your account journeys, audiences, or buying groups. Instead, it provides entitlements and backend services, such as email delivery, sender configuration, and branding domains.
+
+To support journey actions, you can also connect one or more of your existing Marketo Engage instances, including your production instance. Journey actions let marketers coordinate account-based journeys in Journey Optimizer B2B Edition with lead-based campaigns in Marketo Engage, such as adding people to a list or a request campaign. [Learn more about connecting Marketo Engage instances](/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/marketo-actions-connect).
+
+{modal="regular"}
 
 NOTE
 Check your license entitlements and the corresponding
 product description
-about performance guardrails and static limitations.
+for performance guardrails and static limitations.
 ### Subscription model
 
-A pair of Experience Platform (AEP) sandboxes with a Marketo Engage *Munchkin* subscription defines a Journey Optimizer B2B Edition subscription. It is not possible for a single Marketo Engage subscription to be paired with more than one AEP sandbox. If you do not choose to pair an existing Marketo Engage subscription with Journey Optimizer B2B Edition, you are provisioned with a new, empty Marketo Engage subscription for use with Journey Optimizer B2B Edition.
+An Experience Platform sandbox paired with a dedicated Marketo Engage instance defines a Journey Optimizer B2B Edition subscription. This dedicated instance is separate from your production Marketo Engage instance, and it exists to support entitlements and backend services rather than to store account journey data. [Learn more about setup](/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/setup-ultimate).
 
-Experience Platform provides a unified view into data from Marketo Engage instances and attached CRM systems to act on that data using an account journey.
+Experience Platform provides a unified view of data from your connected Marketo Engage instances and CRM systems. Use that unified data to build and run your journeys.
 
-### Account journey operations
+### Journey operations
 
-Account journeys are authored in Journey Optimizer B2B Edition, and stored in the Marketo Engage instance associated with the subscription. Although they are stored in the Marketo Engage data store, they are not visible from the Marketo Engage UI, and they are only ever usable in Journey Optimizer B2B Edition.
+Journey Optimizer B2B Edition creates, stores, and runs your account journeys. Account journeys do not appear in Marketo Engage, and they are only usable in Journey Optimizer B2B Edition.
 
-An account journey always starts with the selection of an account segment to use as the account audience for the journey. The selection of the audience uses the standard Experience Platform audience selector component. Marketers can then implement the account journey by splitting the journey paths according to their own criteria, which can include account criteria, people criteria, or buying group criteria. On each branch, actions can be taken to implement the journey, such as sending an email or waiting for an event to occur.
+A journey always starts with an audience that qualifies leads or accounts and their people for the journey. Select this audience using the standard Experience Platform audience selector. Marketers implement the journey by splitting paths using account criteria, people criteria, or buying group criteria. On each path, actions send communications or wait for an event to occur.
 
-After the account journey is created, it must be published. At publish time, the account journey is validated and converted into a series of Marketo Engage campaigns that implement the journey experience. Data Integration Services are contacted to start the data flow that, in turn, starts the account journey operations. The first step is to create the segments for the Account’s People.
+After you create an account journey, publish it to make the journey live. Qualifying accounts enter a published journey within 24 hours.
 
 ### Data flow
 
-Journey Optimizer B2B Edition uses the Real-Time CDP account segmentation for both defining and executing account segments and related account person segments required by journeys. As a published journey runs, data about the people and accounts can change, and data is collected on the people who interact with the journey. Journey Optimizer B2B Edition relies on the Marketo Engage source connector for Real-Time CDP B2B Edition to flow data changes back to the Experience Platform sandbox, which is the primary data source. This data is delivered to AEP in near real time.
+Journey Optimizer B2B Edition functions as an Adobe Real-Time CDP B2B Edition destination. Use Real-Time CDP account segmentation to build and evaluate the account audiences and people audiences that qualify accounts and people for a journey. When you publish a journey, Journey Optimizer B2B Edition activates the qualifying audiences from Experience Platform.
 
-Only the existing data types supported by the Marketo Engage source connector (accounts, people, and opportunities) flow back into Real-Time CDP. This means that buying group data does not flow to AEP and instead resides in the Marketo Engage instance used by the Journey Optimizer B2B Edition subscription.
+Buying groups, buying group roles, and buying group scores are created and stored in Journey Optimizer B2B Edition. [Learn more about buying groups](/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview).
 
 recommendation-more-help
 
@@ -1093,7 +1199,7 @@ title: "Adobe Journey Optimizer B2B Prime Documentation"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/guide-overview"
 category: "guides"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:24.069671+00:00"
+created_at: "2026-10-01T14:10:19.258595+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -1167,6 +1273,224 @@ recommendation-more-help
 
 
 ---
+# FILE: adobe-marketo-qualifier-2.md
+---
+
+---
+title: "Adobe Marketo Qualifier"
+url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/sales-qualifier"
+category: "other"
+topic: "prime/sales-qualifier"
+created_at: "2026-10-01T14:11:09.484558+00:00"
+---
+Breadcrumbs: Documentation > Adobe Marketo Qualifier
+
+# Adobe Marketo Qualifier
+
+Last update: September 23, 2026
+- Topics:
+- [Integrations](#)
+
+CREATED FOR:
+
+- User
+
+Adobe Marketo Qualifier is an AI-powered app that automates prospect qualification, outreach, and cross-channel buyer engagement for business development representatives (BDRs). The Account Qualification Agent analyzes your accounts and prospects, prioritizes those that are ready for the next step, and drafts personalized outreach based on your CRM data.
+
+The app is part of the Marketo product family, alongside Marketo Engage, Marketo Optimizer, and Marketo Measure. BDRs can use the browser and email plugins to access business intelligence directly within their CRM or Outlook.
+
+## What you can do in Marketo Qualifier
+
+- **Prioritize prospects and accounts** with AI-generated activity summaries and signal-based prioritization.
+- **Build goal-driven Outbound Workflows** in which AI proposes a cadence and drafts personalized emails for each prospect.
+- **Process outreach in one queue** for phone calls, LinkedIn InMails, and email reviews.
+- **Book meetings automatically** by connecting your calendar and inserting a personal booking link into your cadence.
+- **Inform AI outreach with your own materials** by building a playbook in the Knowledge Center.
+- **Ask questions in natural language** with AI Chat, which uses your CRM, engagement, and Knowledge Center data.
+- **Track outreach performance** with email and meeting-booking reports.
+
+https://video.tv.adobe.com/v/3476550?learn=on
+## Use the home page
+
+The home page provides a starting point for your daily work. First-time guidance and starter prompts help you open **AI Chat** and ask a question. Quick links take you directly to **Prospects**, **Outbound Workflows**, and **Tasks**.
+
+The home page also shows upcoming tasks and Outbound Workflows. In the task list, choose calendar tasks or agent-suggested tasks so that you can focus on the work that matters next.
+
+## Explore the guide
+
+Get started
+
+Complete the one-time administrator setup for user groups and a CRM connection.
+
+[Get started](/en/docs/marketo-qualifier/using/getting-started)
+
+Prospects
+
+Build, filter, and review your prospect list.
+
+[Prospects](/en/docs/marketo-qualifier/using/prospects)
+
+Accounts
+
+Prioritize outreach with account-level pipeline and engagement data.
+
+[Accounts](/en/docs/marketo-qualifier/using/accounts)
+
+Outbound Workflows
+
+Create goal-driven cadences with AI-generated, personalized emails.
+
+[Outbound Workflows](/en/docs/marketo-qualifier/using/outbound-workflows)
+
+Tasks
+
+Process phone call, LinkedIn InMail, and email review tasks in one queue.
+
+[Tasks](/en/docs/marketo-qualifier/using/tasks)
+
+Performance
+
+Review email and meeting-booking performance.
+
+[Outbound performance](/en/docs/marketo-qualifier/using/performance)
+
+Knowledge Center
+
+Build a playbook that grounds AI outreach and assistance in your materials.
+
+[Knowledge Center](/en/docs/marketo-qualifier/using/admin-settings#knowledge-center)
+
+Integrations
+
+Connect Salesforce or Microsoft Dynamics 365 and map your fields.
+
+[Integrations](/en/docs/marketo-qualifier/using/integrations)
+
+Profile settings
+
+Configure your email, signature, and calendar availability.
+
+[Profile settings](/en/docs/marketo-qualifier/using/profile-settings)
+
+AI Chat
+
+Ask questions based on your CRM, engagement, and Knowledge Center data.
+
+[AI Chat](/en/docs/marketo-qualifier/using/ai-assistant)
+
+recommendation-more-help
+
+
+---
+# FILE: adobe-marketo-qualifier.md
+---
+
+---
+title: "Adobe Marketo Qualifier"
+url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-agents/sales-qualifier"
+category: "other"
+topic: "user/ai-assistant/ai-agents/sales-qualifier"
+created_at: "2026-10-01T14:09:13.993088+00:00"
+---
+Breadcrumbs: Documentation > Adobe Marketo Qualifier
+
+# Adobe Marketo Qualifier
+
+Last update: September 23, 2026
+- Topics:
+- [Integrations](#)
+
+CREATED FOR:
+
+- User
+
+Adobe Marketo Qualifier is an AI-powered app that automates prospect qualification, outreach, and cross-channel buyer engagement for business development representatives (BDRs). The Account Qualification Agent analyzes your accounts and prospects, prioritizes those that are ready for the next step, and drafts personalized outreach based on your CRM data.
+
+The app is part of the Marketo product family, alongside Marketo Engage, Marketo Optimizer, and Marketo Measure. BDRs can use the browser and email plugins to access business intelligence directly within their CRM or Outlook.
+
+## What you can do in Marketo Qualifier
+
+- **Prioritize prospects and accounts** with AI-generated activity summaries and signal-based prioritization.
+- **Build goal-driven Outbound Workflows** in which AI proposes a cadence and drafts personalized emails for each prospect.
+- **Process outreach in one queue** for phone calls, LinkedIn InMails, and email reviews.
+- **Book meetings automatically** by connecting your calendar and inserting a personal booking link into your cadence.
+- **Inform AI outreach with your own materials** by building a playbook in the Knowledge Center.
+- **Ask questions in natural language** with AI Chat, which uses your CRM, engagement, and Knowledge Center data.
+- **Track outreach performance** with email and meeting-booking reports.
+
+https://video.tv.adobe.com/v/3476550?learn=on
+## Use the home page
+
+The home page provides a starting point for your daily work. First-time guidance and starter prompts help you open **AI Chat** and ask a question. Quick links take you directly to **Prospects**, **Outbound Workflows**, and **Tasks**.
+
+The home page also shows upcoming tasks and Outbound Workflows. In the task list, choose calendar tasks or agent-suggested tasks so that you can focus on the work that matters next.
+
+## Explore the guide
+
+Get started
+
+Complete the one-time administrator setup for user groups and a CRM connection.
+
+[Get started](/en/docs/marketo-qualifier/using/getting-started)
+
+Prospects
+
+Build, filter, and review your prospect list.
+
+[Prospects](/en/docs/marketo-qualifier/using/prospects)
+
+Accounts
+
+Prioritize outreach with account-level pipeline and engagement data.
+
+[Accounts](/en/docs/marketo-qualifier/using/accounts)
+
+Outbound Workflows
+
+Create goal-driven cadences with AI-generated, personalized emails.
+
+[Outbound Workflows](/en/docs/marketo-qualifier/using/outbound-workflows)
+
+Tasks
+
+Process phone call, LinkedIn InMail, and email review tasks in one queue.
+
+[Tasks](/en/docs/marketo-qualifier/using/tasks)
+
+Performance
+
+Review email and meeting-booking performance.
+
+[Outbound performance](/en/docs/marketo-qualifier/using/performance)
+
+Knowledge Center
+
+Build a playbook that grounds AI outreach and assistance in your materials.
+
+[Knowledge Center](/en/docs/marketo-qualifier/using/admin-settings#knowledge-center)
+
+Integrations
+
+Connect Salesforce or Microsoft Dynamics 365 and map your fields.
+
+[Integrations](/en/docs/marketo-qualifier/using/integrations)
+
+Profile settings
+
+Configure your email, signature, and calendar availability.
+
+[Profile settings](/en/docs/marketo-qualifier/using/profile-settings)
+
+AI Chat
+
+Ask questions based on your CRM, engagement, and Knowledge Center data.
+
+[AI Chat](/en/docs/marketo-qualifier/using/ai-assistant)
+
+recommendation-more-help
+
+
+---
 # FILE: adobe-target-external-audiences.md
 ---
 
@@ -1175,7 +1499,7 @@ title: "Adobe Target external audiences"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/audiences/target-external-audience"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:09.952351+00:00"
+created_at: "2026-10-01T14:09:32.935689+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -1260,7 +1584,7 @@ title: "Advanced HTML mode for email template design"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/email-templates/email-template-advanced-html"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:40.281403+00:00"
+created_at: "2026-10-01T14:09:52.292983+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -1303,449 +1627,6 @@ recommendation-more-help
 
 
 ---
-# FILE: ai-assistant-for-email-content.md
----
-
----
-title: "AI Assistant for email content"
-url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/ai-assistant-emails"
-category: "other"
-topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:58.018724+00:00"
----
-Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
-
-# AI Assistant for email content
-
-Last update: August 17, 2026
-- Topics:
-- [AI Assistant](#)
-- [Content management](#)
-- [Communication channels](#)
-
-CREATED FOR:
-
-- Intermediate
-- User
-
-As the Marketing industry becomes more competitive, brands are seeking efficient ways to generate impactful content quickly and efficiently. AI Assistant for email authoring in Adobe Journey Optimizer B2B Edition is Adobe’s AI-powered content generation capability that revolutionizes the way marketers create professional and brand-consistent email content. With advanced generative AI models and deep understanding of brand guidelines, AI Assistant auto-generates personalized, engaging, and effective content. It uses your marketing objective and optimizes the content for brand outlined styles, layouts, tone, and more. AI Assistant makes the creation and execution of email marketing campaigns intuitive, simple, and efficient. Adding this capability to your workflows can save you time, improve efficiency, and drive better results.
-
-This new capability provides a prompt-based content generation for full email generation or targeted within email structural components. For images, you can generate new image assets or generate recommendations from within the catalog of images in the input brand asset. You can also use this capability to generate optimal subject lines and preheaders to impact the email open rate.
-
-PREREQUISITES
-To access these features in Adobe Journey Optimizer B2B Edition, you must have the
-AI Assistant
->
-Generate Content
-permission. For more information about how a product administrator can grant feature permissions, see
-Edit roles for product permissions
-.
-## Guidelines and limitations
-
-Before you start using this capability, review the [guidelines and limitations](/en/docs/journey-optimizer-b2b/user/ai-assistant/generative-ai-content#general-guidelines-and-limitations). [User agreement](https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html#_blank) acceptance is also required before you can use AI capabilities in Journey Optimizer B2B Edition. For more information, contact your Adobe representative.
-
-Adobe applies [content credentials](https://helpx.adobe.com/firefly/web/get-started/learn-the-basics/content-credentials-overview.html#_blank) to Firefly-generated assets upon download or export to promote transparency.
-
-The following limitations and guidelines apply to AI Assistant features used for email content generation in Journey Optimizer B2B Edition:
-
-- English is the only supported language.
-- Generated content might not be accurate — share your feedback so that Adobe engineers can refine the models.
-- You can upload multiple content reference assets, but can leverage only one for a specific generation.
-- Use a brand specific or custom template for generating content for a full email. Email templates with up to 8-10 images are recommended.
-- Make sure to report any problematic outputs using the thumb up, thumb down, or flag icons when selecting generated variants.
-
-## Input and settings for content generation
-
-You can generate full content for an email, or for selected components in the email. When you use the AI Assistant tools, you provide prompts, reference content, and settings for text and images.
-
-### Prompts
-
-Use well-defined prompts for the generative AI model to interpret with accuracy. The marketing objective/prompt you provide impacts the quality of the generated content.
-
-{width="320"}
-
-For more information about creating effective prompts, see *Prompt best practices*.
-
-#### Prompt Library
-
-An effective prompt is essential for generating the best possible content. If you want assistance with crafting your prompt, click the *Prompt library* icon to access a library of prompt ideas that are organized according to objectives. Enter text in the search field to find a prompt based on a keyword string.
-
-{width="600" modal="regular"}
-
-Select the prompt that best reflects your intended goals and click **Try this Prompt**. In the *Prompt* field, replace any placeholders (such as [Key Feature/Information]) with values specifying your brand, offering, campaign, and use cases.
-
-style
-shade-box
-### Text settings
-
-Expand the **Text settings** in the right panel and set the options for generated text.
-
-- Buying group - Choose the buying group role to use for targeting your messaging. Journey Optimizer B2B Edition offers five standard B2B buying group roles pre-configured. Each buying group role has a distinct messaging focus: table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 Role Messaging focus Executive Steering Committee Product information Pricing Technical integration details Product features and functions Influencer Proof of quality Ease of implementation Subject matter expertise Competitive advantages Decision maker Return on investment Financial value (RoI) Customer stories Practitioner Ease of use Product features and functionality Product compatibility Ease of product integration Champion Educational content Thought leadership content Customer stories
-- Marketing journey stage - Choose the buying group stage to use for targeting the messaging.
-- Communication strategy - Choose the most suitable communication style for your generated text.
-- Language - Choose the language of your generated content.
-- Tone - The tone that resonates with your audience. For example, you can adjust the message to sound informative, playful, or persuasive.
-
-{width="350" modal="regular"}
-
-Click the left arrow to return to the main *Settings*.
-
-### Image settings
-
-To include images in your generated content, expand the **Image settings** in the right panel and set the options.
-
-The system disables the **Generate images using AI** option by default. Enable this feature and set the following options to include generated images in the proposed content variations:
-
-- **Generative model**: Select from the ready-to-use Adobe-provided model, the partner model for specialized capabilities, or configured custom models trained on your brand assets. For more information about generative models, see *Generative AI models for brand alignment*.
-- **Aspect ratio**: When an image component is selected, this setting determines the width and height of the asset. Choose from common ratios such as 16:9, 4:3, 3:2, or 1:1, or enter a custom ratio.
-- **Content type**: The type categorizes the nature of the visual element, distinguishing between different forms of visual representation, such as photos, graphics, or art.
-- **Visual intensity**: Control the image’s impact by adjusting its intensity. A lower setting (such as 2) creates a softer, more restrained appearance, while a higher setting (such as 10) makes the image more vibrant and visually powerful.
-- **Color and tone**: The overall appearance of the colors within an image and the mood or atmosphere it conveys.
-- **Lighting**: The lighting style used for the image, which shapes its atmosphere and highlights specific elements.
-- **Composition**: The arrangement of elements within the frame of an image.
-
-{width="350" modal="regular"}
-
-Click the left arrow to return to the main *Settings*.
-
-### Reference content
-
-Upload reference content assets to generate accurate, on-brand content. Otherwise, generated content is based on publicly available information. Reference content serves as the source for content generation and image recommendations. For guidelines and best practices, see *Optimized reference content*.
-
-From the **Reference content** settings, click **Upload file** to add any asset that contains content you want to use for additional context.
-
-{width="350" modal="regular"}
-
-The file to upload can be in the following formats: PDF, JPEG, PNG, or ZIP files (containing supported file formats). The maximum size for an uploaded brand asset is 50MB. Larger files or a large number of images can work, but this increases the processing time.
-
-If you want to select a previously uploaded file, expand the **Uploaded reference content** list and enable the asset that you want to use for your content generation.
-
-{width="350" modal="regular"}
-
-## Generate email properties with AI Assistant
-
-When you [add an email action](/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/add-email#add-an-email-action-node-in-a-journey) to an account journey, you define a set of email properties that are used for sending the email. AI Assistant can help achieve better email engagement by generating recommended content for the email *subject line* and *preheader*.
-
-When you create an email from a journey or open an existing email from a journey node, the email preview page is displayed with the *Email properties* on the right. In the *Summary* tab, you can use the AI Assistant content generation tools to generate a subject line, preheader, or both.
-
-Subject line generation
-The following steps describe the task sequence for using AI Assistant to generate an optimized subject line for your email:
-
-- In the Summary panel with the Details tab selected, scroll down to the Subject line field.
-- Click the AI Assistant icon ( {width="30"} ) at the right of the field. {width="600" modal="regular"} The Generate Subject Line dialog opens with the generation settings for the email subject line.
-- (Required) In the Prompt field, enter a description of what you want to generate. Use the Prompt Library if you need some help with crafting an effective prompt.
-- (Optional) To provide additional input for generating the preheader, complete the content guidance settings: Text settings - Provide guidance for the generated text content. Reference content - Provide the content asset that serves as the source for content generation.
-- When your prompt and settings are ready, click Generate . The generated variants are displayed in the dialog. {width="600" modal="regular"}
-- Scroll the AI Assistant panel and browse through the generated variations to determine which one is the best fit. You can submit feedback for a generated variant by clicking the Thumbs Up , Thumbs Down , or Flag icon and choosing the reason that best summarizes your feedback.
-- Click the Refine option to access additional customization features: Rephrase - Rewrite the message while preserving its meaning. This option helps you generate alternative wording or adjust phrasing without changing the core message. Use simpler language - Simplify the language, ensuring clarity and accessibility for a wider audience. Translate - Translate the text to another language. (Currently, English is the only supported language. Other languages are planned for future releases.) Change tone - Adjust the tone of the message to align with your communication style, such as making it more friendly, professional, urgent, or inspirational. Change Communication strategy - Modify the messaging approach based on your objectives, such as creating urgency, or emphasizing exciting appeal. {width="600" modal="regular"}
-- Click Select to replace the subject line text with the selected variant and return to the email properties.
-
-Preheader generation
-An email preheader is the short summary text that follows the subject line when an email is viewed in the inbox. It is an optional element for an email, but an effective opportunity to improve engagement. The following steps describe the task sequence for using AI Assistant to generate an optimized preheader for your email:
-
-- In the Summary panel with the Details tab selected, scroll down and select the Preheader checkbox. {width="600" modal="regular"} The Generate Preheader dialog opens with the generation settings for the email preheader.
-- (Required) In the Prompt field, enter a description of what you want to generate. Use the Prompt Library if you need some help with crafting an effective prompt.
-- (Optional) To provide additional input for generating the preheader, complete the content guidance settings: Text settings - Provide guidance for the generated text content. Reference content - Provide the content asset that serves as the source for content generation.
-- When your prompt and settings are ready, click Generate . The generated variants are displayed in the dialog. {width="600" modal="regular"}
-- Scroll the AI Assistant panel and browse through the generated variations to determine which one is the best fit. You can submit feedback for a generated variant by clicking the Thumbs Up , Thumbs Down , or Flag icon and choosing the reason that best summarizes your feedback.
-- Click the Refine option to access additional customization features: Rephrase - Rewrite the message while preserving its meaning. This option helps you generate alternative wording or adjust phrasing without changing the core message. Use simpler language - Simplify the language, ensuring clarity and accessibility for a wider audience. Translate - Translate the text to another language. (Currently, English is the only supported language. Other languages are planned for future releases.) Change tone - Adjust the tone of the message to align with your communication style, such as making it more friendly, professional, urgent, or inspirational. Change Communication strategy - Modify the messaging approach based on your objectives, such as creating urgency, or emphasizing exciting appeal. {width="500" modal="regular"}
-- Click Select to replace the preheader with the selected variant and return to the email properties.
-
-## Generate email body content with AI Assistant generative-ai-email-design
-
-After you [create and personalize your email](/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-authoring), use AI Assistant in Journey Optimizer B2B Edition, powered by generative AI to improve your email body content.
-
-In the email design space, AI Assistant can help you optimize the impact of your deliveries by generating the full email body, targeted text content, and images that resonate with your audience. This optimization of your email campaigns is designed to produce better engagement. Select the *AI Assistant* ( {width="25" modal="regular"} ) to display the content generation tools that are available for the current content selection.
-
-{width="600" modal="regular"}
-
-Use the following steps according to the type of email content generation that you want to use:
-
-Full email generation
-To use AI Assistant for full email generation by refining an existing email template, follow these steps:
-
-- After creating the email , click Edit email content .
-- Select a template. Full content generation requires a template. It can be a standard template provided by Adobe, or a saved template. You can also use the Import HTML option to import a template. For more information about using an email template, see Select a template .
-- In the email design space, access the AI Assistant menu by clicking the icon ( {width="25"} ) at the right. The AI Assistant settings on the right reflect Generate Email . {width="600" modal="regular"}
-- Select your Brand to ensure that the AI-generated content aligns with your brand specifications. If there are no published brands, click Create a brand to define your reusable brand guidelines .
-- In the Prompt field, enter a description of what you want to generate. Use the Prompt Library if you need some help with crafting an effective prompt. note tip TIP If you are new to prompting for generated content, review the Prompting best practices .
-- To tailor the generated content, complete the content guidance settings: Text settings - Provide guidance for the generated text content. Image settings - If you want to include images in the generated content, enable image generation and provide guidance. Reference content - Provide the content asset that serves as the source for content generation.
-- When your prompt and settings are ready, click Generate . The generated variations are displayed in the right panel.
-- Browse through the generated variations or click the Full screen ( ) icon to open the Generate Email dialog. The dialog provides additional space to compare the variations, adjust your text and reference content settings (if needed), and to regenerate the variations. You can also fine-tune a variation by applying refinement actions and submit feedback for the generated variations. See Preview and content refinement for more details about variation refinement and feedback. {width="700" modal="regular"}
-- Click Select to replace the template contents with the selected variant and return to the email design space. You can use the editing and formatting tools on the canvas to alter the generated content, as well as the Settings and Style options on the right.
-
-Text only
-To use AI Assistant to refine or enhance the text content for an existing email, follow these steps:
-
-- In the email design space, select a Text component to target the specific content.
-- On the outer rail of the right panel, select the AI Assistant ( {width="25"} ) icon. The settings on the right reflect the content generation settings for the text component.
-- Select your Brand to ensure that the AI-generated content aligns with your brand specifications. If there are no published brands, click Create a brand to define your reusable brand guidelines .
-- In the Prompt field, enter a description of what you want to generate. {width="600" modal="regular"} Use the Prompt Library if you need some help with crafting an effective prompt.
-- To tailor the generated content, complete the content guidance settings: Text settings - Provide guidance for the generated text content. Reference content - Provide the content assets that serve as the source for content generation.
-- When your prompt and settings are ready, click Generate .
-- Browse through the generated variations or click the Full screen ( ) icon to open the Generate Text dialog. The dialog provides additional space to compare the variations, adjust your text and reference content settings (if needed), and to regenerate the variations. You can also fine-tune a variation by applying refinement actions and submit feedback for the generated variations. See Preview and content refinement for more details about variation refinement and feedback. {width="700" modal="regular"}
-- When you have the content that you want, click Select to replace the text with the selected variant and return to the email design space. You can use the editing and formatting tools on the canvas to alter the text, as well as the Settings and Style options on the right.
-
-Image only
-To use AI Assistant to refine or enhance the image content for an existing email, follow these steps:
-
-- In the email design space, select an Image component to target the specific content.
-- On the outer rail of the right panel, select the AI Assistant ( {width="25"} ) icon. The AI Assistant settings on the right reflect the generation settings for the image component.
-- Select your Brand to ensure that the AI-generated content aligns with your brand specifications. If there are no published brands, click Create a brand to define your reusable brand guidelines .
-- Enter a description of what you want in the Prompt field. {width="600" modal="regular"} Use the Prompt Library if you need some help with crafting an effective prompt.
-- To tailor the generated content, complete the content guidance settings: Image settings - If you want to include images in the generated content, enable image generation and use the guidance settings. Reference content - Provide the content assets that serve as the source for content generation.
-- When you are satisfied with your prompt and settings, click Generate . AI Assistant processes the request and generates best suited images based on the prompt and other inputs. note important IMPORTANT If there are no images in the reference content or there are no images relevant to the input prompt, the output is empty.
-- Browse through the generated variations or click the Full screen ( ) icon to open the Generate Image dialog. The dialog provides additional space to compare the variations, adjust your image and reference content settings (if needed), and to regenerate the variations. You can select a variation and click Generate Similar to generate additional images that are similar to the selected variant. Or, click Edit in Adobe Express to make your own changes to the image. See Quick actions in Adobe Express for more information about using Adobe Express to refine your images. {width="700" modal="regular"} You can also submit feedback for the generated variations.
-- Highlight the image that you want and click Select to replace the image or placeholder with the selected item and return to the email design space. You can use the editing and formatting tools on the canvas to alter the image, as well as the Settings and Style options on the right.
-
-## Preview and refine the content refine-finalize
-
-After generating content variations, you can fine-tune the results to ensure that they meet your exact requirements. Review the brand alignment, adjust tone and language, and prepare the content for a reviewable draft. You can also submit feedback for a variation to help train AI Assistant and improve future output.
-
-### Open the full screen view
-
-- After the initial content generation, browse through the Variations .
-- Identify the variation that is the best match for your goals and click the Full screen ( ) icon to view the selected variation in more depth. {width="700" modal="regular"}
-- When you are satisfied with the selected variation, click Select to apply it to your canvas.
-
-### Refine a variation
-
-Click the **Refine** option to access additional customization features for email and text variations:
-
-- Elaborate - AI Assistant can help you expand on specific topics, providing additional details for better understanding and engagement.
-- Summarize - Lengthy information can overload readers. Use AI Assistant to condense key points into clear, concise summaries that grab attention and encourage them to read further.
-- Rephrase - Rewrite the message while preserving its meaning. This option helps you generate alternative wording, improve flow, or adjust phrasing without changing the core message.
-- Use simpler language - Simplify the language, ensuring clarity and accessibility for a wider audience.
-- Translate - Translate the text to another language. (Currently, English is the only supported language. Other languages are planned for future releases.)
-- Change tone - Adjust the tone of the message to align with your communication style, such as making it more friendly, professional, urgent, or inspirational.
-- Change Communication strategy - Modify the messaging approach based on your objectives, such as creating urgency, or emphasizing exciting appeal.
-
-{width="700" modal="regular"}
-
-### Submit variation feedback
-
-Provide feedback for the generated variants by clicking the *Thumbs Up*, *Thumbs Down*, or *Flag* icon and choosing the reason that best summarizes your feedback.
-
-{width="700" modal="regular"}
-
-### Check your brand alignment (Beta)
-
-The brand alignment evaluation and scoring help you to ensure consistency in tone, messaging, and visual identity across your email campaigns, while also serving as a quality check before your content goes live. When the email content is complete, click the *Brand alignment* ( ) icon on the right to open the *Brand alignment* right panel in the email design space.
-
-{width="600" modal="regular"}
-
-For detailed information, see *Brand alignment score*
-
-recommendation-more-help
-
-
----
-# FILE: ai-assistant-for-landing-page-content-generative-full-content.md
----
-
----
-title: "AI Assistant for landing page content generative-full-content"
-url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/ai-assistant-landing-pages"
-category: "other"
-topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:51.804618+00:00"
----
-Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
-
-# AI Assistant for landing page content generative-full-content
-
-Last update: August 4, 2026
-- Topics:
-- [AI Assistant](#)
-- [Generative AI](#)
-- [Content management](#)
-
-CREATED FOR:
-
-- Intermediate
-- User
-
-AI Assistant for landing page content in Adobe Journey Optimizer B2B Edition uses Adobe’s AI-powered content generation capabilities and revolutionizes the way marketers create professional and brand-consistent landing page content. With advanced generative AI models and deep understanding of brand guidelines, AI Assistant auto-generates personalized, engaging, and effective content. It uses your marketing objective and optimizes the content for brand outlined styles, layouts, tone, and more. AI Assistant makes campaign and program creation and execution more intuitive, simple, and efficient. Adding this capability to your workflows can save you time, improve efficiency, and drive better results.
-
-You can generate complete content experiences for your landing pages, including both text and images. This robust functionality helps you create compelling, on-brand content that connects with your audience.
-
-NOTE
-This capability is available in its Beta version and subject to change without prior notice.
-IMPORTANT
-To access these features in Journey Optimizer B2B Edition, you must have the
-AI Assistant
->
-Generate Content
-permission. For more information about how a product administrator can grant feature permissions, see
-Edit roles for product permissions
-.
-## Guidelines and limitations
-
-Before you start using this capability, review the [guidelines and limitations](/en/docs/journey-optimizer-b2b/user/ai-assistant/generative-ai-content#general-guidelines-and-limitations). [User agreement](https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html#_blank) acceptance is also required before you can use AI capabilities in Journey Optimizer B2B Edition. For more information, contact your Adobe representative.
-
-To promote transparency in generative AI, Adobe applies [content credentials](https://helpx.adobe.com/firefly/web/get-started/learn-the-basics/content-credentials-overview.html#_blank) to Firefly-generated assets upon download or export.
-
-The following limitations and guidelines apply to AI Assistant features used for landing page content generation in Journey Optimizer B2B Edition:
-
-- English is the only supported language.
-- Generated content might not be accurate — share your feedback so that Adobe engineers can refine the models.
-- You can upload multiple content reference assets, but can leverage only one for a specific generation.
-- Use a brand specific or custom template for generating content for a full landing page. Landing page templates with up to 8-10 images are recommended.
-- Make sure to report any problematic outputs using the thumb up, thumb down, or flag icons when selecting generated variants.
-
-## Input and settings for content generation
-
-You can generate full content for a landing page, or for selected components in the page. When using AI Assistant, provide input, prompts, reference content, and settings for text and images.
-
-### Prompts
-
-Use well-defined prompts for the generative AI model to interpret with accuracy. The marketing objective/prompt you provide impacts the quality of the generated content.
-
-{width="320"}
-
-For more information about creating effective prompts, see *Prompt best practices*.
-
-**Prompt Library**
-
-An effective prompt is essential for generating the best possible content. If you want assistance with crafting your prompt, click the *Prompt library* icon to access a library of prompt ideas that are organized according to objectives. Enter text in the search field to find a prompt based on a keyword string.
-
-{width="600" modal="regular"}
-
-Select the prompt that best reflects your intended goals and click **Try this Prompt**. In the *Prompt* field, replace placeholders (such as [Key Feature/Information]) with your brand, offering, campaign, and use case details.
-
-style
-shade-box
-### Text settings
-
-Expand the **Text settings** in the right panel and set the options for generated text.
-
-- **Buying group** - Choose the [buying group role](/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) to use for targeting your messaging.
-- **Marketing journey stage** - Choose the [buying group stage](/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-group-stages) to use for targeting the messaging.
-- **Communication strategy** - Choose the most suitable communication style for your generated text.
-- **Language** - Choose the language of your generated content.
-- **Tone** - The tone that resonates with your audience. For example, you can adjust the message to sound informative, playful, or persuasive.
-
-{width="350" modal="regular"}
-
-Click the left arrow to return to the main *Settings*.
-
-### Image settings
-
-To include images in your generated content, expand the **Image settings** in the right panel and set the options.
-
-The system disables the **Generate images using AI** option by default. Enable this feature and set the following options to include generated images in the proposed content variations:
-
-- **Generative model**: Select from the ready-to-use Adobe-provided model, the partner model for specialized capabilities, or configured custom models trained on your brand assets. For more information about generative models, see *Generative AI models for brand alignment*.
-- **Aspect ratio**: When an image component is selected, this setting determines the width and height of the asset. Choose from common ratios like 16:9, 4:3, 3:2, or 1:1, or enter a custom size.
-- **Content type**: The type categorizes the nature of the visual element, distinguishing between different forms of visual representation, such as photos, graphics, or art.
-- **Visual intensity**: Control the image’s impact by adjusting its intensity. A lower setting (such as 2) creates a softer, more restrained appearance, while a higher setting (such as 10) makes the image more vibrant and visually powerful.
-- **Color and tone**: The overall appearance of the colors within an image and the mood or atmosphere it conveys.
-- **Lighting**: The lighting style used for the image, which shapes its atmosphere and highlights specific elements.
-- **Composition**: The arrangement of elements within the frame of an image.
-
-{width="350" modal="regular"}
-
-Click the left arrow to return to the main *Settings*.
-
-### Reference content
-
-Upload reference content assets to generate accurate, on-brand content. Otherwise, generated content is based on publicly available information. Reference content serves as the source for content generation and image recommendations. For guidelines and best practices, see *Optimized reference content*.
-
-From the **Reference content** settings, click **Upload file** to add any asset that contains content you want to use for additional context.
-
-{width="350" modal="regular"}
-
-The file to upload can be in the following formats: PDF, JPEG, PNG, or ZIP files (containing supported file formats). The maximum size for an uploaded brand asset is 50MB. Larger files or a large number of images can work, but this increases the processing time.
-
-If you want to select a previously uploaded file, expand the **Uploaded reference content** list and enable the asset that you want to use for your content generation.
-
-{width="350" modal="regular"}
-
-## Use the generative AI tools gen-ai-tools
-
-To begin generating your content, open the content editor for the landing page and access the generative AI tools on the outer rail of the right panel. Select the *AI Assistant* ( {width="25" modal="regular"} ) to display the content generation tools that are available for the current content selection.
-
-Use the following steps according to the type of landing page content generation that you want to use:
-
-Full page
-To generate a full landing page by refining an existing template, follow these steps:
-
-- After creating the landing page , click Edit landing page .
-- Select a template. Full content generation requires a template. It can be a standard template provided by Adobe, or a saved template. You can also use the Import HTML option to import a template. For more information about using a landing page template, see Select a template .
-- On the outer rail of the right panel, select the AI Assistant ( {width="25" modal="regular"} ) icon. {width="600" modal="regular"} The AI Assistant settings on the right reflect the generation settings for the full landing page.
-- (Beta) Select your Brand to ensure that the AI-generated content aligns with your brand specifications. If there are no published brands, click Create a brand to define your reusable brand guidelines .
-- In the Prompt field, enter a description of what you want to generate. Use the Prompt Library if you need some help with crafting an effective prompt. {width="600" modal="regular"} note tip TIP If you are new to prompting for generated content, review the Prompting best practices .
-- To tailor the generated content, complete the content guidance settings: Text settings - Provide guidance for the generated text content. Image settings - If you want to include images in the generated content, enable image generation and provide guidance. Reference content - Provide the content asset that serves as the source for content generation.
-- When your prompt and settings are ready, click Generate .
-- Scroll down in the AI Assistant panel and browse through the generated variations to determine which one is the most suitable. Click the Full screen ( ) icon to open the Generate Landing Page dialog If needed, use the refinement actions to fine-tune the variation to ensure that it meets your exact requirements. Submit feedback for the generated variants by clicking the Thumbs Up , Thumbs Down , or Flag icon and choose the reason that best summarizes your feedback.
-- Click Select to replace the template contents with the selected variant and return to the landing page design space. You can use the editing and formatting tools on the canvas to alter the generated content, as well as the Settings and Style options on the right.
-
-Text only
-To refine or enhance text content for an existing landing page, follow these steps:
-
-- In the landing page design space, select a Text component to target the specific content.
-- On the outer rail of the right panel, select the AI Assistant ( {width="25" modal="regular"} ) icon. {width="600" modal="regular"} The settings on the right reflect the content generation settings for the text component.
-- (Beta) Select your Brand to ensure that the AI-generated content aligns with your brand specifications. If there are no published brands, click Create a brand to define your reusable brand guidelines .
-- In the Prompt field, enter a description of what you want to generate. {width="600" modal="regular"} Use the Prompt Library if you need some help with crafting an effective prompt.
-- To tailor the generated content, complete the content guidance settings: Text settings - Provide guidance for the generated text content. Reference content - Provide the content assets that serve as the source for content generation.
-- When your prompt and settings are ready, click Generate .
-- Scroll down in the AI Assistant panel and browse through the generated variations to determine which one is the best fit. Click the Full screen ( ) icon to open the Generate Text dialog If needed, use the refinement actions to fine-tune the variation to ensure that it meets your exact requirements. Submit feedback for the generated variants by clicking the Thumbs Up , Thumbs Down , or Flag icon and choose the reason that best summarizes your feedback.
-- When you have the content that you want, click Select to replace the text with the selected variant and return to the landing page design space. You can use the editing and formatting tools on the canvas to alter the text, as well as the Settings and Style options on the right.
-
-Image only
-To refine or enhance image content for an existing landing page, follow these steps:
-
-- In the landing page design space, select an Image component to target the specific content.
-- On the outer rail of the right panel, select the AI Assistant ( {width="25" modal="regular"} ) icon. {width="600" modal="regular"} The AI Assistant settings on the right reflect the generation settings for the image component.
-- (Beta) Select your Brand to ensure that the AI-generated content aligns with your brand specifications. If there are no published brands, click Create a brand to define your reusable brand guidelines .
-- Enter a description of what you want in the Prompt field. {width="600" modal="regular"} Use the Prompt Library if you need some help with crafting an effective prompt.
-- To tailor the generated content, complete the content guidance settings: Image settings - If you want to include images in the generated content, enable image generation and provide guidance. Reference content - Provide the content assets that serve as the source for content generation.
-- When you are satisfied with your prompt and settings, click Generate . AI Assistant processes the request and generates best suited images based on the prompt and other inputs. note important IMPORTANT If there are no images in the reference content or there are no images relevant to the input prompt, the output is empty.
-- Browse through the generated variations or click the Full screen ( ) icon to open the Generate Image dialog. The dialog provides additional space to compare the variations, adjust your image and reference content settings (if needed), and to regenerate the variations. You can select a variation and click Generate Similar to generate additional images that are similar to the selected variant. Or, click Edit in Adobe Express to make your own changes to the image. See Quick actions in Adobe Express for more information about using Adobe Express to refine your images. {width="700" modal="regular"} You can also submit feedback for the generated variations.
-- Highlight the image that you want and click Select to replace the image or placeholder with the selected item and return to the landing page design space. You can use the editing and formatting tools on the canvas to alter the image, as well as the Settings and Style options on the right.
-
-## Preview and content refinement refine-finalize
-
-After generating content variations, you can fine-tune the results to ensure that they meet your exact requirements. Review the brand alignment, adjust tone and language, and prepare the content for a reviewable draft. You can also submit feedback for a variation to help train AI Assistant and improve future output.
-
-### Open the full screen view
-
-- After the initial content generation, browse through the Variations .
-- Identify the variation that is the best match for your goals and click the Full screen ( ) icon to open the dialog. {width="700" modal="regular"}
-- When you are satisfied with the selected variation, click Select to apply it to your canvas.
-
-### Refine a variation
-
-Click the **Refine** option to access additional customization features for landing page and text variations:
-
-- Elaborate - AI Assistant can help you expand on specific topics, providing additional details for better understanding and engagement.
-- Summarize - Lengthy information can overload page viewers. Use AI Assistant to condense key points into clear, concise summaries that attract attention and encourage recipients to read further.
-- Rephrase - Rewrite the message while preserving its meaning. This option helps you generate alternative wording, improve flow, or adjust phrasing without changing the core message.
-- Use simpler language - Simplify the language, ensuring clarity and accessibility for a wider audience.
-- Translate - Translate the text to another language. (Currently, English is the only supported language.)
-- Change tone - Adjust the tone of the message to align with your communication style, such as making it more friendly, professional, urgent, or inspirational.
-- Change Communication strategy - Modify the messaging approach based on your objectives, such as creating urgency, or emphasizing exciting appeal.
-
-{width="700" modal="regular"}
-
-### Submit variation feedback
-
-Provide feedback for the generated variants by clicking the *Thumbs Up*, *Thumbs Down*, or *Flag* icon and choose the reason that best summarizes your feedback.
-
-{width="700" modal="regular"}
-
-### Check your brand alignment (Beta)
-
-The brand alignment evaluation and scoring help you to ensure consistency in tone, messaging, and visual identity across your campaigns, while also serving as a quality check before your content goes live. When the landing page content is complete, click the *Brand alignment* ( ) icon on the right to open the *Brand alignment* right panel in the landing page design space.
-
-{width="600" modal="regular"}
-
-For detailed information, see *Brand alignment score*
-
-recommendation-more-help
-
-
----
 # FILE: ai-assistant-skills.md
 ---
 
@@ -1754,7 +1635,7 @@ title: "AI Assistant skills"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/ai-assistant/skills"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:29.563596+00:00"
+created_at: "2026-10-01T14:10:24.566295+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -1998,13 +1879,13 @@ title: "AI capabilities in Journey Optimizer B2B Edition"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-assistant-overview"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:32.240232+00:00"
+created_at: "2026-10-01T14:09:09.218334+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # AI capabilities in Journey Optimizer B2B Edition
 
-Last update: August 26, 2026
+Last update: September 11, 2026
 - Topics:
 - [AI Assistant](#)
 
@@ -2254,7 +2135,7 @@ title: "Assets"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/assets/digital-asset-management"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:21:30.040083+00:00"
+created_at: "2026-10-01T14:11:21.433146+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -2355,13 +2236,13 @@ title: "Assets"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/assets/assets-overview"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:33.700993+00:00"
+created_at: "2026-10-01T14:09:48.437135+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Assets
 
-Last update: June 13, 2026
+Last update: September 2, 2026
 - Topics:
 - [Content management](#)
 
@@ -2380,7 +2261,7 @@ If you are provisioned with Adobe Experience Manager as a Cloud Services and it 
 
 ### Internal assets
 
-The internal assets repository is provided by default with every Journey Optimizer B2B Edition subscription. This means that you have access to any of the image assets stored in the connected Adobe Marketo Engage asset file system. You can use this repository as your local assets library, including upload and download assets functions. You can also use these assets within your journey content.
+The internal assets repository is provided by default with every Journey Optimizer B2B Edition subscription. You can use this repository as your local assets library, including upload and download assets functions. You can also use these assets within your journey content.
 
 You can [edit these assets using Adobe Express](/en/docs/journey-optimizer-b2b/user/content-management/assets/internal-dam/image-edit-adobe-express), and move them into folders to organize them for use across your emails, templates, and fragments.
 
@@ -2456,7 +2337,7 @@ title: "Audience Agent B2B"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-agents/audience-agent-b2b"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:36.745941+00:00"
+created_at: "2026-10-01T14:09:12.194290+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -2817,7 +2698,7 @@ title: "Author from a governed template"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-authoring-governance"
 category: "guides"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:00.877795+00:00"
+created_at: "2026-10-01T14:09:26.768285+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -2868,7 +2749,7 @@ title: "B2B Namespaces and schemas"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/namespaces-schemas"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:23.327286+00:00"
+created_at: "2026-10-01T14:09:03.605183+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -3046,7 +2927,7 @@ title: "Build and publish a journey"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/create-publish-journey"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:40.645418+00:00"
+created_at: "2026-10-01T14:09:15.118333+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -3167,7 +3048,7 @@ title: "Business rules business-rules"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/admin/business-rules"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:19:17.970780+00:00"
+created_at: "2026-10-01T14:11:07.894102+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -3345,7 +3226,7 @@ title: "Buying group details"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/sales-experience/buying-group-details"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:27.420759+00:00"
+created_at: "2026-10-01T14:09:44.075313+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -3489,57 +3370,6 @@ recommendation-more-help
 
 
 ---
-# FILE: buying-group-filters-in-marketo-engage.md
----
-
----
-title: "Buying group filters in Marketo Engage"
-url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/marketo-engage-smart-list-buying-group-filters"
-category: "other"
-topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:22.541530+00:00"
----
-Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
-
-# Buying group filters in Marketo Engage
-
-Last update: June 13, 2026
-- Topics:
-- [Buying Groups](#)
-- [Integrations](#)
-
-CREATED FOR:
-
-- Intermediate
-- User
-
-IMPORTANT
-Feature deprecation
-In Journey Optimizer B2B Edition, the buying group filters are no longer available in a connected Marketo Engage instance.
-As an alternative, you can create a static list for each solution interest and then
-use the
-Add to Marketo list
-action
-from a journey node. This action adds buying group members to a particular static list in a connected Marketo Engage instance. Then, use the solution interest-focused static list for a smart list filter.
-As a marketer, you might want to suppress campaigns in Marketo Engage for people that are part of buying groups in Journey Optimizer B2B Edition. You can also inform the lead scoring workflows in Marketo Engage using information about the leads associated with buying groups. For example:
-
-- Is this lead part of a buying group?
-- Is the buying group complete and engaged?
-
-If these conditions are true, you might choose to score the lead the higher. If not, you might choose not to mark it as a marketing-qualified lead (MQL).
-
-In your Marketo Engage instance that is connected to Journey Optimizer B2B Edition, you can use the *Member of Buying Group* filter in your Smart Lists to identify these leads according to your campaign strategy.
-
-- After you create a Smart List in Marketo Engage , select the Smart List tab to open the filter editor.
-- In the filters list on the right, scroll down the list and expand the Special Filters folder.
-- Click the Member of Buying Group filter and drag it onto the filter definition area. {width="700" modal="regular"}
-- Set the Member of Buying Group option to true or false . This constraint is required for the definition.
-- (Optional) Add other buying group-related constraints to the filter according to how you want to identify leads for the Smart List. Click Add Constraint at the top right of the filter card. {width="700" modal="regular"} Select the constraint that you want to add, such as Completeness Score or Solution Interest . Set the evaluation that you want to use for a match. For a score, you can use an exact match, or a range that is above or below the number you enter. To exclude members who were removed from a buying group, use the Is Removed constraint set to false . You can also explicitly include removed members in the smart list by setting this constraint to true . For a discrete item, such as the solution interests defined in Journey Optimizer B2B Edition, you can select one or more items for the list. {width="600" modal="regular"} Select the first one and click the selector again to open the Multiple Value Chooser dialog. {width="500" modal="regular"} Move any of the remaining items over to the right and click OK when you have the list of items that you want to use for the constraint. Repeat these actions to add as many of the constraints that you need. {width="600" modal="regular"}
-
-recommendation-more-help
-
-
----
 # FILE: buying-group-role-templates.md
 ---
 
@@ -3548,13 +3378,13 @@ title: "Buying group role templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:15.432770+00:00"
+created_at: "2026-10-01T14:09:36.245051+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Buying group role templates
 
-Last update: August 4, 2026
+Last update: September 3, 2026
 - Topics:
 - [Buying Groups](#)
 
@@ -3653,19 +3483,6 @@ Intent data
 
 - For each additional role that you want to include for the template, click Add another role and repeat the steps under Define role properties and Add conditions for auto-assignment to define the role. {width="700" modal="regular"} Your changes are auto-saved in the Draft status. If you are not ready to publish the roles template, click the left (back) arrow at the top of the page and return to the Roles templates list.
 
-**Marketo Engage list membership**
-
-In Marketo Engage, *Smart Campaigns* check membership of programs to ensure that leads don’t receive duplicate emails and aren’t members of multiple streams of emails at the same time. In Journey Optimizer B2B, you can check for Marketo Engage list membership as a condition for your roles template to help eliminate duplication in buying group membership and journey activities.
-
-To use list membership as a role condition, expand **Special Filters** and drag the **Member of List** condition into the filter space. To evaluate membership in one or more Marketo Engage lists, complete the filter definition.
-
-{width="700" modal="regular"}
-
-NOTE
-Feature deprecation
-In the current Journey Optimizer B2B Edition release, filtering based on list or program membership in a Marketo Engage instance is no longer supported.
-style
-shade-box
 ### Change the completeness score settings change-the-completeness-score-settings
 
 By default, completeness for a role is defined as one member assigned to the role. When using buying group completeness to indicate sales readiness, use these settings to align the score with the number of members required to close an opportunity.
@@ -3731,7 +3548,7 @@ title: "Buying group stages"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/buying-group-stages"
 category: "tutorials"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-tutorials"
-created_at: "2026-09-01T13:21:34.308642+00:00"
+created_at: "2026-10-01T14:11:24.741480+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Tutorials
 
@@ -3764,7 +3581,7 @@ title: "Buying group stages"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-group-stages"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:19.863532+00:00"
+created_at: "2026-10-01T14:09:38.994244+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -3959,7 +3776,7 @@ title: "Buying Groups Overview dashboard"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/buying-groups-dashboard"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:10.362502+00:00"
+created_at: "2026-10-01T14:10:10.427932+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -4059,7 +3876,7 @@ title: "Buying groups overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/buying-groups-overview"
 category: "tutorials"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-tutorials"
-created_at: "2026-09-01T13:21:36.591359+00:00"
+created_at: "2026-10-01T14:11:26.342114+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Tutorials
 
@@ -4093,7 +3910,7 @@ title: "Buying groups"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:13.528479+00:00"
+created_at: "2026-10-01T14:09:35.129273+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -4263,7 +4080,7 @@ title: "C2PA metadata"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/assets/c2pa-metadata"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:21:26.523361+00:00"
+created_at: "2026-10-01T14:11:17.067870+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -4354,7 +4171,7 @@ title: "Channel messaging consent"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/channels-consent-preferences"
 category: "reference"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:08.153634+00:00"
+created_at: "2026-10-01T14:09:31.864553+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -4462,7 +4279,7 @@ title: "Chat interface"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/ai-assistant/chat-interface"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:28.732342+00:00"
+created_at: "2026-10-01T14:10:23.501397+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -4588,7 +4405,7 @@ title: "Completeness scores completeness-scores"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/scoring/completeness-scores"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:18.949264+00:00"
+created_at: "2026-10-01T14:09:38.432945+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -4729,7 +4546,7 @@ title: "Conditional content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/conditional-content"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:19:08.590549+00:00"
+created_at: "2026-10-01T14:11:00.345010+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -4798,7 +4615,7 @@ title: "Conditional content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/conditional-content"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:01.066232+00:00"
+created_at: "2026-10-01T14:10:04.742884+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -4930,13 +4747,13 @@ title: "Configure branding domains"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/branding-domains"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:26.043035+00:00"
+created_at: "2026-10-01T14:09:05.303863+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Configure branding domains
 
-Last update: June 13, 2026
+Last update: September 2, 2026
 - Topics:
 - [Administration](#)
 - [Integrations](#)
@@ -4949,14 +4766,22 @@ CREATED FOR:
 A branding domain in Marketo Engage is a custom subdomain (such as links.yourcompany.com) used to rewrite links and track email clicks and ensure that they reflect your brand rather than a generic domain. Each branding domain acts as a click-tracking domain to enhance deliverability and trust by matching your email and landing page links to your domain.
 
 - It replaces generic links with your own branding in email hyperlinks.
-- When an account lead clicks a link, it redirects through this custom domain to allow performance tracking while appearing legitimate to email filters.
+- When a lead clicks a link, it redirects through this custom domain to allow performance tracking while appearing legitimate to email filters.
 - To support different business units or brands, you can configure additional branding domains if you have multiple brands.
 
+1. If you have multiple workspaces defined for your Marketo Engage instance, click **Next**.
+                
+                   Select each of the workspaces where you want to apply the updated primary domain.
+                
+                   ![Edit Branding Domain dialog with workspace selection for primary domain](./assets/me-admin-email-branding-domains-edit-default-workspaces.png){width="400"}
+1. If you have multiple workspaces defined for your Marketo Engage instance, click **Next**.
+                
+                   If needed, select each of the workspaces where you want to apply the new domain as the primary domain.
+                
+                    ![New Branding Domain dialog with workspace selection for applying the primary domain](assets/me-admin-email-branding-domains-add-workspaces.png){width="400"}
 **Unique CNAMEs for tracking links**
 
-Email tracking links must be new and unique for the attached Marketo Engage instance. If you have existing CNAMEs for tracking links pointing to a pre-existing (production) Marketo Engage instance, they require modification before they can be reused.
-
-You can share return-path domain branding between your production Marketo Engage instance and the attached instance, but this change is a backend change. Open a support ticket and provide your Marketo Engage prefix (Munchkin ID) and your new Journey Optimizer B2B Edition prefix (Munchkin ID) to request shared return-path domain branding.
+Email tracking links must be new and unique for the attached Marketo Engage instance. You can share return-path domain branding between your production Marketo Engage instance and the attached instance, but this change is an internal system change. Open a support ticket and provide your Marketo Engage prefix (Munchkin ID) and your new Journey Optimizer B2B Edition prefix (Munchkin ID) to request shared return-path domain branding.
 
 style
 shade-box
@@ -4964,7 +4789,7 @@ PREREQUISITES
 Before you edit or add a domain in the UI, you must have a
 mapped CNAME to an Adobe-provided Marketo Engage domain
 .
-When adding a domain, the system checks for pre-existing SSLs, which were manually created prior. If you encounter this validation, create your domain without selecting SSL creation and then connect it as a separate procedure.
+When adding a domain, the system checks for pre-existing SSLs, which were manually created previously. If you encounter this validation, create your domain without selecting SSL creation and then connect it as a separate procedure.
 ## Access branding domains in Marketo Engage
 
 - Go to the Admin area in your Marketo Engage instance and select Email .
@@ -4978,12 +4803,12 @@ NOTE
 You cannot define an additional branding domain until you have edited the generic default domain.
 - In the Branding Domains panel, select the generic domain and click Edit at the top. {width="500"}
 - In the Edit Branding Domain dialog, enter the name of your default domain in the Domain field. {width="400"}
-- If you have multiple workspaces defined for your Marketo Engage instance, click Next . Select each of the workspaces where you want to apply the updated primary domain. {width="400"}
-- Click Save .
+
+- Click **Next** and then **Save**.
 
 ## Define an additional domain
 
-After you edit the default domain, you can add another branding domain to support multiple brands within your Journey Optimizer B2B Edition environment, where each has its own branded tracking links. When you add a domain, you have the following options:
+To support multiple brands within your Journey Optimizer B2B Edition environment, where each has its own branded tracking links, you can add another branding domain after you edit the default domain. When you add a domain, you have the following options:
 
 - Make Primary Domain : Make this the primary domain for the workspace. When you select this option, all existing unsent emails are set to the default primary domain and all newly created emails automatically default to this primary domain. Marketers can choose an alternative branding domain where needed.
 - Generate SSL Certificate : Create a Secure Sockets Layer (SSL) with the creation of the domain. The first tracking domain initiates a one-time setup of infrastructure that may take a few hours. The system sends a notification upon completion.
@@ -4992,13 +4817,13 @@ After you edit the default domain, you can add another branding domain to suppor
 
 - In the Branding Domains panel, click Add at the top. {width="500"}
 - In the New Branding Domain dialog, enter the name of the branding domain in the Domain field.
-- (Optional) Select the Generate SSL Certificate check box to automatically generate an SSL for the domain. {width="400"} If needed and available, you can also select the Make Primary Domain check box. note NOTE Custom SSLs : If you need a custom SSL, you can submit a support ticket . Do not use the checkbox for SSL creation.
-- If you have multiple workspaces defined for your Marketo Engage instance, click Next . If needed, select each of the workspaces where you want to apply the new domain as the primary domain. {width="400"}
-- Click Save .
+- (Optional) Select the Generate SSL Certificate check box to generate an SSL for the domain automatically. {width="400"} If needed and available, you can also select the Make Primary Domain check box. note NOTE Custom SSLs : If you need a custom SSL, you can submit a support ticket . Do not use the checkbox for SSL creation.
+
+- Click **Next** and then **Save**.
 
 ## Edit SSLs for existing branding domains
 
-Follow these steps to enable SSL for your existing domains.
+To enable SSL for your existing domains, follow these steps:
 
 - From the Admin area, select Email .
 - In the Branding Domains panel, select the domain row and click Add SSL . {width="500"}
@@ -5041,13 +4866,13 @@ title: "Configure custom engagement score weighting"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/configurations/engagement-score-weighting"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:16.161594+00:00"
+created_at: "2026-10-01T14:10:13.682172+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Configure custom engagement score weighting
 
-Last update: August 4, 2026
+Last update: September 3, 2026
 - Topics:
 - [Buying Groups](#)
 - [Administration](#)
@@ -5117,21 +4942,6 @@ The default model for Experience Platform events includes the Experience Platfor
 | --- | --- | --- |
 | Advertising Clicks Advertising Completes Advertising Conversions Advertising Federated Advertising First Quartiles Advertising Impressions Advertising Midpoints Advertising Starts Advertising Third Quartiles Advertising Time Played Application Close Application Launch Change Engagement Campaign Cadence Commerce Backoffice CreditMemo Issued Commerce Backoffice Order Cancelled Commerce Backoffice Order Placed Commerce Backoffice OrderItems Shipped Commerce Backoffice Shipment Completed Commerce Checkouts Commerce Product List (Cart) Adds Commerce Product List (Cart) Opens Commerce Product List (Cart) Removals Commerce Product List (Cart) Reopens Commerce Product List (Cart) Views Commerce Product Views Commerce Purchases Commerce Save For Laters Decisioning Proposition Dismiss Decisioning Proposition Display Decisioning Proposition Interact | Decisioning Proposition Send Decisioning Proposition Trigger Delivery Feedback Direct Marketing Email Bounced Direct Marketing Email Bounced Soft Direct Marketing Email Clicked Direct Marketing Email Delivered Direct Marketing Email Opened Direct Marketing Email Sent Direct Marketing Email Unsubscribed Inapp message was dismissed Inapp message was displayed Inapp message was interacted with Lead Operation Add To Campaign Lead Operation Call Webhook Lead Operation Change Campaign Stream Lead Operation Convert Lead Lead Operation Interesting Moment Lead Operation Merge Leads Lead Operation New Lead Lead Operation Revenue Stage changed Lead Operation Score Changed Lead Operation Status in Campaign Progression Changed | Lead Operation Add To List Lead Operation Remove From List Location exit Media adBreakComplete Media adBreakStart Media adComplete Media adSkip Media adStart Media bitrateChange Media bufferStart Media chapterComplete Media chapterSkip Media chapterStart Media custom tracking Media downloaded content Media error Media pauseStart Media ping Media play Media sessionComplete Media sessionEnd Media sessionStart Media statesUpdate Message Feedback Message Rendering Data Message Tracking Opportunity Event Add To Opportunity Opportunity Event Opportunity Updated Opportunity Event Remove From Opportunity Push Tracking Application Opened Push Tracking Custom Action Web Form Filled Out Web Webinteraction Link Clicks Web Webpagedetails Page Views |
 
-Activities for standard architecture
-The default model for the standard architecture includes the Marketo Engage tracked activities with an associated default weight. When you duplicate this model, you can change the weighting according to your needs. You cannot change the maximum daily frequency.
-
-| table 0-row-4 1-row-4 2-row-4 3-row-4 4-row-4 5-row-4 6-row-4 7-row-4 8-row-4 |  |  |  |
-| --- | --- | --- | --- |
-| Activity name | Description | Max daily frequency count | Default model activity weight |
-| Attend Event | A member attended an event | 20 | 60 |
-| Email Clicked | A member clicks a link in an email | 20 | 30 |
-| Email Opened | A member opens an email | 20 | 30 |
-| Form Filled Out | A member fills and submits a form on a web page | 20 | 40 |
-| Interesting Moment | A member has an interesting moment | 20 | 60 |
-| Link Clicks | A member clicks a link on a web page | 20 | 40 |
-| Page Views | A member views a web page | 20 | 40 |
-| Register for Event | A member registered for an event | 20 | 60 |
-
 For each activity in the list, set the value that you want to assign to each activity occurrence. Click the down arrow in the **Weighting** field and choose the weighting band as defined in the engagement weighting settings.
 
 {width="600" modal="regular"}
@@ -5160,7 +4970,7 @@ title: "Configure datastreams for event collection aep-datastreams"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/configurations/aep-event-collection"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:17.973220+00:00"
+created_at: "2026-10-01T14:10:15.020923+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -5191,7 +5001,7 @@ title: "Configure Experience Manager asset repositories"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/configurations/configure-aem-repositories"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:14.428829+00:00"
+created_at: "2026-10-01T14:10:12.573246+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -5289,7 +5099,7 @@ title: "Content components content-components"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/content-design/content-components"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:19:11.282193+00:00"
+created_at: "2026-10-01T14:11:02.701353+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -5936,13 +5746,13 @@ title: "Content components content-components"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/content-design/content-components"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:54.132760+00:00"
+created_at: "2026-10-01T14:10:00.767232+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Content components content-components
 
-Last update: August 4, 2026
+Last update: September 2, 2026
 - Topics:
 - [Content management](#)
 
@@ -6410,9 +6220,41 @@ Use the Image component to insert an image asset into your content. When the *Im
 
 Choose the [asset source type](/en/docs/journey-optimizer-b2b/user/content-management/assets/assets-overview) and select an image file:
 
-- Marketo Engage Assets - Choose this type to browse and select an image asset from the Journey Optimizer B2B Edition library or from the connected Marketo Engage instance. {width="700" modal="regular"} From the dialog, you can choose an image from the selected repository. Click Select to add the asset. There are tools available to help you locate the asset that you need: Click the Filter icon on the top left to filter the displayed items according to your criteria. Enter text in the Search field to filter the displayed items for a match of the asset name. {width="700" modal="regular"}
-- Experience Manager Assets - Choose this type to browse and select an image asset from a configured Experience Manage Assets repository . From the Select Assets dialog, choose an image using the available tools to locate the asset that you need and click Select .: Change the Repository at the top right. Click Manage assets at the top right to open the Assets repository in another browser tab and use AEM Assets management tools. Click the View type selector at the top right to change the display to List View , Grid View , Gallery View , or Waterfall View . Click the Sort order icon to change the sort order between ascending and descending. {width="700" modal="regular"} Click the Sort by menu arrow to change the sort criteria to Name , Size , or Modified . Click the Filter icon on the top left to filter the displayed items according to your criteria. Enter text in the Search field to filter the displayed items for a match of the asset name. {width="700" modal="regular"}
-- Import media - Choose this type to select a file from your system and import it into the Journey Optimizer B2B Edition asset library. In the Upload image dialog, drag and drop a file from your system to the file box. The maximum file size is 100 MB. {width="450"} The file names of the selected images are displayed in the dialog. Asset file names must be unique (across folders), and if a file with the name already exists, a message is displayed. Names can have a maximum of 100 characters, and cannot contain special characters (such as ; , : , \ , and | ). Click Import .
+Select Asset
+Choose this type to browse and select an image asset from the Journey Optimizer B2B Edition library.
+
+{width="700" modal="regular"}
+
+From the dialog, you can choose an image from the selected repository. Click **Select** to add the asset.
+
+There are tools available to help you locate the asset that you need:
+
+- Click the Filter icon on the top left to filter the displayed items according to your criteria.
+- Enter text in the Search field to filter the displayed items for a match of the asset name. {width="700" modal="regular"}
+
+Import media
+Choose this type to select a file from your system and import it into the Journey Optimizer B2B Edition asset library.
+
+In the *Upload image* dialog, drag and drop a file from your system to the file box. The maximum file size is 100 MB.
+
+{width="450"}
+
+The file names of the selected images are displayed in the dialog. Asset file names must be unique (across folders), and if a file with the name already exists, a message is displayed. Names can have a maximum of 100 characters, and cannot contain special characters (such as ;, :, \, and |).
+
+Click **Import**.
+
+Experience Manager Assets
+Choose this type to browse and select an image asset from a [configured Experience Manage Assets repository](/en/docs/journey-optimizer-b2b/user/admin/configurations/configure-aem-repositories).
+
+From the *Select Assets* dialog, choose an image using the available tools to locate the asset that you need and click **Select**.:
+
+- Change the Repository at the top right.
+- Click Manage assets at the top right to open the Assets repository in another browser tab and use AEM Assets management tools.
+- Click the View type selector at the top right to change the display to List View , Grid View , Gallery View , or Waterfall View .
+- Click the Sort order icon to change the sort order between ascending and descending. {width="700" modal="regular"}
+- Click the Sort by menu arrow to change the sort criteria to Name , Size , or Modified .
+- Click the Filter icon on the top left to filter the displayed items according to your criteria.
+- Enter text in the Search field to filter the displayed items for a match of the asset name. {width="700" modal="regular"}
 
 You can add an image title and alt text for the image in the right panel.
 
@@ -6492,7 +6334,7 @@ Use the *Social* component to insert links to social media pages into your conte
 With a social media type selected, set the options for that type:
 
 - URL - Enter the social media URL that you want to link to the social media graphic or icon.
-- Source - If you want to use your own image instead of the default, choose an image asset. You can select an image from the connected Marketo Engage asset repository, an Experience Manager Assets repository (if configured), or import an image file from your system. Refer to the Image component information for details about selecting and importing image assets.
+- Source - If you want to use your own image instead of the default, select an image asset or import an image file from your system. Refer to the Image component information for details about selecting and importing image assets.
 - Alt text - Enter the alt text for the displayed image. {width="250"}
 
 To define a consistent display size for all social media graphics, set the **Size of images**.
@@ -6551,12 +6393,10 @@ The displayed attributes reflect the styles that are currently defined for the c
 
 ### Form (landing pages only) form
 
-[[Beta]{class="badge informative" title="Beta feature"}](/en/docs/journey-optimizer-b2b/user/content-management/forms/forms)
-
 Use the *Form* component to add a published form to a landing page or landing page template. For more information about creating and publishing forms, see [Forms](/en/docs/journey-optimizer-b2b/user/content-management/forms/forms).
 
 - Click the Form tool in the component toolbar, or use the Embed Form properties on the right to select the published form. {width="600"}
-- If you want to override the default Follow up type for the form, change the setting according to the requirements for your page or template. This page is also known as the Thank-you page for the form and this setting determines what happens when a visitor submits the form: Stay on page - Choose this option to keep the visitor on the same page when the form is submitted. Landing page - Choose this option to select any Journey Optimizer B2B Edition or Marketo Engage landing page as the follow-up. External URL - Choose this option to specify any URL as the follow-up page. After the visitor submits the form, the browser loads the designated URL. note tip TIP If you want to use the form for downloading a file, you can specify a URL for the hosted file. With this configuration, the submit button functions as a download button. {width="280"}
+- If you want to override the default Follow up type for the form, change the setting according to the requirements for your page or template. This page is also known as the Thank-you page for the form and this setting determines what happens when a visitor submits the form: Stay on page - Choose this option to keep the visitor on the same page when the form is submitted. Landing page - Choose this option to select any Journey Optimizer B2B Edition landing page as the follow-up. External URL - Choose this option to specify any URL as the follow-up page. After the visitor submits the form, the browser loads the designated URL. note tip TIP If you want to use the form for downloading a file, you can specify a URL for the hosted file. With this configuration, the submit button functions as a download button. {width="280"}
 
 If needed, select the **Styles** tab in the right panel to set the form margins within the structure component.
 
@@ -6581,7 +6421,7 @@ title: "Content evaluation and scoring content-scoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/content-evaluation"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:00.178618+00:00"
+created_at: "2026-10-01T14:10:04.198458+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -6677,7 +6517,7 @@ title: "Content governance for templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/templates/template-content-governance"
 category: "guides"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:58.261411+00:00"
+created_at: "2026-10-01T14:10:51.507341+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -6761,7 +6601,7 @@ title: "Content personalization add-personalization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/personalization/personalization"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:02.872303+00:00"
+created_at: "2026-10-01T14:10:06.372676+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -6853,7 +6693,7 @@ title: "Convert an image to an email template"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/email-templates/email-template-image-convert"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:41.104806+00:00"
+created_at: "2026-10-01T14:09:52.866583+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -6899,7 +6739,7 @@ title: "Create a buying group"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/create-a-buying-group"
 category: "tutorials"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-tutorials"
-created_at: "2026-09-01T13:21:37.457741+00:00"
+created_at: "2026-10-01T14:11:26.879148+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Tutorials
 
@@ -6933,7 +6773,7 @@ title: "Create a program from a brief"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/ai-assistant/program-from-brief"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:30.409220+00:00"
+created_at: "2026-10-01T14:10:25.989842+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -7200,7 +7040,7 @@ title: "Create and manage your brands brand-library"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/brands/brands-manage-create"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:57.080369+00:00"
+created_at: "2026-10-01T14:10:02.481399+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -7208,7 +7048,7 @@ Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Editi
 
 # Create and manage your brands brand-library
 
-Last update: June 13, 2026
+Last update: September 16, 2026
 - Topics:
 - [Generative AI](#)
 - [Content management](#)
@@ -7254,7 +7094,7 @@ For each card, you can click the *More menu* ( ) icon and choose an action for t
 
 ### Default brand
 
-You can designate a default brand to be automatically applied when generating content and calculating alignment scores during content creation. Only a published (*Live*) brand can be the default.
+To apply a brand automatically when generating content and calculating alignment scores during content creation, designate a default brand. Only a published (*Live*) brand can be the default.
 
 In the Brands library, the default brand card is displayed with a flag.
 
@@ -7272,20 +7112,20 @@ To create and define your brand guidelines, you can either enter the details or 
 
 - At the top-right of the Brands page, click Create brand .
 - Enter a Name for your brand.
-- Drag and drop or select your file to upload your brand guidelines and extract automatically relevant brand information. {width="500"} note NOTE If you don’t have a document saved in PDF format, you can manually add the guidelines and upload individual visual assets after brand creation.
+- Drag and drop or select your file to upload your brand guidelines and automatically extract relevant brand information. {width="500"} note NOTE If you don’t have a document saved in PDF format, you can manually add the guidelines and upload individual visual assets after brand creation.
 - Click Create brand . If you include one or more files to create the brand, the information extraction process begins. It may take several minutes to complete. When the extraction process is complete, your content and visual creation standards are automatically populated. {width="700" modal="regular"}
 
 ### Refine and update the brand guidelines
 
-- Browse through the different tabs to adapt and define more detailed information as needed. Overview About the brand Writing style Visual content If you included one or more documents when you created the brand, the information extraction process created definitions for the tabs and sections. The completeness depends on the scope and details included in any documents. As you review the result, you can change or remove any of the information. From the More menu ( ) for each tab or category, you can add documents to extract relevant brand information automatically. You can also clear the existing content. {width="500" modal="regular"} If you want to review the source for the extracted information in a sub-section, click the View source link. {width="700" modal="regular"}
+- To adapt and define more detailed information as needed, browse through the different tabs. Overview About the brand Writing style Visual content If you included one or more documents when you created the brand, the information extraction process created definitions for the tabs and sections. The completeness depends on the scope and details included in any documents. As you review the result, you can change or remove any of the information. From the More menu ( ) for each tab or category, you can add documents to extract relevant brand information automatically. You can also clear the existing content. {width="500" modal="regular"} If you want to review the source for the extracted information in a sub-section, click the View source link. {width="700" modal="regular"}
 - In each details tab, review the categories and improve the brand by adding, removing, and changing your definitions. A sub-section labeled Do’s outlines the guidelines for the category. Use this area to add guideline descriptions and examples of the guidelines. {width="500" modal="regular"} A sub-section labeled Don’ts outlines the exclusions. Use this area to add exclusion descriptions and examples of the exclusions. {width="500" modal="regular"} Add a guideline or exclusion . In the section where you want to add a guideline, click the Add ( ) icon on the right. In the popup dialog, enter the guideline and select the checkboxes to designate the channels and elements for which the guideline applies. Then, click Add . {width="600" modal="regular"} Change a guideline or exclusion . In the section where you want to remove a guideline, click the guideline widget. In the popup dialog, change the content for the guideline and the selected checkboxes as needed. Then, click Update . {width="600" modal="regular"} Remove a guideline or exclusion . In the section where you want to remove a guideline, click the guideline widget. In the popup dialog, click the Delete ( ) icon at the top. Add or revise examples of your guidelines and exclusions . In the displayed example tile, click the Edit ( ) icon to change the example, or click the Delete ( ) icon to remove it.
-- When you have everything defined, click Save . You can continue to make changes to the draft brand until you decide it is ready to publish.
+- When you have everything defined, click Save . You can continue to make changes to the draft brand. Continue until you decide it is ready to publish.
 
 ### Publish the brand
 
 When your brand includes a complete set of definitions and meets your requirements, click **Publish** to make your brand guidelines available for content alignment and generation.
 
-Published brands are accessible from the **Brand** option in the AI [brand alignment score](/en/docs/journey-optimizer-b2b/user/content-management/content-evaluation#brand-alignment-score) and [content generation tools](/en/docs/journey-optimizer-b2b/user/ai-assistant/generative-ai-content).
+Published brands are accessible from the **Brand** option in the AI [brand alignment score](/en/docs/journey-optimizer-b2b/user/content-management/content-evaluation#brand-alignment-score) and [content generation tools](/en/docs/journey-optimizer-b2b/user/content-management/generative-ai-content).
 
 {width="300"}
 
@@ -7305,7 +7145,7 @@ You can proceed to refine the [writing style](#writing-style) or [visual content
 
 ### Writing style writing-style
 
-The *Writing style* definitions outline the standards for writing content, and details how language, formatting, and structure should be used to maintain clarity, coherence, and consistency across all materials.
+The *Writing style* definitions outline the standards for writing content, and detail how language, formatting, and structure should be used to maintain clarity, coherence, and consistency across all materials.
 
 Select the **Writing Style** tab, and review each category.
 
@@ -7389,7 +7229,7 @@ Choose lifestyle images that reflect real customers using the product in profess
 Do not use imagery that contradicts brand tone or appears out of context.
 #### Example images
 
-To add an image showing correct or incorrect usage, choose **Example** in the *Add guideline* or *Add exclusion* popup dialog. Click **Select image** to choose and image file from your system. Click **Add** to upload the image and display the thumbnail for the area.
+To add an image showing correct or incorrect usage, choose **Example** in the *Add guideline* or *Add exclusion* popup dialog. Click **Select image** to choose an image file from your system. Click **Add** to upload the image and display the thumbnail for the area.
 
 {width="500" modal="regular"}
 
@@ -7399,7 +7239,7 @@ You cannot make modifications to a published (Live) brand, but you can create a 
 
 - Open the brand page and click Edit brand at the top right.
 - In the confirmation dialog, click Edit Brand . This action creates a draft copy of the brand.
-- Browse through the different tabs to update the brand information as needed. Overview About the brand Writing style Visual content
+- Browse through the different tabs and update the brand information as needed. Overview About the brand Writing style Visual content
 - Click Save as you work with the draft updates, and then Publish when you are ready to replace the Live version.
 
 recommendation-more-help
@@ -7414,7 +7254,7 @@ title: "Create and publish landing pages"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/landing-pages/landing-pages-create-publish"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:19:02.448305+00:00"
+created_at: "2026-10-01T14:10:55.522231+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -7577,7 +7417,7 @@ title: "Create and publish landing pages"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/landing-pages-create-publish"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:48.715503+00:00"
+created_at: "2026-10-01T14:09:57.621037+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -7768,7 +7608,7 @@ title: "Create audiences for programs"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/ai-assistant/audience-creation"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:31.389164+00:00"
+created_at: "2026-10-01T14:10:26.937204+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -7987,7 +7827,7 @@ title: "Create buying groups"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-create"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:20.785699+00:00"
+created_at: "2026-10-01T14:09:39.547857+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -8047,7 +7887,7 @@ title: "Create custom scoring models"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/ai-assistant/lead-scoring-model"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:32.202058+00:00"
+created_at: "2026-10-01T14:10:27.822628+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -8134,7 +7974,7 @@ title: "Create email templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/templates/templates-create"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:57.423760+00:00"
+created_at: "2026-10-01T14:10:50.330021+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -8266,7 +8106,7 @@ title: "Custom tokens for email personalization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/personalization-my-tokens"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:07.362246+00:00"
+created_at: "2026-10-01T14:09:31.327999+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -8337,7 +8177,7 @@ title: "Custom tokens for personalization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/programs/personalization-my-tokens"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:34.714663+00:00"
+created_at: "2026-10-01T14:10:30.281460+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -8438,7 +8278,7 @@ title: "Dark mode for email content dark-mode"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/email-channel/email-dark-mode"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:47.031720+00:00"
+created_at: "2026-10-01T14:10:40.731646+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -8579,7 +8419,7 @@ title: "Dark mode for email content dark-mode"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-dark-mode"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:59.978723+00:00"
+created_at: "2026-10-01T14:09:26.228928+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -8718,7 +8558,7 @@ title: "Default and custom roles"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/default-custom-roles"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:16.238521+00:00"
+created_at: "2026-10-01T14:09:36.791208+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -8764,7 +8604,7 @@ title: "Default XDM fields"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/audiences/field-mapping"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:11.735123+00:00"
+created_at: "2026-10-01T14:09:34.031875+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -9040,7 +8880,7 @@ title: "Derived personas"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/audiences/personas"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:53.780397+00:00"
+created_at: "2026-10-01T14:10:46.850773+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -9142,7 +8982,7 @@ title: "Design accessible content accessible-content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/accessible-content"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:02.012859+00:00"
+created_at: "2026-10-01T14:10:05.768599+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -9375,7 +9215,7 @@ title: "Destinations"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/audiences/destinations"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:54.706772+00:00"
+created_at: "2026-10-01T14:10:47.725967+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -9504,7 +9344,7 @@ title: "Edit images with Adobe Express edit-images-adobe-express"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/assets/internal-dam/image-edit-adobe-express"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:35.682993+00:00"
+created_at: "2026-10-01T14:09:49.559864+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -9596,7 +9436,7 @@ title: "Email channel configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/admin/channels/email-channel-configuration"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:19:13.077950+00:00"
+created_at: "2026-10-01T14:11:04.365803+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -9688,7 +9528,7 @@ title: "Email channel configurations"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-emails"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:18.794259+00:00"
+created_at: "2026-10-01T14:10:15.568881+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -9870,7 +9710,7 @@ title: "Email collaboration tools"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/emails/email-collaboration-tools"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:32.924862+00:00"
+created_at: "2026-10-01T14:09:47.894863+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -10021,7 +9861,7 @@ title: "Email content authoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/email-channel/email-authoring"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:45.928437+00:00"
+created_at: "2026-10-01T14:10:39.862510+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -10311,7 +10151,7 @@ title: "Email content creation with GenStudio for Performance Marketing genstudi
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/genstudio-email-workflow"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:59.092451+00:00"
+created_at: "2026-10-01T14:09:25.683258+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -10417,7 +10257,7 @@ title: "Email deduplication"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-deduplication"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:02.863821+00:00"
+created_at: "2026-10-01T14:09:28.160891+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -10468,7 +10308,7 @@ title: "Email deliverability"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/start/email-deliverability"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:27.094314+00:00"
+created_at: "2026-10-01T14:10:21.861096+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -10742,13 +10582,13 @@ title: "Email message authoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-authoring"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:56.959526+00:00"
+created_at: "2026-10-01T14:09:24.438862+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Email message authoring
 
-Last update: August 19, 2026
+Last update: September 14, 2026
 - Topics:
 - [Content management](#)
 - [Communication channels](#)
@@ -10772,7 +10612,7 @@ This action launches the email design tools, where you can choose how you want t
 After you create and personalize the email content, you can export the content for validation or for later use. Click **Export HTML** to save the content as a .zip file that includes your HTML and assets.
 
 TIP
-Use AI Assistant in Adobe Journey Optimizer B2B Edition, powered by generative AI, to improve your content. AI Assistant can help you optimize the impact of your deliveries by generating entire emails and targeted text content, and providing recommendations for images that resonate with your audience.
+Use the content generation tools to improve your content. These tools can help you optimize the impact of your deliveries by generating entire emails and targeted text content, and providing recommendations for images that are relevant to your audience.
 Learn more
 ## Design your email from scratch design-from-scratch
 
@@ -11014,7 +10854,7 @@ title: "Email performance report"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/email-performance-dashboard"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:09.470865+00:00"
+created_at: "2026-10-01T14:10:09.888803+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -11164,7 +11004,7 @@ title: "Email send-time optimization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/email-channel/email-send-time-optimization"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:44.376756+00:00"
+created_at: "2026-10-01T14:10:38.902477+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -11256,7 +11096,7 @@ title: "Email send-time optimization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-send-time-optimization"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:55.541289+00:00"
+created_at: "2026-10-01T14:09:23.861539+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -11321,7 +11161,7 @@ title: "Email setup"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/email-setup"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:28.013156+00:00"
+created_at: "2026-10-01T14:09:06.412773+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -11504,7 +11344,7 @@ title: "Email template authoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/email-templates/email-template-authoring"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:39.408314+00:00"
+created_at: "2026-10-01T14:09:51.750010+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -11662,7 +11502,7 @@ title: "Email templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/templates/templates"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:56.569420+00:00"
+created_at: "2026-10-01T14:10:49.365525+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -11752,7 +11592,7 @@ title: "Email templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/email-templates/email-templates"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:38.269680+00:00"
+created_at: "2026-10-01T14:09:51.194398+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -11947,7 +11787,7 @@ title: "Emails"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/emails/emails-list"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:29.982646+00:00"
+created_at: "2026-10-01T14:09:45.717426+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -11997,13 +11837,13 @@ title: "Enable AI Assistant access"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/enable-ai-assistant-access"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:33.034670+00:00"
+created_at: "2026-10-01T14:09:09.824748+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Enable AI Assistant access
 
-Last update: June 13, 2026
+Last update: September 11, 2026
 - Topics:
 - [AI Assistant](#)
 - [Administration](#)
@@ -12057,7 +11897,7 @@ title: "Engagement Overview dashboard"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/engagement-dashboard"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:07.537671+00:00"
+created_at: "2026-10-01T14:10:08.812543+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -12187,13 +12027,13 @@ title: "Engagement scores engagement-scores"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/scoring/engagement-scores"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:18.137242+00:00"
+created_at: "2026-10-01T14:09:37.880877+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Engagement scores engagement-scores
 
-Last update: June 13, 2026
+Last update: September 3, 2026
 - Topics:
 - [Buying Groups](#)
 
@@ -12268,10 +12108,6 @@ A member registered for an event
 Event
 20
 60
-NOTE
-Engagement score activities are recorded in the Marketo Engage activity log for a person. You can access this log in the connected Marketo Engage instance. For more information, see
-Locate the Activity Log for a Person
-in the Marketo Engage documentation.
 ## Role template weighting engagement-score-weighting
 
 Users can assign *weighting* to each role in the [roles template](/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) to allocate different weights for a role.
@@ -12445,7 +12281,7 @@ title: "Event-based audiences"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/audiences/event-based-audiences"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:51.617613+00:00"
+created_at: "2026-10-01T14:10:45.193505+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -12491,7 +12327,7 @@ title: "Export accounts"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/account-list-export"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:21.611779+00:00"
+created_at: "2026-10-01T14:09:40.430585+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -12527,13 +12363,13 @@ title: "External actions configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/configurations/configure-external-actions"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:17.161088+00:00"
+created_at: "2026-10-01T14:10:14.230411+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # External actions configuration
 
-Last update: June 13, 2026
+Last update: September 4, 2026
 - Topics:
 - [Administration](#)
 - [Integrations](#)
@@ -12543,15 +12379,13 @@ CREATED FOR:
 - Intermediate
 - Admin
 
-External actions allow account journeys in Journey Optimizer B2B Edition to connect with external systems directly from the journey canvas. When an account audience reaches an external action node, the system makes an asynchronous outbound call to a configured external service, passing audience attribute data for accounts, people, or both. The external service processes the data and responds using a callback, returning audience data and metadata that can be used to guide journey execution.
+External actions allow account and person journeys in Journey Optimizer B2B Edition to connect with external systems directly from the journey canvas. When an audience reaches an external action node, the system makes an asynchronous outbound call to a configured external service, passing audience attribute data. The external service processes the data and responds using a callback, returning audience data and metadata that can be used to guide journey execution.
 
 This feature supports two journey node types:
 
-- **External action** – Calls an external service and continues along a single outgoing path. Ideal for *fire-and-forget* integrations, such as updating a CRM record or triggering a downstream notification.
-- **External split paths** – Calls an external service and evaluates the response to route accounts along one of several defined paths.
+- **External action** – Calls an external service and continues along a single outgoing path. Ideal for asynchronous integrations, such as updating a CRM record or triggering a downstream notification.
+- **External split paths** – Calls an external service and evaluates the response to route accounts or people along one of several defined paths.
 
-NOTE
-External action services are supported only for account journeys. These node types are not available for person journeys.
 ## Implementation overview
 
 Setting up external actions requires coordination across three roles in sequence:
@@ -12566,7 +12400,7 @@ Administrator
 Configure the action in Journey Optimizer B2B Edition
 3
 Marketer
-Add an external node to an account journey
+Add an external node to a journey
 ## Implement the external service implement-service
 
 The developer must create and publish a public-facing web service that complies with the [Adobe Journey Optimizer B2B Edition External Actions Service Provider Interface](https://developer.adobe.com/journey-optimizer-b2b-apis/).
@@ -12594,8 +12428,8 @@ product permission
 - When the URL resolves successfully, review the Service details . The service details are read directly from the OpenAPI specification when the action is created. You cannot change these properties in the configuration after creation. table 0-row-3 1-row-3 2-row-3 3-row-3 Property Description OpenAPI spec property Name Name for the action info.title Description Description for the action info.description URL URL to the OpenAPI specification that defines the external service servers.url
 - Enter the Authentication credentials for the external service ( components.securitySchemes ). note NOTE The displayed credential fields depend on the authentication mechanism defined in the external service. Supported types are API Key, OAuth2, and HTTP Basic Authentication. {width="600" modal="regular"} You can change the credentials as needed when the configured action is in the Draft or Active status.
 - Click Next .
-- Set the Configurations properties to define how the action exchanges data with the external service. note NOTE Properties marked as Static are not updatable at configuration time and are based on the service definition. Action type ( Static ) – The supported journey node type: External action ( enableSplitPath = false) External action split path ( enableSplitPath = true) You cannot change the action type after creating the action configuration. Accessors ( Static ) – (External action split path only) The variables that are returned by the external service to be available as path conditions in an External split path node. ( invocationPayloadDef.accessorsMetadata ) Journey context ( Static ) – The scope of audience data sent in the request ( supportedEntityType ): Account – Sends only accounts People – Sends only people People in Account – Sends accounts and account-related people Outgoing Fields – Map each field in the table to an XDM field . These fields are sent in the request body to the external service. Service definition properties: invocationPayloadDef.accountFields , invocationPayloadDef.fields . {width="600" modal="regular"} Incoming Fields – Map each field in the table to an updatable XDM field . These fields are populated from the external service response. Service definition properties: callbackPayloadDef.accountFields , callbackPayloadDef.fields . Updatable after creation. Header parameters – Enter a value for each row to pass as an HTTP header in the request. Service definition property: invocationPayloadDef.headers . Timeout – Enter the number of minutes to wait for the external service to invoke the callback before the request is considered failed. Service definition property: timeout . Global attributes – Enter a value for each row to include as a static field in the request body. Service definition property: invocationPayloadDef.globalAttributes . {width="600" modal="regular"}
-- Click the Back arrow to return to the list and keep the action in a Draft state. Or, click Activate to change the action configuration to the Active state. The configured external action must be active to make it available for use in account journeys.
+- To define how the action exchanges data with the external service, set the Configurations properties. note NOTE Properties marked as Static are not updatable at configuration time and are based on the service definition. Action type ( Static ) – The supported journey node type: External action ( enableSplitPath = false) External action split path ( enableSplitPath = true) You cannot change the action type after creating the action configuration. Accessors ( Static ) – (External action split path only) The variables that the external service returns to be available as path conditions in an External split path node. ( invocationPayloadDef.accessorsMetadata ) Journey context ( Static ) – The scope of audience data sent in the request ( supportedEntityType ): Account – Sends only accounts People – Sends only people People in Account – Sends accounts and account-related people Outgoing Fields – Map each field in the table to an XDM field . These fields are sent in the request body to the external service. Service definition properties: invocationPayloadDef.accountFields , invocationPayloadDef.fields . {width="600" modal="regular"} Incoming Fields – Map each field in the table to an updatable XDM field . These fields are populated from the external service response. Service definition properties: callbackPayloadDef.accountFields , callbackPayloadDef.fields . Updatable after creation. Header parameters – Enter a value for each row to pass as an HTTP header in the request. Service definition property: invocationPayloadDef.headers . Timeout – Enter the number of minutes to wait for the external service to invoke the callback before the request is considered failed. Service definition property: timeout . Global attributes – Enter a value for each row to include as a static field in the request body. Service definition property: invocationPayloadDef.globalAttributes . {width="600" modal="regular"}
+- Click the Back arrow to return to the list and keep the action in a Draft state. Or, click Activate to change the action configuration to the Active state. The configured external action must be active to make it available for use in journeys.
 
 ### Troubleshooting troubleshooting
 
@@ -12604,7 +12438,7 @@ When you enter the URL to the OpenAPI specification for your external service an
 {width="600" modal="regular"}
 
 NOTE
-Many of the following errors require that you work with the developer who created and published the public-facing web service to resolve.
+Many of the following errors require that you work with the developer who created and published the public-facing web service to resolve them.
 #### Validation error details
 
 Displayed error
@@ -12682,7 +12516,7 @@ An unclassified problem was found in your spec.
 Check your spec for anything unusual and try again. If the error persists, contact support.
 ## Add an external node to a journey add-journey-node
 
-After an action is activated, marketers can add an *External action* or *External split path* node to any account journey. For information about how to add and use these nodes in the account journey canvas, see [External nodes](/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/external-nodes).
+After an action is activated, marketers can add an *External action* or *External split path* node to any account or person journey. For information about how to add and use these nodes in the journey canvas, see [External nodes](/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/external-nodes).
 
 recommendation-more-help
 
@@ -12696,13 +12530,13 @@ title: "External nodes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/external-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:51.319370+00:00"
+created_at: "2026-10-01T14:09:21.160228+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # External nodes
 
-Last update: June 13, 2026
+Last update: September 4, 2026
 - Topics:
 - [Journeys](#)
 - [Integrations](#)
@@ -12712,36 +12546,35 @@ CREATED FOR:
 - Intermediate
 - User
 
-Use external nodes to connect your account journey with an external service. When an account audience reaches one of these nodes, Journey Optimizer B2B Edition asynchronously sends audience attribute data to the external service. The service processes the data and responds using a callback, returning audience information and metadata that the journey uses to continue.
+Use external nodes to connect your journey with an external service. When an audience reaches one of these nodes, Journey Optimizer B2B Edition asynchronously sends audience attribute data to the external service. The service processes the data and responds using a callback, returning audience information and metadata that the journey uses to proceed.
 
 NOTE
-External action nodes are available only in account journeys. They are not supported in person journeys.
 An administrator must
 configure and activate the external action
-before marketers add and implement these nodes in a journey.
+before marketers can add and implement these nodes in a journey.
 There are two external action node types:
 
 - **External action** – Calls an external service and continues along a single outgoing path. Use this node when you want to trigger an external process without branching logic, such as updating a record in an external system or sending a signal to a downstream service.
-- **External split paths** – Calls an external service and evaluates the response to route accounts along one of several defined paths. Use this node when the external service returns a value, such as a score, tier, or classification, that determines the next step in the journey.
+- **External split paths** – Calls an external service and evaluates the response to route accounts or people along one of several defined paths. Use this node when the external service returns a value, such as a score or tier, that determines the next step in the journey.
 
 ## External action node external-action
 
 The *External action* node calls an external service and continues along a single outgoing path, regardless of the response content. Use it for integrations where no branching is needed after the external call.
 
-- Navigate to the account journey map.
+- Navigate to the account or person journey canvas.
 - Click the plus ( + ) icon on a path and choose External action . {width="400"}
-- In the node properties on the right, set the Action on context for the external action: Choose Accounts when you want to apply the external action to all people that are part of accounts on the node path. Choose People when you want to apply a change to all people on the node path.
+- (Account journeys only) In the node properties on the right, set the Action on context for the external action: Choose Accounts when you want to apply the external action to all people that are part of accounts on the node path. Choose People when you want to apply a change to all people on the node path.
 - Select the external Service name . {width="600" modal="regular"} The list includes all configured external actions that are active and designated for the External action type and the context.
 - If the service has global attributes, enter the required values in the fields that are displayed below the service name.
-- Continue building the journey from the outgoing paths of the node. The Timeout or error path is automatically created. If the timeout period (as configured in the service) elapses before a response is received, the account or person progresses down this path. The same applies if an error response is received. To handle these scenarios, you can add journey nodes to this path, or the journey ends for the audience member.
+- Continue building the journey from the outgoing paths of the node. The Timeout or error path is automatically created. If the timeout period (as configured in the service) elapses before a response is received, the account or person progresses down this path. The same applies if an error response is received. To handle these scenarios, you can add journey nodes to this path, or the journey terminates for the audience member.
 
 ## External split paths node external-split-paths
 
-The External split paths node calls an external service and uses the response to determine which path accounts take next. A condition based on a variable (accessor) returned by the external service defines each path. The journey evaluates the response against the defined path conditions and routes each account along the first matching path. Path conditions are evaluated in top-down order. Each account proceeds along the first path whose condition matches the value returned by the external service.
+The External split paths node calls an external service and uses the response to determine which path accounts or people take next. A condition based on a variable (accessor) returned by the external service defines each path. The journey evaluates the response against the defined path conditions and routes each account or person along the first matching path. Path conditions are evaluated in top-down order. Each account or person proceeds along the first path whose condition matches the value returned by the external service.
 
-- Navigate to the account journey map.
+- Navigate to the account or person journey canvas.
 - Click the plus ( + ) icon on a path and choose External split paths . {width="400"}
-- In the node properties on the right, choose a Split paths by type: Accounts - For split paths by accounts, you can add both account and people nodes within the defined paths. People - For split paths by people, you can add only people action nodes within the defined paths. A people-based split is automatically closed with a Merge paths node so that all people can move forward to the next step without losing their account context.
+- (Account journeys only) In the node properties on the right, choose a Split paths by type: Accounts - For split paths by accounts, you can add both account and people nodes within the defined paths. People - For split paths by people, you can add only people action nodes within the defined paths. A people-based split is automatically closed with a Merge paths node so that all people can move forward to the next step without losing their account context.
 - Select the Service name .
 - If the service configuration has global attributes , enter the required values in the fields that appear below the service name.
 - For Path 1 , define the branching condition: For Label , replace the default value with a more descriptive label. For Select variable , choose an accessor. Accessors are values returned by the external service and are defined when the action is configured. For Select operator , choose the operator. For Enter values , enter the value to match against. {width="600" modal="regular"} note NOTE The available condition variables and supported journey context ( Account , People , or People in Account ) are determined by the external action configuration. Contact your administrator if the expected service or variables are not available.
@@ -12761,7 +12594,7 @@ title: "Form design"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/forms/form-design"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:19:06.431839+00:00"
+created_at: "2026-10-01T14:10:58.375092+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -12888,7 +12721,7 @@ title: "Form design"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/forms/form-design"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:46.743551+00:00"
+created_at: "2026-10-01T14:09:56.487438+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -13014,7 +12847,7 @@ title: "Forms"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/forms/forms"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:19:04.828445+00:00"
+created_at: "2026-10-01T14:10:57.478092+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -13267,7 +13100,7 @@ title: "Forms configurations"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/admin/channels/configuration-presets-forms"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:19:16.609768+00:00"
+created_at: "2026-10-01T14:11:06.845442+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -13334,7 +13167,7 @@ title: "Forms configurations"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-forms"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:23.205700+00:00"
+created_at: "2026-10-01T14:10:18.300792+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -13406,7 +13239,7 @@ title: "Forms"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/forms/forms"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:45.809733+00:00"
+created_at: "2026-10-01T14:09:55.927459+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -13663,7 +13496,7 @@ title: "Fragment authoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/visual-fragments/fragment-authoring"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:19:00.404673+00:00"
+created_at: "2026-10-01T14:10:53.505489+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -13740,7 +13573,7 @@ title: "Fragment authoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/visual-fragments/fragment-authoring"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:44.906811+00:00"
+created_at: "2026-10-01T14:09:55.366387+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -13842,7 +13675,7 @@ title: "Fragments"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/visual-fragments/fragments"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:59.509004+00:00"
+created_at: "2026-10-01T14:10:52.404489+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -14120,7 +13953,7 @@ title: "Fragments"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/visual-fragments/fragments"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:44.017664+00:00"
+created_at: "2026-10-01T14:09:54.802179+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -14374,24 +14207,260 @@ recommendation-more-help
 
 
 ---
-# FILE: generative-ai-for-content-generative-ai-content.md
+# FILE: generate-email-content.md
 ---
 
 ---
-title: "Generative AI for content generative-ai-content"
-url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/generative-ai-content"
+title: "Generate email content"
+url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/generate-content-emails"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:35.474359+00:00"
+created_at: "2026-10-01T14:11:15.964269+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
-# Generative AI for content generative-ai-content
+# Generate email content
 
-Last update: June 13, 2026
+Last update: September 14, 2026
 - Topics:
 - [Generative AI](#)
-- [AI Assistant](#)
+- [Content management](#)
+- [Communication channels](#)
+
+CREATED FOR:
+
+- Intermediate
+- User
+
+As the Marketing industry becomes more competitive, brands seek efficient ways to generate impactful content. Adobe Journey Optimizer B2B Edition includes AI-powered content generation that helps marketers create professional, brand-consistent email content. With advanced generative AI models and deep understanding of brand guidelines, it auto-generates personalized, engaging, and effective content. It uses your marketing objective and optimizes the content for brand outlined styles, layouts, tone, and more. Using these tools makes the creation and execution of email marketing campaigns intuitive, simple, and efficient. Adding this capability to your workflows can save you time, improve efficiency, and drive better results.
+
+This new capability provides prompt-based content generation for full email generation or targeted within email structural components. For images, you can generate new image assets or generate recommendations from within the catalog of images in the input brand asset. You can also use this capability to generate optimal subject lines and preheaders to impact the email open rate.
+
+PREREQUISITES
+To access these features in Adobe Journey Optimizer B2B Edition, you must have the
+AI Assistant
+>
+Generate Content
+permission. For more information about how a product administrator can grant feature permissions, see
+Edit roles for product permissions
+.
+## Guidelines and limitations
+
+Before you start using this capability, review the [guidelines and limitations](/en/docs/journey-optimizer-b2b/user/content-management/generative-ai-content#general-guidelines-and-limitations). [User agreement](https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html#_blank) acceptance is also required before you can use AI capabilities in Journey Optimizer B2B Edition. For more information, contact your Adobe representative.
+
+Adobe applies [content credentials](https://helpx.adobe.com/firefly/web/get-started/learn-the-basics/content-credentials-overview.html#_blank) to Firefly-generated assets upon download or export to promote transparency.
+
+The following limitations and guidelines apply to email content generation in Journey Optimizer B2B Edition:
+
+- English is the only supported language.
+- Generated content might not be accurate — share your feedback so that Adobe engineers can refine the models.
+- You can upload multiple content reference assets, but you can leverage only one for a specific generation.
+- Use a brand specific or custom template for generating content for a full email. Email templates with up to 8-10 images are recommended.
+- Make sure to report any problematic outputs using the thumb up, thumb down, or flag icons when selecting generated variants.
+
+## Input and settings for content generation
+
+You can generate full content for an email, or for selected components in the email. When you use the content generation tools, you provide prompts, reference content, and settings for text and images.
+
+### Prompts
+
+Use well-defined prompts for the generative AI model to interpret with accuracy. The marketing objective/prompt you provide impacts the quality of the generated content.
+
+{width="320"}
+
+For more information about creating effective prompts, see *Prompt best practices*.
+
+#### Prompt Library
+
+An effective prompt is essential for generating the best possible content. If you want assistance with crafting your prompt, click the *Prompt library* icon to access a library of prompt ideas that are organized according to objectives. Enter text in the search field to find a prompt based on a keyword string.
+
+{width="600" modal="regular"}
+
+Select the prompt that best reflects your intended goals and click **Try this Prompt**. In the *Prompt* field, replace placeholders (such as [Key Feature/Information]) with your brand, offering, campaign, and use case details.
+
+style
+shade-box
+### Text settings
+
+Expand the **Text settings** in the right panel and set the options for generated text.
+
+- Buying group - Choose the buying group role to use for targeting your messaging. Journey Optimizer B2B Edition offers five standard B2B buying group roles pre-configured. Each buying group role has a distinct messaging focus: table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 Role Messaging focus Executive Steering Committee Product information Pricing Technical integration details Product features and functions Influencer Proof of quality Ease of implementation Subject matter expertise Competitive advantages Decision maker Return on investment Financial value (RoI) Customer stories Practitioner Ease of use Product features and functionality Product compatibility Ease of product integration Champion Educational content Thought leadership content Customer stories
+- Marketing journey stage - Choose the buying group stage to use for targeting the messaging.
+- Communication strategy - Choose the most suitable communication style for your generated text.
+- Language - Choose the language of your generated content.
+- Tone - The tone that resonates with your audience. For example, you can adjust the message to sound informative, playful, or persuasive.
+
+{width="350" modal="regular"}
+
+Click the left arrow to return to the main *Settings*.
+
+### Image settings
+
+To include images in your generated content, expand the **Image settings** in the right panel and set the options.
+
+The system disables the **Generate images using AI** option by default. Enable this feature and set the following options to include generated images in the proposed content variations:
+
+- **Generative model**: Select from the ready-to-use Adobe-provided model, the partner model for specialized capabilities, or configured custom models trained on your brand assets. For more information about generative models, see *Generative AI models for brand alignment*.
+- **Aspect ratio**: When an image component is selected, this setting determines the width and height of the asset. Choose from common ratios like 16:9, 4:3, 3:2, or 1:1, or enter a custom ratio.
+- **Content type**: The type categorizes the nature of the visual element, distinguishing between different forms of visual representation, such as photos, graphics, or art.
+- **Visual intensity**: Control the image’s impact by adjusting its intensity. A lower setting (such as 2) creates a softer, more restrained appearance, while a higher setting (such as 10) makes the image more vibrant and visually powerful.
+- **Color and tone**: The overall appearance of the colors within an image and the mood or atmosphere it conveys.
+- **Lighting**: The lighting style used for the image, which shapes its atmosphere and highlights specific elements.
+- **Composition**: The arrangement of elements within the frame of an image.
+
+{width="350" modal="regular"}
+
+Click the left arrow to return to the main *Settings*.
+
+### Reference content
+
+Upload reference content assets to generate accurate, on-brand content. Otherwise, generated content is based on publicly available information. Reference content serves as the source for content generation and image recommendations. For guidelines and best practices, see *Optimized reference content*.
+
+From the **Reference content** settings, click **Upload file** to add any asset that contains content you want to use for additional context.
+
+{width="350" modal="regular"}
+
+The file to upload can be in the following formats: PDF, JPEG, PNG, or ZIP files (containing supported file formats). The maximum size for an uploaded brand asset is 50MB. Larger files or a large number of images can work, but this increases the processing time.
+
+If you want to select a previously uploaded file, expand the **Uploaded reference content** list and enable the asset that you want to use for your content generation.
+
+{width="350" modal="regular"}
+
+## Generate email properties
+
+When you [add an email action](/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/add-email#add-an-email-action-node-in-a-journey) to an account journey, you define a set of email properties that are used for sending the email. The generative AI tools can help achieve better email engagement by generating recommended content for the email *subject line* and *preheader*.
+
+When you create an email from a journey or open an existing email from a journey node, the email preview page is displayed with the *Email properties* on the right. In the *Summary* tab, you can use the content generation tools to generate a subject line, preheader, or both.
+
+Subject line generation
+The following steps describe the task sequence for generating an optimized subject line for your email:
+
+- In the Summary panel with the Details tab selected, scroll down to the Subject line field.
+- Click the Generate content icon ( {width="30"} ) at the right of the field. {width="600" modal="regular"} The Generate Subject Line dialog opens with the generation settings for the email subject line.
+- (Required) In the Prompt field, enter a description of what you want to generate. Use the Prompt Library if you need some help with crafting an effective prompt.
+- (Optional) To provide additional input for generating the preheader, complete the content guidance settings: Text settings - Provide guidance for the generated text content. Reference content - Provide the content asset that serves as the source for content generation.
+- When your prompt and settings are ready, click Generate . The generated variants are displayed in the dialog. {width="600" modal="regular"}
+- Scroll the Generate content panel and browse through the generated variations to determine which one is the most suitable. You can submit feedback for a generated variant by clicking the Thumbs Up , Thumbs Down , or Flag icon and choosing the reason that best summarizes your feedback.
+- Click the Refine option to access additional customization features: Rephrase - Rewrite the message while preserving its meaning. This option helps you generate alternative wording or adjust phrasing without changing the core message. Use simpler language - Simplify the language, ensuring clarity and accessibility for a wider audience. Translate - Translate the text to another language. (Currently, English is the only supported language. Other languages are planned for future releases.) Change tone - Adjust the tone of the message to align with your communication style, such as making it more friendly, professional, urgent, or inspirational. Change Communication strategy - Modify the messaging approach based on your objectives, such as creating urgency, or emphasizing compelling appeal. {width="600" modal="regular"}
+- Click Select to replace the subject line text with the selected variant and return to the email properties.
+
+Preheader generation
+An email preheader is the short summary text that follows the subject line when an email is viewed in the inbox. It is an optional element for an email, but an effective opportunity to improve engagement. The following steps describe the task sequence for generating an optimized preheader for your email:
+
+- In the Summary panel with the Details tab selected, scroll down and select the Preheader checkbox. {width="600" modal="regular"} The Generate Preheader dialog opens with the generation settings for the email preheader.
+- (Required) In the Prompt field, enter a description of what you want to generate. Use the Prompt Library if you need some help with crafting an effective prompt.
+- (Optional) To provide additional input for generating the preheader, complete the content guidance settings: Text settings - Provide guidance for the generated text content. Reference content - Provide the content asset that serves as the source for content generation.
+- When your prompt and settings are ready, click Generate . The generated variants are displayed in the dialog. {width="600" modal="regular"}
+- Scroll down the Generate content panel and browse through the generated variations to determine which one is the most suitable. You can submit feedback for a generated variant by clicking the Thumbs Up , Thumbs Down , or Flag icon and choosing the reason that best summarizes your feedback.
+- Click the Refine option to access additional customization features: Rephrase - Rewrite the message while preserving its meaning. This option helps you generate alternative wording or adjust phrasing without changing the core message. Use simpler language - Simplify the language, ensuring clarity and accessibility for a wider audience. Translate - Translate the text to another language. (Currently, English is the only supported language. Other languages are planned for future releases.) Change tone - Adjust the tone of the message to align with your communication style, such as making it more friendly, professional, urgent, or inspirational. Change Communication strategy - Modify the messaging approach based on your objectives, such as creating urgency, or emphasizing exciting appeal. {width="500" modal="regular"}
+- Click Select to replace the preheader with the selected variant and return to the email properties.
+
+## Generate email body content generative-ai-email-design
+
+After you [create and personalize your email](/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-authoring), use Adobe’s generative AI tools to improve your email body content.
+
+In the email design space, generative AI tools can help you optimize the impact of your deliveries by generating the full email body, targeted text content, and images that resonate with your audience. This optimization of your email campaigns is designed to produce better engagement. Select the *Generate content* ( {width="25" modal="regular"} ) to display the content generation tools that are available for the current content selection.
+
+{width="600" modal="regular"}
+
+Use the following steps according to the type of email content generation that you want to use:
+
+Full email generation
+To generate a full email by refining an existing email template, follow these steps:
+
+- After creating the email , click Edit email content .
+- Select a template. Full content generation requires a template. It can be a standard template provided by Adobe, or a saved template. You can also use the Import HTML option to import a template. For more information about using an email template, see Select a template .
+- In the email design space, click the Generate content ( {width="25"} ) icon at the right. The settings on the right reflect Generate Email . {width="600" modal="regular"}
+- Select your Brand to ensure that the AI-generated content aligns with your brand specifications. If there are no published brands, click Create a brand to define your reusable brand guidelines .
+- In the Prompt field, enter a description of what you want to generate. Use the Prompt Library if you need some help with crafting an effective prompt. note tip TIP If you are new to prompting for generated content, review the Prompting best practices .
+- To tailor the generated content, complete the content guidance settings: Text settings - Provide guidance for the generated text content. Image settings - If you want to include images in the generated content, enable image generation and provide guidance. Reference content - Provide the content asset that serves as the source for content generation.
+- When your prompt and settings are ready, click Generate . The generated variations are displayed in the right panel.
+- Browse through the generated variations or click the Full screen ( ) icon to open the Generate Email dialog. The dialog provides additional space to compare the variations, adjust your text and reference content settings (if needed), and regenerate the variations. You can also fine-tune a variation by applying refinement actions and submit feedback for the generated variations. See Preview and content refinement for more details about variation refinement and feedback. {width="700" modal="regular"}
+- Click Select to replace the template contents with the selected variant and return to the email design space. You can use the editing and formatting tools on the canvas to alter the generated content, as well as the Settings and Style options on the right.
+
+Text only
+To refine or enhance the text content for an existing email, follow these steps:
+
+- In the email design space, select a Text component to target the specific content.
+- On the outer rail of the right panel, select the Generate content ( {width="25"} ) icon. The settings on the right reflect the content generation settings for the text component.
+- Select your Brand to ensure that the AI-generated content aligns with your brand specifications. If there are no published brands, click Create a brand to define your reusable brand guidelines .
+- In the Prompt field, enter a description of what you want to generate. {width="600" modal="regular"} Use the Prompt Library if you need some help with crafting an effective prompt.
+- To tailor the generated content, complete the content guidance settings: Text settings - Provide guidance for the generated text content. Reference content - Provide the content assets that serve as the source for content generation.
+- When your prompt and settings are ready, click Generate .
+- Browse through the generated variations or click the Full screen ( ) icon to open the Generate Text dialog. The dialog provides additional space to compare the variations, adjust your text and reference content settings (if needed), and to regenerate the variations. You can also fine-tune a variation by applying refinement actions and submit feedback for the generated variations. See Preview and content refinement for more details about variation refinement and feedback. {width="700" modal="regular"}
+- When you have the content that you want, click Select to replace the text with the selected variant and return to the email design space. You can use the editing and formatting tools on the canvas to alter the text, as well as the Settings and Style options on the right.
+
+Image only
+To refine or enhance the image content for an existing email, follow these steps:
+
+- In the email design space, select an Image component to target the specific content.
+- On the outer rail of the right panel, select the Generate content ( {width="25"} ) icon. The settings on the right reflect the generation settings for the image component.
+- Select your Brand to ensure that the AI-generated content aligns with your brand specifications. If there are no published brands, click Create a brand to define your reusable brand guidelines .
+- Enter a description of what you want in the Prompt field. {width="600" modal="regular"} Use the Prompt Library if you need some help with crafting an effective prompt.
+- To tailor the generated content, complete the content guidance settings: Image settings - If you want to include images in the generated content, enable image generation and use the guidance settings. Reference content - Provide the content assets that serve as the source for content generation.
+- When you are satisfied with your prompt and settings, click Generate . The system processes the request and generates the best suited images based on the prompt and other inputs. note important IMPORTANT If there are no images in the reference content or there are no images relevant to the input prompt, the output is empty.
+- Browse through the generated variations or click the Full screen ( ) icon to open the Generate Image dialog. The dialog provides additional space to compare the variations, adjust your image and reference content settings (if needed), and regenerate the variations. You can select a variation and click Generate Similar to generate additional images that are similar to the selected variant. Or, click Edit in Adobe Express to make your own changes to the image. See Quick actions in Adobe Express for more information about using Adobe Express to refine your images. {width="700" modal="regular"} You can also submit feedback for the generated variations.
+- Highlight the image that you want and click Select to replace the image or placeholder with the selected item and return to the email design space. You can use the editing and formatting tools on the canvas to alter the image, as well as the Settings and Style options on the right.
+
+## Preview and refine the content refine-finalize
+
+After generating content variations, you can fine-tune the results to ensure that they meet your exact requirements. Review the brand alignment, adjust tone and language, and prepare the content for a reviewable draft. You can also submit feedback for a variation to help train the generative AI tools and improve future output.
+
+### Open the full screen view
+
+- After the initial content generation, browse through the Variations .
+- Identify the variation that is the best match for your goals and click the Full screen ( ) icon to view the selected variation in more depth. {width="700" modal="regular"}
+- When you are satisfied with the selected variation, click Select to apply it to your canvas.
+
+### Refine a variation
+
+Click the **Refine** option to access additional customization features for email and text variations:
+
+- Elaborate - Expand on specific topics, providing additional details for better understanding and engagement.
+- Summarize - Lengthy information can overwhelm readers. Use this option to condense key points into clear, concise summaries that attract attention and encourage readers to read further.
+- Rephrase - Rewrite the message while preserving its meaning. This option helps you generate alternative wording, improve flow, or adjust phrasing without changing the core message.
+- Use simpler language - Simplify the language, ensuring clarity and accessibility for a wider audience.
+- Translate - Translate the text to another language. (Currently, English is the only supported language. Other languages are planned for future releases.)
+- Change tone - Adjust the tone of the message to align with your communication style, such as making it more friendly, professional, urgent, or inspirational.
+- Change Communication strategy - Modify the messaging approach based on your objectives, such as creating urgency, or emphasizing exciting appeal.
+
+{width="700" modal="regular"}
+
+### Submit variation feedback
+
+Provide feedback for the generated variants by clicking the *Thumbs Up*, *Thumbs Down*, or *Flag* icon and choosing the reason that best summarizes your feedback.
+
+{width="700" modal="regular"}
+
+### Check your brand alignment (Beta)
+
+The brand alignment evaluation and scoring help you to ensure consistency in tone, messaging, and visual identity across your email campaigns, while also serving as a quality check before your content goes live. When the email content is complete, click the *Brand alignment* ( ) icon on the right to open the *Brand alignment* right panel in the email design space.
+
+{width="600" modal="regular"}
+
+For detailed information, see *Brand alignment score*
+
+recommendation-more-help
+
+
+---
+# FILE: generate-landing-page-content.md
+---
+
+---
+title: "Generate landing page content"
+url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/generate-content-landing-pages"
+category: "other"
+topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
+created_at: "2026-10-01T14:11:27.981107+00:00"
+---
+Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
+
+# Generate landing page content
+
+Last update: September 14, 2026
+- Topics:
+- [Generative AI](#)
 - [Content management](#)
 
 CREATED FOR:
@@ -14399,7 +14468,213 @@ CREATED FOR:
 - Intermediate
 - User
 
-Generative AI for content in Adobe Journey Optimizer B2B Edition, powered by Microsoft Azure OpenAI and Adobe Firefly, provides proactive content variation suggestions for text and images. Optimize your content impact by experimenting with different main titles and images.
+Generative AI for landing page content in Adobe Journey Optimizer B2B Edition, powered by Microsoft Azure OpenAI and Adobe Firefly, revolutionizes the way marketers create professional and brand-consistent landing page content. Optimize your content impact by experimenting with different main titles and images. With advanced generative AI models and deep understanding of brand guidelines, these tools can auto-generate personalized, engaging, and effective content. These generative AI tools make campaign and program creation and execution more intuitive, simple, and efficient. Adding this capability to your workflows can save you time, improve efficiency, and drive better results.
+
+You can generate complete content experiences for your landing pages, including both text and images. This robust functionality helps you create compelling, on-brand content that connects with your audience.
+
+NOTE
+This capability is available in its Beta version and subject to change without prior notice.
+IMPORTANT
+To access these features in Journey Optimizer B2B Edition, you must have the
+AI Assistant
+>
+Generate Content
+permission. For more information about how a product administrator can grant feature permissions, see
+Edit roles for product permissions
+.
+## Guidelines and limitations
+
+Before you start using this capability, review the [guidelines and limitations](/en/docs/journey-optimizer-b2b/user/content-management/generative-ai-content#general-guidelines-and-limitations). [User agreement](https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html#_blank) acceptance is also required before you can use AI capabilities in Journey Optimizer B2B Edition. For more information, contact your Adobe representative.
+
+To promote transparency in generative AI, Adobe applies [content credentials](https://helpx.adobe.com/firefly/web/get-started/learn-the-basics/content-credentials-overview.html#_blank) to Firefly-generated assets upon download or export.
+
+The following limitations and guidelines apply to content generation features used for landing pages in Journey Optimizer B2B Edition:
+
+- English is the only supported language.
+- Generated content might not be accurate — share your feedback so that Adobe engineers can refine the models.
+- You can upload multiple content reference assets, but can use only one for a specific generation.
+- Use a brand-specific or custom template for generating content for a full landing page. Landing page templates with up to 8-10 images are recommended.
+- Make sure to report any problematic outputs using the thumb up, thumb down, or flag icons when selecting generated variants.
+
+## Input and settings for content generation
+
+You can generate full content for a landing page, or for selected components in the page. When using these tools, provide input, prompts, reference content, and settings for text and images.
+
+### Prompts
+
+Use well-defined prompts for the generative AI model to interpret with accuracy. The marketing objective/prompt you provide impacts the quality of the generated content.
+
+{width="320"}
+
+For more information about creating effective prompts, see *Prompt best practices*.
+
+**Prompt Library**
+
+An effective prompt is essential for generating the best possible content. If you want assistance with crafting your prompt, click the *Prompt library* icon to access a library of prompt ideas that are organized according to objectives. Enter text in the search field to find a prompt based on a keyword string.
+
+{width="600" modal="regular"}
+
+Select the prompt that best reflects your intended goals and click **Try this Prompt**. In the *Prompt* field, replace placeholders (such as [Key Feature/Information]) with your brand, offering, campaign, and use case details.
+
+style
+shade-box
+### Text settings
+
+Expand the **Text settings** in the right panel and set the options for generated text.
+
+- **Buying group** - Choose the [buying group role](/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) to use for targeting your messaging.
+- **Marketing journey stage** - Choose the [buying group stage](/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-group-stages) to use for targeting the messaging.
+- **Communication strategy** - Choose the most suitable communication style for your generated text.
+- **Language** - Choose the language of your generated content.
+- **Tone** - The tone that resonates with your audience. For example, you can adjust the message to sound informative, playful, or persuasive.
+
+{width="350" modal="regular"}
+
+Click the left arrow to return to the main *Settings*.
+
+### Image settings
+
+To include images in your generated content, expand the **Image settings** in the right panel and set the options.
+
+The system disables the **Generate images using AI** option by default. Enable this feature and set the following options to include generated images in the proposed content variations:
+
+- **Generative model**: Select from the ready-to-use Adobe-provided model, the partner model for specialized capabilities, or configured custom models trained on your brand assets. For more information about generative models, see *Generative AI models for brand alignment*.
+- **Aspect ratio**: When an image component is selected, this setting determines the width and height of the asset. Choose from common ratios like 16:9, 4:3, 3:2, or 1:1, or enter a custom size.
+- **Content type**: The type categorizes the nature of the visual element, distinguishing between different forms of visual representation, such as photos, graphics, or art.
+- **Visual intensity**: Control the image’s impact by adjusting its intensity. A lower setting (such as 2) creates a softer, more restrained appearance, while a higher setting (such as 10) makes the image more vibrant and visually powerful.
+- **Color and tone**: The overall appearance of the colors within an image and the mood or atmosphere it conveys.
+- **Lighting**: The lighting style used for the image, which shapes its atmosphere and highlights specific elements.
+- **Composition**: The arrangement of elements within the frame of an image.
+
+{width="350" modal="regular"}
+
+Click the left arrow to return to the main *Settings*.
+
+### Reference content
+
+Upload reference content assets to generate accurate, on-brand content. Otherwise, generated content is based on publicly available information. Reference content serves as the source for content generation and image recommendations. For guidelines and best practices, see *Optimized reference content*.
+
+From the **Reference content** settings, click **Upload file** to add any asset that contains content you want to use for additional context.
+
+{width="350" modal="regular"}
+
+The file to upload can be in the following formats: PDF, JPEG, PNG, or ZIP files (containing supported file formats). The maximum size for an uploaded brand asset is 50MB. Larger files or a large number of images can work, but this increases the processing time.
+
+If you want to select a previously uploaded file, expand the **Uploaded reference content** list and enable the asset that you want to use for your content generation.
+
+{width="350" modal="regular"}
+
+## Use the generative AI tools gen-ai-tools
+
+To begin generating your content, open the content editor for the landing page and access the generative AI tools on the outer rail of the right panel. Select the *Generate content* ( {width="25" modal="regular"} ) to display the content generation tools that are available for the current content selection.
+
+Use the following steps according to the type of landing page content generation that you want to use:
+
+Full page
+To generate a full landing page by refining an existing template, follow these steps:
+
+- After creating the landing page , click Edit landing page .
+- Select a template. Full content generation requires a template. It can be a standard template provided by Adobe, or a saved template. You can also use the Import HTML option to import a template. For more information about using a landing page template, see Select a template .
+- On the outer rail of the right panel, select the Generate content ( {width="25" modal="regular"} ) icon. {width="600" modal="regular"} The settings on the right reflect the generation settings for the full landing page.
+- (Beta) Select your Brand to ensure that the AI-generated content aligns with your brand specifications. If there are no published brands, click Create a brand to define your reusable brand guidelines .
+- In the Prompt field, enter a description of what you want to generate. Use the Prompt Library if you need some help with crafting an effective prompt. note tip TIP If you are new to prompting for generated content, review the Prompting best practices .
+- To tailor the generated content, complete the content guidance settings: Text settings - Provide guidance for the generated text content. Image settings - If you want to include images in the generated content, enable image generation and provide guidance. Reference content - Provide the content asset that serves as the source for content generation.
+- When your prompt and settings are ready, click Generate .
+- Scroll down in the Generate content panel and browse through the generated variations to determine which one is the most suitable. Click the Full screen ( ) icon to open the Generate Landing Page dialog If needed, use the refinement actions to fine-tune the variation to ensure that it meets your exact requirements. Submit feedback for the generated variants by clicking the Thumbs Up , Thumbs Down , or Flag icon and choose the reason that best summarizes your feedback.
+- Click Select to replace the template contents with the selected variant and return to the landing page design space. You can use the editing and formatting tools on the canvas to alter the generated content, as well as the Settings and Style options on the right.
+
+Text only
+To refine or enhance text content for an existing landing page, follow these steps:
+
+- In the landing page design space, select a Text component to target the specific content.
+- On the outer rail of the right panel, select the Generate content ( {width="25" modal="regular"} ) icon. {width="600" modal="regular"} The settings on the right reflect the content generation settings for the text component.
+- (Beta) Select your Brand to ensure that the AI-generated content aligns with your brand specifications. If there are no published brands, click Create a brand to define your reusable brand guidelines .
+- In the Prompt field, enter a description of what you want to generate. Use the Prompt Library if you need some help with crafting an effective prompt.
+- To tailor the generated content, complete the content guidance settings: Text settings - Provide guidance for the generated text content. Reference content - Provide the content assets that serve as the source for content generation.
+- When your prompt and settings are ready, click Generate .
+- Scroll down in the Generate content panel and browse through the generated variations to determine which one is the best fit. Click the Full screen ( ) icon to open the Generate Text dialog If needed, use the refinement actions to fine-tune the variation to ensure that it meets your exact requirements. Submit feedback for the generated variants by clicking the Thumbs Up , Thumbs Down , or Flag icon and choose the reason that best summarizes your feedback.
+- When you have the content that you want, click Select to replace the text with the selected variant and return to the landing page design space. You can use the editing and formatting tools on the canvas to alter the text, as well as the Settings and Style options on the right.
+
+Image only
+To refine or enhance image content for an existing landing page, follow these steps:
+
+- In the landing page design space, select an Image component to target the specific content.
+- On the outer rail of the right panel, select the Generate content ( {width="25" modal="regular"} ) icon. {width="600" modal="regular"} The settings on the right reflect the generation settings for the image component.
+- (Beta) Select your Brand to ensure that the AI-generated content aligns with your brand specifications. If there are no published brands, click Create a brand to define your reusable brand guidelines .
+- Enter a description of what you want in the Prompt field. Use the Prompt Library if you need some help with crafting an effective prompt.
+- To tailor the generated content, complete the content guidance settings: Image settings - If you want to include images in the generated content, enable image generation and provide guidance. Reference content - Provide the content assets that serve as the source for content generation.
+- When you are satisfied with your prompt and settings, click Generate . Generate content processes the request and generates the best-suited images based on the prompt and other inputs. note important IMPORTANT If there are no images in the reference content or there are no images relevant to the input prompt, the output is empty.
+- Browse through the generated variations or click the Full screen ( ) icon to open the Generate Image dialog. The dialog provides additional space to compare the variations, adjust your image and reference content settings (if needed), and to regenerate the variations. You can select a variation and click Generate Similar to generate additional images that are similar to the selected variant. Or, click Edit in Adobe Express to make your own changes to the image. See Quick actions in Adobe Express for more information about using Adobe Express to refine your images. {width="700" modal="regular"} You can also submit feedback for the generated variations.
+- Highlight the image that you want and click Select to replace the image or placeholder with the selected item and return to the landing page design space. You can use the editing and formatting tools on the canvas to alter the image, as well as the Settings and Style options on the right.
+
+## Preview and content refinement refine-finalize
+
+After generating content variations, you can fine-tune the results to ensure that they meet your exact requirements. Review the brand alignment, adjust tone and language, and prepare the content for a reviewable draft. You can also submit feedback for a variation to help train the generative AI tools and improve future output.
+
+### Open the full screen view
+
+- After the initial content generation, browse through the Variations .
+- Identify the variation that is the best match for your goals and click the Full screen ( ) icon to open the dialog. {width="700" modal="regular"}
+- When you are satisfied with the selected variation, click Select to apply it to your canvas.
+
+### Refine a variation
+
+Click the **Refine** option to access additional customization features for landing page and text variations:
+
+- Elaborate - Expand on specific topics, providing additional details for better understanding and engagement.
+- Summarize - Lengthy information can be difficult for page viewers to process. Use this option to condense key points into clear, concise summaries that encourage recipients to read further.
+- Rephrase - Rewrite the message while preserving its meaning. This option helps you generate alternative wording, improve flow, or adjust phrasing without changing the core message.
+- Use simpler language - Simplify the language, ensuring clarity and accessibility for a wider audience.
+- Translate - Translate the text to another language. (Currently, English is the only supported language.)
+- Change tone - Adjust the tone of the message to align with your communication style, such as making it more friendly, professional, urgent, or inspirational.
+- Change Communication strategy - Modify the messaging approach based on your objectives, such as creating urgency, or emphasizing exciting appeal.
+
+{width="700" modal="regular"}
+
+### Submit variation feedback
+
+Provide feedback for the generated variants by clicking the *Thumbs Up*, *Thumbs Down*, or *Flag* icon and choose the reason that best summarizes your feedback.
+
+{width="700" modal="regular"}
+
+### Check your brand alignment (Beta)
+
+The brand alignment evaluation and scoring help you to ensure consistency in tone, messaging, and visual identity across your campaigns, while also serving as a quality check before your content goes live. When the landing page content is complete, click the *Brand alignment* ( ) icon on the right to open the *Brand alignment* right panel in the landing page design space.
+
+{width="600" modal="regular"}
+
+For detailed information, see *Brand alignment score*.
+
+recommendation-more-help
+
+
+---
+# FILE: generative-ai-for-content-generative-ai-content.md
+---
+
+---
+title: "Generative AI for content generative-ai-content"
+url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/generative-ai-content"
+category: "other"
+topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
+created_at: "2026-10-01T14:11:19.368722+00:00"
+---
+Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
+
+# Generative AI for content generative-ai-content
+
+Last update: September 14, 2026
+- Topics:
+- [Generative AI](#)
+- [Content management](#)
+- [Onboarding](#)
+
+CREATED FOR:
+
+- Intermediate
+- User
+
+Generative AI for content in Adobe Journey Optimizer B2B Edition, powered by Microsoft Azure OpenAI and Adobe Firefly, provides proactive content variation suggestions for text and images. Improve your content impact by experimenting with different main titles and images.
 
 Use the generative AI features for content creation in Journey Optimizer B2B Edition to harness Adobe’s generative AI capabilities. Craft personalized text and visuals for emails, SMS messages, landing pages, and more. When building a campaign or refining assets, these features help you align content with your brand guidelines while saving time.
 
@@ -14411,18 +14686,18 @@ Generate Content
 permission. For more information about how a product administrator can grant feature permissions, see
 Edit roles for product permissions
 .
-AI Assistant tools for content generation are supported with the following asset types:
+Content generation tools are supported with the following asset types:
 
-- [Emails](/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/ai-assistant-emails)
-- [Beta]{class="badge informative"} [Landing pages](/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/ai-assistant-landing-pages)
+- [Emails](/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/generate-content-emails)
+- [Beta]{class="badge informative"} [Landing pages](/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/generate-content-landing-pages)
 
 ## General guidelines and limitations general-guidelines-and-limitations
 
-Your use of generative AI features is subject to the [Adobe Experience Cloud Generative AI User Guidelines](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html#_blank). With Adobe’s commitment to transparency in the use of generative AI tools for media creation, Adobe applies [content credentials](https://helpx.adobe.com/firefly/web/get-started/learn-the-basics/content-credentials-overview.html#_blank) for any content or project that includes a Firefly-generated asset when it is downloaded or exported.
+Your use of generative AI features is subject to the [Adobe Experience Cloud Generative AI User Guidelines](https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html#_blank). With Adobe’s commitment to transparency in the use of generative AI tools for media creation, Adobe applies [C2PA metadata](/en/docs/journey-optimizer-b2b/user/content-management/assets/c2pa-metadata) for any content or project that includes a Firefly-generated asset when it is downloaded or exported.
 
 Review these general guidelines for using generative AI for content in Journey Optimizer B2B Edition:
 
-- Use well-defined prompts for the generative AI model to interpret with accuracy. The marketing objective or prompt you provide strongly affects the quality of the generated content.
+- Use well-defined prompts for the generative AI model to interpret with accuracy. The marketing objective or prompt you provide affects the quality of the generated content.
 - Upload content reference files to have accurate, on-brand content. Otherwise, content is based on publicly available information. The uploaded content can be in the following file formats: PDF, JPEG, PNG, or ZIP (containing supported file formats). The maximum size for an uploaded file is 50MB. Larger files or a large number of images can work, but this increases the processing time.
 - Use a brand specific or custom template to create your email content. Email templates with up to 8-10 images are recommended.
 - Make sure to report any problematic outputs using the thumb up, thumb down, or flag icons when selecting variants.
@@ -14431,7 +14706,7 @@ Review these general guidelines for using generative AI for content in Journey O
 
 This guide helps you structure your requests, communicate intent with clarity, and ensure that the AI produces messaging that aligns with your brand guidelines, audience needs, and campaign goals.
 
-Learn how to write effective prompts that enable AI Assistant to generate high-quality, on-brand marketing content tailored to your objectives.
+Learn how to write effective prompts that result in high-quality, on-brand marketing content tailored to your objectives.
 
 ### Use the CO-STAR framework costar-framework
 
@@ -14572,7 +14847,7 @@ Clearly indicate if your request involves generating new content or updating exi
 
 #### Creating new content
 
-Apply this strategy when you are launching marketing campaigns, unveiling new solutions, or initiating updated/refreshed communication. It ensures that your message starts strong and aligns with your goals.
+Apply this strategy when you are launching marketing campaigns, unveiling new solutions, or initiating updated/refreshed communication. It ensures that your message is effective and aligns with your goals.
 
 **How to prompt** ➤ When creating new content, focus on your marketing objective without referencing existing content.
 
@@ -14590,7 +14865,7 @@ TIP
 For standard modifications such as elaborate, summarize, or simplify, select
 Refine
 instead of writing custom prompts.
-Use a modification prompt when you need to update, refresh, or adapt your current marketing campaigns. This method supports incremental improvements, ensuring your messaging stays relevant without starting from scratch.
+Use a modification prompt when you need to update, refresh, or adapt your current marketing campaigns. This method supports incremental improvements, ensuring your messaging stays relevant without starting the process again.
 
 **How to prompt** ➤ When modifying existing content, clearly specify what you want changed and how to change it.
 
@@ -14604,7 +14879,7 @@ style
 shade-box
 ## Advanced text settings text-settings
 
-In addition to using a clear and well-formed prompt, the text settings in the AI Assistant content tools include text settings that you can use to optimize the generated outputs.
+In addition to using a clear and well-formed prompt, use the text settings to optimize the generated outputs.
 
 TIP
 Use the
@@ -14736,18 +15011,18 @@ TIP
 If you have already uploaded an asset through the
 Reference content
 menu, you do not need to reference it in your prompt. The system automatically uses any selected documents.
-Reference content files provide factual information that enriches your generated content with specific, accurate details. When you upload documents, such as product brochures or white papers, alter your prompt to include which parts have focus:
+Reference content files provide factual information that enriches your generated content with specific, accurate details. To include which parts have focus, alter your prompt when you upload documents, such as product brochures or white papers:
 
-- Instead of “Use the product brochure” you should use “Focus on the advanced security features and compliance certifications, specifically SOC 2 compliance and data encryption”
-- Instead of “Reference the case studies” you should use “Highlight ROI results from healthcare clients, specifically the 40% cost reduction at Regional Medical Center”
-- Instead of “Include technical details” you should use “Emphasize API integration capabilities and developer benefits, focusing on REST API endpoints and 99.9% uptime SLA”
+- Instead of “Use the product brochure” use “Focus on the advanced security features and compliance certifications, specifically SOC 2 compliance and data encryption”
+- Instead of “Reference the case studies” use “Highlight ROI results from healthcare clients, specifically the 40% cost reduction at Regional Medical Center”
+- Instead of “Include technical details” use “Emphasize API integration capabilities and developer benefits, focusing on REST API endpoints and 99.9% uptime SLA”
 
 ### Content refinement
 
 After content is generated, use the *Refine* feature to iterate and enhance it with the following options:
 
-- Elaborate - AI Assistant can help you expand on specific topics, providing additional details for better understanding and engagement.
-- Summarize - Lengthy information can overload page viewers. Use AI Assistant to condense key points into clear, concise summaries that grab attention and encourage them to read further.
+- Elaborate - Expand on specific topics, providing additional details for better understanding and engagement.
+- Summarize - Lengthy information can overload readers. Modify to condense key points into clear, concise summaries that grab attention and encourage them to read further.
 - Rephrase - Rewrite the message while preserving its meaning. This option helps you generate alternative wording, improve flow, or adjust phrasing without changing the core message.
 - Use simpler language - Simplify the language, ensuring clarity and accessibility for a wider audience.
 - Translate - Translate the text to another language. (Currently, English is the only supported language.)
@@ -14766,7 +15041,7 @@ title: "Generative AI models for brand alignment"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/brands/generative-ai-models"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:57.995463+00:00"
+created_at: "2026-10-01T14:10:03.032367+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -14845,13 +15120,13 @@ title: "Governance and privacy features"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/governance"
 category: "guides"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:12.498418+00:00"
+created_at: "2026-10-01T14:10:11.496825+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Governance and privacy features
 
-Last update: June 13, 2026
+Last update: September 4, 2026
 - Topics:
 - [Administration](#)
 - [Data management](#)
@@ -14864,13 +15139,13 @@ Journey Optimizer B2B Edition is an integrated Adobe Experience Platform app. It
 
 ## Privacy
 
-There are various regulations that apply to Journey Optimizer B2B Edition customers who hold data for Data Subjects residing in the respective regions or countries mentioned above (EU, California, Thailand, Brazil, New Zealand). This information on this page is not legal advice and does not warrant your compliance with applicable law.
+Various regulations apply to Journey Optimizer B2B Edition users holding data for Data Subjects in regions such as the EU, California, Thailand, Brazil, and New Zealand. The information provided in this page is not legal advice and does not warrant your compliance with applicable law.
 
 ### GDPR
 
 General Data Protection Regulation (GDPR) is the European Union’s (EU) privacy law that harmonizes and modernizes [data protection requirements](https://commission.europa.eu/law/law-topic/data-protection/data-protection-explained_en#_blank) for EU countries.
 
-Journey Optimizer B2B Edition uses the existing Marketo Engage GDPR governance features provided by the Privacy Service and Marketo Privacy Broker Service.
+Journey Optimizer B2B Edition uses the existing Experience Platform GDPR governance feature provided by the Privacy Service. For information about submitting and managing access and delete requests, see *Privacy management*.
 
 ### CNIL
 
@@ -14878,9 +15153,9 @@ On April 14, 2026, the Commission nationale de l’informatique et des libertés
 
 CNIL provided a three-month period from the date of the recommendation for companies to inform their email recipients of the presence of the tracking pixels, their purpose, and the recipients’ right to opt-out. During this transition period, Marketo Engage users are expected to notify their recipients about pixel tracking and provide an opt-out if necessary. CNIL is expected to begin enforcement activities after July 14, 2026.
 
-As the CNIL and other regulators clarify guidance on tracking pixels and related issues, Adobe will continue to monitor updates and inform you of changing technical capabilities.
+As the CNIL and other regulators clarify guidance on tracking pixels and related issues, Adobe monitors updates and informs you of changing technical capabilities.
 
-Journey Optimizer B2B Edition offers controls that help you manage open tracking at the email level. Users are responsible for determining their own compliance obligations under applicable CNIL guidance and other laws. For infromation about using these capabilities to manage email open tracking, see *Manage email tracking*.
+Journey Optimizer B2B Edition offers controls that help you manage open tracking at the email level. Users are responsible for determining their own compliance obligations under applicable CNIL guidance and other laws. For information about using these capabilities to manage email open tracking, see *Manage email tracking*.
 
 ## Role-based access control (RBAC)
 
@@ -14888,9 +15163,9 @@ With Journey Optimizer B2B Edition and access to the Adobe Admin Console, admini
 
 ## Data encryption
 
-*Encryption for data at rest* - All account and person profile data transferred from Adobe Experience Platform into Journey Optimizer B2B Edition are encrypted to maintain the existing compliance from Experience Platform. All entities originating in Journey Optimizer B2B Edition, such as journeys and buying groups, are also encrypted.
+*Encryption for data at rest* — All account and person profile data transferred from Adobe Experience Platform into Journey Optimizer B2B Edition are encrypted to maintain the existing compliance from Experience Platform. All entities originating in Journey Optimizer B2B Edition, such as journeys and buying groups, are also encrypted.
 
-*Encryption for data in transit* (over a public network) - All Journey Optimizer B2B Edition APIs and entities are encrypted in transit using TLS 1.2.
+*Encryption for data in transit* (over a public network) — All Journey Optimizer B2B Edition APIs and entities are encrypted in transit using TLS 1.2.
 
 ## Consent opt-in/opt-out
 
@@ -14902,7 +15177,7 @@ For details on the XDM attributes evaluated for each channel and their default b
 
 ## Sandbox reset
 
-Sandbox reset is **not currently supported** for Adobe Journey Optimizer B2B Edition. Resetting or deleting a sandbox mapped to Journey Optimizer B2B Edition may cause permanent data loss and require provisioning a new instance.
+Sandbox reset is **not currently supported** for Adobe Journey Optimizer B2B Edition. Resetting or deleting a sandbox mapped to Journey Optimizer B2B Edition could cause permanent data loss and require provisioning a new instance.
 
 ## Not yet available
 
@@ -14928,7 +15203,7 @@ title: "Helper functions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/personalization/personalization-helper-functions"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:05.485975+00:00"
+created_at: "2026-10-01T14:10:07.585596+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -17258,7 +17533,7 @@ title: "Home page"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/home-page"
 category: "overview"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:27.912588+00:00"
+created_at: "2026-10-01T14:10:22.718576+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -17334,7 +17609,7 @@ title: "In-CRM access to detail pages"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/sales-experience/crm-linking"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:29.219114+00:00"
+created_at: "2026-10-01T14:09:45.167096+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -17512,7 +17787,7 @@ title: "In-CRM Insights"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/incrm-insights"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:23.477382+00:00"
+created_at: "2026-10-01T14:09:41.897489+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -17592,7 +17867,7 @@ title: "Intelligent Dashboard"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/intelligent-dashboard"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:06.619174+00:00"
+created_at: "2026-10-01T14:10:08.261725+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -17829,21 +18104,21 @@ recommendation-more-help
 
 
 ---
-# FILE: intent-data.md
+# FILE: intent-data-configuration.md
 ---
 
 ---
-title: "Intent data"
+title: "Intent data configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/configurations/intent-data"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:15.268924+00:00"
+created_at: "2026-10-01T14:10:13.116874+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
-# Intent data
+# Intent data configuration
 
-Last update: June 13, 2026
+Last update: September 11, 2026
 - Topics:
 - [Administration](#)
 - [Buying Groups](#)
@@ -17852,14 +18127,11 @@ CREATED FOR:
 
 - Admin
 
-In Journey Optimizer B2B Edition, the Intent Detection model predicts a solution/product of interest with high enough confidence based on a lead’s activity. It also leverages other account co-members’ activities, along with tagged content. The intent of a person can be interpreted as the probability of having interest in a product.
+In Adobe Journey Optimizer B2B Edition, the Intent Detection model predicts a solution/product of interest with high enough confidence based on a lead’s activity. It also leverages other account co-members’ activities, along with tagged content. The intent of a person can be interpreted as the probability of having interest in a product.
 
-- Levels of intent - Available on known lead, account, and buying group level.
-- Types of intent signal - Keywords, product, and solution
+For more information about intent score calculation, see *Intent scores*.
 
 The intent data is used in the *Intelligent Dashboard*, [Account details page](/en/docs/journey-optimizer-b2b/user/accounts/sales-experience/account-details), [Buying group details page](/en/docs/journey-optimizer-b2b/user/accounts/sales-experience/buying-group-details), and [Person details page](/en/docs/journey-optimizer-b2b/user/accounts/sales-experience/person-details).
-
-{width="700" modal="regular"}
 
 ## Prepare your intent mapping data
 
@@ -17902,6 +18174,188 @@ recommendation-more-help
 
 
 ---
+# FILE: intent-scores-intent-scores.md
+---
+
+---
+title: "Intent scores intent-scores"
+url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/intent-scores"
+category: "other"
+topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
+created_at: "2026-10-01T14:11:20.481025+00:00"
+---
+Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
+
+# Intent scores intent-scores
+
+Last update: September 11, 2026
+- Topics:
+- [Intelligent Insights](#)
+
+CREATED FOR:
+
+- Intermediate
+- User
+
+An intent score measures how interested a person or account is in a keyword, product, or product category. Adobe Journey Optimizer B2B Edition calculates the score using machine learning that measures similarity in meaning, rather than manual rules or a fixed point system. Every score is normalized from 0 to 1, with higher numbers indicating stronger intent.
+
+Content relevance refreshes roughly every 12 hours, and intent scores recalculate daily. Scores aggregate from keyword to product, and from person to account. Intent scores appear throughout the [Intelligent Dashboard](/en/docs/journey-optimizer-b2b/user/dashboards/intelligent-dashboard), and on the [account details](/en/docs/journey-optimizer-b2b/user/accounts/sales-experience/account-details), [Buying group details page](/en/docs/journey-optimizer-b2b/user/accounts/sales-experience/buying-group-details), and [person details](/en/docs/journey-optimizer-b2b/user/accounts/sales-experience/person-details) pages.
+
+{width="700" modal="regular"}
+
+The following sections explain the core concepts behind intent scoring, the continuous process that keeps scores current, the calculation logic behind each score, and the settings you can configure.
+
+## Core concepts core-concepts
+
+Intent detection measures how closely what a person engages with matches your products and keywords, then weights that similarity by how much the person engaged. Three entities make up this model.
+
+Entity
+Description
+Person
+The individual who interacts with your content by opening emails, visiting web pages, and engaging over time.
+Content
+The emails and web pages a person engages with. Other formats, such as webinars and campaigns, are added over time.
+Taxonomy
+Your structure of keywords, products, and product categories that represents the interests you want to measure.
+### Default taxonomy and updates taxonomy
+
+Your taxonomy, the keywords, products, and categories that intent is measured against, is available for use with no setup required.
+
+You can review and update taxonomy mappings at any time on the *Intent Mapping* page. See [Intent data](/en/docs/journey-optimizer-b2b/user/admin/configurations/intent-data) for the taxonomy setup process.
+
+### Content relevance content-relevance
+
+Journey Optimizer B2B Edition translates content and taxonomy into a mathematical representation of their meaning, then uses a similarity model to measure how closely they align. Content that closely matches a keyword or product receives a high relevance score. Unrelated content receives a low score.
+
+The similarity model is pretrained on general language, so no customer-specific training is required to get started.
+
+## Scoring process scoring-process
+
+A continuous process turns raw engagement into a finished intent score. Each stage builds on what the previous stage produced.
+
+{width="700"}
+
+### Engagement capture engagement-capture
+
+Every meaningful touchpoint a person has is captured as it happens and linked to the content involved.
+
+- Page visits, email opens and clicks, form submissions, and similar activities are recorded as engagement events.
+- Each unique piece of content is also noted so it can be analyzed in the next stage.
+- **Refresh cadence** - Continuous, as engagement occurs.
+
+### Content extraction content-extraction
+
+Before content can be scored for relevance, Journey Optimizer B2B Edition extracts and reads its text.
+
+- For each new piece of content, the system extracts the underlying text, whether it lives on a web page or in an email.
+- Some activity types, such as form fills, already carry their own descriptive content and skip this step.
+- Content that cannot be retrieved, such as a broken or removed link, is logged and excluded going forward.
+- **Refresh cadence** - As new content is discovered.
+
+### Relevance scoring relevance-scoring
+
+Every asset is measured against your taxonomy, independent of who engaged with it.
+
+- Each email and web page is analyzed and compared against your keywords, products, and categories using the similarity model.
+- The result is a relevance score between 0 and 1 for that asset against each related keyword or product.
+- **Refresh cadence** - Every 12 hours.
+
+### Daily intent calculation daily-intent-calculation
+
+Engagement and content relevance combine into one daily intent score per person, per keyword or product.
+
+- Each activity type carries a configurable weight. For example, a form submission can count far more heavily than a page view.
+- Recent activity matters more than older activity, so scores favor what someone did this week over what they did a month ago.
+- A confidence measure reflects how consistent a person’s engagement has been, not only volume.
+- **Refresh cadence** - Daily.
+
+### Score delivery score-delivery
+
+Daily scores aggregate, receive an intent level, and are delivered to your dashboard.
+
+- Each score is tagged with an intent level of High, Medium, or Low.
+- Scores link to the correct account so sales and marketing teams can see both person-level and account-level intent.
+- Only people whose intent level changed are updated, so the dashboard reflects the latest meaningful shift.
+- **Refresh cadence** - Daily.
+
+## Score calculation logic score-calculation-logic
+
+The calculation consists of five layers, each adding more context to the raw relevance and engagement data.
+
+### Content relevance to a topic relevance-to-topic
+
+Every piece of content and every topic, meaning a keyword, product, or category, is translated into a mathematical representation of its meaning. Content with a similar meaning to a topic sits closer together in this representation. Relevance is a measure of closeness in meaning, not an exact word match.
+
+### Daily engagement weighting engagement-weighting
+
+On a given day, a person’s score is a weighted average of the relevance of everything they engaged with. Higher-value activities count for more.
+
+**Example**
+
+A person engages with three pieces of content in one day. Page views carry a weight of one, and form submissions carry a weight of five.
+
+Because their one form submission counts five times as much as a page view, it significantly influences their daily score even though they interacted with three items in total.
+
+Their resulting daily score for that topic is roughly 0.70 on a 0 to 1 scale.
+
+style
+shade-box
+### Recency decay recency-decay
+
+A person’s score reflects a blend of the last several days, with recent activity weighted much more heavily than older activity. After approximately one week, older activity has minimal impact, so the score always reflects current interest. In practice, a visit today outweighs one from yesterday, which outweighs one from 10 days ago.
+
+### Score normalization and intent levels normalization-intent-levels
+
+Every adjusted score is placed on a consistent 0 to 1 scale relative to other people in your instance, then bucketed into an intent level.
+
+Final score
+Intent level
+Above 0.6
+High
+0.2 to 0.6
+Medium
+Below 0.2
+Low
+### Score aggregation score-aggregation
+
+Individual scores aggregate so you can review intent at the level that matters for a decision, not only at the most granular level.
+
+- **Keyword to product** - Scores calculated at the keyword level aggregate to show interest in a product, not only a single search term.
+- **Person to account** - An account score aggregates all its people’s scores, so you can see when a whole buying group is showing intent.
+
+{width="500"}
+
+Use the product-level view to see which products are increasing in interest overall, rather than which individual keywords are trending. Use the account-level view to see when a whole buying group is showing increased interest together, rather than reacting to a single engaged person.
+
+## Configurable settings configurable-settings
+
+Most of the scoring logic is fixed to keep results reliable and comparable over time. A product administrator can customize two settings to meet your requirements:
+
+- Activity weights - To apply greater impact to intent scores, increase the weight of high-value activities, such as a demo request or a pricing page visit. To exclude an activity entirely, set its weight to zero, which is useful for actions like unsubscribes that do not contribute to intent. Activity weights for intent calculation use the same weighting model that also drives engagement scores . See Configure engagement score weighting to change activity weights.
+- Taxonomy mappings - The keywords, products, and categories that scoring is based on are available for use. Review and update them at any time on the Intent Mapping page. See Intent data for the setup process.
+
+Everything else, including content relevance, activity decay, and *High*, *Medium*, and *Low* thresholds, is fixed so that scores stay consistent and comparable over time.
+
+## Scoring principles scoring-principles
+
+Keep the following principles in mind when you review and act on intent scores.
+
+### Model-driven scoring model-driven
+
+There are no point assignments or keyword rules to maintain. The model learns relevance directly from your content and taxonomy, which keeps scoring consistent as your content library grows and changes, without ongoing configuration.
+
+### Relative scoring relative-scoring
+
+A score reflects where a person or account ranks among your other contacts today, and the system recalculates it daily based on the current population. Use scores to compare people and accounts within your own instance, rather than as a fixed, universal number. Scores are not directly comparable from one company to another.
+
+### Data freshness data-freshness
+
+Content relevance refreshes roughly every 12 hours as new content appears. Intent scores recalculate once per day, so the dashboard reflects the previous day’s activity each morning.
+
+recommendation-more-help
+
+
+---
 # FILE: journey-agent-b2b.md
 ---
 
@@ -17910,7 +18364,7 @@ title: "Journey Agent B2B"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-agents/journey-agent"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:37.755611+00:00"
+created_at: "2026-10-01T14:09:12.745211+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -18057,7 +18511,7 @@ title: "Journey details"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-details"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:52.125451+00:00"
+created_at: "2026-10-01T14:09:21.694283+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -18150,13 +18604,13 @@ title: "Journey management"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journeys-overview"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:39.851737+00:00"
+created_at: "2026-10-01T14:09:14.559561+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Journey management
 
-Last update: August 7, 2026
+Last update: September 3, 2026
 - Topics:
 - [Journeys](#)
 
@@ -18321,7 +18775,7 @@ A duplicate action is similar to a clone function, but a duplicated journey does
 
 - Click the More icon ( … ) next to the journey name and choose Duplicate . {width="450"} Depending on the status of the journey, you can also access the duplicate action from the journey details or journey map: For a draft journey, click the More… menu at the top right and choose Duplicate . For all other journey statuses, click Duplicate at the top right. {width="450"}
 - In the Duplicate Journey dialog, set the Name and Description for the new journey. By default, the dialog uses the name of the duplicated journey appended with _ copy . Enter another unique name for the journey as needed. {width="400"}
-- Choose the duplication Type : Partial content duplication - Use this type to copy everything in the journey, excluding any created emails or SMS messages. Nodes that reference a Marketo Engage email or SMS message are fully intact. Duplicate without details - Use this type to copy only the node structure and paths. All node settings and path conditions are undefined (default), so that you can use the basic flow again with different audience, actions, and path segmentation settings. All Wait nodes use the default of five days.
+- Choose the duplication Type : Partial content duplication - Use this type to copy everything in the journey, excluding any created emails or SMS messages. Nodes that reference an SMS message are fully intact. Duplicate without details - Use this type to copy only the node structure and paths. All node settings and path conditions are undefined (default), so that you can use the basic flow again with different audience, actions, and path segmentation settings. All Wait nodes use the default of five days.
 - Click Duplicate . The duplicated journey opens in the journey map, where you can set the details and create journey content as needed.
 
 ### Delete a journey delete-journey
@@ -18356,7 +18810,7 @@ title: "Journey nodes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:42.366921+00:00"
+created_at: "2026-10-01T14:09:16.195661+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -18401,13 +18855,13 @@ title: "Journey Optimizer B2B Edition release notes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes"
 category: "release-notes"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:20.552899+00:00"
+created_at: "2026-10-01T14:09:01.767391+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Journey Optimizer B2B Edition release notes
 
-Last update: August 26, 2026
+Last update: September 28, 2026
 - Topics:
 - [Onboarding](#)
 - [Administration](#)
@@ -18424,6 +18878,24 @@ Journey Optimizer B2B Edition is built natively on Adobe Experience Platform and
 
 Review the [product description](https://helpx.adobe.com/legal/product-descriptions/adobe-journey-optimizer-b2b.html#_blank) for information about entitlements, performance guardrails, and limitations.
 
+## 2026.9 release notes rel-2026-9
+
+**Deployment date**: September 25, 2026
+
+Type
+Item
+Description
+Feature
+People lists
+Static and dynamic people lists are now available so that you can target profiles by your defined criteria, such as demographic attributes and experience event history.
+Feature
+Service health dashboards
+Track operational health of external actions by collecting success/error metrics and providing dashboards for administrators to monitor service performance.
+Enhancement
+Journey re-entry - Person journeys
+Support for journey re-entry is now available for person journeys.
+NOTE
+These release changes begin deployment on September 25, 2026, with a phased rollout of each feature and enhancement. Release dates for features and enhancements are subject to change.
 ## 2026.8 release notes rel-2026-8
 
 **Deployment date**: August 14, 2026
@@ -18436,9 +18908,6 @@ Person journeys
 (Previously Beta, early deployment for general availability) You can now create journeys to orchestrate lead-based marketing using Experience Platform Audiences and data.
 Learn more
 Feature
-People lists
-Static and dynamic people lists are now available so that you can target profiles by your defined criteria, such as demographic attributes and experience event history.
-Feature
 Variant split paths
 journey nodes
 (Previously Beta for account journeys) Marketers can now test variations within an account or person journey by assigning accounts or people to different journey paths based on defined percentages.
@@ -18448,23 +18917,25 @@ C2PA metadata
 Images generated or edited with generative AI tools are now automatically signed with C2PA metadata, helping you meet content transparency and AI disclosure requirements.
 Learn more
 Enhancement
-Journey re-entry - Person journeys
-Support for journey re-entry is now available for person journeys.
-Enhancement
 Listen for event triggers and filters - Account journeys
-Support for multiple triggers and filters in a
-Listen for event
-node is now available for account journeys.
+For account journeys, support for multiple triggers and filters in a
+Listen for an event
+node with the
+People
+event type is now available.
+Learn more
 Enhancement
 External split path nodes - Person journeys
 Support for
 External split paths
 nodes is now available for person journeys.
+Learn more
 Enhancement
 External action nodes - Person journeys
 Support for
 External action
 nodes is now available for person journeys.
+Learn more
 Enhancement
 AEP relational datasets
 New relational datasets now appear in your AEP sandbox, alongside existing datasets.
@@ -18976,7 +19447,6 @@ Filter journey membership in Marketo Engage
 Use Adobe Journey Optimizer B2B Edition account lists for the journey audience and then use the
 Member of an account list
 filter in Marketo Engage smart lists.
-Learn more
 Feature
 Inactivity filters
 Orchestrate journeys based on inactivity within Marketo Engage campaigns and programs, including email inactivity, interesting moments, data value changes, and visited web pages.
@@ -19105,7 +19575,7 @@ Learn more
 Enhancement
 Buying group filters for Marketo Engage smart lists
 View and create smart lists with buying group filters in Marketo Engage. These added filters allow you to suppress and include buying group members across Marketo Engage campaigns and programs from account journeys within Journey Optimizer B2B Edition.
-Learn more
+Deprecated feature
 Enhancement
 Marketo Engage list membership filter for journeys and roles
 In Journey Optimizer B2B, check for Marketo Engage list membership as a condition for a *split path by people* node to help eliminate duplication in journey activities. [Learn more](/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes#add-a-split-path-by-people-node)
@@ -19172,7 +19642,7 @@ title: "Journey Optimizer B2B Edition Tutorials"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/overview"
 category: "tutorials"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-tutorials"
-created_at: "2026-09-01T13:21:25.751813+00:00"
+created_at: "2026-10-01T14:11:16.520384+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Tutorials
 
@@ -19207,7 +19677,7 @@ title: "Journey re-entry"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-re-entry"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:41.511015+00:00"
+created_at: "2026-10-01T14:09:15.657156+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -19260,7 +19730,7 @@ title: "Journey traffic control"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/journey-traffic-control"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:48.829166+00:00"
+created_at: "2026-10-01T14:10:42.578856+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -19440,7 +19910,7 @@ title: "Journeys Overview dashboard"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/journeys-dashboard"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:11.223220+00:00"
+created_at: "2026-10-01T14:10:10.964980+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -19521,7 +19991,7 @@ title: "Landing page configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/admin/channels/configuration-presets-landing-pages"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:19:15.614463+00:00"
+created_at: "2026-10-01T14:11:05.989329+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -19587,7 +20057,7 @@ title: "Landing page configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-landing-pages"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:22.411722+00:00"
+created_at: "2026-10-01T14:10:17.761982+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -19657,7 +20127,7 @@ title: "Landing page design"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/landing-pages/landing-page-design"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:19:03.645586+00:00"
+created_at: "2026-10-01T14:10:56.553415+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -19786,7 +20256,7 @@ title: "Landing page design"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/landing-page-design"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:49.810531+00:00"
+created_at: "2026-10-01T14:09:58.180322+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -19931,7 +20401,7 @@ title: "Landing page template design"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/landing-page-templates/landing-page-template-design"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:42.845097+00:00"
+created_at: "2026-10-01T14:09:54.242932+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -20067,7 +20537,7 @@ title: "Landing page templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/landing-page-templates/landing-page-templates"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:41.992942+00:00"
+created_at: "2026-10-01T14:09:53.408037+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -20256,7 +20726,7 @@ title: "Landing pages"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/landing-pages/landing-pages"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:19:01.269918+00:00"
+created_at: "2026-10-01T14:10:54.545556+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -20431,7 +20901,7 @@ title: "Landing pages"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/landing-pages"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:47.787478+00:00"
+created_at: "2026-10-01T14:09:57.042416+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -20605,7 +21075,7 @@ title: "LinkedIn Account Matched audiences"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/audiences/linkedin-account-matched-audiences"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:10.890347+00:00"
+created_at: "2026-10-01T14:09:33.481485+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -20685,7 +21155,7 @@ title: "Listen for AEP events"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/journey-nodes/listen-for-aep-events"
 category: "tutorials"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-tutorials"
-created_at: "2026-09-01T13:21:35.149210+00:00"
+created_at: "2026-10-01T14:11:25.271388+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Tutorials
 
@@ -20719,7 +21189,7 @@ title: "Listen for an event node"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/journey-nodes/listen-for-event-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:40.015733+00:00"
+created_at: "2026-10-01T14:10:34.931565+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -20792,13 +21262,13 @@ title: "Listen for an event"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:46.376482+00:00"
+created_at: "2026-10-01T14:09:18.395440+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Listen for an event
 
-Last update: June 13, 2026
+Last update: September 20, 2026
 - Topics:
 - [Journeys](#)
 
@@ -20818,32 +21288,34 @@ node type on a split path by people.
 - Open the account journey canvas.
 - Click the plus ( + ) icon on a path and choose Listen for an event . {width="400"}
 - In the node properties on the right, use the Event type selector to choose between Accounts and People .
-- Select an event from the list. For the People event type, choose the people event that you want to use for the trigger. {width="500" modal="regular"} For the Accounts event type, choose the account event that you want to use for the trigger. {width="500" modal="regular"}
-- Click Edit event and define details for the event. Depending on the selected event type and event, define the event matching criteria. People events Account events You can also include filters for the event.
-- Click Done . The event and filter definitions are displayed in the node and in the node properties. {width="500"}
+- Define the event trigger for the selected event type: For the Accounts event type, choose the account event that you want to use for the trigger. {width="500" modal="regular"} Click Edit event and define the matching criteria for the account event . For the People event type, click Add event criteria . {width="500" modal="regular"} In the Edit event dialog, drag and drop one or more people events into the builder space and set the definition for each. Click Add constraint for each constraint that you want to use to refine the event match. You can add multiple people events to match. The first qualifying event advances the account forward in the journey. {width="700" modal="regular"} (Optional) Select the Filters tab to add filters for the event .
+- Click Done . The event and filter definitions are displayed in the node properties. {width="500"}
 
 ### People events for account journeys people-events
 
-In an account journey, you can listen for an event based on people when you want to move the account forward in the journey according to events triggered by people activity. You can also filter events according to event history and people attributes.
+In an account journey, you can listen for an event based on people when you want to move the account forward in the journey according to events triggered by person (lead) activities. You can also filter events according to event history and person attributes.
 
 TIP
-Experience events can occur
+Experience Events can occur
 before
 people enter the journey (such as a prior email click or web interaction). To route people based on these events, use the Event history filter in a
 Split paths by people
 node.
+For detailed information about using Experience Events, see [Experience Event triggers](#experience-event-triggers).
+
 #### Journey Optimizer B2B events events-account-people
 
 Event
 Constraints
-Assigned to Buying Group
+Lead Added to Buying Group
 Solution interest (required)Additional constraints (optional):
 
 - Role
 - Date of activity
 
-Timeout (optional)
-
+Lead Removed from Buying Group
+Solution interest (required)
+Date of activity (optional)
 Person profile changes
 Attribute (required)
 Date of activity (optional)
@@ -20851,29 +21323,6 @@ New value (optional)
 Previous value (optional)
 Reason (optional)
 Source (optional)
-Removed from Buying Group
-Solution interest (required)
-Date of activity (optional)
-Timeout (optional)
-- Set the required value to match for the event. If needed, set the operator for the evaluation.
-- For each optional constraint that you want to include for event match, click Add constraint and select a constraint in the list. {width="700" modal="regular"}
-- (Optional) Select the Filters tab to add filters for the event .
-- Click Done .
-
-#### Experience Events experience-events-account-people
-
-PREREQUISITES
-Administrators configure
-Adobe Experience Platform (AEP) Experience Events
-, which enable marketers to create account and person journeys that react to the events in near real-time.
-To make Experience Events available for journeys, a product administrator must first
-add the event types and fields of interest
-in Journey Optimizer B2B Edition.
-- Click Add constraint and choose the field that you want to use for the constraint. The available constraints are defined as managed fields for the event configuration.
-- Complete the condition for the constraint. You can use the default is operator to match one or more field values. Or you can use the is not operator to match on all values with the exclusion of one or more specified values. {width="700" modal="regular"}
-- (Optional) Select the Filters tab to add filters for the event .
-- Click Done .
-
 ### Account events account-events
 
 In an account journey, you can listen for an event based on the account when you want to move the account forward in the journey according to events triggered by account activity.
@@ -20934,7 +21383,7 @@ Solution interestAdditional constraints (optional):
 
 Timeout (optional)
 
-- Set the required constraint to match for the event.
+- To match the event, set the required constraint.
 - For each optional constraint that you want to include for event match, click Add constraint and select the field. {width="700" modal="regular"} Set the operator and value for the evaluation.
 - Click Done .
 
@@ -20945,9 +21394,21 @@ Timeout (optional)
 - In the node properties on the right, click Add event criteria . {width="450"}
 - Add an event and set the constraints that you want to match for the trigger. You can use Experience Events and Person profile changes to define the event trigger. Drag and drop the event trigger into the builder space and set the definition. Click Add constraint for each constraint that you want to use to refine the event match. You can add multiple events to match. The first qualifying event advances the person profile forward in the journey.
 - (Optional) Select the Filters tab to add filters for the event .
-- Click Done . The event and filter definitions are displayed in the node and in the node properties. {width="450"}
+- Click Done . The event and filter definitions are displayed in the node properties. {width="450"}
 
-### Experience Events for person journeys experience-events-person
+### Person profile changes person-profile-changes
+
+For person journeys, you can use a change in B2B person profile attributes to trigger the *Listen for an event* node.
+
+- Drag and drop Person profile change s from the Triggers list into the event matching builder space.
+- Click Add constraint and select the attribute change that you want to use for the event trigger. Set the field value according to the change that you want to match. {width="700" modal="regular"}
+- (Optional) Add another Person profile change attribute that you want to use as an event trigger, or an Experience Event . When you add multiple events to match, the first qualifying event advances the person profile forward in the journey.
+- (Optional) Select the Filters tab to add filters for the event .
+- Click Done .
+
+## Experience Event triggers experience-event-triggers
+
+Experience Events are available for person journeys or when you use the *People* event type in account journeys. Use the *Edit event* dialog to add one or more Experience Events for triggering the *Listen for an event* node.
 
 PREREQUISITES
 Administrators configure
@@ -20956,23 +21417,11 @@ Adobe Experience Platform (AEP) Experience Events
 To make Experience Events available for journeys, a product administrator must first
 add the event types and fields of interest
 in Journey Optimizer B2B Edition.
-You can use Experience Events to trigger the node in person journeys in the *Edit event* dialog.
-
 - Expand Sapphire AEP events in the Triggers list on the left.
 - Drag and drop the Experience Event into the event matching builder space. You can use the Search field to filter for a keyword in the event name, such as email .
 - Click Add constraint and choose the field that you want to use to refine the event match. The available constraints are defined as managed fields for the event configuration. {width="700" modal="regular"}
-- Set the operator and values to match for the event field.
-- (Optional) Add another Experience event or a person profile change . When you add multiple events to match. The first qualifying event advances the person profile forward in the journey.
-- (Optional) Select the Filters tab to add filters for the event .
-- Click Done .
-
-### Person profile changes person-profile-changes
-
-You can use a change in B2B person profile attributes to trigger the node in person journeys in the *Edit event* dialog.
-
-- Drag and drop Person profile change s from the Triggers list into the event matching builder space.
-- Click Add constraint and select the attribute change that you want to use for the event trigger. Set the field value according to the change that you want to match. {width="700" modal="regular"}
-- (Optional) Add another Person profile change attribute that you want to use as an event trigger, or an Experience Event . When you add multiple events to match. The first qualifying event advances the person profile forward in the journey.
+- To match the event field, set the operator and values.
+- (Optional) Add another event. You can use multiple Experience Events for triggering the node. For a person journey you can also add person profile changes . For an account journey (people event type), you can also add Journey Optimizer B2B events . When you add multiple events to match, the first qualifying event advances the person profile forward in the journey.
 - (Optional) Select the Filters tab to add filters for the event .
 - Click Done .
 
@@ -21027,10 +21476,10 @@ The person is or is not a buying group member evaluated against one or more of t
 
 If needed, define the amount of time the journey waits for the event. The journey ends after a timeout unless you define a timeout path, where you can add other nodes.
 
-Enable the **Timeout** option in the node properties to specify a timeout for the *Listen for event* node.
+Enable the **Timeout** option in the node properties to specify a timeout for the *Listen for an event* node.
 
 - With the options enabled, choose the Type and specify the parameters for the timeout: Duration - Use this type to specify a time period for the event trigger. If the event does not trigger within that period, the person or account does not proceed in the journey. Select the duration for which the journey waits for an event to occur before it times out. Specify the number of minutes, hours, days, weeks, or months. {width="500" modal="regular"} If you want the time period to end on a specific day of the week, enable the Must end on option. Any day is selected by default, with all of the days selected. Clear the checkbox and then select one or more days for an ending date. Then select the Time and Time zone . {width="300"} Date - Use this type to set an expiration date for the node. If the event does not trigger by the specified date/time, the person or account does not proceed in the journey. Click the Calendar icon to set the date and time for the timeout. {width="500" modal="regular"}
-- Define the timeout path. The Set timeout path option is selected by default. You can use this path to define what happens if the Listen for event node times out. You can add alternative actions and events that apply to person profiles when the event does not occur. {width="600" modal="regular"} If you do not want to define the path, you can clear the Set timeout path check box.
+- Define the timeout path. The system selects the Set timeout path option by default. You can use this path to define what happens if the Listen for an event node times out. You can add alternative actions and events that apply to person profiles when the event does not occur. {width="600" modal="regular"} If you do not want to define the path, you can clear the Set timeout path check box.
 
 recommendation-more-help
 
@@ -21044,13 +21493,13 @@ title: "Log in and home page"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/home-page"
 category: "overview"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:31.376351+00:00"
+created_at: "2026-10-01T14:09:08.674487+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Log in and home page
 
-Last update: June 13, 2026
+Last update: September 11, 2026
 - Topics:
 - [Onboarding](#)
 
@@ -21092,13 +21541,13 @@ title: "Manage email open tracking"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-tracking-manage"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:03.704163+00:00"
+created_at: "2026-10-01T14:09:28.699916+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Manage email open tracking
 
-Last update: July 8, 2026
+Last update: September 23, 2026
 - Topics:
 - [Journeys](#)
 - [Administration](#)
@@ -21113,13 +21562,13 @@ CREATED FOR:
 
 You can disable open tracking for an individual email, or capture each person’s tracking preference in Adobe Experience Platform and use a split path to route people to tracking and non-tracking email variants.
 
-**CNIL guidance on email tracking pixels**
+**Guidance on email tracking pixels**
 
-On April 14, 2026, the *Commission Nationale de l’Informatique et des Libertés* (CNIL) published a [recommendation on the use of tracking pixels within emails](https://www.cnil.fr/sites/default/files/2026-04/recommandation-pixels_de_suivi.pdf). The guidance clarifies when consent is required and highlights the importance of proper consent practices for email pixel tracking. This policy could impact sending practices for any entity delivering emails to subscribers based in France.
+On April 14, 2026, the *Commission nationale de l’informatique et des libertés* (CNIL), France’s data protection authority, published a [recommendation on the use of tracking pixels within emails](https://www.cnil.fr/sites/default/files/2026-04/recommandation-pixels_de_suivi.pdf). Shortly after, Italy’s independent data protection authority (“Garante”) published [Provision No. 284](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10241943) (the “Garante Provision”) on April 17, 2026. Each guidance, while non-legally binding, clarifies when consent is required and highlights the importance of proper consent practices for email pixel tracking. This policy could impact sending practices for any entity delivering emails to subscribers under applicable EU privacy law.
 
 An email tracking pixel is a 1x1 transparent image embedded in the HTML of an email. When the recipient’s email client loads that image, the pixel pings a server that records data such as a timestamp, device type, email client, and sometimes an IP address for approximate location. That log is then tied to a recipient’s record, allowing marketers to know whether an email is opened.
 
-The Journey Optimizer B2B Edition product capabilities described here are building blocks that, configured and operated appropriately, may support a compliant implementation. Each customer is responsible for determining and complying with their obligations under applicable law.
+The Journey Optimizer B2B Edition product capabilities described here are building blocks that, configured and operated appropriately, can help support customer compliance efforts. Customers are solely responsible for determining and complying with their obligations under applicable guidance and other laws.
 
 style
 shade-box
@@ -21179,7 +21628,7 @@ title: "Marketing management"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/marketing-management"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:33.036118+00:00"
+created_at: "2026-10-01T14:10:28.660313+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -21251,7 +21700,7 @@ title: "Next best path node"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/journey-nodes/next-best-path"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:42.704978+00:00"
+created_at: "2026-10-01T14:10:37.342229+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -21391,13 +21840,13 @@ title: "Next best path node"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/next-best-path-node"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:49.463586+00:00"
+created_at: "2026-10-01T14:09:20.076643+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Next best path node
 
-Last update: June 13, 2026
+Last update: September 3, 2026
 - Topics:
 - [Journeys](#)
 
@@ -21520,7 +21969,7 @@ Use simulation to test how the AI evaluates your prompts against a real audience
 ### Run a simulation run-simulation
 
 - Select the next best path node and click the Simulate ( ) icon at the top of the right panel. {width="500"}
-- In the dialog, choose the audience to use for the simulation: Original person lists – Use the audience from the audience node. Specify a sample size when the full audience exceeds the simulation threshold. Dynamic and static lists – Use a Marketo Engage static or dynamic list. Test records – Use AI-suggested test profiles. {width="300"} note NOTE If the selected audience exceeds the simulation threshold, the system runs the simulation on a 100-profile sample. An indicator in the UI shows that results are sample-based. If the selected audience is not yet materialized, simulation is blocked. An inline warning directs you to materialize the audience first.
+- In the dialog, choose the audience to use for the simulation: Original person lists – Use the audience from the audience node. Specify a sample size when the full audience exceeds the simulation threshold. Dynamic and static lists – Use a static or dynamic people list. Test records – Use AI-suggested test profiles. {width="300"} note NOTE If the selected audience exceeds the simulation threshold, the system runs the simulation on a 100-profile sample. An indicator in the UI shows that results are sample-based. If the selected audience is not yet materialized, simulation is blocked. An inline warning directs you to materialize the audience first.
 - Click Simulate .
 
 ### Review simulation results review-simulation-results
@@ -21574,7 +22023,7 @@ title: "Paid media orchestration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/journey-nodes/paid-media-orchestration"
 category: "tutorials"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-tutorials"
-created_at: "2026-09-01T13:21:35.840261+00:00"
+created_at: "2026-10-01T14:11:25.802813+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Tutorials
 
@@ -21613,7 +22062,7 @@ title: "People lists"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/audiences/people-lists"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:49.923943+00:00"
+created_at: "2026-10-01T14:10:43.681027+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -21751,7 +22200,7 @@ title: "Person audience journey nodes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/person-audience-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:44.148166+00:00"
+created_at: "2026-10-01T14:09:17.275633+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -21803,7 +22252,7 @@ title: "Person audience node"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/journey-nodes/person-audience-node"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:37.749874+00:00"
+created_at: "2026-10-01T14:10:32.602978+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -21842,7 +22291,7 @@ title: "Person details"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/audiences/person-details"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:50.760549+00:00"
+created_at: "2026-10-01T14:10:44.431739+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -22000,7 +22449,7 @@ title: "Person details"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/sales-experience/person-details"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:28.209904+00:00"
+created_at: "2026-10-01T14:09:44.613311+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -22081,7 +22530,7 @@ title: "Person engagement scores engagement-scores"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/audiences/engagement-scores"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:52.745465+00:00"
+created_at: "2026-10-01T14:10:46.033946+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -22321,7 +22770,7 @@ title: "Person journey nodes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/journey-nodes/person-journey-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:36.947187+00:00"
+created_at: "2026-10-01T14:10:31.815685+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -22394,7 +22843,7 @@ title: "Person Journeys"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/person-journeys"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:35.766467+00:00"
+created_at: "2026-10-01T14:10:31.043136+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -22599,7 +23048,7 @@ title: "Persona mapping"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/persona-mapping"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:13.542447+00:00"
+created_at: "2026-10-01T14:10:12.035467+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -22708,7 +23157,7 @@ title: "Personalization editor"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/personalization-expressions"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:19:07.584580+00:00"
+created_at: "2026-10-01T14:10:59.414947+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -22845,7 +23294,7 @@ title: "Personalization syntax personalization-syntax"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/personalization/personalization-syntax"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:03.644256+00:00"
+created_at: "2026-10-01T14:10:06.914924+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -22945,13 +23394,13 @@ title: "Preview and test your email content preview-simulate"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/emails/preview/email-simulate-content"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:30.804323+00:00"
+created_at: "2026-10-01T14:09:46.257612+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Preview and test your email content preview-simulate
 
-Last update: August 4, 2026
+Last update: September 2, 2026
 - Topics:
 - [Content management](#)
 - [Communication channels](#)
@@ -22967,14 +23416,14 @@ IMPORTANT
 You cannot preview the email if there are errors. To ensure that no errors are blocking the preview functions, check the
 Alerts
 . Warnings do not block preview, but address them before you publish the journey that triggers the email delivery.
-## Display the email preview
+## Display the email preview display-preview
 
 You can access the rendering preview from the [email design space](/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-authoring), or from the *Summary* when you [open an email from the Emails list](/en/docs/journey-optimizer-b2b/user/content-management/emails/emails-list#open-and-edit-emails).
 
 - Click Simulate Content at the top. {width="800" modal="regular"} note NOTE This button is not available if there are errors or required fields are not defined for the email.
-- In the Simulate page, select a person profile in the People list to use for rendering the email. In the content preview, personalized elements are populated according to the selected person profile. {width="800" modal="regular"} If the People list on the left is empty, add people using contacts from the connected Marketo Engage instance. note tip TIP You can also use the Litmus test rendering integration to check email message rendering in popular desktop, mobile, and web-based clients.
+- In the Simulate page, select a person profile in the People list to use for rendering the email. In the content preview, personalized elements are populated according to the selected person profile. {width="800" modal="regular"} If the People list on the left is empty, add people using contacts. note tip TIP You can also use the Litmus test rendering integration to check email message rendering in popular desktop, mobile, and web-based clients.
 
-## Adjust the display options
+## Adjust the display options display-options
 
 Use the display tools to change the preview according to the device type or zoom level:
 
@@ -22984,7 +23433,7 @@ Use the display tools to change the preview according to the device type or zoom
 
 {width="600" modal="regular"}
 
-## Send proofs
+## Send proofs send-proofs
 
 A proof is a delivered test message that allows you and your team members to review an email message before sending it to members of an audience. Recipients of the proof can check the message rendering, content, personalization settings, and configuration. You can send proofs using a selected test profile.
 
@@ -22994,12 +23443,174 @@ A proof is a delivered test message that allows you and your team members to rev
 - For each recipient, set the Simulate as field by selecting a test profile to use for personalizing the message content. {width="700" modal="regular"}
 - Click Send proof .
 
-## Add people to the profiles list
+## Add people to the profiles list add-people
 
 - At the top of the People list, click Add People . {width="500"}
-- In the Add people for testing dialog, enter the full email address for the contact. To add multiple contacts, enter multiple addresses separated by commas.
+- In the Add people for testing dialog, enter the full email address for the contact. To add multiple contacts, enter the addresses separated by commas.
 - Select the checkbox for each matched contact that you want to add to the list of test profiles. {width="700" modal="regular"}
 - Click Add at the top right.
+
+recommendation-more-help
+
+
+---
+# FILE: privacy-management-privacy-management.md
+---
+
+---
+title: "Privacy management privacy-management"
+url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/privacy-management"
+category: "guides"
+topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
+created_at: "2026-10-01T14:11:19.934670+00:00"
+---
+Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
+
+# Privacy management privacy-management
+
+Last update: September 4, 2026
+- Topics:
+- [Administration](#)
+
+CREATED FOR:
+
+- Admin
+
+[Adobe Experience Platform Privacy Service](/en/docs/experience-platform/privacy/home#_blank) provides a RESTful API and user interface to help you manage customer data requests. With Adobe Privacy Service, you can submit requests to access and delete personal customer data from Adobe CX Enterprise applications, facilitating automated compliance with legal and organizational privacy regulations.
+
+Adobe Journey Optimizer B2B Edition provides these privacy tools so that you can meet global data protection requirements. Use Privacy Service to submit and manage access and delete requests for data that Journey Optimizer B2B Edition collects and stores.
+
+You can submit individual requests to access and delete consumer data from Adobe Journey Optimizer B2B Edition in two ways:
+
+- The Privacy Service UI
+- The Privacy Service API
+
+## Supported privacy regulations regulations
+
+Journey Optimizer B2B Edition privacy tools help you comply with the regulations through Privacy Service. Each regulation applies if you hold data for people who reside in the associated region.
+
+For an up-to-date list of the supported regulations, see *Privacy regulations overview* in the Privacy Service documentation.
+
+## Request types access-and-delete-requests
+
+Journey Optimizer B2B Edition supports two privacy request types:
+
+- **Data access** - A person can request confirmation that their personal data is being processed, and receive a free electronic copy of that data.
+- **Data delete** - Also called the *right to be forgotten*, a person can request that you erase their personal data and stop further processing.
+
+## View and manage privacy requests view-manage-requests
+
+These steps require the Privacy Service product profile and the following [permissions for your assigned user role in Experience Platform](/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/user-management):
+
+- **Privacy Service Permissions** - Privacy Read Permission and Privacy Write Permission
+- **Data Governance** - View Privacy Console
+
+See *Manage permissions for Privacy Service* in the Privacy Service Guide for more detailed information.
+
+style
+shade-box
+To view privacy request jobs in Journey Optimizer B2B Edition, expand **Privacy** and select **Requests**.
+
+Use the **Regulation Type** option at the top right to change the displayed page for the regulation that you want to manage jobs or submit requests.
+
+{width="800" modal="regular"}
+
+### Submit a request submit-a-request
+
+- Select Create Request .
+- For the Job Type , select the request type: Access When you submit an access request that includes Journey Optimizer B2B Edition, Privacy Service returns: Marketo Engage activity associated with the lead. Journey Optimizer B2B Edition activity associated with the person or account. Delete When you submit a delete request for Marketo Engage and Journey Optimizer B2B Edition, the following records are removed: The associated lead in Marketo Engage. Person and account records created in Journey Optimizer B2B Edition. AI Assistant conversation history that references the person’s personal information.
+- For Products , select Marketo . {width="450" modal="regular"} This selection includes data from both Journey Optimizer B2B Edition and your Marketo Engage instance.
+- Scroll to the bottom of the dialog and enter the email address of the person whose data you want to access or delete.
+- To submit the request, select Create . Privacy Service returns a request ID that you can use to check the status of your request.
+
+### API requests api-requests
+
+You can also submit privacy requests using the Privacy Service API. For general API reference, see the [Privacy Service API documentation](https://developer.adobe.com/experience-platform-apis/references/privacy-service#_blank).
+
+PREREQUISITES
+Gather the following information before submitting a request:
+- The IMS Org ID for your organization (a 24-character alphanumeric string that ends in @AdobeOrg). Contact Adobe Support at gdprsupport@adobe.com if you do not know your IMS Org ID.
+- The email address of the person whose data you want to access or delete.
+
+Use the following field values in your request:
+
+Field
+Value
+companyContexts.namespace
+imsOrgID
+companyContexts.value
+Your IMS Org ID
+users.action
+access
+or
+delete
+users.userIDs.namespace
+Email
+include
+marketo
+to include both Journey Optimizer B2B Edition and Marketo Engage data
+regulation
+Example:
+ccpa
+Some regulation values are changing to include a state abbreviation (for example,
+ucpa_ut_usa
+). Older values remain valid for a transition period. See the
+Privacy regulations overview
+for the current list before you build integrations against these values.
+The following example submits a GDPR delete request that includes Journey Optimizer B2B Edition data.
+
+```
+{
+  "companyContexts": [
+    {
+      "namespace": "imsOrgID",
+      "value": "1231659F56A68A8B7F000101@AdobeOrg"
+    }
+  ],
+  "users": [
+    {
+      "action": ["delete"],
+      "userIDs": [
+        {
+          "namespace": "Email",
+          "type": "standard",
+          "value": "john.doe@adobe.com"
+        }
+      ]
+    }
+  ],
+  "include": ["marketo"],
+  "regulation": "gdpr"
+}
+```
+
+Privacy Service returns a response similar to the following.
+
+```
+{
+  "requestId": "16331241037112570RX-245",
+  "totalRecords": 1,
+  "jobs": [
+    {
+      "jobId": "997b01e3-9568-402c-904b-b4e60a437875",
+      "customer": {
+        "user": {
+          "action": ["delete"],
+          "userIDs": [
+            {
+              "namespace": "Email",
+              "value": "john.doe@adobe.com",
+              "type": "standard",
+              "namespaceId": 6,
+              "isDeletedClientSide": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
+```
 
 recommendation-more-help
 
@@ -23013,7 +23624,7 @@ title: "Program types"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/admin/program-types"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:19:18.884109+00:00"
+created_at: "2026-10-01T14:11:08.638737+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -23059,7 +23670,7 @@ title: "Programs"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/programs/programs"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:33.918893+00:00"
+created_at: "2026-10-01T14:10:29.464546+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -23155,13 +23766,13 @@ title: "Question guidance for AI Assistant in Journey Optimizer B2B Edition"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/question-guidance"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:33.804425+00:00"
+created_at: "2026-10-01T14:09:10.367007+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Question guidance for AI Assistant in Journey Optimizer B2B Edition
 
-Last update: June 13, 2026
+Last update: September 11, 2026
 - Topics:
 - [AI Assistant](#)
 
@@ -23293,7 +23904,7 @@ title: "Review the spam report"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/emails/preview/email-spam-report"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:32.359490+00:00"
+created_at: "2026-10-01T14:09:47.357362+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -23330,7 +23941,7 @@ title: "Role Insights dashboard"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-group-role-insights"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:17.082419+00:00"
+created_at: "2026-10-01T14:09:37.335542+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -23441,7 +24052,7 @@ title: "Role templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/role-templates"
 category: "tutorials"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-tutorials"
-created_at: "2026-09-01T13:21:38.234060+00:00"
+created_at: "2026-10-01T14:11:27.431987+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Tutorials
 
@@ -23467,309 +24078,6 @@ recommendation-more-help
 
 
 ---
-# FILE: sales-alert-email.md
----
-
----
-title: "Sales alert email"
-url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/sales-alert-email"
-category: "other"
-topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:01.641992+00:00"
----
-Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
-
-# Sales alert email
-
-Last update: June 13, 2026
-- Topics:
-- [Buying Groups](#)
-- [Sales Experience](#)
-
-CREATED FOR:
-
-- Intermediate
-- User
-
-A *sales alert email* signals the transfer of buying groups to Sales. The email contains a summary of the buying group and information about the buying group members and their activities.
-
-To alert your sales team about the completion of the journey for particular buying groups, you can configure a sales alert email node in your account journeys. Within the node, you can specify the email addresses of the sales team or a distribution alias that reaches a set of accounts.
-
-IMPORTANT
-Make sure that your organization’s allowlist is updated so that a Sales alert email can be delivered. For more information, see
-Protocols for tracking and email delivery
-.
-## Email content
-
-Sample sales alert email
-{width="500" modal="regular"}
-Section
-Name
-Description
-Buying group information
-Buying Group Name
-Display name for the buying group.
-Account Name
-Name of the account.
-Engagement score
-Engagement score of the buying group, based on active engagement activities in the last 30 days.
-Completeness score
-Completeness score of the buying group.
-Solution interest
-Solution interest linked to the buying group’
-Status
-Status of the buying group.
-Buying group highlights
-Top engaged members
-Top engaged members of the buying group by buying group member engagement score and role.
-Topic of interest
-Most frequent keywords occurring in the content engagement, based on emails, downloads, chat, PDF review, activity summary, and webinar questions.
-Missing roles
-Mandatory roles in the template but are missing in the buying group.
-Buying group summary
-Activity summary (powered by Generative AI)
-AI-generated summary of the buying group based on the activities of the members. The activities over the last 30 days are considered.
-Key interesting moments
-Recent interesting moments related to the members of the buying group.
-Members
-List of four Buying Members
-Details of the top four buying group members by engagement score and role.
-Each buying group member
-Member name
-Name of the buying group member.
-Title
-Title of the buying group member.
-Role
-The Buying group role of the member.
-Engagement score
-Buying group member engagement score. The score is based on active engagement activities in the last 30 days.
-Last interesting moment
-The recent most interesting moment related to the member.
-Most recent activities
-The latest two activities related to the buying group member.
-Email ID
-Email ID of the buying group member.
-Phone number
-Phone number of the buying group member.
-## Add a sales alert email action in an account journey
-
-You can set up sales alert email deliveries in an account journey when you add a *Take an action* node and do the following:
-
-- For the Action on target, choose Account .
-- For Action on accounts , choose Send Sales Alert .
-- For Select solution interest , choose the solution interest to use for the generated email content.
-- For Send Email To , enter each email address or alias that you want to include for the delivery. {width="600" modal="regular"} When the account journey is live, the sales alert is delivered according to these parameters.
-
-recommendation-more-help
-
-
----
-# FILE: sales-qualifier-2.md
----
-
----
-title: "Sales Qualifier"
-url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/sales-qualifier"
-category: "other"
-topic: "prime/sales-qualifier"
-created_at: "2026-09-01T13:19:19.665418+00:00"
----
-Breadcrumbs: Documentation > Sales Qualifier
-
-# Sales Qualifier
-
-Last update: August 27, 2026
-- Topics:
-- [Integrations](#)
-
-CREATED FOR:
-
-- User
-
-Adobe Sales Qualifier is an AI-powered application that automates prospect qualification, outreach, and cross-channel buyer engagement for business development representatives (BDRs). The Account Qualification Agent analyzes your accounts and prospects, prioritizes those that are ready for the next step, and drafts personalized outreach based on your CRM data.
-
-BDRs can use the browser and email plugins to access business intelligence directly within their CRM or Outlook.
-
-## What you can do in Sales Qualifier
-
-- **Prioritize prospects and accounts** with AI-generated activity summaries and signal-based prioritization.
-- **Build goal-driven Outbound Workflows** in which AI proposes a cadence and drafts personalized emails for each prospect.
-- **Process outreach in one queue** for phone calls, LinkedIn InMails, and email reviews.
-- **Book meetings automatically** by connecting your calendar and inserting a personal booking link into your cadence.
-- **Inform AI outreach with your own materials** by building a playbook in the Knowledge Center.
-- **Ask questions in natural language** with AI Chat, which uses your CRM, engagement, and Knowledge Center data.
-- **Track outreach performance** with email and meeting-booking reports.
-
-https://video.tv.adobe.com/v/3476550?learn=on
-## Explore the guide
-
-Get started
-
-Complete the one-time administrator setup for user groups and a CRM connection.
-
-[Get started](/en/docs/sales-qualifier/using/getting-started)
-
-Prospects
-
-Build, filter, and review your prospect list.
-
-[Prospects](/en/docs/sales-qualifier/using/prospects)
-
-Accounts
-
-Prioritize outreach with account-level pipeline and engagement data.
-
-[Accounts](/en/docs/sales-qualifier/using/accounts)
-
-Outbound Workflows
-
-Create goal-driven cadences with AI-generated, personalized emails.
-
-[Outbound Workflows](/en/docs/sales-qualifier/using/outbound-workflows)
-
-Tasks
-
-Process phone call, LinkedIn InMail, and email review tasks in one queue.
-
-[Tasks](/en/docs/sales-qualifier/using/tasks)
-
-Performance
-
-Review email and meeting-booking performance.
-
-[Outbound performance](/en/docs/sales-qualifier/using/performance)
-
-Knowledge Center
-
-Build a playbook that grounds AI outreach and assistance in your materials.
-
-[Knowledge Center](/en/docs/sales-qualifier/using/admin-settings#knowledge-center)
-
-Integrations
-
-Connect Salesforce or Microsoft Dynamics 365 and map your fields.
-
-[Integrations](/en/docs/sales-qualifier/using/integrations)
-
-Profile settings
-
-Configure your email, signature, and calendar availability.
-
-[Profile settings](/en/docs/sales-qualifier/using/profile-settings)
-
-AI Chat
-
-Ask questions based on your CRM, engagement, and Knowledge Center data.
-
-[AI Chat](/en/docs/sales-qualifier/using/ai-assistant)
-
-recommendation-more-help
-
-
----
-# FILE: sales-qualifier.md
----
-
----
-title: "Sales Qualifier"
-url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-agents/sales-qualifier"
-category: "other"
-topic: "user/ai-assistant/ai-agents/sales-qualifier"
-created_at: "2026-09-01T13:16:38.821634+00:00"
----
-Breadcrumbs: Documentation > Sales Qualifier
-
-# Sales Qualifier
-
-Last update: August 27, 2026
-- Topics:
-- [Integrations](#)
-
-CREATED FOR:
-
-- User
-
-Adobe Sales Qualifier is an AI-powered application that automates prospect qualification, outreach, and cross-channel buyer engagement for business development representatives (BDRs). The Account Qualification Agent analyzes your accounts and prospects, prioritizes those that are ready for the next step, and drafts personalized outreach based on your CRM data.
-
-BDRs can use the browser and email plugins to access business intelligence directly within their CRM or Outlook.
-
-## What you can do in Sales Qualifier
-
-- **Prioritize prospects and accounts** with AI-generated activity summaries and signal-based prioritization.
-- **Build goal-driven Outbound Workflows** in which AI proposes a cadence and drafts personalized emails for each prospect.
-- **Process outreach in one queue** for phone calls, LinkedIn InMails, and email reviews.
-- **Book meetings automatically** by connecting your calendar and inserting a personal booking link into your cadence.
-- **Inform AI outreach with your own materials** by building a playbook in the Knowledge Center.
-- **Ask questions in natural language** with AI Chat, which uses your CRM, engagement, and Knowledge Center data.
-- **Track outreach performance** with email and meeting-booking reports.
-
-https://video.tv.adobe.com/v/3476550?learn=on
-## Explore the guide
-
-Get started
-
-Complete the one-time administrator setup for user groups and a CRM connection.
-
-[Get started](/en/docs/sales-qualifier/using/getting-started)
-
-Prospects
-
-Build, filter, and review your prospect list.
-
-[Prospects](/en/docs/sales-qualifier/using/prospects)
-
-Accounts
-
-Prioritize outreach with account-level pipeline and engagement data.
-
-[Accounts](/en/docs/sales-qualifier/using/accounts)
-
-Outbound Workflows
-
-Create goal-driven cadences with AI-generated, personalized emails.
-
-[Outbound Workflows](/en/docs/sales-qualifier/using/outbound-workflows)
-
-Tasks
-
-Process phone call, LinkedIn InMail, and email review tasks in one queue.
-
-[Tasks](/en/docs/sales-qualifier/using/tasks)
-
-Performance
-
-Review email and meeting-booking performance.
-
-[Outbound performance](/en/docs/sales-qualifier/using/performance)
-
-Knowledge Center
-
-Build a playbook that grounds AI outreach and assistance in your materials.
-
-[Knowledge Center](/en/docs/sales-qualifier/using/admin-settings#knowledge-center)
-
-Integrations
-
-Connect Salesforce or Microsoft Dynamics 365 and map your fields.
-
-[Integrations](/en/docs/sales-qualifier/using/integrations)
-
-Profile settings
-
-Configure your email, signature, and calendar availability.
-
-[Profile settings](/en/docs/sales-qualifier/using/profile-settings)
-
-AI Chat
-
-Ask questions based on your CRM, engagement, and Knowledge Center data.
-
-[AI Chat](/en/docs/sales-qualifier/using/ai-assistant)
-
-recommendation-more-help
-
-
----
 # FILE: select-experience-events-and-fields.md
 ---
 
@@ -23778,7 +24086,7 @@ title: "Select Experience Events and fields"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/configure-aep-events"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:25.215312+00:00"
+created_at: "2026-10-01T14:09:04.740286+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -24191,7 +24499,7 @@ title: "Setup checklist"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/start/setup-prime"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:24.975725+00:00"
+created_at: "2026-10-01T14:10:20.053506+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -24271,7 +24579,7 @@ title: "Setup checklist"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/setup-ultimate"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:22.242681+00:00"
+created_at: "2026-10-01T14:09:03.055480+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -24483,13 +24791,13 @@ title: "Setup for email tracking and delivery"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/email-protocols"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:26.884670+00:00"
+created_at: "2026-10-01T14:09:05.857479+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Setup for email tracking and delivery
 
-Last update: June 13, 2026
+Last update: September 2, 2026
 - Topics:
 - [Onboarding](#)
 - [Administration](#)
@@ -24499,11 +24807,9 @@ CREATED FOR:
 - Intermediate
 - Admin
 
-Adobe Journey Optimizer B2B Edition leverages the email channel functions and event tracking in the attached Marketo Engage instance. Some organizations use restrictive firewall or proxy server settings. To ensure that email delivery works as expected for these organizations, a systems administrator must add certain domains and IP address ranges to the allow list.
+Adobe Journey Optimizer B2B Edition leverages the email channel functions and event tracking in the attached Marketo Engage instance. Some organizations use restrictive firewall or proxy server settings. To ensure that email delivery works as expected for these organizations, a system administrator must add certain domains and IP address ranges to the allowlist.
 
-NOTE
-If your organization is already using the connected Marketo Engage instance to run your marketing operations, these protocols and configurations are already in place.
-Make sure that the following domains (including the asterisk) are added to the allow list to enable all Marketo Engage resources and web sockets:
+Make sure that the following domains (including the asterisk) are added to the allowlist to enable all Marketo Engage resources and web sockets:
 
 - *.experience.adobe.com
 - *.adobe.net
@@ -24517,13 +24823,13 @@ Complete the following steps to ensure tracking and email delivery:
 - [Set up SPF and DKIM](#set-up-spf-and-dkim)
 - [Set up DMARC](#set-up-dmarc)
 - [Set up MX records for your domain](#set-up-mx-records-for-your-domain)
-- [Add Outbound IP addresses to allow lists](#outbound-ip-addresses)
+- [Add Outbound IP addresses to allowlists](#outbound-ip-addresses)
 
 NOTE
 Email Deliverability Services and consulting are separate paid offerings from Adobe. If you need or want support from the deliverability team for your Journey Optimizer B2B Edition instance, you must purchase one of the Email Deliverability Services packages (Essentials, Enhanced, or Plus) for that instance. This configuration is independent of any deliverability package on a pre-existing Marketo Engage instance. Deliverability services are attached per instance, not per organization. Deliverability support on both instances requires two separate Deliverability Services packages. Whenever a new IP is provisioned for Journey Optimizer B2B Edition, a new Deliverability Services package is required for IP warming and ongoing deliverability support.
 ## Create DNS records for landing pages and email
 
-Connecting a CNAME record allows marketers to host web versions of emails, landing pages, and blogs with consistent branding that improves traffic and conversions. It is highly recommended that you add the CNAMEs to your root domain host for Marketo Engage to host your marketing-focused web assets.
+Configuring a CNAME record allows marketers to host web versions of emails, landing pages, and blogs with consistent branding that improves traffic and conversions. It is highly recommended that you add the CNAMEs to your root domain host for Marketo Engage to host your marketing-focused web assets.
 
 To plan and implement two CNAME records, work with your Marketing team as an administrator. The first one is for landing page URLs, so that the landing pages appear in URLs that reflect your domain and not Adobe Marketo Engage (the actual host). The second one is for the tracking links that are included in the emails sent through Marketo Engage.
 
@@ -24568,7 +24874,7 @@ You can use the same DKIM configuration for your production Marketo Engage insta
 
 ## Set up DMARC
 
-DMARC (Domain-based Message Authentication, Reporting, and Conformance) is an authentication protocol that is used to help organizations protect their domain from unauthorized use. It extends the existing authentication protocols, such as SPF and DKIM, to inform recipient servers about the actions to take if an authentication failure occurs on their domain. DMARC is optional, but is strongly recommended because it helps protect your brand and reputation. Major providers, such as Google and Yahoo, started requiring the use of DMARC for bulk senders beginning February 2024.
+DMARC (Domain-based Message Authentication, Reporting, and Conformance) is an authentication protocol that is used to help organizations protect their domain from unauthorized use. It extends the existing authentication protocols, such as SPF and DKIM, to inform recipient servers about the actions to take if an authentication failure occurs on their domain. DMARC is optional, but is recommended because it helps protect your brand and reputation. Major providers, such as Google and Yahoo, started requiring the use of DMARC for bulk senders beginning February 2024.
 
 For DMARC to function, you must have at least one of the following DNS TXT records:
 
@@ -24591,7 +24897,7 @@ p=reject
 as you gain understanding of the potential impact, and set your DMARC policy to relaxed alignment on SPF and DKIM.
 If you receive DMARC reports, do the following:
 
-- Use p=none and analyze the feedback and reports you receive. The reports tell the receiver to perform no actions against messages that fail authentication, and send email reports to the sender. If legitimate messages are failing authentication, review and fix the issues with SPF/DKIM. Determine if SPF or DKIM are aligned and passing authentication for all legitimate email. Review the reports to ensure that the results are what is expected based on your SPF/DKIM policies.
+- Use p=none and analyze the feedback and reports you receive. The reports tell the receiver to perform no actions against messages that fail authentication and send email reports to the sender. If legitimate messages are failing authentication, review and fix the issues with SPF/DKIM. Determine if SPF or DKIM are aligned and passing authentication for all legitimate email. Review the reports to ensure that the results are what is expected based on your SPF/DKIM policies.
 - Adjust the policy to p=quarantine , which tells the receiving email server to quarantine emails that fail authentication (typically placing those messages in the spam folder). Review reports to ensure that the results are what you expect.
 - If you are satisfied with the behavior of messages at the p=quarantine level, you can adjust the policy to ( p=reject ). The reject policy tells the receiver to deny (bounce) any email for the domain that fails authentication. With this policy enabled, only email that is verified as 100% authenticated by your domain has a chance at inbox placement. note caution CAUTION Use this policy with caution and determine if it’s appropriate for your organization.
 
@@ -24699,7 +25005,7 @@ For detailed information about DMARC and all of its options, refer to [https://d
 There are two types of alignment for DMARC:
 
 - DKIM (Domain Keys Identified Mail) alignment: The domain specified in an email’s From: header matches with the DKIM-Signature. The DKIM signature contains a d= value where the domain is specified for matching with the From: header domain. DKIM alignment validates if the sender is authorized to send mail from the domain and verifies that no content has been changed during email transit. To implement DKIM-aligned DMARC: Set up DKIM for the MAIL FROM domain of your message. Use the instructions in the Marketo Engage documentation. Configure DMARC for the DKIM MAIL FROM domain. note NOTE DKIM alignment is recommended for Marketo Engage.
-- SPF (Sender Policy Framework) alignment: The domain in the From: header must match the domain in the Return-Path: header. If both DNS domains are the same, the SPF matches (aligns) and gives a pass result. To implement SPF-aligned DMARC: Set up the branded Return-Path domain. Configure the appropriate SPF record. Change the MX record to point back to the default MX for the datacenter your mail is sent from Configure DMARC for the branded Return-Path domain. note NOTE Strict SPF alignment is not supported or recommended for Marketo Engage.
+- SPF (Sender Policy Framework) alignment: The domain in the From: header must match the domain in the Return-Path: header. If both DNS domains are the same, the SPF matches (aligns) and gives a pass result. To implement SPF-aligned DMARC: Set up the branded Return-Path domain. Configure the appropriate SPF record. To point back to the default MX for the datacenter your mail is sent from, change the MX record. Configure DMARC for the branded Return-Path domain. note NOTE Strict SPF alignment is not supported or recommended for Marketo Engage.
 
 ### Dedicated IPs and shared pool
 
@@ -24709,11 +25015,11 @@ If you send mail through Marketo Engage over a dedicated IP and have not impleme
 
 If you have dedicated IPs, you must have the new Journey Optimizer B2B Edition instance created in the same region as your existing Marketo Engage instance. If the new instance is in a different region, sharing the existing IP is not possible. If the region matches, open a ticket with [Adobe Support](/home?lang=en&support-tab=home#support#_blank) and request that your existing IP and binding groups be shared with the new instance. Provide your Marketo Engage prefix (Munchkin ID) and your new Journey Optimizer B2B Edition prefix (Munchkin ID).
 
-With this request, Adobe replicates the same IPs, binding groups, and configured Return-Path domains as your existing Marketo Engage instance. When IPs are shared between your Marketo Engage and Journey Optimizer B2B Edition instances, they use them simultaneously.
+With this request, Adobe replicates the same IPs, binding groups, and configured Return-Path domains as your existing Marketo Engage instance. When IPs are shared between your Marketo Engage and Journey Optimizer B2B Edition instances, both instances use them simultaneously.
 
 style
 shade-box
-Trusted IPs are a shared pool of IPs that are reserved for lower volume users sending less than 75k per month and do not qualify for a dedicated IP. These users must also meet best practice requirements.
+Trusted IPs are a shared pool of IPs that are reserved for lower volume users sending less than 75k per month and who do not meet the requirements for a dedicated IP. These users must also meet best practice requirements.
 
 - If you are sending mail through Marketo Engage using a shared pool of IPs, you can check if you qualify for Trusted IPs by applying for the Trusted IP sending range program . The branded return-path is included when sending from Marketo Engage Trusted IPs. If approved for this program, reach out to Adobe Support to set up the branded return-path.
 - If you send more than 100,000 messages per month and want to send email through Marketo Engage using shared IPs, contact the Adobe Account Team (your account manager) to purchase a dedicated IP.
@@ -24722,11 +25028,11 @@ Customers on the shared IP pool do not need any additional configuration. You co
 
 ## Set up MX records for your domain
 
-An MX record allows you to receive mail to the domain that you’re sending email from to process replies and auto-responders. If you’re sending from your corporate domain, it is probably already configured. If not, you can usually set it up to map to your corporate domain MX record.
+An MX record allows you to receive mail to the domain that you’re sending email from to process replies and auto-responders. If you’re sending from your corporate domain, it is probably already configured. If not, set it up to map to your corporate domain MX record.
 
 ## Outbound IP addresses
 
-Marketo Engage makes an outbound connection to an Internet server on your behalf. Your IT organization and some partners/vendors may use allow lists to restrict access to servers. If so, provide them with Marketo Engage outbound IP address blocks to add to their allow lists.
+Marketo Engage makes an outbound connection to an Internet server on your behalf. Your IT organization and some partners/vendors use allowlists to restrict access to servers. If so, provide them with Marketo Engage outbound IP address blocks to add to their allowlists.
 
 ## Outbound IP address blocks
 
@@ -24771,15 +25077,15 @@ title: "Single-page applications"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/web-channel/web-single-page-applications"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:06.550884+00:00"
+created_at: "2026-10-01T14:09:30.788327+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
-[Beta]{class="badge informative" title="This feature is currently in a limited beta release"}
+[Limited Availability]{class="badge informative"}
 
 # Single-page applications
 
-Last update: June 13, 2026
+Last update: September 20, 2026
 - Topics:
 - [Content management](#)
 - [Communication channels](#)
@@ -24960,13 +25266,13 @@ title: "SMS authoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/sms-authoring"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:52.941071+00:00"
+created_at: "2026-10-01T14:09:22.240155+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # SMS authoring
 
-Last update: June 13, 2026
+Last update: September 3, 2026
 - Topics:
 - [Journeys](#)
 - [Content management](#)
@@ -24983,10 +25289,10 @@ Before creating SMS messages for account journeys, make sure that the [SMS servi
 
 IMPORTANT
 SMS consent management
-In accordance with the industry standards and regulations, all SMS marketing messages must contain a way for the recipients to unsubscribe easily. To do this, SMS recipients can reply with opt-in and opt-out keywords. All standard opt-in and opt-out keywords are supported and honored. In addition, any custom keywords configured for your SMS service provider account are supported and honored. For details about how SMS consent preferences are evaluated at delivery time, see
+In accordance with industry standards and regulations, all SMS marketing messages must contain a way for the recipients to unsubscribe easily. To do this, SMS recipients can reply with opt-in and opt-out keywords. All standard opt-in and opt-out keywords are supported and honored. In addition, any custom keywords configured for your SMS service provider account are supported and honored. For details about how SMS consent preferences are evaluated at delivery time, see
 Consent preferences
 .
-## Add an SMS action in an account journey
+## Add an SMS action in an account journey add-action
 
 You can set up text message deliveries in an account journey when you add a *Take an action* node and do the following:
 
@@ -24996,7 +25302,7 @@ You can set up text message deliveries in an account journey when you add a *Tak
 - In the dialog, enter a unique Name for the SMS message. {width="400"}
 - Click Create . The Journey map opens and you can create the message and set the SMS properties for sending the message.
 
-### Create the SMS message
+### Create the SMS message create-message
 
 Enter the text that you want to send in the **Message** field.
 
@@ -25004,7 +25310,7 @@ You can create a message of up to 1600 characters, with every 160 characters con
 
 {width="800" modal="regular"}
 
-#### Personalize the text message
+#### Personalize the text message personalize
 
 - Place your cursor at the location in the message where you want to add the personalization token.
 - Click the Personalize icon ( ) to the right of the text message box. The dialog provides access to the account tokens, person tokens, and system tokens. Both standard and custom tokens are included. You can use the Search bar to locate the token you need, or navigate through the folder tree to find and select any of the tokens.
@@ -25012,15 +25318,15 @@ You can create a message of up to 1600 characters, with every 160 characters con
 - In the Enter fallback value dialog, enter the text that appears as a fallback and then click Add . {width="450"}
 - When your personalization tokens are placed, click Save to save changes and return to the main SMS authoring workspace. You can continue to edit the message with the tokens as needed.
 
-#### Add links (URLs) to the text message
+#### Add links (URLs) to the text message add-links
 
 - After entering your message text, click the Link icon ( ) to the right of the text message box.
-- Enter the URL for the link.
+- In the dialog, choose the type of URLs to link: Landing Page - Choose this option to select any of the published landing pages. External URL - Choose this option to link any external URL. Enter the URL for the link. {width="470"}
+- (Optional) Set the tracking options. Enable Link Tracking - Select this checkbox to enable tracking, which requires shortening the URL. A sample of the shortened URL format is displayed. The actual URL is created when the SMS is sent to the recipient. Enable Lead Tracking - Select this checkbox to track activity against a user.
 
-- If you choose to use a Marketo Engage landing page, set the tracking options. Enable tracking - Select this checkbox to enable tracking, which requires shortening the URL. For a landing page, it uses the Marketo Engage subdomain for the shortened URL. A sample of the shortened URL format is displayed. The actual URL is created when the SMS is sent to the recipient. Include mkt_tok - Select this checkbox to track activity against a user. note NOTE When you allow tracking but disable Include mkt_tok , the destination URL does not include the mkt_tok query string parameter after redirect. This parameter is used by Marketo Engage landing pages and Munchkin to ensure that tracking of person activities (such as when a person unsubscribes from an email). Do not disable this option unless the parameter is causing issues on your website. For more information about using Munchkin tracking codes on your website, refer to the Marketo Engage documentation . {width="470"}
-- When the link options are complete, click Add to save the changes and add the URL link to the SMS message.
+- When the link options are complete, click **Add** to add the URL link to the SMS message.
 
-### Set the SMS properties
+### Set the SMS properties sms-properties
 
 - In the SMS properties section, enter a Name (required, 100 character maximum) and Description (optional, 300 character maximum) for your message. Alpha, numeric, special characters are allowed for these fields. The following reserved characters are not allowed : \ , / , : , * , ? , " , < , > and | .
 - Choose the SMS Type : Use Marketing for promotional text messages, which require user consent. Use Transactional for non-commercial messages, such as order confirmation, password reset notifications, or delivery information.
@@ -25035,20 +25341,20 @@ IMPORTANT
 Make sure to save your SMS message before you proceed to simulate the text message.
 - Click Simulate Content at the top of the SMS authoring workspace.
 - From the Simulate Content page, click Add People .
-- Use the Simulate Content page to manage the leads used for your test profile. In the displayed list, you can search for and add any of the leads (up to 10 leads at a time) from the Marketo Engage lead database. To search, enter the whole email address and press Enter . The corresponding lead profile is displayed for selection. The preview updates to the personalization fields for the selected profile. All the added leads appear on the left. You can manage this list by adding more people and deleting individual leads from the profile listing (it does not remove them from the database).
+- Use the Simulate Content page to manage the leads used for your test profile. In the displayed list, you can search for and add any of the leads (up to 10 leads at a time). To search, enter the whole email address and press Enter . The corresponding lead profile is displayed for selection. The preview updates to the personalization fields for the selected profile. All the added leads appear on the left. You can manage this list by adding more people and deleting individual leads from the profile listing (it does not remove them from the database).
 - Simulate content for a selected lead. Select any of the leads listed on the left. The SMS preview on the page updates for the selected lead. You can also select a lead from the selector above the preview space to update the SMS preview on the page for the corresponding lead.
-- To exit the Simulate Content page and return back to the SMS authoring workspace, click Close at the top right.
+- To exit the Simulate Content page and return to the SMS authoring workspace, click Close at the top right.
 
-## SMS consent management
+## SMS consent management consent-management
 
-Providing recipients the capability to unsubscribe from receiving communications from a brand and honoring this choice is a legal requirement. Failing to comply with these regulations introduces legal risks for your brand. This function helps you avoid sending unsolicited communications to your recipients, which could cause them to mark your messages as spam and harm your reputation.
+Providing recipients with the capability to unsubscribe from receiving communications from a brand and honoring this choice is a legal requirement. Failing to comply with these regulations introduces legal risks for your brand. This function helps you avoid sending unsolicited communications to your recipients. This prevents them from marking your messages as spam and damaging your reputation.
 
 When you provide this option, SMS recipients can reply with opt-in and opt-out keywords. All standard opt-in and opt-out keywords are supported and honored, as are any custom keywords that are configured with the SMS service provider. When unsubscribed, the profiles are automatically removed from the audience of future marketing messages.
 
 Journey Optimizer B2B Edition provides the ability to manage opt-out in SMS messages using the following logic:
 
 - By default, if a lead has opted out from receiving communications from you, the corresponding profile is excluded from subsequent SMS deliveries
-- This lead consent coming from different sources (such as AEP or the SMS service provider) is synced to Journey Optimizer B2B Edition. Currently, it supports only a single consent state per lead at the instance level (a lead ‘John Doe’ is either subscribed to or unsubscribed from all promotional SMS in the instance). It does not currently support double opt-in on brand level/individual subscription list level consent.
+- This lead consent, coming from different sources (such as AEP or the SMS service provider), is synced to Journey Optimizer B2B Edition. Currently, it supports only a single consent state per lead at the instance level (a lead ‘John Doe’ is either subscribed to or unsubscribed from all promotional SMS in the instance). It does not currently support double opt-in on brand level/individual subscription list level consent.
 
 recommendation-more-help
 
@@ -25062,7 +25368,7 @@ title: "SMS channel configurations"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-sms"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:19.755431+00:00"
+created_at: "2026-10-01T14:10:16.120102+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -25135,7 +25441,7 @@ title: "Solution interests"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/solution-interests"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:14.307866+00:00"
+created_at: "2026-10-01T14:09:35.670628+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -25208,7 +25514,7 @@ title: "Split and merge paths nodes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/journey-nodes/split-merge-paths-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:41.699641+00:00"
+created_at: "2026-10-01T14:10:36.500045+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -25276,13 +25582,13 @@ title: "Split and merge paths split-paths"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:47.419667+00:00"
+created_at: "2026-10-01T14:09:18.956751+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Split and merge paths split-paths
 
-Last update: June 13, 2026
+Last update: September 16, 2026
 - Topics:
 - [Journeys](#)
 
@@ -25363,7 +25669,7 @@ The account is matched with one or more buying groups. It can be evaluated again
 
 You can define a path for accounts associated with buying groups and filter the path using buying group criteria. Use the **Account has matched buying group** filter to define the path segment using a matched buying group. This filter also includes the option to identify accounts based on the number of assigned roles within a matched buying group.
 
-For example, you could evaluate buying group readiness based on the depth (number of people) it has in different roles, such as three decision makers and two influencers. In this case, set the condition to target accounts with a minimum of three (3) Decision Makers and two (2) Influencers in a matched buying group:
+For example, evaluate buying group readiness based on the depth (number of people) it has in different roles, such as three decision-makers and two influencers. In this case, set the condition to target accounts with a minimum of three (3) Decision Makers and two (2) Influencers in a matched buying group:
 
 - Click Add filter and choose the Number of people in buying group role filter. {width="700" modal="regular"}
 - Define the first role parameter. Set the number of people evaluation to at least with a value of 3 . Set the role evaluation to is and choose Decision Maker from the list of roles.
@@ -25371,7 +25677,7 @@ For example, you could evaluate buying group readiness based on the depth (numbe
 - Define the second role parameter. Set the number of people evaluation to at least with a value of 2 . Set the role evaluation to is and choose Influencer from the list of roles. {width="700" modal="regular"}
 - Click Done when you have all conditions defined for the path.
 
-For the identified accounts, you could then add an action node in the path to update the status of the buying group or stage, or to send a sales alert email.
+To update the status of the buying group or stage for the identified accounts, add an action node in the path.
 
 ## Split paths by people
 
@@ -25432,10 +25738,6 @@ The person is or is not a buying group member evaluated against one or more of t
 - Is Removed
 - Role
 
-Special filters > Member of List
-(Deprecated) The person is or is not a member of one or more Marketo Engage lists.
-Special filters > Member of Program
-(Deprecated) The person is or is not a member of one or more Marketo Engage programs.
 ### Account-person path conditions
 
 Path conditions
@@ -25458,30 +25760,30 @@ on people nodes.
 - In the node properties on the right, choose People for the split.
 - (Account journeys only) Set the Attributes used for conditions . Choose People attributes only to use conditions related to the person profile. Choose Account-person attributes only to use conditions related to the person’s role membership within an account.
 - To define a condition applicable to Path 1 , click Apply condition .
-- In the conditions editor, add one or more filters to define the split path. Drag and drop any of the people filters from the left navigation and complete the match definition. note NOTE If you have custom person fields defined in the account audience schema in Experience Platform, these fields are also available to use as person attributes in conditions. Refine your conditions by applying the Filter logic at the top. You choose to match all attribute conditions or any condition. {width="700" modal="regular"} Click Done .
+- To define the split path, add one or more filters in the conditions editor. Drag and drop any of the people filters from the left navigation and complete the match definition. note NOTE If you have custom person fields defined in the account audience schema in Experience Platform, these fields are also available to use as person attributes in conditions. Refine your conditions by applying the Filter logic at the top. You choose to match all attribute conditions or any condition. {width="700" modal="regular"} Click Done .
 - To add more paths, click Add path and repeat the previous steps to add conditions applicable to this path. You can also label each path based on these conditions or use the default labels.
 - If needed, reorder the paths according to the priority that you want for the split. Path filtering is evaluated in top-down order. Each person proceeds along the first path that matches. Click the up and down arrows at the top right of each path card to move it higher or lower in the list of paths. {width="500" modal="regular"}
 - Enable the Other people option to add a default path for people that are not a match for the defined paths. When this option is not enabled, people that do not match a defined segment/path move past the split and proceed to the next step in the journey. When you have conditions defined for each path for splitting your audience on the people level, you can add actions that you want to take on people.
 
 ### Experience event history filtering experience-event-history-filtering
 
-For a split path by people, you can define a path based on experience events that occurred before the person entered the journey. In the conditions editor, expand the **Event history** folder to see a list of all event types configured by your administrator. Select an event type to add it as a filter condition.
+For a split path by people, you can define a path based on experience events that occurred before the person entered the journey. To see a list of all event types configured by your administrator, expand the **Event history** folder in the conditions editor. Select an event type to add it as a filter condition.
 
 The lookback time window for event history is measured backward from the moment the person enters the journey. For example, a 30-day window evaluates whether the qualifying event occurred within the 30 days prior to journey entry.
 
-You can further refine the filter using constraints specific to the selected event’s fields. The optional **Minimum number of times** and **Date of activity** constraints are both evaluated within the defined lookback window. Because event history data is synced from Adobe Experience Platform, there may be a brief delay before a recently occurring event becomes visible to this filter.
+You can further refine the filter using constraints specific to the selected event’s fields. The optional **Minimum number of times** and **Date of activity** constraints are both evaluated within the defined lookback window. Because event history data is synced from Adobe Experience Platform, there may be a brief delay before a recently occurring event becomes available to this filter.
 
 NOTE
-The events available in the Event history folder are determined by the
+The
 Experience Events and fields configurations
-.
+determine the events available in the Event history folder.
 **Example:** To route people who clicked a link in a marketing email before entering the journey, select the email click event from the Event history folder, set the lookback window to cover the relevant time period, and apply any field-level constraints (such as a specific link URL) as needed.
 
 {width="700" modal="regular"}
 
 **Inactivity filtering**
 
-For each of the *Event history* filters, you can enable the **Switch to inactivity filter** option. This option changes the filter to an evaluation for an absence of that activity type. For example, add the *Direct Marketing Email Opened* filter to create a path for people who *did not* open an email. Enable the inactivity option and specify the email.
+For each of the *Event history* filters, you can enable the **Switch to inactivity filter** option. This option changes the filter to an evaluation for an absence of that activity type. To create a path for people who *did not* open an email, add the *Direct Marketing Email Opened* filter. Enable the inactivity option and specify the email.
 
 {width="700" modal="regular"}
 
@@ -25489,19 +25791,20 @@ style
 shade-box
 ### Membership filtering
 
-Within the *Special Filters* section, there are multiple filters that you can use to evaluate a person’s membership in a buying group or Marketo Engage list.
+Within the *Special Filters* section, there are multiple filters that you can use to evaluate a person’s membership in a buying group.
 
-For example, if you want to create a path for people who are members of a buying group and are assigned a particular role, add the *Special filters* > *Member of Buying group* filter. For the filter, set the membership as *true*, select a *Solution interest* that is associated with one or more buying groups, and set the *Role* that you want to match.
+For example, if you want to create a path for people who are members of a buying group and are assigned a particular role, add the *Special filters* > *Member of Buying group* filter. For the filter, set the membership as *true* and select a *Solution interest* that is associated with one or more buying groups.
 
 {width="700" modal="regular"}
 
-You can also include additional buying group membership constraints:
+Click **Add constraint** to include additional buying group membership constraints:
 
 - *Buying group stage*
 - *Buying group status*
 - *Completeness score*
 - *Engagement score*
 - *Is Removed*
+- *Role*
 
 TIP
 To exclude members who were removed from a buying group, use the
@@ -25511,19 +25814,6 @@ false
 . You can also explicitly include removed members by setting this constraint to
 true
 .
-**Marketo Engage list and program membership**
-
-In Marketo Engage, *Smart Campaigns* check membership of programs to ensure that leads don’t receive duplicate emails and aren’t members of multiple streams of emails at the same time. In Journey Optimizer B2B, you can check for Marketo Engage list membership as a condition for your split path by people to help eliminate duplication in journey activities.
-
-To use list membership in a split condition, expand **Special Filters** and drag the **Member of List** or **Member of Program** condition into the filter space. Complete the filter definition to evaluate membership in one or more Marketo Engage lists.
-
-{width="700" modal="regular"}
-
-NOTE
-Feature deprecation
-In the current Journey Optimizer B2B Edition release, filtering based on list or program membership in a Marketo Engage instance is not supported.
-style
-shade-box
 ## Custom data filtering custom-data-filtering
 
 [Beta]{class="badge informative" title="Beta feature"}
@@ -25536,7 +25826,7 @@ For a **Split path by account** or **Split path by people** condition, expand *C
 
 ## Merge paths merge-paths
 
-Add a *Merge paths* node to combine different *split paths by account* in your journey.
+To combine different *split paths by account* in your journey, add a *Merge paths* node.
 
 - In a journey map with a split node that has three or more paths, add a combination of actions and events to each path.
 - Click the plus ( + ) icon for any one of these paths and choose Merge from the displayed options. {width="400" modal="regular"}
@@ -25558,7 +25848,7 @@ title: "Structure components structure-components"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/content/content-design/structure-components"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:19:09.495509+00:00"
+created_at: "2026-10-01T14:11:01.214212+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -25800,13 +26090,13 @@ title: "Structure components structure-components"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/content-design/structure-components"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:52.703415+00:00"
+created_at: "2026-10-01T14:10:00.062788+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Structure components structure-components
 
-Last update: August 4, 2026
+Last update: September 2, 2026
 - Topics:
 - [Content management](#)
 
@@ -25922,8 +26212,8 @@ To enable the background image settings, move the toggle selector.
 
 Choose the [asset source type](/en/docs/journey-optimizer-b2b/user/content-management/assets/assets-overview) and select the image file:
 
-Marketo Engage Assets
-Choose this type to browse and select an image asset from the Journey Optimizer B2B Edition library or from the connected Market Engage instance.
+Select Asset
+Choose this type to browse and select an image asset from the Journey Optimizer B2B Edition library.
 
 {width="700" modal="regular"}
 
@@ -25931,19 +26221,6 @@ From the dialog, you can choose an image from the selected repository. Click **S
 
 There are tools available to help you locate the asset that you need:
 
-- Click the Filter icon on the top left to filter the displayed items according to your criteria.
-- Enter text in the Search field to filter the displayed items for a match of the asset name. {width="700" modal="regular"}
-
-Experience Manager Assets
-Choose this type to browse and select an image asset from a [configured Experience Manage Assets repository](/en/docs/journey-optimizer-b2b/user/admin/configurations/configure-aem-repositories).
-
-From the *Select Assets* dialog, choose an image using the available tools to locate the asset that you need and click **Select**.:
-
-- Change the Repository at the top right.
-- Click Manage assets at the top right to open the Assets repository in another browser tab and use AEM Assets management tools.
-- Click the View type selector at the top right to change the display to List View , Grid View , Gallery View , or Waterfall View .
-- Click the Sort order icon to change the sort order between ascending and descending. {width="700" modal="regular"}
-- Click the Sort by menu arrow to change the sort criteria to Name , Size , or Modified .
 - Click the Filter icon on the top left to filter the displayed items according to your criteria.
 - Enter text in the Search field to filter the displayed items for a match of the asset name. {width="700" modal="regular"}
 
@@ -25957,6 +26234,19 @@ In the *Upload image* dialog, drag and drop a file from your system to the file 
 The file names of the selected images are displayed in the dialog. Asset file names must be unique (across folders), and if a file with the name already exists, a message is displayed. Names can have a maximum of 100 characters, and cannot contain special characters (such as ;, :, \, and |).
 
 Click **Import**.
+
+Experience Manager Assets
+Choose this type to browse and select an image asset from a [configured Experience Manage Assets repository](/en/docs/journey-optimizer-b2b/user/admin/configurations/configure-aem-repositories).
+
+From the *Select Assets* dialog, choose an image using the available tools to locate the asset that you need and click **Select**.:
+
+- Change the Repository at the top right.
+- Click Manage assets at the top right to open the Assets repository in another browser tab and use AEM Assets management tools.
+- Click the View type selector at the top right to change the display to List View , Grid View , Gallery View , or Waterfall View .
+- Click the Sort order icon to change the sort order between ascending and descending. {width="700" modal="regular"}
+- Click the Sort by menu arrow to change the sort criteria to Name , Size , or Modified .
+- Click the Filter icon on the top left to filter the displayed items according to your criteria.
+- Enter text in the Search field to filter the displayed items for a match of the asset name. {width="700" modal="regular"}
 
 Use the **Image placement** option to choose how the image fills the structure component. The placement settings follow the standard [HTML background image fill and alignment attributes](https://www.w3schools.com/html/html_images_background.asp#_blank).
 
@@ -26078,7 +26368,7 @@ title: "Take an action node"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/journey-nodes/action-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:38.979754+00:00"
+created_at: "2026-10-01T14:10:34.125862+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -26265,13 +26555,13 @@ title: "Take an action"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/action-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:45.462877+00:00"
+created_at: "2026-10-01T14:09:17.828820+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Take an action
 
-Last update: August 18, 2026
+Last update: September 16, 2026
 - Topics:
 - [Journeys](#)
 
@@ -26280,7 +26570,7 @@ CREATED FOR:
 - Beginner
 - User
 
-To execute an action, such as sending an email, changing a score, or assigning to a buying group, you can add a *Take an action* node in your journey. Actions are typically what you want to happen as a result of some kind of trigger, such as an event or a previous action.
+To execute an action, such as sending an email, changing a score, or assigning to a buying group, add a *Take an action* node in your journey. Actions are typically what you want to happen as a result of some kind of trigger, such as an event or a previous action.
 
 {width="30"} [Watch the overview video](#overview-video)
 
@@ -26308,9 +26598,6 @@ Remove Account from Journey
 Select live account journey
 Remove from account list
 Select a live static account list
-Send Sales Alert
-Select solution interest
-Send email to
 Update account profile
 Select attribute
 New value
@@ -26397,12 +26684,6 @@ Assign to Buying Group
 - Select solution interest
 - Select role
 
-Change Score
-- Account journey
-
-- Score name
-- Change in score
-
 Person Interesting Moment
 - Account journey
 - Person journey
@@ -26466,17 +26747,6 @@ Remove from Marketo list
 - Name of external Marketo connection
 - List name
 
-NOTE
-The
-Change People Partition in Marketo Engage
-and
-Change Score
-actions are deprecated for the 2025.10 release and are no longer available in Journey Optimizer B2B Edition.
-The
-Change Data Value
-action is deprecated for the 2025.10 release. It is replaced with
-Update person profile
-in the current Journey Optimizer B2B Edition release.
 ### Add a people-based action
 
 - Navigate to the journey map.
@@ -26532,11 +26802,6 @@ Use this action to add people profiles to a [buying group](/en/docs/journey-opti
 
 {width="300"}
 
-Change Score
-Use this action to change the person score in Marketo Engage. [Learn more](/en/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-learn#_blank)
-
-{width="300"}
-
 Person Interesting Moment
 Use this action to log an interesting moment for people. Choose a type (Email, Milestone, or Web) and add a description (optional).
 
@@ -26560,7 +26825,7 @@ Use the **Select Person Journey** selector to specify the person journey where y
 {width="300"}
 
 Send email
-Use this action to send an email. After you [create the email](/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/add-email#add-an-email-action-node-in-a-journey) for the node, you can design, personalize, and preview email messages in the email design space (see [Email authoring](/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-authoring)). You can also send an [email from Marketo Engage](/en/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/create-an-email#_blank). Select the Marketo Engage workspace and then select the email to send.
+Use this action to send an email. After you [create the email](/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/add-email#send-email-node) for the node, you can design, personalize, and preview email messages in the email design space (see [Email authoring](/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-authoring)).
 
 {width="300"}
 
@@ -26590,14 +26855,14 @@ Use this action to change the value of a [people profile attribute](/en/docs/jou
 | --- |
 | NOTE |
 | The *Update person profile* action replaces the *Change Data Value* action in the current Journey Optimizer B2B Edition release. |
-| An administrator can configure the available attributes for the XDM Individual Profile by updating the fields in the *XDM Configurations* > Standard classes. For more information, see [Standard schemas](/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/xdm-field-management#standard-schemas). |
+| An administrator can configure the available attributes for the XDM Individual Profile by updating the fields in the *XDM Configurations* > *Standard classes*. For more information, see [Standard schemas](/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/xdm-field-management#standard-schemas). |
 
 ### Marketo Engage actions
 
 The Marketo Engage people-based actions are designed to coordinate your Account-Based Marketing orchestration in Journey Optimizer B2B Edition with your lead-based marketing efforts in Marketo Engage. Use these actions to orchestrate list membership and request campaigns.
 
 NOTE
-The Marketo Engage actions require configured integration with one or more external Marketo Engage instances. For detailed information about this configuration, see
+The Marketo Engage actions require configured integration with one or more external Marketo Engage instances. To find detailed information about this configuration, see
 Activate Marketo Engage connections to support actions
 .
 For example, suppress campaigns in Marketo Engage for people that are part of buying groups in Journey Optimizer B2B Edition. In this case, you can create a static list in Marketo Engage specifically for the solution interest. Then, on a split path by buying group, use the *Add to Marketo list* action from a journey node. This action adds buying group members to a particular static list in a connected Marketo Engage instance. Then, use the solution interest focused static list for a smart list filter in Marketo Engage.
@@ -26638,7 +26903,7 @@ title: "Template content governance"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/template-content-governance"
 category: "guides"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:37.362165+00:00"
+created_at: "2026-10-01T14:09:50.650906+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -26694,7 +26959,7 @@ title: "Test email rendering with Litmus"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/emails/preview/email-test-rendering"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:31.558809+00:00"
+created_at: "2026-10-01T14:09:46.803963+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -26738,7 +27003,7 @@ title: "Test profiles test-profiles"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/audiences/test-profiles"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:12.686314+00:00"
+created_at: "2026-10-01T14:09:34.577380+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -26820,21 +27085,21 @@ recommendation-more-help
 
 
 ---
-# FILE: use-account-lists-in-journeys-and-programs.md
+# FILE: use-account-lists-in-journeys.md
 ---
 
 ---
-title: "Use account lists in journeys and programs"
+title: "Use account lists in journeys"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/account-lists/account-lists-journeys"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:25.358117+00:00"
+created_at: "2026-10-01T14:09:42.988263+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
-# Use account lists in journeys and programs
+# Use account lists in journeys
 
-Last update: June 13, 2026
+Last update: September 3, 2026
 - Topics:
 - [Account lists](#)
 
@@ -26858,7 +27123,7 @@ All account journeys start with an [Account audience node](/en/docs/journey-opti
 
 Within an account journey, add accounts to a static account list using [a Take an Action node](/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/action-nodes).
 
-For example, you might have a journey path where you send an email and some account take various actions as a response actions. You consider this activity to be a qualification point in the journey. With the qualification, you want to add them to an account list that is used to as the audience for another journey with a different flow for qualified accounts.
+For example, you have a journey path where you send an email and some accounts take various actions as a response. You consider this activity to be a qualification point in the journey. With the qualification, you want to add them to an account list that is used as the audience for another journey with a different flow for qualified accounts.
 
 NOTE
 If an account is already in the list when the node executes, the action is ignored.
@@ -26872,33 +27137,13 @@ If an account is already in the list when the node executes, the action is ignor
 
 Within an account journey, remove accounts from a static account list using [a Take an Action node](/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/action-nodes).
 
-For example, you might have a journey path where you send an email and some account take various actions as a response actions. You consider this activity to be a qualification point in the journey. With this qualification, you want to remove them from an account list that is used to as the audience for another journey that sends additional emails so that you don’t duplicate your qualification communications.
+For example, you have a journey path where you send an email and some accounts take various actions as a response. You consider this activity to be a qualification point in the journey. With this qualification, you want to remove them from an account list. This list is used as the audience for another journey that sends additional emails so that you don’t duplicate your qualification communications.
 
 NOTE
 If an account is not in the list where it is scheduled for removal, the action is ignored.
 - Select the Action on Accounts option.
 - For Action on accounts , choose Remove from account list . {width="500"}
 - For Select live static account list , choose the account list where you want to remove accounts. {width="500"}
-
-## Marketo Engage program - Member of account list
-
-As a Marketer, you might want to suppress programs in Marketo Engage for people that are part of account lists in Journey Optimizer B2B Edition.
-
-In the Marketo Engage instance that is connected to Journey Optimizer B2B Edition, you can use the *Member of Account List* filter in your Smart Lists to identify these leads according to your campaign strategy. For more information about Smart Lists, refer to the [Marketo Engage documentation](/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists#_blank).
-
-### Add the filter to a Smart List
-
-- In Marketo Engage, select a campaign and click the Smart List tab.
-- In the filters list displayed on the right, enter Member and locate the Member of Account List filter.
-- Drag the filter onto the Smart List canvas.
-- On the Smart List canvas, set the Member of account list value. Click the down arrow to display all account lists, or enter part of the account list name to help locate the account list that you need. {width="800" modal="regular"}
-- In the campaign flow, add the Add to List step and choose the list where you want to populate the people from the Journey Optimizer B2B Edition account list. Refer to _ Add a Flow step to a smart campaign {target=" blank"} in the Marketo Engage documentation for detailed information about adding steps to a flow.
-
-### Review the members
-
-After the flow runs, you can view the list of people populated in the list. Open the list and select the People tab.
-
-{width="800" modal="regular"}
 
 recommendation-more-help
 
@@ -26912,7 +27157,7 @@ title: "Use brand themes for email content email-brand-themes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/brand-themes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:59.331012+00:00"
+created_at: "2026-10-01T14:10:03.637927+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -27125,7 +27370,7 @@ title: "Use brands for content generation and consistency brands"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/brands/brands-overview"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:56.045214+00:00"
+created_at: "2026-10-01T14:10:01.924100+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -27191,13 +27436,13 @@ title: "Use the chat interface"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/use-ai-assistant"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:34.571620+00:00"
+created_at: "2026-10-01T14:09:10.926289+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
 # Use the chat interface
 
-Last update: August 26, 2026
+Last update: September 11, 2026
 - Topics:
 - [AI Assistant](#)
 
@@ -27311,7 +27556,7 @@ title: "User access and permissions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/start/user-management"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:26.035257+00:00"
+created_at: "2026-10-01T14:10:20.981670+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -27597,7 +27842,7 @@ title: "User access and permissions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/user-management"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:21:28.415408+00:00"
+created_at: "2026-10-01T14:11:18.219536+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -27864,7 +28109,7 @@ title: "User access and permissions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/user-management"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:29.815630+00:00"
+created_at: "2026-10-01T14:09:07.588114+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -28131,7 +28376,7 @@ title: "User onboarding guidance"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/get-started"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:30.635605+00:00"
+created_at: "2026-10-01T14:09:08.138447+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -28176,7 +28421,7 @@ title: "Variant split paths"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/variant-split-paths-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:48.596467+00:00"
+created_at: "2026-10-01T14:09:19.520885+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -28371,7 +28616,7 @@ title: "Wait node"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/journey-nodes/wait-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:40.890799+00:00"
+created_at: "2026-10-01T14:10:35.736901+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -28475,7 +28720,7 @@ title: "Wait nodes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/wait-nodes"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:50.581963+00:00"
+created_at: "2026-10-01T14:09:20.621474+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -28579,15 +28824,15 @@ title: "Web channel configurations"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-web"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:21.579346+00:00"
+created_at: "2026-10-01T14:10:17.214336+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
-[Beta]{class="badge informative" title="This feature is currently in a limited beta release"}
+[Limited Availability]{class="badge informative"}
 
 # Web channel configurations
 
-Last update: August 4, 2026
+Last update: September 20, 2026
 - Topics:
 - [Administration](#)
 - [Communication channels](#)
@@ -28602,17 +28847,16 @@ A web configuration is a web property identified by a URL where the content is d
 
 To use web channels, your website must have the [Adobe Experience Platform Web SDK](/en/docs/experience-platform/collection/js/js-overview) (alloy.js) implemented for visitor identification and content delivery. Make sure that the Adobe Experience Platform Web SDK version is 2.16 or above.
 
-Web channel configuration in Journey Optimizer B2B Edition requires the following [permissions](/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/user-management#b2b-product-permissions):
+Web channel configuration in Journey Optimizer B2B Edition requires the following [permission](/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/user-management#b2b-product-permissions):
 
-- *Channel Configurations* > *Manage Messages Presets* - Required to create, update, and delete web channel configurations.
-- *Channel Configurations* > *View Messages Presets* - Required to view web channel configurations.
+- *Manage B2B Channels Configurations*
 
 style
 shade-box
 ## Create a web channel configuration
 
 - In the left navigation, go to Administration > Channels .
-- Under Web in the navigation panel, select Channel configurations . {width="800" modal="regular"}
+- Under General Settings in the navigation panel, select Channel configurations . {width="800" modal="regular"}
 - Click Create channel configuration at the top right.
 - Enter a Name (required) and a Description (optional) for the configuration. note NOTE Names must begin with a letter (A-Z) and can only contain alphanumeric characters. You can also use underscore _ , dot . , and hyphen - characters.
 - In the Web settings section, select one of the following options: Single page - If you want to apply the changes to a single page only, enter or select a Page URL . {width="600" modal="regular"} Pages matching rule - To target multiple URLs matching the same rule, build a pages matching rule and enter a Default authoring and preview URL .
@@ -28639,7 +28883,7 @@ For example, apply changes to a hero banner across an entire website, or add a t
 
 You can duplicate an existing web channel configuration and change it to create a new web channel based on an existing one. An active web channel configuration saved to the library cannot be modified.
 
-- Click the More menu icon ( … ) for the variant and choose Duplicate . {width="450"} This action creates a duplicated web channel with _Copy_nnn appended to the name.
+- Click the More menu icon ( … ) for the variant and choose Duplicate . {width="350"} This action creates a duplicated web channel with _Copy_nnn appended to the name.
 - Click the name of the duplicated web channel to edit the parameters. To match the purpose or items in the rule, change the name and description. If needed, change the single page URL. If needed, change the pages matching rule according to your requirements.
 - When the configuration is complete, click Submit .
 
@@ -28655,7 +28899,7 @@ title: "Web engagement dashboard"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/web-engagement-dashboard"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:08.525029+00:00"
+created_at: "2026-10-01T14:10:09.350691+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -28744,15 +28988,15 @@ title: "Web experience design"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/web-channel/web-experience-design"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:05.716052+00:00"
+created_at: "2026-10-01T14:09:29.791436+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
-[Beta]{class="badge informative" title="This feature is currently in a limited beta release"}
+[Limited Availability]{class="badge informative"}
 
 # Web experience design
 
-Last update: June 13, 2026
+Last update: September 20, 2026
 - Topics:
 - [Journeys](#)
 - [Generative AI](#)
@@ -28775,7 +29019,7 @@ Before you can design web experiences, ensure that the following requirements ar
 
 - A product administrator has configured one or more web channels to define the URLs (pages) to be included for a web experience. For more information, see Web channel configurations .
 - Your website has the Adobe Experience Platform Web SDK ( alloy.js ) implemented for visitor identification and content delivery. Adobe Experience Platform Web SDK version 2.16 or above is required.
-- You have the necessary permissions to create and manage web experiences in a journey: Campaigns > Manage Campaigns - Required to add or update a web personalization action node. Campaigns > View Campaigns - Required to view details for a Web personalization action node.
+- You have the necessary permissions to create and manage web experiences in a journey: Author B2B Web Experiences Manage B2B Person Journeys Manage B2B Account Journeys
 
 style
 shade-box
@@ -28884,8 +29128,8 @@ Select a component type on the left and then hover over an element that is adjac
 
 Click one of the displayed buttons to place the component:
 
-- ***Insert before** - Insert the component before the selected element.
-- ***Insert after** - Insert the component after the selected element.
+- **Insert before** - Insert the component before the selected element.
+- **Insert after** - Insert the component after the selected element.
 
 To unselect a component type for insertion, click **ESC** in the contextual blue banner displayed at the top of the page.
 
@@ -28983,15 +29227,15 @@ title: "Web experiences"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/web-channel/web-experiences"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:04.629679+00:00"
+created_at: "2026-10-01T14:09:29.241199+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
-[Beta]{class="badge informative" title="This feature is currently in a limited beta release"}
+[Limited Availability]{class="badge informative"}
 
 # Web experiences
 
-Last update: August 4, 2026
+Last update: September 20, 2026
 - Topics:
 - [Journeys](#)
 - [Communication channels](#)
@@ -29016,7 +29260,7 @@ Before you can create web experiences, ensure that the following requirements ar
 
 - A product administrator has configured one or more web channels to define the URLs (pages) to be included for a web experience. For more information, see Web channel configurations .
 - Your website has the Adobe Experience Platform Web SDK ( alloy.js ) implemented for visitor identification and content delivery. Make sure that the Adobe Experience Platform Web SDK version is 2.16 or above.
-- You have the necessary permissions to create and manage web experiences in a journey: Campaigns > Manage Campaigns - Required to add or update a web personalization action node. Campaigns > View Campaigns - Required to view details for a Web personalization action node. Campaigns > Approve and Publish Campaigns - Required to publish a journey that has one or more Web personalization action nodes.
+- You have the necessary permissions to create and manage web experiences in a journey: Author B2B Web Experiences Manage B2B Person Journeys Manage B2B Account Journeys
 - You have the Adobe Experience Cloud Visual Editing Helper browser extension installed for your web browser. This extension is required to open, author, and preview your web pages reliably in the Journey Optimizer B2B Edition content design space. note NOTE Google Chrome and Microsoft Edge are currently the only browsers that support authoring web pages in Journey Optimizer B2B Edition.
 
 style
@@ -29045,7 +29289,6 @@ You can set up web experiences in a journey when you [add a Take an action node]
 - For the Action on people , choose Personalize web experience . {width="500"}
 - Click Create web experience .
 - In the Create web experience dialog, enter a useful Name and Description (optional). Name - Maximum of 100 characters, must be unique, case-insensitive Description - Maximum of 300 characters note NOTE Name and description fields support alpha, numeric, and special characters. Reserved characters ( \ / : * ? " < > | ) are not allowed . {width="400"}
-
 - In the Properties tab, enter the description for the web experience.
 - Click the Actions tab and select the Web channel to use for the web experience. The web channel configuration determines where the content modifications are applied based on the configured page matching rules. See Web channel configurations for more information. {width="700" modal="regular"}
 - To define the web modifications, click Edit content . The editor opens in the Content tab, where you can define the modifications for your web experience. See Web experience design for detailed information about using the design tools to add the web experience content modifications.
@@ -29119,7 +29362,7 @@ title: "WhatsApp authoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/marketing-management/whatsapp-authoring"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:18:48.002884+00:00"
+created_at: "2026-10-01T14:10:41.687739+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -29226,7 +29469,7 @@ title: "WhatsApp authoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/whatsapp-authoring"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:53.955687+00:00"
+created_at: "2026-10-01T14:09:22.782594+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -29335,7 +29578,7 @@ title: "WhatsApp channel configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/prime/admin/channels/configuration-channels-whatsapp"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-prime-documentation"
-created_at: "2026-09-01T13:19:13.946197+00:00"
+created_at: "2026-10-01T14:11:05.180740+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Prime Documentation
 
@@ -29459,7 +29702,7 @@ title: "WhatsApp channel setup"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-whatsapp"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:18:20.702634+00:00"
+created_at: "2026-10-01T14:10:16.664651+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -29604,7 +29847,7 @@ title: "Work with Experience Manager assets"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/assets/aem-assets"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:36.600316+00:00"
+created_at: "2026-10-01T14:09:50.099572+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -29678,7 +29921,7 @@ title: "Work with internal image assets"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/assets/internal-dam/internal-image-assets"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:17:34.614509+00:00"
+created_at: "2026-10-01T14:09:49.010833+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -29873,7 +30116,7 @@ title: "XDM field management"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/xdm-field-management"
 category: "other"
 topic: "journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-09-01T13:16:24.208446+00:00"
+created_at: "2026-10-01T14:09:04.155027+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 

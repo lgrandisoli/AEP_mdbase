@@ -13,11 +13,13 @@ Workfront Guide
 
 About the default Adobe Workfront layout
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -515,13 +517,11 @@ Workfront Guide
 
 Access a proof shared with you
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -615,13 +615,15 @@ Workfront Guide
 
 Access Adobe Workfront from Microsoft Teams
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -833,13 +835,15 @@ Workfront Guide
 
 Access Adobe Workfront from Slack
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -1243,7 +1247,7 @@ Workfront Guide
 
 Access Adobe Workfront help
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -1325,13 +1329,15 @@ Workfront Guide
 
 Access Adobe Workfront objects from a shared link in Slack
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -1781,8 +1787,6 @@ Goals
 
 The Goal List displays.
 
-note important
-
 IMPORTANT
 
 When you have the correct access to Workfront Goals, you can view goals that you or anyone else created in the Goal List, by default.
@@ -1886,6 +1890,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -2093,13 +2099,15 @@ Workfront Guide
 
 Access levels overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -3373,11 +3381,13 @@ Workfront Guide
 
 Access requirements in Workfront documentation
 
-Last update: August 4, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -3569,11 +3579,13 @@ Workfront Guide
 
 Access the list of system issue statuses
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -3799,11 +3811,13 @@ Workfront Guide
 
 Access the list of system project statuses
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -3925,11 +3939,13 @@ Workfront Guide
 
 Access the list of system task statuses
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -4026,86 +4042,6 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
-# FILE: access-to-a-shared-custom-field-adobe-workfront.md
----
-
-Access to a Shared Custom Field | Adobe Workfront
-
-Documentation
-
-Workfront
-
-Workfront Guide
-
-Access to a shared custom field
-
-Last update: July 13, 2026
-
-Topics:
-
-Administration
-
-CREATED FOR:
-
-Admin
-
-When someone shares a custom field with View or Manage access, they can configure several other settings to further define that access. If you are a recipient of the field, those settings impact what you can do with the field. You might see the following when you view the field.
-
-For more information about how users configure sharing settings when sharing a custom form, see
-
-Configure sharing for custom fields and widgets in a form
-
-.
-
-Access settings selected by the sharer
-
-What you can do with the field
-
-View
-
-Add to Custom Forms: Not selected
-
-If you are viewing the Fields tab on the main Custom Forms page, you can see the field, but the Edit button isn't available on the toolbar when you select the field.
-
-View
-
-Add to Custom Forms: Selected
-
-If you add the field to a custom form:
-
-You can edit form-related settings for the field, such as its display logic, it's order among other fields on the form, whether it's a required field on the form, and the ability to remove it from the form.
-
-You cannot edit field-related settings for the field, such as its label, API name, and type.
-
-Manage
-
-Editable system-wide
-
-You can add the field to custom forms and edit any field-related settings for it, such as the label, API name, and type.
-
-Manage
-
-If you are viewing the Fields tab on the main Custom Forms page, the Edit button is available on the toolbar when you select the field.
-
-View or Manage
-
-Share: Not selected
-
-The sharing settings are not visible when you view the field while creating or editing a custom form.
-
-If you are viewing the Fields tab on the main Custom Forms page, the toolbar Share button is not available on the toolbar when you select the field.
-
-View or Manage
-
-Delete: Not selected
-
-If you are viewing the Fields tab on the main Custom Forms page, the Delete button is not available on the toolbar when you select the field.
-
-recommendation-more-help
-
-workfront-help-quicksilver
-
----
 # FILE: access-to-objects-and-areas-by-license-type-legacy-adobe-workfront.md
 ---
 
@@ -4119,13 +4055,15 @@ Workfront Guide
 
 Access to objects and areas by license type (Legacy)
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -4421,13 +4359,15 @@ Workfront Guide
 
 Access to objects and areas by licenses
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -4707,11 +4647,15 @@ Workfront Guide
 
 Access to proofing functionality in Workfront
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -4821,11 +4765,11 @@ Workfront Guide
 
 Access Workfront Proof from Adobe Workfront
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -4903,13 +4847,15 @@ Workfront Guide
 
 Access your favorites and recent items from Slack
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -5049,13 +4995,15 @@ Workfront Guide
 
 Account settings in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -5119,13 +5067,15 @@ Workfront Guide
 
 Account setup for integrations in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -5387,11 +5337,15 @@ Workfront Guide
 
 Actions allowed for group administrators
 
-Last update: July 30, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -5714,6 +5668,8 @@ Topics:
 Administration
 
 Integrations
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -6067,11 +6023,13 @@ Workfront Guide
 
 Active and deactivated objects
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -6262,6 +6220,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -6598,6 +6558,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -7513,6 +7475,8 @@ Administration
 
 Integrations
 
+Work management
+
 CREATED FOR:
 
 User
@@ -7979,6 +7943,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -8257,6 +8223,8 @@ Topics:
 
 Administration
 
+Get Started with Workfront
+
 CREATED FOR:
 
 User
@@ -8521,11 +8489,13 @@ Workfront Guide
 
 Add a dashboard in the left panel of a Workfront object or area
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -8761,11 +8731,13 @@ Workfront Guide
 
 Add a Guest to Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -8854,6 +8826,8 @@ Topics:
 Work management
 
 Administration
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -9080,6 +9054,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -9343,11 +9319,13 @@ Workfront Guide
 
 Add a Proof to a Basecamp Classic Project
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -9553,11 +9531,13 @@ Workfront Guide
 
 Add a Proof to a Basecamp Project
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -9757,6 +9737,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -9887,6 +9869,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -9966,6 +9950,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -10130,6 +10116,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -10589,6 +10577,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -10672,6 +10662,8 @@ Topics:
 Work management
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -10865,13 +10857,15 @@ Workfront Guide
 
 Add additional approvers to submitted document approvals
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -11002,6 +10996,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -11281,11 +11277,21 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 IMPORTANT
 
@@ -11361,37 +11367,29 @@ Access requirements in Workfront documentation
 
 Considerations about adding approvals to a request form
 
-You can add one or multiple approvers to a request form. You can add users and teams as approvers.
+You can add one or multiple approvers (users or teams) to a request form or to an approval rule.
 
-You can display approval information on a record created by submitting a request form in the Approved by and Approved date fields. For information, see
+Approval rules route requests based on field values in the submitted request (e.g., different approvers for different values of a “Campaign type” field).
 
-Create fields
+You can display approval info on the created record via the Approved by and Approved date fields. See Create fields.
 
-.
+If all approvers approve, a record is created for the record type associated with the request form.
 
-When you add multiple approvers to a request form, all approvers must accept the request before a record is created in Workfront Planning.
+If at least one approver rejects, no record is created for the record type; the request instead remains/lands in the Requests area of Workfront. (This point appeared in both sections with slightly different wording — merged here as one statement.)
 
-If all approvers approve the request, a record is created for the record type associated with the request form.
+When multiple approvers are required, all of them must make a decision before the request is approved or rejected — unless the Only one decision is required option is enabled.
 
-If at least one approver rejects the request, and all others approve it, a request is created for the Requests area in Workfront, but no record is created for the record type associated with the request form.
+If a team is set as an approver, only one decision is needed from one member of that team.
 
-Adding approvals to a request form is optional. Workfront Planning immediately creates a record when a request is submitted, if the request form is not associated with an approval.
+Approvals are optional — if a request form has no approval attached, Workfront Planning creates the record immediately on submission.
+
+You can add one or more stages to approvals.
 
 Add approval rules to a request form
 
 Approval rules define the approval process based on field values in the submitted requests.
 
 For example, if a request form has the field “Campaign type,” a rule can be created that sends the request to one person when the field has the value “Digital”, and a different person when it has the value “Print.”
-
-Consider the following when adding approval rules:
-
-You can add one or several approvers to an approval rule.
-
-If at least one approver rejects the request, the request is rejected and the record is not created. The request remains in the Requests area of Workfront.
-
-If you add more than one approver, and the Only one decision is required option is not enabled, all approvers must make a decision before a request is either approved or rejected.
-
-If a team is set as an approver, only one decision is required from one member of the team.
 
 To set approval rules for a request form:
 
@@ -11439,6 +11437,8 @@ Click
 
 Add approval rule
 
+.
+
 Click the placeholder title
 
 Untitled approval rule
@@ -11477,7 +11477,7 @@ area of the approval rule, in the
 
 Approvers
 
-field, add at least one user or team to be set at the approver when the condition is met.
+field, add at least one user or team to be set as the approver when the condition is met.
 
 (Conditional and optional) If you want the record to be created after any one of the approvers has approved it, check the
 
@@ -11497,11 +11497,77 @@ If a custom rule is met, the default is not applied to the request approval work
 
 If multiple custom rules are met, the first one in the order applies. In this case, the default approval does not apply, if there is one.
 
+(Optional) Click
+
+Add stage
+
+to add another stage to the approval.
+
 Click
 
 Save
 
 to save the approval rules.
+
+(Optional) To add more stages to the approval, do the following:
+
+Click
+
+Add stage
+
+.
+
+The
+
+Multi-stage approval
+
+box appears. If you already created a default approval action, those approvers are automatically added to Stage 1.
+
+In the
+
+Add people or teams
+
+field, add at least one user or team to be set as the approver for the stage.
+
+(Conditional and optional) If you want the record to advance to the next stage after any one of the approvers has approved it, check the
+
+Only one decision is required
+
+checkbox. Otherwise, all approvers must decide on the approval before the request moves to the next stage.
+
+Click
+
+Add stage
+
+and repeat from step B to add more stages to the approval.
+
+When two or more stages exist, you can click the
+
+Drag
+
+icon
+
+to drag and drop them in order.
+
+Click
+
+Delete this stage
+
+to delete a stage from the approval, or click the
+
+Delete
+
+icon
+
+next to an approver to delete the user or team from the list of approvers in a stage.
+
+When you are finished building the approval workflow, click
+
+Save
+
+.
+
+You can edit or delete the multi-stage approval from the Approvals page.
 
 (Optional) Click
 
@@ -11534,6 +11600,8 @@ Topics:
 Work management
 
 Administration
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -11668,6 +11736,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -11852,6 +11922,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -12199,9 +12271,13 @@ Topics:
 
 Administration
 
+Resource management
+
 CREATED FOR:
 
 User
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
 
 You can add or reply to updates on a document to communicate with collaborators and create an audit trail. For information about adding updates to work items, see see
 
@@ -12349,6 +12425,26 @@ Submit
 
 .
 
+Frame.io comment indicator in Preview
+
+When an approval workflow is created for a document, users can leave comments and make annotations in the Frame.io viewer. These comments are not displayed in the Workfront Comments panel, but you can view them in the Frame.io viewer.
+
+The Comments panel in Workfront displays a message letting you know when new comments are available in Frame.io.
+
+Click
+
+Review comments
+
+to open the document in the Frame.io viewer and view the comments there.
+
+NOTE
+
+If you have a Frame.io Enterprise license, you can view comments in the Frame.io viewer without an approval workflow.
+
+style
+
+highlighted
+
 recommendation-more-help
 
 workfront-help-quicksilver
@@ -12367,11 +12463,13 @@ Workfront Guide
 
 Add and manage quick links in Priorities
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -12563,11 +12661,13 @@ Workfront Guide
 
 Add and view comments in Priorities
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -12809,11 +12909,13 @@ Workfront Guide
 
 Add calculated fields to a form
 
-Last update: August 7, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -13419,6 +13521,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -13534,6 +13638,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -13883,11 +13989,13 @@ Workfront Guide
 
 Add, edit, or delete a deadline for a stage
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -13983,7 +14091,7 @@ Workfront Guide
 
 Add, edit, or remove widgets in Home
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -14257,6 +14365,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -14479,6 +14589,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -14684,6 +14796,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -14905,11 +15019,13 @@ Workfront Guide
 
 Add Groups to a Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -15029,11 +15145,13 @@ Workfront Guide
 
 Add logic rules to custom forms and fields
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -15889,11 +16007,11 @@ Workfront Guide
 
 Add new documents to Adobe Workfront: article index
 
-Last update: July 8, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -15927,11 +16045,13 @@ Workfront Guide
 
 Add or delete object types from an existing custom form
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -16080,176 +16200,6 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
-# FILE: add-or-edit-a-custom-field-section-break-or-widget-adobe-workfront.md
----
-
-Add or Edit a Custom Field, Section Break, or Widget | Adobe Workfront
-
-Documentation
-
-Workfront
-
-Workfront Guide
-
-Add or edit a custom field, section break, or widget
-
-Last update: May 13, 2026
-
-Topics:
-
-Administration
-
-CREATED FOR:
-
-Admin
-
-You can add a new custom field or widget directly from the Fields area in Workfront, without opening a custom form to create the field.
-
-You can also edit the properties of a custom field, section break, or widget that is used in custom forms. These include the item’s label, API name, instructions, and so on.
-
-Setting a custom field as Inactive excludes it from reports, filters, and views, and the field is no longer available in the custom forms field library. All new fields are set to Active by default.
-
-NOTE
-
-Marking an existing field inactive makes it unavailable to use in reporting elements and custom forms from that point forward. If the inactive field is currently used in a report or a form, the field and its historical data remain in place.
-
-If you remove a custom field from a custom form, it still exists on all other forms it was added to, and you can edit it on a form or in the Fields area. For information on deleting a field, see
-
-Delete a custom field or widget from the system
-
-.
-
-For information about custom fields and widgets in custom forms, see
-
-Create a custom form
-
-.
-
-Access requirements
-
-Expand to view access requirements for the functionality in this article.
-
-table 0-row-2 1-row-2 2-row-2 layout-auto html-authored no-header
-
-Adobe Workfront package
-
-Any
-
-Adobe Workfront license
-
-Standard
-
-Plan
-
-Access level configurations
-
-Administrative access to custom forms
-
-For information, see
-
-Access requirements in Workfront documentation
-
-.
-
-Add a custom field or widget
-
-Click the
-
-Main Menu
-
-icon
-
-in the upper-left corner of Adobe Workfront, then click
-
-Setup
-
-.
-
-Click
-
-Custom Forms
-
-.
-
-Click
-
-Fields
-
-to open the Fields area.
-
-Click
-
-New Custom Field
-
-.
-
-In the box that displays, enter the required and optional information for the item you are adding.
-
-For more information, see
-
-Create a custom form
-
-.
-
-Click
-
-Create
-
-.
-
-Edit a custom field, section break, or widget used in a custom form
-
-Click the
-
-Main Menu
-
-icon
-
-in the upper-left corner of Adobe Workfront, then click
-
-Setup
-
-.
-
-Click
-
-Custom Forms
-
-.
-
-Click
-
-Fields
-
-to open the Fields area, or
-
-Sections
-
-to open the Sections area.
-
-Select the custom field, section break, or widget, then click
-
-.
-
-In the box that displays, change any of the options available for the item you are editing.
-
-For more information, see
-
-Create a custom form
-
-.
-
-When you are finished, click
-
-Edit
-
-.
-
-recommendation-more-help
-
-workfront-help-quicksilver
-
----
 # FILE: add-or-edit-a-custom-form-to-a-document-adobe-workfront.md
 ---
 
@@ -16268,6 +16218,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -16487,6 +16439,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -16670,6 +16624,8 @@ Topics:
 Work management
 
 Administration
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -17305,11 +17261,13 @@ Workfront Guide
 
 Add stages and users to an Automated Workflow on a proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -17439,6 +17397,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -17564,6 +17524,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -17779,6 +17741,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -17968,6 +17932,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -18275,6 +18241,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -18363,11 +18331,13 @@ Workfront Guide
 
 Add updates in Adobe Workfront View
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -18463,11 +18433,13 @@ Workfront Guide
 
 Add users
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -18831,11 +18803,13 @@ Workfront Guide
 
 ADFS logout URL doesn’t work
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -19083,13 +19057,15 @@ Workfront Guide
 
 Administration and setup: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -19135,11 +19111,13 @@ Workfront Guide
 
 Administration and setup FAQs
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -19169,11 +19147,13 @@ Workfront Guide
 
 Administration differences between Adobe Workfront and Adobe Business Platform
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -19243,13 +19223,13 @@ Workfront Guide
 
 Adobe Cloud Drive: article index
 
-Last update: July 7, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
-
 Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -19285,11 +19265,15 @@ Workfront Guide
 
 Adobe Cloud Drive overview
 
-Last update: June 24, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -19356,6 +19340,8 @@ Topics:
 Work management
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -19560,6 +19546,8 @@ Topics:
 Administration
 
 Integrations
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -19771,11 +19759,13 @@ Workfront Guide
 
 Adobe Unified Experience for Workfront
 
-Last update: July 6, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -19987,6 +19977,8 @@ Topics:
 
 Administration
 
+Get Started with Workfront
+
 CREATED FOR:
 
 User
@@ -20025,6 +20017,8 @@ AI Assistant in Workfront
 
 Workfront MCP server
 
+Coworker in Workfront
+
 Tips, Tricks, and Troubleshooting for Adobe Workfront Basics
 
 recommendation-more-help
@@ -20045,7 +20039,7 @@ Workfront Guide
 
 Adobe Workfront Boards for mobile
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -20361,7 +20355,7 @@ Workfront Guide
 
 Adobe Workfront browser requirements
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -20440,6 +20434,8 @@ Last update: April 1, 2026
 Topics:
 
 Integrations
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -20843,7 +20839,7 @@ Workfront Guide
 
 Adobe Workfront for Android
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -21039,11 +21035,15 @@ Workfront Guide
 
 Adobe Workfront for Experience Manager Assets and Assets Essentials: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -21097,6 +21097,8 @@ Topics:
 
 Integrations
 
+Workfront Integrations and Apps
+
 CREATED FOR:
 
 User
@@ -21149,7 +21151,7 @@ Workfront Guide
 
 Adobe Workfront for iOS
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -21351,6 +21353,8 @@ Topics:
 
 Integrations
 
+Workfront Integrations and Apps
+
 CREATED FOR:
 
 User
@@ -21395,11 +21399,13 @@ Workfront Guide
 
 Adobe Workfront for Microsoft Teams: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -21453,11 +21459,13 @@ Workfront Guide
 
 Adobe Workfront for Microsoft Teams Overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -21557,7 +21565,7 @@ Workfront Guide
 
 Adobe Workfront for Mobile Device Management (MDM)
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -21617,6 +21625,8 @@ Topics:
 
 Integrations
 
+Workfront Integrations and Apps
+
 CREATED FOR:
 
 User
@@ -21661,7 +21671,7 @@ Workfront Guide
 
 Adobe Workfront for Slack
 
-Last update: May 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -21714,6 +21724,8 @@ Last update: April 1, 2026
 Topics:
 
 Work management
+
+Administration
 
 CREATED FOR:
 
@@ -21837,7 +21849,7 @@ Workfront Guide
 
 Adobe Workfront integration methods
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -21846,6 +21858,10 @@ APIs
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Workfront Fusion
 
 CREATED FOR:
 
@@ -21883,7 +21899,19 @@ Custom OAuth2 applications
 
 Adobe Workfront administrators can create OAuth2 applications for your instance of Workfront, which allow other applications to access Workfront. Your users can then give permission to those other applications to access their Workfront data. In this way, you can integrate Workfront with applications of your choice, including your own in-house applications.
 
-NOTE
+IMPORTANT
+
+Custom OAuth2 applications are in the process of being deprecated. Please note the following dates:
+
+November 1, 2026: You will no longer be able to create new custom OAuth2 applications.
+
+February 1, 2027: Existing custom OAuth2 applications will no longer work.
+
+For more information, see
+
+Migrate from Workfront OAuth2 to Adobe Developer Console
+
+.
 
 In the context of OAuth2, “creating an app” refers to the process of creating this sort of access link between an app and a server such as Workfront.
 
@@ -21984,6 +22012,10 @@ Topics:
 Administration
 
 Integrations
+
+System Setup and Administration
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -22355,11 +22387,13 @@ Workfront Guide
 
 Adobe Workfront integrations
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -22403,7 +22437,7 @@ Workfront Guide
 
 Adobe Workfront MCP server overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -22473,7 +22507,7 @@ Workfront Guide
 
 Adobe Workfront MCP server tools
 
-Last update: August 20, 2026
+Last update: October 1, 2026
 
 Topics:
 
@@ -23579,6 +23613,10 @@ Insights tools
 
 Insights tools retrieve information about Workfront objects.
 
+NOTE
+
+Insights data is near real-time, with an SLA of up to approximately 15 minutes. Changes made in Workfront may not appear immediately in Insights results.
+
 Title
 
 Tool name
@@ -23659,6 +23697,96 @@ Find people in your Workfront instance by name. Type a full or partial name, and
 
 Read
 
+Feedback tools
+
+Feedback tools let you report your experience with the Workfront MCP server directly from your AI agentic platform.
+
+Title
+
+Tool name
+
+What it does
+
+Action
+
+Share feedback
+
+share_feedback
+
+Records your reported sentiment and what happened during the conversation, so Workfront’s MCP tools can be improved. Only used when you explicitly ask to share feedback (for example, “share feedback” or “report a bug”).
+
+Write
+
+Reporting tools
+
+Reporting tools let you build and manage Canvas Dashboards through chat. Describe the report you want in plain language, and the AI agentic platform creates the dashboard and widgets for you using your Workfront data.
+
+Canvas Dashboards
+
+Title
+
+Tool name
+
+What it does
+
+Action
+
+Read
+
+read
+
+Reads Reporting data in three modes selected by the IDs passed: lists the dashboards visible to you, fetches a single dashboard’s structure, or fetches one widget’s full configuration.
+
+Read
+
+Create Dashboard
+
+create_dashboard
+
+Creates a new, empty Reporting dashboard and returns it, with a link to open it.
+
+Write
+
+Update Dashboard
+
+update_dashboard
+
+Partially updates a dashboard’s metadata, prompt, filter, and per-widget placement. Omitted fields are left unchanged.
+
+Write
+
+Create Widget
+
+create_widget
+
+Creates a widget and its report configuration on a dashboard. One tool handles all three widget types: chart, KPI, and table.
+
+Write
+
+Update Widget
+
+update_widget
+
+Partially updates an existing widget’s configuration. The widget type is inferred automatically, so you only send the fields you want to change.
+
+Write
+
+Copy Object
+
+copy_object
+
+Copies a whole dashboard, including its widgets, prompt, and filter, onto a new dashboard, or copies a single widget within or across dashboards.
+
+Write
+
+Delete Object
+
+delete_object
+
+Permanently deletes a Reporting dashboard, and all its widgets, or a single widget. This action cannot be undone.
+
+Write
+
 How tools are updated
 
 When Adobe releases a new version of the Workfront MCP server, the AI agentic platform uses the updated tool set automatically. You don’t need to reconnect or change anything on your side.
@@ -23687,13 +23815,15 @@ Workfront Guide
 
 Adobe Workfront objects overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -24429,13 +24559,21 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
 User
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 IMPORTANT
 
@@ -24477,6 +24615,12 @@ Share records
 
 Set default permissions for records
 
+Share Workfront Planning fields
+
+style
+
+highlighted
+
 recommendation-more-help
 
 workfront-help-quicksilver
@@ -24500,6 +24644,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -24783,11 +24929,21 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 IMPORTANT
 
@@ -24807,39 +24963,57 @@ Get started with Adobe Workfront Planning as a standalone product
 
 .
 
-You can use the AI Assistant to generate, update, or remove records based on the current page context and record structure.
+You can use the AI Assistant to make changes or updates to records and other objects in Adobe Workfront Planning based on the current page context.
 
 The user’s commands and the AI’s execution of those commands work together to ensure that changes made by the AI are accurately reflected in your environment.
+
+IMPORTANT
+
+In some organizations, the AI Assistant was replaced by the CX Coworker. For information, see
+
+Adobe Workfront Planning CX Coworker overview
+
+.
 
 Access requirements
 
 Expand to view access requirements for the functionality in this article.
 
-table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 layout-auto html-authored no-header
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 layout-auto html-authored no-header
 
 Adobe Workfront packages
 
 Any Workfront or Workflow with a Planning package
 
+Or
+
 Any Planning package when purchased as a standalone product
 
 Adobe Workfront license
 
-Workflow Standard
+Standard
 
 Adobe Planning license
 
-Planning Standard
+Standard
 
 Access level configuration
 
-You must add both a Workflow and a Planning license type to the access level when you have both a Workflow and a Planning package
+Your administrator must do the following to allow access to the AI Assistant:
+
+Add both a Workflow and a Planning license type to your access level when you have both a Workflow and a Planning package
+
+Deselect Disable the Workfront AI Assistant setting in your access level
 
 Object permissions
 
 Manage permissions to a workspace
 
 System Administrators have permissions to all workspaces, including the ones they did not create
+
+System settings
+
+Your Workfront administrator must select the Enable AI setting in the System Preferences area of Setup and sign the AI to have access to the AI Assistant
 
 For more information about Workfront access requirements, see
 
@@ -24849,15 +25023,17 @@ Access requirements in Workfront documentation
 
 Considerations about the AI Assistant
 
-The AI Assistant must be enabled for your organization before it is available for users in your company. For information, see
+The AI Assistant must be enabled for your organization before it is available for users in your company.
+
+For information, see
 
 AI Assistant overview
 
 .
 
-After Workfront has enabled the AI Assistant for your organization, it is available for the main Workfront administrator. For information, see
+After Workfront has enabled the agent for your organization, it is available for the main Workfront administrator. For information, see
 
-Configure basic information for your system
+Configure system preferences
 
 .
 
@@ -24908,6 +25084,14 @@ Delete records
 Restore records that you just deleted
 
 Locate the AI Assistant in Workfront Planning
+
+NOTE
+
+If your organization has received access to the CX Coworker, locating the CX Coworker is similar to locating the AI Assistant. For information, see
+
+Adobe Workfront Planning CX Coworker overview
+
+.
 
 You can locate the AI Assistant in the following areas of Workfront Planning:
 
@@ -24993,11 +25177,11 @@ Workfront Guide
 
 Adobe Workfront Planning and Adobe GenStudio for Performance Marketing integration: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -25031,13 +25215,15 @@ Workfront Guide
 
 Adobe Workfront Planning API basics
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Work management
 
 CREATED FOR:
 
@@ -26193,7 +26379,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -26236,6 +26422,282 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
+# FILE: adobe-workfront-planning-cx-coworker-overview-adobe-workfront.md
+---
+
+Adobe Workfront Planning CX Coworker Overview | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Adobe Workfront Planning CX Coworker overview
+
+Last update: September 25, 2026
+
+Topics:
+
+Work management
+
+CREATED FOR:
+
+User
+
+Admin
+
+The information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
+IMPORTANT
+
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
+
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
+
+For general information about Workfront Planning, see
+
+Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
+
+.
+
+The CX Coworker is a conversational interface where you describe a goal in plain language, and then it plans, executes, and validates the work across your Workfront Planning and other connected Adobe systems before bringing it back for your approval.
+
+The CX Coworker preserves everything AI Assistant does today while adding more powerful end-to-end capabilities in both a new full-screen experience and the Workfront right rail.
+
+It operates within your organization’s existing product-level access controls, so users can only take actions they’re already permitted to in Workfront, with read-only access by default and write access controlled by Workfront administrators.
+
+IMPORTANT
+
+CX Coworker is not currently available to organizations in health care, finance, or some other industries with sensitive data. AI Assistant is available to these organizations.
+
+For more information, see
+
+AI Assistant overview
+
+.
+
+Access requirements
+
+Expand to view access requirements for the functionality in this article.
+
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 layout-auto html-authored no-header
+
+Adobe Workfront packages
+
+Any Workfront or Workflow with a Planning package
+
+Or
+
+Any Planning package when purchased as a standalone product
+
+Adobe Workfront license
+
+Standard
+
+Adobe Planning license
+
+Standard
+
+Access level configuration
+
+Your administrator must do the following to allow access to the CX Coworker in Planning:
+
+Add both a Workflow and a Planning license type to your access level when you have both a Workflow and a Planning package
+
+Deselect Disable the CX Coworker panel in Workfront setting in your access level. It is selected by default.
+
+Object permissions
+
+Manage permissions to a workspace
+
+System Administrators have permissions to all workspaces, including the ones they did not create
+
+System settings
+
+Your Workfront administrator must select the Read-only and Write-only MCP tools in the System Preferences area of Setup. The Read-only MCP tools is selected by default.
+
+For more information about Workfront access requirements, see
+
+Access requirements in Workfront documentation
+
+.
+
+Considerations for the CX Coworker
+
+The CX Coworker must be enabled for your organization before it is available for users in your company.
+
+For information, see
+
+CX Coworker overview
+
+.
+
+After Workfront has enabled the agent for your Workfront instance, it is available for the main Workfront administrator and they can enable it for your organization. For information, see
+
+Configure system preferences
+
+.
+
+The Workfront administrator must also enable the CX Coworker for you, in your access level. For information, see
+
+Create and modify access levels
+
+.
+
+The CX Coworker works with information and objects that are in Workfront or Workfront Planning and that you have permission to access. In the Planning right rail, the Coworker panel operates in the context of the workspace, record type, or record page that you have open.
+
+The actions performed by the CX Coworker in the Planning area are in the context of your Workfront Planning permissions and your Workfront access level. For information, see the following articles:
+
+Overview of sharing permissions in Adobe Workfront Planning
+
+License type overview when using Adobe Workfront Planning
+
+Changes made by the CX Coworker on the user’s behalf are tracked in the record’s history panel.
+
+Actions done by the CX Coworker are permanent and could be irreversible. For example, deleting a field cannot be reversed. Review all actions that are proposed by the CX Coworker before accepting them.
+
+When creating, updating, or deleting an object through the CX Coworker, the CX Coworker displays the intended actions and asks for confirmation. You can then confirm or cancel the actions.
+
+Functionality currently available for the CX Coworker
+
+Currently, the CX Coworker is available in the Planning area of Workfront and it uses a set of skills to access and manipulate information for Planning objects. For more information, see
+
+CX Coworker skills
+
+.
+
+You can use the CX Coworker to perform the following actions:
+
+Search for records. You can search by information contained in any record fields.
+
+Create records. An ID with a link to the new record displays after the record is created. You can specify the fields you want to update during the creation process, like dates or description.
+
+Create records based on a document that you upload. Workfront supports the following document formats for the CX Coworker:
+
+PPTX, PDF, DOCX, XLSX, PPT, DOC, TXT, and most image formats
+
+Update fields for the records you see on the screen
+
+Delete, duplicate, or restore records
+
+Link records to other records
+
+View a record’s change history
+
+Locate the CX Coworker in Workfront Planning
+
+You can locate the CX Coworker in the following areas of Workfront Planning:
+
+The main navigation bar, in the upper-right corner of the screen.
+
+Inside the details area of a record when you open it in a new tab.
+
+Access the CX Coworker in the Planning area
+
+Log in to Workfront, then click the
+
+Main Menu
+
+icon
+
+in the upper-left corner, then click
+
+Planning
+
+.
+
+The Planning area opens.
+
+Locate the
+
+Coworker
+
+icon
+
+in the upper-right corner of the page, or continue to the steps below.
+
+Click a
+
+workspace card
+
+.
+
+Click a
+
+record type card
+
+.
+
+Click a
+
+record
+
+to open the record’s
+
+Details
+
+page, then click the
+
+Open in new tab
+
+icon
+
+.
+
+Click the
+
+CX Coworker icon
+
+in the upper-right corner of the screen.
+
+In the space provided, start typing commands for the CX Coworker, then click Enter when you are done.
+
+For example, you may type one of the following:
+
+Create a new campaign record called Summer Sale 2026
+
+Update the budget field in the Summer Campaign record to $75,000
+
+Delete the campaign record named Old Promo
+
+Restore the campaign I accidentally deleted
+
+note tip
+
+TIP
+
+Ensure your Workfront administrator enabled Write-only MCP Tools in your System Preferences before asking the CX Coworker to perform editing actions on objects.
+
+A visual indicator displays while the CX Coworker processes commands, setting expectations for response time.
+
+After receiving a successful response, follow the links provided or notice the changes on the left.
+
+(Optional) Click the
+
+Expand full screen
+
+icon
+
+to open the Coworker chat box in a full browser tab.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
 # FILE: adobe-workfront-planning-notifications-article-index-adobe-workfront.md
 ---
 
@@ -26249,11 +26711,11 @@ Workfront Guide
 
 Adobe Workfront Planning notifications: article index
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -26313,7 +26775,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -26481,11 +26943,11 @@ Workfront Guide
 
 Adobe Workfront Planning reporting: article index
 
-Last update: July 6, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -26521,7 +26983,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -26543,6 +27005,12 @@ Add an approval to a request form in Adobe Workfront Planning
 
 Approve request in Adobe Workfront Planning
 
+Share Planning requests
+
+style
+
+highlighted
+
 recommendation-more-help
 
 workfront-help-quicksilver
@@ -26561,11 +27029,15 @@ Workfront Guide
 
 Adobe Workfront plugin for Creative Cloud Apps
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -26637,11 +27109,13 @@ Workfront Guide
 
 Adobe Workfront Privacy Policy
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -26673,11 +27147,11 @@ Workfront Guide
 
 Adobe Workfront Scenario Planner: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Scenario Planner
+Administration
 
 CREATED FOR:
 
@@ -26743,7 +27217,7 @@ Workfront Guide
 
 Adobe Workfront Search
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -26777,11 +27251,13 @@ Workfront Guide
 
 Adobe Workfront testing environments
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -26829,11 +27305,13 @@ Workfront Guide
 
 Adobe Workfront user credentials vs. SAML user credentials
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -26878,6 +27356,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -27013,7 +27493,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Agile
+Work management
 
 CREATED FOR:
 
@@ -27141,7 +27621,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Agile
+Work management
 
 CREATED FOR:
 
@@ -27211,7 +27691,7 @@ Workfront Guide
 
 AI Assistant: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -27220,6 +27700,14 @@ Get Started with Workfront
 CREATED FOR:
 
 User
+
+IMPORTANT
+
+Beginning in September 2026, AI Assistant is transitioning to CX Coworker, a conversational interface for getting work done. For information on CX Coworker, see
+
+CX Coworker overview
+
+.
 
 This section contains the following articles:
 
@@ -27263,9 +27751,19 @@ Topics:
 
 Administration
 
+Get Started with Workfront
+
 CREATED FOR:
 
 User
+
+IMPORTANT
+
+Beginning in September 2026, AI Assistant is transitioning to CX Coworker, a conversational interface for getting work done. For information on CX Coworker, see
+
+CX Coworker overview
+
+.
 
 Workfront’s AI Assistant helps you accomplish your work by offering in-app information and suggestions in a natural-language conversation. AI Assistant can give you a smoother work experience by
 
@@ -27529,7 +28027,7 @@ Workfront Guide
 
 AI Assistant prompts and best practices
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -27538,6 +28036,14 @@ Get Started with Workfront
 CREATED FOR:
 
 User
+
+IMPORTANT
+
+Beginning in September 2026, AI Assistant is transitioning to CX Coworker, a conversational interface for getting work done. For information on CX Coworker, see
+
+CX Coworker overview
+
+.
 
 Workfront’s AI Assistant is a powerful tool that can help you accomplish your work more effectively by offering useful information about your account data and specific object types.
 
@@ -28085,11 +28591,13 @@ Workfront Guide
 
 Allow emails from the Adobe Workfront application
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -28119,11 +28627,11 @@ Workfront Guide
 
 Announcement archive
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Product Announcements
+Administration
 
 CREATED FOR:
 
@@ -28167,11 +28675,11 @@ Workfront Guide
 
 Announcements
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Product Announcements
+Administration
 
 CREATED FOR:
 
@@ -28209,7 +28717,7 @@ Workfront Guide
 
 API basics
 
-Last update: July 10, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -28218,6 +28726,8 @@ APIs
 Administration
 
 Integrations
+
+Workfront API
 
 CREATED FOR:
 
@@ -29305,7 +29815,7 @@ Workfront Guide
 
 API Explorer
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -29345,11 +29855,13 @@ Workfront Guide
 
 API versioning and support schedule
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Workfront API
 
 CREATED FOR:
 
@@ -30125,6 +30637,8 @@ Topics:
 
 Administration
 
+Get Started with Workfront
+
 CREATED FOR:
 
 User
@@ -30311,13 +30825,15 @@ Workfront Guide
 
 Approval process overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -30581,11 +31097,13 @@ Workfront Guide
 
 Approval processes and milestone paths: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -30621,7 +31139,7 @@ Workfront Guide
 
 Approvals in the Adobe Workfront mobile app
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -30715,7 +31233,7 @@ Workfront Guide
 
 Approve a Business Case
 
-Last update: June 12, 2026
+Last update: September 29, 2026
 
 Topics:
 
@@ -30925,6 +31443,8 @@ Rejected
 
 if the Business case is rejected.
 
+NOTE
+
 There are no notifications that alert the user who submitted the approval of the business case whether their project request was approved or rejected.
 
 Approve the Business Case by accessing Requested projects in a portfolio
@@ -30960,6 +31480,8 @@ Topics:
 Work management
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -31259,11 +31781,11 @@ Workfront Guide
 
 Approve a proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -31298,6 +31820,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -31623,7 +32147,7 @@ Workfront Guide
 
 Approve a timesheet
 
-Last update: August 25, 2026
+Last update: September 9, 2026
 
 Topics:
 
@@ -31714,6 +32238,8 @@ The My timesheet is approved personal notification is enabled on the user’s pr
 Modify your own email notifications
 
 .
+
+The user who submitted the timesheet has a Standard license. Users with a Light license or lower do not receive the timesheet approval email notification, even when the My timesheet is approved personal notification is enabled on their profile.
 
 Approve a timesheet from the Timesheets area
 
@@ -31869,7 +32395,7 @@ Workfront Guide
 
 Approver Decision shows a hyphen in the Proof Approval report
 
-Last update: June 15, 2026
+Last update: September 25, 2026
 
 CREATED FOR:
 
@@ -31923,13 +32449,15 @@ Workfront Guide
 
 Approving work
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -32213,7 +32741,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -32507,11 +33035,11 @@ Workfront Guide
 
 Architecture: article index
 
-Last update: August 25, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -32585,6 +33113,8 @@ Create workspace hierarchies
 
 Manage dependent connections
 
+Configure record type business rules
+
 style
 
 highlighted
@@ -32607,13 +33137,11 @@ Workfront Guide
 
 Archive in Workfront Proof
 
-Last update: May 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -32793,6 +33321,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -32919,11 +33449,15 @@ Workfront Guide
 
 Assign a user as a group administrator
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -33411,7 +33945,7 @@ CREATED FOR:
 
 User
 
-You can assign tasks to users, job roles, teams, or Task Collaborators to indicate who is responsible for completing the tasks. You can assign a task to more than one resource at a time.
+You can assign tasks to users, job roles, teams, or Work Agents to indicate who is responsible for completing the tasks. You can assign a task to more than one resource at a time.
 
 TIP
 
@@ -33439,7 +33973,7 @@ Make smart assignments
 
 Create advanced assignments
 
-Use task collaborators
+Use work agents
 
 Modify multiple user assignments in a task list
 
@@ -33551,13 +34085,13 @@ Click the name of the assignments if the task is already assigned.
 
 Do one of the following:
 
-Start typing the name of a user, job role, team, or Task Collaborator that you want to assign, then click it when it appears in the list.
+Start typing the name of a user, job role, team, or Work Agent that you want to assign, then click it when it appears in the list.
 
 note tip
 
 TIP
 
-When adding a Task Collaborator, the name of the Task Collaborator is a first name only. Last names for Task Collaborators are blank.
+When adding a Work Agent, the name of the Work Agent is a first name only. Last names for Work Agents are blank.
 
 When adding a user assignment, notice the avatar, the user’s Primary Role, or their email address to distinguish between users with identical names. Users must be associated with at least one job role to view it as you add them.
 
@@ -33635,7 +34169,7 @@ Assign one user
 
 Assignments
 
-Assign users, job roles, teams, or Task Collaborators
+Assign users, job roles, teams, or Work Agents
 
 To assign tasks in a list:
 
@@ -33687,7 +34221,7 @@ Click inside the
 
 Assignments
 
-field and start typing the name of an active user, job role, team, or Task Collaborator that you want to assign to the task, then click it when it displays in the list.
+field and start typing the name of an active user, job role, team, or Work Agent that you want to assign to the task, then click it when it displays in the list.
 
 note tip
 
@@ -33765,7 +34299,7 @@ In the
 
 Assignments
 
-area, start typing the name of users, teams, roles, or Task Collaborators in the
+area, start typing the name of users, teams, roles, or Work Agents in the
 
 Search people, roles, or teams
 
@@ -33856,6 +34390,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -34061,6 +34597,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -34146,6 +34684,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -34233,13 +34773,13 @@ Workfront Guide
 
 Assign work in bulk using the Workload Balancer
 
-Last update: August 20, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
 
 CREATED FOR:
 
@@ -34247,7 +34787,7 @@ User
 
 You can assign resources to multiple tasks and issues in bulk using the Adobe Workfront Workload Balancer.
 
-For general information about assigning work to users and Task Collaborators using the Workload Balancer, see
+For general information about assigning work to users and Work Agents using the Workload Balancer, see
 
 Overview of assigning work in the Workload Balancer
 
@@ -34525,19 +35065,19 @@ Workfront Guide
 
 Assign work in the Workload Balancer by dragging and dropping
 
-Last update: August 20, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
 
 CREATED FOR:
 
 User
 
-You can assign work items using the Adobe Workfront Workload Balancer by dragging and dropping work items to the correct users and Task Collaborators.
+You can assign work items using the Adobe Workfront Workload Balancer by dragging and dropping work items to the correct users and Work Agents.
 
 For general information about assigning work to users using the Workload Balancer, see
 
@@ -34731,19 +35271,19 @@ Workfront Guide
 
 Assign work manually using the Workload Balancer
 
-Last update: August 20, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
 
 CREATED FOR:
 
 User
 
-You can manually assign work items to users and Task Collaborators using the Adobe Workfront Workload Balancer.
+You can manually assign work items to users and Work Agents using the Adobe Workfront Workload Balancer.
 
 For general information about assigning work to users using the Workload Balancer, see
 
@@ -35013,13 +35553,15 @@ Workfront Guide
 
 Associate a new or existing approval process with work
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -36195,11 +36737,11 @@ Workfront Guide
 
 Attach a rate card to a template
 
-Last update: June 19, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Work Management
+Work management
 
 CREATED FOR:
 
@@ -36413,11 +36955,13 @@ Workfront Guide
 
 Attach a reminder notification to an object
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -36893,11 +37437,13 @@ Workfront Guide
 
 Audit logs overview
 
-Last update: August 19, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -37411,7 +37957,7 @@ Workfront Guide
 
 Configure and use your organization’s custom OAuth 2 applications using authorization code flow
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -37419,9 +37965,25 @@ Administration
 
 Integrations
 
+Workfront API
+
 CREATED FOR:
 
 Developer
+
+IMPORTANT
+
+Custom OAuth2 applications are in the process of being deprecated. Please note the following dates:
+
+November 1, 2026: You will no longer be able to create new custom OAuth2 applications.
+
+February 1, 2027: Existing custom OAuth2 applications will no longer work.
+
+For more information, see
+
+Migrate from Workfront OAuth2 to Adobe Developer Console
+
+.
 
 In order to integrate with Workfront and allow your client app to communicate with Workfront on behalf of the user, you must:
 
@@ -37739,6 +38301,8 @@ Topics:
 
 Administration
 
+Get Started with Workfront
+
 CREATED FOR:
 
 User
@@ -37853,7 +38417,7 @@ Workfront Guide
 
 Auto-fill a request using AI
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -37862,6 +38426,14 @@ Get Started with Workfront
 CREATED FOR:
 
 User
+
+IMPORTANT
+
+Beginning in September 2026, AI Assistant is transitioning to CX Coworker, a conversational interface for getting work done. For information on CX Coworker, see
+
+CX Coworker overview
+
+.
 
 AI can help you auto-fill request fields. It can suggest field values based on previous requests, or parse them from text such as emails ar uploaded documents.
 
@@ -37901,13 +38473,11 @@ Workfront Guide
 
 Automated Workflow in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -37945,11 +38515,11 @@ Workfront Guide
 
 Automated Workflow overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -38031,11 +38601,11 @@ Workfront Guide
 
 Automated Workflow Stages overview
 
-Last update: May 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -38117,11 +38687,13 @@ Workfront Guide
 
 Automatic reminders vs. reminder notifications
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -38279,6 +38851,8 @@ Topics:
 
 Work management
 
+Resource management
+
 CREATED FOR:
 
 User
@@ -38351,9 +38925,9 @@ Create multiple stage approvals
 
 Access review and approval requests in the My Approvals widget in the Home area
 
-Use the Content Reviewer to automate brand compliance reviews. For more information, see
+Use the AI Reviewer to automate brand compliance reviews. For more information, see
 
-Get started with the Workfront Content Reviewer
+Get started with the Workfront AI Reviewer
 
 .
 
@@ -38409,11 +38983,13 @@ Workfront Guide
 
 Avoid spam filters
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -38453,13 +39029,11 @@ Workfront Guide
 
 Back Up Your Workfront Proof Data
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -38653,11 +39227,13 @@ Workfront Guide
 
 Basecamp
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -38699,11 +39275,13 @@ Workfront Guide
 
 Basecamp Classic
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -38743,13 +39321,11 @@ Workfront Guide
 
 Basic features in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -38791,13 +39367,11 @@ Workfront Guide
 
 Basic Proofing Process in Workfront Proof
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -38867,7 +39441,7 @@ Workfront Guide
 
 Be an Android beta tester
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -38987,7 +39561,7 @@ Workfront Guide
 
 Be an iOS beta tester
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -39181,6 +39755,8 @@ Administration
 
 Integrations
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
@@ -39226,6 +39802,8 @@ Work management
 Administration
 
 Integrations
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -39375,6 +39953,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -39455,7 +40035,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Agile
+Work management
 
 CREATED FOR:
 
@@ -39529,11 +40109,13 @@ Workfront Guide
 
 Box
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -39575,11 +40157,13 @@ Workfront Guide
 
 Brand Adobe Workfront using a layout template
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -39607,11 +40191,13 @@ Workfront Guide
 
 Brand the Workfront Proof site
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -39833,11 +40419,13 @@ Workfront Guide
 
 Brand the Workfront Proof site - advanced
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -40021,11 +40609,13 @@ Workfront Guide
 
 Brand your Adobe Workfront instance
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -40053,11 +40643,13 @@ Workfront Guide
 
 Branding Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -40201,6 +40793,8 @@ Administration
 
 Integrations
 
+System Setup and Administration
+
 CREATED FOR:
 
 User
@@ -40335,11 +40929,13 @@ Workfront Guide
 
 Browser requirements for Workfront
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -42007,35 +42603,17 @@ Configure additional chart report settings
 
 Filters
 
-Follow the steps below to configure the
-
-Filter
-
-section:
-
 In the left panel, click the
 
 Filter
 
-icon.
+icon, then configure the conditions that determine which data displays.
 
-Select
+For more information, see
 
-Edit filter
+Filter a report in a Canvas Dashboard
 
 .
-
-Click
-
-Add condition
-
-and then specify the field you want to filter by and the modifier that defines what kind of condition the field must meet.
-
-(Optional) Click
-
-Add filter group
-
-to add another set of filtering criteria. The default operator between the sets is AND. Click the operator to change it to OR.
 
 Drilldown settings
 
@@ -42065,23 +42643,21 @@ and then select the field you want to display as a column in the table. Repeat t
 
 Drilldown group settings
 
-Follow the steps below to configure the
+In the left panel, click the
 
 Drilldown Group Settings
 
-section:
+icon, then add groupings for the drilldown table.
 
-In the left panel, click the
+For more information, see
 
-Group Settings
+Configure drilldown groupings in chart and KPI reports
 
-icon.
+in
 
-Click the
+Group report data in a Canvas Dashboard
 
-Add grouping
-
-button and then select the field you want to create as a grouping.
+.
 
 Click
 
@@ -42339,11 +42915,15 @@ $$TODAY
 
 in the evaluator field.
 
-For more information on wildcards, see the section Date-based wildcards filter variables in the
+For more information, see
 
-Edit report filters in a Canvas Dashboard
+Date-based wildcard filter variables
 
-article.
+in
+
+Report filter reference for Canvas Dashboards
+
+.
 
 Follow the steps below to configure the
 
@@ -42513,15 +43093,15 @@ Relationships
 
 Referencing children objects
 
-Available relationships for additional columns, filter options, and grouping attributes are generally limited to objects higher in the Workfront object hierarchy or otherwise have a single selection on the report’s base entity object. There are some exceptions to this, which include the following:
+Some parent-to-child relationships are available for columns, filters, and groupings. For more information, see
 
-Project > Tasks
+Referencing children objects
 
-Document Approval > Document Approval Stages
+in
 
-Document Approval Stages > Document Approval Stage Participants
+Report filter reference for Canvas Dashboards
 
-When utilizing any of the parent-to-child relationships listed above, you will see a row in the table for each child record connected to the parent object.
+.
 
 recommendation-more-help
 
@@ -42719,39 +43299,15 @@ Aggregation type
 
 drop-down, select how the data rolls up to produce the KPI output. The options in this field will vary depending on the type of field that was selected in the previous step.
 
-Follow the steps below to configure the
-
-Filter
-
-section:
-
 In the left panel, click the
 
 Filter
 
-icon.
+icon, then configure the conditions that determine which data displays.
 
-Select
+For more information, see
 
-Edit filter
-
-.
-
-Click
-
-Add condition
-
-and then specify the field you want to filter by and the modifier that defines what kind of condition the field must meet.
-
-(Optional) Click
-
-Add filter group
-
-to add another set of filtering criteria. The default operator between the sets is AND. Click the operator to change it to OR.
-
-For more information on filters, see
-
-Edit report filters in a Canvas Dashboard
+Filter a report in a Canvas Dashboard
 
 .
 
@@ -42779,23 +43335,21 @@ Add column
 
 and then select the field you want to display as a column in the table. Repeat this process for each column you want to add.
 
-Follow the steps below to configure the
+In the left panel, click the
 
 Drilldown Group Settings
 
-section:
+icon, then add groupings for the drilldown table.
 
-In the left panel, click the
+For more information, see
 
-Group Settings
+Configure drilldown groupings in chart and KPI reports
 
-icon.
+in
 
-Click the
+Group report data in a Canvas Dashboard
 
-Add grouping
-
-button and then select the field you want to create as a grouping.
+.
 
 Click
 
@@ -43069,7 +43623,7 @@ Workfront Guide
 
 Build a pivot table report in a Canvas Dashboard
 
-Last update: August 27, 2026
+Last update: September 24, 2026
 
 Topics:
 
@@ -43078,6 +43632,8 @@ Reports and Dashboards
 CREATED FOR:
 
 User
+
+The information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
 
 IMPORTANT
 
@@ -43293,35 +43849,17 @@ A segment is the category you use to group your data, like grouping tasks by sta
 
 Repeat the above two steps to add up to 2 segments.
 
-Follow the steps below to configure the
-
-Filter
-
-section:
-
 In the left panel, click the
 
 Filter
 
-icon.
+icon, then configure the conditions that determine which data displays.
 
-Select
+For more information, see
 
-Edit filter
+Filter a report in a Canvas Dashboard
 
 .
-
-Click
-
-Add condition
-
-and then specify the field you want to filter by and the modifier that defines what kind of condition the field must meet.
-
-(Optional) Click
-
-Add filter group
-
-to add another set of filtering criteria. The default operator between the sets is AND. Click the operator to change it to OR.
 
 Follow the steps below to configure the
 
@@ -43915,53 +44453,29 @@ and then select the field you want to display as a column in the table. The colu
 
 Repeat the above step for each column you want to add.
 
-Follow the steps below to configure the
-
-Filter
-
-section:
-
 In the left panel, click the
 
 Filter
 
-icon.
+icon, then configure the conditions that determine which data displays.
 
-Select
+For more information, see
 
-Edit filter
+Filter a report in a Canvas Dashboard
 
 .
-
-Click
-
-Add condition
-
-and then specify the field you want to filter by and the modifier that defines what kind of condition the field must meet. The column appears in the preview section on the right.
-
-(Optional) Click
-
-Add filter group
-
-to add another set of filtering criteria. The default operator between the sets is AND. Click the operator to change it to OR.
-
-Follow the steps below to configure the
-
-Drilldown Group Settings
-
-section:
 
 In the left panel, click the
 
 Group Settings
 
-icon.
+icon, then add groupings to organize the report rows.
 
-Click the
+For more information, see
 
-Add grouping
+Group report data in a Canvas Dashboard
 
-button and then select the field you want to create as a grouping. The grouping column appears in the preview section on the right.
+.
 
 Click
 
@@ -44245,15 +44759,15 @@ Relationships
 
 Referencing children objects
 
-Available relationships for additional columns, filter options, and grouping attributes are generally limited to objects higher in the Workfront object hierarchy or otherwise have a single selection on the report’s base entity object. There are some exceptions to this, which include the following:
+Some parent-to-child relationships are available for columns, filters, and groupings. For more information, see
 
-Project > Tasks
+Referencing children objects
 
-Document Approval > Document Approval Stages
+in
 
-Document Approval Stages > Document Approval Stage Participants
+Report filter reference for Canvas Dashboards
 
-When utilizing any of the parent-to-child relationships listed above, you will see a row in the table for each child record connected to the parent object.
+.
 
 recommendation-more-help
 
@@ -44277,7 +44791,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -44479,6 +44993,8 @@ Topics:
 
 Integrations
 
+Work management
+
 CREATED FOR:
 
 User
@@ -44643,13 +45159,15 @@ Workfront Guide
 
 Built-in access levels (Legacy)
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -45239,6 +45757,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -45695,11 +46215,13 @@ Workfront Guide
 
 Bulk edit user’s Other Groups
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -45763,7 +46285,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Agile
+Work management
 
 CREATED FOR:
 
@@ -45799,11 +46321,15 @@ Workfront Guide
 
 Business Leader overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -46027,11 +46553,13 @@ Workfront Guide
 
 C2PA metadata in Adobe Workfront
 
-Last update: August 26, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -46609,11 +47137,11 @@ Workfront Guide
 
 Calculate Cost Performance Index (CPI)
 
-Last update: May 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Work Management
+Work management
 
 CREATED FOR:
 
@@ -48119,11 +48647,13 @@ Workfront Guide
 
 Calculate the Risk to Net Value in a portfolio
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -48181,7 +48711,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -48226,6 +48756,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -48417,6 +48949,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -48543,6 +49077,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -48642,6 +49178,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -51353,6 +51891,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -51427,7 +51967,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -51755,11 +52295,13 @@ Workfront Guide
 
 Catch up on work in Priorities
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -51852,6 +52394,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -51971,11 +52515,13 @@ Workfront Guide
 
 Change a username
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -52005,11 +52551,13 @@ Workfront Guide
 
 Change an existing decision on a proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -52093,11 +52641,13 @@ Workfront Guide
 
 Change email alert settings for a proof in Workfront Proof
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -52165,11 +52715,13 @@ Workfront Guide
 
 Change interactive proof resolution in the proofing viewer
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -52315,7 +52867,7 @@ Workfront Guide
 
 Change required for adding proofs to your allowlist
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -52361,11 +52913,13 @@ Workfront Guide
 
 Change the display order of conditions
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -52495,6 +53049,8 @@ Topics:
 
 Administration
 
+Get Started with Workfront
+
 CREATED FOR:
 
 User
@@ -52540,6 +53096,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -52683,6 +53241,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -52777,7 +53337,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -52825,11 +53385,13 @@ Workfront Guide
 
 Change the password for an auto-provisioned user
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -53261,11 +53823,13 @@ Workfront Guide
 
 Change the unit of measurement of the timeline in a video proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -53359,13 +53923,15 @@ Workfront Guide
 
 Change your Adobe Workfront domain
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -53451,7 +54017,7 @@ Workfront Guide
 
 Character limits in fields
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -53536,6 +54102,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -53707,6 +54275,74 @@ Edit information in custom fields
 
 .
 
+Go to the report where you want to add the chart for the calculated field that references the multi-select custom field.
+
+Click
+
+Report Actions
+
+, then
+
+Edit
+
+.
+
+Select the
+
+Groupings
+
+tab, then click
+
+Add Grouping
+
+.
+
+Add the
+
+Calculated Multi select Field
+
+you created as your grouping.
+
+Select the
+
+Chart
+
+tab, and add a chart to your report.
+
+For example, choose a
+
+Column
+
+chart.
+
+For information about adding a chart to a report, see the section
+
+Add a chart to a report
+
+in the article
+
+Create a custom report
+
+.
+
+In the
+
+Bottom (X) Axis
+
+field, select the
+
+Calculated Multi select Field
+
+to display in the chart.
+
+Click
+
+Save + Close
+
+.
+
+The report displays the results grouped by the Calculated Multi select Field in a chart.
+
 recommendation-more-help
 
 workfront-help-quicksilver
@@ -53730,6 +54366,8 @@ Last update: April 29, 2026
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -53895,6 +54533,8 @@ Topics:
 
 Administration
 
+Resource management
+
 CREATED FOR:
 
 User
@@ -54053,11 +54693,13 @@ Workfront Guide
 
 Check your Workfront Proof storage
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -54127,11 +54769,13 @@ Workfront Guide
 
 Choosing Your Payment Method in Workfront Proof
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -54507,11 +55151,13 @@ Workfront Guide
 
 Close your Workfront Proof account
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -54577,11 +55223,13 @@ Workfront Guide
 
 Codecs in Workfront Proof
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -54967,11 +55615,13 @@ Workfront Guide
 
 Comment on a proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -55145,11 +55795,11 @@ Workfront Guide
 
 Comment on a proof: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -55189,7 +55839,7 @@ Workfront Guide
 
 Comment on proofs in Android
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -55435,7 +56085,7 @@ Workfront Guide
 
 Comment on proofs in iOS
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -56001,6 +56651,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -56183,7 +56835,9 @@ Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -56561,7 +57215,7 @@ Workfront Guide
 
 Compare objects between environments
 
-Last update: May 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -56729,11 +57383,13 @@ Workfront Guide
 
 Compare proofs
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -56837,13 +57493,11 @@ Workfront Guide
 
 Compare proofs in the proofing viewer
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -57103,6 +57757,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -57277,13 +57933,15 @@ Workfront Guide
 
 Configurable access to functionality for each object type (Legacy)
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -58749,6 +59407,8 @@ Administration
 
 Integrations
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
@@ -59153,11 +59813,13 @@ Workfront Guide
 
 Configure a custom help URL
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -59265,11 +59927,13 @@ Workfront Guide
 
 Configure a satellite account in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -59447,11 +60111,13 @@ Workfront Guide
 
 Configure a user’s Proof Permission Profile in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -59531,11 +60197,15 @@ Workfront Guide
 
 Configure a user’s proofing access
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -59815,11 +60485,13 @@ Workfront Guide
 
 Configure access and subscription settings for a proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -60029,13 +60701,15 @@ Workfront Guide
 
 Configure access to Adobe Workfront
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -60128,6 +60802,8 @@ Topics:
 Administration
 
 Integrations
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -60299,7 +60975,7 @@ Workfront Guide
 
 Configure Adobe Workfront for MobileIron
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -60409,13 +61085,15 @@ Workfront Guide
 
 Configure Adobe Workfront for Slack
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -60618,6 +61296,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -61213,13 +61893,15 @@ Workfront Guide
 
 Configure Adobe Workfront with SAML 2.0
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 System configuration
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -61255,11 +61937,13 @@ Workfront Guide
 
 Configure Adobe Workfront with SAML 2.0 using ADFS
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -61739,7 +62423,7 @@ Workfront Guide
 
 Configure AI Collaborators
 
-Last update: August 18, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -61755,19 +62439,19 @@ For example, you can configure a reviewer-type AI Collaborator with brand guidel
 
 Available AI Collaborator types include:
 
-Reviewer: Create a collaborator using brands or Adobe Brand Intelligence, then assign the collaborator as a reviewer on assets.
+AI Reviewer: Create a collaborator using brands or Adobe Brand Intelligence, then assign the collaborator as a reviewer on assets.
 
 For more information, see
 
-Get started with the Workfront Content Reviewer
+Get started with the Workfront AI Reviewer
 
 .
 
-Task Collaborator: Create a collaborator using Copilot or Writer, then assign the collaborator to a task to complete task-level work.
+Work Agent: Create a collaborator using Copilot or Writer, then assign the collaborator to a task to complete task-level work.
 
 For more information, see
 
-Use Task Collaborators
+Use Work Agents
 
 .
 
@@ -61807,15 +62491,15 @@ Sign the Adobe Gen AI agreement
 
 in the article AI Assistant in Workfront.
 
-You must have configured a brand in Workfront before you can use it for a Reviewer-type AI Collaborator.
+You must have configured a brand in Workfront before you can use it for an AI Reviewer.
 
 For instructions, see
 
-Create and manage brands for the Content Reviewer
+Create and manage brands for the AI Reviewer
 
 .
 
-To use Adobe Brand Intelligence for a Reviewer AI Collaborator, your organization must use the unified review and approval experience in Workfront.
+To use Adobe Brand Intelligence for an AI Reviewer, your organization must use the unified review and approval experience in Workfront.
 
 For more information, see
 
@@ -61823,13 +62507,13 @@ Get started with unified review and approval
 
 .
 
-For Task Collaborators
+For Work Agents
 
-You must configure an agent in Claude, Copilot Studio, or Writer before you can use it as a Task Collaborator.
+You must configure an agent in Claude, Copilot Studio, or Writer before you can use it as a Work Agent.
 
-Create a new Reviewer-type AI Collaborator
+Create a new AI Reviewer
 
-Reviewer AI Collaborators can be configured to use Workfront brands, or Adobe Brand Intelligence.
+AI Reviewers can be configured to use Workfront brands, or Adobe Brand Intelligence.
 
 Brands
 
@@ -61837,7 +62521,7 @@ Brands
 
 Adobe Brand Intelligence
 
-: When an AI Collaborator reviews an asset using Adobe Brand Intelligence, you can view comments made by the Reviewer in Frame.io.
+: When an AI Collaborator reviews an asset using Adobe Brand Intelligence, you can view comments made by the AI Reviewer in Frame.io.
 
 Click the
 
@@ -61885,21 +62569,21 @@ Save
 
 .
 
-Configure a Task Collaborator
+Configure a Work Agent
 
-Task Collaborators are MCP agents that you can assign to tasks in Workfront. You configure the Task Collaborator with a name, access level, and other details, and assign it to a task as you would assign a user.
+Work Agents are agents that you can assign to tasks in Workfront. You configure the Work Agent with a name, access level, and other details, and assign it to a task as you would assign a user.
 
-Because Task Collaborators are MCP agents, their actions and abilities are configured where you configure your agents. Currently, agents used as Task Collaborators can be created in Copilot Studio, Claude, or Writer.
+Because Work Agents are agents, their actions and abilities are configured where you configure your agents. Currently, agents used as Work Agents can be created in Copilot Studio, Claude, or Writer.
 
-Task Collaborators can be assigned only to tasks, and cannot currently be assigned to issues.
+Work Agents can be assigned only to tasks, and cannot currently be assigned to issues.
 
-For a list of best practices when creating an agent to work as a Task Collaborator, see
+For a list of best practices when creating an agent to work as a Work Agent, see
 
-Best practices for creating an agent for a Task Collaborator
+Best practices for creating an agent for a Work Agent
 
 .
 
-Configure a task collaborator in Workfront
+Configure a Work Agent in Workfront
 
 Click the
 
@@ -61927,7 +62611,7 @@ in the upper-right corner of the screen.
 
 Select
 
-Task agents
+Work agents
 
 , then click
 
@@ -61991,15 +62675,15 @@ Save
 
 .
 
-For more information on Task Collaborators, including how to assign them to tasks, see
+For more information on Work Agents, including how to assign them to tasks, see
 
-Use Task Collaborators
+Use Work Agents
 
 .
 
-Best practices for creating an agent for a Task Collaborator
+Best practices for creating an agent for a Work Agent
 
-You may find the following best practices helpful when creating an agent to use as a Task Collaborator in Workfront. To see best practices, click the section for the application where you are creating the agent.
+You may find the following best practices helpful when creating an agent to use as a Work Agent in Workfront. To see best practices, click the section for the application where you are creating the agent.
 
 Claude
 
@@ -62019,7 +62703,7 @@ in the upper-right corner.
 
 Provide a name and expiration date.
 
-Copy the key and save it somewhere safe and secure. You will need this key to configure the Task Collaborator in Workfront.
+Copy the key and save it somewhere safe and secure. You will need this key to configure the Work Agent in Workfront.
 
 Create an environment.
 
@@ -62051,11 +62735,11 @@ Create Agent
 
 in the upper-right corner.
 
-Provide a name, model, system prompt, skills, and tools as applicable. Be descriptive, because Task Collaborators pass task context through to this agent, which then executes the work.
+Provide a name, model, system prompt, skills, and tools as applicable. Be descriptive, because Work Agents pass task context through to this agent, which then executes the work.
 
 The agent ID appears below the agent name in the upper-left corner.
 
-Configure the Task Collaborator in Workfront.
+Configure the Work Agent in Workfront.
 
 Enter your API key, environment ID, and agent ID
 
@@ -62065,9 +62749,9 @@ Test Connection
 
 to verify.
 
-Assign the Task Collaborator to a Workfront task.
+Assign the Work Agent to a Workfront task.
 
-The Task Collaborator fires after all predecessor tasks are complete.
+The Work Agent fires after all predecessor tasks are complete.
 
 Writer
 
@@ -62075,9 +62759,9 @@ note
 
 NOTE
 
-You can use a Writer agent as a Task Collaborator, but Writer playbooks cannot be used as Task Collaborators.
+You can use a Writer agent as a Work Agent, but Writer playbooks cannot be used as Work Agents.
 
-When creating an agent for use as a Task Collaborator in Writer, we recommend the following workflow.
+When creating an agent for use as a Work Agent in Writer, we recommend the following workflow.
 
 More detailed information about creating agents can be found in the
 
@@ -62097,7 +62781,7 @@ to your Prompt. In the Prompts section of your app configuration, make sure your
 
 Adjust your Prompt to generate output immediately. Remove any instructions that ask the user for clarification or additional context before responding. For example: “When you receive input, treat it as a content generation request and produce the output immediately. Do not ask for clarification.”
 
-Copy your API key and Application ID. You will need Task Collaborator to configure the Task Collaborator in Workfront.
+Copy your API key and Application ID. You will need them to configure the Work Agent in Workfront.
 
 For instructions on setting up an API key in Writer, see
 
@@ -62111,13 +62795,13 @@ Invoke no-code agents via the API
 
 in the Writer documentation.
 
-Configure the Task Collaborator in Workfront. As part of the configuration, enter your API key and Application ID, then click
+Configure the Work Agent in Workfront. As part of the configuration, enter your API key and Application ID, then click
 
 Test connection
 
 to verify.
 
-Assign the Task Collaborator to a Workfront task. The Collaborator begins work when all of the task’s predecessor tasks are complete.
+Assign the Work Agent to a Workfront task. The Work Agent begins work when all of the task’s predecessor tasks are complete.
 
 Manage AI Collaborators
 
@@ -62173,11 +62857,13 @@ Workfront Guide
 
 Configure approval decision options in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -62375,6 +63061,8 @@ Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
@@ -62509,6 +63197,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -62622,6 +63312,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -63067,7 +63759,7 @@ Workfront Guide
 
 Configure custom localization
 
-Last update: May 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -63205,11 +63897,13 @@ Workfront Guide
 
 Configure custom profiles in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -63317,11 +64011,15 @@ Workfront Guide
 
 Configure default proof email notification settings
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -63391,11 +64089,15 @@ In the
 
 Proof Notifications in Workfront
 
-section, decide whether to enable or disable the option, Send emails from Workfront when a comment is made on a proof.
+section, decide whether to enable or disable the option,
 
-When this setting is enabled, users receive an email from Workfront when a comment is made on a proof.
+Send notifications from Workfront when a comment is made on a proof
 
-When this setting is disabled, users do not receive an email from Workfront when a comment is made on a proof.
+.
+
+When this setting is enabled, users receive an email from Workfront when a comment is made on a proof. A Workfront in-app notification is also displayed.
+
+When this setting is disabled, users do not receive an email or in-app notification from Workfront when a comment is made on a proof.
 
 Click
 
@@ -63421,11 +64123,15 @@ Workfront Guide
 
 Configure default proof settings
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -63637,11 +64343,15 @@ Workfront Guide
 
 Configure default proofing roles
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -63911,7 +64621,7 @@ Workfront Guide
 
 Configure document integrations
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -63919,9 +64629,17 @@ Administration
 
 Integrations
 
+System Setup and Administration
+
+Workfront Integrations and Apps
+
+Resource management
+
 CREATED FOR:
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
 
 As an Adobe Workfront administrator, you can configure document integrations to manage documents in Workfront. You can also configure Workfront so that documents are stored only in document services applications and not in Workfront itself. For more information, see
 
@@ -64181,6 +64899,22 @@ Authentication Type
 
 Workfront uses this API key to make authorized API calls to the document provider.
 
+(Optional)
+
+To enable large file support, select
+
+Enable chunked upload for large files
+
+in the
+
+Large File Support
+
+section, then enter the maximum chunk size, in MB, in the
+
+Chunked Upload Threshold (MB)
+
+field. This field accepts values up to 100 MB. When enabled, files over 25 MB are uploaded in chunks of this size instead of in a single request.
+
 Click
 
 Save
@@ -64343,11 +65077,13 @@ Workfront Guide
 
 Configure effect on hours when an object is deleted and restored
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -64463,11 +65199,13 @@ Workfront Guide
 
 Configure email notification settings in Workfront Proof
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -64898,6 +65636,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -65373,6 +66113,8 @@ Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
@@ -65519,7 +66261,7 @@ Workfront Guide
 
 Configure fields to track in change history
 
-Last update: August 3, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -65713,11 +66455,13 @@ Workfront Guide
 
 Configure global approval settings
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -65891,13 +66635,11 @@ Workfront Guide
 
 Configure how hyperlinks open in the Desktop Proofing Viewer
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -66161,11 +66903,11 @@ Workfront Guide
 
 Configure how time is logged: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Timesheets
+Administration
 
 CREATED FOR:
 
@@ -66193,13 +66935,17 @@ Workfront Guide
 
 Configure integrations
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+System Setup and Administration
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -66252,6 +66998,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -66759,7 +67507,7 @@ Workfront Guide
 
 Configure locations
 
-Last update: April 7, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -66769,11 +67517,23 @@ CREATED FOR:
 
 Admin
 
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
 You can configure the default locations available to assign as attributes to job roles in rate cards. This ensures that the rate cards accurately reflect the market rates in each location.
 
 Rate cards allow your organization to easily manage billing rates for projects. For more information, see
 
 Manage rate cards
+
+and
+
+Define rate attributes
 
 .
 
@@ -66821,23 +67581,35 @@ Locations
 
 .
 
-Click
+In the Production environment, click
 
 Add more Locations
 
 at the bottom of the list.
 
+In the Preview environment, click
+
+New row
+
+at the bottom of the list.
+
 Enter the location name and description.
 
-Click outside of the entry area to save the location.
+Click outside of the row to save the location.
 
-To delete a location, select it in the list and click the
+To delete a location in the Production environment, select it in the list and click the
 
 Delete
 
 icon
 
 .
+
+To delete a location in the Preview environment, select it in the list and click
+
+Delete
+
+in the action bar at the bottom of the screen.
 
 NOTE
 
@@ -66869,17 +67641,27 @@ Locations
 
 .
 
-Select an existing location in the list and click
+In the Production environment, select an existing location in the list and click
 
 Add sub location
 
 .
+
+In the Preview environment, select an existing location in the list and click
+
+Add sub location
+
+in the action bar at the bottom of the screen.
 
 Enter the location name and description.
 
 Click outside of the entry area to save the location.
 
 The sub-location is indented under the top level location.
+
+Sample image in the Production environment:
+
+Sample image in the Preview environment:
 
 recommendation-more-help
 
@@ -66905,7 +67687,9 @@ Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -67699,11 +68483,13 @@ Workfront Guide
 
 Configure password policies for authentication
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -67941,11 +68727,13 @@ Workfront Guide
 
 Configure personal proofing defaults
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -68091,7 +68879,9 @@ Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -68153,8 +68943,6 @@ Workfront Profile
 
 .
 
-note
-
 NOTE
 
 You can access your Workfront profile by clicking the Adobe account menu (your profile picture) in the top navigation area, then choosing Workfront Profile.
@@ -68201,11 +68989,13 @@ Workfront Guide
 
 Configure POP in Microsoft Exchange
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -68505,6 +69295,8 @@ Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
@@ -68620,6 +69412,10 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -69117,11 +69913,15 @@ Workfront Guide
 
 Configure proof settings for your organization
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -69591,13 +70391,11 @@ Workfront Guide
 
 Configure Proof Settings in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -69937,11 +70735,15 @@ Workfront Guide
 
 Configure proofing functionality
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -69985,11 +70787,13 @@ Workfront Guide
 
 Configure proofing viewer settings
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -70218,6 +71022,342 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
+# FILE: configure-record-type-business-rules-adobe-workfront.md
+---
+
+Configure Record Type Business Rules | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Configure record type business rules
+
+Last update: September 25, 2026
+
+Topics:
+
+Work management
+
+CREATED FOR:
+
+User
+
+Admin
+
+IMPORTANT
+
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
+
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
+
+For general information about Workfront Planning, see
+
+Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
+
+.
+
+The information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
+You can configure business rules for Adobe Workfront Planning record types to indicate that certain fields are required before an action on a record of that type is allowed or prevented.
+
+Depending on how the rule is formulated, you can allow for or prohibit the following actions on the records if the defined business rules are met:
+
+Edit or not edit a record
+
+Delete or do not delete a record
+
+Access requirements
+
+Expand to view access requirements to perform the steps in this article:
+
+table 0-row-0 1-row-0 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 layout-auto html-authored no-header
+
+Adobe Workfront package
+
+Any Workfront or Workflow with a Planning package
+
+Or
+
+Any Planning package when purchased as a standalone product
+
+Adobe Workfront license
+
+Workflow Contributor or higher
+
+Adobe Planning license
+
+Planning Standard
+
+Access level configuration
+
+You must add both a Workflow and a Planning license type to the access level when you have both a Workflow and a Planning package
+
+Object permissions
+
+Manage permissions to a workspace and to a record type
+
+System Administrators have permissions to all workspaces, including the ones they did not create
+
+For more information about Workfront access requirements, see
+
+Access requirements in Workfront documentation
+
+.
+
+Considerations when configuring business rules
+
+Business rules attach a condition to a field change or a record deletion. The rule only comes into play at one specific, deliberate moment: when a field is about to change to a field value you configure in the rule.
+
+A rule looks like this in plain language: “Before you can edit this record, the Campaign summary field must have a value”.
+
+If the field is empty, the record edit is blocked and the user receives a clear message explaining what they need to to address before moving forward. Once they update the required field and try again, the change is allowed.
+
+Rules don’t block record creation. Users can still create records but they must ensure that the required fields are not empty or contain the specified value.
+
+Rules don’t automatically edit or delete records. The change must be deliberate and triggered by a user.
+
+Rules are not apply retroactively: old records are not affected. The rule check only runs the next time someone tries to edit or delete a record.
+
+You cannot add business rules to global record types in their primary or secondary workspaces.
+
+You can create a condition for your business rule that references all field types except for the following:
+
+Formula fields
+
+Lookup fields
+
+Reference fields
+
+Rules apply to everyone who can edit or delete records.
+
+You can have more that one business rule for a record type.
+
+All the rules are checked together at the same time.
+
+Configure business rules
+
+Go to a record type page.
+
+From any view, click the
+
+More
+
+menu
+
+to the right of the record type name, then click
+
+Business rules
+
+.
+
+The Business rules table page opens.
+
+Click
+
+New business rule
+
+.
+
+In the
+
+New business
+
+rule box, add a name for the business rule in the first available field. This is a required field
+
+(Optional) Add a description to define the business rule, then click
+
+Save
+
+.
+
+The Business rule setup form opens.
+
+In the
+
+If
+
+section of the business rule setup form, choose which actions you would like to restrict or allow based on a specific rule. Choose from the following:
+
+Record edit
+
+: Users will be allowed to edit or not edit the record, if the condition defined in this rule is met.
+
+Record delete
+
+: Users will be allowed to delete or not delete the record, if the condition defined in this rule is met.
+
+In the
+
+Formula field
+
+, add the business rule. Choose an operator for your rule from the
+
+Formula expressions
+
+section in the right panel.
+
+For example, you can choose
+
+IF
+
+from the
+
+Other
+
+fields section, or start typing “IF”, then click it when it displays in the suggestion list.
+
+note tip
+
+TIP
+
+Selecting the fields and operators from the suggestion list is recommended, to keep the syntax of the rule correct.
+
+Choose and the field that you want to make mandatory to allow for the records of this record type to be either edited or deleted.
+
+For example, you can type the following statement to make the
+
+Campaign summary
+
+field required:
+
+code language-none
+
+IF(ISBLANK({Campaign summary}),"Campaign summary is a required field. You cannot edit this record without a value for the Campaign summary field.")
+
+note tip
+
+TIP
+
+You can add connected fields to business rules, but be careful to use statements that are looking for an array, rather than a field value. For example, instead of
+
+ISBLANK
+
+use
+
+ARRAYLENGTH(field)=0
+
+.
+
+There are indicators in the
+
+Formula
+
+field when a field or an expression is wrong.
+
+note important
+
+IMPORTANT
+
+We strongly recommend that you include in the rule formula the following information to make it easy for users to understand when an action they are trying to perform on a record is not allowed:
+
+The exact fields that the rule is set up for.
+
+The exact consequence if the rule is not met.
+
+In the
+
+Then
+
+section of the business rule, you can view an explanation of what the rule does.
+
+Click
+
+Activate
+
+to make the rule active for this record type, then click
+
+Save
+
+.
+
+Rules are applied immediately after you activate them and all users who have permissions to edit or delete records in the selected record type must follow them.
+
+(Optional) Click the
+
+More
+
+menu
+
+to the name of the business rule in the page header to open the
+
+Rule details
+
+box and update information about the business rule.
+
+(Optional and recommended) Click the back arrow to the left of the
+
+Business rules
+
+in the page header to display the record type page and go to a table view or open a record’s page, then try editing or deleting a record, to test the rule you just created.
+
+Manage business rules
+
+You can edit, delete or deactivate existing business rules.
+
+Editing an existing rule does not change existing records. The edited rule only applies to existing records when someone attempts to edit or delete them.
+
+Go back to the
+
+Business rules
+
+table page for the record type.
+
+Find the rule you want to change in the table view.
+
+Hover over the name of an active rule, then click the
+
+More
+
+menu
+
+, then one of the following options:
+
+Edit
+
+: This opens the business rule setup page and you can edit information about the business rule.
+
+Deactivate
+
+: This stop the rule from triggering but preserves for the future, it needed.
+
+Delete
+
+: All the information about the rule is deleted. Deleted rules cannot be recovered.
+
+The edited rules or the deactivation of rules apply only for future records and they are not applied retroactively.
+
+(Optional and conditional) Hover over the name of a deactivated business rule in the table, then click
+
+More
+
+>
+
+Activate
+
+to activate the rule.
+
+The rule is activated.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
 # FILE: configure-reports-adobe-workfront.md
 ---
 
@@ -70236,6 +71376,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -70263,11 +71405,13 @@ Workfront Guide
 
 Configure request types
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -70449,7 +71593,9 @@ Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -70613,11 +71759,13 @@ Workfront Guide
 
 Configure schedules and timesheet preferences
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -70658,6 +71806,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -71128,230 +72278,6 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
-# FILE: configure-sharing-for-custom-fields-and-widgets-adobe-workfront.md
----
-
-Configure Sharing for Custom Fields and Widgets | Adobe Workfront
-
-Documentation
-
-Workfront
-
-Workfront Guide
-
-Configure sharing for custom fields and widgets
-
-Last update: June 12, 2026
-
-Topics:
-
-Administration
-
-CREATED FOR:
-
-Admin
-
-By default, when you add a new custom field or widget to a custom form, anyone in the system with access to custom forms can edit the properties for that item, such as its label and API name. You can change this by controlling who it can be shared with.
-
-For information about custom fields and widgets in custom forms, see
-
-Create a custom form
-
-.
-
-Access requirements
-
-Expand to view access requirements for the functionality in this article.
-
-table 0-row-2 1-row-2 2-row-2 layout-auto html-authored no-header
-
-Adobe Workfront package
-
-Any
-
-Adobe Workfront license
-
-Standard
-
-Plan
-
-Access level configurations
-
-Administrative access to custom forms
-
-For information, see
-
-Access requirements in Workfront documentation
-
-.
-
-Configure sharing a custom field or widget
-
-Click the
-
-Main Menu
-
-icon
-
-in the upper-left corner of Adobe Workfront, then click
-
-Setup
-
-.
-
-In the left panel, click
-
-Custom Forms
-
-.
-
-To share from the list of forms and fields:
-
-Click
-
-Fields
-
-to open the Fields area.
-
-Select the field you want to share, then click
-
-.
-
-To share from the form designer:
-
-Open a custom form or create a new custom form.
-
-In the form designer, select the field you want to share, then click
-
-Share
-
-in the field editing area on the right.
-
-In the sharing box, under
-
-Grant field access to
-
-, start typing the name of the user, team, job role, group, company, or business profile you want to share the item with, then press
-
-Enter
-
-when the name displays.
-
-If you want to be more specific about how you share the item, click the drop-down menu to the right of the name, then use any of the following options:
-
-View
-
-: Click the
-
-Advanced Settings
-
-icon
-
-to specify whether you want the users to be able to add the item to a custom form or share it with other users.
-
-Manage
-
-: Allows access to edit the custom field and see it both in the Field library and in the form designer. Click the
-
-Advanced Settings
-
-icon
-
-to specify whether you want the users to be able to delete the item from the system or share it with other users.
-
-(Optional) Repeat Steps 5-6 to add other names to the list and configure their options.
-
-(Optional) Choose a system-wide sharing option for the field:
-
-Everyone in the system can edit
-
-(the default option)
-
-When you add a custom field or widget and you don’t limit sharing for it, everyone in the system who has access to custom forms can view it and edit its properties.
-
-Everyone in the system can view
-
-Everyone in the system who has access to custom forms can view the field but not edit it.
-
-Only invited people can access
-
-Limits access to only those you added to the list.
-
-Click
-
-Save
-
-.
-
-Inherited access to custom fields and widgets when a custom form is shared
-
-When someone shares a custom form with a group, job role, team, company, or business profile, the recipients inherit View access to any custom fields and widgets that are on the form. This level of access to those items on the form is always retained so that the form can function for the recipients as intended by the person who created it. This is true even for recipients who have Edit access to the form.
-
-You can find out who has inherited access to a custom field or widget and you can remove access to it.
-
-NOTE
-
-If a recipient has Manage access to a custom field or widget on the shared custom form, that access is retained for the recipient.
-
-Find out who has inherited access to a custom field or widget
-
-find-out-who-has-inherited-access-to-a-custom-field-or-widget
-
-Click the
-
-Main Menu
-
-icon
-
-in the upper-left corner of Adobe Workfront, then click
-
-Setup
-
-.
-
-In the left panel, click
-
-Custom Forms
-
-.
-
-Click
-
-Fields
-
-, then select the field, image, or access widget.
-
-In the box that displays, click
-
-Inherited Permissions
-
-and view the names that display.
-
-Click
-
-Cancel
-
-.
-
-Remove access to a custom field or widget in a custom form that was shared
-
-remove-access-to-a-custom-field-or-widget-in-a-custom-form-that-was-shared
-
-If you need to remove access to a custom field or widget in a custom form that was shared, you need to unshare the form. For instructions, see the section
-
-Remove access to a custom form
-
-in the article
-
-Share a custom form
-
-.
-
-recommendation-more-help
-
-workfront-help-quicksilver
-
----
 # FILE: configure-sharing-settings-for-your-users-adobe-workfront.md
 ---
 
@@ -71365,11 +72291,15 @@ Workfront Guide
 
 Configure sharing settings for your users
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -71599,11 +72529,13 @@ Workfront Guide
 
 Configure Single Sign-On for Workfront Proof users
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -71945,11 +72877,13 @@ Workfront Guide
 
 Configure spam settings for common email clients
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -72573,7 +73507,9 @@ Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -72643,9 +73579,13 @@ Administration
 
 Integrations
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
 
 IMPORTANT
 
@@ -72719,7 +73659,9 @@ Preferences
 
 Select any of the following fields to establish the settings for your organization:
 
-table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 8-row-2 9-row-2 10-row-2 11-row-2 12-row-2 13-row-2 14-row-2 15-row-2 16-row-2 17-row-2 18-row-2 19-row-2 layout-auto html-authored no-header
+.
+
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 8-row-2 9-row-2 10-row-2 11-row-2 12-row-2 13-row-2 14-row-2 15-row-2 16-row-2 17-row-2 18-row-2 19-row-2 20-row-2 21-row-2 layout-auto html-authored no-header
 
 Enable fast release process
 
@@ -72837,6 +73779,14 @@ When this option is selected, required fields must have values before saving in 
 
 When this option is not selected, required fields are only enforced when a user modifies the field. If a field is not modified, it is treated as optional and not validated.
 
+Access Level for Users Created in Admin Console
+
+Lets you choose a default access level to automatically assign to users who are created in Workfront through the Adobe Admin Console. If you don't set a default, these users continue to receive a Contributor or Requester access level. System Administrator and External User access levels aren't available as a default, and this setting isn't available for organizations that have Workfront Planning as a standalone product.
+
+NOTE
+
+: You can't delete an access level while it's set as this default. To delete the default access level, select a different default access level first.
+
 Storage Preferences
 
 In this section you can enable the Adobe cloud preferences. Lets you choose to enable or disable Adobe cloud storage for your entire organization or for specific groups.
@@ -72901,6 +73851,10 @@ Auto-fill a request from previous data
 
 .
 
+Opt in to AI Betas
+
+Lets you choose to enable AI features that are currently in Beta. If you enable this option, you can then select which AI Beta features to enable. For more information about each AI Beta feature, click the information icon next to that feature
+
 Planning Designer
 
 This is available only to customers who have purchased a Workfront Planning package. Turning on this setting allows your users to create and edit workspaces using the Planning Designer. For information, see
@@ -72909,13 +73863,9 @@ Get started with the Adobe Workfront Planning Designer
 
 .
 
-Opt in to AI Betas
-
-Lets you choose to enable AI features that are currently in Beta. If you enable this option, you can then select which AI Beta features to enable. For more information about each AI Beta feature, click the information icon next to that feature.
-
 Read-only MCP tools
 
-Lets the Workfront MCP server perform read actions on Workfront data — for example, finding or listing projects, tasks, or other items. This option is enabled by default.
+Lets the Workfront MCP server perform read actions on Workfront data, such as finding or listing projects, tasks, or other items. This option is enabled by default.
 
 For more information about the Workfront MCP server, see
 
@@ -72933,6 +73883,16 @@ Configure the Adobe Workfront MCP server
 
 .
 
+Authorized redirect URLs
+
+Controls which callback (redirect) URLs can complete login for your organization's MCP agents connecting through custom AI agentic platforms.
+
+For instructions on adding redirect URLs for MCP servers, see
+
+Add or remove an authorized redirect URL
+
+in this article.
+
 Test Environments
 
 Lets you access your Workfront test environments. For more information, see
@@ -72948,6 +73908,98 @@ Save
 .
 
 The changes that you saved here affect the experience of all the users in Workfront and anyone who interacts with the system as an external user.
+
+Add or remove an authorized redirect URL
+
+Authorized redirect URLs let you connect a custom AI agentic platform whose OAuth callback URL is unique to your organization — for example, a URL that contains a connection or tenant ID. For more information about when this is needed, see
+
+Connect with OAuth
+
+in
+
+Configure the Adobe Workfront MCP server
+
+.
+
+Expand to view step-by-step instructions for managing authorized redirect URLs for MCP.
+
+To add a URL:
+
+If you’re not already on the System Preferences page, click the
+
+Main Menu
+
+icon in the upper-left corner of Workfront, click
+
+Setup
+
+, then in the left panel, click
+
+System
+
+>
+
+Preferences
+
+.
+
+In the
+
+MCP preferences
+
+area, next to
+
+Authorized redirect URLs
+
+, click
+
+Manage URLs
+
+.
+
+Enter a
+
+Label
+
+to identify the integration.
+
+Enter the callback
+
+URL
+
+.
+
+Click
+
+Add
+
+.
+
+Click
+
+Save
+
+.
+
+note important
+
+IMPORTANT
+
+Callback URLs must match exactly. Workfront doesn’t support wildcard or prefix matching for custom callback URLs.
+
+To remove a URL — for example, if the associated integration is retired or compromised — open
+
+Manage URLs
+
+, remove the entry, then click
+
+Save
+
+.
+
+style
+
+highlighted
 
 recommendation-more-help
 
@@ -72973,9 +74025,19 @@ Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
+
+The information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 Adobe Workfront generates automatic system updates in an object’s Updates area to record the following events:
 
@@ -73327,6 +74389,12 @@ Save
 
 .
 
+The
+
+Save
+
+button has been removed from the Preview environment and changes are saved automatically.
+
 recommendation-more-help
 
 workfront-help-quicksilver
@@ -73350,6 +74418,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -73863,6 +74933,8 @@ Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
@@ -74319,6 +75391,10 @@ Topics:
 
 Administration
 
+System Setup and Administration
+
+People Teams and Groups
+
 CREATED FOR:
 
 Admin
@@ -74721,7 +75797,7 @@ Workfront Guide
 
 Configure the Adobe Workfront MCP server
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -74782,6 +75858,20 @@ Configure system preferences
 .
 
 If you use an enterprise version of an AI agentic platform, your administrator for that platform must enable the Adobe Workfront connector for your organization or give you custom URL access to connect to the Workfront MCP server.
+
+If you’re connecting a custom application or agentic platform with a unique, per-customer OAuth callback URL, your Workfront administrator must add that URL to the
+
+Authorized redirect URLs
+
+list in
+
+System Preferences > MCP preferences
+
+. Without this, authentication is rejected. For more information, see
+
+Connect with OAuth
+
+in this article.
 
 Connect Workfront to Claude
 
@@ -75201,7 +76291,35 @@ wf-url: <your_subdomain>.my.workfront.com
 
 Connect with OAuth
 
-Self-service support for custom OAuth integrations is not yet available for Workfront.
+If the AI agentic platform or custom application you’re connecting has a unique OAuth callback (redirect) URL per customer, such as a URL that contains a connection or tenant ID, your Workfront administrator must add that URL to your organization’s list of authorized redirect URLs before you can authenticate.
+
+NOTE
+
+This is required only for integrations that aren’t one of the natively supported platforms, such as Claude or Copilot. If you use a natively supported platform, see the section for that platform in this article.
+
+Your Workfront administrator adds authorized redirect URLs in System Preferences.
+
+For instructions on adding redirect URLs for MCP servers, see
+
+Add or remove an authorized redirect URL
+
+.
+
+After the URL is added, you can connect your custom application or agentic platform to the Workfront MCP server URL:
+
+https://mcp.workfront.adobe.com/mcp/v1/workfront
+
+When connecting, you will be asked to authenticate using your Adobe ID credentials.
+
+IMPORTANT
+
+Callback URLs must match exactly. Workfront doesn’t support wildcard or prefix matching for custom callback URLs. Only URLs on this list can complete login for your MCP agents — remove a URL right away if the associated agent is retired or compromised.
+
+If your callback URL isn’t on the list, the authentication request is rejected. Ask your Workfront administrator to confirm the URL is entered exactly as your integration provides it.
+
+style
+
+highlighted
 
 Verify your connection
 
@@ -75340,6 +76458,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -75494,6 +76614,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -75791,6 +76913,8 @@ Topics:
 
 Administration
 
+People Teams and Groups
+
 CREATED FOR:
 
 User
@@ -75985,13 +77109,15 @@ Workfront Guide
 
 Configure the dropzone in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -76171,6 +77297,10 @@ Administration
 
 Integrations
 
+Workfront Integrations and Apps
+
+Resource management
+
 CREATED FOR:
 
 User
@@ -76263,7 +77393,7 @@ Documents
 
 in the left panel, then select
 
-Experience Manager Integration
+Experience Manager Assets
 
 .
 
@@ -76659,13 +77789,17 @@ Workfront Guide
 
 Configure the Experience Manager Assets Essentials integration
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -76739,7 +77873,7 @@ Documents
 
 in the left panel, then select
 
-Experience Manager Integration
+Experience Manager Assets
 
 .
 
@@ -76906,6 +78040,10 @@ Topics:
 Administration
 
 Integrations
+
+System Setup and Administration
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -77086,6 +78224,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -77275,9 +78415,17 @@ Administration
 
 Integrations
 
+System Setup and Administration
+
+Workfront Integrations and Apps
+
+Resource management
+
 CREATED FOR:
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
 
 IMPORTANT
 
@@ -77394,6 +78542,54 @@ Click
 Save
 
 .
+
+View and manage the SharePoint integration
+
+To view and manage your organization’s SharePoint integrations:
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-right corner of Adobe Workfront, or (if available), click the
+
+Main Menu
+
+icon
+
+in the upper-left corner, then click
+
+Setup
+
+.
+
+Select
+
+Documents
+
+in the left navigation, then select
+
+SharePoint Integration
+
+.
+
+A list of your organization’s SharePoint integrations appears.
+
+(Optional) To edit a SharePoint integration, select the checkbox next to it, then click
+
+Edit
+
+in the blue bar at the bottom of the screen
+
+.
+
+(Optional) To disable a SharePoint integration, select the checkbox next to it, then click
+
+Disable
+
+in the blue bar at the bottom of the screen.
 
 Security, access, and authorization information for the SharePoint integration
 
@@ -77691,11 +78887,13 @@ Workfront Guide
 
 Configure timeline recalculations for projects
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -77831,11 +79029,13 @@ Workfront Guide
 
 Configure timesheet and hour preferences
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -78157,11 +79357,15 @@ Workfront Guide
 
 Configure timesheet and hour preferences for a group
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -78411,11 +79615,13 @@ Workfront Guide
 
 Configure User Information using Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -78653,11 +79859,13 @@ Workfront Guide
 
 Configure users to log time in hours or days
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -78689,7 +79897,7 @@ Workfront Guide
 
 Configure whether time is logged in hours or days
 
-Last update: August 25, 2026
+Last update: September 11, 2026
 
 Topics:
 
@@ -78807,7 +80015,7 @@ option that is also available when editing a user. The
 
 Schedule
 
-option is used when calculating timelines and in other areas of Workfront. (For more information about using the
+option is used when calculating timelines and in other areas of Workfront. For more information about using the
 
 Schedule
 
@@ -78815,7 +80023,7 @@ option, see
 
 Create a schedule
 
-.)
+.
 
 Click
 
@@ -78841,11 +80049,13 @@ Workfront Guide
 
 Configure Workfront Proof emails to avoid spam filters
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -78949,7 +80159,7 @@ Workfront Guide
 
 Configure Workfront with Adobe Experience Manager legacy connector
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -78958,6 +80168,10 @@ System configuration
 Administration
 
 Integrations
+
+System Setup and Administration
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -79759,11 +80973,13 @@ Workfront Guide
 
 Configure your email allowlist
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -79905,7 +81121,7 @@ Workfront Guide
 
 Configure your firewall’s allowlist
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -79914,6 +81130,8 @@ APIs
 Administration
 
 Integrations
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -80601,7 +81819,7 @@ Workfront Guide
 
 Configure your User Profile
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -80697,9 +81915,19 @@ Administration
 
 Integrations
 
+Work management
+
 CREATED FOR:
 
 User
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 IMPORTANT
 
@@ -80995,15 +82223,17 @@ Allow multiple records
 
 . By selecting it, you indicate that you allow users to add multiple records when the connected record type field displays on the original records. This is selected by default.
 
-(Conditional) When you connect record types from the same workspace, or a Planning record type with a Workfront object type, select one of the following:
+Select the
 
-Multi-select
+Make this connection dependent
 
-: Select this to allow one record from the current record type to connect with multiple records from the connection record type.
+to add dependencies between this connection field and the field created on the connected record type.
 
-Single-select
+For information, see
 
-: Select this to allow one record from the current record type to connect with one record from the connection record type.
+Manage dependent connections
+
+.
 
 Select the
 
@@ -81013,9 +82243,21 @@ in the
 
 Connection type
 
-section
+section.
 
-.
+note tip
+
+TIP
+
+The
+
+Connection type
+
+section has been replaced by the
+
+Connection settings
+
+section when connecting Planning record types.
 
 When selected, a connection field is created on the record type you are connecting to, in addition to the connection field added to the current record type. This is disabled by default.
 
@@ -81036,6 +82278,16 @@ A linked record field is not created for objects from another application in the
 There is no field created for Workfront objects connected to Planning records.
 
 There is no field created for a Planning record type when it’s connected to a record type from the GenStudio workspace.
+
+(Conditional) When you connect record types from the same workspace, or a Planning record type with a Workfront object type, select one of the following:
+
+Multi-select
+
+: Select this to allow one record from the current record type to connect with multiple records from the connection record type.
+
+Single-select
+
+: Select this to allow one record from the current record type to connect with one record from the connection record type.
 
 (Conditional) If you enabled
 
@@ -81103,6 +82355,22 @@ Configure asset metadata mapping between Adobe Workfront and Experience Manager 
 
 .
 
+(Optional and conditional) If you selected
+
+Make this connection dependent
+
+, click
+
+Record filtering rules
+
+to create a filter to limit the values of the connected field values when both connected record fields display on the same record type.
+
+For more information, see
+
+Manage dependent connections
+
+.
+
 (Optional) Choose one of the following options in the
 
 Record appearance
@@ -81151,7 +82419,17 @@ Select the
 
 Select lookup fields
 
-to add fields from the record type you are connecting to. The lookup fields are fields associated with the record or object type that you are linking to. Linking them displays information from the record or object you’re linking to on the record you are linking from. This is selected by default.
+or
+
+click the
+
+Lookup fields
+
+menu
+
+to choose and add fields from the record type you are connecting to.
+
+Lookup fields are fields associated with the record or object type that you are connecting to. Linking them displays information from the record or object you’re linking to on the record you are linking from.
 
 note
 
@@ -81438,6 +82716,8 @@ Topics:
 Administration
 
 Integrations
+
+Work management
 
 CREATED FOR:
 
@@ -82365,7 +83645,7 @@ Workfront Guide
 
 Connected record types overview
 
-Last update: August 4, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -82373,11 +83653,21 @@ Administration
 
 Integrations
 
+Work management
+
 CREATED FOR:
 
 User
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 IMPORTANT
 
@@ -82635,6 +83925,36 @@ Create workspace hierarchies
 
 .
 
+If your organization purchased an Adobe GenStudio for Performance Marketing package, the following scenarios exist:
+
+You cannot connect to GenStudio record types from Planning record types.
+
+You can connect GenStudio record types in the GenStudio workspace.
+
+You can connect GenStudio Brands from GenStudio record types and from Planning record types.
+
+You cannot include GenStudio Brands in a hierarchy.
+
+You can make a connection field dependent on the corresponding connected field from the connected record type. When the two fields display on a third record type, the selections available for one field depend on the selections from the other field.
+
+For more information and additional considerations, see
+
+Manage dependent connections
+
+.
+
+The following scenarios exist when duplicating records with a connected record in a One to one or One to many connection type:
+
+In the Production environment, the connected record moves to the duplicated record, or you must manually remove it from the original before you duplicate the record, and then add it back.
+
+In the Preview environment, you can select whether the connected record stays on the original or moves to the duplicated record.
+
+For more information, see
+
+Duplicate records
+
+.
+
 Connection types
 
 After you establish a connection between two record types or between a record and an object type from another application, you can add records in the connected record fields.
@@ -82767,7 +84087,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -82938,6 +84258,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -83121,11 +84443,13 @@ Workfront Guide
 
 Contacts
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -83165,11 +84489,13 @@ Workfront Guide
 
 Control playback in a video proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -83311,11 +84637,13 @@ Workfront Guide
 
 Convert a basic workflow to an Automated Workflow on a proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -84577,7 +85905,7 @@ Workfront Guide
 
 Convert legacy portfolios to Adobe cloud storage
 
-Last update: June 18, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -84729,6 +86057,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -84808,6 +86138,198 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
+# FILE: copy-a-canvas-dashboard-adobe-workfront.md
+---
+
+Copy a Canvas Dashboard | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Copy a Canvas Dashboard
+
+Last update: September 25, 2026
+
+Topics:
+
+Reports and dashboards
+
+CREATED FOR:
+
+User
+
+The information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
+
+IMPORTANT
+
+The Canvas Dashboards feature is currently only available for users participating in the beta stage. Parts of the feature may not be complete or work as intended during this stage. Please submit any feedback regarding your experience by following the instructions in the
+
+Provide feedback
+
+section in the Canvas Dashboards beta overview article.
+
+If you have feedback regarding a possible bug or technical issue, please submit a ticket to Workfront Support. For more information, see
+
+Contact Customer Support
+
+.
+
+Please note that this beta is not available on the following cloud providers:
+
+Bring Your Own Key for Amazon Web Services
+
+Azure
+
+Google Cloud Platform
+
+You can copy a Canvas Dashboard to create a variation of it for a different audience, such as a director-level copy of an executive dashboard, without rebuilding it from scratch.
+
+Access Requirements
+
+Expand to view access requirements for the functionality in this article.
+
+table 0-row-2 1-row-0 2-row-2 3-row-2 4-row-2 layout-auto html-authored no-header
+
+Adobe Workfront package
+
+Any
+
+Adobe Workfront license
+
+Standard
+
+Plan
+
+Access level configurations
+
+Edit or Create access to Dashboards
+
+Object permissions
+
+View access to the dashboard
+
+For more detail about the information in this table, see
+
+Access requirements in Workfront documentation
+
+.
+
+Prerequisites
+
+You must create a dashboard before it can be duplicated.
+
+For more information, see
+
+Create a Canvas Dashboard
+
+.
+
+Copy a dashboard
+
+NOTE
+
+Sharing preferences are not copied to the new dashboard. If a widget has a
+
+Run as user
+
+configuration, that configuration is preserved on the copy only if you are the designated user or a System Administrator.
+
+To copy a dashboard:
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-left corner of Adobe Workfront, then click
+
+Dashboards
+
+.
+
+In the left panel, click
+
+Canvas Dashboards
+
+.
+
+On the
+
+Canvas Dashboards
+
+page, open the dashboard you want to copy.
+
+In the upper-right corner, select the
+
+More
+
+icon, then select
+
+Copy
+
+.
+
+In the
+
+Copy dashboard
+
+dialog box, enter a
+
+Name
+
+for the new dashboard, which defaults to the source dashboard’s name followed by “(Copy).”
+
+(Optional) On the
+
+Dashboard details
+
+tab, update the
+
+Description
+
+or
+
+Currency
+
+for the new dashboard.
+
+(Optional) Click the
+
+Widgets
+
+tab, then deselect any widgets you don’t want to include in the duplicate dashboard.
+
+(Optional) Click the
+
+Filters & Prompts
+
+tab, then turn off
+
+Copy dashboard filters
+
+or
+
+Copy dashboard prompts
+
+to exclude them from the duplicate dashboard.
+
+Click
+
+Copy dashboard
+
+.
+
+A confirmation message displays, with a link to the new dashboard.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
 # FILE: copy-a-dashboard-adobe-workfront.md
 ---
 
@@ -84826,6 +86348,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -85023,11 +86547,13 @@ Workfront Guide
 
 Copy a layout template
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -86056,6 +87582,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -87261,13 +88789,11 @@ Workfront Guide
 
 Copying Proofs in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -87523,7 +89049,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Timesheets
+Administration
 
 CREATED FOR:
 
@@ -87891,6 +89417,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -88082,6 +89610,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -88365,9 +89895,13 @@ Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
 
 You can design a custom form with the form designer in Adobe Workfront. You can attach custom forms to different Workfront objects to capture data about those objects.
 
@@ -88893,7 +90427,7 @@ Multi-select dropdown
 
 On the right side of the screen, configure the options that are available for the type of custom field you are adding:
 
-table 0-row-3 1-row-3 2-row-3 3-row-3 4-row-3 5-row-3 6-row-3 7-row-3 8-row-3 9-row-3 10-row-0 layout-auto html-authored no-header
+table 0-row-3 1-row-3 2-row-3 3-row-3 4-row-3 5-row-3 6-row-3 7-row-3 8-row-3 9-row-3 10-row-3 11-row-0 layout-auto html-authored no-header
 
 Input into
 
@@ -89054,6 +90588,90 @@ Warning
 Note:
 
 There is no limit for how many choices you can select.
+
+Radio buttons
+
+Checkbox group
+
+Single-select dropdown
+
+Multi-select dropdown
+
+Choices
+
+Click
+
+Edit choices
+
+to add or edit choices for the field.
+
+To add a new choice in the Edit choices dialog:
+
+Click
+
+New row
+
+at the bottom of the table.
+
+Note:
+
+There is no limit for how many choices you can add.
+
+Type the
+
+Choice name
+
+and
+
+Choice value
+
+. These are usually the same, just like the field API name and label.
+
+(Optional) Select
+
+Select by Default
+
+to have the choice selected by default in the field.
+
+For additional actions:
+
+To edit an existing choice, double-click in the area you want to change.
+
+To hide a choice in the field, select it and click
+
+Hide Choice
+
+in the action bar at the bottom of the screen. Hidden choices remain accessible in reports.
+
+To delete a choice from the field, select it and click
+
+Remove Choice
+
+in the action bar at the bottom of the screen.
+
+Warning
+
+: If you have current objects using this choice, do not remove it from the field. Removing it will cause historic data to be lost. Instead, select the option to hide it, which prevents users from selecting it in the future.
+
+Use the
+
+Drag
+
+icon
+
+to sort the choices manually.
+
+Click
+
+Sort Choices A-Z
+
+to sorts the choices alphabetically in the field.
+
+Click
+
+Save
+
+when you are finished editing choices.
 
 Radio buttons
 
@@ -90381,6 +91999,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -90923,6 +92543,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -91099,11 +92721,21 @@ Work management
 
 Administration
 
+Resource management
+
 CREATED FOR:
 
 User
 
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
+
 You can request approval from other users or teams for a document in Adobe Workfront, or request they review a document without needing to approve it.
+
+By default, an approval template is visible only to its creator. Throughout this article, you can only select templates you created or that were shared with you. For more information, see
+
+Share a template
+
+in Manage approval templates.
 
 IMPORTANT
 
@@ -91135,7 +92767,7 @@ If you are using the Frame.io integration, you must have a Standard license to c
 
 Access level configurations
 
-View or higher access to Projects, Tasks, Issues, Templates, Portfolios, Programs, Reports, Dashboards, and Calendars, Documents
+View or higher access to Projects, Tasks, Issues, Templates, Portfolios, Programs, Reports, Dashboards, Calendars, and Documents
 
 Object permissions
 
@@ -91185,15 +92817,21 @@ dialog opens in Basic mode.
 
 Fill in the following details:
 
-table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 html-authored no-header
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 html-authored no-header
 
 Use an approval template (optional)
 
-Select a template from the drop-down menu. If the template has one path and one stage, it applies in Basic mode. If the template has more than one stage or more than one path, the dialog automatically switches to Advanced mode and any input you entered in Basic mode is replaced by the template's content.
+Select a template from the drop-down menu. The menu only lists templates you created or that were shared with you — either with you specifically or with everyone in your organization. System Administrators see every template in the account here, regardless of who created or shared it. If the template has one path and one stage, it applies in Basic mode. If the template has more than one stage or more than one path, the dialog automatically switches to Advanced mode and any input you entered in Basic mode is replaced by the template's content.
 
 Add names or emails
 
 Begin typing a user or team name to add as an approver or reviewer. If you only have reviewers, they will be notified and have the option to complete the review but no decision will be required or made.
+
+Add people or teams in preview
+
+Begin typing a user name, team, or email address. The team is added as a single approver or review by default, but you can choose to add each team member as an individual participant.
+
+Note: If a user is already added, or belongs to more than one team you add, they're included once.
 
 Only one decision required (optional)
 
@@ -91283,9 +92921,35 @@ Go to basic
 
 option is no longer available.
 
+(Optional) To apply a template:
+
+Toggle
+
+Templates
+
+On.
+
+Click the filter icon, then select
+
+All
+
+,
+
+My templates
+
+, or
+
+Shared with me
+
+to narrow the list.
+
+Click a template to apply it to the approval.
+
+System Administrators see every template in the account here, regardless of who created or shared it.
+
 Fill in details for Stage 1 of Path 1:
 
-table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 html-authored no-header
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 html-authored no-header
 
 Stage name
 
@@ -91312,6 +92976,12 @@ Add names or emails
 Begin typing a user or team name to add as an approver or reviewer. If you only have reviewers, they will be notified and have the option to complete the review but no decision will be required or made.
 
 Note: A reviewer or approver can be assigned to only one open stage at a time on the same asset. If multiple parallel stages are open simultaneously, the same person can't be added to more than one.
+
+Add people or teams in preview
+
+Begin typing a user name, team, or email address. The team is added as a single approver or review by default, but you can choose to add each team member as an individual participant.
+
+Note: If a user is already added, or belongs to more than one team you add, they're included once. Additionally, participants can be assigned only to one open stage at a time on the same asset.
 
 Only one decision required (optional)
 
@@ -91427,15 +93097,29 @@ dialog opens in Basic mode.
 
 Fill in the following details:
 
-table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 html-authored no-header
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 html-authored no-header
 
 Use an approval template (optional)
 
-The templates field is collapsed by default. Click the field to expand it, then select a template from the drop-down menu. If the template has one path and one stage, it applies in Basic mode. If the template has more than one stage or more than one path, the dialog automatically switches to Advanced mode and any input you entered in Basic mode is replaced by the template's content.
+The templates field is collapsed by default. Click the field to expand it, then select a template from the drop-down menu. The menu only lists templates you created or that were shared with you — either with you specifically or with everyone in your organization. System Administrators see every template in the account here, regardless of who created or shared it. If the template has one path and one stage, it applies in Basic mode. If the template has more than one stage or more than one path, the dialog automatically switches to Advanced mode and any input you entered in Basic mode is replaced by the template's content.
 
 Add names or emails
 
 Begin typing a user name or email to add as an approver or reviewer. If you only have reviewers, they will be notified and have the option to complete the review but no decision will be required or made.
+
+Add people or teams in preview
+
+Begin typing a user name, team, or email address, then choose if they are an
+
+Approver
+
+or
+
+Reviewer
+
+. Workfront adds each active member of a team individually.
+
+Note: If a user is already added, or belongs to more than one team you add, they're included once.
 
 Only one decision required (optional)
 
@@ -91533,9 +93217,37 @@ Go to basic
 
 option is no longer available.
 
+(Optional) To apply a template:
+
+Toggle
+
+Templates
+
+On.
+
+Click the filter icon, then select
+
+All
+
+,
+
+My templates
+
+, or
+
+Shared with me
+
+to narrow the list.
+
+Click a template to apply it to the approval.
+
+System Administrators see every template in the account here, regardless of who created or shared it.
+
 Fill in details for Stage 1 of Path 1:
 
-table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 html-authored no-header
+>
+
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 html-authored no-header
 
 Stage name
 
@@ -91559,9 +93271,23 @@ Final Approval
 
 Add names or emails
 
-Begin typing a user name or email to add as an approver or reviewer. If you only have reviewers, they will be notified and have the option to complete the review but no decision will be required or made..
+Begin typing a user name or email to add as an approver or reviewer. If you only have reviewers, they will be notified and have the option to complete the review but no decision will be required or made.
 
 Note: A reviewer or approver can be assigned to only one open stage at a time on the same asset. If multiple parallel stages are open simultaneously, the same person can't be added to more than one.
+
+Add people or teams in preview
+
+Begin typing a user name, team, or email address, then choose if they are an
+
+Approver
+
+or
+
+Reviewer
+
+. Workfront adds each active member of a team individually.
+
+Note: If a user is already added, or belongs to more than one team you add, they're included once. Additionally, participants can be assigned only to one open stage at a time on the same asset.
 
 Only one decision required (optional)
 
@@ -91627,6 +93353,44 @@ Request approval
 
 .
 
+View approval workflows for previous versions in the new Documents area in Preview
+
+If your organization uses Adobe cloud storage, you will see the new Documents area when you access documents in Workfront. For more information about Adobe cloud storage, see
+
+Adobe cloud storage overview
+
+.
+
+The Approvals panel lists only the versions of the document that have an approval workflow.
+
+To view approval workflows for previous versions:
+
+Go to the project, task, or issue that contains the document, then select
+
+Documents
+
+in the left panel.
+
+Click on the document, then click the
+
+Approvals
+
+icon on the right side of the page.
+
+Click a version to expand it. You can view its stages, each approver’s decision, the stage’s decision rule (such as whether only one decision is required to complete the stage), and due dates.
+
+Click another version to expand its approval workflow without leaving the panel.
+
+note
+
+NOTE
+
+If a version’s approval workflow was withdrawn because a newer version’s approval was requested, it stays in the list, collapsed, so you can still review its prior decisions.
+
+style
+
+highlighted
+
 recommendation-more-help
 
 workfront-help-quicksilver
@@ -91645,13 +93409,17 @@ Workfront Guide
 
 Create a folder linked with Experience Manager Assets or Assets Essentials
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -91752,152 +93520,6 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
-# FILE: create-a-form-from-a-copy-adobe-workfront.md
----
-
-Create a Form from a Copy | Adobe Workfront
-
-Documentation
-
-Workfront
-
-Workfront Guide
-
-Create a form from a copy
-
-Last update: May 13, 2026
-
-Topics:
-
-Administration
-
-CREATED FOR:
-
-Admin
-
-You can design a new custom form that is based on an existing one. You can attach custom forms to different Workfront objects to capture data about those objects.
-
-Access requirements
-
-Expand to view access requirements for the functionality in this article.
-
-table 0-row-2 1-row-2 2-row-2 layout-auto html-authored no-header
-
-Adobe Workfront package
-
-Any
-
-Adobe Workfront license
-
-Standard
-
-Plan
-
-Access level configurations
-
-Administrative access to custom forms
-
-For information, see
-
-Access requirements in Workfront documentation
-
-.
-
-Copy a custom form to create a new one
-
-Click the
-
-Main Menu
-
-icon
-
-in the upper-left corner of Adobe Workfront, then click
-
-Setup
-
-.
-
-Click
-
-Custom Forms.
-
-Select the custom form that you want to use as the basis for a new custom form, then click
-
-.
-
-In the
-
-Custom Form Copy
-
-box that appears, type the following information:
-
-table 0-row-2 1-row-2 layout-auto html-authored no-header
-
-Form Name
-
-Type a name for the copied form.
-
-Form Types
-
-In the
-
-Form Type
-
-box, select the object types that you want the custom form to work with, and click the X next to any types that you want to remove. Types that are already associated with the form are disabled in the list.
-
-The form must be associated with at least one object type.
-
-Click
-
-Copy
-
-.
-
-In the original form, if calculated fields reference fields that are incompatible with an object type you add to the new form, a message prompts you to change the calculations in those fields.
-
-Similarly, if an access option for a section break on the original form isn’t compatible with an object type you add to the new one, a message prompts you to adjust the option.
-
-Select the form that you just copied, then click
-
-.
-
-Make any changes to the form, as explained in the following sections of the
-
-Create a custom form
-
-article:
-
-Reuse an existing field or widget already used in another custom form
-
-Add text fields
-
-Add calculated fields
-
-Add radio buttons, checkbox groups, and dropdowns
-
-Add date fields
-
-Add images, PDFs, and videos
-
-Add Adobe XD files
-
-Add Planning connection fields
-
-(Optional) After you click
-
-Save and Close
-
-, attach the form to the object where you want to use it, as described in
-
-Add a custom form to an object
-
-.
-
-recommendation-more-help
-
-workfront-help-quicksilver
-
----
 # FILE: create-a-group-adobe-workfront.md
 ---
 
@@ -91911,11 +93533,15 @@ Workfront Guide
 
 Create a group
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -92301,6 +93927,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -92572,6 +94200,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -92879,13 +94509,11 @@ Workfront Guide
 
 Create a Mini proof in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -92957,11 +94585,13 @@ Workfront Guide
 
 Create a multi-page proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -93131,11 +94761,13 @@ Workfront Guide
 
 Create a new task or issue in Priorities
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -93265,11 +94897,13 @@ Workfront Guide
 
 Create a new version of a proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -93634,6 +95268,8 @@ Topics:
 Work management
 
 Administration
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -94153,7 +95789,7 @@ Workfront Guide
 
 Create a predecessor relationship using the Predecessors area
 
-Last update: June 12, 2026
+Last update: October 1, 2026
 
 Topics:
 
@@ -94164,6 +95800,8 @@ Administration
 CREATED FOR:
 
 User
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
 
 You can use predecessor tasks (or just predecessors) to link tasks that depend on other tasks to start or complete. For example, you wouldn’t want to host a party (dependent task) before you send out the invitations (predecessor task).
 
@@ -94321,6 +95959,12 @@ icon
 
 .
 
+To remove a predecessor, select it in the list of predecessors and click
+
+Remove
+
+in the action bar at the bottom of the screen.
+
 The predecessor is removed from the list. The predecessor task is not deleted from its project.
 
 recommendation-more-help
@@ -94348,6 +95992,8 @@ Topics:
 Work management
 
 Administration
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -95755,7 +97401,11 @@ Document management overview for projects and related objects
 
 .
 
-(Conditional and optional) If you selected a legacy storage template, select the Create this project on Adobe cloud storage setting in the lower-right corner of the New project box. This will create an Adobe cloud storage project. Documents and document folders from the template will not be added to the project.
+(Conditional and optional) If you selected a legacy storage template, select the
+
+Create this project on Adobe cloud storage
+
+setting in the lower-right corner of the New project box. This will create an Adobe cloud storage project. Documents and document folders from the template will not be added to the project.
 
 Review the following template details on the right:
 
@@ -95797,6 +97447,112 @@ Use template
 
 when you have selected a template.
 
+The
+
+New Project
+
+box opens.
+
+(Conditional) If a field is already populated in the template, the field is pre-populated in the
+
+New Project
+
+box.
+
+Edit the pre-populated values to better match your project.
+
+For more information, see
+
+Edit projects
+
+.
+
+Click
+
+Create project
+
+.
+
+All details defined in the template associate automatically with the newly created project if you didn’t change them in the previous step.
+
+A document folder with the same name as the project is automatically created for Adobe cloud storage projects in the Documents section of the project.
+
+Create a project from a template in the Templates area
+
+Instead of starting in the Projects area, you can create a project from a template by starting with the template.
+
+NOTE
+
+Templates associated with Workfront document storage create legacy Workfront storage projects. Templates associated with Adobe cloud storage for documents create Adobe cloud storage projects. Your Workfront instance might not have both types of document storage.
+
+For more information, see
+
+Document management overview for projects and related objects
+
+.
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-left corner of Adobe Workfront, then click
+
+Templates
+
+.
+
+Click the name of a template you want to use.
+
+Click the
+
+More
+
+menu
+
+to the right of the template name in the header, then click
+
+Create Project
+
+.
+
+The
+
+New Project
+
+box opens.
+
+Enter a name for the project. Workfront uses the name of the template to name the new project.
+
+Review each section in the
+
+New Project
+
+box and make any necessary changes.
+
+If a field is already populated in the template, the field is pre-populated in the
+
+New Project
+
+box. You can edit the pre-populated values to better match your project.
+
+For information, see
+
+Edit projects
+
+.
+
+Click
+
+Create project
+
+.
+
+All details defined in the template associate automatically with the newly created project if you didn’t change them in the previous step.
+
+A document folder with the same name as the project is automatically created for Adobe cloud storage projects in the Documents section of the project.
+
 recommendation-more-help
 
 workfront-help-quicksilver
@@ -95815,11 +97571,13 @@ Workfront Guide
 
 Create a proof for a document
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -96031,11 +97789,13 @@ Workfront Guide
 
 Create a proof for interactive content in a ZIP file
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -96147,11 +97907,13 @@ Workfront Guide
 
 Create a Proof via Your Box Account
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -96292,6 +98054,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -96617,7 +98381,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -96662,6 +98426,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -97441,11 +99207,13 @@ Workfront Guide
 
 Create a report dashboard for review and approvals
 
-Last update: August 28, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
+
+Resource management
 
 CREATED FOR:
 
@@ -99583,6 +101351,8 @@ Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
@@ -99823,9 +101593,19 @@ Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 A scorecard measures how well a project aligns with the previously established criteria of a portfolio. A scorecard often reflects an organization’s mission, values, and strategic goals.
 
@@ -99893,7 +101673,7 @@ New Scorecard
 
 The
 
-New scorecard
+New Scorecard
 
 box opens.
 
@@ -99981,6 +101761,18 @@ Save
 
 This creates the scorecard and project managers can now attach it to their project business case.
 
+(Optional) To edit a scorecard, select it in the list of scorecards, then click
+
+Edit
+
+at the bottom of the list.
+
+(Optional) To delete a scorecard, select it in the list of scorecards, then click
+
+Delete
+
+at the bottom of the list.
+
 Copy an existing scorecard
 
 You can create a scorecard by copying and editing an existing one.
@@ -100003,19 +101795,31 @@ Scorecards
 
 in the left panel.
 
-Select a scorecard in the list, then click the
+Select a scorecard in the list, then click
 
 Copy
 
-icon
+at the top of the scorecard list
 
-at the top of the scorecard list.
+or
+
+Copy
+
+at the bottom of the list
+
+.
 
 The
 
-Copy Scorecard
+Copy
 
-box opens.
+scorecard box opens.
+
+note tip
+
+TIP
+
+The name of the scorecard displays in the title of the box.
 
 Specify the following information:
 
@@ -100367,11 +102171,13 @@ Workfront Guide
 
 Create a static proof for a website or other web content
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -100555,13 +102361,11 @@ Workfront Guide
 
 Create a Static Website Proof using Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -100699,11 +102503,15 @@ Workfront Guide
 
 Create a subgroup
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -100877,6 +102685,8 @@ Work management
 
 Administration
 
+People Teams and Groups
+
 CREATED FOR:
 
 User
@@ -101030,6 +102840,8 @@ Topics:
 Work management
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -101203,6 +103015,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -101343,13 +103157,15 @@ Workfront Guide
 
 Create Adobe Workfront tasks from Microsoft Teams
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -102359,7 +104175,7 @@ Workfront Guide
 
 Create an account in Adobe Workfront as an external user
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -102477,11 +104293,13 @@ Workfront Guide
 
 Create an advanced proof with a Basic workflow
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -102973,11 +104791,13 @@ Workfront Guide
 
 Create an advanced proof with an Automated workflow
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -103441,6 +105261,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -103649,6 +105471,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -103808,6 +105632,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -104102,6 +105928,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -104553,11 +106381,13 @@ Work management
 
 Administration
 
+Resource management
+
 CREATED FOR:
 
 User
 
-In the Workfront Setup area, users with a Standard license can create reusable Approval Templates. Once created, Approval Templates can be applied to assets in the Documents area of an object.
+In the Workfront Setup area, users with a Standard license can create reusable Approval Templates. A template is visible only to the user who created it, unless the creator shares it with specific users or with everyone in the organization. Once created, Approval Templates can be applied to assets in the Documents area of an object.
 
 IMPORTANT
 
@@ -104661,6 +106491,12 @@ Begin typing a user or team name to add as an approver or reviewer. Participants
 
 Note: A reviewer or approver can be assigned to only one open stage at a time on the same asset. If multiple parallel stages are open simultaneously, the same person can't be added to more than one.
 
+Add people or teams in preview (optional)
+
+Begin typing a user name, team, or email address. Participants are optional in templates. You can choose to add them when the template is applied to a document.
+
+Note: If a user is already added, or belongs to more than one team you add, they're included once. Additionally, participants can be assigned only to one open stage at a time on the same asset.
+
 Only one decision required (optional)
 
 The first person who makes a decision completes the stage.
@@ -104727,6 +106563,14 @@ Save
 
 Once the template is created, it can be applied to documents in the Documents area of an object to begin the formal review and approval process in Workfront.
 
+NOTE
+
+New templates are visible only to you. To share, edit, or delete a template, see
+
+Manage approval templates
+
+.
+
 recommendation-more-help
 
 workfront-help-quicksilver
@@ -104745,11 +106589,13 @@ Workfront Guide
 
 Create an interactive proof for a website or other web content
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -104912,6 +106758,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -105202,6 +107050,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -105679,11 +107529,13 @@ Workfront Guide
 
 Create and customize priorities
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -105958,6 +107810,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -106438,6 +108292,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -107185,6 +109041,14 @@ CREATED FOR:
 
 User
 
+The information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
 You can create plans as part of using the Workfront Scenario Planner, when prioritizing your company’s higher-level strategy. For more information about plans, see
 
 Plans overview in the Scenario Planner
@@ -107275,7 +109139,15 @@ Filter
 
 icon
 
-in the upper-right corner of the plan list, and select from the following:
+,
+
+or the
+
+Table
+
+icon
+
+at the top of the list, and select from the following:
 
 table 0-row-2 1-row-2 2-row-2 3-row-2
 
@@ -107309,11 +109181,15 @@ Or
 
 Click
 
-New Plan
+New plan
 
-in the upper-left corner to create a plan and continue with step 5.
+to create a plan and continue with step 5.
 
-The New Plan box displays.
+The
+
+New plan
+
+box displays.
 
 (Conditional) When you create a plan, specify the following information:
 
@@ -108099,11 +109975,15 @@ Workfront Guide
 
 Create and manage a group’s timesheet profiles
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -108235,11 +110115,21 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 IMPORTANT
 
@@ -108335,7 +110225,7 @@ The following are differences between how field formats display in the request f
 
 Currency, Number, and Percentage fields display as a Single-line text field type in the form builder.
 
-However, the field format is preserved and the field values will display as as currency, numbers, and percentages after the request is submitted, on the record type and in the request details page.
+However, the field format is preserved and the field values will display as currency, numbers, and percentages after the request is submitted, on the record type and in the request details page.
 
 The following describe how some field values display on request forms and the request details pages:
 
@@ -108409,9 +110299,15 @@ to the right of the record type name in the page header, then click
 
 Create request form
 
-or
+if you are creating the form for the first time. Click
 
 Manage request forms
+
+or
+
+Request forms
+
+.
 
 , if you already have a form and you want to create additional ones.
 
@@ -108577,6 +110473,10 @@ Default Section
 
 Click any field, then use the controls in the right panel in the form to define their size, or any of the following information:
 
+Size
+
+: Controls the space that the field occupies on the form. Not available for all field types.
+
 Label
 
 : This is the name of the field as it will appear on the request form. This does not change the name of the record field.
@@ -108585,13 +110485,85 @@ Instructions
 
 : Add more information about the field.
 
+Choices
+
+: This is available only for select fields. Do one of the following:
+
+Click
+
+Sort Choices A-Z
+
+to order them automatically.
+
+Drag and drop the choices or order them manually.
+
+Click the
+
+Settings
+
+icon
+
+, then
+
+Select by Default
+
+to indicate which choice is the default option, or
+
+Hide choice
+
+to hide it.
+
+note tip
+
+TIP
+
+You cannot rename or remove choices on a Planning request form. You must edit the field choices in the table view of the record type.
+
+In the
+
+Advanced settings
+
+area, select from the options listed below. Not all options are available to all field types.
+
 Make a required field
 
 : When selected, the field must have a value. Otherwise, the form cannot be submitted.
 
 Add logic
 
-: Define what conditions must be met in order for the field to display or be hidden.
+: Define what conditions must be met in order for the field to display or be hidden. Add logic is available only when fields are, or are preceded by, single- and multi-select fields.
+
+Validation and default value rules are not available for all field types.
+
+In the Production environment, select from the following options:
+
+Display Logic
+
+: The field you selected must be preceded by a multi-select or a single-select field.
+
+Skip Logic
+
+: Add skip rules for when users should skip the field and leave it blank.
+
+In the Preview environment, select from the following options:
+
+Display
+
+Skip
+
+Default value
+
+Validation
+
+Formatting
+
+Editability
+
+For more information, see
+
+Add logic rules to custom forms and fields
+
+.
 
 note tip
 
@@ -108643,25 +110615,15 @@ if you do not want to configure further settings.
 
 Configure form settings
 
-On the Settings tab, you can set approval rules and configure when a request created from this form will be marked as Completed.
+On the Settings tab, you can set approval rules, configure when a request created from this form will be marked as Completed, and
+
+assign default permissions to users interacting with future requests submitted using the form.
 
 Approval rules define the approval process based on field values in the submitted requests.
 
 For example, if a request form has the field “Campaign type,” a rule can be created that sends the request to one person when the field has the value “Digital”, and a different person when it has the value “Print.”
 
-Consider the following when adding approval rules:
-
-Rules are prioritized by order. If the first rule conditions are met, then that rule is applied, even if conditions for rules further down the list are also met.
-
-If no conditions are met, then the default rule is applied.
-
-You can add one or several approvers to an approval rule.
-
-If at least one approver rejects the request, the request is rejected and the record is not created. The request remains in the Requests area of Workfront.
-
-If you add more than one approver, and the Only one decision is required option is not enabled, all approvers must make a decision before a request is either approved or rejected.
-
-If a team is set as an approver, only one decision is required from the team.
+Multiple stages are supported in the approval process. When all required decisions in a stage are made, the next stage begins and the new stage’s approvers receive an email notification.
 
 For more information about adding approvals, see
 
@@ -108670,6 +110632,10 @@ Add approval to a request form
 .
 
 Completion options allow you to set whether a request is marked complete when the requested object is created, or when the created object is completed. You define when the object is complete based on a specified condition.
+
+Use the Permissions section in the Settings area of a request form to define the default permissions of requestors
+
+to the requests created using the form.
 
 To configure form settings:
 
@@ -108687,67 +110653,23 @@ Set up Form details
 
 .
 
-To begin configuring approval rules, click Approvals
+To begin configuring approval rules, click
+
+Approvals
 
 in the left navigation.
 
-(Optional) If you want to set a default approval process, add at least one user or team to the
+You can create single
 
-Approvers
+or multi stage approval rules
 
-field of the Default approval rule area, then click the
+and assign users or teams to an approval.
 
-Only one decision is required
+For more information about adding approvals, see
 
-checkbox if you want the record to be created after any one of the default approvers has approved it.
+Add approval to a request form
 
-(Optional) For each additional approval rule, do the following:
-
-Click
-
-Add approval rule
-
-Click the placeholder title “Untitled approval rule” and enter a name for the approval rule.
-
-Click
-
-Select a field
-
-and select the field that activates the rule.
-
-Select the operator for the rule. Operators vary based on the type of field.
-
-If the selected operator requires a value, click the plus icon and add one or more values.
-
-(Optional) Add more conditions using AND or OR by clicking Add condition and configuring the additional condition.
-
-In the Actions area of the approval rule, in the
-
-Approvers
-
-field, add at lease one user or team to be set at the approver when the condition is met.
-
-(Conditional) If you want the record to be created after any one of the approvers has approved it, check the
-
-Only one decision is required
-
-checkbox.
-
-(Optional) To reorder routing rules, click the drag handle on the left side of the rule and drag the rule to the desired location.
-
-The default rule cannot be reordered.
-
-(Optional)To delete a routing rule, click the
-
-X
-
-to the right of the rule.
-
-Click
-
-Save
-
-to save the approval rules.
+.
 
 Click
 
@@ -108766,6 +110688,48 @@ The request is completed when the requested object is completed
 : This will complete the request when the record is marked as completed.
 
 (Conditional) If you have selected for the request to be marked complete when the requested object is completed, select the field and the value that indicates when the object is complete. For example, you could select the field Status and the value Complete to complete the request when the created object’s status is set to Complete.
+
+Click
+
+Permissions
+
+on the left panel.
+
+Select the permission level for the users submitting requests through this form:
+
+View
+
+: All requesters can comment on and share the form.
+
+Contribute
+
+: All requesters can comment on, share, and edit the form.
+
+Manage
+
+: All requesters can comment on, share, edit, and delete the form.
+
+(Optional) Deselect any of the granular permissions for each permission level to prevent requestors to perform the following actions:
+
+Comment
+
+Share
+
+Edit. Not available for View.
+
+Delete. Not available for Contribute and View.
+
+note tip
+
+TIP
+
+The granular permission you deselect here will be dimmed when sharing the request with those users from the request page.
+
+Click
+
+Save
+
+.
 
 Continue to
 
@@ -108825,7 +110789,7 @@ The
 
 Request forms
 
-list opens and the the form displays in the list.
+list opens and the form displays in the list.
 
 Share a request form
 
@@ -108893,7 +110857,7 @@ Anyone with contribute or higher access to the workspace
 
 Copy link
 
-to share the link to the form with people who have access to access the form and submit requests. The link is copied to your clipboard and you can share it with others.
+to share the link to the form with people who have access to the form and submit requests. The link is copied to your clipboard and you can share it with others.
 
 To share the form publicly, select the
 
@@ -108989,6 +110953,10 @@ to the right of the record type name in the page header, then click
 
 Manage request forms
 
+or
+
+Request forms
+
 .
 
 The
@@ -109021,7 +110989,7 @@ More
 
 menu
 
-to the right of the form name, and click one of he following:
+to the right of the form name, and click one of the following:
 
 Edit form
 
@@ -109111,11 +111079,15 @@ Workfront Guide
 
 Create and manage Automated Workflow templates
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -109674,10 +111646,10 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
-# FILE: create-and-manage-brands-for-the-content-reviewer-adobe-workfront.md
+# FILE: create-and-manage-brands-for-the-ai-reviewer-adobe-workfront.md
 ---
 
-Create and manage brands for the Content Reviewer | Adobe Workfront
+Create and manage brands for the AI Reviewer | Adobe Workfront
 
 Documentation
 
@@ -109685,7 +111657,7 @@ Workfront
 
 Workfront Guide
 
-Create and manage brands for the Content Reviewer
+Create and manage brands for the AI Reviewer
 
 Last update: April 1, 2026
 
@@ -109695,11 +111667,13 @@ Work management
 
 Administration
 
+Resource management
+
 CREATED FOR:
 
 User
 
-The Content Reviewer uses brand guidelines to evaluate content during the review process. You can create brands in Workfront by uploading PDF files that contain your brand guidelines or by manually entering brand elements.
+The AI Reviewer uses brand guidelines to evaluate content during the review process. You can create brands in Workfront by uploading PDF files that contain your brand guidelines or by manually entering brand elements.
 
 Access requirements
 
@@ -109735,7 +111709,7 @@ Your Workfront instance must have Unified Approvals enabled.
 
 Your organization must have GenStudio Foundation.
 
-Content Reviewer in Workfront provides the functionality available in GenStudio Foundation for asset review and approval workflows. You do not need to access GenStudio Foundation directly to complete your work. Your access to GenStudio Foundation functionality through Content Reviewer falls under the terms of your Workfront contract.
+AI Reviewer in Workfront provides the functionality available in GenStudio Foundation for asset review and approval workflows. You do not need to access GenStudio Foundation directly to complete your work. Your access to GenStudio Foundation functionality through AI Reviewer falls under the terms of your Workfront contract.
 
 Adobe must have a signed Adobe Gen AI agreement on file.
 
@@ -109815,7 +111789,7 @@ When finished, click
 
 Publish
 
-to make the brand available for the Content Reviewer.
+to make the brand available for the AI Reviewer.
 
 Create a brand manually
 
@@ -109887,17 +111861,17 @@ When finished, click
 
 Publish
 
-to make the brand available for the Content Reviewer.
+to make the brand available for the AI Reviewer.
 
 Best practices for writing brand guidelines
 
 Before writing your guidelines, review
 
-what the Content Reviewer evaluates
+what the AI Reviewer evaluates
 
 for image and brand voice guideline types. Guidelines outside of these evaluation areas will not be scored.
 
-Write brand guidelines that describe measurable criteria. The Content Reviewer evaluates content literally, so objective rules produce more consistent scores than subjective ones.
+Write brand guidelines that describe measurable criteria. The AI Reviewer evaluates content literally, so objective rules produce more consistent scores than subjective ones.
 
 Look for words like “avoid,” “keep,” or “make sure” in your guidelines. These often signal a rule you can tighten. Replace the vague instruction with a specific list of words, formats, or limits. For example, replace “avoid common skiing clichés” with “do not use ‘gnar,’ ‘pow,’ or ‘shred.’”
 
@@ -109921,11 +111895,13 @@ Workfront Guide
 
 Create and manage custom fields in Workfront Proof
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -110291,13 +112267,15 @@ Workfront Guide
 
 Create and Manage Custom Profiles using Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -110787,13 +112765,11 @@ Workfront Guide
 
 Create and Manage Custom Views in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -111449,7 +113425,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -111499,11 +113475,15 @@ Workfront Guide
 
 Create and manage groups
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -111557,13 +113537,15 @@ Workfront Guide
 
 Create and manage job roles
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -111909,6 +113891,8 @@ Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
@@ -112081,11 +114065,13 @@ Workfront Guide
 
 Create and manage portfolios: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -112125,11 +114111,13 @@ Workfront Guide
 
 Create and manage programs: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -112239,7 +114227,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -112356,6 +114344,8 @@ Topics:
 Administration
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -112579,11 +114569,15 @@ Workfront Guide
 
 Create and manage subgroups
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -112615,13 +114609,11 @@ Workfront Guide
 
 Create and Manage Tags in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -112869,6 +114861,8 @@ Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
@@ -112897,11 +114891,11 @@ Workfront Guide
 
 Create and manage timesheets: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Timesheets
+Administration
 
 CREATED FOR:
 
@@ -112953,13 +114947,13 @@ Workfront Guide
 
 Create and manage personal to-do item
 
-Last update: May 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Get Started with Workfront
 
-Work Management
+Work management
 
 CREATED FOR:
 
@@ -113122,6 +115116,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -113393,11 +115389,15 @@ Workfront Guide
 
 Create and modify a group’s companies
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -113593,11 +115593,15 @@ Workfront Guide
 
 Create and modify a group’s layout templates
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -113741,11 +115745,15 @@ Workfront Guide
 
 Create and modify a group’s portfolios
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -113887,11 +115895,15 @@ Workfront Guide
 
 Create and modify a group’s project templates
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -114201,11 +116213,15 @@ Workfront Guide
 
 Create and modify a group’s projects
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -114363,11 +116379,15 @@ Workfront Guide
 
 Create and modify a group’s schedules
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -114497,13 +116517,17 @@ Workfront Guide
 
 Create and modify a group’s teams
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -114748,6 +116772,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -115435,6 +117461,18 @@ Create a Request Queue
 
 .
 
+(Conditional) If you are submitting the request from the New request experience and your organization allows
+
+Form Fill
+
+powered by AI, you can upload documents, emails or links to other objects (project, tasks, or issues) as prompts. AI uses these items to fill in the form, and you can accept or reject the AI suggestions before you submit the request.
+
+For instructions, see
+
+Use Form Fill powered by AI to fill in a request using prompts or documents
+
+.
+
 In the
 
 New request
@@ -115755,11 +117793,11 @@ Workfront Guide
 
 Create and view project snapshots
 
-Last update: May 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Work Management
+Work management
 
 CREATED FOR:
 
@@ -116928,6 +118966,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -118379,11 +120419,13 @@ Workfront Guide
 
 Create custom expense types
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -118575,11 +120617,13 @@ Workfront Guide
 
 Create custom statuses and priority labels: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -118637,11 +120681,13 @@ Workfront Guide
 
 Create direct reports
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -118768,6 +120814,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -119113,25 +121161,23 @@ Setup
 
 .
 
-If you create or edit a timesheet profile for use throughout the system, click
+To create or edit a timesheet profile for use throughout the system, click
 
-Timesheet & Hours
+Timesheet & Hours > Timesheet Profiles
 
 .
 
 Or
 
-If you create or edit a timesheet profile for a group, click
+To create or edit a timesheet profile for a group, click
 
 Groups
 
-, then click the group’s name.
-
-Click
+, click the group’s name, then click
 
 Timesheet Profiles
 
-.
+in the left panel.
 
 To create a timesheet profile, click
 
@@ -119405,13 +121451,15 @@ Workfront Guide
 
 Create, edit, and share system-wide filters, views, and groupings
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -119737,11 +121785,21 @@ Administration
 
 Integrations
 
+Work management
+
 CREATED FOR:
 
 User
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 IMPORTANT
 
@@ -120006,6 +122064,54 @@ IMPORTANT
 You cannot change the Field type of the field after you save it.
 
 Continue with adding each field, as described in the sections below.
+
+(Optional and conditional) After you add a field, hover over the field name in the table view column header and click the
+
+More
+
+drop-down menu, then
+
+Edit field
+
+to edit the field.
+
+For information, see
+
+Edit fields
+
+.
+
+(Optional and conditional) After you add a field, hover over the field name in the table view column header and click the
+
+More
+
+drop-down menu, then
+
+Delete
+
+to delete the field.
+
+For information, see
+
+Delete fields
+
+.
+
+(Optional and conditional) After you add a field, hover over the field name in the table view column header and click the
+
+More
+
+drop-down menu, then
+
+Share field
+
+to share the field.
+
+For information, see
+
+Share fields
+
+.
 
 Single-line text
 
@@ -121165,6 +123271,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -121527,13 +123635,11 @@ Workfront Guide
 
 Create Folders in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -121998,6 +124104,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -122493,11 +124601,15 @@ Workfront Guide
 
 Create, modify, and view a group’s programs
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -122651,6 +124763,10 @@ Administration
 
 Integrations
 
+System Setup and Administration
+
+Workfront Integrations and Apps
+
 CREATED FOR:
 
 Admin
@@ -122659,7 +124775,19 @@ As an Adobe Workfront administrator, you can create OAuth2 applications for your
 
 When you create an OAuth2 application, you generate a Client ID and Client Secret. Your users can then use the Client ID in API calls to integrate with the application you have created.
 
-NOTE
+IMPORTANT
+
+Custom OAuth2 applications are in the process of being deprecated. Please note the following dates:
+
+November 1, 2026: You will no longer be able to create new custom OAuth2 applications.
+
+February 1, 2027: Existing custom OAuth2 applications will no longer work.
+
+For more information, see
+
+Migrate from Workfront OAuth2 to Adobe Developer Console
+
+.
 
 In the context of OAuth2, “creating an app” refers to the process of creating this sort of access link between an app and a server such as Workfront.
 
@@ -123273,6 +125401,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -123445,11 +125575,13 @@ Workfront Guide
 
 Create or customize issue severities
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -123688,6 +125820,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -123975,9 +126109,19 @@ Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 As an Adobe Workfront administrator, you can create or edit a custom condition for projects, tasks, and issues to match the needs of your organization.
 
@@ -124053,11 +126197,23 @@ Add a new condition
 
 Or
 
-To edit an existing condition, click
+To edit an existing condition:
+
+In the Production environment, click
 
 Edit
 
 next to the condition name.
+
+In the Preview environment, select the check box next to the condition name you want to delete, and click
+
+Edit
+
+in the action bar at the bottom of the screen.
+
+Sample image in the Production environment:
+
+Sample image in the Preview environment:
 
 Configure your custom condition using the following options:
 
@@ -124179,11 +126335,15 @@ Workfront Guide
 
 Create or edit a group status
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -124485,11 +126645,13 @@ Workfront Guide
 
 Create or edit a status
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -124709,11 +126871,13 @@ Workfront Guide
 
 Create or edit an Automated Workflow for an existing proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -125001,11 +127165,13 @@ Workfront Guide
 
 Create or edit an environment promotion package
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -125298,6 +127464,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -125979,6 +128147,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -126247,7 +128417,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -126412,6 +128582,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -126581,13 +128753,17 @@ Workfront Guide
 
 Create Adobe Workfront for Creative Cloud packages for your users in the Adobe Admin Console
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+System Setup and Administration
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -127059,11 +129235,13 @@ Workfront Guide
 
 Create Proofing Groups using Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -127149,11 +129327,11 @@ Workfront Guide
 
 Create proofs: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -127197,13 +129375,11 @@ Workfront Guide
 
 Create proofs and files
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -127260,6 +129436,8 @@ CREATED FOR:
 User
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
 
 Queue Topics work in conjunction with Routing Rules to automatically assign incoming work to a user, job role, team, or to place it on a project. Queue Topics define the conditions that need to exist for the Routing Rule to be implemented.
 
@@ -127461,6 +129639,12 @@ in the left panel.
 
 Click the queue topic that you want to edit.
 
+Select the check box next to the queue topic that you want to edit, and click
+
+Edit
+
+in the blue action bar at the bottom of the screen.
+
 For information about available edit options, see
 
 Create a Queue Topic
@@ -127489,6 +129673,12 @@ icon
 
 at the top of the page.
 
+Click
+
+Delete
+
+in the action bar at the bottom of the screen.
+
 recommendation-more-help
 
 workfront-help-quicksilver
@@ -127513,11 +129703,21 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 IMPORTANT
 
@@ -127861,7 +130061,11 @@ Create fields
 
 The changes are saved automatically.
 
-For additional information about adding records, deleting or editing record types, or updating the view in the record type page, see the following articles:
+For additional information about adding records, deleting or editing record types,
+
+creating business rules
+
+or updating the view in the record type page, see the following articles:
 
 Create records
 
@@ -127870,6 +130074,8 @@ Delete record types
 Edit record types
 
 Manage record views
+
+Create record types business rules
 
 Create record types by importing information from a CSV or Excel file
 
@@ -127920,6 +130126,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -128184,6 +130392,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -129196,6 +131406,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -130509,13 +132721,15 @@ Workfront Guide
 
 Create tasks and issues from Slack
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -131449,6 +133663,8 @@ User
 
 Admin
 
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
+
 Topic Groups are associated with Request Queues. You can layer your Request Queues in multiple categories, depending on the nature of the requests by using topic groups.
 
 Access requirements
@@ -131559,7 +133775,15 @@ Create and submit Adobe Workfront requests
 
 .
 
-To edit an existing Topic Group, select the Topic Group from the Topic Groups list, then edit the details in the window that opens. Click
+To edit an existing Topic Group, select the Topic Group in the Topic Groups list,
+
+click
+
+Edit
+
+in the action bar at the bottom of the screen,
+
+then edit the details in the window that opens. Click
 
 Save
 
@@ -131583,11 +133807,13 @@ Workfront Guide
 
 Create Users using Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -131742,6 +133968,8 @@ Topics:
 Work management
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -132171,6 +134399,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -132537,6 +134767,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -132858,6 +135090,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -133323,7 +135557,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -133635,11 +135869,13 @@ Workfront Guide
 
 Custom branding in Adobe Workfront
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -133669,11 +135905,13 @@ Workfront Guide
 
 Custom conditions
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -133721,7 +135959,7 @@ Workfront Guide
 
 Custom form enhancements
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -133883,11 +136121,13 @@ Workfront Guide
 
 Custom forms: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -133923,11 +136163,13 @@ Workfront Guide
 
 Custom forms overview
 
-Last update: August 20, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -134069,11 +136311,15 @@ Workfront Guide
 
 Custom statuses in a group that is moved or deleted
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -134189,11 +136435,15 @@ Workfront Guide
 
 Custom statuses on a task or issue that is moved or copied
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -134235,7 +136485,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -134419,7 +136669,7 @@ Workfront Guide
 
 Customers on Clusters 1, 2, and 3 must update any allowlist IP blocks to prevent the blocking of Adobe Workfront services
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -134507,11 +136757,13 @@ Workfront Guide
 
 Customize Adobe Workfront
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -134549,11 +136801,13 @@ Workfront Guide
 
 Customize default issue types
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -134701,6 +136955,8 @@ Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
@@ -134847,11 +137103,13 @@ Workfront Guide
 
 Customize Filters, Views, and Groupings using a layout template
 
-Last update: August 17, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -135093,11 +137351,13 @@ Workfront Guide
 
 Customize Home using a layout template
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -135341,7 +137601,7 @@ Workfront Guide
 
 Customize object headers using a layout template
 
-Last update: April 6, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -135487,11 +137747,13 @@ Workfront Guide
 
 Customize pinned pages using a layout template
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -135731,11 +137993,13 @@ Workfront Guide
 
 Customize the Details view using a layout template
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -135917,11 +138181,13 @@ Workfront Guide
 
 Customize the landing page using a layout template
 
-Last update: July 30, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -136119,11 +138385,13 @@ Workfront Guide
 
 Customize the left panel using a layout template
 
-Last update: August 18, 2026
+Last update: October 1, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -136319,7 +138587,7 @@ User Details
 
 The name of a user
 
-Details, Org Chart, Time Off, Custom Forms, Business Profiles, Updates, Workload Balancer
+Details, Org Chart, Time Off, Custom Forms, Business Profiles, Updates, Workload Balancer, Employment History
 
 Rate Card
 
@@ -136369,6 +138637,8 @@ Hide
 
 icon.
 
+Every area or object type must have at least one section in the left panel. If all other items are hidden, then you cannot hide the last remaining item.
+
 Drag items
 
 to change their order on the left panel.
@@ -136391,7 +138661,7 @@ Home
 
 Branding
 
-For information about how to customize the additional areas, see the following articles:
+For information about how to customize these additional areas, see the following articles:
 
 Customize Filters, Views, and Groupings using a layout template
 
@@ -136463,15 +138733,19 @@ Workfront Guide
 
 Customize the Main Menu using a layout template
 
-Last update: June 12, 2026
+Last update: October 1, 2026
 
 Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
 
 As an Adobe Workfront administrator or a group administrator, you can use a layout template to configure the options users see when they open the Main Menu in Workfront.
 
@@ -136655,8 +138929,6 @@ Create a custom application for Workfront with Adobe App Builder
 
 .
 
-In the Preview environment:
-
 Do any of the following for the
 
 Native
@@ -136675,6 +138947,12 @@ Drag
 
 items to change their display order on the Main Menu.
 
+note
+
+NOTE
+
+You can’t change the order of system items. These items always display at the bottom of the Main Menu when they are active.
+
 Do any of the following for the
 
 System
@@ -136689,11 +138967,9 @@ Show
 
 items that you do want to display on the Main Menu.
 
-note
+style
 
-NOTE
-
-You can’t change the order of system items. These items always display at the bottom of the Main Menu when they are active.
+highlighted
 
 Click
 
@@ -136705,7 +138981,7 @@ You can also click
 
 Cancel
 
-at any time if you want to discard your changes.
+at any time to discard your changes.
 
 Continue customizing the layout template. You can click
 
@@ -136745,7 +139021,7 @@ Workfront Guide
 
 Customize the More menu using a layout template
 
-Last update: April 7, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -136875,11 +139151,13 @@ Workfront Guide
 
 Customize the Priorities worklist columns
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -137109,6 +139387,8 @@ Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
@@ -137327,11 +139607,13 @@ Workfront Guide
 
 Customize user interface terminology using a layout template
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -137589,6 +139871,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -137804,6 +140088,268 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
+# FILE: cx-coworker-in-workfront-article-index-adobe-workfront.md
+---
+
+CX Coworker in Workfront: article index | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+CX Coworker in Workfront: article index
+
+Last update: September 25, 2026
+
+Topics:
+
+Get Started with Workfront
+
+CREATED FOR:
+
+User
+
+IMPORTANT
+
+CX Coworker is not currently available to organizations in health care, finance, or some other industries with sensitive data. AI Assistant is available to these organizations. For more information, see
+
+AI Assistant overview
+
+.
+
+This section contains the following articles:
+
+CX Coworker overview
+
+Use CX Coworker in Workfront
+
+CX Coworker skills
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
+# FILE: cx-coworker-overview-adobe-workfront.md
+---
+
+CX Coworker overview | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+CX Coworker overview
+
+Last update: September 25, 2026
+
+Topics:
+
+Get Started with Workfront
+
+CREATED FOR:
+
+User
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
+IMPORTANT
+
+CX Coworker is not currently available to organizations in health care, finance, or some other industries with sensitive data. AI Assistant is available to these organizations. For more information, see
+
+AI Assistant overview
+
+.
+
+CX Coworker Chat is a conversational interface for getting work done. You describe a goal in plain language, and Coworker plans the work, executes it across your Adobe and connected systems, validates the results, and brings the finished work back to you for approval.​
+
+Everything your team relies on in AI Assistant today continues to work, but now has more powerful, end-to-end capabilities, available both in a new full-screen experience and in the Workfront right rail.
+
+Coworker respects your organization’s existing product-level access controls. Users can only take actions they’re already permitted to take in Workfront. Coworker has read-only access by default, and system admins control when users have Write access.
+
+Coworker is part of the Adobe ecosystem, and is not just limited to Workfront.
+
+For information on using CX Coworker in Workfront, see
+
+Use CX Coworker in Workfront
+
+.
+
+For more information on Coworker and its capabilities, see
+
+Adobe CX Enterprise Coworker Chat overview
+
+.
+
+For skills available in Coworker in Workfront, see
+
+CX Coworker skills
+
+.
+
+For example prompts, see the prompts in the article
+
+Use the Adobe Workfront MCP server
+
+.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
+# FILE: cx-coworker-skills-adobe-workfront.md
+---
+
+CX Coworker skills | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+CX Coworker skills
+
+Last update: September 25, 2026
+
+Topics:
+
+Get Started with Workfront
+
+CREATED FOR:
+
+User
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
+IMPORTANT
+
+CX Coworker is not currently available to organizations in health care, finance, or some other industries with sensitive data. AI Assistant is available to these organizations. For more information, see
+
+AI Assistant overview
+
+.
+
+This article lists skills that are currently available to CX Coworker in Workfront.
+
+The abilities covered by these skills is available in CX Coworker through the conversational interface, and you do not need to call these skills directly. However, if you do want to call the skills directly, you can do so in the Coworker panel by entering a slash
+
+/
+
+and typing the name of the skill.
+
+For example prompts, see the prompts in the article
+
+Use the Adobe Workfront MCP server
+
+.
+
+Workfront Planning skills
+
+Workfront Planning Solution Architect
+
+Name:
+
+wf-planning-solution-architect
+
+This skill can answer questions related to Workfront Planning, including but not limited to:
+
+Workspace design
+
+Formula field syntax
+
+API filtering
+
+Record connections
+
+Automation options
+
+Reporting
+
+Access and permissions
+
+Integrations
+
+Product limits by pricing tier
+
+Manage Workfront Planning
+
+Name:
+
+manage-workfront-planning
+
+This skill queries and manages Workfront Planning objects such as:
+
+Workspaces
+
+Sections
+
+Record types
+
+Fields
+
+Views
+
+Records
+
+Manage Workfront Objects
+
+Name:
+
+manage-workfront-objects
+
+This skill creates and updates Workfront projects, tasks, issues, portfolios, and programs. Examples include but are not limited to:
+
+Creating a project
+
+Adding a task
+
+Setting planned dates
+
+Assigning a task
+
+Query Workfront Data
+
+Name:
+
+query-workfront-data
+
+This skill finds, lists, and reports on Workfront objects such as:
+
+Projects
+
+Tasks
+
+Issues
+
+Users
+
+Portfolios
+
+and more
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
 # FILE: dashboards-adobe-workfront.md
 ---
 
@@ -137821,7 +140367,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -137855,7 +140401,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -138559,7 +141105,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -138607,11 +141153,13 @@ Workfront Guide
 
 Deactivate job roles
 
-Last update: August 20, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -138971,11 +141519,13 @@ Workfront Guide
 
 Deactivate or reactivate a company
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -139123,11 +141673,13 @@ Workfront Guide
 
 Deactivate or reactivate a custom form
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -139255,11 +141807,15 @@ Workfront Guide
 
 Deactivate or reactivate a group
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -139470,6 +142026,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -139791,11 +142349,13 @@ Workfront Guide
 
 Deactivate single sign-on in Adobe Workfront
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -139951,11 +142511,11 @@ Workfront Guide
 
 Define an overtime ratio
 
-Last update: May 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Work Management
+Work management
 
 CREATED FOR:
 
@@ -140441,7 +143001,7 @@ Workfront Guide
 
 Define rate attributes
 
-Last update: May 21, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -140928,6 +143488,8 @@ Topics:
 Work management
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -141927,6 +144489,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -142010,6 +144574,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -142155,15 +144721,25 @@ Workfront Guide
 
 Delete a custom condition
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 You can delete a custom condition if it is no longer needed.
 
@@ -142231,11 +144807,17 @@ Issue
 
 ) where the condition that you want to delete is located.
 
-Click
+In the Production environment, click
 
 Delete
 
 next to the condition name you want to delete.
+
+In the Preview environment, select the check box next to the condition name you want to delete, and click
+
+Delete
+
+in the action bar at the bottom of the screen.
 
 In the
 
@@ -142279,11 +144861,13 @@ Workfront Guide
 
 Delete a custom field or widget from the system
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -142435,11 +145019,13 @@ Workfront Guide
 
 Delete a custom form
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -142527,11 +145113,13 @@ Workfront Guide
 
 Delete a custom status
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -142705,6 +145293,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -142827,11 +145417,15 @@ Workfront Guide
 
 Delete a group
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -142935,11 +145529,15 @@ Workfront Guide
 
 Delete a group status
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -143087,11 +145685,11 @@ Workfront Guide
 
 Delete a proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -143121,13 +145719,11 @@ Workfront Guide
 
 Delete a Proof in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -143230,6 +145826,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -143377,7 +145975,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Work Management
+Work management
 
 CREATED FOR:
 
@@ -143701,6 +146299,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -144013,6 +146613,8 @@ Work management
 
 Administration
 
+Strategic Planning
+
 CREATED FOR:
 
 User
@@ -144187,13 +146789,15 @@ Workfront Guide
 
 Delete and deactivate programs
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
 
 Administration
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -144351,11 +146955,13 @@ Workfront Guide
 
 Delete Classic layout templates
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -144450,6 +147056,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -144586,6 +147194,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -145223,11 +147833,13 @@ Workfront Guide
 
 Delete job roles
 
-Last update: August 20, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -145344,6 +147956,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -145504,6 +148118,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -145695,11 +148311,19 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Scenario Planner
+Administration
 
 CREATED FOR:
 
 User
+
+The information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 You can delete plans that you created. You cannot delete plans that are shared with you.
 
@@ -145802,6 +148426,16 @@ Delete
 Yes, delete it
 
 .
+
+note tip
+
+TIP
+
+You can also delete a plan in a list by selecting it, then clicking
+
+Delete
+
+at the bottom of the list to delete it.
 
 The plan is deleted and you return to the list of plans.
 
@@ -146311,11 +148945,13 @@ Workfront Guide
 
 Delete proof comments
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -146420,6 +149056,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -146739,6 +149377,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -146874,6 +149514,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -147152,6 +149794,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -147541,11 +150185,11 @@ Workfront Guide
 
 Delete timesheet profiles
 
-Last update: August 25, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Timesheets
+Administration
 
 CREATED FOR:
 
@@ -147903,11 +150547,13 @@ Workfront Guide
 
 Delete users
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -148090,6 +150736,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -148297,11 +150945,13 @@ Workfront Guide
 
 Design a form: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -148559,13 +151209,15 @@ Workfront Guide
 
 Designating Temporary Proof Owners in Workfront Proof
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -149007,11 +151659,13 @@ Workfront Guide
 
 Diagnostics
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -149095,11 +151749,13 @@ Workfront Guide
 
 Differences between the Web Proofing Viewer and the Desktop Proofing Viewer overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -149705,13 +152361,19 @@ Workfront Guide
 
 Disable document integrations
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+System Setup and Administration
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -149877,11 +152539,11 @@ Workfront Guide
 
 Disable sharing proof via public URL or embed code
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -149977,11 +152639,13 @@ Workfront Guide
 
 Disable the auto-upgrade option for non-paid users
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -150077,13 +152741,15 @@ Workfront Guide
 
 Display items in the worklist in the Home area
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -150451,11 +153117,13 @@ Workfront Guide
 
 Display projects in Adobe Workfront View
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -150565,7 +153233,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -150614,6 +153282,8 @@ Last update: April 1, 2026
 Topics:
 
 Work management
+
+Resource management
 
 CREATED FOR:
 
@@ -150685,7 +153355,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -150857,11 +153527,11 @@ Workfront Guide
 
 Document management overview for projects and related objects
 
-Last update: August 10, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Work Management
+Work management
 
 CREATED FOR:
 
@@ -151173,11 +153843,11 @@ Workfront Guide
 
 Document reprocessing for proofing overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -151265,13 +153935,15 @@ Workfront Guide
 
 Document Webhooks API
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 APIs
 
 Integrations
+
+Workfront API
 
 CREATED FOR:
 
@@ -152373,11 +155045,13 @@ Workfront Guide
 
 Documents: article index
 
-Last update: August 26, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -152417,13 +155091,15 @@ Workfront Guide
 
 Domain format for Adobe Workfront API calls
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 APIs
 
 Administration
+
+Workfront API
 
 CREATED FOR:
 
@@ -152522,6 +155198,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -152647,13 +155325,11 @@ Workfront Guide
 
 Download Files Stored in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -152787,11 +155463,13 @@ Workfront Guide
 
 Download proof versions
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -152883,13 +155561,11 @@ Workfront Guide
 
 Downloading a Proof in the proofing viewer
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -152935,11 +155611,13 @@ Workfront Guide
 
 Downloading Your Workfront Proof Invoice
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -153062,6 +155740,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -153201,9 +155881,19 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 IMPORTANT
 
@@ -153322,6 +156012,28 @@ icon
 in the toolbar at the bottom of the page.
 
 An identical record with an identical name is created underneath the original record. All fields of the new record are populated with the same information as in the original record.
+
+(Conditional) If the record you are duplicating is connected to a record in a One to one or a One to many connection type, click one of the following, depending on the environment you are using:
+
+In the Production environment, click
+
+Connect
+
+to remove the connected record from the original and add it to the duplicated record, or click
+
+Cancel
+
+if you do not want to continue duplicating the record.
+
+In the Preview environment, click
+
+Connect to the new record
+
+if you want the connected record to be moved to the new record, or click
+
+Keep on the original
+
+if you want the connected record to remain on the original. The duplicated record will not have a connected record in that field.
 
 (Optional) Start updating information about the new record in the fields available in the table view, or click the record and update information in the record preview or page.
 
@@ -153883,6 +156595,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -154171,6 +156885,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -154340,6 +157056,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -154694,6 +157412,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -155191,6 +157911,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -155373,6 +158095,16 @@ Build a table report
 
 .
 
+To edit filters or groupings, see
+
+Filter a report in a Canvas Dashboard
+
+and
+
+Group report data in a Canvas Dashboard
+
+.
+
 Click
 
 Save
@@ -155454,6 +158186,8 @@ Topics:
 Work management
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -155633,13 +158367,15 @@ Workfront Guide
 
 Edit a user’s profile
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -156405,6 +159141,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -156951,6 +159689,8 @@ Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
@@ -157361,6 +160101,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -157475,17 +160217,27 @@ Workfront Guide
 
 Edit and create risk types
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
 Admin
+
+The information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 Adobe Workfront has a number of default risk types that you can associate with projects in the planning phase to identify potential obstacles prior to the approval of any work.
 
@@ -157573,9 +160325,7 @@ Click the
 
 Edit
 
-icon
-
-.
+icon.
 
 The
 
@@ -157609,9 +160359,7 @@ Save Changes.
 
 Delete
 
-icon
-
-, then click
+icon, then click
 
 Yes, Delete It
 
@@ -157621,9 +160369,7 @@ Yes, Delete It
 
 Export
 
-icon
-
-. You can export to the following file types:
+icon. You can export to the following file types:
 
 PDF
 
@@ -157633,11 +160379,15 @@ Excel (xlsx)
 
 Tab Delimited
 
+CSV
+
 note tip
 
 TIP
 
-You can first select a limited number of risk types, and then export them for a smaller list.
+In the Production environment, you can first select a limited number of risk types, and then export them for a smaller list.
+
+This capability has been removed from the Preview environment.
 
 Create risk types
 
@@ -157762,6 +160512,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -158007,6 +160759,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -158148,6 +160902,8 @@ Topics:
 Administration
 
 Integrations
+
+Work management
 
 CREATED FOR:
 
@@ -158662,6 +161418,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -160039,6 +162797,8 @@ Work management
 
 Administration
 
+Strategic Planning
+
 CREATED FOR:
 
 User
@@ -160404,6 +163164,8 @@ Topics:
 Work management
 
 Administration
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -160801,6 +163563,8 @@ CREATED FOR:
 
 User
 
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
+
 You can edit project templates to reflect changes in the processes and settings of future projects.
 
 After you update and save the changes on a template, the new changes are visible in new projects when the projects are created using the template.
@@ -160963,7 +163727,7 @@ Overview
 
 Update the following fields:
 
-table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 8-row-2 9-row-2 10-row-2 11-row-2 12-row-2 layout-auto html-authored no-header
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 8-row-2 9-row-2 10-row-2 11-row-2 12-row-2 13-row-2 layout-auto html-authored no-header
 
 Description
 
@@ -161096,6 +163860,16 @@ Though this field is available in templates only in the new Adobe Workfront expe
 Company
 
 Specify the Company that you want to associate with the template. Only active companies display in the list.
+
+Frame.io workspace (Conditional)
+
+In an Adobe cloud storage project, select the Frame.io workspace that you want projects created from this template to use. If your organization has multiple Frame.io workspaces, this determines which workspace the linked Frame.io project is created in.
+
+The list includes only the Frame.io workspaces you have permission to assign projects to. The default workspace used when no workspace is selected or available.
+
+You can change this field on the template at any time. Changes apply only to projects created after the change; projects already created from the template keep their existing Frame.io workspace.
+
+Note: You must have Frame.io enterprise to use the Frame.io workspace field.
 
 Template Owner
 
@@ -163883,11 +166657,13 @@ Workfront Guide
 
 Edit proof comments
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -163999,11 +166775,13 @@ Workfront Guide
 
 Edit proof settings
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -164139,11 +166917,13 @@ Workfront Guide
 
 Edit proof stages and reviewers
 
-Last update: June 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -164389,11 +167169,21 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 IMPORTANT
 
@@ -164603,6 +167393,24 @@ CTRL+K for Windows
 
 ⌘+K for Mac
 
+(Optional) To add, edit, deactivate or delete record type business rules, go to the record type page and click the
+
+More
+
+menu to the right of the record type name, then click
+
+Business rules
+
+.
+
+Business rules are conditions set on the record type that define when records of that type can be edited or deleted.
+
+For information, see
+
+Create record types business rules
+
+.
+
 recommendation-more-help
 
 workfront-help-quicksilver
@@ -164628,6 +167436,8 @@ Topics:
 Administration
 
 Integrations
+
+Work management
 
 CREATED FOR:
 
@@ -165408,462 +168218,6 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
-# FILE: edit-report-filters-in-a-canvas-dashboard-adobe-workfront.md
----
-
-Edit report filters in a Canvas Dashboard | Adobe Workfront
-
-Documentation
-
-Workfront
-
-Workfront Guide
-
-Edit report filters in a Canvas Dashboard
-
-Last update: April 1, 2026
-
-Topics:
-
-Administration
-
-CREATED FOR:
-
-User
-
-IMPORTANT
-
-The Canvas Dashboards feature is currently only available for users participating in the beta stage. Parts of the feature may not be complete or work as intended during this stage. Please submit any feedback regarding your experience by following the instructions in the
-
-Provide feedback
-
-section in the Canvas Dashboards beta overview article.
-
-If you have feedback regarding a possible bug or technical issue, please submit a ticket to Workfront Support. For more information, see
-
-Contact Customer Support
-
-.
-
-Please note that this beta is not available on the following cloud providers:
-
-Bring Your Own Key for Amazon Web Services
-
-Azure
-
-Google Cloud Platform
-
-You can edit report filters once you’ve applied them to a Canvas Dashboard to update the data that displays as a project progresses.
-
-Access Requirements
-
-Expand to view access requirements for the functionality in this article.
-
-table 0-row-2 1-row-0 2-row-2 3-row-2 4-row-2 layout-auto html-authored no-header
-
-Adobe Workfront package
-
-Any
-
-Adobe Workfront license
-
-Standard
-
-Plan
-
-Access level configurations
-
-Edit access to Reports, Dashboards, and Calendars
-
-Object permissions
-
-Manage permissions for the dashboard
-
-For more detail about the information in this table, see
-
-Access requirements in Workfront documentation
-
-.
-
-Prerequisites
-
-You must add a filter to a report before it can be edited.
-
-Edit a report filter
-
-NOTE
-
-There are many available configuration tools for building and editing a report filter. For more information on these tools, see the following section in this article:
-
-Considerations when editing a report filter
-
-.
-
-Click the
-
-Main Menu
-
-icon
-
-in the upper-left corner of Adobe Workfront, then click
-
-Dashboards
-
-.
-
-In the left panel, click
-
-Canvas Dashboards
-
-.
-
-On the
-
-Canvas Dashboards
-
-page, click the
-
-More
-
-icon in the upper-right corner of the report that contains the filter you want to edit, then select
-
-Edit
-
-.
-
-On the left side of the
-
-Configure
-
-dialog box, select the
-
-Filters
-
-panel.
-
-Click
-
-Edit filter
-
-.
-
-Select the field or the modifier that you want to edit, then adjust the current selections as needed.
-
-(Optional) Click
-
-Add filter group
-
-to add another set of filtering criteria. The default operator between the sets is AND. Click the operator to change it to OR.
-
-Click
-
-Save
-
-.
-
-Considerations when editing a report filter
-
-Date-based wildcards filter variables
-
-Date-based wildcard options can be used in combination with any date filter attribute. For information about adding a date-based wildcard to a report, see the article
-
-Use date-based wildcards to generalize reports
-
-.
-
-NOTE
-
-If you create a date and time calculation that doesn’t include a time portion, or that uses the date wildcards $$TODAY or $$NOW, the system uses the date according to the Coordinated Universal Time (UTC) zone, not according your local timezone. This can cause an unexpected date result.
-
-You can choose from the following date-based wildcards:
-
-$$TODAY
-
-We recommend that you build date-sensitive filters using this wildcard so you avoid building the filter again tomorrow, next week, or next month.
-
-For example, if you want to display all tasks due before today, you can use the following rule in a task filter:
-
-Planned Start Date Less Than $$TODAY
-
-.
-
-$$TODAY is always equal to midnight for the current day.
-
-$$NOW
-
-This is similar to the $$TODAY wildcard but includes the current date and time. $$NOW is equal to the current date and time.
-
-For example, if you want to display all hour entries provided up to the current time, you can do this by using the following rule in an hour filter:
-
-Planned Start Date Less Than $$NOW
-
-.
-
-Note: This wildcard is not supported in the Resource Planner.
-
-To indicate various periods of time and various points in time (future or past), you can combine the wildcards above with the following:
-
-Attributes
-
-q
-
-calendar quarter
-
-h
-
-hour
-
-d
-
-day
-
-w
-
-week
-
-m
-
-month
-
-y
-
-year
-
-Qualifiers
-
-b
-
-beginning of the period (without a specified attribute, defaults to beginning of the week: Sunday)
-
-e
-
-ending of the period (without a specified attribute, defaults to end of the week: Saturday)
-
-Operators
-
-+
-
-add value to wildcard value
-
--
-
-subtract value from wildcard value
-
-For example, the wildcard
-
-$$TODAYb+2w
-
-refers to “2 weeks from the beginning of this week.” The wildcard *
-
-$$NOW+2h
-
-refers to “2 hours from now.”
-
-Logged-in user wildcard filter variables
-
-When filtering on the user
-
-name
-
-attribute, you will view the
-
-Me (Logged in user)
-
-option.
-
-When filtering on a group
-
-name
-
-attribute, you will view the
-
-My home group (Logged in user group)
-
-and
-
-My other groups (Logged in user groups)
-
-options to use in a filter condition.
-
-When filtering on a team
-
-name
-
-attribute, you will view the
-
-My default team (Logged in user team)
-
-and
-
-My other teams (Logged in user teams)
-
-options to choose from in the filter condition.
-
-Referencing children objects
-
-Available relationships for additional columns, filter options, and grouping attributes are generally limited to objects higher in the Workfront object hierarchy or otherwise have a single selection on the report’s base entity object. There are some exceptions to this, which include the following:
-
-Project > Tasks
-
-Document Approval > Document Approval Stages
-
-Document Approval Stages > Document Approval Stage Participants
-
-When utilizing any of the parent-to-child relationships listed above, you will see a row in the table for each child record connected to the parent object.
-
-Exclude personal projects, tasks, and bot users from Canvas Dashboards reports
-
-NOTE
-
-If a Canvas Dashboards report returns more results than you expect compared to a similar classic report, personal projects, personal tasks, or bot users may be included by default. Add a filter condition to exclude them.
-
-In Canvas Dashboards Project and Task reports, the
-
-isPersonal
-
-filter is not automatically applied, so personal projects and personal tasks are included in the results by default. To exclude them, add a filter condition such as
-
-isPersonal=false
-
-.
-
-Similarly, Canvas Dashboards User reports include all users by default, including AI Collaborators (bot users). To exclude bot users, add a filter condition such as
-
-isBot=false
-
-.
-
-Classic Project and Task reports automatically exclude personal projects and personal tasks, and classic User reports automatically exclude bot users. To include them in a classic report instead, add a filter condition such as
-
-isPersonal=true
-
-(personal items only) or
-
-isPersonal_Mod=notnull
-
-(personal and non-personal items).
-
-Field operators by field type
-
-Expand to view list of field operators by field type.
-
-table 0-row-4 1-row-4 2-row-4 3-row-4 4-row-4 5-row-4 html-authored no-header
-
-Field Type
-
-Example
-
-Operators
-
-Wildcards
-
-Object / Reference Name
-
-Any native name attribute or custom lookup
-
-Equal
-
-Not Equal
-
-Contains
-
-Not Contains
-
-Is Null
-
-Is Not Null
-
-User: Name
-
-Me (Logged in user)
-
-Group: Name
-
-My home group (Logged in user group)
-
-My other groups (Logged in user groups)
-
-Team: Name
-
-My default team (Logged in user team)
-
-My other teams (Logged in user teams)
-
-String / Text Input
-
-Project: Description
-
-Equal
-
-Not Equal
-
-Contains
-
-Not Contains
-
-Is Null
-
-Is Not Null
-
-Integer / Double
-
-Project: Planned Hours
-
-Task: Percent Complete
-
-Equal
-
-Not Equal
-
-Greater Than
-
-Greater Than or Equal
-
-Less Than
-
-Less Than or Equal
-
-Is Null
-
-Is Not Null
-
-Date / Date Time
-
-Project: Planned Start Date
-
-Hour: Entry Date
-
-Equal
-
-Not Equal
-
-By toggling on the
-
-Set relative date
-
-option, you can apply relative date wildcards to make the report more dynamic and self-adjust based on common date periods.
-
-$$TODAY
-
-$$NOW
-
-Boolean
-
-Project: Has Documents
-
-Task: Is Critical
-
-User: Is Active
-
-Equal
-
-Not Equal
-
-recommendation-more-help
-
-workfront-help-quicksilver
-
----
 # FILE: edit-report-settings-adobe-workfront.md
 ---
 
@@ -165882,6 +168236,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -166066,6 +168422,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -168281,6 +170639,8 @@ Topics:
 
 Administration
 
+People Teams and Groups
+
 CREATED FOR:
 
 User
@@ -169437,11 +171797,13 @@ Workfront Guide
 
 Edit the Proof Permission Profile field in Bulk
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -169783,13 +172145,15 @@ Workfront Guide
 
 Edit user profiles in bulk
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -170335,6 +172699,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -170701,11 +173067,13 @@ Workfront Guide
 
 Email alerts
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -170748,6 +173116,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -170805,7 +173175,7 @@ Workfront Guide
 
 Email Spoofing & POP Reply
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -170875,6 +173245,8 @@ Work management
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
@@ -170929,13 +173301,11 @@ Workfront Guide
 
 Embed a Mini proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -171022,6 +173392,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -171328,6 +173700,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -171845,9 +174219,19 @@ Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the monthly releases to Production, the same features are also available in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 For reporting purposes, you might want to create custom quarters if your organization’s quarters are based on specific criteria other than calendar dates (such as business days or shopping days).
 
@@ -171856,6 +174240,12 @@ Depending on what products your company has purchased, you can configure the fol
 Customers who purchased Workfront only, can configure up to eight custom quarters for their Adobe Workfront system.
 
 Customers who purchased Workfront and Workfront Planning, can configure up to 100 quarters for their Workfront system which are also available in Planning.
+
+Customers who purchased Workfront and Workfront Planning, can configure custom weeks for each custom quarter. The custom weeks are visible in the Planning timeline views.
+
+style
+
+highlighted
 
 Access requirements
 
@@ -171882,6 +174272,10 @@ Access requirements in Workfront documentation
 .
 
 Set up custom quarters for your Workfront system
+
+Setting up custom quarters differs depending on which environment you use.
+
+Set up custom quarters for your Workfront system in the Production environment
 
 Click the
 
@@ -171953,6 +174347,146 @@ Manage the timeline view
 
 .
 
+Set up custom quarters for your Workfront system in the Preview environment
+
+NOTE
+
+If your organization purchased a Planning package in addition to a Workflow package, or if they purchased Workfront Planning as a standalone package, you can configure custom weeks, in addition to custom quarters.
+
+Custom weeks are not available for Workfront reports and lists.
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-left corner of Adobe Workfront, then click
+
+Setup
+
+.
+
+Click
+
+Custom Quarters
+
+.
+
+Select
+
+Enable Custom Quarters
+
+.
+
+Type a name for the custom quarter. For example, “Fiscal Q1 2021.”
+
+Select start and end dates for the custom quarter.
+
+(Optional) Select the
+
+Starts a new custom week sequence
+
+option.
+
+When selected, this option sets the start of the custom quarter as the start of the first custom week of the quarter in the Planning timeline view.
+
+(Optional) In the
+
+Custom week label format
+
+area, choose the
+
+Format
+
+for the custom week labels. Choose from the following options:
+
+W1, W2, W3 …
+
+. This is the default format.
+
+FW1, FW2, FW3 …
+
+Week1, Week 2, Week 3, …
+
+Custom
+
+(Conditional) If you selected
+
+Custom
+
+for the
+
+Format
+
+field, type a
+
+Custom label
+
+to identify the custom weeks.
+
+Custom weeks display in Planning timeline views.
+
+note tip
+
+TIP
+
+When adding a custom label, you can type up to 100 characters.
+
+You may indicate the name of the first week, and the following weeks will use the same label followed by a sequential number.
+
+For example, a
+
+Custom label
+
+of “Fiscal week” will add the labels of “Fiscal week 1, Fiscal week 2, Fiscal week 3 …” to the rest of the weeks in the sequence.
+
+(Optional) Click
+
+Add Custom Quarter
+
+to add additional custom quarters to the system.
+
+note important
+
+IMPORTANT
+
+If your company purchased Workfront Planning, you cannot save your custom quarters if there are gaps or overlaps between the quarters.
+
+Gaps and overlaps between the quarters are allowed for Workfront only customers.
+
+(Optional and conditional) To view the custom quarters in Workfront, create a reporting element that refers to the custom quarters.
+
+Example:
+
+Create a filter for a project list and include the Planned Completion Date of a project referencing the custom quarters.
+
+The references to “This Quarter”, “Next Quarter”, and “Last Quarter” are replaced with new references to the custom quarters.
+
+For information about reporting elements, see
+
+Reporting elements: filters, views, and groupings
+
+.
+
+For information about creating filters, see
+
+Create or edit filters in Adobe Workfront
+
+.
+
+(Optional and conditional) To view custom quarters and weeks in Workfront Planning, go to a record type page and open a timeline view. The view displays the new custom quarters and weeks.
+
+For information, see
+
+Manage the timeline view
+
+.
+
+style
+
+highlighted
+
 recommendation-more-help
 
 workfront-help-quicksilver
@@ -171971,11 +174505,13 @@ Workfront Guide
 
 Enable delivery of emails from the Preview Sandbox environment
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -172143,11 +174679,13 @@ Workfront Guide
 
 Enable loop in a video proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -172237,9 +174775,19 @@ Topics:
 
 Administration
 
+Get Started with Workfront
+
 CREATED FOR:
 
 User
+
+IMPORTANT
+
+Beginning in September 2026, AI Assistant is transitioning to CX Coworker, a conversational interface for getting work done. For information on CX Coworker, see
+
+CX Coworker overview
+
+.
 
 As a Workfront Administrator, you can control which users in your organization have AI Assistant enabled. This is managed through access levels.
 
@@ -172393,11 +174941,13 @@ Workfront Guide
 
 Enable or disable fast releases for your organization
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -172885,7 +175435,7 @@ Workfront Guide
 
 Enterprise operations capabilities overview
 
-Last update: May 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -172977,11 +175527,13 @@ Workfront Guide
 
 Environment promotion FAQ
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -173097,11 +175649,13 @@ Workfront Guide
 
 Environment promotion troubleshooting
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -173153,11 +175707,13 @@ Workfront Guide
 
 Error: Auto-provisioned user can’t log in
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -173257,11 +175813,13 @@ Workfront Guide
 
 Error message: Couldn’t validate XML digital signature
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -173437,11 +175995,13 @@ Workfront Guide
 
 Error message: Invalid Parameter: conversion value
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -173531,6 +176091,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -173609,7 +176171,7 @@ Workfront Guide
 
 Error Message on the Adobe Workfront Mobile App: “Your account is not API enabled.”
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -173701,11 +176263,13 @@ Workfront Guide
 
 Error message: SAML 2.0 Authentication Failed: User Identifier Not Found
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -173843,11 +176407,13 @@ Workfront Guide
 
 Error message: SAML 2.0 error: Primary StatusCode
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -174055,11 +176621,13 @@ Workfront Guide
 
 Error Message: SAML 2.0 Error: User Identifier Not Found
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -174167,11 +176735,13 @@ Workfront Guide
 
 Error message: There is a slight problem. That field is used in a multi-form configuration
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -174481,6 +177051,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -174595,11 +177167,13 @@ Workfront Guide
 
 Error: SSO Users are Unable to Log In to Adobe Workfront Due to Various Errors
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -174646,6 +177220,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -175242,6 +177818,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -176851,11 +179429,13 @@ Workfront Guide
 
 Event notifications
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -176959,7 +179539,7 @@ Workfront Guide
 
 Event notifications: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -177067,7 +179647,13 @@ Approval Stage Participant
 
 Assignment
 
+Booking
+
 Company
+
+Custom Field
+
+Custom Form
 
 Dashboard
 
@@ -177082,6 +179668,10 @@ Field
 Hour
 
 Issue
+
+Non-Labor Category
+
+Non-Labor Resource
 
 Note
 
@@ -177112,6 +179702,10 @@ Staffing Plan Resource Attribute Value Set
 Staffing Plan Resource Parameter Value
 
 Task
+
+Team
+
+Team Member
 
 Template
 
@@ -177171,7 +179765,7 @@ String
 
 - The objCode of the object being subscribed to changes. The possible values for objCode are listed in the table below.
 
-table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 8-row-2 9-row-2 10-row-2 11-row-2 12-row-2 13-row-2 14-row-2 15-row-2 16-row-2 17-row-2 18-row-2 19-row-2 20-row-2 21-row-2 22-row-2 23-row-2 24-row-2 25-row-2 26-row-2 27-row-2 28-row-2 29-row-2 30-row-2 31-row-2 layout-auto
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 8-row-2 9-row-2 10-row-2 11-row-2 12-row-2 13-row-2 14-row-2 15-row-2 16-row-2 17-row-2 18-row-2 19-row-2 20-row-2 21-row-2 22-row-2 23-row-2 24-row-2 25-row-2 26-row-2 27-row-2 28-row-2 29-row-2 30-row-2 31-row-2 32-row-2 33-row-2 34-row-2 35-row-2 36-row-2 37-row-2 38-row-2 layout-auto
 
 Object
 
@@ -177193,9 +179787,21 @@ Assignment
 
 ASSGN
 
+Booking
+
+BOOKNG
+
 Company
 
 CMPY
+
+Custom Field
+
+PARAM
+
+Custom Form
+
+CTGY
 
 Dashboard
 
@@ -177224,6 +179830,14 @@ HOUR
 Issue
 
 OPTASK
+
+Non-Labor Category
+
+NLBRCY
+
+Non-Labor Resource
+
+NLBR
 
 Note
 
@@ -177284,6 +179898,14 @@ SRPVAL
 Task
 
 TASK
+
+Team
+
+TEAMOB
+
+Team Member
+
+TEAMMB
 
 Template
 
@@ -178073,6 +180695,20 @@ fieldValue
 
 value is case-sensitive
 
+If
+
+fieldName
+
+refers to an array of objects (for example,
+
+tags
+
+),
+
+fieldValue
+
+can be an object; the filter matches if any element in the array has matching values for the key(s) you specify. Other fields on that element are not considered — this is a partial match, not a full match on the whole object.
+
 {
 
 "objCode": "TASK",
@@ -178098,6 +180734,90 @@ value is case-sensitive
 ]
 
 }
+
+Example: filtering an array-of-objects field
+
+{
+
+"objCode": "NOTE",
+
+"eventType": "UPDATE",
+
+"authToken": "token",
+
+"url": "https://domain-for-subscription.com/API/endpoint/UpdatedNotes",
+
+"filters": [
+
+{
+
+"fieldName": "tags",
+
+"fieldValue": {
+
+"objID": "6229be410016986cfc6eb4b37c618a17"
+
+},
+
+"state": "newState",
+
+"comparison": "contains"
+
+}
+
+]
+
+}
+
+This filter matches NOTE events where the
+
+tags
+
+array contains at least one tag with
+
+objID
+
+equal to
+
+6229be410016986cfc6eb4b37c618a17
+
+— regardless of that tag’s
+
+objCode
+
+or any other fields.
+
+NOTE
+
+When filtering an array-of-objects field (such as
+
+tags
+
+) with
+
+contains
+
+or
+
+notContains
+
+,
+
+fieldValue
+
+only needs to include the keys you care about — for example,
+
+{"objID": "abc123"}
+
+matches any tag with that ID, regardless of its other fields (like
+
+objCode
+
+). This is not a full-object equality check.
+
+containsOnly
+
+does not currently support array-of-object fields.
 
 containsOnly
 
@@ -178169,6 +180889,8 @@ fieldValue
 
 ) .
 
+When used with an array of objects, this returns true only if no element matches the specified key(s).
+
 NOTE
 
 This is used for array-type (multi-select) or string fields. If the field is a string, we will check if the specified value is not contained in the string (for example, “New” is not in the string “Project - Updated”). If the field is an array and the specified field value is a string or integer, we will check if the array does not contain the specified value (for example, “Choice 1” not in [“Choice 2”, “Choice 3”]). The example subscription below allows messages to come through only when the
@@ -178204,6 +180926,38 @@ fields does not contain the string “Group 2”.
 ]
 
 }
+
+NOTE
+
+When filtering an array-of-objects field (such as
+
+tags
+
+) with
+
+contains
+
+or
+
+notContains
+
+,
+
+fieldValue
+
+only needs to include the keys you care about — for example,
+
+{"objID": "abc123"}
+
+matches any tag with that ID, regardless of its other fields (like
+
+objCode
+
+). This is not a full-object equality check.
+
+containsOnly
+
+does not currently support array-of-object fields.
 
 change
 
@@ -180663,6 +183417,20 @@ ownerID
 
 parameterValues
 
+Team Member
+
+TEAMMB
+
+customerID
+
+ID
+
+objCode
+
+teamID
+
+userID
+
 Template
 
 TMPL
@@ -180903,7 +183671,7 @@ Workfront Guide
 
 Event subscription versioning
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -181483,17 +184251,25 @@ Workfront Guide
 
 Example of connecting record types and records
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
 User
 
 Admin
+
+The information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 IMPORTANT
 
@@ -181565,6 +184341,20 @@ Description
 
 : Add a description for the new field. For example, “These are the Products that I want my Campaigns associated with.” The description of the field displays when hovering over the field in the column header.
 
+Make this connection dependent
+
+: When enabled and the two connected records display on a third record at the same time, the choices for one record type are dependent on the choices for the other.
+
+For information, see
+
+Manage dependent connections
+
+.
+
+Create corresponding field on linked record type
+
+: When enabled, a connection field is also created on the record type you are connected to (Product).
+
 Connection type
 
 : Select from the following options:
@@ -181615,9 +184405,15 @@ Image
 
 : Displays only the thumbnail or the icon of the connected records.
 
-Select lookup fields
+Color and name
 
-: If you leave this option selected, the
+: Displays only the color and the name of the connected records
+
+Lookup fields
+
+: Expand this option to also connect lookup fields from the connected records.
+
+The
 
 Add lookup fields
 
@@ -181627,15 +184423,11 @@ Skip
 
 to skip this step and add Product fields later.
 
-(Conditional) If you selected the
+(Conditional) If you opened the
 
-Select lookup fields option
+Add lookup fields
 
-in the previous step, from the list of fields associated with the
-
-Product
-
-record type, click the
+box, click the
 
 +
 
@@ -182085,11 +184877,13 @@ Workfront Guide
 
 Examples of advanced logic in custom forms
 
-Last update: July 10, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -182255,11 +185049,13 @@ Workfront Guide
 
 Examples of the External lookup field in a custom form
 
-Last update: August 7, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -182701,11 +185497,13 @@ Workfront Guide
 
 Exchange rates
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -182738,6 +185536,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -182931,6 +185731,8 @@ Topics:
 
 Administration
 
+Get Started with Workfront
+
 CREATED FOR:
 
 User
@@ -183053,11 +185855,15 @@ Workfront Guide
 
 Export a list of groups
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -183427,6 +186233,8 @@ Topics:
 
 Administration
 
+Get Started with Workfront
+
 CREATED FOR:
 
 User
@@ -183614,6 +186422,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -184149,11 +186959,13 @@ Workfront Guide
 
 Export data from Workfront via Kick-Starts
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -184725,6 +187537,8 @@ Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
@@ -185024,6 +187838,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -185567,6 +188383,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -185709,11 +188527,13 @@ Workfront Guide
 
 External user license type missing from access levels
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -185795,11 +188615,13 @@ Workfront Guide
 
 FAQ - Create and share proofs and files
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -186019,11 +188841,11 @@ Workfront Guide
 
 FAQ - Desktop Proofing Viewer
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -186085,11 +188907,11 @@ Workfront Guide
 
 FAQ: proofing within Adobe Workfront - US to EMEA migration
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -186149,11 +188971,13 @@ Workfront Guide
 
 FAQ - Review proofs
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -186327,11 +189151,13 @@ Workfront Guide
 
 FAQ - Workfront Proof account
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -186479,11 +189305,13 @@ Workfront Guide
 
 FAQ: Workfront Proof - US to EMEA migration
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -186559,7 +189387,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -186715,7 +189543,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -186777,11 +189605,13 @@ Workfront Guide
 
 File encryption
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -186816,6 +189646,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -187182,6 +190014,176 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
+# FILE: filter-a-report-in-a-canvas-dashboard-adobe-workfront.md
+---
+
+Filter a report in a Canvas Dashboard | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Filter a report in a Canvas Dashboard
+
+Last update: September 25, 2026
+
+Topics:
+
+Administration
+
+Reports and dashboards
+
+CREATED FOR:
+
+User
+
+IMPORTANT
+
+The Canvas Dashboards feature is currently only available for users participating in the beta stage. Parts of the feature may not be complete or work as intended during this stage. Please submit any feedback regarding your experience by following the instructions in the
+
+Provide feedback
+
+section in the Canvas Dashboards beta overview article.
+
+If you have feedback regarding a possible bug or technical issue, please submit a ticket to Workfront Support. For more information, see
+
+Contact Customer Support
+
+.
+
+Please note that this beta is not available on the following cloud providers:
+
+Bring Your Own Key for Amazon Web Services
+
+Azure
+
+Google Cloud Platform
+
+You can filter a report to control which data displays, both while you build the report and any time afterward. The filtering options and behavior are the same in either case.
+
+Access Requirements
+
+Expand to view access requirements for the functionality in this article.
+
+table 0-row-2 1-row-0 2-row-2 3-row-2 4-row-2 layout-auto html-authored no-header
+
+Adobe Workfront package
+
+Any
+
+Adobe Workfront license
+
+Standard
+
+Plan
+
+Access level configurations
+
+Edit access to Reports, Dashboards, and Calendars
+
+Object permissions
+
+Manage permissions for the dashboard
+
+For more detail about the information in this table, see
+
+Access requirements in Workfront documentation
+
+.
+
+Prerequisites
+
+You must have a report on a dashboard, or be building one, before you can filter it. For more information, see
+
+Create a Canvas Dashboard
+
+.
+
+Add or edit a report filter
+
+To add or edit a filter on a report:
+
+Open the report’s filter panel:
+
+If you’re building a report, click the
+
+Filter
+
+icon in the left panel of the
+
+Configure
+
+dialog box.
+
+If you’re editing an existing report, click the
+
+More
+
+icon in the upper-right corner, select
+
+Edit
+
+, then click the
+
+Filters
+
+panel in the
+
+Configure
+
+dialog box.
+
+Click
+
+Edit filter
+
+.
+
+Click
+
+Add condition
+
+, then define the condition:
+
+Click
+
+Pick Field
+
+, then select the field you want to filter by.
+
+Select the modifier that defines what kind of condition the field must meet.
+
+Type or select the value to evaluate against, if the modifier requires one.
+
+(Optional) Repeat the previous step to add more conditions.
+
+(Optional) Click
+
+Add filter group
+
+to add another set of filtering criteria. The default operator between the sets is AND. Click the operator to change it to OR.
+
+NOTE
+
+For the full list of fields, operators, wildcards, and special filtering rules, see
+
+Report filter reference for Canvas Dashboards
+
+.
+
+Click
+
+Save
+
+.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
 # FILE: filter-and-condition-modifiers-adobe-workfront.md
 ---
 
@@ -187199,7 +190201,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -187781,6 +190783,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -188037,11 +191041,13 @@ Workfront Guide
 
 Filter buttons do not display in page headers
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -188199,6 +191205,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -188295,6 +191303,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -188386,6 +191396,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -188523,6 +191535,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -188635,6 +191649,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -188738,6 +191754,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -188901,6 +191919,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -189032,6 +192052,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -189391,6 +192413,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -189490,6 +192514,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -189594,6 +192620,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -189709,11 +192737,13 @@ Workfront Guide
 
 Filter, group, and sort your work with Priorities
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -191863,6 +194893,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -191983,11 +195015,13 @@ Workfront Guide
 
 Filter project lists in Adobe Workfront View
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -192096,6 +195130,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -192248,6 +195284,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -192495,11 +195533,13 @@ Workfront Guide
 
 Filters overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -192921,6 +195961,10 @@ Administration
 
 Integrations
 
+Workfront Integrations and Apps
+
+Resource management
+
 CREATED FOR:
 
 User
@@ -193037,13 +196081,15 @@ Workfront Guide
 
 Firewall overview
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -193205,13 +196251,11 @@ Workfront Guide
 
 Folders in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -193285,7 +196329,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -193391,7 +196435,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -193489,7 +196533,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -193701,11 +196745,13 @@ Workfront Guide
 
 Frequently asked questions about Kick-Starts
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -193827,13 +196873,15 @@ Workfront Guide
 
 Functionality available for each object type
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -195401,7 +198449,9 @@ Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -197319,13 +200369,11 @@ Workfront Guide
 
 Generate Proofs in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -197807,15 +200855,25 @@ Workfront Guide
 
 Get help from AI Assistant
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
+Get Started with Workfront
+
 CREATED FOR:
 
 User
+
+IMPORTANT
+
+Beginning in September 2026, AI Assistant is transitioning to CX Coworker, a conversational interface for getting work done. For information on CX Coworker, see
+
+CX Coworker overview
+
+.
 
 AI Assistant can locate information from Workfront documentation, eliminating the need for you to visit Adobe Experience League to get the help you need.
 
@@ -197903,11 +200961,13 @@ Workfront Guide
 
 Get started with Adobe Workfront administration: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -198173,6 +201233,14 @@ User
 
 Admin
 
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
 IMPORTANT
 
 The information in this article refers to Adobe Workfront Planning. Workfront Planning is either a standalone product, or an additionally purchased capability of Adobe Workfront.
@@ -198379,6 +201447,14 @@ Adobe Workfront Planning AI Assistant overview
 
 : With the Workfront AI Assistant for Planning you can search for records, or create, update, and delete records by using commands and letting the assistant do the work for you.
 
+Adobe Workfront Planning CX Coworker overview
+
+: A conversational interface where you describe a goal in plain language, and then it plans, executes, and validates the work across your Workfront Planning and other connected Adobe systems before bringing it back for your approval. The CX Coworker preserves everything AI Assistant does today while adding more powerful end-to-end capabilities in both a new full-screen experience and the Workfront right rail.
+
+style
+
+highlighted
+
 Adobe Workfront Planning modules for Workfront Fusion
 
 : With the Adobe Workfront Planning modules, you can trigger a scenario when events occur in Workfront Planning. You can also create, read, update, and delete records, or perform a custom API call to your Adobe Workfront Planning account. You must purchase an additional license to have access to Workfront Fusion.
@@ -198413,11 +201489,11 @@ Workfront Guide
 
 Get started with Adobe Workfront Planning as a standalone product
 
-Last update: July 16, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -198619,11 +201695,13 @@ Workfront Guide
 
 Get started with Adobe Workfront View
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -198749,7 +201827,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Agile
+Work management
 
 CREATED FOR:
 
@@ -198816,6 +201894,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -199254,6 +202334,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -199925,6 +203007,8 @@ Administration
 
 Integrations
 
+Get Started with Workfront
+
 CREATED FOR:
 
 User
@@ -200168,6 +203252,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -200865,13 +203951,13 @@ Workfront Guide
 
 Get started with Resource Management
 
-Last update: August 20, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
 
 CREATED FOR:
 
@@ -200911,7 +203997,7 @@ To schedule or assign resources to actual work (tasks and issues), use the follo
 
 The Workload Balancer
 
-: This belongs to a lower-level stage of resource management, where you can assign your resources to the actual work (tasks and issues) that they must complete, based on the amount of hours needed to complete them and their availability. Using the Workload Balancer you can assign users or Task Collaborators to actual work that is currently unassigned or assigned to job roles.
+: This belongs to a lower-level stage of resource management, where you can assign your resources to the actual work (tasks and issues) that they must complete, based on the amount of hours needed to complete them and their availability. Using the Workload Balancer you can assign users or Work Agents to actual work that is currently unassigned or assigned to job roles.
 
 For information about the Workfront Balancer, see
 
@@ -200965,11 +204051,11 @@ Create and manage job roles
 
 .
 
-Task Collaborators
+Work Agents
 
-For more information about creating Task Collaborators, see
+For more information about creating Work Agents, see
 
-Configure a Task Collaborator
+Configure a Work Agent
 
 in the article
 
@@ -201245,7 +204331,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Goals
+Administration
 
 CREATED FOR:
 
@@ -201469,13 +204555,13 @@ Workfront Guide
 
 Get started with the Adobe Express and Workfront with Frame.io integration
 
-Last update: July 9, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Workfront Integrations and Apps
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -201609,11 +204695,21 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 IMPORTANT
 
@@ -201635,7 +204731,11 @@ Get started with Adobe Workfront Planning
 
 You can use the Adobe Planning Designer powered by AI to configure your workspaces and data structures with ease. The Planning Designer supports everything from creating and configuring workspaces to defining fields and formulas, managing records, reviewing change history and building custom views.
 
-Whether used directly or through the AI Assistant, the Planning Designer provides a flexible, powerful environment for building and maintaining structured, connected information.
+Whether used directly, through the AI Assistant, or
+
+the CX Coworker
+
+, the Planning Designer provides a flexible, powerful environment for building and maintaining structured, connected information.
 
 For information about Workfront Planning, see the following articles:
 
@@ -201644,6 +204744,12 @@ General information and article index for Adobe Workfront Planning
 Get started with Adobe Workfront Planning
 
 Adobe Workfront Planning access overview
+
+For information about AI Assistant and CX Coworker in Planning, see the following articles:
+
+Adobe Workfront Planning AI Assistant overview
+
+Adobe Workfront Planning CX Coworker overview
 
 Access requirements
 
@@ -201829,9 +204935,17 @@ You must sign the Beta agreement to access the Planning Designer.
 
 Your Workfront Administrator must turn on the Planning Designer for your organization. After this, the Planning Designer is available for all users, by default.
 
-If your organization has signed an AI agreement, the actions performed by the Planning Designer can also be performed by the AI Assistant, when you use it in the Planning area.
+If your organization has signed an AI agreement, the actions performed by the Planning Designer can also be performed by the AI Assistant or
 
-The actions performed by the AI Assistant in the Planning area or those performed by the Planning Designer are in the context of your Workfront Planning permissions and your Workfront access level.
+the CX Coworker
+
+, when you use it in the Planning area.
+
+The actions performed by the AI Assistant or
+
+the CX Coworker
+
+in the Planning area or those performed by the Planning Designer are in the context of your Workfront Planning permissions and your Workfront access level.
 
 For information, see the following articles:
 
@@ -201839,7 +204953,11 @@ Overview of sharing permissions in Adobe Workfront Planning
 
 License type overview when using Adobe Workfront Planning
 
-Changes made by the AI Assistant or the Planning Designer on the user’s behalf are tracked in the record’s history panel.
+Changes made by the AI Assistant,
+
+CX Coworker
+
+or the Planning Designer on the user’s behalf are tracked in the record’s history panel.
 
 Actions done by the Planning Designer are permanent and could be irreversible. For example, deleting a field cannot be reversed. Review all actions that are proposed by the Designer before accepting them.
 
@@ -201853,7 +204971,11 @@ When you create workspaces and record types using the Planning Designer, views a
 
 Functionality currently available for the Planning Designer
 
-You can use either the Planning Designer or the AI Assistant to perform any of the following actions:
+You can use either the Planning Designer or the AI Assistant or
+
+the CX Coworker
+
+to perform any of the following actions:
 
 Create and configure workspaces
 
@@ -201901,7 +205023,11 @@ Use Form Fill powered by AI to fill in a request using prompts or documents
 
 Create or update objects using the Planning Designer
 
-You can create or update objects in Workfront Planning either by using the Planning Designer, or the AI Assistant, unless otherwise specified.
+You can create or update objects in Workfront Planning either by using the Planning Designer, or the AI Assistant or
+
+the CX Coworker
+
+, unless otherwise specified.
 
 Log in to Workfront, then click the
 
@@ -201937,7 +205063,11 @@ Planning Designer
 
 window opens.
 
-In the space provided, start typing prompts for the AI Assistant, then click Enter when you are done.
+In the space provided, start typing prompts for the AI Assistant
+
+the CX Coworker
+
+, then click Enter when you are done.
 
 For example, you may type prompts similar to the ones below:
 
@@ -202035,9 +205165,13 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
+
+Admin
 
 IMPORTANT
 
@@ -202911,13 +206045,17 @@ Workfront Guide
 
 Get started with the GenStudio for Performance Marketing and Workfront Proof integration
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -203085,13 +206223,17 @@ Workfront Guide
 
 Get started with the Adobe Express and Workfront Proof integration
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -203219,7 +206361,7 @@ Workfront Guide
 
 Get started with the Scenario Planner
 
-Last update: May 13, 2026
+Last update: September 29, 2026
 
 Topics:
 
@@ -203283,8 +206425,6 @@ Scenarios
 
 The Workfront Scenario Planner displays.
 
-note important
-
 IMPORTANT
 
 The Workfront Scenario Planner contains the plans you created. If you need to see another user’s plan, they must share the URL of that plan with you.
@@ -203340,10 +206480,10 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
-# FILE: get-started-with-the-workfront-content-reviewer-adobe-workfront.md
+# FILE: get-started-with-the-workfront-ai-reviewer-adobe-workfront.md
 ---
 
-Get started with the Workfront Content Reviewer | Adobe Workfront
+Get started with the Workfront AI Reviewer | Adobe Workfront
 
 Documentation
 
@@ -203351,7 +206491,7 @@ Workfront
 
 Workfront Guide
 
-Get started with the Workfront Content Reviewer
+Get started with the Workfront AI Reviewer
 
 Last update: April 1, 2026
 
@@ -203361,19 +206501,21 @@ Work management
 
 Administration
 
+Resource management
+
 CREATED FOR:
 
 User
 
-Content Reviewer is an AI Collaborator—a type of AI agent that can be added to your projects, tasks, and documents. AI Collaborators can be configured in the Setup area and assigned just like users.
+AI Reviewer is an AI Collaborator—a type of AI agent that can be added to your projects, tasks, and documents. AI Collaborators can be configured in the Setup area and assigned just like users.
 
-In Workfront, Content Reviewer helps increase content velocity and improve brand compliance throughout the review and approval process. You can add Content Reviewers to approval templates or include them in individual review and approval requests.
+In Workfront, AI Reviewer helps increase content velocity and improve brand compliance throughout the review and approval process. You can add AI Reviewers to approval templates or include them in individual review and approval requests.
 
 Access requirements
 
-To set up Content Reviewers in Workfront, you must be a system administrator.
+To set up AI Reviewers in Workfront, you must be a system administrator.
 
-Any user can add the Content Reviewer to a review and approval request.
+Any user can add the AI Reviewer to a review and approval request.
 
 Requirements
 
@@ -203381,7 +206523,7 @@ Your Workfront instance must have Unified Approvals enabled.
 
 Your organization must have GenStudio Foundation.
 
-Content Reviewer in Workfront provides the functionality available in GenStudio Foundation for asset review and approval workflows. You do not need to access GenStudio Foundation directly to complete your work. Your access to GenStudio Foundation functionality through Content Reviewer falls under the terms of your Workfront contract.
+AI Reviewer in Workfront provides the functionality available in GenStudio Foundation for asset review and approval workflows. You do not need to access GenStudio Foundation directly to complete your work. Your access to GenStudio Foundation functionality through AI Reviewer falls under the terms of your Workfront contract.
 
 Adobe must have a signed Adobe Gen AI agreement on file.
 
@@ -203391,13 +206533,13 @@ Sign the Adobe Gen AI agreement
 
 .
 
-Content Reviewer is not available in Sandbox environments.
+AI Reviewer is not available in Sandbox environments.
 
 Supported file types
 
 supported-file-types-ai-reviewer
 
-The Content Reviewer can review the following file types:
+The AI Reviewer can review the following file types:
 
 PNG (.png)
 
@@ -203413,35 +206555,35 @@ PPT (.ppt, .pptx)
 
 DOC (.doc, .docx)
 
-If you upload an unsupported file type, the Content Reviewer option will not be available when creating an approval workflow.
+If you upload an unsupported file type, the AI Reviewer option will not be available when creating an approval workflow.
 
 Set up brand guidelines
 
-The Workfront Content Reviewer uses the brand guidelines when reviewing your content. Workfront administrators can set up brand guidelines in the Workfront Setup area. Brands created in GenStudio Foundation are also available in Workfront.
+The Workfront AI Reviewer uses the brand guidelines when reviewing your content. Workfront administrators can set up brand guidelines in the Workfront Setup area. Brands created in GenStudio Foundation are also available in Workfront.
 
 To set up brand guidelines, system administrators must:
 
 Grant access to brand permissions
 
-Create and manage brands for the Content Reviewer
+Create and manage brands for the AI Reviewer
 
 .
 
-Create Content Reviewers
+Create AI Reviewers
 
-Once at least one brand is set up, Workfront administrators can begin creating Content Reviewers in the Setup area. You can create multiple Content Reviewers focused on different guidelines:
+Once at least one brand is set up, Workfront administrators can begin creating AI Reviewers in the Setup area. You can create multiple AI Reviewers focused on different guidelines:
 
 Image
 
-: This Content Reviewer will review the asset against the image brand guidelines you set up in Workfront. [Beta]{class="badge positive" title="This feature is currently in beta."}
+: This AI Reviewer will review the asset against the image brand guidelines you set up in Workfront. [Beta]{class="badge positive" title="This feature is currently in beta."}
 
 System administrators must sign the beta agreement to enable this feature.
 
 Brand voice
 
-: The Content Reviewer will review the asset against brand voice guidelines you set up in Workfront.
+: The AI Reviewer will review the asset against brand voice guidelines you set up in Workfront.
 
-Content Reviewers can then be assigned to approval templates and individual review and approval requests.
+AI Reviewers can then be assigned to approval templates and individual review and approval requests.
 
 For more information, see
 
@@ -203449,15 +206591,15 @@ Configure AI Collaborators
 
 .
 
-What Content Reviewer evaluates
+What AI Reviewer evaluates
 
-what-content-reviewer-evaluates
+what-ai-reviewer-evaluates
 
-The Content Reviewer evaluates content differently depending on the guideline type: Image or Brand voice.
+The AI Reviewer evaluates content differently depending on the guideline type: Image or Brand voice.
 
 Image
 
-Content Reviewer evaluates:
+AI Reviewer evaluates:
 
 Composition
 
@@ -203471,7 +206613,7 @@ Diversity & inclusion
 
 : Representation of people (race, gender, age, ability)
 
-Content Reviewer does not evaluate:
+AI Reviewer does not evaluate:
 
 Logo usage
 
@@ -203495,7 +206637,7 @@ Accessibility
 
 Brand voice
 
-Content Reviewer evaluates:
+AI Reviewer evaluates:
 
 Tone of voice
 
@@ -203509,27 +206651,27 @@ Messaging
 
 : Encouragement, honesty, responsible positioning (for example, for AI topics)
 
-Content Reviewer does not evaluate:
+AI Reviewer does not evaluate:
 
 Legal/compliance
 
 : Trademark usage, disclaimers, localization rules
 
-For guidance on writing brand guidelines that align with what the Content Reviewer evaluates, see
+For guidance on writing brand guidelines that align with what the AI Reviewer evaluates, see
 
-Create and manage brands for the Content Reviewer
+Create and manage brands for the AI Reviewer
 
 .
 
-Add Content Reviewers to review and approval requests
+Add AI Reviewers to review and approval requests
 
-Users can add Content Reviewers to existing approval templates or to individual review and approval requests.
+Users can add AI Reviewers to existing approval templates or to individual review and approval requests.
 
 Approval templates
 
 If your organization often adds the same people to review and approval requests, Standard license users can create approval templates in the Workfront Setup area.
 
-Users can add Content Reviewers to approval templates to automatically check for brand compliance when a template is used to create a request.
+Users can add AI Reviewers to approval templates to automatically check for brand compliance when a template is used to create a request.
 
 Once created, approval templates can be applied to assets in the Documents area of a project, task, or issue.
 
@@ -203541,7 +206683,7 @@ Create an approval workflow template for documents
 
 Individual review and approval request
 
-When users create individual review and approval requests, they can add a Content Reviewer in with other participants or they can create a single request with only the Content Reviewer to check for brand compliance.
+When users create individual review and approval requests, they can add an AI Reviewer in with other participants or they can create a single request with only the AI Reviewer to check for brand compliance.
 
 For more information, see
 
@@ -203549,9 +206691,9 @@ Create a document approval workflow
 
 .
 
-View Content Reviewer score and feedback
+View AI Reviewer score and feedback
 
-Seconds after the review and approval request with a Content Reviewer is submitted, the score and feedback from the Content Reviewer is available in the Document Summary panel–even if other participants are still reviewing and making decisions.
+Seconds after the review and approval request with an AI Reviewer is submitted, the score and feedback from the AI Reviewer is available in the Document Summary panel–even if other participants are still reviewing and making decisions.
 
 Approval owners also receive an email notifying them that a review has been completed on the asset. From the email, click
 
@@ -203559,13 +206701,13 @@ Go to review
 
 and see the score and feedback in Workfront.
 
-The Content Reviewer is not designed to be a decision-maker in the review and approval workflow. It only provides a score and recommendations to align the asset with the specified brand requirements.
+The AI Reviewer is not designed to be a decision-maker in the review and approval workflow. It only provides a score and recommendations to align the asset with the specified brand requirements.
 
-If the asset does not meet brand guidelines, the creative can upload a new version and the approval owner can create a second review and approval request with the Content Reviewer.
+If the asset does not meet brand guidelines, the creative can upload a new version and the approval owner can create a second review and approval request with the AI Reviewer.
 
 For more information on viewing scores and feedback, see
 
-View Content Reviewer score and feedback
+View AI Reviewer score and feedback
 
 .
 
@@ -203594,6 +206736,8 @@ Topics:
 Administration
 
 Integrations
+
+Work management
 
 CREATED FOR:
 
@@ -204019,9 +207163,9 @@ Last update: April 1, 2026
 
 Topics:
 
-Work Management
+Work management
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -204187,7 +207331,7 @@ You can use the Experience Manager Assets​​ to manage and store your digital
 
 For more information, see
 
-Use the Adobe Experience Manager with the Frame.io integration
+Use Adobe Experience Manager with Workfront and Adobe cloud storage
 
 .
 
@@ -204209,11 +207353,13 @@ Workfront Guide
 
 Getting started with Workfront Proof: article index
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -204263,7 +207409,9 @@ Work management
 
 Administration
 
-Resource Management
+Resource management
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -208291,7 +211439,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Goals
+Administration
 
 CREATED FOR:
 
@@ -208345,7 +211493,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Goals
+Administration
 
 CREATED FOR:
 
@@ -208475,7 +211623,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Goals
+Administration
 
 CREATED FOR:
 
@@ -208719,11 +211867,13 @@ Workfront Guide
 
 Grant a user full administrative access
 
-Last update: August 24, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -209323,7 +212473,9 @@ Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -209435,7 +212587,7 @@ Workfront Guide
 
 Grant access to brand permissions
 
-Last update: April 9, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -209481,7 +212633,7 @@ Your Workfront instance must have Unified Approvals enabled.
 
 Your organization must have GenStudio Foundation.
 
-Content Reviewer in Workfront provides the functionality available in GenStudio Foundation for asset review and approval workflows. You do not need to access GenStudio Foundation directly to complete your work. Your access to GenStudio Foundation functionality through Content Reviewer falls under the terms of your Workfront contract.
+AI Reviewer in Workfront provides the functionality available in GenStudio Foundation for asset review and approval workflows. You do not need to access GenStudio Foundation directly to complete your work. Your access to GenStudio Foundation functionality through AI Reviewer falls under the terms of your Workfront contract.
 
 Adobe must have a signed Adobe Gen AI agreement on file.
 
@@ -209705,7 +212857,7 @@ Save
 
 .
 
-Once you have configured Brands, you can create a Content Reviewer to review assets against brand guidelines in the review and approval workflow. For more information, see
+Once you have configured Brands, you can create an AI Reviewer to review assets against brand guidelines in the review and approval workflow. For more information, see
 
 Configure AI Collaborators
 
@@ -209729,11 +212881,13 @@ Workfront Guide
 
 Grant access to documents
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -209939,11 +213093,13 @@ Workfront Guide
 
 Grant access to filters, views, and groupings
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -210069,13 +213225,15 @@ Workfront Guide
 
 Grant access to financial data
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -210311,11 +213469,13 @@ Workfront Guide
 
 Grant access to issues
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -210465,7 +213625,7 @@ Workfront Guide
 
 Grant access to job roles
 
-Last update: May 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -210627,11 +213787,13 @@ Workfront Guide
 
 Grant access to objects in the Home area
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -210823,11 +213985,13 @@ Workfront Guide
 
 Grant access to portfolios
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -210979,11 +214143,13 @@ Workfront Guide
 
 Grant access to programs
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -211150,6 +214316,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -211345,7 +214513,7 @@ Workfront Guide
 
 Grant access to rate cards
 
-Last update: May 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -211477,11 +214645,13 @@ Workfront Guide
 
 Grant access to reports, dashboards, and calendars
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -211665,13 +214835,15 @@ Workfront Guide
 
 Grant access to Resource Management
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -211835,13 +215007,15 @@ Workfront Guide
 
 Grant access to Scenario Planner
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -212023,11 +215197,13 @@ Workfront Guide
 
 Grant access to tasks
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -212185,11 +215361,13 @@ Workfront Guide
 
 Grant access to teams
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -212389,11 +215567,13 @@ Workfront Guide
 
 Grant access to templates
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -212533,11 +215713,13 @@ Workfront Guide
 
 Grant access to users
 
-Last update: June 12, 2026
+Last update: October 1, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -212667,7 +215849,7 @@ Fine-tune your settings
 
 box:
 
-table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 8-row-2 9-row-2 layout-auto html-authored no-header
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 8-row-2 9-row-2 10-row-2 layout-auto html-authored no-header
 
 Create
 
@@ -212741,6 +215923,10 @@ View Cost Rates
 
 Allows users to view cost rates on user profiles.
 
+View Employment History
+
+Allows users to view employment history on user profiles.
+
 View General Finance
 
 Allows users to view general finance fields (not related to billing or cost rates) on user profiles.
@@ -212801,11 +215987,13 @@ Workfront Guide
 
 Grant administrative access for a layout template
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -212937,11 +216125,13 @@ Workfront Guide
 
 Grant and request permissions to objects: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -213023,11 +216213,13 @@ Workfront Guide
 
 Grant users administrative access to certain areas
 
-Last update: August 24, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -213237,6 +216429,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -213393,11 +216587,15 @@ Workfront Guide
 
 Group administrators
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -213647,11 +216845,13 @@ Workfront Guide
 
 Group admins must have higher access than those they manage
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -213689,11 +216889,15 @@ Workfront Guide
 
 Group-level approval processes
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -213720,6 +216924,174 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
+# FILE: group-report-data-in-a-canvas-dashboard-adobe-workfront.md
+---
+
+Group report data in a Canvas Dashboard | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Group report data in a Canvas Dashboard
+
+Last update: September 25, 2026
+
+Topics:
+
+Administration
+
+Reports and dashboards
+
+CREATED FOR:
+
+User
+
+IMPORTANT
+
+The Canvas Dashboards feature is currently only available for users participating in the beta stage. Parts of the feature may not be complete or work as intended during this stage. Please submit any feedback regarding your experience by following the instructions in the
+
+Provide feedback
+
+section in the Canvas Dashboards beta overview article.
+
+If you have feedback regarding a possible bug or technical issue, please submit a ticket to Workfront Support. For more information, see
+
+Contact Customer Support
+
+.
+
+Please note that this beta is not available on the following cloud providers:
+
+Bring Your Own Key for Amazon Web Services
+
+Azure
+
+Google Cloud Platform
+
+Grouping organizes your report results so related records appear together. How grouping works depends on the report type, so this article has a separate section for each.
+
+Access Requirements
+
+Expand to view access requirements for the functionality in this article.
+
+table 0-row-2 1-row-0 2-row-2 3-row-2 4-row-2 layout-auto html-authored no-header
+
+Adobe Workfront package
+
+Any
+
+Adobe Workfront license
+
+Standard
+
+Plan
+
+Access level configurations
+
+Edit access to Reports, Dashboards, and Calendars
+
+Object permissions
+
+Manage permissions for the dashboard
+
+For more detail about the information in this table, see
+
+Access requirements in Workfront documentation
+
+.
+
+Prerequisites
+
+You must have a report on a dashboard, or be building one, before you can group its data. For more information, see
+
+Create a Canvas Dashboard
+
+.
+
+Group rows in a table report
+
+In a table report, grouping organizes the rows of the report itself.
+
+In the
+
+Configure
+
+dialog box, click the
+
+Group Settings
+
+icon in the left panel.
+
+Click
+
+Add grouping
+
+, then select the field you want to group by. The grouping appears in the preview on the right.
+
+(Optional) Repeat to add more groupings.
+
+Configure drilldown groupings in chart and KPI reports
+
+In chart and KPI reports, you don’t group the main visualization. Instead, you configure how the drilldown table is grouped when a viewer drills into a value.
+
+In the
+
+Configure
+
+dialog box, click the
+
+Drilldown Group Settings
+
+icon in the left panel.
+
+Click
+
+Add grouping
+
+, then select the field you want to group the drilldown table by.
+
+Configure segments in a pivot table report
+
+Pivot table reports don’t use groupings. Instead, you define up to two segments, which are the categories the pivot’s metrics are grouped and totaled by.
+
+In the
+
+Configure
+
+dialog box, click the
+
+Segments
+
+icon in the left panel.
+
+Click
+
+Add segment
+
+, then select the field you want. The segment appears as a column in the preview.
+
+(Optional) Repeat to add a second segment. You can add a maximum of two segments.
+
+View grouped data on a dashboard
+
+Report viewers can expand, collapse, and sort grouped data. For more information, see
+
+View reports with grouped data
+
+in
+
+Use Canvas Dashboards
+
+.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
 # FILE: group-roles-adobe-workfront.md
 ---
 
@@ -213733,11 +217105,15 @@ Workfront Guide
 
 Group roles
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -213776,6 +217152,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -213933,6 +217311,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -214040,6 +217420,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -214271,6 +217653,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -214429,6 +217813,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -214575,6 +217961,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -214695,6 +218083,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -214808,6 +218198,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -214936,6 +218328,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -215077,6 +218471,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -215182,6 +218578,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -215290,6 +218688,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -215435,6 +218835,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -215574,6 +218976,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -215727,6 +219131,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -215871,6 +219277,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -216011,11 +219419,15 @@ Workfront Guide
 
 Groups: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -216051,11 +219463,15 @@ Workfront Guide
 
 Groups overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -216433,6 +219849,8 @@ Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
@@ -216533,7 +219951,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -216629,6 +220047,16 @@ When connected record types are part of hierarchies, you can connect one record 
 
 For example, if you create a hierarchy between Campaigns as the parent and Persona as the child record, you can connect the same persona to up to 10 campaigns.
 
+If your organization purchased an Adobe GenStudio for Performance Marketing package, the following scenarios exist:
+
+You cannot connect to GenStudio record types from Planning record types.
+
+You can connect GenStudio record types in the GenStudio workspace.
+
+You can connect GenStudio Brands to GenStudio record types and Planning record types.
+
+You cannot include GenStudio Brands in a hierarchy.
+
 Considerations when viewing breadcrumbs
 
 When you create hierarchies between record types, they generate breadcrumbs for records that belong to those record types.
@@ -216673,7 +220101,7 @@ Workfront Guide
 
 HIPAA Readiness for Workfront
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -216814,6 +220242,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -217021,7 +220451,7 @@ Workfront Guide
 
 Home
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -217053,7 +220483,7 @@ Workfront Guide
 
 Home area widgets
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -217099,11 +220529,11 @@ Workfront Guide
 
 Home enhancements during the Third Quarter 2026 release timeframe
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Product Announcements
+Administration
 
 CREATED FOR:
 
@@ -217159,11 +220589,15 @@ Workfront Guide
 
 Home Groups overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -217256,6 +220690,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -217561,11 +220997,13 @@ Workfront Guide
 
 How access levels work
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -217625,11 +221063,13 @@ Workfront Guide
 
 How group and approval process changes affect assigned approval processes
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -217953,11 +221393,15 @@ Workfront Guide
 
 How groups inherit statuses
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -218073,13 +221517,15 @@ Workfront Guide
 
 How legacy access levels and permissions work together
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -218259,11 +221705,13 @@ Workfront Guide
 
 How legacy access levels work
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -218331,11 +221779,13 @@ Workfront Guide
 
 How to share objects without generating notifications
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -218515,7 +221965,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -218907,6 +222357,8 @@ Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
@@ -218961,7 +222413,7 @@ Importing data this way doesn’t update information on records that already exi
 
 You can import only new records and their information.
 
-Import no more than 2,000 records at a time to ensure that the import does not time out
+Kick-Start imports run in the background, and there is no record limit.
 
 Export a Kick-Start template as a spreadsheet file
 
@@ -219863,7 +223315,7 @@ Choose file
 
 The file uploads automatically, and a notification that the import was successful displays.
 
-If the Excel file takes longer than 5 minutes to upload to Workfront, the application times out and Workfront cannot upload the file. Try importing your data in smaller batches of objects.
+The import runs in the background so that it will not time out. Wait until the import finishes before starting another import or navigating away from the page. If an import is taking too long, you can cancel it.
 
 (Conditional) If the import was not successful, you receive an error message stating what the problem is. Try to identify the field, the sheet, and the row number in which the problem was encountered and correct the information in the Excel file. Then, try importing the file one more time.
 
@@ -219892,6 +223344,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -220519,7 +223973,7 @@ Workfront Guide
 
 Import rate cards from a template
 
-Last update: April 28, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -220997,11 +224451,13 @@ Workfront Guide
 
 Import users
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -221169,7 +224625,7 @@ Workfront Guide
 
 In-app notifications overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -221445,7 +224901,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Scenario Planner
+Administration
 
 CREATED FOR:
 
@@ -221617,6 +225073,8 @@ Topics:
 
 Administration
 
+Get Started with Workfront
+
 CREATED FOR:
 
 User
@@ -221771,7 +225229,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -221832,6 +225290,8 @@ Topics:
 Administration
 
 Integrations
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -221987,11 +225447,15 @@ Workfront Guide
 
 Install Adobe Cloud Drive
 
-Last update: July 6, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -222209,11 +225673,15 @@ Workfront Guide
 
 Install the Adobe Workfront plugin for Creative Cloud Applications
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -222245,13 +225713,15 @@ Workfront Guide
 
 Install Adobe Workfront for Microsoft Teams
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -222489,11 +225959,13 @@ Workfront Guide
 
 Install an environment promotion package
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -222764,6 +226236,10 @@ APIs
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -223045,7 +226521,7 @@ Workfront Guide
 
 Install and open Adobe Workfront for Photoshop
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -223054,6 +226530,10 @@ APIs
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -223323,6 +226803,10 @@ Administration
 
 Integrations
 
+Workfront Integrations and Apps
+
+Resource management
+
 CREATED FOR:
 
 User
@@ -223533,11 +227017,13 @@ Workfront Guide
 
 Install the Desktop Proofing Viewer
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -223677,11 +227163,15 @@ Workfront Guide
 
 Install the Desktop Proofing Viewer for your organization
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -223881,11 +227371,13 @@ Workfront Guide
 
 Integrate Workfront Proof with Basecamp
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -224175,11 +227667,13 @@ Workfront Guide
 
 Integrate Workfront Proof with Basecamp Classic
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -224435,13 +227929,15 @@ Workfront Guide
 
 Integrations - User Setup
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -224577,11 +228073,11 @@ Workfront Guide
 
 Interactive content proofs overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -224701,13 +228197,11 @@ Workfront Guide
 
 Internal Then External Review in Workfront Proof
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -224863,11 +228357,13 @@ Workfront Guide
 
 Introduction to the Workfront Proof and Box integration
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -225101,7 +228597,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Agile
+Work management
 
 CREATED FOR:
 
@@ -225189,7 +228685,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Agile
+Work management
 
 CREATED FOR:
 
@@ -225231,7 +228727,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Agile
+Work management
 
 CREATED FOR:
 
@@ -225269,13 +228765,15 @@ Workfront Guide
 
 Job role overview
 
-Last update: June 24, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -225401,7 +228899,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Agile
+Work management
 
 CREATED FOR:
 
@@ -225457,7 +228955,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Agile
+Work management
 
 CREATED FOR:
 
@@ -225571,11 +229069,11 @@ Workfront Guide
 
 Keyboard shortcuts in the proofing viewer
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -225841,13 +229339,11 @@ Workfront Guide
 
 Keyboard shortcuts in the Workfront Proof proofing viewer
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -226121,11 +229617,13 @@ Workfront Guide
 
 Kick-Starts
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -226163,11 +229661,13 @@ Workfront Guide
 
 Kick-Starts data importer
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -226209,11 +229709,13 @@ Workfront Guide
 
 Kick-Starts scenario: company, group, role, and user Kick-Starts preparation
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -226875,11 +230377,13 @@ Workfront Guide
 
 Kick-Starts scenario: simple project and task import preparation
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -227689,11 +231193,13 @@ Workfront Guide
 
 Language Settings in Workfront Proof
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -227847,11 +231353,13 @@ Workfront Guide
 
 Late proof email
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -227931,11 +231439,13 @@ Workfront Guide
 
 Layout templates: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -228001,7 +231511,7 @@ Workfront Guide
 
 Left navigation in Adobe Workfront
 
-Last update: August 18, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -228431,11 +231941,13 @@ Workfront Guide
 
 Legacy access levels overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -228543,7 +232055,7 @@ Workfront Guide
 
 Legacy licenses overview
 
-Last update: May 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -228655,13 +232167,11 @@ Workfront Guide
 
 Legacy proofing viewer Removed
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -228915,7 +232425,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -229101,11 +232611,13 @@ Workfront Guide
 
 Licenses overview
 
-Last update: July 16, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -229209,13 +232721,15 @@ Workfront Guide
 
 Limited document and proof decision for non-paid users overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -229339,13 +232853,13 @@ Workfront Guide
 
 Link assets and folders from Experience Manager Assets Essentials
 
-Last update: May 19, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
-
 Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -229361,7 +232875,7 @@ Link assets and folders with Content Advisor powered by Experience Manager Asset
 
 If you are on Adobe cloud storage, see
 
-Use the Adobe Experience Manager with the Frame.io integration
+Use Adobe Experience Manager with Workfront and Adobe cloud storage
 
 .
 
@@ -229539,13 +233053,17 @@ Workfront Guide
 
 Link assets and folders with the enhanced connector
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -229716,224 +233234,6 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
-# FILE: link-assets-from-experience-manager-assets-with-adobe-cloud-storage-adobe-workfront.md
----
-
-Link assets from Experience Manager Assets with Adobe cloud storage | Adobe Workfront
-
-Documentation
-
-Workfront
-
-Workfront Guide
-
-Link assets from Experience Manager Assets with Adobe cloud storage
-
-Last update: August 20, 2026
-
-CREATED FOR:
-
-User
-
-If your organization uses Adobe cloud storage, you can link assets from Experience Manager Assets to Workfront. Once linked, you can view and manage the assets in Workfront, and any changes made to the assets in Experience Manager Assets will be reflected in Workfront.
-
-IMPORTANT
-
-If your organization declines to sign the GenAI Rider agreement, you can still use Content Advisor to choose assets in Experience Manager Assets, but you will not have access to AI-powered features such as AI Search, smart suggestions, or analyzing campaign briefs.
-
-Access requirements
-
-Expand to view access requirements for the functionality in this article.
-
-table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 layout-auto html-authored no-header
-
-Adobe Workfront package
-
-Any
-
-Adobe Workfront licenses
-
-Contributor or higher
-
-Request or higher
-
-Additional products
-
-You must have Experience Manager as a Cloud Service, and you must be added to the product as a user in the Admin Console.
-
-Experience Manager Permissions
-
-You must have write access to the folder.
-
-Access level configurations
-
-Edit access to Documents
-
-Object permissions
-
-View access or higher
-
-For more detail about the information in this table, see
-
-Access requirements in Workfront documentation
-
-.
-
-Prerequisites
-
-Before you begin:
-
-Your Workfront Administrator must configure an Experience Manager integration. For more information, see
-
-Use the Adobe Experience Manager with the Frame.io integration
-
-.
-
-To use Smart suggestions or Campaign Briefs functionality, you must sign a GenAI Rider. For more information, see
-
-Use Content Advisor to access AEM content in Adobe applications
-
-.
-
-Link content from Experience Manager Assets
-
-To link content:
-
-Go to the Workfront object where you want to link content.
-
-Click the
-
-Documents
-
-section in the left panel.
-
-Click
-
-New
-
-on the right side of the page, then click
-
-AEM files
-
-to link an individual asset.
-
-With Content Advisor, you can:
-
-table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 8-row-2 layout-auto html-authored no-header
-
-Search for assets using AI Search.
-
-Use AI-powered search that understands meaning and intent behind queries, supporting multiple languages, typos, and synonyms.
-
-For more information, see
-
-AI Search for smarter asset discovery
-
-.
-
-View smart suggestions based on context and intent.
-
-Discover assets that align with your content needs using context-aware recommendations from the host Adobe application.
-
-For more information, see
-
-Smart suggestions based on context and intent
-
-.
-
-Upload a campaign brief to discover relevant assets.
-
-Upload a PDF, DOCX, or TXT campaign brief document so Content Advisor can analyze it and recommend relevant assets.
-
-For more information, see
-
-Campaign briefs to discover relevant assets
-
-.
-
-View and select Dynamic Media asset renditions.
-
-Browse channel-optimized renditions including image presets, Smart Crops, and format types, and apply Dynamic Media modifiers to preview adjustments in real time.
-
-For more information, see
-
-Dynamic Media asset renditions available for use
-
-.
-
-Apply Dynamic Media modifiers to renditions.
-
-Add modifiers to transform asset renditions in real time and preview the results before selecting a rendition for your host application.
-
-For more information, see
-
-Dynamic Media asset renditions available for use
-
-.
-
-Access asset metadata.
-
-Review asset properties such as title, description, format, size, and other metadata tabs (Product, Campaign, Tags) consistent with the Assets view.
-
-For more information, see
-
-Access asset metadata consistent with Assets view
-
-.
-
-Filter assets using predefined filters.
-
-Refine asset results using filters such as File Type, File Format, Asset Status, File Size, Image Width, Image Height, Modified Date, and Created Date.
-
-For more information, see
-
-Access filters consistent with Assets view
-
-.
-
-Save and reuse searches.
-
-Create saved searches by specifying a search term and filter options, then reuse them across Experience Manager Assets and other Adobe applications.
-
-For more information, see
-
-Access and reuse recent and saved searches
-
-.
-
-Search for assets across and within collections.
-
-Search for assets or collections across all collections, or limit your search to a specific collection.
-
-For more information, see
-
-Search for assets across and within collections
-
-.
-
-note
-
-NOTE
-
-Recommended Content in Content Advisor uses data from the following to determine suggested content in Workfront:
-
-Workfront object name and description fields
-
-Custom form fields marked as required
-
-Data from attached documents
-
-Considerations
-
-Review and approval workflows are not supported for linked AEM assets.
-
-Metadata fields are first mapped when you send an asset from Workfront to Experience Manager Assets. If your Workfront administrator has enabled object metadata sync, fields remain up to date if they are changed in either application.
-
-recommendation-more-help
-
-workfront-help-quicksilver
-
----
 # FILE: link-content-and-folders-with-content-advisor-powered-by-experience-manager-assets-adobe-workfront.md
 ---
 
@@ -229947,13 +233247,17 @@ Workfront Guide
 
 Link content and folders with Experience Manager Assets’ Content Advisor
 
-Last update: August 4, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -230300,6 +233604,10 @@ Topics:
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -230931,11 +234239,13 @@ Workfront Guide
 
 List objects with a pending approval process using a certain status
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -231219,9 +234529,11 @@ Topics:
 
 Administration
 
-Resource Management
+Resource management
 
 Integrations
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -231447,7 +234759,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -231789,11 +235101,13 @@ Workfront Guide
 
 List users with a proofing license in Adobe Workfront
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -231983,11 +235297,13 @@ Workfront Guide
 
 List your users’ access levels and licenses (Legacy)
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -232192,6 +235508,8 @@ Topics:
 Work management
 
 Administration
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -232727,11 +236045,15 @@ Workfront Guide
 
 Lock or unlock a group timesheet and hour preference
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -232867,11 +236189,15 @@ Workfront Guide
 
 Lock or unlock a project, task, or issue preference for subgroups
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -233001,11 +236327,13 @@ Workfront Guide
 
 Lock or unlock a proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -233141,11 +236469,13 @@ Workfront Guide
 
 Lock or unlock project preferences for all groups in the system
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -233269,11 +236599,15 @@ Workfront Guide
 
 Locked and unlocked group statuses
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -233313,11 +236647,13 @@ Workfront Guide
 
 Locked and unlocked system-level statuses
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -233369,13 +236705,15 @@ Workfront Guide
 
 Log in as another user
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -233601,6 +236939,8 @@ System configuration
 
 Administration
 
+Get Started with Workfront
+
 CREATED FOR:
 
 User
@@ -233647,11 +236987,13 @@ Workfront Guide
 
 Log out of Adobe Workfront
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -234771,11 +238113,13 @@ Workfront Guide
 
 Log time in Priorities
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -234925,11 +238269,13 @@ Workfront Guide
 
 Log time on a work item from the Home area
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -234966,6 +238312,10 @@ Topics:
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -235089,11 +238439,13 @@ Workfront Guide
 
 Logging in and changing your password and email for Workfront Proof
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -235277,11 +238629,13 @@ Workfront Guide
 
 Login Error: The following fields are invalid: emailAddr cannot be null
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -235327,11 +238681,11 @@ Workfront Guide
 
 Maintenance Window FAQ
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Product Announcements
+Administration
 
 CREATED FOR:
 
@@ -235387,11 +238741,11 @@ Workfront Guide
 
 Make a decision on a proof: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -235421,11 +238775,13 @@ Workfront Guide
 
 Make a decision on a proof in the proofing viewer
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -235553,11 +238909,13 @@ Workfront Guide
 
 Make Groups Private using Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -235759,11 +239117,15 @@ Workfront Guide
 
 Manage a group
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -236043,11 +239405,13 @@ Workfront Guide
 
 Manage a partner relationship between Workfront Proof accounts
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -236241,13 +239605,11 @@ Workfront Guide
 
 Manage a proof configured with an Automated Workflow in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -236399,11 +239761,13 @@ Workfront Guide
 
 Manage a satellite account in Workfront Proof
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -236465,11 +239829,15 @@ Workfront Guide
 
 Manage a subgroup
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -236937,11 +240305,13 @@ Workfront Guide
 
 Manage Adobe Workfront
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -236983,13 +240353,15 @@ Workfront Guide
 
 Manage Adobe Workfront notifications in Microsoft Teams
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -237499,6 +240871,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -237717,6 +241091,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -237880,6 +241256,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -238209,6 +241587,8 @@ Administration
 
 Integrations
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
@@ -238474,6 +241854,198 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
+# FILE: manage-approval-templates-adobe-workfront.md
+---
+
+Manage approval templates | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Manage approval templates
+
+Last update: September 25, 2026
+
+Topics:
+
+Work management
+
+Administration
+
+Resource management
+
+CREATED FOR:
+
+User
+
+After you create an approval template, you can edit, share, or delete it. System Administrators can also edit, delete, and bulk-delete any template in the account, regardless of who created or shared it.
+
+IMPORTANT
+
+The content of this article refers to updated document approval functionality that is only available for specific accounts. For information on standard approval processes, see the articles listed in
+
+Work approvals
+
+.
+
+Access requirements
+
+Expand to view access requirements for the functionality in this article.
+
+table 0-row-2 1-row-2 layout-auto html-authored no-header
+
+Adobe Workfront package
+
+Any Workfront package to manage approvals using legacy Workfront storage
+
+Any Workflow package to manage approvals using Adobe cloud storage
+
+Adobe Workfront license
+
+Standard
+
+Plan
+
+For more detail about the information in this table, see
+
+Access requirements in Workfront documentation
+
+.
+
+Edit a template
+
+To edit a template:
+
+In the left panel, click
+
+Review and Approval
+
+>
+
+Approval Templates
+
+.
+
+Select the checkbox next to the template you want to edit. A bar appears at the bottom of the page.
+
+In the bar, click
+
+Edit
+
+.
+
+Update the template as needed.
+
+Click
+
+Save
+
+.
+
+You can edit templates you created. System Administrators can edit any template in the account, regardless of who created it.
+
+Share a template
+
+By default, a template is visible only to you, the creator. You can share it with specific users, or with everyone in your organization, so they can view and use it when requesting an approval.
+
+To share a template:
+
+In the left panel, click
+
+Review and Approval
+
+>
+
+Approval Templates
+
+.
+
+Select the checkbox next to the template you want to share. A bar appears at the bottom of the page.
+
+In the bar, click
+
+Share
+
+. The
+
+Share approval template
+
+dialog opens.
+
+Click the sharing drop-down, then select one of the following:
+
+table 0-row-2 1-row-2 html-authored no-header
+
+Shared with everyone
+
+All users in your organization can view and use the template.
+
+Only invited people can access
+
+Only you and the users you add can view and use the template. This is the default for new templates.
+
+If you selected
+
+Only invited people can access
+
+, under
+
+Give approval template access to
+
+, use the
+
+Search for people
+
+field to add the users you want to give access to.
+
+Click
+
+Share
+
+.
+
+The
+
+Shared with
+
+column in the Approval Templates list shows who has access to each template. You are always listed as the template’s creator and can’t be removed.
+
+Delete a template
+
+You can delete a template you created. System Administrators can delete or bulk-delete any template in the account, including templates created by other System Administrators, regardless of sharing settings.
+
+To delete one or more templates:
+
+In the left panel, click
+
+Review and Approval
+
+>
+
+Approval Templates
+
+.
+
+Select the checkbox next to one or more templates.
+
+In the bar at the bottom of the page, click
+
+Delete
+
+, then confirm the deletion.
+
+WARNING
+
+Deleting a template is permanent. If you’re a System Administrator, your selection can include templates you don’t own. Review the list carefully before confirming, especially when deleting multiple templates at once.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
 # FILE: manage-automated-proofs-article-index-adobe-workfront.md
 ---
 
@@ -238487,11 +242059,11 @@ Workfront Guide
 
 Manage automated proofs: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -238532,6 +242104,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -238867,6 +242441,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -239195,7 +242771,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -239220,6 +242796,8 @@ Use currency fields in Canvas Dashboards
 Filter a Canvas Dashboard
 
 Change the name or description of a Canvas Dashboard
+
+Duplicate a Canvas Dashboard
 
 Delete a Canvas Dashboard
 
@@ -239248,6 +242826,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -239412,6 +242992,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -239599,11 +243181,13 @@ Workfront Guide
 
 Manage company memberships
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -239919,11 +243503,13 @@ Workfront Guide
 
 Manage custom forms and fields: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -239982,6 +243568,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -240295,11 +243883,13 @@ Workfront Guide
 
 Manage deleted items
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -240333,11 +243923,11 @@ Workfront Guide
 
 Manage dependent connections
 
-Last update: August 3, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -240543,6 +244133,18 @@ in this article.
 
 There is an indication in the column header of the connected record fields that explains that the field is in a dependent connection relationship.
 
+(Optional) Click
+
+Record filtering rules
+
+and select fields from the record type you are connecting to to limit the options for that field’s values, then click
+
+Done
+
+.
+
+When the two fields are present on a third record type, the options for the connected field record type will be limited by the filter you select here.
+
 (Optional and recommended) Go to a third record type and add both the first and second record type as connected record fields.
 
 Example of dependent connected record types
@@ -240719,15 +244321,19 @@ Workfront Guide
 
 Manage document versions
 
-Last update: June 1, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
+Resource management
+
 CREATED FOR:
 
 User
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
 
 You can manage multiple versions of a document in Workfront.
 
@@ -240772,6 +244378,8 @@ If you need information about uploading new versions of a document to Workfront,
 Upload a new version of a document
 
 .
+
+Manage document versions in the legacy documents area
 
 View a list of all versions of a document
 
@@ -241011,6 +244619,258 @@ option is visible only if there are at least 2 versions.
 
 If the document is linked to an outside source, that link is deleted and the document is no longer accessible through Workfront.
 
+Manage document versions in the new Documents area in Preview
+
+If your organization uses Adobe cloud storage, you will see the new Documents area when you access documents in Workfront. For more information about Adobe cloud storage, see
+
+Adobe cloud storage overview
+
+.
+
+Workfront numbers each version in the order you upload it (for example, V1, V2, V3) to match the version numbers in Frame.io.
+
+View a list of all versions of a document
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-left corner of Adobe Workfront, then click
+
+Documents
+
+.
+
+On the
+
+Documents
+
+page, select a document in the list.
+
+Click the
+
+Versions
+
+icon
+
+on the right side of the page. The Versions panel opens and lists every version of the document under Version history.
+
+note
+
+NOTE
+
+If a version has an approval workflow, its status, such as “Approved” or “Withdrawn”, appears next to it. Versions without an approval workflow don’t display a status.
+
+Request approval on a version
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-left corner of Adobe Workfront, then click
+
+Documents
+
+.
+
+On the
+
+Documents
+
+page, select a document in the list.
+
+Click the
+
+Versions
+
+icon
+
+on the right side of the page.
+
+Click the
+
+More
+
+menu next to the version, then click
+
+Request Approval
+
+.
+
+Configure the approval workflow. For more information, see
+
+Create a document approval workflow
+
+.
+
+note
+
+NOTE
+
+If a previous version already has an open approval workflow, requesting approval on this version withdraws it. The previous version keeps its version number and its approval history, but its status changes to “Withdrawn”.
+
+View and manage details for a previous document version
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-left corner of Adobe Workfront, then click
+
+Documents
+
+.
+
+On the
+
+Documents
+
+page, select a document in the list.
+
+Click the
+
+Versions
+
+icon
+
+on the right side of the page.
+
+Click the
+
+More
+
+menu next to the version, then click
+
+View Details
+
+.
+
+Download a single document version
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-left corner of Adobe Workfront, then click
+
+Documents
+
+.
+
+On the
+
+Documents
+
+page, select a document in the list.
+
+Click the
+
+Versions
+
+icon
+
+on the right side of the page.
+
+Click the
+
+More
+
+menu next to the version, then click
+
+Download
+
+.
+
+Download all versions of a document
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-left corner of Adobe Workfront, then click
+
+Documents
+
+.
+
+On the
+
+Documents
+
+page, select a document in the list.
+
+Click the
+
+Versions
+
+icon
+
+on the right side of the page.
+
+Click
+
+Download all
+
+at the top of the Versions panel.
+
+Delete a document version
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-left corner of Adobe Workfront, then click
+
+Documents
+
+.
+
+On the
+
+Documents
+
+page, select a document in the list.
+
+Click the
+
+Versions
+
+icon
+
+on the right side of the page.
+
+Click the
+
+More
+
+menu next to the version, then click
+
+Delete
+
+.
+
+note
+
+NOTE
+
+Deleting a version doesn’t change the numbers of the other versions. For example, if you delete V3 from a document with versions V1 through V5, the remaining versions keep their original numbers, and there is no V3 afterward. The next version you upload becomes V6.
+
+style
+
+highlighted
+
 recommendation-more-help
 
 workfront-help-quicksilver
@@ -241029,11 +244889,11 @@ Workfront Guide
 
 Manage documents: article index
 
-Last update: July 8, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -241095,11 +244955,13 @@ Workfront Guide
 
 Manage email invitations to new users
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -241351,7 +245213,7 @@ Workfront Guide
 
 Manage enterprise operations: article index
 
-Last update: August 3, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -241397,13 +245259,11 @@ Workfront Guide
 
 Manage Files in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -241573,13 +245433,11 @@ Workfront Guide
 
 Manage Folders and their Contents in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -241957,13 +245815,11 @@ Workfront Guide
 
 Manage Folders in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -242605,11 +246461,15 @@ Workfront Guide
 
 Manage group statuses
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -242657,11 +246517,15 @@ Workfront Guide
 
 Manage groups
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -242703,11 +246567,13 @@ Workfront Guide
 
 Manage Groups using Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -242942,6 +246808,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -243607,6 +247475,8 @@ CREATED FOR:
 
 User
 
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
+
 You can view or edit the information of a project by accessing the Overview area of the Project Details section. There is a limited number of fields that you can view or edit in this area. For information about editing all information for a project see
 
 Edit projects
@@ -243823,7 +247693,7 @@ Grant access to users
 
 Review the following fields in the Overview section. You cannot edit the following fields:
 
-table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 8-row-2 9-row-2 10-row-2 11-row-2 12-row-2
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 8-row-2 9-row-2 10-row-2 11-row-2 12-row-2 13-row-2
 
 Field
 
@@ -243874,6 +247744,10 @@ Last Updated By
 The name of the user who last updated the project.
 
 Template
+
+Frame.io workspace
+
+The Frame.io workspace is inherited from the template used to create it. You can’t change this field after the project is created.
 
 If your company has purchased an additional license for the Adobe Workfront Scenario Planner, and the project has information published from a linked initiative, review the following initiative information in the Scenario Planner area:
 
@@ -244003,13 +247877,11 @@ Workfront Guide
 
 Manage Items on the Views Page in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -244369,11 +248241,13 @@ Workfront Guide
 
 Manage notifications for proof comments and decisions
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -244529,7 +248403,7 @@ Workfront Guide
 
 Manage project expenses
 
-Last update: June 12, 2026
+Last update: September 30, 2026
 
 Topics:
 
@@ -244567,11 +248441,13 @@ Work or higher
 
 Access level configurations
 
-Edit access to Projects and Financial Data
+Edit access to Projects and Tasks
 
 Object permissions
 
-Contribute or higher permissions to the project, with permissions to View or Edit General Finance
+To add expenses, and edit or delete expenses that you created: Contribute or higher permissions to the project or task, with permissions to Add expenses.
+
+To view, edit, or delete expenses added by other users: Manage permissions to the project or task, with permissions to View Cost rates (for viewing) or Edit Cost rates (for editing or deleting).
 
 For information, see
 
@@ -244671,7 +248547,7 @@ Save
 
 Delete Expenses
 
-Go to the project you want to delete an expense for.
+Go to the project or task you want to delete an expense for.
 
 Click
 
@@ -244789,11 +248665,13 @@ Workfront Guide
 
 Manage projects in the Portfolio Optimizer: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -244833,11 +248711,11 @@ Workfront Guide
 
 Manage proof deadlines: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -244869,13 +248747,11 @@ Workfront Guide
 
 Manage Proof Details in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -245193,11 +249069,11 @@ Workfront Guide
 
 Manage proof notifications: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -245223,11 +249099,11 @@ Workfront Guide
 
 Manage proof reviewers
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -245257,11 +249133,13 @@ Workfront Guide
 
 Manage Proof Roles in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -245585,11 +249463,11 @@ Workfront Guide
 
 Manage proof versions: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -245621,11 +249499,11 @@ Workfront Guide
 
 Manage proofs: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -245663,11 +249541,11 @@ Workfront Guide
 
 Manage proofs within Adobe Workfront: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -245705,7 +249583,7 @@ Workfront Guide
 
 Manage rate cards
 
-Last update: April 7, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -246181,6 +250059,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -246450,6 +250330,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -247017,6 +250899,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -247465,11 +251349,13 @@ Workfront Guide
 
 Manage security
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -247514,6 +251400,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -247702,6 +251590,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -248735,11 +252625,11 @@ Workfront Guide
 
 Manage teams in Adobe Workfront Planning as a standalone product
 
-Last update: July 16, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -248878,6 +252768,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -249283,6 +253175,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -249551,11 +253445,19 @@ Multi-select, People
 
 Has any of
 
+or
+
+Is any of
+
 Has all of
 
 Is exactly
 
 Has none of
+
+or
+
+Is any of
 
 Is empty
 
@@ -249895,11 +253797,21 @@ Topics:
 
 Integrations
 
+Work management
+
 CREATED FOR:
 
 User
 
 Admin
+
+The information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 The Adobe GenStudio for Performance Marketing workspace is available in Adobe Workfront Planning when your company has purchased both products and your instance of Workfront is integrated with your company’s instance of GenStudio.
 
@@ -250018,6 +253930,16 @@ The GenStudio workspace is visible from all Workfront instances
 All users with access to GenStudio for Performance Marketing and Workfront Planning have Contribute permissions on the GenStudio in Planning
 
 Updating the workspace configuration, record types, views, and fields for a GenStudio workspace is identical with updating a Workfront Planning workspace with its elements.
+
+You can build hierarchies for the record types in the GenStudio workspace.
+
+For more information, see
+
+Create workspace hierarchies
+
+.
+
+You can connect a GenStudio record type to GenStudio BRands, but you cannot include GenStudio Brands in a hierarchy.
 
 Manage the GenStudio workspace from Workfront Planning
 
@@ -250165,6 +254087,10 @@ Edit record types
 
 Manage automations
 
+or
+
+Automations
+
 For information, see
 
 Configure Adobe Workfront Planning automations
@@ -250173,11 +254099,25 @@ Configure Adobe Workfront Planning automations
 
 Manage request forms
 
+or
+
+Request forms
+
 You can create multiple request forms. The request forms will be available in the Requests area of Workfront and you can also share them publicly, or with a link.
 
 For information, see
 
 Create and manage a request form in Adobe Workfront Planning
+
+.
+
+Business rules
+
+You can configure record type business rules to define what conditions must be met before users are allowed to edit or delete records of that type.
+
+For information, see
+
+Configure record type business rules
 
 .
 
@@ -250469,6 +254409,8 @@ Hide it
 
 Edit its settings
 
+Delete it
+
 note
 
 NOTE
@@ -250476,6 +254418,14 @@ NOTE
 You can edit the configuration of a GenStudio field only when you have Manage permissions in GenStudio.
 
 You cannot delete a GenStudio field.
+
+Create workspace hierarchies in the GenStudio workspace
+
+Creating hierarchies in the GenStudio workspace is similar to creating hierarchies in any workspace.
+
+For information, see
+
+Create workspace hierarchies
 
 recommendation-more-help
 
@@ -250499,7 +254449,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -251317,6 +255267,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -251871,6 +255823,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -251984,8 +255938,6 @@ In a table view, all records of the selected record type display in a table form
 The following display in a table view by default:
 
 All fields and all records for the selected record type.
-
-500 records display by default
 
 To manage a table view:
 
@@ -252215,7 +256167,7 @@ x
 
 icon in the search box to clear the search keyword.
 
-For number, currency, percentage, and formula fields that are formatted as any of these field types, expand the aggregator dropdown menu at the bottom of the columns, and select from the following options:
+(Conditional) For number, currency, percentage, and formula fields that are formatted as any of these field types, expand the aggregator dropdown menu at the bottom of the columns, and select from the following options:
 
 SUM
 
@@ -252242,138 +256194,6 @@ As a View manager, you can choose the aggregator, and it will be shared with the
 As a viewer, you can modify the aggregator, but it does not save with the view.
 
 Public shared views are shared with the saved aggregators which cannot be modified.
-
-Add rows (or records)
-
-add-rows-1
-
-The rows of a table view display individual records of the selected record type. Adding rows is identical to creating records.
-
-You can have up to 50,000 records (or rows) for a record type.
-
-Go to a record type page and select a table view, or click
-
-+ View
-
-to add a new view, then choose
-
-Table
-
-.
-
-Start adding records (or rows), as described in the article
-
-Create records
-
-.
-
-The records you add in the table view are saved immediately and are visible to all users who have View or higher permissions to the workspace.
-
-A default thumbnail image
-
-and color
-
-are also added to the new record.
-
-note tip
-
-TIP
-
-When a record has unread comments, a
-
-New comment
-
-indicator displays in the upper-right corner of the record’s primary field.
-
-(Optional) Select one or multiple records or rows, then drag and drop the
-
-handle
-
-icon
-
-to the left of the record to reorder the rows.
-
-note
-
-NOTE
-
-You cannot reorder rows if you apply at least one sort or grouping to the table view.
-
-The changes you make to the row order are visible to all users who access the record type in the same view.
-
-In the drag and drop line, a number indicator displays the number of records selected, if more than one.
-
-(Optional) Click the
-
-More
-
-menu
-
-to the right of the record, then click
-
-Edit thumbnail
-
-to edit the thumbnail.
-
-Click
-
-Fields
-
-at the top of the table, then select the toggle for the
-
-Thumbnail
-
-field to display it to the left of the primary field. It is deselected by default.
-
-For information, see
-
-Add a thumbnail to a record
-
-.
-
-(Optional) Click
-
-Fields
-
-at the top of the table, then click
-
-Color
-
-to display the color of a record to the left of its primary field. Colors are assigned randomly by default for each new record. The
-
-Color
-
-setting is deselected by default.
-
-(Optional and conditional) If you turned on the
-
-Color
-
-setting, click the color bar to the left of the record’s primary field and select a color from the
-
-Swatches
-
-or
-
-Custom
-
-tabs, then click outside the box to close it. The color is applied immediately.
-
-For more information, see
-
-Create records
-
-.
-
-Add filters
-
-add-filters-1
-
-Filters help you reduce the amount of information displayed on the screen.
-
-Filters help you reduce the amount of information displayed on the screen.
-
-Consider the following when working with filters in the table view:
 
 The filters you create for the table view work independently from the filters in the timeline view when applied to the same record type.
 
@@ -252455,11 +256275,19 @@ Multi-select, People
 
 Has any of
 
+or
+
+Is any of
+
 Has all of
 
 Is exactly
 
 Has none of
+
+or
+
+Is none of
 
 Is empty
 
@@ -252929,6 +256757,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -253047,13 +256877,13 @@ Manage record views
 
 .
 
-The records associated with the record type you selected display as bars in a timeline and are sorted in chronological order of their Start Date, by default.
+The records associated with the record type you selected display as bars in a timeline and are automatically sorted in chronological order of their Start Date, by default.
 
 note tip
 
 TIP
 
-The sorting of the records in the timeline is not visible in the Compact view.
+The automatic sorting of the records in the timeline is not visible in the Compact view.
 
 (Conditional) If your administrator has enabled custom quarters, and Workfront detects problems with the way the custom quarters are configured, you might receive a warning when opening the timeline view.
 
@@ -253135,7 +256965,11 @@ note tip
 
 TIP
 
-The timeline view only displays fiscal weeks according to classic quarters. If your Workfront administrator turns on Custom Quarters in the Setup area, the week information does not display in the timeline view.
+Depending on which environment you are using to access the timeline view, the following scenarios exist:
+
+In the Production environment, the timeline view only displays custom weeks according to classic quarters. If your Workfront administrator turns on Custom Quarters in the Setup area, the week information does not display in the timeline view.
+
+In the Preview environment, the timeline view displays custom weeks according to classic quarters, by default. If your Workfront administrator turns on Custom Quarters and Custom weeks in the Setup area, the timeline view displays the custom quarters and weeks in the Quarter and Month displays.
 
 (Optional) Click
 
@@ -253339,11 +257173,19 @@ Multi-select, People
 
 Has any of
 
+or
+
+Is any of
+
 Has all of
 
 Is exactly
 
 Has none of
+
+or
+
+Is none of
 
 Is empty
 
@@ -253630,6 +257472,108 @@ to color-code groupings. For more information, see the
 Edit the timeline view settings
 
 section in this article.
+
+Add sort
+
+You can sort records and groupings in the timeline view.
+
+Consider the following when working with record sorting in the timeline view:
+
+You can apply sorting both in the table and timeline views. The sorting of the table view is independent from that in the timeline view of the same record type.
+
+You can apply 10 sorting conditions for records and as many sorting conditions as you have groupings in the timeline view (you can have up to 3 groupings conditions in the timeline view).
+
+The sortings are unique to the view that you select. Two timeline views of the same record type can have different sortings applied to them. Two users looking at the same timeline view see the same sorting that is currently applied.
+
+You cannot name the sorting you build for a timeline view.
+
+Removing sorting removes it from anyone accessing the same record type as you and who displays the same view as you do.
+
+You can sort by connected record fields or lookup fields.
+
+To add a sort in the timeline view:
+
+Create a timeline view for a record type, as described in the article
+
+Manage record views
+
+.
+
+Click
+
+Sort
+
+in the view’s toolbar.
+
+The sorting box opens.
+
+From the drop-down menu, select
+
+Sort records
+
+, then either click a field listed in the
+
+Start with a suggested field
+
+list, or click
+
+Choose a different field
+
+, then search for field and click it when it displays in the list.
+
+Select the direction you want the record sorting to be applied (alphabetical, reverse descendent etc). The direction a sorting is applied depends on the format of the field you selected.
+
+(Optional) Click
+
+Add condition
+
+to add up to 10 conditions.
+
+(Optional) Click
+
+Clear all
+
+to remove all conditions.
+
+From the drop-down menu in the upper-left corner of the sorting box, select
+
+Sort groupings
+
+.
+
+note tip
+
+TIP
+
+If there are no groupings applied to the timeline view, the
+
+Sort groupings
+
+option is not available.
+
+(Optional) Select the direction you want the grouping sorting to be applied (alphabetical, reverse descendent etc). The direction a sorting is applied depends on the format of the field you selected.
+
+(Conditional) Click
+
+Reset all
+
+to reset the sorting direction, if you modified it from the default.
+
+To reorder the sorting order of the fields, click
+
+Grouping
+
+in the toolbar and reorder the groupings. Sorting field order also changes.
+
+(Optional) To remove grouping sorting, remove the groupings from the timeline view.
+
+Sorting is applied immediately.
+
+Click anywhere on the page to close the sorting box.
+
+style
+
+highlighted
 
 Edit the timeline view settings
 
@@ -254025,6 +257969,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -254136,6 +258082,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -254999,11 +258947,11 @@ Workfront Guide
 
 Manage users in Adobe Workfront Planning as a standalone product
 
-Last update: July 16, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -255265,9 +259213,13 @@ Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
 
 As an Adobe administrator, you can create Adobe Workfront system administrators using the Adobe Admin Console. The console is a central location for managing the Adobe entitlements across your organization. For more information, see the
 
@@ -255513,6 +259465,12 @@ Save
 
 The user is created in Workfront with the Requestor or Contributor access level, depending on your organization’s Workfront package.
 
+If your Workfront administrator has set a default access level for users created in the Admin Console, the user is created with that access level instead. For more information, see
+
+Configure system preferences
+
+.
+
 note important
 
 IMPORTANT
@@ -255755,6 +259713,8 @@ Work management
 
 Administration
 
+People Teams and Groups
+
 CREATED FOR:
 
 User
@@ -255929,13 +259889,15 @@ Workfront Guide
 
 Manage work items and team requests in the Home area
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -256185,11 +260147,15 @@ Workfront Guide
 
 Manage work with the Adobe Workfront plugin for Creative Cloud Applications
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -256225,11 +260191,13 @@ Workfront Guide
 
 Manage Workfront Proof users
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -256318,6 +260286,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -256683,7 +260653,7 @@ Workfront Guide
 
 Manage your account and profile
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -256717,7 +260687,7 @@ Workfront Guide
 
 Manage your Adobe Workfront account
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -256757,11 +260727,13 @@ Workfront Guide
 
 Manage your approvals with the My Approvals widget
 
-Last update: June 12, 2026
+Last update: September 30, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -256837,15 +260809,29 @@ My Approvals
 
 widget.
 
-(Conditional) Click the
+(Optional) Adjust the filter options in the My Approvals widget to choose which approvals to display. The following filter options are available:
 
-Filter
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2
 
-drop-down menu, then select
+Filter option
+
+Description
 
 All
 
-to see approvals assigned and delegated to you.
+Displays all approvals assigned to you, delegated to you by other users, and submitted by you.
+
+My approvals
+
+Displays approvals assigned to you. This is the default option.
+
+Delegated approvals
+
+Displays approvals that have been delegated to you by other users.
+
+Approvals I’ve submitted
+
+Displays approvals that you have submitted to other users.
 
 note
 
@@ -256939,11 +260925,13 @@ Workfront Guide
 
 Manage your billing
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -256985,11 +260973,13 @@ Workfront Guide
 
 Manage Your Contacts in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -257185,11 +261175,11 @@ Workfront Guide
 
 Manage your instance of Adobe Workfront Planning as a standalone product
 
-Last update: July 14, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -257325,13 +261315,11 @@ Workfront Guide
 
 Manage your work
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -257396,6 +261384,8 @@ Topics:
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -257863,6 +261853,8 @@ Topics:
 
 Administration
 
+Get Started with Workfront
+
 CREATED FOR:
 
 User
@@ -258079,11 +262071,13 @@ Workfront Guide
 
 Manage your work with the My Work widget
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -258313,13 +262307,11 @@ Workfront Guide
 
 Managing Proof Versions in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -258481,11 +262473,13 @@ Workfront Guide
 
 Managing users and contacts in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -258985,11 +262979,13 @@ Workfront Guide
 
 Map user attributes
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -259169,13 +263165,15 @@ Workfront Guide
 
 Mark an item as Done in the Home area
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -259395,6 +263393,10 @@ Administration
 
 Integrations
 
+Workfront Integrations and Apps
+
+Resource management
+
 CREATED FOR:
 
 User
@@ -259521,11 +263523,13 @@ Workfront Guide
 
 Measure an area within a proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -259651,6 +263655,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -259773,13 +263779,17 @@ Workfront Guide
 
 Migrate from the legacy or enhanced connector to Workfront for Adobe Experience Manager as a Cloud Service integration
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -259858,6 +263868,308 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
+# FILE: migrate-from-workfront-oauth2-to-adobe-developer-console-adobe-workfront.md
+---
+
+Migrate from Workfront OAuth2 to Adobe Developer Console | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Migrate from Workfront OAuth2 to Adobe Developer Console
+
+Last update: September 25, 2026
+
+Topics:
+
+System Setup and Administration
+
+Workfront Integrations and Apps
+
+CREATED FOR:
+
+Admin
+
+Workfront’s legacy custom OAuth2 application service (the integrations you set up under
+
+Setup
+
+>
+
+System
+
+>
+
+OAuth2
+
+) is being retired. Going forward, all custom integrations that authenticate against Workfront must use the Adobe Developer Console (developer.adobe.com) authentication flow instead.
+
+This change affects any custom-built integration, script, or third-party tool that currently authenticates using a Workfront-issued OAuth2 client ID and secret. It does not affect how you log in to Workfront, and it does not affect standard, Adobe-managed integrations such as the packaged Microsoft Teams or Slack integrations, which Adobe is migrating separately.
+
+Access requirements
+
+Expand to view access requirements for the functionality in this article.
+
+table 0-row-2 1-row-2 layout-auto html-authored no-header
+
+Adobe Workfront access level configurations
+
+System Administrator
+
+Adobe Developer Console rights
+
+Full IMS Org admin rights are required to access Adobe Developer Console for Workfront. This is broader than a Workfront product admin role, since it manages the whole Adobe org and all products under it.
+
+Key dates
+
+Date
+
+Milestone
+
+What it means for you
+
+November 1, 2026
+
+New app creation disabled
+
+You can no longer create new custom OAuth2 applications in Workfront. Existing applications continue to work.
+
+February 1, 2027
+
+Legacy service retired
+
+Existing custom OAuth2 applications stop working entirely. Any integration that has not migrated to Adobe Developer Console loses access to the Workfront API at this point.
+
+IMPORTANT
+
+We highly recommend planning and completing your migration before November 1, 2026, so your integrations continue running without interruption, and so you are not migrating against the February 1, 2027 hard deadline.
+
+Affected organizations
+
+Your organization is affected by this change if it has any integration, script, or tool that connects to Workfront using a custom OAuth2 client ID and secret issued through Workfront’s legacy OAuth2 setup screen. Common examples include:
+
+Custom-built integrations your engineering team maintains against the Workfront API.
+
+Third-party or partner-built connectors configured with a Workfront-issued client ID. We recommend checking with your vendor if you’re not sure how their integration authenticates.
+
+Internal automation, reporting, or data-sync scripts that call the Workfront API directly.
+
+If you don’t know whether your organization has any of these, your Workfront administrator can check the OAuth2 applications list under
+
+Setup
+
+>
+
+System
+
+>
+
+OAuth2
+
+to see what’s currently registered. For information, see
+
+View and Manage Custom OAuth2 Applications
+
+.
+
+Understand Adobe Developer Console authentication types
+
+Adobe Developer Console supports more than one way to authenticate. You can select the type that matches how your integration works:
+
+Server-to-Server Authentication
+
+: For an application running on your backend that calls Adobe APIs on behalf of your organization, with no end user involved. This is the closest match to the legacy Workfront OAuth2 pattern worked with client IDs and secrets, and is the type most custom Workfront integrations, scripts, and automations should use.
+
+User Authentication
+
+: For cases where an Adobe user needs to sign in and grant consent before your application can view or edit their data. If your integration needs to act on behalf of a specific signed-in Workfront user rather than your organization as a whole, use this type instead.
+
+If you choose User Authentication, there are three further options depending on your application’s architecture:
+
+OAuth Web App
+
+: For applications with a frontend UI and a backend server. The server securely stores the client secret and fetches tokens.
+
+OAuth Single-Page App
+
+: For browser-only web applications with no backend server. The web app itself fetches tokens.
+
+OAuth Native App
+
+: For mobile or desktop applications that run natively on a device and have no backend server. The native app fetches tokens.
+
+Most organizations migrating a backend integration, script, or automation off the legacy OAuth2 service want Server-to-Server Authentication.
+
+Feature comparison: legacy OAuth2 vs. Adobe Developer Console
+
+The legacy Workfront OAuth2 service (fount in
+
+Setup
+
+>
+
+System
+
+>
+
+OAuth2 Applications
+
+) offers three application types, with a limit of 10 OAuth2 applications per Workfront instance. Here’s how these aspects compare to Adobe Developer Console:
+
+Legacy Workfront type
+
+Flow / auth method
+
+Developer Console equivalent
+
+Fit
+
+Machine to Machine Application (CLIs, daemons, backend scripts)
+
+JWT with public/private key pair
+
+Server-to-Server Authentication
+
+Same purpose of not having the end user involved, but the mechanism changes. The legacy flow uses a public/private key pair and JWT, while Server-to-Server uses a client ID and client secret with an OAuth client-credentials grant. This is not a drop-in credential swap. The integration’s auth code needs to change, not just the credential values. For information, see
+
+Using JWT flow for custom OAuth 2 applications
+
+.
+
+Web Application (server-side apps: Go, Java, .NET, Node, PHP)
+
+OAuth 2.0 Authorization Code flow
+
+OAuth Web App (under User Authentication)
+
+Closest 1:1 match. This has the same flow, and the same basic shape where a backend server stores the client secret. For information, see
+
+Authorization code flow for custom OAuth 2 applications
+
+.
+
+Single Page Web Application (JS, Angular, React, Vue)
+
+Authorization Code flow with PKCE, no client secret
+
+OAuth Single-Page App (under User Authentication)
+
+Closest 1:1 matchThis has the same PKCE-based, secret-less flow. For information, see
+
+Using PKCE flow for OAuth 2 applications
+
+.
+
+(no legacy equivalent)
+
+—
+
+OAuth Native App (under User Authentication)
+
+This is a new capability. Legacy Workfront OAuth2 has no dedicated type for native mobile or desktop applications.
+
+Migration procedure
+
+If you are a Workfront System Administrator
+
+NOTE
+
+If you’re a Workfront product administrator but not an Org administrator, you need to work with your Org administrator to complete this migration, or ask to be made one.
+
+Log in to
+
+developer.adobe.com
+
+and create a new Project. Projects are how the console organizes different integrations or client apps.
+
+From the Project, add an API, and select
+
+Adobe Workfront
+
+. This API is under the Experience Cloud category. All Workfront APIs, including Planning, Workflow, and Review and Approvals, share this single API.
+
+Select the
+
+Server-to-Server
+
+authentication option, then choose the correct instance if your IMS Org has more than one Workfront instance.
+
+For guidance on choosing an authentication type, see
+
+Understand Adobe Developer Console authentication types
+
+in this article.
+
+On the Project page, open the details of your new OAuth Server-to-Server credential to find your Client ID, Client Secret, and the information needed to generate access tokens.
+
+Update your integration, script, or tool to authenticate with these new credentials in place of the old Workfront OAuth2 client ID and secret.
+
+Confirm access in Workfront. Creating the API client automatically adds it as the Workfront user “
+
+techacct
+
+”. By default, it’s added as a Contributor with limited access, but you can adjust its access level like you would for any other user.
+
+(Optional) To grant the
+
+techacct
+
+user administrator rights, add the Technical Account’s email as an administrator of the relevant Product Profile in Admin Console.
+
+Test the integration end-to-end.
+
+Retire the old OAuth2 application entry in Workfront after you’ve confirmed the new connection is working.
+
+For full step-by-step details and screenshots, see
+
+Gaining access
+
+in Adobe’s Developer Console documentation.
+
+If you are not a System Administrator
+
+You need to loop in your organization’s IMS Org administrator to complete the migration, since setting up the new credential in Adobe Developer Console requires that level of access. If you manage or maintain an integration but so know know who your organization’s IMS Org administrator is, contact one of the following:
+
+Your Workfront account team
+
+Your internal IT team
+
+Your engineering contact
+
+If you don’t migrate
+
+Integrations still using the legacy OAuth2 client ID/secret pattern after February 1, 2027 stop being able to authenticate against the Workfront API, and any dependent workflow, sync, or automation fails. There is no extension planned past this date, so migrate your integrations well ahead of it.
+
+Frequently asked questions
+
+Does this affect the packaged integrations Adobe provides, such as Slack or Microsoft Teams?
+
+No. Adobe-managed global applications are being migrated by Adobe directly and don’t require action on your part.
+
+Will my existing integration stop working before February 1, 2027?
+
+No. Existing custom OAuth2 applications continue to function normally through February 1, 2027. Only the ability to create new custom OAuth2 applications is affected, starting November 1, 2026.
+
+Is there a cost to migrating?
+
+No, there is no additional cost associated with authenticating through Adobe Developer Console.
+
+Where can I get help?
+
+Reach out to your Workfront account team or open a support case if you have questions about your specific integration or timeline. For the official, up-to-date setup walkthrough with screenshots, see
+
+Gaining access
+
+in Adobe’s Developer Console documentation.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
 # FILE: migrate-linked-folders-and-documents-adobe-workfront.md
 ---
 
@@ -259871,13 +264183,17 @@ Workfront Guide
 
 Migrate linked folders and documents
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 APIs
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -260153,7 +264469,7 @@ Workfront Guide
 
 Mobile Apps
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -260194,6 +264510,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -260412,6 +264730,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -260811,6 +265131,8 @@ Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
@@ -261147,6 +265469,8 @@ Topics:
 
 Administration
 
+Get Started with Workfront
+
 CREATED FOR:
 
 User
@@ -261305,11 +265629,15 @@ Workfront Guide
 
 Move a group
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -261434,6 +265762,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -261596,6 +265926,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -261778,6 +266110,150 @@ Click
 Move
 
 .
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
+# FILE: move-from-legacy-document-approvals-to-unified-approvals-adobe-workfront.md
+---
+
+Move from legacy document approvals to Unified Approvals | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Move from legacy document approvals to Unified Approvals
+
+Last update: September 25, 2026
+
+Topics:
+
+System Setup and Administration
+
+Work management
+
+Resource management
+
+CREATED FOR:
+
+Admin
+
+Moving to a version of Workfront that supports Adobe cloud storage also moves your organization from legacy document approvals to unified approvals. This article provides information on which functionality will be available in Unified Approvals as well as recommendations for Workfront administrators moving users off legacy document approvals.
+
+IMPORTANT
+
+This change applies organization-wide as soon as you move to a version of Workfront that supports Adobe cloud storage. There’s no pilot group or gradual rollout option for the move from legacy document approvals to unified approvals.
+
+For the details about what changes with Adobe cloud storage, see
+
+Move to Workfront on Adobe cloud storage
+
+.
+
+Understand what is changing from legacy document approvals to Unified Approvals
+
+Legacy document approvals
+
+Unified Approvals
+
+Approvers and reviewers
+
+Approval by individual users only
+
+Approval or review by individual users or teams
+
+Deadlines and reminders
+
+No automated reminders
+
+Automated reminders 72 hours out, 24 hours out, and on the due date
+
+Approval stages and paths
+
+One approval stage, no parallel paths
+
+Multiple approval stages and parallel review paths
+
+Approval templates
+
+Each approval configured from scratch
+
+Reusable templates
+
+available in Workfront Setup
+
+Review and markup
+
+Proofing viewer
+
+Proofing viewer
+
+on legacy Workfront storage objects, or the
+
+Frame.io viewer
+
+on Adobe cloud storage objects
+
+AI-assisted review
+
+Not available
+
+Automatic brand-compliance checks with
+
+AI Reviewer
+
+Reporting
+
+Legacy reporting
+
+Home KPI widgets and
+
+Canvas Dashboards
+
+What happens to approvals already in progress
+
+In-flight approvals that were created in legacy document approvals will continue to function as they did before the upgrade. However, any new approvals created after the upgrade will use Unified Approvals.
+
+Prepare for the upgrade
+
+Share the
+
+Get started with unified review and approval
+
+article with your end users.
+
+Review your existing Workfront Fusion scenarios. If you use legacy document approvals with proofing, see
+
+Update Workfront Fusion scenarios for unified review and approval
+
+before your organization upgrades.
+
+Set up a review and approval dashboard in Canvas Dashboards to replace any legacy approval reports. See
+
+Create a review and approval dashboard
+
+for details.
+
+Help articles for end users
+
+Get started with unified review and approval
+
+Available functionality for document approvals
+
+Unified review and approval overview
+
+Review and approve with the Frame.io viewer
+
+Use Unified Approvals and proofing together
+
+Document decision status overview
+
+Get started with the Workfront AI Reviewer
 
 recommendation-more-help
 
@@ -262066,6 +266542,8 @@ Topics:
 System configuration
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -263725,11 +268203,13 @@ Workfront Guide
 
 Overview of moving objects between Workfront environments (Environment promotion)
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -264697,15 +269177,15 @@ Workfront Guide
 
 Move to Workfront on Adobe cloud storage
 
-Last update: August 19, 2026
+Last update: September 25, 2026
 
 Topics:
 
 System Setup and Administration
 
-Work Management
+Work management
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -265223,11 +269703,13 @@ Workfront Guide
 
 Move Users Between Accounts using Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -265373,7 +269855,7 @@ Workfront Guide
 
 Multiple browser tabs cause Workfront to log out
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -265421,7 +269903,7 @@ Workfront Guide
 
 My Work section in the mobile app
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -265485,7 +269967,7 @@ Workfront Guide
 
 Navigate Adobe Workfront: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -266809,6 +271291,8 @@ Work management
 
 Administration
 
+Strategic Planning
+
 CREATED FOR:
 
 User
@@ -267103,11 +271587,11 @@ Workfront Guide
 
 New Adobe Workfront managed system to replace POP email for Request Queues with 21.1
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Product Announcements
+Administration
 
 CREATED FOR:
 
@@ -267165,7 +271649,7 @@ Workfront Guide
 
 New IP addresses for Adobe Workfront email with the 21.1 release
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -267233,11 +271717,13 @@ Workfront Guide
 
 New proof email
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -267387,11 +271873,13 @@ Workfront Guide
 
 Notifications: Action needed
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -268395,6 +272883,8 @@ Timesheet Approved: <Timesheet Start Date> - <Timesheet End Date>
 
 Note: You cannot configure this notification for a daily digest email.
 
+Note: You must have a Standard license to receive this notification. Users with a Light license or lower do not receive the timesheet approval email notification, even when it is enabled.
+
 Name of the user who approved your Timesheet
 
 Date and Time when the Timesheet was approved
@@ -268427,7 +272917,7 @@ Workfront Guide
 
 Notifications: Communication
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -268853,7 +273343,7 @@ Workfront Guide
 
 Notifications: Delegation
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -268951,11 +273441,11 @@ Workfront Guide
 
 Notifications for proof comments and decisions overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -269038,6 +273528,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -269191,7 +273683,7 @@ Workfront Guide
 
 Notifications: Information about projects I own
 
-Last update: May 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -269775,7 +274267,7 @@ Workfront Guide
 
 Notifications: Information about projects I sponsor
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -270251,7 +274743,7 @@ Workfront Guide
 
 Notifications: Information about projects I’m on
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -270825,7 +275317,7 @@ Workfront Guide
 
 Notifications: Information about work assigned to me
 
-Last update: August 26, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -271513,7 +276005,7 @@ Workfront Guide
 
 Notifications: Miscellaneous information
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -271817,11 +276309,13 @@ Workfront Guide
 
 Notifications overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -272117,7 +276611,7 @@ Workfront Guide
 
 Notifications: Requests I have made
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -272636,6 +277130,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -273607,6 +278103,8 @@ Topics:
 
 Work management
 
+Resource management
+
 CREATED FOR:
 
 User
@@ -273755,11 +278253,13 @@ Workfront Guide
 
 Open proofs in the Desktop Proofing Viewer
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -273869,13 +278369,11 @@ Workfront Guide
 
 Opening a Proof in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -273950,6 +278448,8 @@ Topics:
 Work management
 
 Administration
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -274109,11 +278609,13 @@ Workfront Guide
 
 Organizational setup
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -274162,6 +278664,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -274467,11 +278971,11 @@ Workfront Guide
 
 Organize documents: article index
 
-Last update: July 8, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -274503,13 +279007,11 @@ Workfront Guide
 
 Organize your work
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -274563,11 +279065,11 @@ Workfront Guide
 
 Other enhancements during the Third Quarter 2026 release timeframe
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Product Announcements
+Administration
 
 CREATED FOR:
 
@@ -274699,15 +279201,25 @@ Workfront Guide
 
 Override job role billing rates at the company level
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 When a job role is created, you have the option to select an hourly billing rate for that role. You can create multiple hourly billing rates that are specific to a company. Each billing rate is effective for a specific date range.
 
@@ -274725,7 +279237,9 @@ table 0-row-2 1-row-2 2-row-2 layout-auto html-authored no-header
 
 Adobe Workfront package
 
-Any
+To add rate attributes to company-level billing rates: Workflow Ultimate
+
+To create company-level billing rates and edit all other rate settings: Any Workfront or Workflow package
 
 Adobe Workfront license
 
@@ -274779,13 +279293,19 @@ Click
 
 Add Billing Rate > New Billing Rate
 
-, or choose an existing rate to edit.
+, or
+
+Add Billing Rate
+
+.
 
 In the New Billing Rate dialog, select a
 
 Job Role
 
 to define the billing rate for.
+
+In the Production environment:
 
 The
 
@@ -274842,6 +279362,90 @@ Job role rates changed on the project will only impact only that project. Rates 
 Overview of overriding billing rates and calculating revenue on a project
 
 .
+
+In the Preview environment:
+
+Select attributes for the rate such as Agency, Location, or Cost Center.
+
+These attributes are defined separately and may affect revenue and cost calculations. For more information, see
+
+Define rate attributes
+
+.
+
+Select the
+
+Currency
+
+for the rate. The Workfront administrator adds the Base Currency in the Setup area. You can change the selection to another available currency, and you can change the currency on effective dated time ranges.
+
+note tip
+
+TIP
+
+Only currencies available in the Exchange Rates area in your system are available in this field. If you only have one currency set up, only that currency is available.
+
+For information about setting up the Base Currency in Workfront, see
+
+Set up exchange rates
+
+.
+
+For information about changing the currency of a project, see
+
+Change the project currency
+
+.
+
+In the
+
+Billing Rate
+
+field, enter the billing rate for the job role.
+
+This is the billing per hour rate of the job role. This value calculates the planned and actual revenues of tasks and issues associated with the role, and ultimately the planned and actual revenues of the projects. Enter the rate using the selected currency.
+
+If you use attributes, the attributes and the job role combine to define a unique rate. For example, a Designer role in New York for Agency A can have a separate rate from a Designer role in Paris for Agency B.
+
+For date effective billing rates, click
+
+Add date effective rate
+
+. Enter the hourly billing rate for the time period, and assign a Start Date and End Date as needed. The first billing rate will not have a start date and the last billing rate will not have an end date.
+
+Workfront allows you to leave gaps between date ranges, but you will receive a warning to confirm this is intentional.
+
+For information about how Workfront calculates revenue, see
+
+Overview of Billing and Revenue
+
+.
+
+note tip
+
+TIP
+
+When editing an existing rate, you can sort the list to see the most recent start date at the top of the rate list.
+
+Click
+
+Save
+
+.
+
+note
+
+NOTE
+
+Job role rates changed on the project will only impact only that project. Rates changed at the company level will impact all projects that have the company assigned. For more information, see
+
+Overview of overriding billing rates and calculating revenue on a project
+
+.
+
+style
+
+highlighted
 
 recommendation-more-help
 
@@ -275065,7 +279669,7 @@ Workfront Guide
 
 Override Project-Level Billing Rates with Company-Level Billing Rates
 
-Last update: May 13, 2026
+Last update: September 3, 2026
 
 Topics:
 
@@ -275109,9 +279713,9 @@ Access requirements in Workfront documentation
 
 .
 
-Enable the Company-level Billing Rates override option
+Turn on the Company-level Billing Rates override option
 
-When a company is associated with a project and this option is enabled, changes made to the company-level billing rates override the billing rate set on the project.
+When a company is associated with a project and this option is turned on, changes made to the company-level billing rates override the billing rate set on the project.
 
 When a user manually recalculates finances on the project, any changes to the company-level billing rates are applied. Historical revenue calculations are also overridden unless they are marked as billed.
 
@@ -275133,7 +279737,7 @@ In the
 
 Finance
 
-section, enable the
+section, select
 
 Allow company-level billing rates to override project-level billing rates
 
@@ -275147,9 +279751,11 @@ Enabling this option overrides historical revenue calculations unless they are m
 
 Create billing records
 
+.
+
 Click
 
-Save Changes
+Save
 
 .
 
@@ -275179,7 +279785,7 @@ Companies
 
 .
 
-Click the name of the company that is associated with the project for which you enabled company-level billing rates override.
+Click the name of the company that is associated with the project for which you turned on the company-level billing rates override.
 
 Click
 
@@ -275187,15 +279793,17 @@ Billing Rates
 
 in the left panel.
 
-Update the
-
-Company Billing Rate
-
-and start/end dates for an existing job role, then press Enter.
-
-To add a new date effective company billing rate, select a billing rate for the job role and click
+Select the job role rate to update and click the
 
 Edit
+
+icon
+
+.
+
+Update the billing rate and effective dates as needed, and click
+
+Save
 
 . For more information on date effective company billing rates, see
 
@@ -275209,23 +279817,17 @@ Multiple projects:
 
 Go to a list of projects.
 
-Select the checkbox in line with the projects you want to update.
+Select the check boxes for the projects you want to update.
 
-Click
+Click the
 
-Edit
+More
 
-.
+menu
 
-In the Settings section, enable the
+at the top of the list, then click
 
-Recalculate Costs And Revenues
-
-option.
-
-Click
-
-Save Changes
+Recalculate Finance
 
 .
 
@@ -275242,6 +279844,12 @@ menu
 next to the project name in the header, then click
 
 Recalculate Finance
+
+.
+
+For more information on recalculating finance for one or more projects, see
+
+Recalculate project finances
 
 .
 
@@ -275263,11 +279871,11 @@ Workfront Guide
 
 Override user billing rates at the project level
 
-Last update: May 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Work Management
+Work management
 
 CREATED FOR:
 
@@ -275471,11 +280079,11 @@ Workfront Guide
 
 Override user cost rates at the project level
 
-Last update: May 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Work Management
+Work management
 
 CREATED FOR:
 
@@ -275683,13 +280291,17 @@ Workfront Guide
 
 Overview of Adobe Experience Manager Assets integrations
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -275785,19 +280397,19 @@ Workfront Guide
 
 Overview of assigning work in the Workload Balancer
 
-Last update: August 20, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
 
 CREATED FOR:
 
 User
 
-As a resource manager, you can use the Adobe Workfront Workload Balancer to view work items that have not yet been assigned to users and Task Collaborators, as well as assign these items to them.
+As a resource manager, you can use the Adobe Workfront Workload Balancer to view work items that have not yet been assigned to users and Work Agents, as well as assign these items to them.
 
 For general information about the Workload Balancer, see
 
@@ -277245,6 +281857,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -278251,6 +282865,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -278719,13 +283335,15 @@ Workfront Guide
 
 Overview of defining objectives for your Adobe Workfront implementation
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -278861,7 +283479,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Goals
+Administration
 
 CREATED FOR:
 
@@ -281561,11 +286179,11 @@ Workfront Guide
 
 Overview of reconciling resource allocations between projects and initiatives
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Scenario Planner
+Administration
 
 CREATED FOR:
 
@@ -282021,11 +286639,11 @@ Workfront Guide
 
 Overview of revenue and cost hierarchy
 
-Last update: April 8, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Work Management
+Work management
 
 CREATED FOR:
 
@@ -282469,13 +287087,21 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
 User
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 IMPORTANT
 
@@ -282513,7 +287139,7 @@ You can manually share the following objects in Workfront Planning:
 
 Workspaces
 
-You can share workspaces with people inside your organization.
+You can share workspaces inside your organization, with users, groups, teams, companies, and job roles.
 
 When you share a workspace, all record types, records, and fields associated with the workspaces are also shared.
 
@@ -282525,7 +287151,7 @@ Share workspaces
 
 Record types
 
-You can share record types with people inside your organization.
+You can share record types inside your organization, with users, groups, teams, companies, and job roles.
 
 The level of permissions granted for the workspace displays as Inherited permissions for the record type.
 
@@ -282539,7 +287165,7 @@ Share record types
 
 Records
 
-You can share records with people inside your organization.
+You can share records with people inside your organization, with users, groups, teams, companies, and job roles.
 
 Users inherit permissions from the workspace and the record type by default.
 
@@ -282559,7 +287185,7 @@ When you share a view, all view elements are shared, including filters, grouping
 
 When you share a view, the records visible in the view are not shared. Records must be shared by sharing workspaces.
 
-You can share a view publicly, with people outside your organization when you generate a public link for a view.People accessing the record page from a public link can view all records and their fields, including connected records and fields.
+You can share a view publicly, with people outside your organization when you generate a public link for a view. People accessing the record page from a public link can view all records and their fields, including connected records and fields.
 
 For more information, see
 
@@ -282664,6 +287290,12 @@ View
 ✓
 
 ✓
+
+In addition to the permissions described in the above table, you can also change the owner of a workspace when sharing it. For information, see
+
+Share workspaces
+
+.
 
 Permissions to record types
 
@@ -282777,9 +287409,11 @@ NOTE
 
 Permissions to record fields
 
-Field permissions are inherited from the record type, when you grant permissions to the workspace and the record type.
+Permissions to record fields in the Production environment
 
-The following permissions refer to the fields themselves and not to the values associated with each field. To edit field values you must have permissions to edit records.
+Permissions to edit field settings are inherited from the record type, when you grant permissions to the workspace and the record type.
+
+The following permissions refer to the fields settings and not to the values associated with each field. To edit field values you must have permissions to edit records.
 
 Manage
 
@@ -282806,6 +287440,68 @@ View
 ✓
 
 ✓
+
+Permissions to record fields in the Preview environment
+
+Permissions to field settings are inherited from the record type, when you grant permissions to the workspace and the record type.
+
+The following permissions refer to the fields settings and not to the values associated with each field.
+
+Manage
+
+Contribute
+
+View
+
+Create
+
+✓
+
+Delete
+
+✓
+
+Edit
+
+✓
+
+View
+
+✓
+
+✓
+
+✓
+
+Permissions to field values are inherited from the record type and work in conjunction with permissions to the records.
+
+You can manage permissions to the values of individual fields and restrict fields that might contain confidential information.
+
+You can grant the following permissions to the field values by sharing a field:
+
+Manage
+
+View
+
+Delete
+
+✓
+
+Edit
+
+✓
+
+View
+
+✓
+
+✓
+
+Users must have at least View permissions to the record type to access the fields.
+
+style
+
+highlighted
 
 Permissions to views
 
@@ -282899,11 +287595,13 @@ Workfront Guide
 
 Overview of sharing permissions on objects
 
-Last update: July 7, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -283259,11 +287957,13 @@ Workfront Guide
 
 Overview of single sign-on in Adobe Workfront
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -283419,11 +288119,13 @@ Workfront Guide
 
 Overview of system project statuses
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -284363,7 +289065,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Goals
+Administration
 
 CREATED FOR:
 
@@ -284979,11 +289681,13 @@ Workfront Guide
 
 Overview of the Portfolio Optimizer score
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -285773,7 +290477,7 @@ Workfront Guide
 
 Overview of the Project, Task, and Issue dates in Workfront
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -286391,7 +291095,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -286753,13 +291457,11 @@ Workfront Guide
 
 Page Layout on the Views Tab in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -286819,11 +291521,13 @@ Workfront Guide
 
 Partner accounts in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -286866,6 +291570,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -287009,13 +291715,15 @@ Workfront Guide
 
 Personal settings in Workfront Proof
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -287053,11 +291761,13 @@ Workfront Guide
 
 Pin pages to customize your workspace
 
-Last update: June 26, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -287937,11 +292647,11 @@ Workfront Guide
 
 Plans overview in the Scenario Planner
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Scenario Planner
+Administration
 
 CREATED FOR:
 
@@ -288125,11 +292835,13 @@ Workfront Guide
 
 Portfolio Management: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -288163,13 +292875,15 @@ Workfront Guide
 
 Portfolio Management overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
 
-Resource Management
+Resource management
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -288327,11 +293041,13 @@ Workfront Guide
 
 Portfolio Optimizer overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -288667,11 +293383,13 @@ Workfront Guide
 
 Portfolios: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -288703,13 +293421,15 @@ Workfront Guide
 
 Post a Slack comment as an update
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -288821,7 +293541,7 @@ Workfront Guide
 
 Prepare to onboard your organization to the Adobe Admin Console
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -288830,6 +293550,8 @@ Work management
 Administration
 
 Integrations
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -288971,11 +293693,13 @@ Workfront Guide
 
 Prevent duplicate users
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -289171,11 +293895,13 @@ Workfront Guide
 
 Prevent spoofing and add Adobe Workfront SPF records
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -289271,11 +293997,11 @@ Workfront Guide
 
 Prevent the Recalculate Finances action from affecting historic hours when rates change
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Timesheets
+Administration
 
 CREATED FOR:
 
@@ -289316,6 +294042,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -289529,11 +294257,13 @@ Workfront Guide
 
 Preview Sandbox Testing Environment- Workfront Proof
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -289645,7 +294375,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -289738,6 +294468,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -289909,11 +294641,13 @@ Workfront Guide
 
 Print a proof summary within Adobe Workfront
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -290149,13 +294883,11 @@ Workfront Guide
 
 Print and Export Comments in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -290343,7 +295075,7 @@ Workfront Guide
 
 Priorities: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -290399,11 +295131,13 @@ Workfront Guide
 
 Prioritize important work items
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -290518,6 +295252,8 @@ Topics:
 Work management
 
 Administration
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -290899,11 +295635,11 @@ Workfront Guide
 
 Product announcements
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Product Announcements
+Administration
 
 CREATED FOR:
 
@@ -290942,6 +295678,8 @@ Topics:
 Work management
 
 Administration
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -291565,17 +296303,25 @@ Workfront Guide
 
 Project Health overview
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
 User
 
 IMPORTANT
+
+Beginning in September 2026, AI Assistant is transitioning to CX Coworker, a conversational interface for getting work done. For information on CX Coworker, see
+
+CX Coworker overview
+
+.
 
 The Project Health feature is currently only available for users participating in the beta stage.
 
@@ -293193,11 +297939,13 @@ Workfront Guide
 
 Projects I’m On filter includes unexpected results
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -293295,13 +298043,17 @@ Workfront Guide
 
 Proof a linked asset for Experience Manager Assets or Assets Essentials
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -293315,7 +298067,7 @@ This functionality is not available in the new Documents area.
 
 If your organization uses Adobe cloud storage, you will see the new Documents area when you access documents in Workfront. From there, you can add assets from Experience Manager Assets and review and approve them with the Frame.io viewer. For more information, see
 
-Use the Adobe Experience Manager with the Frame.io integration
+Use Adobe Experience Manager with Workfront and Adobe cloud storage
 
 .
 
@@ -293467,13 +298219,17 @@ Workfront Guide
 
 Proof a linked asset with the enhanced connector
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -293621,11 +298377,11 @@ Workfront Guide
 
 Proof a PowerPoint with an embedded video
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -293691,11 +298447,13 @@ Workfront Guide
 
 Groups
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -293737,11 +298495,13 @@ Workfront Guide
 
 Proof notifications and reminders
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -293783,11 +298543,13 @@ Workfront Guide
 
 Proof notifications and reminders
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -293829,11 +298591,11 @@ Workfront Guide
 
 Proof Permission Profile overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -294053,11 +298815,13 @@ Workfront Guide
 
 Proof Permissions Profiles in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -294691,11 +299455,11 @@ Workfront Guide
 
 Proof progress and status overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -294809,11 +299573,13 @@ Workfront Guide
 
 Proof Roles overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -294985,11 +299751,13 @@ Workfront Guide
 
 Proof security in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -295075,11 +299843,13 @@ Workfront Guide
 
 Proof security overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -295147,13 +299917,11 @@ Workfront Guide
 
 Proof types
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -295233,11 +300001,11 @@ Workfront Guide
 
 Proof approvals: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -295277,11 +300045,11 @@ Workfront Guide
 
 Proofing overview: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -295465,7 +300233,7 @@ Workfront Guide
 
 Push rate changes to projects
 
-Last update: August 7, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -296189,13 +300957,15 @@ Workfront Guide
 
 Recall submitted approvals
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -296633,6 +301403,8 @@ Administration
 
 Integrations
 
+Workfront Integrations and Apps
+
 CREATED FOR:
 
 User
@@ -296859,11 +301631,13 @@ Workfront Guide
 
 Receive email invitations and create a password for Adobe Workfront
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -296983,7 +301757,7 @@ Workfront Guide
 
 Recents and favorites in Adobe Workfront
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -297021,7 +301795,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -297131,7 +301905,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -297424,6 +302198,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -297770,6 +302546,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -298744,40 +303522,6 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
-# FILE: referencing-custom-forms-in-a-report-adobe-workfront.md
----
-
-Referencing Custom Forms in a Report | Adobe Workfront
-
-Documentation
-
-Workfront
-
-Workfront Guide
-
-Referencing custom forms in a report
-
-Last update: June 12, 2026
-
-Topics:
-
-Administration
-
-CREATED FOR:
-
-Admin
-
-For information on referencing custom forms in a report, see
-
-Reference a custom form in a report
-
-.
-
-recommendation-more-help
-
-workfront-help-quicksilver
-
----
 # FILE: remind-a-reviewer-about-assignments-in-workfront-proof-adobe-workfront.md
 ---
 
@@ -298791,11 +303535,13 @@ Workfront Guide
 
 Remind a reviewer about assignments in Workfront Proof
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -298885,13 +303631,15 @@ Workfront Guide
 
 Remind approvers about submitted approvals
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -299085,11 +303833,13 @@ Workfront Guide
 
 Removal of various single sign-on options
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -299136,6 +303886,8 @@ Topics:
 Work management
 
 Administration
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -299238,6 +303990,8 @@ Topics:
 Work management
 
 Administration
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -299363,6 +304117,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -299468,6 +304224,8 @@ Topics:
 Work management
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -299623,11 +304381,11 @@ Workfront Guide
 
 Remove custom SMTP as an outgoing email option
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Product Announcements
+Administration
 
 CREATED FOR:
 
@@ -299678,6 +304436,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -300071,11 +304831,13 @@ Workfront Guide
 
 Remove individual reviewer deadlines
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -300160,6 +304922,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -300317,11 +305081,13 @@ Workfront Guide
 
 Remove permissions from objects
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -300950,108 +305716,6 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
-# FILE: rename-a-custom-form-adobe-workfront.md
----
-
-Rename a Custom Form | Adobe Workfront
-
-Documentation
-
-Workfront
-
-Workfront Guide
-
-Rename a custom form
-
-Last update: May 13, 2026
-
-Topics:
-
-Administration
-
-CREATED FOR:
-
-Admin
-
-You can rename a custom form any time after it has been created with the form designer.
-
-Access requirements
-
-Expand to view access requirements for the functionality in this article.
-
-table 0-row-2 1-row-2 2-row-2 layout-auto html-authored no-header
-
-Adobe Workfront package
-
-Any
-
-Adobe Workfront license
-
-Standard
-
-Plan
-
-Access level configurations
-
-Administrative access to custom forms
-
-For information, see
-
-Access requirements in Workfront documentation
-
-.
-
-Rename a custom form with the form designer
-
-Click the
-
-Main Menu
-
-icon
-
-in the upper-left corner of Adobe Workfront, then click
-
-Setup
-
-.
-
-Click
-
-Custom Forms
-
-in the left panel.
-
-In the view that appears, you can review all custom forms that have been created for your organization. You can also see who created each form, which object type it works with, and whether it is active.
-
-Select the custom form you want to rename, then click
-
-.
-
-To change the title, click on the form name.
-
-To change the description, click into the description text box.
-
-Click
-
-Save and Close
-
-.
-
-note tip
-
-TIP
-
-You can click
-
-Apply
-
-at any point while you are creating a custom form to save your changes and keep the form open.
-
-recommendation-more-help
-
-workfront-help-quicksilver
-
----
 # FILE: renew-the-adobe-workfront-saml-20-metadata-certificate-adobe-workfront.md
 ---
 
@@ -301072,6 +305736,8 @@ Topics:
 System configuration
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -301101,11 +305767,15 @@ Workfront Guide
 
 Reorder group statuses
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -301339,7 +306009,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Agile
+Work management
 
 CREATED FOR:
 
@@ -301423,11 +306093,13 @@ Workfront Guide
 
 Reorder system-level and group statuses
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -301657,6 +306329,8 @@ Topics:
 
 Administration
 
+People Teams and Groups
+
 CREATED FOR:
 
 User
@@ -301865,7 +306539,9 @@ Last update: April 1, 2026
 
 Topics:
 
-Resource Management
+Resource management
+
+Administration
 
 CREATED FOR:
 
@@ -302249,6 +306925,8 @@ Topics:
 
 Administration
 
+Get Started with Workfront
+
 CREATED FOR:
 
 User
@@ -302406,6 +307084,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -302602,6 +307282,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -302830,6 +307512,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -303389,9 +308073,13 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
 
 You can schedule reports to be automatically delivered to users on a defined schedule, or you can send reports on one-time basis, manually. When you send a report from Adobe Workfront, the user receives an email with the Workfront report in a separate attachment.
 
@@ -303420,6 +308108,8 @@ Consider the following when scheduling reports for delivery:
 You can schedule up to 10 repeating report deliveries for any given report.
 
 You can schedule a report to be delivered only if you are the creator of the report. If you need to send a report that you did not create, you can send it on a manual basis.
+
+In Preview, every scheduled report delivery must have a defined end date. If a delivery was previously set to Never, Workfront automatically sets the end date to 13 months from the next date the report is sent.
 
 Export limits
 
@@ -303563,6 +308253,8 @@ Formatting
 
 Links
 
+Report expiration notices
+
 Subject line, attachment name, and report title
 
 subject-line-attachment-name-and-report-title
@@ -303647,6 +308339,20 @@ When you send a report from Workfront to PDF or Excel format, any working links 
 
 The name of the report in the email message is also a link.
 
+Report expiration notices
+
+report-expiration-notices
+
+In Preview, delivered report emails include the report’s expiration date.
+
+If the delivery repeats daily, the email includes an expiration warning on every delivery once the expiration date is within 45 days.
+
+If the delivery repeats weekly or monthly, the email includes an expiration warning during the last four scheduled deliveries before the expiration date.
+
+style
+
+highlighted
+
 Report on scheduled reports
 
 You can see whether a report has been configured to be delivered by creating the following:
@@ -303678,6 +308384,360 @@ Create a custom report
 Create a report on reporting activities
 
 .
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
+# FILE: report-filter-reference-for-canvas-dashboards-adobe-workfront.md
+---
+
+Report filter reference for Canvas Dashboards | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Report filter reference for Canvas Dashboards
+
+Last update: September 25, 2026
+
+Topics:
+
+Administration
+
+Reports and dashboards
+
+CREATED FOR:
+
+User
+
+IMPORTANT
+
+The Canvas Dashboards feature is currently only available for users participating in the beta stage. Parts of the feature may not be complete or work as intended during this stage. Please submit any feedback regarding your experience by following the instructions in the
+
+Provide feedback
+
+section in the Canvas Dashboards beta overview article.
+
+If you have feedback regarding a possible bug or technical issue, please submit a ticket to Workfront Support. For more information, see
+
+Contact Customer Support
+
+.
+
+Please note that this beta is not available on the following cloud providers:
+
+Bring Your Own Key for Amazon Web Services
+
+Azure
+
+Google Cloud Platform
+
+This article describes the fields, operators, wildcards, and special rules available when you filter a report. For the steps to build or edit a filter, see
+
+Filter a report in a Canvas Dashboard
+
+.
+
+Field operators by field type
+
+Expand to view list of field operators by field type.
+
+table 0-row-4 1-row-4 2-row-4 3-row-4 4-row-4 5-row-4 html-authored no-header
+
+Field Type
+
+Example
+
+Operators
+
+Wildcards
+
+Object / Reference Name
+
+Any native name attribute or custom lookup
+
+Equal
+
+Not Equal
+
+Contains
+
+Not Contains
+
+Is Null
+
+Is Not Null
+
+User: Name
+
+Me (Logged in user)
+
+Group: Name
+
+My home group (Logged in user group)
+
+My other groups (Logged in user groups)
+
+Team: Name
+
+My default team (Logged in user team)
+
+My other teams (Logged in user teams)
+
+String / Text Input
+
+Project: Description
+
+Equal
+
+Not Equal
+
+Contains
+
+Not Contains
+
+Is Null
+
+Is Not Null
+
+Integer / Double
+
+Project: Planned Hours
+
+Task: Percent Complete
+
+Equal
+
+Not Equal
+
+Greater Than
+
+Greater Than or Equal
+
+Less Than
+
+Less Than or Equal
+
+Is Null
+
+Is Not Null
+
+Date / Date Time
+
+Project: Planned Start Date
+
+Hour: Entry Date
+
+Equal
+
+Not Equal
+
+By toggling on the
+
+Set relative date
+
+option, you can apply relative date wildcards to make the report more dynamic and self-adjust based on common date periods.
+
+$$TODAY
+
+$$NOW
+
+Boolean
+
+Project: Has Documents
+
+Task: Is Critical
+
+User: Is Active
+
+Equal
+
+Not Equal
+
+Date-based wildcard filter variables
+
+Date-based wildcard options can be used in combination with any date filter attribute. For information about adding a date-based wildcard to a report, see
+
+Use date-based wildcards to generalize reports
+
+.
+
+NOTE
+
+If you create a date and time calculation that doesn’t include a time portion, or that uses the date wildcards $$TODAY or $$NOW, the system uses the date according to the Coordinated Universal Time (UTC) zone, not according your local timezone. This can cause an unexpected date result.
+
+You can choose from the following date-based wildcards:
+
+$$TODAY
+
+We recommend that you build date-sensitive filters using this wildcard so you avoid building the filter again tomorrow, next week, or next month.
+
+For example, if you want to display all tasks due before today, you can use the following rule in a task filter:
+
+Planned Start Date Less Than $$TODAY
+
+.
+
+$$TODAY is always equal to midnight for the current day.
+
+$$NOW
+
+This is similar to the $$TODAY wildcard but includes the current date and time. $$NOW is equal to the current date and time.
+
+For example, if you want to display all hour entries provided up to the current time, you can do this by using the following rule in an hour filter:
+
+Planned Start Date Less Than $$NOW
+
+.
+
+Note: This wildcard is not supported in the Resource Planner.
+
+To indicate various periods of time and various points in time (future or past), you can combine the wildcards above with the following:
+
+Attributes
+
+q
+
+calendar quarter
+
+h
+
+hour
+
+d
+
+day
+
+w
+
+week
+
+m
+
+month
+
+y
+
+year
+
+Qualifiers
+
+b
+
+beginning of the period (without a specified attribute, defaults to beginning of the week: Sunday)
+
+e
+
+ending of the period (without a specified attribute, defaults to end of the week: Saturday)
+
+Operators
+
++
+
+add value to wildcard value
+
+-
+
+subtract value from wildcard value
+
+For example, the wildcard
+
+$$TODAYb+2w
+
+refers to “2 weeks from the beginning of this week.” The wildcard
+
+$$NOW+2h
+
+refers to “2 hours from now.”
+
+Logged-in user wildcard filter variables
+
+When filtering on the user
+
+name
+
+attribute, you will view the
+
+Me (Logged in user)
+
+option.
+
+When filtering on a group
+
+name
+
+attribute, you will view the
+
+My home group (Logged in user group)
+
+and
+
+My other groups (Logged in user groups)
+
+options to use in a filter condition.
+
+When filtering on a team
+
+name
+
+attribute, you will view the
+
+My default team (Logged in user team)
+
+and
+
+My other teams (Logged in user teams)
+
+options to choose from in the filter condition.
+
+Referencing children objects
+
+Available relationships for additional columns, filter options, and grouping attributes are generally limited to objects higher in the Workfront object hierarchy or otherwise have a single selection on the report’s base entity object. There are some exceptions to this, which include the following:
+
+Project > Tasks
+
+Document Approval > Document Approval Stages
+
+Document Approval Stages > Document Approval Stage Participants
+
+When utilizing any of the parent-to-child relationships listed above, you will see a row in the table for each child record connected to the parent object.
+
+Exclude personal projects, tasks, and bot users
+
+NOTE
+
+If a Canvas Dashboards report returns more results than you expect compared to a similar classic report, personal projects, personal tasks, or bot users may be included by default. Add a filter condition to exclude them.
+
+In Canvas Dashboards Project and Task reports, the
+
+isPersonal
+
+filter is not automatically applied, so personal projects and personal tasks are included in the results by default. To exclude them, add a filter condition such as
+
+isPersonal=false
+
+.
+
+Similarly, Canvas Dashboards User reports include all users by default, including AI Collaborators (bot users). To exclude bot users, add a filter condition such as
+
+isBot=false
+
+.
+
+Classic Project and Task reports automatically exclude personal projects and personal tasks, and classic User reports automatically exclude bot users. To include them in a classic report instead, add a filter condition such as
+
+isPersonal=true
+
+(personal items only) or
+
+isPersonal_Mod=notnull
+
+(personal and non-personal items).
 
 recommendation-more-help
 
@@ -303742,6 +308802,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -305011,7 +310073,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -305047,11 +310109,11 @@ Workfront Guide
 
 Reporting basics: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -305086,6 +310148,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -305237,7 +310301,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -305325,7 +310389,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -305371,11 +310435,11 @@ Workfront Guide
 
 Reports and Dashboards: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -305414,6 +310478,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -305813,7 +310879,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -305930,6 +310996,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -306065,13 +311133,15 @@ Workfront Guide
 
 Request a legacy document approval
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -306243,11 +311313,13 @@ Workfront Guide
 
 Request a new data backup in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -306481,11 +311553,13 @@ Workfront Guide
 
 Request access to objects
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -306918,6 +311992,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -307471,11 +312547,13 @@ Workfront Guide
 
 Reset a user’s preferences
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -307639,11 +312717,13 @@ Workfront Guide
 
 Reset your password
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -307686,6 +312766,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -308229,11 +313311,13 @@ Workfront Guide
 
 Resolve proof comments
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -309615,11 +314699,13 @@ Workfront Guide
 
 Restore an archived proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -309695,13 +314781,11 @@ Workfront Guide
 
 Restore and Empty the Trash in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -309779,11 +314863,13 @@ Workfront Guide
 
 Restore deleted items
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -310073,6 +315159,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -310229,11 +315317,13 @@ Workfront Guide
 
 Restore individual child objects
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -310369,6 +315459,8 @@ Topics:
 
 Administration
 
+System Setup and Administration
+
 CREATED FOR:
 
 Admin
@@ -310491,13 +315583,13 @@ Workfront Guide
 
 Restrict access to financial data in custom fields
 
-Last update: May 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
 System Setup and Administration
 
-Custom Forms
+Administration
 
 CREATED FOR:
 
@@ -310721,6 +315813,8 @@ Work management
 
 Administration
 
+Resource management
+
 CREATED FOR:
 
 User
@@ -310923,11 +316017,11 @@ Workfront Guide
 
 Review a proof: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -310975,11 +316069,13 @@ Workfront Guide
 
 Review a Proof in Basecamp
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -311131,11 +316227,13 @@ Workfront Guide
 
 Review a Proof in Basecamp Classic
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -311353,13 +316451,11 @@ Workfront Guide
 
 Review a proof simultaneously with multiple reviewers
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -311403,13 +316499,11 @@ Workfront Guide
 
 Review a Workflow in the proofing viewer
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -311495,6 +316589,10 @@ Topics:
 
 Integrations
 
+Workfront Integrations and Apps
+
+Resource management
+
 CREATED FOR:
 
 User
@@ -311507,9 +316605,7 @@ Get started with the proofing and Creative Cloud Express
 
 Unified review and approval overview
 
-Use the Adobe Experience Manager with the Frame.io integration
-
-Link assets from Experience Manager Assets with Adobe cloud storage
+Use Adobe Experience Manager with Workfront and Adobe cloud storage
 
 Get started with the Adobe Express and Workfront with Frame.io integration
 
@@ -311531,11 +316627,13 @@ Workfront Guide
 
 Review and approve documents: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
+
+Resource management
 
 CREATED FOR:
 
@@ -311583,9 +316681,13 @@ Work management
 
 Integrations
 
+Resource management
+
 CREATED FOR:
 
 User
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
 
 You can review and approve documents in Workfront using the Frame.io viewer.
 
@@ -311667,7 +316769,11 @@ Add, edit, or remove widgets in Home
 
 In Frame.io, use the commenting tools to leave feedback or ask questions.
 
-Comments and asset markup is visible only in the Frame.io viewer. Comments do not display in Workfront. For more information on using the Frame.io viewer, see
+Comments and asset markup is visible only in the Frame.io viewer. Comments do not display in Workfront.
+
+However, the comments panel for the document in Workfront shows a callout with a count of those comments, when a count is available, and a link to open the Frame.io viewer and read them.
+
+For more information on using the Frame.io viewer, see
 
 Commenting on your media
 
@@ -311713,6 +316819,12 @@ Commenting on your media
 
 .
 
+note
+
+NOTE
+
+In preview, the Comments panel in Workfront displays a message letting you know when new comments are available in Frame.io.
+
 Once you’re satisfied with the document, you can choose one of the following decisions in the Frame.io viewer:
 
 Approve
@@ -311753,13 +316865,15 @@ Workfront Guide
 
 Review and approve work
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -311793,7 +316907,7 @@ Workfront Guide
 
 Review and make decisions on proofs in the Adobe Workfront mobile app
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -312237,11 +317351,11 @@ Workfront Guide
 
 Review interactive content with the Adobe Workfront review tool
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -312437,6 +317551,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -312539,11 +317655,11 @@ Workfront Guide
 
 Review non-interactive content in the Desktop Proofing Viewer
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -312575,13 +317691,11 @@ Workfront Guide
 
 Review proofs in the Desktop Proofing Viewer
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -312619,13 +317733,11 @@ Workfront Guide
 
 Review proofs in the Web Proofing Viewer
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -312679,11 +317791,11 @@ Workfront Guide
 
 Review proofs within Adobe Workfront: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -312726,6 +317838,8 @@ Topics:
 Work management
 
 Administration
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -313327,139 +318441,13 @@ User
 
 IMPORTANT
 
+Beginning in September 2026, AI Assistant is transitioning to CX Coworker, a conversational interface for getting work done. For information on CX Coworker, see
+
+CX Coworker overview
+
+.
+
 The functionality to generate formulas using AI Assistant has been removed from Adobe Workfront.
-
-recommendation-more-help
-
-workfront-help-quicksilver
-
----
-# FILE: rich-text-field-storage-in-the-api-adobe-workfront.md
----
-
-Rich Text Field Storage in the API | Adobe Workfront
-
-Documentation
-
-Workfront
-
-Workfront Guide
-
-Rich text field storage in the API
-
-Last update: June 12, 2026
-
-Topics:
-
-Administration
-
-CREATED FOR:
-
-Admin
-
-If an object such as a project, issue, or task contains rich text, it is stored and accessible as a parameter value through the Workfront API.
-
-Requesting text information from a project object that contains rich text can be done using the field
-
-parameterValues
-
-.
-
-For example, a simple HTTP request could resemble the following:
-
-https://your-company.workfront.com/attask/api/v11.0/project?ID=your-project-ID&fields=parameterValues:*
-
-If this example project contained a custom form with 3 custom fields: calc field, paragraph text, and rich 1. Then the above request would return a response that resembles the following, where the field “rich 1” is a rich text parameter field and the text value is “
-
-Hello
-
-World!
-
-”:
-
-{
-
-Data: {
-
-ID: "xxxxxxxxxxxxxxxxxxxxxxx",
-
-name: "new project with rich text",
-
-objCode: "PROJ",
-
-- parameterValues: {
-
-DE:rich 1: "{
-
-"blocks":[
-
-{
-
-"key":"7eibh",
-
-"text":"Hello Word!",
-
-"type":"unstyled",
-
-"depth":0,
-
-"inlineStyleRanges":[
-
-{
-
-"offset":0,
-
-"length":6,
-
-"style":"BOLD"
-
-},
-
-{
-
-"offset":6,
-
-"length":5,
-
-"style":"ITALIC"
-
-}
-
-],
-
-"entityRanges":[
-
-],
-
-"data":{
-
-}
-
-}
-
-],
-
-"entityMap":{
-
-}
-
-}",
-
-DE: paragraph text: "here is some paragraph text",
-
-DE: calc field: "here is a calc field entry",
-
-}
-
-}
-
-}
-
-For a more in depth look at how rich text information is stored and can be retrieved through the Adobe Workfront API, see
-
-Rich text fields in the Adobe Workfront API
-
-.
 
 recommendation-more-help
 
@@ -313479,11 +318467,13 @@ Workfront Guide
 
 Roll back an environment promotion package
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -313619,7 +318609,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -313893,6 +318883,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -314048,6 +319040,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -314365,13 +319359,11 @@ Workfront Guide
 
 Run Reports in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -314607,11 +319599,13 @@ Workfront Guide
 
 Satellite accounts in Workfront Proof
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -314711,11 +319705,13 @@ Workfront Guide
 
 Satellite accounts in Workfront Proof
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -314911,7 +319907,7 @@ Workfront Guide
 
 Save an email header file
 
-Last update: May 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -315041,7 +320037,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -315081,9 +320077,13 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
 
 You can schedule reports to automatically deliver to users on a defined schedule, or you can manually send reports on a one-time basis. When you send a report from Adobe Workfront, the user receives an email with the Workfront report in a separate attachment.
 
@@ -315149,8 +320149,6 @@ Reports
 
 .
 
-note
-
 NOTE
 
 Report deliveries do not contain prompts. If you wish to limit data in a report delivery, we recommend applying filters to the report that you want to send.
@@ -315207,7 +320205,7 @@ section on the right side of the dialog box.
 
 Specify the following information:
 
-table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 8-row-2 9-row-2 10-row-2 11-row-2 12-row-2 13-row-2 layout-auto html-authored no-header
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 8-row-2 9-row-2 10-row-2 11-row-2 12-row-2 13-row-2 14-row-2 layout-auto html-authored no-header
 
 Send to
 
@@ -315315,6 +320313,8 @@ Repeats
 
 Select whether the report should be delivered daily, weekly, monthly, or yearly.
 
+In Preview, select whether the report should be delivered daily, weekly, or monthly.
+
 Repeats Every
 
 Select the frequency with which you want the delivery to repeat. The value you select for this option is based on the option that is selected in the
@@ -315377,6 +320377,10 @@ Ends On
 
 Select a date for the scheduled delivery to end.
 
+In Preview, select a date for the scheduled delivery to end.
+
+Note: The end date can be no more than 13 months from the day you create or update the delivery rule.
+
 Never
 
 Select
@@ -315384,6 +320388,22 @@ Select
 Never
 
 if you want the scheduled delivery to last indefinitely.
+
+This option is no longer available in Preview or fast-release environments.
+
+Active
+
+Toggle on to keep this delivery active. New deliveries are Active by default.
+
+When the
+
+Ends On
+
+date passes, Workfront automatically turns this toggle off and disables it. To resume delivery, update the
+
+Ends On
+
+date to a date in the future, then turn the toggle back on.
 
 Click
 
@@ -315597,7 +320617,9 @@ Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -315719,7 +320741,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Agile
+Work management
 
 CREATED FOR:
 
@@ -315769,7 +320791,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Agile
+Work management
 
 CREATED FOR:
 
@@ -315871,7 +320893,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Agile
+Work management
 
 CREATED FOR:
 
@@ -315903,11 +320925,13 @@ Workfront Guide
 
 Search Adobe Workfront
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -316297,11 +321321,13 @@ Workfront Guide
 
 Search content within a proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -316398,6 +321424,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -316645,13 +321673,15 @@ Workfront Guide
 
 Search for Adobe Workfront items from Slack
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -316771,13 +321801,15 @@ Workfront Guide
 
 Search for and share Adobe Workfront items in Microsoft Teams
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -316937,13 +321969,11 @@ Workfront Guide
 
 Searching Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -317029,11 +322059,13 @@ Workfront Guide
 
 Security
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -317235,13 +322267,17 @@ Workfront Guide
 
 Send a Document to Experience Manager Assets or Assets Essentials
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -317267,7 +322303,7 @@ This functionality is not available in the new Documents area.
 
 If your organization uses Adobe cloud storage, you will see the new Documents area when you access documents in Workfront. From there, you can send assets to Experience Manager Assets. For more information, see
 
-Use the Adobe Experience Manager with the Frame.io integration
+Use Adobe Experience Manager with Workfront and Adobe cloud storage
 
 .
 
@@ -317459,13 +322495,17 @@ Workfront Guide
 
 Send a Document with the enhanced connector
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -317603,11 +322643,13 @@ Workfront Guide
 
 Send a reminder message to the reviewers on a proof
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -317775,6 +322817,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -317920,6 +322964,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -318143,7 +323189,7 @@ Workfront Guide
 
 Send direct messages to other users
 
-Last update: October 17, 2025
+Last update: September 25, 2026
 
 Topics:
 
@@ -318345,11 +323391,13 @@ Workfront Guide
 
 Send email messages to reviewers on a proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -318481,11 +323529,13 @@ Workfront Guide
 
 Send messages to reviewers
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -318523,11 +323573,13 @@ Workfront Guide
 
 Set a custom condition as the default for projects
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -318643,11 +323695,13 @@ Workfront Guide
 
 Set a custom condition as the default for tasks and issues
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -318769,11 +323823,13 @@ Workfront Guide
 
 Set a deadline for an existing basic proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -318863,11 +323919,11 @@ Workfront Guide
 
 Set default permissions for records
 
-Last update: August 3, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -319119,11 +324175,13 @@ Workfront Guide
 
 Set individual reviewer deadlines
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -319821,11 +324879,11 @@ Workfront Guide
 
 Set up a Job Role for Billing
 
-Last update: May 19, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Work Management
+Work management
 
 CREATED FOR:
 
@@ -320053,13 +325111,11 @@ Workfront Guide
 
 Set up a proof with an Automated Workflow in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -320401,11 +325457,13 @@ Workfront Guide
 
 Set up Adobe Workfront: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -320443,15 +325501,15 @@ Workfront Guide
 
 Set up and manage Adobe Cloud Drive for your organization
 
-Last update: July 14, 2026
+Last update: September 25, 2026
 
 Topics:
-
-Digital Content and Documents
 
 Workfront Integrations and Apps
 
 System Setup and Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -321425,13 +326483,15 @@ Topics:
 
 Work management
 
+Resource management
+
 CREATED FOR:
 
 User
 
 This section contains the following articles:
 
-Create and manage brands for the Content Reviewer
+Create and manage brands for the AI Reviewer
 
 Create a document review or approval request
 
@@ -321440,6 +326500,8 @@ Add additional reviewers or approvers to an asset or document
 Remove approvers or reviewers from an asset or document
 
 Create an Approval Template for assets and documents
+
+Manage approval templates
 
 Use Unified Approvals and proofing together
 
@@ -321470,6 +326532,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -321673,11 +326737,13 @@ Workfront Guide
 
 Set up exchange rates
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -321949,11 +327015,11 @@ Workfront Guide
 
 Set up interactive content proofing in Web Proofing Viewer
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -322057,13 +327123,17 @@ Workfront Guide
 
 Set up metadata mapping
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+System Setup and Administration
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -322234,6 +327304,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -322543,11 +327615,13 @@ Workfront Guide
 
 Setting time zones in Workfront Proof
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -322648,6 +327722,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -322857,6 +327933,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -323039,11 +328117,13 @@ Workfront Guide
 
 Share a custom form
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -323305,6 +328385,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -323464,6 +328546,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -323690,6 +328774,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -324212,6 +329298,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -325245,11 +330333,13 @@ Workfront Guide
 
 Share a portfolio
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -325611,11 +330701,13 @@ Workfront Guide
 
 Share a program
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -325942,6 +331034,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -326557,11 +331651,13 @@ Workfront Guide
 
 Share a proof from the proofing viewer
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -326899,13 +331995,11 @@ Workfront Guide
 
 Share a Proof in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -327057,11 +332151,13 @@ Workfront Guide
 
 Share a proof within Adobe Workfront
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -327349,7 +332445,7 @@ Workfront Guide
 
 Share a rate card
 
-Last update: April 7, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -327466,6 +332562,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -327697,11 +332795,13 @@ Workfront Guide
 
 Share a task
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -328175,11 +333275,13 @@ Workfront Guide
 
 Share an issue
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -328603,11 +333705,13 @@ Workfront Guide
 
 Share an object
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -328753,7 +333857,7 @@ Workfront Guide
 
 Share and download proofs in the Adobe Workfront mobile app
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -328993,13 +334097,11 @@ Workfront Guide
 
 Share Files in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -329147,7 +334249,9 @@ Topics:
 
 Administration
 
-Resource Management
+Resource management
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -329383,13 +334487,11 @@ Workfront Guide
 
 Share Folders in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -329587,11 +334689,13 @@ Workfront Guide
 
 Share items with a partner in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -329674,6 +334778,202 @@ Change
 link. (1)
 
 Choose a user from a Partner account to be the owner of the proof. (2)
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
+# FILE: share-planning-requests-adobe-workfront.md
+---
+
+Share Planning requests | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Share Planning requests
+
+Last update: September 25, 2026
+
+Topics:
+
+Work management
+
+CREATED FOR:
+
+User
+
+Admin
+
+The information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
+IMPORTANT
+
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
+
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
+
+For general information about Workfront Planning, see
+
+Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
+
+.
+
+After a Planning request is submitted, you can control who sees it, who can work on it, and what actions each person or team is allowed to take. This keeps the right people focused on the right requests — and ensures they can take only the actions appropriate to their role.
+
+Access requirements
+
+Expand to view access requirements for the functionality in this article.
+
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 layout-auto html-authored no-header
+
+Adobe Workfront package
+
+Any Workfront or Workflow with a Planning package
+
+Or
+
+Any Workfront Planning when purchased as a standalone product
+
+Adobe Workfront license
+
+Any
+
+Adobe Planning license
+
+Any
+
+Access level configuration
+
+You must add both a Workflow and a Planning license type to the access level when you have both a Workflow and a Planning package
+
+Object permissions
+
+View or higher permissions to a workspace and record type, if you are a Workfront user
+
+For more information about Workfront access requirements, see
+
+Access requirements in Workfront documentation
+
+.
+
+Considerations when sharing requests
+
+You can grant the following permissions to users to a request:
+
+View: Users can only see the request.
+
+Contribute: Users can view, edit, and comment on the request.
+
+Manage: Users can view, edit, comment on, and delete the request.
+
+Requesters are automatically granted Manage access to the requests they submit, unless an admin has configured a different default.
+
+For information, see
+
+Create request form
+
+.
+
+Workfront administrators can access and manage all requests.
+
+Users with Manage access to a record type inherit Manage access to that record type’s intake form and to every request submitted through it.
+
+Anyone with permissions to a request can share the request with the same permission level or lower a lower level than their own.
+
+Users with Contribute permissions cannot give anyone else Manage permissions to the request.
+
+Different people and teams can hold different levels of access on the same request.
+
+Permissions could be assigned through multiple entities. If a user has Contribute permissions to a request but their group or job role has View permissions, they retain the highest level of permissions which is Contribute.
+
+Requests inherit permissions from the workspace and the record type. You cannot remove or edit Inherited permissions for Planning requests.
+
+Share a request
+
+Ensure you are using the new request experience.
+
+{{step1-to-requests}}
+
+Find a Planning request and click it to open it.
+
+Click
+
+Share
+
+.
+
+The
+
+Share
+
+box opens for the selected request.
+
+In the
+
+Grant access to this request field
+
+, start typing the name of a user, team, role, group or company and click it when it displays on the list.
+
+Only active entities display in the list.
+
+From the drop-down menu to the right of each entity’s name, select one of the following permissions levels:
+
+Manage
+
+Contribute
+
+View
+
+(Optional) For each permission level, click the granular permission icon and select or deselect any granular permissions, like
+
+Edit
+
+,
+
+Comment
+
+,
+
+Share
+
+, or
+
+Delete
+
+.
+
+(Optional) Expand the Inherited permissions line to view who gains permissions from the workspace and the record type.
+
+note tip
+
+TIP
+
+You cannot remove or edit Inherited permissions for Planning requests.
+
+Click
+
+Save
+
+.
+
+The request is shared with the entities you selected.
 
 recommendation-more-help
 
@@ -329987,13 +335287,11 @@ Workfront Guide
 
 Share proof links in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -330103,13 +335401,11 @@ Workfront Guide
 
 Share proofs and files
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -330165,7 +335461,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -330532,6 +335828,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -330981,6 +336279,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -331195,11 +336495,13 @@ Workfront Guide
 
 Share reports, dashboards, and calendars
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -331329,13 +336631,11 @@ Workfront Guide
 
 Share the Public URL in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -331850,6 +337150,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -332434,6 +337736,384 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
+# FILE: share-workfront-planning-fields-adobe-workfront.md
+---
+
+Share Workfront Planning Fields | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Share Workfront Planning fields
+
+Last update: October 1, 2026
+
+Topics:
+
+Work management
+
+CREATED FOR:
+
+User
+
+Admin
+
+IMPORTANT
+
+The information in this article refers to Adobe Workfront Planning which your organization can purchase either as an Adobe Workfront package or a standalone product.
+
+Not all capabilities included in the Planning package are available to Workfront Planning when it is purchased as a standalone product.
+
+For general information about Workfront Planning, see
+
+Get started with Adobe Workfront Planning
+
+.
+
+For information about Workfront Planning as a standalone product, see
+
+Get started with Adobe Workfront Planning as a standalone product
+
+.
+
+The information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
+You can share the field of a Workfront Planning record with others to ensure collaboration when using Adobe Workfront Planning.
+
+Field sharing lets workspace administrators control access to an individual field. Each field in a record type has its own sharing dialog where access can be set to No Access, View field values, or Manage field values.
+
+Access requirements
+
+Expand to view access requirements for the functionality in this article.
+
+table 0-row-0 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 layout-auto html-authored no-header
+
+Adobe Workfront package
+
+Any Workfront or Workflow with a Planning package
+
+Or
+
+Any Workfront Planning as a standalone product package
+
+Adobe Workfront license
+
+Any
+
+Adobe Planning license
+
+Any
+
+Access level configuration
+
+You must add both a Workflow and a Planning license type to the access level when you have both a Workflow and a Planning package
+
+Object permissions
+
+Manage permissions to a field to change values for the field
+
+Contribute or higher permissions to a record type to inherit Manage permissions to the field
+
+For more information about Workfront access requirements, see
+
+Access requirements in Workfront documentation
+
+.
+
+Considerations about sharing fields
+
+You can share fields with users, job roles, groups, teams, or companies.
+
+Field sharing controls access to values, not field settings. Only workspace managers can change a field’s configuration.
+
+You cannot remove access to a field from someone with access to the record type.
+
+You can only share fields from the table view of a record type.
+
+You cannot share the following types of fields:
+
+System fields (for example, Created By, Record ID)
+
+Primary fields
+
+Lookup fields. They always inherit the permissions of their source object fields.
+
+Formula fields always show the correctly calculated value regardless of the viewer’s access to referenced fields. You must share the formula field separately to restrict its output.
+
+Access to a field comes from combining the following settings:
+
+Inherited permissions
+
+: By default, a field inherits the same access someone has on the record type. You can turn off Inherited permissions and give users a lower access to the field than they have for the record type.
+
+The
+
+Everyone with access to the record type can view
+
+or
+
+Only invited people can access
+
+selection. You can either allow everyone with permissions to the workspace to view the field or give permissions only to individual entities.
+
+If multiple rules apply to the same person, they receive the highest permission available to them from one of the rules.
+
+You must have both record and field permissions to see the values of a field for one record.
+
+To make a field view-only for everyone in a workspace, ensure the following setup exists:
+
+Turn off inherited permissions
+
+Keep the
+
+Everyone with access to the record type can view
+
+setting
+
+Do not add any individual entities.
+
+Depending on the record type permissions, users can receive the following field permissions:
+
+View record type permissions give a user permissions to view field values
+
+Contribute or Manage record type permissions give a user permissions to manage field values
+
+Only workspace owners and managers can adjust field permissions. Workspace managers always retain Manage access to all fields and this cannot be lowered.
+
+Adding someone to a field’s sharing list does not grant them workspace or record-type access. If they lack that access, a warning icon indicates the permission will only take effect once they’re added to the record type.
+
+Fields with restricted permissions are enforced everywhere where the field displays. This includes all the views, record details pages, connections and lookup fields, Canvas dashboards, the API, and MCP tools.
+
+Fields on request forms are open to anyone submitting the form, regardless of field sharing.
+
+Restricted fields are also not visible in exported files as well as files you import.
+
+Public views remain fully visible and read-only to anyone that can access them.
+
+Restricted field value changes are not recorded in the History of a record.
+
+Permission changes for fields don’t trigger notifications.
+
+For global record types, field permissions apply across all secondary workspaces and can’t be adjusted locally.
+
+When someone adds a field to a global record typ in the main workspace, this creates a private view. This view is not accessible from the secondary global record workspace. You must open the global record in the secondary workspace with a new view where the added field, if the permissions are not restricted, displays as a hidden field.
+
+Share fields
+
+As a workspace manager, you can adjust permissions to individual fields.
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-left corner of Adobe Workfront, then click
+
+Planning
+
+.
+
+The Workfront Planning landing page opens.
+
+Open the workspace, then the record type whose fields you want to share.
+
+From the table view, hover over the name of a field’s column header, click the
+
+More
+
+menu
+
+, then click
+
+Share field
+
+.
+
+The
+
+Share
+
+box opens.
+
+(Optional) In the
+
+Grant access
+
+area, the
+
+Everyone with access to the record type can view
+
+option is selected by default. All users that have
+
+View
+
+or higher permissions to the workspace and record type have the same permissions to the field.
+
+(Optional) Click the avatars of users under the
+
+Inherited permissions from
+
+option to view users, teams, groups, companies, or job roles that inherit permissions from the workspace.
+
+The user’s permissions to the record type displays when you expand the inherited permissions.
+
+note tip
+
+TIP
+
+You cannot remove individual entities from the inherited permissions list. The users from teams, groups, companies or job roles are listed instead of the entities they were associated with when the workspace and the record type was shared with them.
+
+(Optional and conditional) If you want to share the field with specific entities and give them a different access to the field than they already have for the record type, do the following:
+
+Deselect the
+
+Turned on
+
+option from
+
+Inherited permissions
+
+. It is selected by default.
+
+The option changes to
+
+Turned off
+
+.
+
+note tip
+
+TIP
+
+Workspace managers continue to have Manage permissions to the record type and the field.
+
+(Optional) Click the
+
+Everyone with access to the record type can view
+
+dropdown menu and select
+
+Only invited people can access
+
+. The
+
+Only invited people can access
+
+option is not available for primary fields.
+
+note important
+
+IMPORTANT
+
+This change together with turning off
+
+Inherited permissions
+
+removes the access for all the people who can view the record type and only give access to designated people. Workspace managers and administrators will always have access to all the fields.
+
+In the
+
+Grant access
+
+box, add the users, teams, groups, companies, or job roles that you want to grant a different permission level to than they have for the workspace or the record type.
+
+When you share a field with a user, their primary job role and their email also display in the field. You must have the View Contact Info setting enabled for the Users object in your access level to be able to view the user’s email.
+
+Choose one of the following permission levels:
+
+View field values
+
+Manage field values
+
+note important
+
+IMPORTANT
+
+You cannot give users a lesser permission to the field if they have Contribute or higher to the record type.
+
+You cannot grant permissions to users who are not in the workspace. Users who do not have permissions to the workspace and record type cannot access any of the fields. They will be able to access the fields when they get permissions to the workspace and record types.
+
+Click
+
+Save
+
+.
+
+The field is now shared with other users.
+
+Remove permissions to a field
+
+You can remove users’ permissions from a field. However, they will retain at least View permissions to the workspace and record type which also gives them at least View permissions to the field.
+
+You must remove their access from the workspace if you want them to have no permissions to the record types or fields in the workspace.
+
+You cannot remove a user from Inherited permissions.
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-left corner of Adobe Workfront, then click
+
+Planning
+
+.
+
+The Workfront Planning landing page opens.
+
+Open the workspace whose fields you want to stop sharing, then click a record type card. This opens the record type page.
+
+From the table view, hover over the name of a field’s column header, click the
+
+More
+
+menu
+
+, then click
+
+Share field
+
+.
+
+The
+
+Share
+
+box opens.
+
+Find the user, group, team, company, or job role that whose permissions you want to remove, expand the permissions drop-down menu to the right of their name, then click
+
+Remove
+
+.
+
+Click
+
+Save
+
+.
+
+People no longer have the indicated permissions to the field. However, they still have permissions to the record type and the workspace, unless you also remove them from those permissions.
+
+There is no notification for the users that have been removed from accessing the field that they no longer have these permissions.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
 # FILE: share-workspaces-adobe-workfront.md
 ---
 
@@ -332453,11 +338133,21 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 IMPORTANT
 
@@ -332542,6 +338232,12 @@ When you share a workspace, all record types, records, and fields associated wit
 When you share a workspace, views are not shared. You must share views separately.
 
 Workspace permissions display as Inherited permissions on record types.
+
+You can change the owner of a workspace to an active, Standard-licensed user. You cannot make a group, team, company, or job role the owner of a workspace.
+
+style
+
+highlighted
 
 Share permissions to a workspace
 
@@ -332632,6 +338328,16 @@ For information about permission levels and what actions users can perform for e
 Overview of sharing permissions in Adobe Workfront Planning
 
 .
+
+Owner
+
+You can only make another active, Standard-license user the owner of a workspace. The original owner remains on the workspace with Manage permissions.
+
+(Conditional) If you chose to change the workspace Owner, click
+
+Change owner
+
+to confirm.
 
 Click
 
@@ -332761,11 +338467,13 @@ Workfront Guide
 
 Share a template
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -332959,11 +338667,13 @@ Workfront Guide
 
 Sharing shows more than one permission
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -333403,11 +339113,13 @@ Workfront Guide
 
 Single sign-on in Workfront: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -333447,11 +339159,13 @@ Workfront Guide
 
 Single Sign-On in Workfront Proof: AD FS configuration
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -333725,11 +339439,13 @@ Workfront Guide
 
 Single Sign-On in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -333787,7 +339503,7 @@ Workfront Guide
 
 Skills available for direct install
 
-Last update: August 10, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -333973,13 +339689,15 @@ Workfront Guide
 
 Specify an API version in your integrations
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 APIs
 
 Integrations
+
+Workfront API
 
 CREATED FOR:
 
@@ -334061,11 +339779,13 @@ Workfront Guide
 
 Statuses overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -334133,11 +339853,15 @@ Workfront Guide
 
 Subgroups overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -334577,6 +340301,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -334770,6 +340496,18 @@ For more information, see
 Cross-workspace record type overview
 
 .
+
+You can share a request with others after it’s been submitted.
+
+For information, see
+
+Share Planning requests
+
+.
+
+style
+
+highlighted
 
 Submit a request to Workfront Planning in the Requests area of Workfront
 
@@ -335339,13 +341077,15 @@ Workfront Guide
 
 Submit Adobe Workfront requests from Microsoft Teams
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
 
 CREATED FOR:
 
@@ -335529,13 +341269,11 @@ Workfront Guide
 
 Subscribe to a Proof in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -335609,11 +341347,13 @@ Workfront Guide
 
 Subscribe to items in Adobe Workfront
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -335997,11 +341737,13 @@ Workfront Guide
 
 Summarize projects with AI Assistant
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -336128,6 +341870,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -336261,15 +342005,25 @@ Workfront Guide
 
 Summarize using AI Assistant
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
+Get Started with Workfront
+
 CREATED FOR:
 
 User
+
+IMPORTANT
+
+Beginning in September 2026, AI Assistant is transitioning to CX Coworker, a conversational interface for getting work done. For information on CX Coworker, see
+
+CX Coworker overview
+
+.
 
 Workfront’s AI Assistant can summarize some objects, giving you a high-level view of the object’s intent or details.
 
@@ -336402,6 +342156,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -337125,11 +342881,11 @@ Workfront Guide
 
 Supported proofing file types and size limits overview
 
-Last update: May 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -337583,11 +343339,13 @@ Workfront Guide
 
 Sync Box Folders With Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -337733,6 +343491,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -337807,13 +343567,15 @@ Workfront Guide
 
 System information in Workfront Proof
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -337853,11 +343615,13 @@ Workfront Guide
 
 System task statuses
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -337923,11 +343687,13 @@ Workfront Guide
 
 System-tracked updates feeds: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -337966,6 +343732,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -338042,6 +343810,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -338257,11 +344027,13 @@ Workfront Guide
 
 Tag users to share a proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -340493,11 +346265,13 @@ Workfront Guide
 
 Test a new layout template
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -340568,6 +346342,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -340695,7 +346471,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -340757,7 +346533,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -341225,7 +347001,7 @@ Workfront Guide
 
 The Adobe Workfront Community
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -341329,13 +347105,15 @@ Workfront Guide
 
 The Adobe Workfront Custom Refresh Sandbox environment
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -341693,11 +347471,13 @@ Workfront Guide
 
 The Adobe Workfront Preview Sandbox Environment
 
-Last update: June 1, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -341971,7 +347751,7 @@ Workfront Guide
 
 The Adobe Workfront Status site
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -342119,13 +347899,11 @@ Workfront Guide
 
 The Dashboard in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -342471,6 +348249,8 @@ Topics:
 
 Integrations
 
+Resource management
+
 CREATED FOR:
 
 User
@@ -342649,11 +348429,13 @@ Workfront Guide
 
 The Dropzone
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -342905,7 +348687,7 @@ Workfront Guide
 
 The Innovation Lab
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -343003,11 +348785,13 @@ Workfront Guide
 
 The New Version email
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -343045,11 +348829,13 @@ Workfront Guide
 
 The Proof Made email
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -343289,11 +349075,13 @@ Workfront Guide
 
 The Workfront Proof API
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -343329,11 +349117,13 @@ Workfront Guide
 
 The Workfront Proof Billing Page
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -343563,11 +349353,11 @@ Workfront Guide
 
 Third Quarter 2026 Administrator enhancements
 
-Last update: August 3, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Product Announcements
+Administration
 
 CREATED FOR:
 
@@ -343935,11 +349725,11 @@ Workfront Guide
 
 Third Quarter 2026 AI enhancements
 
-Last update: July 6, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Product Announcements
+Administration
 
 CREATED FOR:
 
@@ -344071,11 +349861,11 @@ Workfront Guide
 
 Third Quarter 2026 Documents enhancements
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Product Announcements
+Administration
 
 CREATED FOR:
 
@@ -344301,11 +350091,11 @@ Workfront Guide
 
 Third Quarter 2026 Financial Management enhancements
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Product Announcements
+Administration
 
 CREATED FOR:
 
@@ -344403,11 +350193,11 @@ Workfront Guide
 
 Third Quarter 2026 Project enhancements
 
-Last update: July 9, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Product Announcements
+Administration
 
 CREATED FOR:
 
@@ -344485,11 +350275,11 @@ Workfront Guide
 
 Third Quarter 2026 release overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Product Announcements
+Administration
 
 CREATED FOR:
 
@@ -345329,11 +351119,11 @@ Workfront Guide
 
 Third Quarter 2026 Reporting enhancements
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Product Announcements
+Administration
 
 CREATED FOR:
 
@@ -345611,11 +351401,11 @@ Workfront Guide
 
 Third Quarter 2026 Requests enhancements
 
-Last update: May 29, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Product Announcements
+Administration
 
 CREATED FOR:
 
@@ -345705,11 +351495,11 @@ Workfront Guide
 
 Third Quarter 2026 Resource Management enhancements
 
-Last update: June 26, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Product Announcements
+Administration
 
 CREATED FOR:
 
@@ -345779,11 +351569,11 @@ Workfront Guide
 
 Timesheet details: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Timesheets
+Administration
 
 CREATED FOR:
 
@@ -346079,11 +351869,11 @@ Workfront Guide
 
 Timesheets: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Timesheets
+Administration
 
 CREATED FOR:
 
@@ -346245,11 +352035,13 @@ Workfront Guide
 
 Tips, tricks, and troubleshooting for administration and setup
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -346321,7 +352113,7 @@ Workfront Guide
 
 Tips, Tricks, and Troubleshooting for Adobe Workfront: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -346377,7 +352169,7 @@ Workfront Guide
 
 Tips, Tricks, and Troubleshooting for Adobe Workfront Mobile Apps
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -346447,11 +352239,11 @@ Workfront Guide
 
 Tips, tricks, and troubleshooting for Proofing within Adobe Workfront: article index
 
-Last update: June 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -346497,7 +352289,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -346567,11 +352359,11 @@ Workfront Guide
 
 Tips, tricks, and troubleshooting for timesheets: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Timesheets
+Administration
 
 CREATED FOR:
 
@@ -346605,11 +352397,13 @@ Workfront Guide
 
 Tips, tricks, and troubleshooting for Workfront Proof account administration
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -346645,11 +352439,13 @@ Workfront Guide
 
 Tips, tricks, and troubleshooting for Workfront Proof users and contacts
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -346685,11 +352481,13 @@ Workfront Guide
 
 TLS 1.2 to be required in Adobe Workfront
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Administration
 
 CREATED FOR:
 
@@ -346759,7 +352557,7 @@ Workfront Guide
 
 Top navigation bar overview
 
-Last update: July 6, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -347553,11 +353351,11 @@ Workfront Guide
 
 Track Hour Records with the Adobe Workfront API
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Timesheets
+Administration
 
 CREATED FOR:
 
@@ -347715,11 +353513,13 @@ Workfront Guide
 
 Transfer custom form data when converting an object
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -347867,11 +353667,15 @@ Workfront Guide
 
 Troubleshoot Adobe Cloud Drive
 
-Last update: June 22, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -348159,13 +353963,17 @@ Workfront Guide
 
 Troubleshoot the Adobe Experience Manager Integration
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -348217,7 +354025,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -348855,19 +354663,19 @@ Workfront Guide
 
 Unassign work in the Workload Balancer
 
-Last update: August 20, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
 
 CREATED FOR:
 
 User
 
-You can unassign users from work items in the Assigned Work area of the Adobe Workfront Workload Balancer, or reassign them to other users, Task Collaborators, roles, or teams.
+You can unassign users from work items in the Assigned Work area of the Adobe Workfront Workload Balancer, or reassign them to other users, Work Agents, roles, or teams.
 
 You can unassign users from work items manually, by dragging and dropping, or in bulk. This article describes how to unassign users manually.
 
@@ -348921,7 +354729,7 @@ Access requirements in Workfront documentation
 
 Unassign work items in the Workload Balancer
 
-You can either unassign items from users and move them to the Unassigned Work area, or reassign them to other users or Task Collaborators.
+You can either unassign items from users and move them to the Unassigned Work area, or reassign them to other users or Work Agents.
 
 To unassign work items from users:
 
@@ -348977,11 +354785,13 @@ Workfront Guide
 
 Unauthenticated email is not accepted due to domain’s DMARC policy
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -349471,7 +355281,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -349501,13 +355311,11 @@ Workfront Guide
 
 Understand Folder Permissions in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -349819,7 +355627,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -349882,6 +355690,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -350102,6 +355912,8 @@ Topics:
 Work management
 
 Administration
+
+Strategic Planning
 
 CREATED FOR:
 
@@ -350541,13 +356353,11 @@ Workfront Guide
 
 Understand Proof State in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -350691,11 +356501,13 @@ Workfront Guide
 
 Understand the Basecamp Integration with Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -350769,13 +356581,11 @@ Workfront Guide
 
 Understand the Desktop Proofing Viewer
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -350883,11 +356693,13 @@ Workfront Guide
 
 Understand the navigation for a Light-license user
 
-Last update: July 6, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -350977,11 +356789,13 @@ Workfront Guide
 
 Understand the navigation for a Work-license user
 
-Last update: July 6, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -351131,11 +356945,13 @@ Workfront Guide
 
 Understand Users, Members, and Guests in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -351195,11 +357011,13 @@ Workfront Guide
 
 Understanding electronic signatures in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -351273,13 +357091,11 @@ Workfront Guide
 
 Understanding the Workfront Proof Activity Audit Trail
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -351355,11 +357171,13 @@ Workfront Guide
 
 Unified document approvals: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
+
+Resource management
 
 CREATED FOR:
 
@@ -351373,7 +357191,7 @@ Unified approvals overview
 
 Document decision status
 
-Get started with the Content Reviewer
+Get started with the AI Reviewer
 
 Set up and manage unified approvals: article index
 
@@ -351403,9 +357221,13 @@ Topics:
 
 Work management
 
+Resource management
+
 CREATED FOR:
 
 User
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
 
 Unified review and approval brings together Adobe Workfront and Adobe Frame.io into a single, deeply connected experience–closing the gaps between marketing management, creative review, and content delivery.
 
@@ -351763,6 +357585,12 @@ Will comments made in the Frame.io viewer appear in the Workfront project?
 
 Comments and annotations remain within the Frame.io viewer so that they retain their full context, including timestamps and visual markups. This may evolve in future releases.
 
+In preview, the Comments panel in Workfront displays a message letting you know when new comments are available in Frame.io.
+
+Who can see the Frame.io comment indicator in Workfront?
+
+Only users who could already see those comments in Frame.io can see the indicator. If you have a Frame.io Enterprise license, you see it for any comments on the document. If you don’t have a Frame.io Enterprise license, you see it only once an approval exists for the document. Approvals make all prior comments on the document visible to you as well.
+
 Is it possible to add comments to a downloaded version of an asset (e.g., a PDF)?
 
 This is not currently supported, but it is a commonly requested feature that is under consideration for a future release.
@@ -351881,9 +357709,9 @@ Can I send approved assets to Adobe Experience Manager (AEM)?
 
 Yes. Once an asset completes the review and approval cycle, you can transfer it to Adobe Experience Manager Assets for final storage and distribution. This connects Workfront for work management, Frame.io for review, and AEM for digital asset management into a unified content supply chain.
 
-For more information, see For more information, see
+For more information, see
 
-Use the Adobe Experience Manager with the Frame.io integration
+Use Adobe Experience Manager with Workfront and Adobe cloud storage
 
 .
 
@@ -352007,11 +357835,15 @@ Workfront Guide
 
 Uninstall the Workfront with Adobe Experience Manager legacy connector
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -352191,11 +358023,15 @@ Workfront Guide
 
 Uninstall the Workfront with Adobe Experience Manager enhanced connector
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -352477,11 +358313,15 @@ Workfront Guide
 
 Unlink or delete assets and folders from Experience Manager Assets or Assets Essentials
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -352545,11 +358385,13 @@ Workfront Guide
 
 Unlock or lock configuration of event notifications for all groups
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -352697,11 +358539,21 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
 
 Admin
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 IMPORTANT
 
@@ -352805,6 +358657,10 @@ to the right of the record type name in the page header, then click
 
 Manage request forms
 
+or
+
+Request forms
+
 .
 
 All request forms associated with the record type display in a table view.
@@ -352881,6 +358737,10 @@ to the right of the record type name in the page header, then click
 
 Manage request forms
 
+or
+
+Request forms
+
 .
 
 All request forms associated with the record type display in a table view.
@@ -352945,7 +358805,7 @@ Workfront Guide
 
 Unsubscribe from Announcement Center Messages
 
-Last update: August 26, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -355029,6 +360889,14 @@ CREATED FOR:
 
 User
 
+The information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
 Publishing a scenario from the Adobe Workfront Scenario Planner accomplishes the following:
 
 Creates projects from the initiatives on the scenario and links them together.
@@ -355225,7 +361093,13 @@ Go to Publish
 
 .
 
-The Publish initiatives page displays, showing a list of all initiatives in the scenario. If any of the initiatives was previously published, the project icon
+The
+
+Publish initiatives
+
+page displays, showing a list of all initiatives in the scenario.
+
+If any of the initiatives was previously published, the project icon
 
 displays after their name and the
 
@@ -355237,17 +361111,35 @@ note tip
 
 TIP
 
-Initiatives that have been created by importing projects also display the project icon
+In the Production environment, initiatives that have been created by importing projects also display the project icon
 
 to the right of their name
+
+(Optional) In the
+
+Publish initiatives
+
+page, hover over the project name, then click the
+
+More
+
+menu
+
+>
+
+Open project
+
+. The project opens in a new browser tab.
 
 (Optional and conditional) If you want to publish from an existing plan, click the
 
 Filter
 
-icon
+icon in the upper-right corner of the plan
 
-in the upper-right corner of the plan and select one of the following options:
+or the table icon in the upper-left corner
+
+, and select one of the following options:
 
 table 0-row-2 1-row-2 2-row-2 layout-auto html-authored no-header
 
@@ -355285,7 +361177,7 @@ TIP
 
 New projects have the same name as the published initiatives.
 
-(Conditional) Do one of the following:
+(Conditional) Click one of the following on the confirmation message after initiatives are published:
 
 If you published one initiative, click
 
@@ -355297,13 +361189,21 @@ If you published more than one initiative, click
 
 See associated projects
 
-to open a list of projects published from initiatives. Workfront applies the Scenario Planner Projects filter to the list of projects by default. The projects published most recently display at the top of the list.
+to open a list of projects published from initiatives.
+
+This opens the Projects area and the Scenario Planner Projects filter is applied to the list of projects by default.
+
+The projects published most recently display at the top of the list.
 
 Go to the following areas to view initiative information on the project:
 
 The Updates section
 
-: An update publishes to indicate that the project was created or updated from the initiative. The update contains the name of the initiative that created or updated the project and the linked name of the plan that contains the initiative. You can click the name of the plan in the update to open the plan in the Scenario Planner.
+: An update publishes in the
+
+System activity
+
+tab to indicate that the project was created or updated from the initiative. The update contains the name of the initiative that created or updated the project and the linked name of the plan that contains the initiative. You can click the name of the plan in the update to open the plan in the Scenario Planner.
 
 The Overview area of the Project Details section
 
@@ -355446,6 +361346,8 @@ Topics:
 Work management
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -355909,11 +361811,13 @@ Workfront Guide
 
 Update SAML 2.0 metadata in your identity provider
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -356559,6 +362463,8 @@ Topics:
 
 Administration
 
+Resource management
+
 CREATED FOR:
 
 User
@@ -356967,7 +362873,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Agile
+Work management
 
 CREATED FOR:
 
@@ -357057,7 +362963,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Agile
+Work management
 
 CREATED FOR:
 
@@ -357335,11 +363241,13 @@ Workfront Guide
 
 Update users for single sign-on
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -357587,11 +363495,13 @@ Workfront Guide
 
 Update widgets in the Project Details view
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -357748,6 +363658,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -358527,7 +364439,7 @@ Workfront Guide
 
 Update work items and view updates: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -358785,13 +364697,13 @@ Workfront Guide
 
 Update Workfront Fusion scenarios for unified review and approval
 
-Last update: May 19, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Work Management
+Work management
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -358800,16 +364712,6 @@ Admin
 Workfront Fusion scenarios built on legacy Workfront Proofing don’t automatically work against Adobe cloud storage projects. Proof-specific modules, webhooks, and API endpoints have direct equivalents in some cases and significant changes in others. This article helps you inventory affected scenarios, classify them, and decide on a remediation path before you bring teams that depend on those scenarios into your Adobe cloud storage rollout.
 
 Scenarios scoped to legacy Workfront projects continue to work as they do today. The remediation work described in this article applies to scenarios you intend to run against Adobe cloud storage projects.
-
-IMPORTANT
-
-The Adobe Workfront Unified Review and Approvals connector is now available in Workfront Fusion. We recommend using this connector for simpler and more reliable scenarios when using Fusion with Adobe cloud storage.
-
-For information and instructions, see
-
-Adobe Workfront Unified Review and Approvals modules
-
-in the Workfront Fusion documentation.
 
 Use this article to inventory and classify scenarios to understand the best way to upgrade your Fusion scenarios to account for Adobe cloud storage.
 
@@ -358885,6 +364787,16 @@ Review each scenario against your specific business logic to decide its classifi
 
 Remediation approach
 
+IMPORTANT
+
+The Adobe Workfront Unified Review and Approvals connector is now available in Workfront Fusion. We recommend using this connector for simpler and more reliable scenarios when using Fusion with Adobe cloud storage.
+
+For information and instructions, see
+
+Adobe Workfront Unified Review and Approvals modules
+
+in the Workfront Fusion documentation.
+
 Use the following approach to plan and execute Fusion remediation:
 
 Inventory now.
@@ -358954,6 +364866,10 @@ Topics:
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -359081,11 +364997,11 @@ Workfront Guide
 
 Updated Mobile App for iOS and Android (Early August, 2017)
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Product Announcements
+Administration
 
 CREATED FOR:
 
@@ -359155,7 +365071,7 @@ Workfront Guide
 
 Updated time zone names
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -359441,11 +365357,13 @@ Workfront Guide
 
 Updates section overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -359773,6 +365691,8 @@ Work management
 
 Administration
 
+Resource management
+
 CREATED FOR:
 
 User
@@ -359959,6 +365879,8 @@ Topics:
 
 Administration
 
+Resource management
+
 CREATED FOR:
 
 User
@@ -360135,11 +366057,13 @@ Workfront Guide
 
 Upload Documents and create proofs in Priorities
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -360473,11 +366397,15 @@ Workfront Guide
 
 Upload documents and proofs with the Adobe Workfront plugin for Creative Cloud Applications
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -360528,6 +366456,10 @@ Topics:
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -360649,6 +366581,10 @@ Administration
 
 Integrations
 
+Workfront Integrations and Apps
+
+Resource management
+
 CREATED FOR:
 
 User
@@ -360763,13 +366699,11 @@ Workfront Guide
 
 Upload Files and Web Content to Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -360915,11 +366849,13 @@ Workfront Guide
 
 Upload files in Priorities
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -361103,13 +367039,17 @@ Workfront Guide
 
 Upload proofs from Photoshop
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -361469,13 +367409,17 @@ Workfront Guide
 
 Upload proofs from Illustrator
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -361833,13 +367777,17 @@ Workfront Guide
 
 Upload proofs from InDesign
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -362205,6 +368153,10 @@ Administration
 
 Integrations
 
+Workfront Integrations and Apps
+
+Resource management
+
 CREATED FOR:
 
 User
@@ -362429,13 +368381,17 @@ Workfront Guide
 
 Upload XD artboards as proofs to Workfront
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -362981,11 +368937,15 @@ Workfront Guide
 
 Use a custom status as a default status for a group
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -363171,11 +369131,13 @@ Workfront Guide
 
 Use actions on proof comments
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -363283,11 +369245,15 @@ Workfront Guide
 
 Use Adobe Cloud Drive
 
-Last update: June 24, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -363784,6 +369750,538 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
+# FILE: use-adobe-experience-manager-with-workfront-and-adobe-cloud-storage-adobe-workfront.md
+---
+
+Use Adobe Experience Manager with Workfront and Adobe cloud storage | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Use Adobe Experience Manager with Workfront and Adobe cloud storage
+
+Last update: April 1, 2026
+
+Topics:
+
+Work management
+
+Administration
+
+Integrations
+
+Resource management
+
+CREATED FOR:
+
+User
+
+You can use the Experience Manager Assets​​ to manage and store your digital assets that have gone through the review and approval cycle. This integration allows you to leverage the capabilities of Adobe Experience Manager, Frame.io, and Workfront to streamline your content management and collaboration processes.
+
+Configure the Experience Manager Assets integration
+
+You can connect your work with your content in Experience Manager Assets​:
+
+Push assets and metadata from Adobe Workfront to Experience Manager Assets​
+
+Facilitate versioning use cases
+
+Track metadata for assets
+
+Sync project metadata between Workfront and Experience Manager Assets
+
+NOTE
+
+You can also connect several Experience Manager Assets repositories to one Workfront environment, or several Workfront environments to one Experience Manager Assets repository across Organization IDs. Follow the configuration instructions in this article for each integration you’d like to set up.
+
+Access requirements
+
+Expand to view access requirements for the functionality in this article.
+
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 html-authored no-header
+
+Adobe Workfront package
+
+Prime or Ultimate
+
+Workflow Ultimate
+
+Adobe Workfront licenses
+
+To configure the integration:
+
+Standard
+
+Plan
+
+To send documents to Experience Manager Assets:
+
+Contributor or higher
+
+Request or higher
+
+Adobe Experience Manager licenses
+
+Standard
+
+Additional products
+
+You must have Experience Manager Assets as a Cloud Service, and you must be added to the product as a user.
+
+Access level configurations
+
+You must be a Workfront administrator.
+
+For more detail about the information in this table, see
+
+Access requirements in Workfront documentation
+
+.
+
+Prerequisites
+
+Before you begin,
+
+You must have Workfront and Adobe Experience Manager Assets associated with an Organization ID in the Adobe Admin Console. For more information see,
+
+Platform-based administration differences (Adobe Workfront/Adobe Business Platform)
+
+.
+
+Your Workfront instance must be using Adobe cloud storage.
+
+Set up the integration information
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-left corner of Adobe Workfront, then click
+
+Setup
+
+.
+
+Select
+
+Documents
+
+in the left panel, then select
+
+Experience Manager Integration
+
+.
+
+Select
+
+Add Experience Manager Integration
+
+.
+
+In the
+
+Name
+
+field, enter the name you want users to see when interacting with this integration in Workfront and Experience Manager Assets.
+
+In the
+
+Navigation URL
+
+field, the system automatically populates the Navigation URL. This read-only URL is used to link to your organization’s Experience Manager instance from the Main Menu for quick access.
+
+Choose a repository from the
+
+Experience Manager Assets repository
+
+drop-down menu. The system automatically populates any Experience Manager repositories associated with the Organization ID that your user profile is assigned to.
+
+Click
+
+Save
+
+or move on to the
+
+Set up metadata (Optional)
+
+section in this article.
+
+note important
+
+IMPORTANT
+
+Due to the complexity of the integration, you can’t change the repository after you save the initial configuration.
+
+Set up metadata (Optional)
+
+You can map Workfront object data to asset media fields in Experience Manager Assets.
+
+NOTE
+
+You can map metadata only in one direction: from Workfront to Experience Manager. Metadata for documents linked to Workfront from Experience Manager cannot be transferred to Workfront.
+
+Configure metadata fields
+
+Before you begin mapping metadata fields, you must configure metadata fields in both Workfront and Experience Manager Assets.
+
+To configure metadata fields:
+
+Configure a metadata schema in Experience Manager Assets as explained in
+
+Configure asset metadata mapping between Adobe Workfront and Experience Manager Assets
+
+.
+
+Configure custom form fields in Workfront. Workfront has many built-in custom fields you can use. However, you can also create your own custom fields as explained in
+
+Create a custom form
+
+.
+
+Expand to see more information about supported Workfront and Experience Manager Assets fields
+
+Experience Manager Assets Tags
+
+You can map any Workfront supported field to a tag in Experience Manager Assets. To do this, you must ensure that tag values in Experience Manager Assets match Workfront.
+
+Tags and Workfront field values must be an exact match in spelling, and format.
+
+Workfront field values that are mapped to experience Manager assets tags must be all lowercase, even if the tag in Experience Manager Assets appears to have uppercase letters.
+
+Workfront field values must not include spaces.
+
+The field value in Workfront must also include the folder structure of the Experience Manager Assets tag.
+
+To map multiple single-line text fields to tags, enter a comma-separated list of the tag values into the Workfront side of the metadata mapping, and
+
+xcm:keywords
+
+on the Experience Manager Assets side. Each field value maps to a separate tag. You can use a calculated field to combine multiple Workfront fields into a single comma-separated text field.
+
+You can map values from drop-down, radio button, or checkbox fields by entering a comma-separated list of the available values in that field.
+
+note info
+
+INFO
+
+Example
+
+: To match the tag shown in the folder structure here, the field value in Workfront would be
+
+landscapes:trees/spruce
+
+. Note the lowercase letters in the Workfront field value.
+
+If you want the tag to be leftmost item in the tag tree, it must be followed by a colon. In this example, to map to the landscapes tag, the field value in Workfront would be
+
+landscapes:
+
+.
+
+After you have created the tags in Experience Manager Assets, they will appear under the Tags drop-down in the Metadata section. To link a field to a tag, select
+
+xcm:keywords
+
+in the Experience Manager Assets field dropdown in the metadata mapping area.
+
+For more information on tags in Experience Manager Assets, including how to create and manage tags, see
+
+Administering Tags
+
+.
+
+Experience Manager Assets custom metadata schema fields
+
+You can map both built-in and custom Workfront fields to custom metadata schema fields in Experience Manager Assets.
+
+Custom metadata fields created in Experience Manager Assets are organized in their own section in the Metadata setup area.
+
+Workfront fields
+
+You can map both built-in and custom Workfront fields to Experience Manager Assets. The following field values must match in both case and spelling between Workfront and Experience Manager Assets:
+
+Drop-down fields
+
+Multi-select fields
+
+note tip
+
+TIP
+
+To check if the field values match exactly, go to
+
+Setup > Custom Forms in Workfront or the field in the object
+
+Assets > metadata schemas in Experience Manager Assets
+
+Map metadata for assets
+
+Metadata maps when an asset is pushed from Workfront for the first time. Documents with the built-in or custom fields automatically map to the specified fields the first time an asset is sent to Experience Manager Assets.
+
+To map metadata for assets:
+
+In the
+
+Workfront field
+
+column, choose a built-in or custom Workfront field.
+
+note
+
+NOTE
+
+You can map a single Workfront field to multiple Experience Manager Assets fields. You can’t map multiple Workfront fields to a single Experience Manager Assets field.
+
+In the Experience Manager Assets field, search through the pre-populated categories or enter at least two letters in the search field to access additional categories.
+
+Repeat steps 2 and 3 as needed.
+
+Click
+
+Save
+
+or move to the
+
+Object metadata sync
+
+section in this article.
+
+Object metadata sync
+
+An Experience Manager fields that is mapped to Workfront portfolio, program, project, task, issue, and document fields update automatically when the field is changed in Workfront.
+
+When this option is enabled, any asset that has been pushed to Adobe Experience manager displays a real-time view of the document’s Adobe Experience Manager metadata on the Document Details page in Workfront.
+
+Enable the
+
+Sync object metadata
+
+field, then click
+
+Save
+
+.
+
+IMPORTANT
+
+Users must have write access in Experience Manager for assets living in the object in order for the metadata to sync when it’s updated.
+
+Send a Document to Experience Manager Assets or Assets Essentials
+
+You can send documents from Workfront to Experience Manager Assets or Assets Essentials. Documents uploaded and sent from Workfront to Assets Essentials still count against your overall document storage.
+
+Assets sent to Experience Manager through this integration have a size limit of
+
+5o TB
+
+.
+
+Metadata fields are first mapped when you send an asset from Workfront to Experience Manager Assets or Assets Essentials. Any metadata configured to map for parent objects is sent as well. For more information on configuring metadata mapping, see
+
+Configure the Experience Manager Assets as a Cloud Service integration
+
+or
+
+Configure the Experience Manager Assets Essentials integration
+
+.
+
+INFO
+
+Example
+
+When you first send an asset attached to a project, the metadata maps to Experience Manager Assets or Assets Essentials as well as any mapped metadata from parent objects such as a portfolio and program.
+
+Send a Document from Workfront
+
+When a user sends a document from Workfront to Experience Manager Assets or Assets Essentials, mapped metadata transfers along the document. After the document is sent, changes made to the document’s metadata in Workfront are not reflected in Assets or Assets Essentials. If a mapped field in Workfront is changed, you must send a new version of the document with the updated metadata to Assets or Assets Essentials.
+
+To send a document:
+
+Go to the
+
+Documents
+
+area in Workfront, and select the document you want to send.
+
+In the bar at the bottom of the screen, click
+
+Send to
+
+.
+
+Choose the Experience Manager integration your administrator set up, then click
+
+Send
+
+.
+
+note
+
+NOTE
+
+The Workfront administrator can choose any name for this integration, so it may not specifically mention Assets or Assets Essentials.
+
+Choose where you want the asset to go, then click
+
+Select Folder
+
+.
+
+Link content from Experience Manager Assets
+
+To link content:
+
+Go to the Workfront object where you want to link content.
+
+Click the
+
+Documents
+
+section in the left panel.
+
+Click
+
+New
+
+on the right side of the page, then click
+
+AEM files
+
+to link an individual asset.
+
+With Content Advisor, you can:
+
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 6-row-2 7-row-2 8-row-2 9-row-2 layout-auto html-authored no-header
+
+Search for assets using AI Search.
+
+Use AI-powered search that understands meaning and intent behind queries, supporting multiple languages, typos, and synonyms.
+
+For more information, see
+
+AI Search for smarter asset discovery
+
+.
+
+View smart suggestions based on context and intent.
+
+Discover assets that align with your content needs using context-aware recommendations from the host Adobe application.
+
+For more information, see
+
+Smart suggestions based on context and intent
+
+.
+
+Upload a campaign brief to discover relevant assets.
+
+Upload a PDF, DOCX, or TXT campaign brief document so Content Advisor can analyze it and recommend relevant assets.
+
+For more information, see
+
+Campaign briefs to discover relevant assets
+
+.
+
+View and select Dynamic Media asset renditions.
+
+Browse channel-optimized renditions including image presets, Smart Crops, and format types, and apply Dynamic Media modifiers to preview adjustments in real time.
+
+For more information, see
+
+Dynamic Media asset renditions available for use
+
+.
+
+Apply Dynamic Media modifiers to renditions.
+
+Add modifiers to transform asset renditions in real time and preview the results before selecting a rendition for your host application.
+
+For more information, see
+
+Dynamic Media asset renditions available for use
+
+.
+
+Discover and browse Content Fragments.
+
+Search through Content Fragments, view live thumbnail previews, check status (Draft, Modified, or Published), and inspect detailed properties, references, and variations.
+
+For more information, see
+
+Discovery of Content Fragments
+
+.
+
+Access asset metadata.
+
+Review asset properties such as title, description, format, size, and other metadata tabs (Product, Campaign, Tags) consistent with the Assets view.
+
+For more information, see
+
+Access asset metadata consistent with Assets view
+
+.
+
+Filter assets using predefined filters.
+
+Refine asset results using filters such as File Type, File Format, Asset Status, File Size, Image Width, Image Height, Modified Date, and Created Date.
+
+For more information, see
+
+Access filters consistent with Assets view
+
+.
+
+Save and reuse searches.
+
+Create saved searches by specifying a search term and filter options, then reuse them across Experience Manager Assets and other Adobe applications.
+
+For more information, see
+
+Access and reuse recent and saved searches
+
+.
+
+Search for assets across and within collections.
+
+Search for assets or collections across all collections, or limit your search to a specific collection.
+
+For more information, see
+
+Search for assets across and within collections
+
+.
+
+note
+
+NOTE
+
+Recommended Content in Content Advisor uses data from the following to determine suggested content in Workfront:
+
+Workfront object name and description fields
+
+Custom form fields marked as required
+
+Data from attached documents
+
+Considerations
+
+Review and approval workflows are not supported for linked AEM assets.
+
+Metadata fields are first mapped when you send an asset from Workfront to Experience Manager Assets. If your Workfront administrator has enabled object metadata sync, fields remain up to date if they are changed in either application.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
 # FILE: use-adobe-workfront-built-in-reports-adobe-workfront.md
 ---
 
@@ -363802,6 +370300,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -364245,7 +370745,7 @@ Workfront Guide
 
 Use Adobe Workfront View
 
-Last update: May 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -364285,15 +370785,25 @@ Workfront Guide
 
 Use AI Assistant to work with projects, tasks, and issues
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
+Get Started with Workfront
+
 CREATED FOR:
 
 User
+
+IMPORTANT
+
+Beginning in September 2026, AI Assistant is transitioning to CX Coworker, a conversational interface for getting work done. For information on CX Coworker, see
+
+CX Coworker overview
+
+.
 
 AI Assistant can help you locate projects, tasks, and issues in Workfront.
 
@@ -364376,6 +370886,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -364497,7 +371009,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -364535,7 +371047,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -364744,6 +371256,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -365595,6 +372109,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -365874,6 +372390,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -366361,11 +372879,11 @@ Workfront Guide
 
 Use currency fields in Canvas Dashboards
 
-Last update: June 22, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -366558,6 +373076,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -366789,11 +373309,13 @@ Workfront Guide
 
 Use custom statuses as default statuses
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -366964,6 +373486,174 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
+# FILE: use-cx-coworker-in-workfront-adobe-workfront.md
+---
+
+Use CX Coworker in Workfront | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Use CX Coworker in Workfront
+
+Last update: September 25, 2026
+
+Topics:
+
+Get Started with Workfront
+
+CREATED FOR:
+
+User
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
+IMPORTANT
+
+CX Coworker is not currently available to organizations in health care, finance, or some other industries with sensitive data. AI Assistant is available to these organizations. For more information, see
+
+AI Assistant overview
+
+.
+
+You can access CX Coworker inside of Workfront.
+
+When using Coworker in Workfront, it can work with information and objects that:
+
+Are in Workfront or Workfront Planning.
+
+You have permissions for.
+
+Because Coworker is part of the larger Adobe CX Enterprise ecosystem, you can use Coworker to work with information and objects in other Adobe products, either in the right rail in Workfront, or you can jump from Workfront into the Adobe CX Coworker interface.
+
+For more information on Coworker and its capabilities outside of Workfront, see
+
+Adobe CX Enterprise Coworker Chat overview
+
+.
+
+Access requirements
+
+Expand to view access requirements for the functionality in this article.
+
+table 0-row-2 1-row-2 layout-auto html-authored no-header
+
+Adobe Workfront package
+
+Any
+
+Adobe Workfront license
+
+Standard
+
+For information, see
+
+Access requirements in Workfront documentation
+
+.
+
+Prerequisites
+
+You must have existing access and permissions to a Workfront object before you can interact with it in CX Coworker. For example, you must have at least View access to a project to see information about it in Coworker.
+
+Your Workfront administrator must enable the Write MCP tools option in your organization’s System Preferences before you can make any changes in Workfront through CX Coworker. By default, CX Coworker has Read-only capabilities.
+
+For information and instructions, see
+
+Configure system preferences
+
+.
+
+Use CX Coworker in Workfront
+
+At the top of any Workfront page, click the CX Coworker icon
+
+.
+
+Type your question or prompt into the panel at the right of the screen.
+
+If Coworker does not provide the answer you need, refine your prompt and try again.
+
+For example prompts, see the prompts in the article
+
+Use the Adobe Workfront MCP server
+
+.
+
+Use any of the actions in the chat input box:
+
++ (Attach)
+
+: Open the attach menu to add a file or a data object to the message.
+
+Plan mode
+
+: Ask Coworker Chat to propose a step-by-step plan and pause for your approval before it acts. Turn it off to let Coworker Chat act directly.
+
+Transcript view
+
+: Control how much of Coworker Chat’s internal activity is shown: Normal, Focus, or Verbose.
+
+Microphone
+
+: Dictate your message with voice input. Select again to stop recording.
+
+Send
+
+: Send the message. While Coworker Chat is responding, this becomes a Stop control you can use to interrupt.
+
+For details on these actions, see
+
+The chat input box
+
+in the Adobe CX Coworker documentation.
+
+To view and manage previous chats, click the Chats icon
+
+in the CX Coworker panel.
+
+For details on Chats, see
+
+Manage your chats
+
+in the Adobe CX Coworker documentation.
+
+To view and manage chat artifacts, such as output lists, click the Artifacts icon
+
+.
+
+For more information on artifacts in CX Coworker, see
+
+Artifacts
+
+in the Adobe CX Coworker documentation.
+
+To manage settings for Coworker, click the Settings icon
+
+.
+
+To expand the Coworker panel, click the Expand icon
+
+.
+
+To go into the Adobe CX Coworker interface, click the Apps icon
+
+at the upper-right corner of the page and select Coworker from the list of available apps.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
 # FILE: use-date-based-wildcards-to-generalize-reports-adobe-workfront.md
 ---
 
@@ -366982,6 +373672,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -367175,11 +373867,13 @@ Workfront Guide
 
 Use Diagnostics to trigger automated processes
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -367321,6 +374015,8 @@ Topics:
 
 Administration
 
+Get Started with Workfront
+
 CREATED FOR:
 
 User
@@ -367387,11 +374083,15 @@ Main Menu > Priorities
 
 List of requests
 
-Requests (new experience only)
+Main Menu > Requests (new experience only)
 
 My Requests widget on Home
 
-Lists of statuses, priorities, severities, and exchange rates in Setup
+Lists of statuses, priorities, severities,
+
+conditions
+
+, and exchange rates in Setup
 
 Setup > Project Preferences > Statuses
 
@@ -367399,23 +374099,65 @@ Setup > Project Preferences > Priorities
 
 Setup > Project Preferences > Severities
 
+Setup > Project Preferences > Conditions
+
 Setup > Project Preferences > Exchange Rates
 
-List of reports
+Lists of actions and tracked fields in the Update Feeds
 
-Reports (
+Setup > Interface > Update Feeds > Tracked fields tab
 
-Use shareable folders
+Setup > Interface > Update Feeds > Actions tab
 
-must be turned on)
+List of scorecards
+
+Setup > Scorecards
+
+List of risk types
+
+Setup > Risk Types
+
+List of event notifications
+
+Setup > Email > Notifications > Event Notifications
+
+Group Detail page > Event Notifications
 
 List of job roles and rates on a rate card
 
 Setup > Rate Cards > select a rate card > Job Roles and Rates
 
+List of locations
+
+Setup > Locations
+
 List of translations
 
 Setup > Localization
+
+Lists of integrations
+
+Setup > Documents > SharePoint Integration
+
+Setup > Documents > Custom Integration
+
+Setup > Documents > Experience Manager Assets
+
+List of reports
+
+Main Menu > Reports (
+
+Use shareable folders
+
+must be turned on)
+
+Lists of queue topics, topic groups, and routing rules
+
+Project or Template > Queue Topics
+
+Project or Template > Topic Groups
+
+Project or Template > Routing Rules
 
 List of snapshots
 
@@ -367425,9 +374167,17 @@ List of resources for billing
 
 Project > Resource for Billing
 
+List of predecessors
+
+Setup > Task or Template Task > Predecessors
+
 New Advanced Assignments on a task
 
 Task > Assignments > Advanced
+
+All versions view of a document
+
+Project > Documents > Document Details > All Versions
 
 Boards Admin View
 
@@ -367436,6 +374186,16 @@ Boards > Admin View
 Documents on Adobe cloud storage
 
 Project, task, issue, portfolio, program, template, template task > Documents
+
+Lists of scenario plans and initiatives
+
+Main Menu > Scenarios
+
+Lists of goals and progress indicators
+
+Main Menu > Goals
+
+Main Menu > Goals > Progress Indicators
 
 Add items to an enhanced list
 
@@ -367543,7 +374303,13 @@ Columns
 
 above the list.
 
+Sample image in the Production environment:
+
+Sample image in the Preview environment:
+
 Use the toggles to display or hide columns in the list.
+
+You can search for a column in the search box.
 
 To reorder the columns, click the
 
@@ -368103,7 +374869,7 @@ Add condition
 
 Select a field to filter by.
 
-Select a filter modifier, such as “Has any of,” “Has none of,” “Is before,” or “Is after.” The modifier options are different depending on the type of field you are filtering by.
+Select a filter modifier, such as “Is any of,” “Is none of,” “Is before,” or “Is after.” The modifier options are different depending on the type of field you are filtering by.
 
 Select the field value or values. Depending on the field type you are filtering by, you might be prompted to select the item from a list, search for it, or use a calendar to select a date range.
 
@@ -368191,7 +374957,7 @@ Collapse all
 
 to display the list with all the groupings collapsed. The default option is to display the list with all groupings expanded.
 
-When the grouping is applied, you can open the Group options again to collapse or expand all of the groupings at once, change the grouping to group by a different field, or clear all of the groupings.
+When the grouping is applied, you can open the Grouping options again to collapse or expand all of the groupings at once, change the grouping to group by a different field, or clear all of the groupings.
 
 An indicator appears on the
 
@@ -368270,6 +375036,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -368391,6 +375159,8 @@ Topics:
 
 Administration
 
+Get Started with Workfront
+
 CREATED FOR:
 
 User
@@ -368403,7 +375173,15 @@ Prerequisites to AI Assistant
 
 .
 
-AI Form Fill can help you auto-fill request fields based on a prompt you enter. It can also fill fields based on text such as emails or uploaded documents. You can approve or reject these suggestions before submitting the request.
+AI Form Fill can help you auto-fill request fields based on a prompt you enter. It can also fill fields based on the following information you add to the prompt:
+
+An email
+
+Uploaded documents
+
+A link to a project, task or issue.
+
+You can approve or reject these suggestions before submitting the request.
 
 This functionality is available when creating a request in the Workfront Requests area, for both Workfront and Workfront Planning requests.
 
@@ -368560,6 +375338,12 @@ note
 NOTE
 
 Any unreviewed suggestions will be automatically accepted when you submit the request.
+
+Click
+
+Submit
+
+to submit the request.
 
 Text prompt examples
 
@@ -368797,6 +375581,100 @@ NOTE
 
 Any unreviewed suggestions will be automatically accepted when you submit the request.
 
+Click
+
+Submit
+
+to submit the request.
+
+Add a link to another object to auto-fill a request
+
+You can add a link to an existing project, task or issue to your prompt to be applied to the entire form, or to a single section of the form.
+
+Go to a project, task, or issue whose information you would like included in a new request and copy the link of the object from the browser address line to your clipboard.
+
+The project, task, or issue must be in the same instance of Workfront as your request.
+
+Begin creating a request.
+
+For instructions, see
+
+Create and submit requests
+
+.
+
+To apply information from a linked object to the entire form, click the
+
+AI icon
+
+under the form name.
+
+Or
+
+To apply the information from the linked object for a single section, click the
+
+AI icon
+
+next to the section name.
+
+Start adding your prompt, then paste the link you copied from the project, task, or issue in the prompt window.
+
+(Conditional) Click
+
+Apply to form
+
+or
+
+Apply to section
+
+.
+
+Click
+
+Fill the form
+
+or
+
+Fill the section
+
+.
+
+Workfront generates suggestions for the form.
+
+For each field suggestion, click the
+
+Accept suggestion
+
+or
+
+Reject suggestion
+
+icons for that field.
+
+Or
+
+Select
+
+Accept all
+
+or
+
+Reject all
+
+at the top of the page to accept or reject all suggestions.
+
+note
+
+NOTE
+
+Any unreviewed suggestions will be automatically accepted when you submit the request.
+
+Click
+
+Submit
+
+to submit the request.
+
 Troubleshooting
 
 If you are not getting the expected suggestions, it may be due to one of the following:
@@ -368834,6 +375712,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -368953,7 +375833,7 @@ Workfront Guide
 
 Use notifications: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -369128,6 +376008,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -369371,6 +376253,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -369594,192 +376478,6 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
-# FILE: use-task-collaborators-adobe-workfront.md
----
-
-Use Task Collaborators | Adobe Workfront
-
-Documentation
-
-Workfront
-
-Workfront Guide
-
-Use Task Collaborators
-
-Last update: August 19, 2026
-
-Topics:
-
-Work Management
-
-Tasks
-
-CREATED FOR:
-
-User
-
-Task Collaborators are AI Collaborators that can be assigned directly to Workfront tasks, in addition to the existing Reviewer-type AI Collaborator used for document and asset reviews. Like other AI Collaborators, Task Collaborators are configured in the Setup area and assigned to tasks just like a user.
-
-Task Collaborators connect to agents that you have configured in Copilot Studio, Claude, or Writer.
-
-For information and instructions about creating a Task Collaborator in Workfront, see
-
-Configure a Task Collaborator
-
-in the article Configure AI Collaborators.
-
-Access requirements
-
-Expand to view access requirements for the functionality in this article.
-
-table 0-row-2 1-row-2 2-row-2 layout-auto html-authored no-header
-
-Adobe Workfront package
-
-Select, Prime, or Ultimate
-
-Adobe Workfront license
-
-Standard
-
-Access level configurations
-
-System Administrator
-
-For information, see
-
-Access requirements in Workfront documentation
-
-.
-
-Prerequisites
-
-You must configure an agent in Copilot, Claude, or Writer.ai before you can use it as a Task Collaborator.
-
-Task Collaborator overview
-
-Task Collaborators are a way to assign MCP agents to specific tasks in Workfront. You configure the agent in an app such as Copilot Studio, Claude, or Writer.ai, then connect that agent to Workfront as a Task Collaborator. You can then assign it to tasks as you would assign a user.
-
-Some example workflows may include:
-
-Detecting images uploaded to a task, generating variations based on criteria given to the agent, and uploading the new images to the task.
-
-Generating copy from a task description, reviewing the copy against guidelines configured in the agent, and posting copy to the update stream.
-
-Reading details of an event, identifying missing details, and posting questions in the update stream about the missing details.
-
-NOTE
-
-Specific details about an agent’s responsibilities and abilities are configured in the application where the agent is created, not in Workfront.
-
-The Workfront MCP server does not need to be added to the agent used as a Task Collaborator, and does not need to be connected for the Task Collaborator to work.
-
-Task Collaborators currently support agents created in Copilot Studio, Claude, and Writer.ai.
-
-When configuring an agent in Copilot Studio, you must set security to
-
-No authentication
-
-.
-
-For information and instructions about creating a Task Collaborator in Workfront, see
-
-Configure a Task Collaborator
-
-in the article Configure AI Collaborators.
-
-Information a Task Collaborator reads
-
-When a Task Collaborator begins work on a task, it automatically reads the following task information as context:
-
-Task title
-
-Task description
-
-Comments in the task’s update stream
-
-Information in any custom form attached to the task
-
-This information is always read and is not configurable as a Workfront setting.
-
-TIP
-
-For best results, we recommend:
-
-Including any background information you want the agent to use directly in the task description or a relevant custom form field.
-
-Making sure the task matches what your agent is instructed to do. For example, if your agent is instructed to translate text from English to French, include the text you want translated in the task description.
-
-Task Collaborator start triggers
-
-When a Task Collaborator is assigned to a task, it begins work when any of the following situations are met:
-
-The Task Collaborator is assigned to a task that is ready to start. (For example, if the task has predecessors, the predecessors are complete.)
-
-The Task Collaborator and a user are assigned to a task, and the Task Collaborator is assigned first.
-
-A task to which a Task Collaborator is already assigned as becomes ready to start, and the Task Collaborator is the only or primary assignee. (For example, if the task has predecessors, the predecessors are complete.)
-
-A task to which a Task Collaborator and a user are already assigned becomes ready to start, and the Task Collaborator was assigned first or is the primary assignee. (For example, if the task has predecessors, the predecessors are complete.)
-
-A user and a Task Collaborator are assigned to a task, and the user is removed.
-
-A user and a Task Collaborator are assigned to a task, and the Task Collaborator is set as the Primary Assignee for the task.
-
-The following situations do not cause the Task Collaborator to begin work on the task:
-
-A Task Collaborator is assigned to a task that already has a user assigned.
-
-A Task Collaborator is @mentioned in a task.
-
-A Task Collaborator is assigned to a task that already has a Task Collaborator assigned. In this case, the first Task Collaborator assigned will have already begun the work, and the second Task Collaborator will do nothing.
-
-A Task Collaborator is assigned to a task that is not ready to start. (For example, if the task has predecessors, the predecessors are not yet complete.)
-
-Assign a Task Collaborator to a task
-
-Task Collaborators are assigned to tasks the same way users are assigned.
-
-When you are searching for a Task Collaborator in the list of available assignees, the name of the Task Collaborator is a first name only.
-
-For instructions, see
-
-Assign tasks
-
-.
-
-NOTE
-
-Task Collaborators cannot be assigned to review or approve a document.
-
-Troubleshooting Task Collaborators
-
-If your Task Collaborator does not return a response or output, please check the following:
-
-Make sure your agent is published on the AI platform provider side.
-
-Make sure you have sufficient AI credits with your agent’s platform.
-
-Make sure the the action taken on the task does not require a specific access level.
-
-If you are using Copilot as the agent provider, ensure you are using the “no authentication” setting.
-
-If you are using Copilot, make sure that your agent is configured on a global environment. Task Collaborator functionality does not currently support regional versions of Copilot Studio.
-
-Make sure that the Collaborator is the primary assignee on the task.
-
-Make sure that the task that the Task Collaborator is assigned to Can Start. For example, check to see that all task predecessors to that task are complete.
-
-TIP
-
-You can also go to the agent provider platform and ask the agent to perform the task within the platform. If the agent cannot perform the task within the platform, then the Task Collaborator will also run into issues in Workfront.
-
-recommendation-more-help
-
-workfront-help-quicksilver
-
----
 # FILE: use-task-predecessors-article-index-adobe-workfront.md
 ---
 
@@ -369828,392 +376526,6 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
-# FILE: use-the-adobe-experience-manager-with-the-frameio-integration-adobe-workfront.md
----
-
-Use the Adobe Experience Manager with the Frame.io integration | Adobe Workfront
-
-Documentation
-
-Workfront
-
-Workfront Guide
-
-Use the Adobe Experience Manager with the Frame.io integration
-
-Last update: April 1, 2026
-
-Topics:
-
-Work management
-
-Administration
-
-Integrations
-
-CREATED FOR:
-
-User
-
-You can use the Experience Manager Assets​​ to manage and store your digital assets that have gone through the review and approval cycle. This integration allows you to leverage the capabilities of Adobe Experience Manager, Frame.io, and Workfront to streamline your content management and collaboration processes.
-
-Configure the Experience Manager Assets integration
-
-You can connect your work with your content in Experience Manager Assets​:
-
-Push assets and metadata from Adobe Workfront to Experience Manager Assets​
-
-Facilitate versioning use cases
-
-Track metadata for assets
-
-Sync project metadata between Workfront and Experience Manager Assets
-
-NOTE
-
-You can also connect several Experience Manager Assets repositories to one Workfront environment, or several Workfront environments to one Experience Manager Assets repository across Organization IDs. Follow the configuration instructions in this article for each integration you’d like to set up.
-
-Access requirements
-
-Expand to view access requirements for the functionality in this article.
-
-table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 html-authored no-header
-
-Adobe Workfront package
-
-Prime or Ultimate
-
-Workflow Ultimate
-
-Adobe Workfront licenses
-
-To configure the integration:
-
-Standard
-
-Plan
-
-To send documents to Experience Manager Assets:
-
-Contributor or higher
-
-Request or higher
-
-Adobe Experience Manager licenses
-
-Standard
-
-Additional products
-
-You must have Experience Manager Assets as a Cloud Service, and you must be added to the product as a user.
-
-Access level configurations
-
-You must be a Workfront administrator.
-
-For more detail about the information in this table, see
-
-Access requirements in Workfront documentation
-
-.
-
-Prerequisites
-
-Before you begin,
-
-You must have Workfront and Adobe Experience Manager Assets associated with an Organization ID in the Adobe Admin Console. For more information see,
-
-Platform-based administration differences (Adobe Workfront/Adobe Business Platform)
-
-.
-
-Your Workfront instance must be using Adobe cloud storage.
-
-Set up the integration information
-
-Click the
-
-Main Menu
-
-icon
-
-in the upper-left corner of Adobe Workfront, then click
-
-Setup
-
-.
-
-Select
-
-Documents
-
-in the left panel, then select
-
-Experience Manager Integration
-
-.
-
-Select
-
-Add Experience Manager Integration
-
-.
-
-In the
-
-Name
-
-field, enter the name you want users to see when interacting with this integration in Workfront and Experience Manager Assets.
-
-In the
-
-Navigation URL
-
-field, the system automatically populates the Navigation URL. This read-only URL is used to link to your organization’s Experience Manager instance from the Main Menu for quick access.
-
-Choose a repository from the
-
-Experience Manager Assets repository
-
-drop-down menu. The system automatically populates any Experience Manager repositories associated with the Organization ID that your user profile is assigned to.
-
-Click
-
-Save
-
-or move on to the
-
-Set up metadata (Optional)
-
-section in this article.
-
-note important
-
-IMPORTANT
-
-Due to the complexity of the integration, you can’t change the repository after you save the initial configuration.
-
-Set up metadata (Optional)
-
-You can map Workfront object data to asset media fields in Experience Manager Assets.
-
-NOTE
-
-You can map metadata only in one direction: from Workfront to Experience Manager. Metadata for documents linked to Workfront from Experience Manager cannot be transferred to Workfront.
-
-Configure metadata fields
-
-Before you begin mapping metadata fields, you must configure metadata fields in both Workfront and Experience Manager Assets.
-
-To configure metadata fields:
-
-Configure a metadata schema in Experience Manager Assets as explained in
-
-Configure asset metadata mapping between Adobe Workfront and Experience Manager Assets
-
-.
-
-Configure custom form fields in Workfront. Workfront has many built-in custom fields you can use. However, you can also create your own custom fields as explained in
-
-Create a custom form
-
-.
-
-Expand to see more information about supported Workfront and Experience Manager Assets fields
-
-Experience Manager Assets Tags
-
-You can map any Workfront supported field to a tag in Experience Manager Assets. To do this, you must ensure that tag values in Experience Manager Assets match Workfront.
-
-Tags and Workfront field values must be an exact match in spelling, and format.
-
-Workfront field values that are mapped to experience Manager assets tags must be all lowercase, even if the tag in Experience Manager Assets appears to have uppercase letters.
-
-Workfront field values must not include spaces.
-
-The field value in Workfront must also include the folder structure of the Experience Manager Assets tag.
-
-To map multiple single-line text fields to tags, enter a comma-separated list of the tag values into the Workfront side of the metadata mapping, and
-
-xcm:keywords
-
-on the Experience Manager Assets side. Each field value maps to a separate tag. You can use a calculated field to combine multiple Workfront fields into a single comma-separated text field.
-
-You can map values from drop-down, radio button, or checkbox fields by entering a comma-separated list of the available values in that field.
-
-note info
-
-INFO
-
-Example
-
-: To match the tag shown in the folder structure here, the field value in Workfront would be
-
-landscapes:trees/spruce
-
-. Note the lowercase letters in the Workfront field value.
-
-If you want the tag to be leftmost item in the tag tree, it must be followed by a colon. In this example, to map to the landscapes tag, the field value in Workfront would be
-
-landscapes:
-
-.
-
-After you have created the tags in Experience Manager Assets, they will appear under the Tags drop-down in the Metadata section. To link a field to a tag, select
-
-xcm:keywords
-
-in the Experience Manager Assets field dropdown in the metadata mapping area.
-
-For more information on tags in Experience Manager Assets, including how to create and manage tags, see
-
-Administering Tags
-
-.
-
-Experience Manager Assets custom metadata schema fields
-
-You can map both built-in and custom Workfront fields to custom metadata schema fields in Experience Manager Assets.
-
-Custom metadata fields created in Experience Manager Assets are organized in their own section in the Metadata setup area.
-
-Workfront fields
-
-You can map both built-in and custom Workfront fields to Experience Manager Assets. The following field values must match in both case and spelling between Workfront and Experience Manager Assets:
-
-Drop-down fields
-
-Multi-select fields
-
-note tip
-
-TIP
-
-To check if the field values match exactly, go to
-
-Setup > Custom Forms in Workfront or the field in the object
-
-Assets > metadata schemas in Experience Manager Assets
-
-Map metadata for assets
-
-Metadata maps when an asset is pushed from Workfront for the first time. Documents with the built-in or custom fields automatically map to the specified fields the first time an asset is sent to Experience Manager Assets.
-
-To map metadata for assets:
-
-In the
-
-Workfront field
-
-column, choose a built-in or custom Workfront field.
-
-note
-
-NOTE
-
-You can map a single Workfront field to multiple Experience Manager Assets fields. You can’t map multiple Workfront fields to a single Experience Manager Assets field.
-
-In the Experience Manager Assets field, search through the pre-populated categories or enter at least two letters in the search field to access additional categories.
-
-Repeat steps 2 and 3 as needed.
-
-Click
-
-Save
-
-or move to the
-
-Object metadata sync
-
-section in this article.
-
-Object metadata sync
-
-An Experience Manager fields that is mapped to Workfront portfolio, program, project, task, issue, and document fields update automatically when the field is changed in Workfront.
-
-When this option is enabled, any asset that has been pushed to Adobe Experience manager displays a real-time view of the document’s Adobe Experience Manager metadata on the Document Details page in Workfront.
-
-Enable the
-
-Sync object metadata
-
-field, then click
-
-Save
-
-.
-
-IMPORTANT
-
-Users must have write access in Experience Manager for assets living in the object in order for the metadata to sync when it’s updated.
-
-Send a Document to Experience Manager Assets or Assets Essentials
-
-You can send documents from Workfront to Experience Manager Assets or Assets Essentials. Documents uploaded and sent from Workfront to Assets Essentials still count against your overall document storage.
-
-Assets sent to Experience Manager through this integration have a size limit of
-
-5o TB
-
-.
-
-Metadata fields are first mapped when you send an asset from Workfront to Experience Manager Assets or Assets Essentials. Any metadata configured to map for parent objects is sent as well. For more information on configuring metadata mapping, see
-
-Configure the Experience Manager Assets as a Cloud Service integration
-
-or
-
-Configure the Experience Manager Assets Essentials integration
-
-.
-
-INFO
-
-Example
-
-When you first send an asset attached to a project, the metadata maps to Experience Manager Assets or Assets Essentials as well as any mapped metadata from parent objects such as a portfolio and program.
-
-Send a Document from Workfront
-
-When a user sends a document from Workfront to Experience Manager Assets or Assets Essentials, mapped metadata transfers along the document. After the document is sent, changes made to the document’s metadata in Workfront are not reflected in Assets or Assets Essentials. If a mapped field in Workfront is changed, you must send a new version of the document with the updated metadata to Assets or Assets Essentials.
-
-To send a document:
-
-Go to the
-
-Documents
-
-area in Workfront, and select the document you want to send.
-
-In the bar at the bottom of the screen, click
-
-Send to
-
-.
-
-Choose the Experience Manager integration your administrator set up, then click
-
-Send
-
-.
-
-note
-
-NOTE
-
-The Workfront administrator can choose any name for this integration, so it may not specifically mention Assets or Assets Essentials.
-
-Choose where you want the asset to go, then click
-
-Select Folder
-
-.
-
-recommendation-more-help
-
-workfront-help-quicksilver
-
----
 # FILE: use-the-adobe-workfront-mcp-server-adobe-workfront.md
 ---
 
@@ -370227,7 +376539,7 @@ Workfront Guide
 
 Use the Adobe Workfront MCP server
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -370385,6 +376697,12 @@ To force the AI agentic platform to fetch fresh data, ask for it explicitly. For
 
 Get the latest data from Workfront. Don’t use cached results.
 
+Insights data is near real-time, not instant
+
+The Insights tools that are used to find, filter, and report on Workfront data reflect changes on a near real-time basis, with a service level agreement (SLA) of up to approximately 15 minutes. If you make a change in Workfront and immediately ask about it, the response may not reflect that change.
+
+If you need to confirm a very recent change, wait a few minutes and ask again, or check directly in Workfront.
+
 Check for updates to the Workfront MCP server
 
 You might want to periodically refresh your connection to the Workfront MCP server to ensure that you have the latest tools and capabilities.
@@ -370409,7 +376727,7 @@ Troubleshoot day-to-day use
 
 Expand to view troubleshooting tips for day-to-day use of the Workfront MCP server.
 
-table 0-row-3 1-row-3 2-row-3 3-row-3
+table 0-row-3 1-row-3 2-row-3 3-row-3 4-row-3
 
 Problem
 
@@ -370422,6 +376740,12 @@ The AI agentic platform is giving you outdated information.
 The AI agentic platform is reusing data from earlier in the conversation.
 
 Ask for fresh data from Workfront.
+
+Data you just changed in Workfront doesn’t show up yet.
+
+Insights data is near real-time, with an SLA of up to about 15 minutes.
+
+Wait a few minutes and ask again, or check directly in Workfront.
 
 The AI agentic platform returned data from the wrong Workfront items.
 
@@ -370569,7 +376893,7 @@ Workfront Guide
 
 Use the Adobe Workfront mobile app: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -370678,6 +377002,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Work management
 
 CREATED FOR:
 
@@ -371003,6 +377329,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -371255,11 +377583,11 @@ Workfront Guide
 
 Use the Desktop Proofing Viewer: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -371293,7 +377621,7 @@ Workfront Guide
 
 Use the Home area: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -371353,7 +377681,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -371460,6 +377788,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -371861,7 +378191,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -371970,6 +378300,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -372248,6 +378580,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -372539,11 +378873,13 @@ Workfront Guide
 
 Use the proof approval report
 
-Last update: June 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -372669,7 +379005,7 @@ Workfront Guide
 
 Use the reference number of objects
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -372788,6 +379124,8 @@ Last update: April 1, 2026
 Topics:
 
 Work management
+
+Resource management
 
 CREATED FOR:
 
@@ -372991,6 +379329,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -373142,6 +379482,190 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
+# FILE: use-work-agents-adobe-workfront.md
+---
+
+Use Work Agents | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+Use Work Agents
+
+Last update: September 30, 2026
+
+Topics:
+
+Work management
+
+CREATED FOR:
+
+User
+
+Work Agents are AI Collaborators that can be assigned directly to Workfront tasks, in addition to the existing AI Reviewer used for document and asset reviews. Like other AI Collaborators, Work Agents are configured in the Setup area and assigned to tasks just like a user.
+
+Work Agents connect to agents that you have configured in Copilot Studio, Claude, or Writer.
+
+For information and instructions about creating a Work Agent in Workfront, see
+
+Configure a Work Agent
+
+in the article Configure AI Collaborators.
+
+Access requirements
+
+Expand to view access requirements for the functionality in this article.
+
+table 0-row-2 1-row-2 2-row-2 layout-auto html-authored no-header
+
+Adobe Workfront package
+
+Select, Prime, or Ultimate
+
+Adobe Workfront license
+
+Standard
+
+Access level configurations
+
+System Administrator
+
+For information, see
+
+Access requirements in Workfront documentation
+
+.
+
+Prerequisites
+
+You must configure an agent in Copilot, Claude, or Writer.ai before you can use it as a Work Agent.
+
+Work Agent overview
+
+Work Agents are a way to assign agents to specific tasks in Workfront. You configure the agent in an app such as Copilot Studio, Claude, or Writer.ai, then connect that agent to Workfront as a Work Agent. You can then assign it to tasks as you would assign a user.
+
+Some example workflows may include:
+
+Detecting images uploaded to a task, generating variations based on criteria given to the agent, and uploading the new images to the task.
+
+Generating copy from a task description, reviewing the copy against guidelines configured in the agent, and posting copy to the update stream.
+
+Reading details of an event, identifying missing details, and posting questions in the update stream about the missing details.
+
+NOTE
+
+Specific details about an agent’s responsibilities and abilities are configured in the application where the agent is created, not in Workfront.
+
+The Workfront MCP server does not need to be added to the agent used as a Work Agent, and does not need to be connected for the Work Agent to work.
+
+Work Agents currently support agents created in Copilot Studio, Claude, and Writer.ai.
+
+When configuring an agent in Copilot Studio, you must set security to
+
+No authentication
+
+.
+
+For information and instructions about creating a Work Agent in Workfront, see
+
+Configure a Work Agent
+
+in the article Configure AI Collaborators.
+
+Information a Work Agent reads
+
+When a Work Agent begins work on a task, it automatically reads the following task information as context:
+
+Task title
+
+Task description
+
+Comments in the task’s update stream
+
+Information in any custom form attached to the task
+
+This information is always read and is not configurable as a Workfront setting.
+
+TIP
+
+For best results, we recommend:
+
+Including any background information you want the agent to use directly in the task description or a relevant custom form field.
+
+Making sure the task matches what your agent is instructed to do. For example, if your agent is instructed to translate text from English to French, include the text you want translated in the task description.
+
+Work Agent start triggers
+
+When a Work Agent is assigned to a task, it begins work when any of the following situations are met:
+
+The Work Agent is assigned to a task that is ready to start. (For example, if the task has predecessors, the predecessors are complete.)
+
+The Work Agent and a user are assigned to a task, and the Work Agent is assigned first.
+
+A task to which a Work Agent is already assigned as becomes ready to start, and the Work Agent is the only or primary assignee. (For example, if the task has predecessors, the predecessors are complete.)
+
+A task to which a Work Agent and a user are already assigned becomes ready to start, and the Work Agent was assigned first or is the primary assignee. (For example, if the task has predecessors, the predecessors are complete.)
+
+A user and a Work Agent are assigned to a task, and the user is removed.
+
+A user and a Work Agent are assigned to a task, and the Work Agent is set as the Primary Assignee for the task.
+
+The following situations do not cause the Work Agent to begin work on the task:
+
+A Work Agent is assigned to a task that already has a user assigned.
+
+A Work Agent is @mentioned in a task.
+
+A Work Agent is assigned to a task that already has a Work Agent assigned. In this case, the first Work Agent assigned will have already begun the work, and the second Work Agent will do nothing.
+
+A Work Agent is assigned to a task that is not ready to start. (For example, if the task has predecessors, the predecessors are not yet complete.)
+
+Assign a Work Agent to a task
+
+Work Agents are assigned to tasks the same way users are assigned.
+
+When you are searching for a Work Agent in the list of available assignees, the name of the Work Agent is a first name only.
+
+For instructions, see
+
+Assign tasks
+
+.
+
+NOTE
+
+Work Agents cannot be assigned to review or approve a document.
+
+Troubleshooting Work Agents
+
+If your Work Agent does not return a response or output, please check the following:
+
+Make sure your agent is published on the AI platform provider side.
+
+Make sure you have sufficient AI credits with your agent’s platform.
+
+Make sure the the action taken on the task does not require a specific access level.
+
+If you are using Copilot as the agent provider, ensure you are using the “no authentication” setting.
+
+If you are using Copilot, make sure that your agent is configured on a global environment. Work Agent functionality does not currently support regional versions of Copilot Studio.
+
+Make sure that the Collaborator is the primary assignee on the task.
+
+Make sure that the task that the Work Agent is assigned to Can Start. For example, check to see that all task predecessors to that task are complete.
+
+TIP
+
+You can also go to the agent provider platform and ask the agent to perform the task within the platform. If the agent cannot perform the task within the platform, then the Work Agent will also run into issues in Workfront.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
 # FILE: use-workflows-in-the-experience-manager-assets-essentials-integration-adobe-workfront.md
 ---
 
@@ -373155,13 +379679,17 @@ Workfront Guide
 
 Use workflows in the Experience Manager Assets integration
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -373425,13 +379953,19 @@ Workfront Guide
 
 Use Workfront Fusion to convert a Workfront issue to a project that includes Adobe Experience Manager workflows
 
-Last update: July 10, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Workfront Fusion
+
+Resource management
 
 CREATED FOR:
 
@@ -373877,11 +380411,13 @@ Workfront Guide
 
 User management: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -373921,11 +380457,15 @@ Workfront Guide
 
 User synchronization between Adobe Workfront and Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -374005,11 +380545,13 @@ Workfront Guide
 
 Users
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -374051,7 +380593,7 @@ Workfront Guide
 
 Configure and use your organization’s custom OAuth 2 applications using JWT flow
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -374059,9 +380601,25 @@ Administration
 
 Integrations
 
+Workfront API
+
 CREATED FOR:
 
 Developer
+
+IMPORTANT
+
+Custom OAuth2 applications are in the process of being deprecated. Please note the following dates:
+
+November 1, 2026: You will no longer be able to create new custom OAuth2 applications.
+
+February 1, 2027: Existing custom OAuth2 applications will no longer work.
+
+For more information, see
+
+Migrate from Workfront OAuth2 to Adobe Developer Console
+
+.
 
 In order to integrate with Workfront and allow your client app to communicate with Workfront on behalf of the user, you must:
 
@@ -374171,7 +380729,7 @@ Workfront Guide
 
 Configure and use your organization’s custom OAuth 2 applications using PKCE flow
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -374179,9 +380737,25 @@ Administration
 
 Integrations
 
+Workfront API
+
 CREATED FOR:
 
 Developer
+
+IMPORTANT
+
+Custom OAuth2 applications are in the process of being deprecated. Please note the following dates:
+
+November 1, 2026: You will no longer be able to create new custom OAuth2 applications.
+
+February 1, 2027: Existing custom OAuth2 applications will no longer work.
+
+For more information, see
+
+Migrate from Workfront OAuth2 to Adobe Developer Console
+
+.
 
 PKCE is a secure authorization flow that works well with dynamically refreshing applications such as mobile apps, but is valuable across all OAuth2 clients. Instead of a static client secret, PKCE uses a dynamically generated string, eliminating the risk of a leaked client secret.
 
@@ -374507,7 +381081,7 @@ Workfront Guide
 
 Using the API Explorer
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -374617,11 +381191,13 @@ Workfront Guide
 
 View a Proof’s Original File in Box
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -374663,11 +381239,13 @@ Workfront Guide
 
 View active stages on a proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -374731,13 +381309,11 @@ Workfront Guide
 
 View activity on a proof in the proofing viewer
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -374823,11 +381399,13 @@ Workfront Guide
 
 View activity on a proof within Adobe Workfront
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -374905,7 +381483,7 @@ Work management
 
 Administration
 
-Resource Management
+Resource management
 
 CREATED FOR:
 
@@ -375293,6 +381871,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -375483,6 +382063,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -375594,6 +382176,86 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
+# FILE: view-ai-reviewer-score-and-feedback-adobe-workfront.md
+---
+
+View AI Reviewer score and feedback | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+View AI Reviewer score and feedback
+
+Last update: September 25, 2026
+
+Topics:
+
+Work management
+
+Resource management
+
+CREATED FOR:
+
+User
+
+Seconds after you submit the review and approval request, you can view the score and feedback from the AI Reviewer in the Document Summary panel.
+
+The AI Reviewer is not designed to be a decision-maker in the review and approval workflow. It only provides a score and recommendations to align the asset with the specified brand requirements.
+
+Understand how scores are calculated
+
+The AI Reviewer calculates scores differently depending on the review type:
+
+Image review: This score reflects the ratio of passed guidelines to failed guidelines.
+
+Copy review: This score uses a balanced weighting of subjective and objective results. Objective guidelines (displayed under “Fix”) are weighted three times more than subjective guidelines (displayed under “Consider”).
+
+Because objective guidelines carry more weight in copy reviews, we recommend writing concrete, measurable guidelines in your brand. For more information, see the
+
+Best practices for writing brand guidelines
+
+section in the Create and manage brands for the AI Reviewer article.
+
+View score and feedback
+
+You can view the AI Reviewer’s score and feedback from the Document Summary panel or in the Approvals tab on the Document Details page.
+
+In the Workfront notification email, click
+
+Go to review
+
+.
+
+Or
+
+Go to the Documents area where the document is uploaded, and open the Document Summary panel.
+
+Click
+
+Score
+
+.
+
+In the score and feedback window, the AI Reviewer explains how the asset does not meet the specified guidelines.
+
+Upload a new version and add AI Reviewer again
+
+If you need to adjust the asset based on the AI Reviewer’s feedback, you can upload a new version and start a new review.
+
+For more information, see
+
+Upload a new document version and request an approval
+
+.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
 # FILE: view-all-custom-forms-that-use-a-particular-custom-field-or-widget-adobe-workfront.md
 ---
 
@@ -375607,11 +382269,13 @@ Workfront Guide
 
 View all custom forms that use a particular custom field or widget
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -375739,11 +382403,13 @@ Workfront Guide
 
 View all reports that use a particular custom field or widget
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -376015,6 +382681,8 @@ Topics:
 
 Administration
 
+Get Started with Workfront
+
 CREATED FOR:
 
 User
@@ -376209,6 +382877,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -376303,11 +382973,15 @@ Workfront Guide
 
 View and configure event notifications for a group
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -376483,6 +383157,8 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
@@ -376639,11 +383315,13 @@ Workfront Guide
 
 View and edit your organization’s Workfront Proof account details
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -376758,6 +383436,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -376955,6 +383635,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -377107,11 +383789,15 @@ Workfront Guide
 
 View and manage a group’s details
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -377287,11 +383973,15 @@ Workfront Guide
 
 View and manage a group’s memberships
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -377513,11 +384203,15 @@ Workfront Guide
 
 View and manage a group’s recently deleted items
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -377673,13 +384367,17 @@ Workfront Guide
 
 View and manage a group’s recently restored items
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -377812,6 +384510,10 @@ Topics:
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -378135,7 +384837,7 @@ Workfront Guide
 
 View and manage change history
 
-Last update: August 25, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -378682,6 +385384,380 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
+# FILE: view-and-manage-custom-oauth2-applications-adobe-workfront.md
+---
+
+View and Manage Custom OAuth2 Applications | Adobe Workfront
+
+Documentation
+
+Workfront
+
+Workfront Guide
+
+View and manage custom OAuth2 applications
+
+Last update: September 25, 2026
+
+Topics:
+
+Administration
+
+Integrations
+
+System Setup and Administration
+
+Workfront Integrations and Apps
+
+CREATED FOR:
+
+Admin
+
+As an Adobe Workfront administrator, you can view and manage the OAuth2 applications for your instance of Workfront, which allow other applications to access Workfront.
+
+IMPORTANT
+
+Custom OAuth2 applications are in the process of being deprecated. Please note the following dates:
+
+November 1, 2026: You will no longer be able to create new custom OAuth2 applications.
+
+February 1, 2027: Existing custom OAuth2 applications will no longer work.
+
+For more information, see
+
+Migrate from Workfront OAuth2 to Adobe Developer Console
+
+.
+
+In the context of OAuth2, “Oauth2 application” refers to this sort of access link between an app and a server such as Workfront. For more information, see
+
+Create OAuth2 applications for Workfront integrations
+
+You can have up to a total of ten OAuth2 Applications at one time.
+
+For information, instructions, and details for creating custom OAuth2 applications, see
+
+Create OAuth2 applications for Workfront integrations
+
+For information, instructions, and details for configuring and using the OAuth2 application with user credentials (authorization code flow), see
+
+Configure and use your organization’s custom OAuth 2 applications using authorization code flow
+
+.
+
+For information, instructions, and details for configuring and using the OAuth2 application using server authentication (JWT flow), see
+
+Configure and use your organization’s custom OAuth 2 applications using JWT flow
+
+.
+
+For instructions on configuring and using the OAuth2 application using PKCE, see
+
+Configure and use your organization’s custom OAuth 2 applications using PKCE flow
+
+.
+
+Access requirements
+
+Expand to view access requirements for the functionality in this article.
+
+table 0-row-2 1-row-2 2-row-2 layout-auto html-authored no-header
+
+Workfront package
+
+Any
+
+Adobe Workfront license
+
+Standard
+
+Plan
+
+Access level configurations
+
+You must be a Workfront administrator.
+
+For information, see
+
+Access requirements in Workfront documentation
+
+.
+
+Prerequisites
+
+You must create OAuth2 applications for your organization before you can view or manage them.
+
+For more information, see
+
+Create OAuth2 applications for Workfront integrations
+
+Manage custom OAuth2 applications
+
+View and edit custom OAuth2 applications
+
+Delete custom OAuth2 applications
+
+View and edit custom OAuth2 applications
+
+view-and-edit-custom-oauth2-applications
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-left corner of Adobe Workfront, then click
+
+Setup
+
+.
+
+In the left navigation panel, click
+
+System
+
+, then select
+
+OAuth Applications
+
+.
+
+Click
+
+Create app integration
+
+.
+
+Hover over the application and click
+
+Edit
+
+when it appears on the far right.
+
+(Optional) Edit any details of the application.
+
+For fields related to OAuth2 and JWT apps, see
+
+Create OAuth2 applications for Workfront integrations
+
+.
+
+Delete custom OAuth2 applications
+
+delete-custom-oauth2-applications
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-left corner of Adobe Workfront, then click
+
+Setup
+
+.
+
+In the left navigation panel, click
+
+System
+
+, then select
+
+OAuth Applications
+
+.
+
+Hover over the application and click
+
+Delete
+
+when it appears on the far right.
+
+Manage Client Secrets in OAuth2 applications
+
+View Client Secret details
+
+Add or edit notes for Client Secret
+
+Delete Client Secret
+
+View Client Secret details
+
+view-client-secret-details
+
+IMPORTANT
+
+You cannot view the Client Secret itself. If you have lost your Client Secret, you must delete it and create a new one.
+
+To delete a Client Secret, see
+
+Delete Client Secret
+
+in this article.
+
+To create a new Client Secret, see
+
+Create an OAuth2 application
+
+in
+
+Create OAuth2 applications for Workfront integrations
+
+.
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-left corner of Adobe Workfront, then click
+
+Setup
+
+.
+
+In the left navigation panel, click
+
+System
+
+, then select
+
+OAuth Applications
+
+.
+
+Hover over the application and click the
+
+Edit
+
+icon when it appears on the far right.
+
+View details in the Client Secret area:
+
+Created date
+
+Last used date
+
+Notes
+
+To add notes to a Client Secret, see
+
+Add or edit notes for Client Secret
+
+.
+
+Add or edit notes for Client Secret
+
+add-or-edit-notes-for-client-secret
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-left corner of Adobe Workfront, then click
+
+Setup
+
+.
+
+In the left navigation panel, click
+
+System
+
+, then select
+
+OAuth Applications
+
+.
+
+Click
+
+Create app integration
+
+.
+
+Hover over the application and click the
+
+Edit
+
+icon when it appears on the far right.
+
+Locate the Client Secret that you want to add or edit a note for.
+
+Click the box that contains details for the Client Secret.
+
+You can now add note text, or edit existing note text.
+
+note
+
+NOTE
+
+Note text has a maximum of 64 characters.
+
+Click out of the box or press
+
+Enter
+
+to save the note text.
+
+Delete Client Secret
+
+delete-client-secret
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-left corner of Adobe Workfront, then click
+
+Setup
+
+.
+
+In the left navigation panel, click
+
+System
+
+, then select
+
+OAuth Applications
+
+.
+
+Click
+
+Create app integration
+
+.
+
+Hover over the application and click the
+
+Edit
+
+icon when it appears on the far right.
+
+Locate the Client Secret that you want to delete.
+
+Click the
+
+Delete
+
+icon
+
+next to the Client Secret.
+
+recommendation-more-help
+
+workfront-help-quicksilver
+
+---
 # FILE: view-and-manage-favorites-adobe-workfront.md
 ---
 
@@ -378695,11 +385771,13 @@ Workfront Guide
 
 View and manage favorites
 
-Last update: July 14, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -378845,11 +385923,13 @@ Workfront Guide
 
 View and manage in-app notifications
 
-Last update: July 29, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -379119,11 +386199,13 @@ Workfront Guide
 
 View and manage proof version details
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -379241,11 +386323,15 @@ Workfront Guide
 
 View and manage subgroup members
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -379405,11 +386491,13 @@ Workfront Guide
 
 View and reply to proof comments
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -379813,13 +386901,15 @@ Workfront Guide
 
 View approvals
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -380047,6 +387137,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -380267,13 +387359,11 @@ Workfront Guide
 
 View authentication logs in Workfront Proof
 
-Last update: May 11, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -380325,11 +387415,11 @@ Workfront Guide
 
 View Automated Workflow stages on a proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -380825,6 +387915,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -381127,6 +388219,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -381280,6 +388374,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -381531,6 +388627,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -381720,6 +388818,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -382023,11 +389123,13 @@ Workfront Guide
 
 View content in a proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -382266,84 +389368,6 @@ recommendation-more-help
 workfront-help-quicksilver
 
 ---
-# FILE: view-content-reviewer-score-and-feedback-adobe-workfront.md
----
-
-View Content Reviewer score and feedback | Adobe Workfront
-
-Documentation
-
-Workfront
-
-Workfront Guide
-
-View Content Reviewer score and feedback
-
-Last update: June 12, 2026
-
-Topics:
-
-Work management
-
-CREATED FOR:
-
-User
-
-Seconds after you submit the review and approval request, you can view the score and feedback from the Content Reviewer in the Document Summary panel.
-
-The Content Reviewer is not designed to be a decision-maker in the review and approval workflow. It only provides a score and recommendations to align the asset with the specified brand requirements.
-
-Understand how scores are calculated
-
-The Content Reviewer calculates scores differently depending on the review type:
-
-Image review: This score reflects the ratio of passed guidelines to failed guidelines.
-
-Copy review: This score uses a balanced weighting of subjective and objective results. Objective guidelines (displayed under “Fix”) are weighted three times more than subjective guidelines (displayed under “Consider”).
-
-Because objective guidelines carry more weight in copy reviews, we recommend writing concrete, measurable guidelines in your brand. For more information, see the
-
-Best practices for writing brand guidelines
-
-section in the Create and manage brands for the Content Reviewer article.
-
-View score and feedback
-
-You can view the Content Reviewer’s score and feedback from the Document Summary panel or in the Approvals tab on the Document Details page.
-
-In the Workfront notification email, click
-
-Go to review
-
-.
-
-Or
-
-Go to the Documents area where the document is uploaded, and open the Document Summary panel.
-
-Click
-
-Score
-
-.
-
-In the score and feedback window, the Content Reviewer explains how the asset does not meet the specified guidelines.
-
-Upload a new version and add Content Reviewer again
-
-If you need to adjust the asset based on the Content Reviewer’s feedback, you can upload a new version and start a new review.
-
-For more information, see
-
-Upload a new document version and request an approval
-
-.
-
-recommendation-more-help
-
-workfront-help-quicksilver
-
----
 # FILE: view-display-an-image-instead-of-a-string-in-a-column-adobe-workfront.md
 ---
 
@@ -382362,6 +389386,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -382538,6 +389564,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -382743,7 +389771,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -382792,6 +389820,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -383037,6 +390067,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -383161,6 +390193,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -383282,6 +390316,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -383418,6 +390454,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -383598,6 +390636,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -383874,6 +390914,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -384169,6 +391211,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -384334,6 +391378,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -384799,6 +391845,8 @@ Topics:
 
 Administration
 
+Get Started with Workfront
+
 CREATED FOR:
 
 User
@@ -384973,7 +392021,13 @@ Issues
 
 in the left panel.
 
-To display all, open, or closed issues, click any of the filters listed below from the
+note
+
+NOTE
+
+The number next to the Issues section link represents the number of open (non-resolved) issues listed in the section.
+
+To display open or closed issues, click any of the filters listed below from the
 
 Filter
 
@@ -384984,6 +392038,8 @@ note tip
 TIP
 
 The list of filters varies depending on what your system or group administrator selected to display in it.
+
+Not applying any filter to the issue list displays all issues, regardless of their status.
 
 Open:
 
@@ -384997,13 +392053,9 @@ Overview of Resolving and Resolvable Objects
 
 .
 
-Completed:
+Complete:
 
 Displays all issues that have an Actual Completion Date.
-
-All
-
-Displays all issues.
 
 Understand information about issues
 
@@ -385250,6 +392302,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -385518,6 +392572,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -385841,6 +392897,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -386083,6 +393141,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -386243,13 +393303,17 @@ Workfront Guide
 
 View mapped metadata for Experience Manager Assets or Assets Essentials
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -386384,6 +393448,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -386723,6 +393789,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -387057,13 +394125,17 @@ Workfront Guide
 
 View or download a linked asset from Experience Manager Assets or Assets Essentials
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -387153,13 +394225,17 @@ Workfront Guide
 
 View or download a linked asset with the enhanced connector
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -387248,6 +394324,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -387507,6 +394585,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -387652,6 +394732,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -387881,7 +394963,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -388061,13 +395143,11 @@ Workfront Guide
 
 View previous proof versions in the Web Proofing Viewer
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -388123,11 +395203,13 @@ Workfront Guide
 
 View project and work item details in Priorities
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -388493,6 +395575,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -388681,11 +395765,13 @@ Workfront Guide
 
 View proof versions
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -388797,11 +395883,13 @@ Workfront Guide
 
 View recent items
 
-Last update: July 14, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -388878,6 +395966,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -389050,6 +396140,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -389357,6 +396449,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -389552,6 +396646,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -390991,11 +398087,13 @@ Workfront Guide
 
 View restored items
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -391110,6 +398208,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -391262,6 +398362,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -391533,6 +398635,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -391651,13 +398755,15 @@ Workfront Guide
 
 View submitted proof approvals
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -391763,9 +398869,19 @@ Topics:
 
 Administration
 
+Work management
+
 CREATED FOR:
 
 User
+
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
 
 You can view the requests that you or someone else submitted, or requests you started but you never finished submitting. The unfinished requests are saved as drafts.
 
@@ -391787,9 +398903,13 @@ NOTE
 
 You can only view your own draft requests.
 
-In the new requesting experience, submitted requests and drafts are found in the same list.
+In the new request experience, submitted requests and drafts are found in the same list.
 
 Drafts created in the legacy experience do not display in the new Requesting experience.
+
+In the Production environment, in the new request experience, you can find Workfront requests submitted only from July 2025 to the present day.
+
+In the Preview environment, in the new request experience, you can fiend Workfront requests submitted only from 2023 to the present day. You can see all Workfront requests in the legacy experience.
 
 Access requirements
 
@@ -392216,6 +399336,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -392765,6 +399887,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -393101,11 +400225,15 @@ Workfront Guide
 
 View the number of licenses allocated and used in a group
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -393375,11 +400503,13 @@ Workfront Guide
 
 View the organizational chart
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -393443,13 +400573,11 @@ Workfront Guide
 
 View the Progress and Status of a Proof in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -393929,7 +401057,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -394065,11 +401193,13 @@ Workfront Guide
 
 View user login information
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 
@@ -394259,6 +401389,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -394386,6 +401518,10 @@ Topics:
 Administration
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -394683,6 +401819,8 @@ Topics:
 
 Administration
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -394803,11 +401941,11 @@ Workfront Guide
 
 View Workfront Planning information in reports
 
-Last update: August 3, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -394909,11 +402047,13 @@ Workfront Guide
 
 View your organization’s Workfront Proof administrator account history
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -394985,11 +402125,11 @@ Workfront Guide
 
 Views: article index
 
-Last update: May 13, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -395056,6 +402196,8 @@ Last update: April 1, 2026
 Topics:
 
 Administration
+
+Reports and dashboards
 
 CREATED FOR:
 
@@ -395165,7 +402307,7 @@ Workfront Guide
 
 What’s new in API version 22
 
-Last update: May 19, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -395739,6 +402881,8 @@ Topics:
 
 Integrations
 
+Reports and dashboards
+
 CREATED FOR:
 
 User
@@ -396047,11 +403191,13 @@ Workfront Guide
 
 Work approvals
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
+
+Resource management
 
 CREATED FOR:
 
@@ -396129,11 +403275,7 @@ Planned Hours overview
 
 Work Effort
 
-A manual label that defines whether it takes a user a small, medium, or large amount of daily effort to complete a task.<!--
-
-The level of effort is estimated to be a percentage of the daily amount of working time. (NOTE: keep this drafted. Vazgen said it’s not needed, but waiting for feedback from users)
-
--->
+A manual label that defines whether it takes a user a small, medium, or large amount of daily effort to complete a task.
 
 Consider the following about Work Effort:
 
@@ -396150,6 +403292,8 @@ Planned Hours and Work Effort influence each other. Updating the Planned Hours c
 Access requirements
 
 Expand to view access requirements for the functionality in this article.
+
+table 0-row-2 1-row-2 2-row-2 3-row-2 layout-auto html-authored no-header
 
 Adobe Workfront package
 
@@ -396174,60 +403318,6 @@ For more information, see
 Access requirements in Workfront documentation
 
 .
-
-<!-- Old:
-
-<table style="table-layout:auto">
-
-<col>
-
-<col>
-
-<tbody>
-
-<tr>
-
-<td role="rowheader">Adobe Workfront plan</td>
-
-<td> <p>Any</p> </td>
-
-</tr>
-
-<tr>
-
-<td role="rowheader">Adobe Workfront license*</td>
-
-<td> <p>Current: Plan </p>
-
-Or
-
-<p>New: Standard </p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td role="rowheader">Access level configuration</td>
-
-<td> <p>Edit access to Projects and Tasks</p> </td>
-
-</tr>
-
-<tr>
-
-<td role="rowheader">Object permissions</td>
-
-<td> <p>Manage permissions to a project and its tasks</p>  </td>
-
-</tr>
-
-</tbody>
-
-</table>
-
--->
 
 Considerations for using Work Effort
 
@@ -396463,7 +403553,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Agile
+Work management
 
 CREATED FOR:
 
@@ -396681,11 +403771,15 @@ Workfront Guide
 
 Work with a group’s objects
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
+
+People Teams and Groups
 
 CREATED FOR:
 
@@ -396735,7 +403829,7 @@ Workfront Guide
 
 Work with custom forms
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -396775,13 +403869,11 @@ Workfront Guide
 
 Work with multiple proofs in the proofing viewer
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -396887,13 +403979,11 @@ Workfront Guide
 
 Work with proofs and files in Workfront Proof
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -396943,13 +404033,11 @@ Workfront Guide
 
 Workflow examples
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -396991,11 +404079,15 @@ Workfront Guide
 
 Workfront and Experience Manager Assets Integrations: article index
 
-Last update: July 8, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -397101,11 +404193,11 @@ Workfront Guide
 
 Workfront Data Connect data dictionary
 
-Last update: August 7, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -408427,11 +415519,11 @@ Workfront Guide
 
 Workfront Data Connect for Workfront Planning
 
-Last update: July 6, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -408483,7 +415575,7 @@ Last update: April 1, 2026
 
 Topics:
 
-Reports and Dashboards
+Reports and dashboards
 
 CREATED FOR:
 
@@ -408535,11 +415627,15 @@ Workfront Guide
 
 Workfront for Experience Manager enhanced connector: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -408575,11 +415671,15 @@ Workfront Guide
 
 Workfront for Experience Manager enhanced connector metadata overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -408653,13 +415753,17 @@ Workfront Guide
 
 Workfront for Experience Manager enhanced connector overview
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Work management
 
 Integrations
+
+Workfront Integrations and Apps
+
+Resource management
 
 CREATED FOR:
 
@@ -408757,7 +415861,7 @@ Workfront Guide
 
 Workfront MCP server: article index
 
-Last update: August 10, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -408797,11 +415901,11 @@ Workfront Guide
 
 Workfront Planning terminology overview
 
-Last update: August 4, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -409151,11 +416255,13 @@ Workfront Guide
 
 Workfront Proof account administration
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -409201,11 +416307,13 @@ Workfront Guide
 
 Workfront Proof API
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -409241,13 +416349,15 @@ Workfront Guide
 
 Workfront Proof: article index
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -409299,11 +416409,13 @@ Workfront Guide
 
 Workfront Proof Billing Settings
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -409339,11 +416451,13 @@ Workfront Guide
 
 Workfront Proof - frequently asked questions
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -409387,11 +416501,13 @@ Workfront Guide
 
 Workfront Proof integrations
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Integrations
+
+Resource management
 
 CREATED FOR:
 
@@ -409433,7 +416549,7 @@ Workfront Guide
 
 Workfront Proof Manager permissions troubleshooting
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
@@ -409501,11 +416617,13 @@ Workfront Guide
 
 Workfront Proof SPF records
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+Resource management
 
 CREATED FOR:
 
@@ -409565,13 +416683,11 @@ Workfront Guide
 
 Workfront Proof tech corner
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -409803,6 +416919,8 @@ Topics:
 
 Administration
 
+Get Started with Workfront
+
 CREATED FOR:
 
 User
@@ -410011,13 +417129,11 @@ Workfront Guide
 
 Working with Designers and Project Managers in Workfront Proof
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -410135,13 +417251,11 @@ Workfront Guide
 
 Working with Freelancers in Workfront Proof
 
-Last update: July 27, 2026
+Last update: September 25, 2026
 
 Topics:
 
-Workfront Proof
-
-Digital Content and Documents
+Resource management
 
 CREATED FOR:
 
@@ -410317,13 +417431,13 @@ Workload Balancer overview
 
 workload-balancer-overview
 
-Last update: August 20, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
 
-Resource Management
+Resource management
 
 CREATED FOR:
 
@@ -410333,7 +417447,7 @@ After project managers plan the work on projects by creating tasks and after res
 
 IMPORTANT
 
-You can use the Workload Balancer to assign actual work (tasks and issues) to users and Task Collaborators.
+You can use the Workload Balancer to assign actual work (tasks and issues) to users and Work Agents.
 
 You must use the Resource Planner and not the Workload Balancer to estimate job role allocations for your projects, at a high level. For more information about the Resource Planner, see
 
@@ -410485,11 +417599,11 @@ Configure Resource Management preferences
 
 .
 
-You can assign work to a Task Collaborator in all of the same ways you assign work to a user. The Task Collaborator must exist in Workfront before it can be assigned to tasks.
+You can assign work to a Work Agent in all of the same ways you assign work to a user. The Work Agent must exist in Workfront before it can be assigned to tasks.
 
-For information about creating Task Collaborators, see
+For information about creating Work Agents, see
 
-Configure a Task Collaborator
+Configure a Work Agent
 
 in the article
 
@@ -410563,11 +417677,11 @@ Workfront Guide
 
 Workspaces overview
 
-Last update: June 12, 2026
+Last update: October 1, 2026
 
 Topics:
 
-Workfront Planning
+Work management
 
 CREATED FOR:
 
@@ -410720,6 +417834,8 @@ Topics:
 Administration
 
 Integrations
+
+Get Started with Workfront
 
 CREATED FOR:
 
@@ -410927,11 +418043,13 @@ Workfront Guide
 
 Workfront: ZScaler settings can cause reduced performance
 
-Last update: June 12, 2026
+Last update: September 25, 2026
 
 Topics:
 
 Administration
+
+System Setup and Administration
 
 CREATED FOR:
 

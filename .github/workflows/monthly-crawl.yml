@@ -17,7 +17,7 @@ on:
 
 jobs:
   crawl:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 240 # 4h de margem
     if: ${{ github.event.inputs.skip_crawl != 'true' }}
 

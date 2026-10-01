@@ -8,7 +8,7 @@ title: "A/B vs Multi-armed bandit experiments mab-vs-ab"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/technotes/mab-vs-ab"
 category: "release-notes"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:08.739272+00:00"
+created_at: "2026-10-01T17:59:02.511468+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -103,7 +103,7 @@ title: "About experienceevent schemas for Journey Optimizer events about-experie
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/events-journeys/experience-event-schema"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:07.086351+00:00"
+created_at: "2026-10-01T17:55:44.963745+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -281,7 +281,7 @@ title: "About legacy fields sharing-legacy-fields"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reports/legacy-step-event-fields/sharing-legacy-fields"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:27.879040+00:00"
+created_at: "2026-10-01T18:03:30.386042+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -321,7 +321,7 @@ title: "About Orchestrated campaign activities orchestrated-campaign-activities"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/about-activities"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:03.724401+00:00"
+created_at: "2026-10-01T17:57:47.416881+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -415,7 +415,7 @@ title: "Access and manage content templates access-manage-templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-templates/access-content-templates"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:32.316748+00:00"
+created_at: "2026-10-01T18:00:25.386096+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -552,7 +552,7 @@ title: "Access and subscribe to system alerts alerts"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:10.964115+00:00"
+created_at: "2026-10-01T17:52:37.328629+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -957,7 +957,7 @@ title: "Access control section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/access-control-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:44.225983+00:00"
+created_at: "2026-10-01T17:52:07.681163+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -1020,7 +1020,7 @@ title: "Access events XDM fields decisioningevents-xdm-schema"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/create-reports/xdm-fields"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:46.278034+00:00"
+created_at: "2026-10-01T18:04:54.537275+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -1069,7 +1069,7 @@ title: "Access & manage campaigns manage-campaigns"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/manage-campaigns"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:51.269444+00:00"
+created_at: "2026-10-01T17:55:04.635149+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -1094,7 +1094,7 @@ Learn how to access, organize, and manage your campaigns in Adobe Journey Optimi
 **Jump directly to what you need:**
 
 - **Create a new campaign** - [Choose your campaign type](/en/docs/journey-optimizer/using/campaigns/get-started-with-campaigns#campaign-types) | [Create Action campaign](/en/docs/journey-optimizer/using/campaigns/action-campaigns/create-campaign) | [Create API-triggered campaign](/en/docs/journey-optimizer/using/campaigns/api-triggered-campaigns/api-triggered-campaigns) | [Create Orchestrated campaign](/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/gs-orchestrated-campaigns)
-- **Find existing campaigns** - [Search and filter](#access)
+- **Find existing campaigns** - [Search and filter](#access) | [Organize with folders](#folders)
 - **View campaign performance** - [Campaign reports](/en/docs/journey-optimizer/using/reporting/channel-report/campaign-reporting/campaign-global-report-cja)
 - **Schedule campaigns** - [Use the calendar](#calendar)
 - **Manage conflicts** - [Conflict management guide](/en/docs/journey-optimizer/using/conflict-prioritization/gs-conflict-prioritization)
@@ -1103,7 +1103,7 @@ style
 shade-box
 ## Access and browse campaigns access
 
-Campaigns are accessible from the **Campaigns** menu. Use the tabs to browse campaigns by type: **Action** campaigns, **API-triggered** campaigns, and **Orchestrated** campaigns. Learn more about the [types of campaigns](/en/docs/journey-optimizer/using/campaigns/get-started-with-campaigns#campaign-types). Available types depend on your license agreement and your permissions.
+Campaigns are accessible from the **Campaigns** menu. Use the tabs to browse campaigns by type: **Action** campaigns, **API-triggered** campaigns, **Orchestrated** campaigns, and **Folders**. Learn more about the [types of campaigns](/en/docs/journey-optimizer/using/campaigns/get-started-with-campaigns#campaign-types). Available types depend on your license agreement and your permissions.
 
 Action campaigns
 Select the **Action** tab to access the list of Action campaigns.
@@ -1126,8 +1126,14 @@ Each Orchestrated campaign in the list displays information such as the campaign
 
 In addition, a search bar and filters are available to facilitate easy searching within the list. For example, you can filter campaigns to display only those associated to a given channel or tag, or those created during a specific date range.
 
-You can also sort the list by clicking most column headers. In the folders view, sorting and filtering by **Priority** and **Channel configuration** columns is also supported.
+### Organize campaigns with folders folders
 
+In the Campaigns inventory, click the **Show folders** icon to open the folder view and organize your campaigns. [Learn how to work with folders](/en/docs/journey-optimizer/using/get-started/work-efficiently/search-filter-categorize#organize-folders) in *Search, filter, organize*.
+
+AVAILABILITY
+Folders for journeys and campaigns are in limited availability. For current release status, see the
+Journey Optimizer release cycle
+.
 ## Campaign operations operations
 
 The button in the campaigns inventory allows you to perform various operations.
@@ -1343,7 +1349,7 @@ title: "Access & manage challenges and tasks access-loyalty-challenges"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/create-manage-challenges/access-loyalty-challenges"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:40.359933+00:00"
+created_at: "2026-10-01T17:55:15.633644+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -1419,7 +1425,7 @@ title: "Access management"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/access-control/access-management"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:04:51.006083+00:00"
+created_at: "2026-10-01T18:03:56.611520+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -1450,7 +1456,7 @@ title: "Access the exported offer catalog access-exported-catalog"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/export-catalog/access-dataset"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:47.811478+00:00"
+created_at: "2026-10-01T18:04:56.272495+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -1496,7 +1502,7 @@ title: "Accessibility in Journey Optimizer accessibility"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/work-efficiently/accessibility"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:35.539788+00:00"
+created_at: "2026-10-01T17:56:14.804162+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -1658,7 +1664,7 @@ title: "Account audience journey nodes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/account-audience-nodes"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:18.557200+00:00"
+created_at: "2026-10-01T18:07:43.643165+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -1704,7 +1710,7 @@ title: "Account audiences"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/audiences/account-audience-overview"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:14.284014+00:00"
+created_at: "2026-10-01T18:07:38.243034+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -1762,7 +1768,7 @@ title: "Account details"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/sales-experience/account-details"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:52.655110+00:00"
+created_at: "2026-10-01T18:07:14.184757+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -1893,7 +1899,7 @@ title: "Account lists"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/account-lists/account-lists"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:58.813278+00:00"
+created_at: "2026-10-01T18:07:21.285330+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -2012,7 +2018,7 @@ title: "Action configuration section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/action-journeys-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:47.077360+00:00"
+created_at: "2026-10-01T17:56:27.508393+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -2059,7 +2065,7 @@ title: "Activate High throughput mode for API triggered campaigns high-throughpu
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/api-triggered-campaigns/api-triggered-high-throughput"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:48.555603+00:00"
+created_at: "2026-10-01T17:58:41.136096+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -2157,7 +2163,7 @@ title: "Activate Marketo Engage connections to support actions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/marketo-actions-connect"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:44.987632+00:00"
+created_at: "2026-10-01T18:07:05.799800+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -2227,7 +2233,7 @@ title: "Activities section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/about-journey-building-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:28.633624+00:00"
+created_at: "2026-10-01T17:52:55.766971+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -2297,7 +2303,7 @@ title: "Add a CC field to emails cc-email-field"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/cc-email-field"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:56.586290+00:00"
+created_at: "2026-10-01T18:02:55.790025+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -2394,7 +2400,7 @@ title: "Add a Google TXT record to a subdomain google-txt-record"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/delegate-subdomains/google-txt"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:27.266433+00:00"
+created_at: "2026-10-01T18:01:21.410867+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -2455,7 +2461,7 @@ title: "Add an email to your journey"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/add-email"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:27.947712+00:00"
+created_at: "2026-10-01T18:05:40.450815+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -2566,7 +2572,7 @@ title: "Add constraints to an offer add-constraints"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/managing-offers-in-the-offer-library/configure-offers/add-constraints"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:56.904804+00:00"
+created_at: "2026-10-01T18:04:02.453919+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -2781,7 +2787,7 @@ title: "Add Custom CSS for your content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/content-design/design-custom-css"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:55.271656+00:00"
+created_at: "2026-10-01T18:07:17.158049+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -2873,7 +2879,7 @@ title: "Add custom CSS to your email content email-metadata"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/edit-style/custom-css"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:06:05.584049+00:00"
+created_at: "2026-10-01T18:05:15.868911+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -3028,7 +3034,7 @@ title: "Add form fields to code-based experience channel templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:07:06.192886+00:00"
+created_at: "2026-10-01T18:06:23.189695+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -3062,7 +3068,7 @@ title: "Add inline styling attributes inline-styling"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/edit-style/inline-styling"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:06:04.628903+00:00"
+created_at: "2026-10-01T18:05:14.715709+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -3140,7 +3146,7 @@ title: "Add links & track messages tracking"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/message-tracking"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:31.920337+00:00"
+created_at: "2026-10-01T17:58:22.987754+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -3370,7 +3376,7 @@ title: "Add metadata to your email content email-metadata"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/email-metadata"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:07:16.450410+00:00"
+created_at: "2026-10-01T18:06:33.999665+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -3457,7 +3463,7 @@ title: "Add personalization build-personalization-expressions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/personalization-build-expressions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:37.753653+00:00"
+created_at: "2026-10-01T17:55:12.786186+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -3695,7 +3701,7 @@ title: "Add personalization in Orchestrated campaigns add-personalization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/launch/add-personalization"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:03.040817+00:00"
+created_at: "2026-10-01T17:55:40.485899+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -3771,7 +3777,7 @@ title: "Add personalized offers deliver-personalized-offers"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/add-offers-email"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:33.609601+00:00"
+created_at: "2026-10-01T18:01:28.436226+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -3886,7 +3892,7 @@ title: "Add representations to an offer add-representations"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/managing-offers-in-the-offer-library/configure-offers/add-representations"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:06:03.834480+00:00"
+created_at: "2026-10-01T18:05:13.852283+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -4032,7 +4038,7 @@ title: "Add visual fragments to your emails use-visual-fragments"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/use-visual-fragments"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:48.384444+00:00"
+created_at: "2026-10-01T18:02:46.486636+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -4217,7 +4223,7 @@ title: "Additional steps to send events additional-steps-to-send-events"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/events-journeys/additional-steps-to-send-events-to-journey"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:33.691613+00:00"
+created_at: "2026-10-01T18:02:30.519028+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -4372,7 +4378,7 @@ title: "Adjust vertical alignment & padding alignment-and-padding"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/edit-style/alignment-and-padding"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:32.585693+00:00"
+created_at: "2026-10-01T18:01:27.207608+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -4470,7 +4476,7 @@ title: "Adobe Campaign Standard actions using_campaign_action"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/using-adobe-campaign-standard"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:34.399376+00:00"
+created_at: "2026-10-01T17:58:25.631067+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -4628,7 +4634,7 @@ title: "Adobe Campaign v7/v8 actions using_campaign_v7-v8"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/using-adobe-campaign-v7-v8"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:35.204311+00:00"
+created_at: "2026-10-01T17:58:26.738873+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -4725,7 +4731,7 @@ title: "Adobe Experience Platform data source adobe-experience-platform-data-sou
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/data-source-journeys/adobe-experience-platform-data-source"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:32.875770+00:00"
+created_at: "2026-10-01T17:57:16.063777+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -4836,7 +4842,7 @@ title: "Adobe Journey Optimizer B2B Edition Documentation"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/guide-overview"
 category: "guides"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:03:26.768569+00:00"
+created_at: "2026-10-01T18:02:23.691352+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -5003,7 +5009,7 @@ title: "Adobe Journey Optimizer Documentation section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/ajo-home"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:32.777729+00:00"
+created_at: "2026-10-01T17:51:55.467912+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -5105,7 +5111,7 @@ title: "Adobe Journey Optimizer documentation"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer"
 category: "other"
 topic: "documentation/journey-optimizer"
-created_at: "2026-10-01T13:59:20.622800+00:00"
+created_at: "2026-10-01T17:58:11.369652+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer
 
@@ -5152,7 +5158,7 @@ title: "Adobe Target external audiences"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/audiences/target-external-audience"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:41.602703+00:00"
+created_at: "2026-10-01T18:07:01.473390+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -5237,7 +5243,7 @@ title: "Advanced expression editor syntax syntax"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/syntax/generalities"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:29.603566+00:00"
+created_at: "2026-10-01T18:03:32.637335+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -5346,7 +5352,7 @@ title: "Advanced HTML mode for email template design"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/email-templates/email-template-advanced-html"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:38.214757+00:00"
+created_at: "2026-10-01T18:06:57.811829+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -5397,7 +5403,7 @@ title: "Aggregation functions aggregation-functions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/main-functions-journey/aggregation-functions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:32.887866+00:00"
+created_at: "2026-10-01T18:03:35.920807+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -5849,7 +5855,7 @@ title: "Aggregation Functions aggregation"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/aggregation"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:01.879438+00:00"
+created_at: "2026-10-01T18:04:08.018507+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -5968,7 +5974,7 @@ title: "AI Assistant for content generation - Overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:02:53.050313+00:00"
+created_at: "2026-10-01T18:01:49.438173+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -5999,7 +6005,7 @@ title: "AI Assistant"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:03:09.255440+00:00"
+created_at: "2026-10-01T18:02:06.132332+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -6034,7 +6040,7 @@ title: "AI capabilities in Journey Optimizer B2B Edition"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-assistant-overview"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:23.029137+00:00"
+created_at: "2026-10-01T18:05:34.738081+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -6290,7 +6296,7 @@ title: "AI models section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/rankings/ai-models/ai-models-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:36.432045+00:00"
+created_at: "2026-10-01T18:04:44.548139+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -6342,7 +6348,7 @@ title: "AI models section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-rankings/experience-decisioning-ai-models/experience-decisioning-ai-models-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:29.642128+00:00"
+created_at: "2026-10-01T18:04:38.392187+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -6389,7 +6395,7 @@ title: "AJO Message Export schema ajo-message-export-schema"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/message-export-schema"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:54.916734+00:00"
+created_at: "2026-10-01T18:02:53.874405+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -6515,7 +6521,7 @@ title: "Alert alert"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/alert"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:26.608858+00:00"
+created_at: "2026-10-01T17:55:00.852955+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -6613,7 +6619,7 @@ title: "All time report section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/channel-report-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:47.083072+00:00"
+created_at: "2026-10-01T17:54:19.105045+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -6680,7 +6686,7 @@ title: "Analyze and Build Journeys with the Journey Agent"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:02:52.218323+00:00"
+created_at: "2026-10-01T18:01:48.711787+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -6711,7 +6717,7 @@ title: "Analyze your journey’s overall performance with all time reports"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:05:21.499165+00:00"
+created_at: "2026-10-01T18:04:29.034806+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -6743,7 +6749,7 @@ title: "AND-join join"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/and-join"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:42.373828+00:00"
+created_at: "2026-10-01T18:03:46.083008+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -6792,7 +6798,7 @@ title: "API Reference section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/api-reference/api-reference-landing-page"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:13.367864+00:00"
+created_at: "2026-10-01T18:01:08.501335+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -6838,7 +6844,7 @@ title: "API reference section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-api-reference/experience-decisioning-api-reference-landing-page"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:59.371724+00:00"
+created_at: "2026-10-01T18:00:54.412733+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -6867,7 +6873,7 @@ title: "Apply themes to your email content apply-email-themes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/start-creating-content/apply-email-themes"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:24.646214+00:00"
+created_at: "2026-10-01T17:54:59.170941+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -7053,7 +7059,7 @@ title: "Approve journeys & campaigns section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/approve/approve-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:57.172386+00:00"
+created_at: "2026-10-01T17:53:27.383195+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -7100,7 +7106,7 @@ title: "Arithmetic functions maths"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/arithmetic-functions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:04.370737+00:00"
+created_at: "2026-10-01T18:04:10.555339+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -7219,7 +7225,7 @@ title: "Arrays and list functions arrays"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/arrays-list"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:18.457644+00:00"
+created_at: "2026-10-01T17:55:57.840688+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -7565,7 +7571,7 @@ title: "Assets"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/assets/assets-overview"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:31.328011+00:00"
+created_at: "2026-10-01T18:05:44.537995+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -7666,7 +7672,7 @@ title: "Assign priority scores priority"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/priority-scores"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:49.036377+00:00"
+created_at: "2026-10-01T17:53:18.479507+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -7782,7 +7788,7 @@ title: "Assign priority scores to inbound actions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:07:08.584133+00:00"
+created_at: "2026-10-01T18:06:26.030192+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -7816,7 +7822,7 @@ title: "Attach a PDF file to an email pdf-attachments"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/start-creating-content/pdf-attachments"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:53.992614+00:00"
+created_at: "2026-10-01T17:58:47.264826+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -7941,7 +7947,7 @@ title: "Attribute-based access control attribute-based-access"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/attribute-based-access"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:59.749293+00:00"
+created_at: "2026-10-01T17:54:32.332011+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -8094,7 +8100,7 @@ title: "Audience activation in Journey Optimizer segments-in-journey-optimizer"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/audiences/target-audiences"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:43.234317+00:00"
+created_at: "2026-10-01T17:58:35.010051+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -8208,7 +8214,7 @@ title: "Audience Agent B2B"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-agents/audience-agent-b2b"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:07.551229+00:00"
+created_at: "2026-10-01T18:05:18.535938+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -8569,7 +8575,7 @@ title: "Audience Qualification events segment-qualification"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/audience-qualification-events"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:05.348755+00:00"
+created_at: "2026-10-01T17:56:48.011470+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -8768,7 +8774,7 @@ title: "Audiences, profiles & identity section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/audiences-profiles-identities-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:41.180073+00:00"
+created_at: "2026-10-01T17:52:04.065167+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -8815,7 +8821,7 @@ title: "Audiences section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/audiences/audiences-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:43.013864+00:00"
+created_at: "2026-10-01T17:54:14.778874+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -8862,7 +8868,7 @@ title: "Audit actions on Journey Optimizer resources track-changes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/audit-logs"
 category: "guides"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:54.695465+00:00"
+created_at: "2026-10-01T17:56:36.342963+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -9002,7 +9008,7 @@ title: "Author an in-app message"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/in-app-channel/author-in-app-messages"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:06:58.003843+00:00"
+created_at: "2026-10-01T18:06:13.321182+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -9040,7 +9046,7 @@ title: "Author an MMS message"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:07:02.280834+00:00"
+created_at: "2026-10-01T18:06:18.176735+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -9072,7 +9078,7 @@ title: "Author from a governed template"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-authoring-governance"
 category: "guides"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:48.891097+00:00"
+created_at: "2026-10-01T18:08:14.128075+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -9123,7 +9129,7 @@ title: "Author single-page applications web-author-spas"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/web/web-sdk/web-spa"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:14.555841+00:00"
+created_at: "2026-10-01T18:04:21.960294+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -9246,7 +9252,7 @@ title: "Author web pages section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/web/author-web-pages/author-web-pages-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:20.396846+00:00"
+created_at: "2026-10-01T18:00:13.388856+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -9299,7 +9305,7 @@ title: "Auto-optimization models auto-optimization-model"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/rankings/ai-models/auto-optimization-model"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:54.004623+00:00"
+created_at: "2026-10-01T18:02:52.789304+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -9436,7 +9442,7 @@ title: "Auto-optimization models auto-optimization-model"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-rankings/experience-decisioning-ai-models/auto-optimization-model"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:10.205088+00:00"
+created_at: "2026-10-01T18:02:07.105578+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -9570,7 +9576,7 @@ title: "B2B Namespaces and schemas"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/namespaces-schemas"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:08.565683+00:00"
+created_at: "2026-10-01T18:07:31.819393+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -9748,7 +9754,7 @@ title: "Batch decisioning deliver"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/batch-delivery"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:09.266600+00:00"
+created_at: "2026-10-01T18:01:04.014438+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -9862,7 +9868,7 @@ title: "Batch decisioning in direct mail batch-decisioning-direct-mail"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/decision-policies/batch-decisioning-direct-mail"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:53.142822+00:00"
+created_at: "2026-10-01T18:02:51.917131+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -9946,7 +9952,7 @@ title: "Benefits of migrating to Decisioning migrate-to-decisioning"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/migrate-to-decisioning/migrate-to-decisioning"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:57.585045+00:00"
+created_at: "2026-10-01T18:00:52.653835+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -10077,7 +10083,7 @@ title: "Best practices for SMS cost optimization sms-cost-optimization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/mobile/mobile-cost-optimization"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:12.954260+00:00"
+created_at: "2026-10-01T18:04:20.262381+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -10220,7 +10226,7 @@ title: "Brand alignment brands-score"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/brands/brands-score"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:50.673868+00:00"
+created_at: "2026-10-01T17:55:28.051424+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -10298,13 +10304,13 @@ title: "Browse & filter your journeys browse-journeys"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/journey-ui"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:04.385104+00:00"
+created_at: "2026-10-01T17:56:46.956384+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
 # Browse & filter your journeys browse-journeys
 
-Last update: September 7, 2026
+Last update: October 1, 2026
 - Applies to:
 - Journey Orchestration
 
@@ -10368,7 +10374,7 @@ To navigate in your Journeys calendar:
 Open the journeys folder view with the **Show folders** icon on the journey list, or use the **Folders view** tab. [Learn how to work with folders](/en/docs/journey-optimizer/using/get-started/work-efficiently/search-filter-categorize#organize-folders)
 
 AVAILABILITY
-Folders for journeys are in limited availability. For current release status, see the
+Folders for journeys and campaigns are in limited availability. For current release status, see the
 Journey Optimizer release cycle
 .
 ## Filter your journeys journey-filter
@@ -10505,7 +10511,7 @@ title: "Build AI models create-ai-models"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-rankings/experience-decisioning-ai-models/create-ai-models"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:59.143108+00:00"
+created_at: "2026-10-01T17:55:36.848834+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -10579,7 +10585,7 @@ title: "Build and publish a journey"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/create-publish-journey"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:26.384854+00:00"
+created_at: "2026-10-01T18:05:38.442096+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -10700,7 +10706,7 @@ title: "Build audience build-audience"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/build-audience"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:39.013320+00:00"
+created_at: "2026-10-01T18:01:34.447372+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -10754,7 +10760,7 @@ title: "Build expressions section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/building-advanced-conditions-journeys-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:18.177971+00:00"
+created_at: "2026-10-01T17:52:44.652046+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -10807,7 +10813,7 @@ title: "Build rules rules"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/rules"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:54.268030+00:00"
+created_at: "2026-10-01T17:55:32.149883+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -10991,7 +10997,7 @@ title: "Build segment definitions build-segments"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/audiences/create/creating-a-segment-definition"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:37.796644+00:00"
+created_at: "2026-10-01T17:56:17.019200+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -11144,7 +11150,7 @@ title: "Build your first rule build-query"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/query-database/build-query"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:29.381538+00:00"
+created_at: "2026-10-01T17:55:03.589881+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -11263,7 +11269,7 @@ title: "Building retargeting queries retarget"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/query-database/retarget"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:43.940695+00:00"
+created_at: "2026-10-01T18:03:47.662288+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -11338,7 +11344,7 @@ title: "Built-in permissions ootb-permissions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/ootb-permissions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:57.526469+00:00"
+created_at: "2026-10-01T17:54:29.752170+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -11733,7 +11739,7 @@ title: "Built-in roles ootb-product-profiles"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/ootb-product-profiles"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:35.764547+00:00"
+created_at: "2026-10-01T17:53:04.539434+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -12266,7 +12272,7 @@ title: "Buying group details"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/sales-experience/buying-group-details"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:53.424511+00:00"
+created_at: "2026-10-01T18:07:15.029183+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -12418,7 +12424,7 @@ title: "Buying group role templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:24.076795+00:00"
+created_at: "2026-10-01T18:05:35.677324+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -12588,7 +12594,7 @@ title: "Buying group stages"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/buying-group-stages"
 category: "tutorials"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-tutorials"
-created_at: "2026-10-01T14:08:24.603621+00:00"
+created_at: "2026-10-01T18:07:50.558623+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Tutorials
 
@@ -12621,7 +12627,7 @@ title: "Buying group stages"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-group-stages"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:02.005765+00:00"
+created_at: "2026-10-01T18:07:24.817711+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -12816,7 +12822,7 @@ title: "Buying Groups Overview dashboard"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/buying-groups-dashboard"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:36.492747+00:00"
+created_at: "2026-10-01T18:05:50.739732+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -12916,7 +12922,7 @@ title: "Buying groups overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/buying-groups-overview"
 category: "tutorials"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-tutorials"
-created_at: "2026-10-01T14:08:26.812102+00:00"
+created_at: "2026-10-01T18:07:53.102618+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Tutorials
 
@@ -12950,7 +12956,7 @@ title: "Buying groups"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:21.360871+00:00"
+created_at: "2026-10-01T18:05:32.955777+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -13120,7 +13126,7 @@ title: "C2PA metadata"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/assets/c2pa-metadata"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:27.184520+00:00"
+created_at: "2026-10-01T18:06:45.372723+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -13211,7 +13217,7 @@ title: "Campaign live report campaign-live-report"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/live-report/campaign-live-report"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:46.907046+00:00"
+created_at: "2026-10-01T18:00:41.230347+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -13543,7 +13549,7 @@ title: "Campaign report campaign-global-report-cja"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/campaign-reporting/campaign-global-report-cja"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:44.168503+00:00"
+created_at: "2026-10-01T17:53:13.206392+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -13639,7 +13645,7 @@ title: "Change dimension change-dimension"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/change-dimension"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:55.824744+00:00"
+created_at: "2026-10-01T18:02:54.811788+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -13707,7 +13713,7 @@ title: "Channel activities channel"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/channels"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:28.260131+00:00"
+created_at: "2026-10-01T17:55:02.632096+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -13943,7 +13949,7 @@ title: "Channel configuration section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/configuration-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:52.619201+00:00"
+created_at: "2026-10-01T17:52:16.729705+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -14015,7 +14021,7 @@ title: "Channel level reports"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:05:20.802301+00:00"
+created_at: "2026-10-01T18:04:28.046890+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -14046,7 +14052,7 @@ title: "Channel messaging consent"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/channels-consent-preferences"
 category: "reference"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:20.239709+00:00"
+created_at: "2026-10-01T18:07:45.490312+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -14154,7 +14160,7 @@ title: "Channel optimization channel-optimization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/delivery-settings/channel-optimization"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:18.974011+00:00"
+created_at: "2026-10-01T17:57:01.709817+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -14282,7 +14288,7 @@ title: "Check and send your WhatsApp messages send-whatsapp"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:12.956818+00:00"
+created_at: "2026-10-01T18:00:06.102106+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -14468,7 +14474,7 @@ title: "Check & send a direct mail message direct-mail-test-send"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/direct-mail/test-send-direct-mail"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:10.846042+00:00"
+created_at: "2026-10-01T18:00:04.342473+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -14620,7 +14626,7 @@ title: "Check & send your In-app notification create-in-app"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/send-in-app"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:18.744869+00:00"
+created_at: "2026-10-01T18:00:11.601871+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -14742,7 +14748,7 @@ title: "Check & send your Mobile message send-sms"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/send-sms"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:07:05.484868+00:00"
+created_at: "2026-10-01T18:06:22.279732+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -14873,7 +14879,7 @@ title: "Check & send your Mobile message send-sms"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/mobile/send-mobile-message"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:05.482955+00:00"
+created_at: "2026-10-01T17:59:58.175277+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -15004,7 +15010,7 @@ title: "Check & send your push notification send-push"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:57.939538+00:00"
+created_at: "2026-10-01T17:59:51.078995+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -15118,7 +15124,7 @@ title: "Choose a validation method choose-validation-method"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/validate-journey/choose-validation-method"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:06.485534+00:00"
+created_at: "2026-10-01T17:52:31.812079+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -15338,7 +15344,7 @@ title: "Classify data using labels"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:06:51.857077+00:00"
+created_at: "2026-10-01T18:06:06.551291+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -15375,7 +15381,7 @@ title: "Code-based campaign report campaign-global-report-cja-code"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/campaign-reporting/campaign-global-report-cja-code"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:31.620178+00:00"
+created_at: "2026-10-01T17:59:26.034004+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -15530,7 +15536,7 @@ title: "Code based experience - Overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/mobile-channels-overview/code-based-experience-overview"
 category: "other"
 topic: "documentation/journey-optimizer/ajo-mobile-learning-hub"
-created_at: "2026-10-01T14:04:17.146386+00:00"
+created_at: "2026-10-01T18:03:18.704036+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > AJO Mobile Learning Hub
 
@@ -15619,7 +15625,7 @@ title: "Code-based experience prerequisites code-based-prerequisites"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/configure-code-based-channel/code-based-prerequisites"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:26.473289+00:00"
+created_at: "2026-10-01T17:58:17.349614+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -15689,7 +15695,7 @@ title: "Code-based experience section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/code-based-experience-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:34.637567+00:00"
+created_at: "2026-10-01T17:54:06.274377+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -15730,7 +15736,7 @@ title: "Code-based experience surfaces code-based-surface"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/configure-code-based-channel/code-based-surface"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:31.931358+00:00"
+created_at: "2026-10-01T18:02:28.253142+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -15856,7 +15862,7 @@ title: "Code-based implementation methods samples implementation-samples"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/configure-code-based-channel/code-based-implementation-samples"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:37.722582+00:00"
+created_at: "2026-10-01T17:59:32.821731+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -16014,7 +16020,7 @@ title: "Code-based journey report journey-global-report"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/journey-reporting/journey-global-report-cja-code"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:32.519792+00:00"
+created_at: "2026-10-01T17:59:26.968466+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -16089,7 +16095,7 @@ title: "Code your own content code-content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/start-creating-content/code-content"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:45.321299+00:00"
+created_at: "2026-10-01T18:01:41.667347+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -16219,7 +16225,7 @@ title: "Collaborate on email content in the Email Designer email-collaboration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/email-collaboration"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:22.714460+00:00"
+created_at: "2026-10-01T17:54:57.186637+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -16349,7 +16355,7 @@ title: "Collect event data section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/collect-event-data/collect-event-data-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:10.003176+00:00"
+created_at: "2026-10-01T18:01:04.869112+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -16395,7 +16401,7 @@ title: "Collection management functions collection-management-functions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/syntax/collection-management-functions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:13.695580+00:00"
+created_at: "2026-10-01T17:55:52.256085+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -16627,7 +16633,7 @@ title: "Collections collections"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/manage-decision-items/collections"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:06.790576+00:00"
+created_at: "2026-10-01T18:04:13.194980+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -16678,7 +16684,7 @@ title: "Combine combine"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/combine"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:38.707352+00:00"
+created_at: "2026-10-01T18:03:42.538907+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -16754,7 +16760,7 @@ title: "Combine solutions and apps to manage your content combine-solutions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/content-integrations"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:39.464602+00:00"
+created_at: "2026-10-01T18:00:33.052707+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -16849,7 +16855,7 @@ title: "Combine targeting and experimentation combination"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/message-optimization/optimization-combination"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:59.344596+00:00"
+created_at: "2026-10-01T17:58:52.530982+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -16901,7 +16907,7 @@ title: "Completeness scores completeness-scores"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/scoring/completeness-scores"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:44.287663+00:00"
+created_at: "2026-10-01T18:07:04.685779+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -17042,7 +17048,7 @@ title: "Comply with new DMARC requirement dmarc-record-update"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/deliverability/dmarc-record-update"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:41.864659+00:00"
+created_at: "2026-10-01T18:02:39.121605+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -17106,7 +17112,7 @@ title: "Conditional content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/conditional-content"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:33.937196+00:00"
+created_at: "2026-10-01T18:05:47.519372+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -17238,7 +17244,7 @@ title: "Conditional instruction (if, then, else) conditional-instruction"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/syntax/conditional-instruction"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:30.455524+00:00"
+created_at: "2026-10-01T18:03:33.509448+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -17361,7 +17367,7 @@ title: "Conditions conditions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/optimize-activity/conditions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:01.768733+00:00"
+created_at: "2026-10-01T17:52:26.798768+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -17592,7 +17598,7 @@ title: "Configure a business event configure-a-business-event"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/events-journeys/about-creating-business"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:06.604808+00:00"
+created_at: "2026-10-01T17:56:48.979309+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -17742,7 +17748,7 @@ title: "Configure a custom action configure-a-custom-action"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/about-custom-action-configuration"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:03.569309+00:00"
+created_at: "2026-10-01T17:52:28.722856+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -18163,7 +18169,7 @@ title: "Configure a custom channel custom-channel-configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/custom-channel/configure-custom-channel/configure-custom-channel"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:29.568023+00:00"
+created_at: "2026-10-01T18:01:24.405835+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -18280,7 +18286,7 @@ title: "Configure a custom provider sms-configuration-custom"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:08:30.211951+00:00"
+created_at: "2026-10-01T18:07:56.097963+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -18427,7 +18433,7 @@ title: "Configure a custom provider sms-configuration-custom"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/mobile/configure-mobile/mobile-configuration-custom"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:04.473018+00:00"
+created_at: "2026-10-01T17:59:57.243912+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -18574,7 +18580,7 @@ title: "Configure a custom SMS provider"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:06:48.866505+00:00"
+created_at: "2026-10-01T18:06:03.237333+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -18608,7 +18614,7 @@ title: "Configure a data source configure-data-source"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/data-source-journeys/configure-data-sources"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:33.687030+00:00"
+created_at: "2026-10-01T17:57:16.854764+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -18726,7 +18732,7 @@ title: "Configure a Targeting dimension configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/data-configuration/target-dimension"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:40.903640+00:00"
+created_at: "2026-10-01T18:01:36.256333+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -18783,7 +18789,7 @@ title: "Configure a training sandbox - Introduction and prerequisites"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites"
 category: "other"
 topic: "documentation/journey-optimizer/tutorial-configure-a-training-sandbox"
-created_at: "2026-10-01T14:02:50.910395+00:00"
+created_at: "2026-10-01T18:01:46.948474+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Tutorial - Configure a training sandbox
 
@@ -18834,7 +18840,7 @@ title: "Configure a unitary event configure-an-event"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/events-journeys/about-creating"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:36.113309+00:00"
+created_at: "2026-10-01T17:58:27.724978+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -18993,7 +18999,7 @@ title: "Configure Adobe Experience Manager repository access aem-admin-settings"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem/aem-admin-settings"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:08.671057+00:00"
+created_at: "2026-10-01T18:04:15.503009+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -19108,7 +19114,7 @@ title: "Configure an email channel"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-email-channel"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:06:01.250991+00:00"
+created_at: "2026-10-01T18:05:10.739938+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -19141,7 +19147,7 @@ title: "Configure and launch"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/configure-and-launch"
 category: "other"
 topic: "documentation/journey-optimizer/ajo-mobile-learning-hub"
-created_at: "2026-10-01T14:04:18.443658+00:00"
+created_at: "2026-10-01T18:03:19.819402+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > AJO Mobile Learning Hub
 
@@ -19504,7 +19510,7 @@ title: "Configure and send a push campaign"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:06:55.713911+00:00"
+created_at: "2026-10-01T18:06:09.972898+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -19536,7 +19542,7 @@ title: "Configure and track your journey metrics success-metrics"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/success-metrics"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:49.699649+00:00"
+created_at: "2026-10-01T17:57:32.438452+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -19692,7 +19698,7 @@ title: "Configure, author, and deliver SMS messages"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:07:00.438742+00:00"
+created_at: "2026-10-01T18:06:16.151098+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -19723,7 +19729,7 @@ title: "Configure branding domains"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/branding-domains"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:10.672350+00:00"
+created_at: "2026-10-01T18:07:33.988293+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -19842,7 +19848,7 @@ title: "Configure channels"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/configure-channels"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:03:59.922173+00:00"
+created_at: "2026-10-01T18:02:59.829340+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -19875,7 +19881,7 @@ title: "Configure code-based channel section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/configure-code-based-channel/configure-code-based-channel-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:21.275420+00:00"
+created_at: "2026-10-01T18:00:14.243956+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -19928,7 +19934,7 @@ title: "Configure content card channel section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/configure-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:23.165588+00:00"
+created_at: "2026-10-01T18:00:15.805558+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -19975,7 +19981,7 @@ title: "Configure Content cards content-card-configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-configuration"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:24.039789+00:00"
+created_at: "2026-10-01T18:03:26.117743+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -20134,7 +20140,7 @@ title: "Configure content cards support in Mobile SDK content-card-lp"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:15.363887+00:00"
+created_at: "2026-10-01T18:04:22.842328+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -20177,7 +20183,7 @@ title: "Configure content cards support in Web SDK content-card-configuration-sd
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-configuration-sdk"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:42.750932+00:00"
+created_at: "2026-10-01T18:02:40.122052+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -20329,7 +20335,7 @@ title: "Configure content experiments for emails"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/experimentation/content-experiments-for-emails"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:02:55.466330+00:00"
+created_at: "2026-10-01T18:01:51.973891+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -20361,7 +20367,7 @@ title: "Configure content experiments for in-app messages"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T13:58:03.398897+00:00"
+created_at: "2026-10-01T17:56:45.507524+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -20393,7 +20399,7 @@ title: "Configure custom channel subdomains custom-channel-subdomains"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/custom-channel/configure-custom-channel/custom-channel-subdomains"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:55.860580+00:00"
+created_at: "2026-10-01T18:05:05.356980+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -20549,7 +20555,7 @@ title: "Configure custom engagement score weighting"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/configurations/engagement-score-weighting"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:46.682167+00:00"
+created_at: "2026-10-01T18:07:07.872151+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -20653,7 +20659,7 @@ title: "Configure data collection schema-requirements"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/collect-event-data/schema-requirement"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:41.834844+00:00"
+created_at: "2026-10-01T18:04:50.018482+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -20743,7 +20749,7 @@ title: "Configure data collection schema-requirements"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-collect-event-data/schema-requirement"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:38.616156+00:00"
+created_at: "2026-10-01T17:59:33.737549+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -20835,7 +20841,7 @@ title: "Configure data sources"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/journey-configuration/configure-data-sources"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T13:58:34.390105+00:00"
+created_at: "2026-10-01T17:57:17.587042+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -20867,7 +20873,7 @@ title: "Configure email channel section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/configure-email/configure-email-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:56.761624+00:00"
+created_at: "2026-10-01T17:59:50.229528+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -20926,7 +20932,7 @@ title: "Configure email settings email-settings"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/configure-email/email-settings"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:17.153336+00:00"
+created_at: "2026-10-01T17:58:07.248917+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -21165,7 +21171,7 @@ title: "Configure events"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/configure-events"
 category: "other"
 topic: "documentation/journey-optimizer/tutorial-configure-a-training-sandbox"
-created_at: "2026-10-01T14:08:36.772144+00:00"
+created_at: "2026-10-01T18:08:02.023212+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Tutorial - Configure a training sandbox
 
@@ -21233,7 +21239,7 @@ title: "Configure Experience Manager asset repositories"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/configurations/configure-aem-repositories"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:56.334357+00:00"
+created_at: "2026-10-01T18:08:22.029445+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -21331,7 +21337,7 @@ title: "Configure Inbox inbox-configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/inbox/inbox-configuration"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:24.874758+00:00"
+created_at: "2026-10-01T18:03:27.235822+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -21425,7 +21431,7 @@ title: "Configure Infobip provider sms-configuration-infobip"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/mobile/configure-mobile/mobile-configuration-infobip"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:02.994418+00:00"
+created_at: "2026-10-01T17:59:56.196909+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -21544,7 +21550,7 @@ title: "Configure landing page subdomains lp-subdomains"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/landing-pages/lp-configuration/lp-subdomains"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:29.652272+00:00"
+created_at: "2026-10-01T18:00:22.548589+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -21679,7 +21685,7 @@ title: "Configure landing pages section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/landing-pages/lp-configuration/lp-configuration-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:37.617712+00:00"
+created_at: "2026-10-01T18:03:41.598533+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -21719,7 +21725,7 @@ title: "Configure LINE channel in Journey Optimizer line-configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/line/line-configuration"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:14.046715+00:00"
+created_at: "2026-10-01T18:00:06.998294+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -21867,7 +21873,7 @@ title: "Configure loyalty challenges loyalty-admin"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/configure-integrate-loyalty/loyalty-admin"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:07.974023+00:00"
+created_at: "2026-10-01T17:54:41.018337+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -21989,7 +21995,7 @@ title: "Configure MMS API credentials and channel surfaces"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:06:49.606037+00:00"
+created_at: "2026-10-01T18:06:04.022198+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -22020,7 +22026,7 @@ title: "Configure mobile app push notification channel push-notification-configu
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-configuration"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:15.151957+00:00"
+created_at: "2026-10-01T17:58:04.962498+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -22354,7 +22360,7 @@ title: "Configure offers section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/managing-offers-in-the-offer-library/configure-offers/configure-offers-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:37.357829+00:00"
+created_at: "2026-10-01T18:04:45.572364+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -22400,7 +22406,7 @@ title: "Configure offers selection in decisions offers-selection-in-decisions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/create-manage-activities/configure-offer-selection"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:38.138787+00:00"
+created_at: "2026-10-01T18:04:46.441179+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -22484,7 +22490,7 @@ title: "Configure Sinch provider sms-configuration-sinch"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/mobile/configure-mobile/mobile-configuration-sinch"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:00.936985+00:00"
+created_at: "2026-10-01T17:59:54.267371+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -22658,7 +22664,7 @@ title: "Configure SMS API credentials and channel surfaces"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:06:48.099096+00:00"
+created_at: "2026-10-01T18:06:02.523039+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -22691,7 +22697,7 @@ title: "Configure SMS subdomains sms-mms-subdomains"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/mobile/mobile-subdomains"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:28.057489+00:00"
+created_at: "2026-10-01T17:59:21.719858+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -22846,7 +22852,7 @@ title: "Configure the API triggered campaign action api-action"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/api-triggered-campaigns/api-triggered-campaign-action"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:40.439492+00:00"
+created_at: "2026-10-01T17:58:32.635173+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -22913,7 +22919,7 @@ title: "Configure the campaign action action-campaign-action"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/campaign-action"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:39.557169+00:00"
+created_at: "2026-10-01T17:58:31.826309+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -23015,7 +23021,7 @@ title: "Configure the item catalog catalog"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/manage-decision-items/catalogs"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:47.244574+00:00"
+created_at: "2026-10-01T18:01:43.582506+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -23076,7 +23082,7 @@ title: "Configure Twilio provider sms-configuration-twilio"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/mobile/configure-mobile/mobile-configuration-twilio"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:02.103868+00:00"
+created_at: "2026-10-01T17:59:55.144180+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -23191,7 +23197,7 @@ title: "Configure web channel section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/web/configure-web-channel/configure-web-channel-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:19.555890+00:00"
+created_at: "2026-10-01T18:00:12.627563+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -23232,7 +23238,7 @@ title: "Configure web push notification channel push-notification-configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-configuration-web"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:13.038625+00:00"
+created_at: "2026-10-01T18:02:10.510899+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -23428,7 +23434,7 @@ title: "Configure web subdomains web-subdomains"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/web/configure-web-channel/web-delegated-subdomains"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:28.749837+00:00"
+created_at: "2026-10-01T18:01:23.288950+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -23577,7 +23583,7 @@ title: "Configure your Channel configuration channel-configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/data-configuration/channel-config"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:46.726549+00:00"
+created_at: "2026-10-01T18:02:44.639257+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -23648,7 +23654,7 @@ title: "Configure your code-based experience code-based-configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/configure-code-based-channel/code-based-configuration"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:44.829930+00:00"
+created_at: "2026-10-01T17:58:36.989372+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -23733,7 +23739,7 @@ title: "Configure your web experiences web-configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/web/configure-web-channel/web-configuration"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:45.767202+00:00"
+created_at: "2026-10-01T17:58:38.017689+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -23888,7 +23894,7 @@ title: "Conflict management & prioritization conflict-prioritization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/gs-conflict-prioritization"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:36.088153+00:00"
+created_at: "2026-10-01T17:51:58.630237+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -24033,7 +24039,7 @@ title: "Connect your systems and environments section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/connect-systems-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:54.220253+00:00"
+created_at: "2026-10-01T17:52:18.537073+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -24092,7 +24098,7 @@ title: "Considerations and troubleshooting aem-fragments-limitations"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem/aem-fragments-limitations"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:20.416534+00:00"
+created_at: "2026-10-01T17:53:51.650085+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -24235,7 +24241,7 @@ title: "Content card campaign report campaign-global-report-cja-content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/campaign-reporting/campaign-global-report-cja-content"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:33.307393+00:00"
+created_at: "2026-10-01T17:59:27.771758+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -24301,7 +24307,7 @@ title: "Content card journey report journey-global-report"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/journey-reporting/journey-global-report-cja-content"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:34.265412+00:00"
+created_at: "2026-10-01T17:59:28.760425+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -24368,7 +24374,7 @@ title: "Content cards - Overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/mobile-channels-overview/content-cards-overview"
 category: "other"
 topic: "documentation/journey-optimizer/ajo-mobile-learning-hub"
-created_at: "2026-10-01T14:04:16.249034+00:00"
+created_at: "2026-10-01T18:03:17.739244+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > AJO Mobile Learning Hub
 
@@ -24458,7 +24464,7 @@ title: "Content cards prerequisites content-card-configuration-prereq"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-configuration-prereq"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:29.260325+00:00"
+created_at: "2026-10-01T17:58:19.980041+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -24552,7 +24558,7 @@ title: "Content cards section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/content-card-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:35.444350+00:00"
+created_at: "2026-10-01T17:54:07.042546+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -24595,7 +24601,7 @@ title: "Content check in the Email Designer content-check"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/content-check"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:12.135417+00:00"
+created_at: "2026-10-01T18:02:09.397588+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -24767,7 +24773,7 @@ title: "Content components content-components"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/content-design/content-components"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:52.170646+00:00"
+created_at: "2026-10-01T18:08:16.900978+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -25442,7 +25448,7 @@ title: "Content decision activity content-decision"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/content-decision"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:38.533523+00:00"
+created_at: "2026-10-01T17:57:21.441083+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -25664,7 +25670,7 @@ title: "Content evaluation and scoring content-scoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/content-evaluation"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:39.274338+00:00"
+created_at: "2026-10-01T18:06:58.784893+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -25760,7 +25766,7 @@ title: "Content management section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-management-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:40.328989+00:00"
+created_at: "2026-10-01T17:52:03.179337+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -25826,7 +25832,7 @@ title: "Content personalization add-personalization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/personalization/personalization"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:40.064995+00:00"
+created_at: "2026-10-01T18:06:59.651285+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -25918,7 +25924,7 @@ title: "Content templates section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-templates/content-templates-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:38.232202+00:00"
+created_at: "2026-10-01T17:54:09.586474+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -25977,7 +25983,7 @@ title: "Context data & Decisioning requests context-data-decisioning"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/context-data/context-data-decisioning"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:44.598898+00:00"
+created_at: "2026-10-01T18:04:52.897317+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -26103,7 +26109,7 @@ title: "Context data & edge decisioning requests edge"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/context-data/context-data-edge"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:43.775879+00:00"
+created_at: "2026-10-01T18:04:51.924999+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -26337,7 +26343,7 @@ title: "Conversion functions conversion-functions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/main-functions-journey/conversion-functions"
 category: "release-notes"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:33.855548+00:00"
+created_at: "2026-10-01T18:03:37.155970+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -26769,7 +26775,7 @@ title: "Convert an image to an email template"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/email-templates/email-template-image-convert"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:40.802481+00:00"
+created_at: "2026-10-01T18:07:00.512879+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -26815,7 +26821,7 @@ title: "Convert images to email content templates image-to-html"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-templates/image-to-html"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:56.496194+00:00"
+created_at: "2026-10-01T17:55:33.926049+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -26995,7 +27001,7 @@ title: "Coworker for content management content-management-coworker-skills"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-management-coworker-skills"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:04.518392+00:00"
+created_at: "2026-10-01T17:54:37.051530+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -27214,7 +27220,7 @@ title: "Coworker for Decisioning experience-decisioning-coworker-skills"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:32.283912+00:00"
+created_at: "2026-10-01T17:55:06.571873+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -27406,7 +27412,7 @@ title: "Coworker for journeys journeys-coworker-skills"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:11.304842+00:00"
+created_at: "2026-10-01T17:54:44.363989+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -27744,7 +27750,7 @@ title: "Coworker for Loyalty loyalty-coworker-skills"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:38.673519+00:00"
+created_at: "2026-10-01T17:55:13.812564+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -27918,7 +27924,7 @@ title: "Create a buying group"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/create-a-buying-group"
 category: "tutorials"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-tutorials"
-created_at: "2026-10-01T14:08:28.065317+00:00"
+created_at: "2026-10-01T18:07:53.977678+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Tutorials
 
@@ -27952,7 +27958,7 @@ title: "Create a channel configuration create-channel-config"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/custom-channel/configure-custom-channel/custom-channel-configuration"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:56.646201+00:00"
+created_at: "2026-10-01T18:05:06.310214+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -28059,7 +28065,7 @@ title: "Create a channel set up set-mobile-ios"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up"
 category: "guides"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:08:34.881968+00:00"
+created_at: "2026-10-01T18:08:00.138676+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -28114,7 +28120,7 @@ title: "Create a code-based experience campaign"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:04:55.081747+00:00"
+created_at: "2026-10-01T18:04:00.669412+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -28145,7 +28151,7 @@ title: "Create a content experiment content-experiment"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/content-experiment"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:07.281199+00:00"
+created_at: "2026-10-01T17:53:39.030396+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -28309,7 +28315,7 @@ title: "Create a dataset to collect events create-dataset"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/collect-event-data/create-dataset"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:41.023545+00:00"
+created_at: "2026-10-01T18:04:49.104676+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -28373,7 +28379,7 @@ title: "Create a dataset to collect events create-dataset"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-collect-event-data/create-dataset"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:00.319412+00:00"
+created_at: "2026-10-01T17:58:53.809395+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -28435,7 +28441,7 @@ title: "Create a decision create-decision"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/api-reference/offers-api/decisions-api/create"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:54.230029+00:00"
+created_at: "2026-10-01T18:05:03.184385+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -28552,7 +28558,7 @@ title: "Create a decision item create-decision-items"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-api-reference/decision-items/create"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:25.815781+00:00"
+created_at: "2026-10-01T18:04:33.812682+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -28653,7 +28659,7 @@ title: "Create a direct mail message create-direct"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/direct-mail/create-direct-mail"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:51.245485+00:00"
+created_at: "2026-10-01T17:58:44.347401+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -28796,7 +28802,7 @@ title: "Create a fragment create-fragments"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/create-fragments"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:36.796357+00:00"
+created_at: "2026-10-01T18:00:30.327696+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -28904,7 +28910,7 @@ title: "Create a LINE message create-line"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/line/create-line"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:14.981388+00:00"
+created_at: "2026-10-01T18:00:08.072312+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -29030,7 +29036,7 @@ title: "Create a Live activity create-mobile-live"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/create-mobile-live"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:18.596652+00:00"
+created_at: "2026-10-01T17:54:52.139518+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -29251,7 +29257,7 @@ title: "Create a loyalty status welcome email - Challenge"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/loyalty-status-welcome-email-challenge"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-challenges"
-created_at: "2026-10-01T14:04:07.812124+00:00"
+created_at: "2026-10-01T18:03:08.988370+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer - Challenges
 
@@ -29323,7 +29329,7 @@ title: "Create a Mobile message configuration message-preset-sms"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/mobile/configure-mobile/mobile-configuration-surface"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:08.498720+00:00"
+created_at: "2026-10-01T18:00:01.552748+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -29424,7 +29430,7 @@ title: "Create a Mobile message create-sms"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/create-sms"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:07:04.557863+00:00"
+created_at: "2026-10-01T18:06:21.127438+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -29548,7 +29554,7 @@ title: "Create a Mobile message create-sms"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/mobile/create-mobile-message"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:02.196558+00:00"
+created_at: "2026-10-01T17:55:39.583711+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -29672,7 +29678,7 @@ title: "Create a placement create-placement"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/api-reference/offers-api/dm-placements/create"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:53.464945+00:00"
+created_at: "2026-10-01T18:05:02.347572+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -29778,7 +29784,7 @@ title: "Create a push notification create-push-notification"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:00.989977+00:00"
+created_at: "2026-10-01T17:55:38.664598+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -29924,7 +29930,7 @@ title: "Create a ranking formula create-ranking-formula"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-api-reference/ranking-formulas/create"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:06:43.233892+00:00"
+created_at: "2026-10-01T18:05:57.579448+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -30033,7 +30039,7 @@ title: "Create a selection strategy create-selection-strategy"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-api-reference/selection-strategies/create"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:28.134450+00:00"
+created_at: "2026-10-01T18:04:36.442765+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -30124,7 +30130,7 @@ title: "Create a Summer Collection announcement - challenge"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/summer-collection-announcement-challenge"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-challenges"
-created_at: "2026-10-01T14:04:05.373055+00:00"
+created_at: "2026-10-01T18:03:06.532834+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer - Challenges
 
@@ -30301,7 +30307,7 @@ title: "Create a web campaign"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/web-channel/create-a-web-campaign"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:03:04.218375+00:00"
+created_at: "2026-10-01T18:02:02.022520+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -30332,7 +30338,7 @@ title: "Create a Web In-app message create-in-app-web"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app-web"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:16.958182+00:00"
+created_at: "2026-10-01T18:00:09.875401+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -30448,7 +30454,7 @@ title: "Create a WhatsApp journey"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/create-a-whatsapp-journey"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:07:06.987938+00:00"
+created_at: "2026-10-01T18:06:24.160535+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -30487,7 +30493,7 @@ title: "Create a WhatsApp message create-whatsapp"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:11.847411+00:00"
+created_at: "2026-10-01T18:00:05.233778+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -30698,7 +30704,7 @@ title: "Create AI models ai-rankings"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/rankings/ai-models/create-ranking-strategies"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:06:41.687636+00:00"
+created_at: "2026-10-01T18:05:55.914433+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -30763,7 +30769,7 @@ title: "Create an action campaign"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/create-a-campaign"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:04:52.475314+00:00"
+created_at: "2026-10-01T18:03:58.214533+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -30796,7 +30802,7 @@ title: "Create an audience using the rule builder"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T13:58:00.411670+00:00"
+created_at: "2026-10-01T17:56:42.432152+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -30827,7 +30833,7 @@ title: "Create an eligibility rule create-eligibility-rule"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-api-reference/eligibility-rules/create"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:06:42.455694+00:00"
+created_at: "2026-10-01T18:05:56.776309+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -30912,7 +30918,7 @@ title: "Create an email create-email"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/create-email"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:21.132170+00:00"
+created_at: "2026-10-01T17:57:03.768287+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -31144,7 +31150,7 @@ title: "Create an exd placement create-exd-placement"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-api-reference/placements/create"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:06:44.070892+00:00"
+created_at: "2026-10-01T18:05:58.451915+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -31233,7 +31239,7 @@ title: "Create an in-app campaign"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:06:58.936630+00:00"
+created_at: "2026-10-01T18:06:14.284570+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -31271,7 +31277,7 @@ title: "Create an In-app message create-in-app"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:22.426090+00:00"
+created_at: "2026-10-01T17:57:05.227730+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -31408,7 +31414,7 @@ title: "Create an Inbox inbox-create"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/inbox/inbox-create"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:07:11.001444+00:00"
+created_at: "2026-10-01T18:06:28.612215+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -31500,7 +31506,7 @@ title: "Create an IP warmup plan ip-warmup"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-plan"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:01.640018+00:00"
+created_at: "2026-10-01T18:03:02.271798+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -31686,7 +31692,7 @@ title: "Create an item collection create-decision-items"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-api-reference/items-collections/create"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:26.613149+00:00"
+created_at: "2026-10-01T18:04:34.740228+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -31770,7 +31776,7 @@ title: "Create an order confirmation email"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/order-confirmation-challenge"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-challenges"
-created_at: "2026-10-01T14:04:09.334151+00:00"
+created_at: "2026-10-01T18:03:10.956869+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer - Challenges
 
@@ -31894,7 +31900,7 @@ title: "Create and manage assets with Experience Manager Assets experience-manag
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/assets"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:16.026891+00:00"
+created_at: "2026-10-01T17:58:06.272476+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -31972,7 +31978,7 @@ title: "Create and manage generative models generative-models"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/brands/generative-models"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:08.474604+00:00"
+created_at: "2026-10-01T18:02:05.319402+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -32053,7 +32059,7 @@ title: "Create and manage your brands brand-library"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/brands/brands-manage-create"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:44.797654+00:00"
+created_at: "2026-10-01T18:08:10.375251+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -32267,7 +32273,7 @@ title: "Create and publish landing pages create-lp"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/landing-pages/create-lp"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:01.171961+00:00"
+created_at: "2026-10-01T17:57:44.480058+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -32419,7 +32425,7 @@ title: "Create and publish landing pages"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/landing-pages-create-publish"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:40.884172+00:00"
+created_at: "2026-10-01T18:08:05.900953+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -32610,7 +32616,7 @@ title: "Create and schedule an Orchestrated campaign create-first-campaign"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/launch/create-orchestrated-campaign"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:39.923374+00:00"
+created_at: "2026-10-01T17:53:08.375421+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -32681,7 +32687,7 @@ title: "Create audiences section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/audiences/create/create-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:44.919443+00:00"
+created_at: "2026-10-01T18:00:39.047562+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -32728,7 +32734,7 @@ title: "Create audiences using Web SDK"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction"
 category: "other"
 topic: "documentation/journey-optimizer/create-audiences-using-web-sdk"
-created_at: "2026-10-01T14:06:03.047725+00:00"
+created_at: "2026-10-01T18:05:12.936108+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > create-audiences-using-web-sdk
 
@@ -32783,7 +32789,7 @@ title: "Create buying groups"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-create"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:25.598334+00:00"
+created_at: "2026-10-01T18:05:37.446270+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -32843,7 +32849,7 @@ title: "Create challenges create-challenges"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/create-manage-challenges/create-challenges"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:10.305085+00:00"
+created_at: "2026-10-01T17:54:43.344095+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -33058,7 +33064,7 @@ title: "Create code-based experiences create-code-based"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:25.569640+00:00"
+created_at: "2026-10-01T17:57:08.447291+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -33145,7 +33151,7 @@ title: "Create code-based experiences section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:22.202674+00:00"
+created_at: "2026-10-01T18:00:14.961695+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -33192,7 +33198,7 @@ title: "Create collection qualifiers create-tags"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/create-components/creating-tags"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:33.512675+00:00"
+created_at: "2026-10-01T18:04:41.972971+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -33246,7 +33252,7 @@ title: "Create collections create-collections"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/managing-offers-in-the-offer-library/creating-collections"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:44.920691+00:00"
+created_at: "2026-10-01T18:02:42.781377+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -33306,7 +33312,7 @@ title: "Create components section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/create-components/create-components-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:05.646380+00:00"
+created_at: "2026-10-01T18:01:00.521110+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -33352,7 +33358,7 @@ title: "Create content cards create-content-card"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:24.743644+00:00"
+created_at: "2026-10-01T17:57:07.465995+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -33473,7 +33479,7 @@ title: "Create content cards"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/content-cards/create-content-cards"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:03:39.172551+00:00"
+created_at: "2026-10-01T18:02:36.273450+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -33505,7 +33511,7 @@ title: "Create content templates create-content-templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-templates/create-content-templates"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:33.238390+00:00"
+created_at: "2026-10-01T18:00:26.310130+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -33585,7 +33591,7 @@ title: "Create content using AI Assistant for content generation"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T13:58:01.292221+00:00"
+created_at: "2026-10-01T17:56:43.113435+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -33618,7 +33624,7 @@ title: "Create content with the Email Designer"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:04:10.209054+00:00"
+created_at: "2026-10-01T18:03:11.752868+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -33649,7 +33655,7 @@ title: "Create custom channel experiences create-custom-channel"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/custom-channel/create-custom-channel-experiences/create-custom-experience"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:30.498758+00:00"
+created_at: "2026-10-01T18:01:25.403492+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -33887,7 +33893,7 @@ title: "Create data usage policies"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:06:52.561191+00:00"
+created_at: "2026-10-01T18:06:07.438234+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -33926,7 +33932,7 @@ title: "Create datasets and ingest data"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/set-up-data-structure-and-ingest-data/manual-data-ingestion"
 category: "other"
 topic: "documentation/journey-optimizer/tutorial-configure-a-training-sandbox"
-created_at: "2026-10-01T14:07:20.744914+00:00"
+created_at: "2026-10-01T18:06:38.849741+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Tutorial - Configure a training sandbox
 
@@ -33975,7 +33981,7 @@ title: "Create datasets and ingest data"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-management/create-datasets-and-ingest-data"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:02:15.309800+00:00"
+created_at: "2026-10-01T18:01:10.322676+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -34007,7 +34013,7 @@ title: "Create decision management reports section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/create-reports/create-reports-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:11.614447+00:00"
+created_at: "2026-10-01T18:01:06.578378+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -34047,7 +34053,7 @@ title: "Create decision policies create-decision"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/decision-policies/create-decision-policy"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:46.311386+00:00"
+created_at: "2026-10-01T18:01:42.666568+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -34222,7 +34228,7 @@ title: "Create decision rules create-decision-rules"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/create-components/creating-decision-rules"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:32.568071+00:00"
+created_at: "2026-10-01T18:04:41.037029+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -34299,7 +34305,7 @@ title: "Create decisions create-offer-activities"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/create-manage-activities/create-offer-activities"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:24.108261+00:00"
+created_at: "2026-10-01T18:02:21.481003+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -34537,7 +34543,7 @@ title: "Create dynamic content dynamic-content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/dynamic/dynamic-content"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:12.639906+00:00"
+created_at: "2026-10-01T17:59:06.233987+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -34640,7 +34646,7 @@ title: "Create & edit PTR records ptr-records"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/delegate-subdomains/ptr-records"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:27.848436+00:00"
+created_at: "2026-10-01T18:01:22.393317+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -34772,7 +34778,7 @@ title: "Create fallback offers create-fallback-offers"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/managing-offers-in-the-offer-library/creating-fallback-offers"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:47.173210+00:00"
+created_at: "2026-10-01T18:03:51.543076+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -34829,7 +34835,7 @@ title: "Create feedback webhooks for API triggered campaigns webhooks"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/feedback-webhooks"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:58.683791+00:00"
+created_at: "2026-10-01T18:04:04.445887+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -34943,7 +34949,7 @@ title: "Create IP pools create-ip-pools"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/delegate-subdomains/ip-pools"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:47.690670+00:00"
+created_at: "2026-10-01T17:58:40.096206+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -35024,7 +35030,7 @@ title: "Create IP warmup campaigns create-ip-warmup-campaign"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-campaign"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:57.584711+00:00"
+created_at: "2026-10-01T17:58:50.816170+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -35083,7 +35089,7 @@ title: "Create journey reports design-jo-reports"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reports/sharing-overview"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:50.433408+00:00"
+created_at: "2026-10-01T17:57:33.458341+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -35173,7 +35179,7 @@ title: "Create locale multilingual-locale"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-multilingual/multilingual-locale"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:43.113578+00:00"
+created_at: "2026-10-01T18:00:36.731813+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -35211,7 +35217,7 @@ title: "Create & manage approval policies approval-policies"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/approve/approval-policies"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:09.028796+00:00"
+created_at: "2026-10-01T17:53:40.716261+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -35337,7 +35343,7 @@ title: "Create & manage decisions section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/create-manage-activities/create-manage-activities-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:08.388272+00:00"
+created_at: "2026-10-01T18:01:03.077925+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -35383,7 +35389,7 @@ title: "Create & manage offers section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/managing-offers-in-the-offer-library/managing-offers-in-the-offer-library-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:07.417573+00:00"
+created_at: "2026-10-01T18:01:02.150937+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -35429,7 +35435,7 @@ title: "Create & manage your brands brands"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/brands/brands"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:06.345693+00:00"
+created_at: "2026-10-01T18:02:03.247567+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -35507,7 +35513,7 @@ title: "Create multilingual content with automated translation multilingual-auto
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-multilingual/multilingual-automated"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:44.107326+00:00"
+created_at: "2026-10-01T18:00:37.925329+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -35645,7 +35651,7 @@ title: "Create multilingual content with manual translation multilingual-manual"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-multilingual/multilingual-manual"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:24.360758+00:00"
+created_at: "2026-10-01T17:58:15.164729+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -35743,7 +35749,7 @@ title: "Create personalized offers create-personalized-offers"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/managing-offers-in-the-offer-library/configure-offers/creating-personalized-offers"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:59.730486+00:00"
+created_at: "2026-10-01T18:01:57.221726+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -35843,7 +35849,7 @@ title: "Create placements create-placements"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/create-components/creating-placements"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:57.869425+00:00"
+created_at: "2026-10-01T18:04:03.352150+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -35901,7 +35907,7 @@ title: "Create ranking formulas create-ranking-formulas"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-rankings/ranking-formulas"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:34.252758+00:00"
+created_at: "2026-10-01T17:55:08.704940+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -36128,7 +36134,7 @@ title: "Create rankings section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/rankings/rankings-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:06.627158+00:00"
+created_at: "2026-10-01T18:01:01.339829+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -36174,7 +36180,7 @@ title: "Create rankings section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-rankings/experience-decisioning-rankings-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:01.053382+00:00"
+created_at: "2026-10-01T18:00:55.969018+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -36215,7 +36221,7 @@ title: "Create relational schemas using a DDL file file-upload-schema"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/data-configuration/schemas-datasets/file-upload-schema"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:44.586095+00:00"
+created_at: "2026-10-01T18:03:48.549269+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -36318,7 +36324,7 @@ title: "Create schemas"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-management/create-schema"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:07:19.964950+00:00"
+created_at: "2026-10-01T18:06:38.028474+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -36351,7 +36357,7 @@ title: "Create selection strategies selection-strategies"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/selection-strategies"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:03.565008+00:00"
+created_at: "2026-10-01T18:00:58.811365+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -36443,7 +36449,7 @@ title: "Create simulations create-simulations"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/create-manage-activities/simulation"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:39.099608+00:00"
+created_at: "2026-10-01T18:04:47.336398+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -36554,7 +36560,7 @@ title: "Create tasks create-tasks"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/create-manage-challenges/create-tasks"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:41.191589+00:00"
+created_at: "2026-10-01T17:55:16.597829+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -36694,7 +36700,7 @@ title: "Create test profiles create-test-profiles"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/profiles/creating-test-profiles"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:06.309255+00:00"
+created_at: "2026-10-01T17:53:38.124810+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -36969,7 +36975,7 @@ title: "Create web experiences create-web"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/web/create-web"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:23.386006+00:00"
+created_at: "2026-10-01T17:57:06.366541+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -37194,7 +37200,7 @@ title: "Create Webhook webhook"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/mobile/configure-mobile/mobile-webhook"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:35.645337+00:00"
+created_at: "2026-10-01T18:02:32.408721+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -37430,7 +37436,7 @@ title: "Create your first decision item items"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/manage-decision-items/items"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:33.172540+00:00"
+created_at: "2026-10-01T17:55:07.715201+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -37546,7 +37552,7 @@ title: "Create your first journey jo-quick-start"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-gs"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:56.988222+00:00"
+created_at: "2026-10-01T17:52:21.463064+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -37747,7 +37753,7 @@ title: "Cross-solution use cases section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/combine-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:40.953770+00:00"
+created_at: "2026-10-01T17:54:12.200679+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -37810,7 +37816,7 @@ title: "Custom channel campaign report campaign-global-report-cja-custom-channel
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/campaign-reporting/campaign-global-report-cja-custom"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:58.660844+00:00"
+created_at: "2026-10-01T18:05:08.204060+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -37877,7 +37883,7 @@ title: "Custom journey reports section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reports/reports-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:47.921527+00:00"
+created_at: "2026-10-01T17:54:19.926369+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -37924,7 +37930,7 @@ title: "Custom tokens for email personalization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/personalization-my-tokens"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:01.044817+00:00"
+created_at: "2026-10-01T18:07:23.910339+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -37995,7 +38001,7 @@ title: "Custom Upload custom-upload"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/audiences/create/custom-upload"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:48.824260+00:00"
+created_at: "2026-10-01T17:57:31.573722+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -38080,7 +38086,7 @@ title: "Customizable fragments customizable-fragments"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/customizable-fragments"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:37.723887+00:00"
+created_at: "2026-10-01T18:00:31.278837+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -38268,7 +38274,7 @@ title: "Dark mode for email content dark-mode"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-dark-mode"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:48.328279+00:00"
+created_at: "2026-10-01T18:07:09.552680+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -38407,7 +38413,7 @@ title: "Data Governance Framework Overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:06:51.130540+00:00"
+created_at: "2026-10-01T18:06:05.754319+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -38446,7 +38452,7 @@ title: "Data Governance restrict-fields"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/action-privacy"
 category: "guides"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:45.057732+00:00"
+created_at: "2026-10-01T17:52:08.666018+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -38605,7 +38611,7 @@ title: "Data management section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/data-management-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:43.497429+00:00"
+created_at: "2026-10-01T17:52:06.883364+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -38658,7 +38664,7 @@ title: "Data source configuration section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/data-source-journeys/data-source-journeys-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:46.335709+00:00"
+created_at: "2026-10-01T17:56:26.701788+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -38705,7 +38711,7 @@ title: "Data types data-types"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/syntax/data-types"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:24.950007+00:00"
+created_at: "2026-10-01T18:01:19.659675+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -39102,7 +39108,7 @@ title: "Datasets Time-to-live (TTL) guardrails ttl-guardrail"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/datasets/datasets-ttl"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:21.554228+00:00"
+created_at: "2026-10-01T17:58:12.232643+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -39358,7 +39364,7 @@ title: "Date functions date-functions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/main-functions-journey/date-functions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:17.705207+00:00"
+created_at: "2026-10-01T17:54:51.188097+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -39874,7 +39880,7 @@ title: "Date time functions date-time"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/dates"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:06.234614+00:00"
+created_at: "2026-10-01T17:55:44.024537+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -40663,7 +40669,7 @@ title: "Decision capabilities section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/decisioning-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:42.735864+00:00"
+created_at: "2026-10-01T17:52:06.081498+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -40704,7 +40710,7 @@ title: "Decision Management API developer guide decision-management-api-develope
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/api-reference/getting-started"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:34.516123+00:00"
+created_at: "2026-10-01T18:02:31.299120+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -40776,7 +40782,7 @@ title: "Decision management data collection data-collection"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/collect-event-data/data-collection"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:49.356409+00:00"
+created_at: "2026-10-01T18:02:47.636294+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -40883,7 +40889,7 @@ title: "Decision management data collection data-collection"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-collect-event-data/data-collection"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:47.997172+00:00"
+created_at: "2026-10-01T18:01:44.368221+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -40967,7 +40973,7 @@ title: "Decision management guardrails & limitations decision-management-guardra
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/decision-management-guardrails"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:33.531706+00:00"
+created_at: "2026-10-01T17:58:24.676034+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -41116,7 +41122,7 @@ title: "Decision management section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/offer-decisioning-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:50.415039+00:00"
+created_at: "2026-10-01T17:54:22.318060+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -41188,7 +41194,7 @@ title: "Decisioning API developer guide decisioning-api-developer-guide"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-api-reference/getting-started"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:03.611690+00:00"
+created_at: "2026-10-01T18:03:04.367572+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -41251,7 +41257,7 @@ title: "Decisioning end-to-end walkthrough"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T13:58:02.653374+00:00"
+created_at: "2026-10-01T17:56:44.616234+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -41282,7 +41288,7 @@ title: "Decisioning frequently asked questions decisioning-faq"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/decisioning-faq"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:58.461140+00:00"
+created_at: "2026-10-01T18:00:53.545521+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -41404,7 +41410,7 @@ title: "Decisioning guardrails & limitations decisioning-guardrails"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/decisioning-guardrails"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:32.715815+00:00"
+created_at: "2026-10-01T17:58:23.916607+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -41528,7 +41534,7 @@ title: "Decisioning in code-based experience implementations code-based-decision
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/configure-code-based-channel/code-based-decisioning-implementations"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:32.896690+00:00"
+created_at: "2026-10-01T18:02:29.473274+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -41659,7 +41665,7 @@ title: "Decisioning Migration API decisioning-migration-api"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/migrate-to-decisioning/decisioning-migration-api"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:00.190686+00:00"
+created_at: "2026-10-01T17:57:43.360893+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -42568,7 +42574,7 @@ title: "Decisioning section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:49.524462+00:00"
+created_at: "2026-10-01T17:54:21.546435+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -42642,7 +42648,7 @@ title: "Decisions dataset decisions-dataset"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/export-catalog/export-decisions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:50.012114+00:00"
+created_at: "2026-10-01T18:04:58.429129+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -42862,7 +42868,7 @@ title: "Deduplication deduplication"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/deduplication"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:39.630024+00:00"
+created_at: "2026-10-01T18:03:43.415977+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -42908,7 +42914,7 @@ title: "Default and custom roles"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/default-custom-roles"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:49.096731+00:00"
+created_at: "2026-10-01T18:07:10.365929+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -42954,7 +42960,7 @@ title: "Default XDM fields"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/audiences/field-mapping"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:17.608833+00:00"
+created_at: "2026-10-01T18:07:42.763884+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -43230,7 +43236,7 @@ title: "Define global variables in Orchestrated campaigns define-global-variable
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/orchestrated-advanced/global-variables"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:07:14.614582+00:00"
+created_at: "2026-10-01T18:06:32.114976+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -43277,7 +43283,7 @@ title: "Define landing page presets lp-presets"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/landing-pages/lp-configuration/lp-presets"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:30.551936+00:00"
+created_at: "2026-10-01T18:00:23.445304+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -43345,7 +43351,7 @@ title: "Define landing page-specific content lp-content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/landing-pages/landing-pages-design/lp-content"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:05.931911+00:00"
+created_at: "2026-10-01T17:54:39.021703+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -43501,7 +43507,7 @@ title: "Define the Action campaign audience action-campaign-audience"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/campaign-audience"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:45.998139+00:00"
+created_at: "2026-10-01T17:53:14.818806+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -43541,7 +43547,7 @@ title: "Define the Action campaign properties action-campaign-properties"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/campaign-properties"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:37.822010+00:00"
+created_at: "2026-10-01T17:53:06.502133+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -43584,7 +43590,7 @@ title: "Define the API triggered campaign audience api-audience"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/api-triggered-campaigns/api-triggered-campaign-audience"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:41.343944+00:00"
+created_at: "2026-10-01T17:58:33.415241+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -43660,7 +43666,7 @@ title: "Define the API triggered campaign properties api-properties"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/api-triggered-campaigns/api-triggered-campaign-properties"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:38.568677+00:00"
+created_at: "2026-10-01T17:53:07.519158+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -43704,7 +43710,7 @@ title: "Delegate a subdomain delegate-subdomain"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/delegate-subdomains/delegate-subdomain"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:20.266601+00:00"
+created_at: "2026-10-01T17:54:54.355098+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -43795,7 +43801,7 @@ title: "Delegate email subdomains section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/delegate-subdomains/delegate-subdomains-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:40.633417+00:00"
+created_at: "2026-10-01T17:56:20.248451+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -43874,7 +43880,7 @@ title: "Deliver offers using APIs section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/api-reference/offer-delivery-api/offer-delivery-api-landing-page"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:52.671759+00:00"
+created_at: "2026-10-01T18:05:01.288144+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -43926,7 +43932,7 @@ title: "Deliver offers using the Batch Decisioning API deliver-offers-batch"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/api-reference/offer-delivery-api/batch-decisioning-api"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:39.934935+00:00"
+created_at: "2026-10-01T18:04:48.240596+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -44163,7 +44169,7 @@ title: "Deliver offers using the Decisioning API decisioning-api"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/offer-decisioning/api-reference/offer-delivery-api/decisioning-api"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:07:12.783267+00:00"
+created_at: "2026-10-01T18:06:30.293789+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -44514,7 +44520,7 @@ title: "Deliver offers using the Decisioning API decisioning-api"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/api-reference/offer-delivery-api/decisioning-api"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:19.541297+00:00"
+created_at: "2026-10-01T18:01:14.578224+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -44865,7 +44871,7 @@ title: "Deliver offers using the edge decisioning API edge-decisioning-api"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/offer-decisioning/api-reference/offer-delivery-api/edge-decisioning-api"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:07:13.667053+00:00"
+created_at: "2026-10-01T18:06:31.177903+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -45227,7 +45233,7 @@ title: "Deliver offers using the edge decisioning API edge-decisioning-api"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/api-reference/offer-delivery-api/edge-decisioning-api"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:36.731454+00:00"
+created_at: "2026-10-01T18:03:40.762135+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -45589,7 +45595,7 @@ title: "Design a Mobile message design-mobile"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/mobile/design-mobile"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:06.388403+00:00"
+created_at: "2026-10-01T17:59:59.289336+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -45737,7 +45743,7 @@ title: "Design a push notification design-push-notification"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:19.670067+00:00"
+created_at: "2026-10-01T17:54:53.084941+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -46018,7 +46024,7 @@ title: "Design accessible content accessible-content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/accessible-content"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:18.224533+00:00"
+created_at: "2026-10-01T18:01:13.400382+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -46316,7 +46322,7 @@ title: "Design an Inbox inbox-design"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/inbox/inbox-design"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:08:35.960148+00:00"
+created_at: "2026-10-01T18:08:01.014500+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -46411,7 +46417,7 @@ title: "Design and deliver"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/design-and-deliver"
 category: "other"
 topic: "documentation/journey-optimizer/ajo-mobile-learning-hub"
-created_at: "2026-10-01T14:04:19.787023+00:00"
+created_at: "2026-10-01T18:03:21.219719+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > AJO Mobile Learning Hub
 
@@ -46750,7 +46756,7 @@ title: "Design content cards content design-content-card"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:24.180144+00:00"
+created_at: "2026-10-01T18:00:16.839427+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -46913,7 +46919,7 @@ title: "Design content from scratch with the Email Designer content-from-scratch
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/start-creating-content/content-from-scratch"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:19.045250+00:00"
+created_at: "2026-10-01T17:58:09.513614+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -47019,7 +47025,7 @@ title: "Design the landing page content design-lp"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/landing-pages/landing-pages-design/design-lp"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:31.304220+00:00"
+created_at: "2026-10-01T18:00:24.281559+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -47072,7 +47078,7 @@ title: "Design your content section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/add-content-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:10.551572+00:00"
+created_at: "2026-10-01T18:04:17.318495+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -47141,7 +47147,7 @@ title: "Design your email content section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/design-email-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:55.305037+00:00"
+created_at: "2026-10-01T17:59:48.538202+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -47188,7 +47194,7 @@ title: "Design your In-app content design-content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/design-in-app"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:17.861870+00:00"
+created_at: "2026-10-01T18:00:10.793976+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -47414,7 +47420,7 @@ title: "Design your journey design-your-journey"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/using-the-journey-designer"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:59.100014+00:00"
+created_at: "2026-10-01T17:52:23.799314+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -47735,7 +47741,7 @@ title: "Detect potential conflicts in journeys & campaigns conflict"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/conflicts"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:48.483509+00:00"
+created_at: "2026-10-01T17:53:17.614817+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -47860,7 +47866,7 @@ title: "Direct mail campaign report campaign-global-report-cja-direct"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/campaign-reporting/campaign-global-report-cja-direct"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:49.545732+00:00"
+created_at: "2026-10-01T18:00:44.333854+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -47926,7 +47932,7 @@ title: "Direct Mail Channel"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/direct-mail-channel/direct-mail"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:05:13.693776+00:00"
+created_at: "2026-10-01T18:04:21.122187+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -47958,7 +47964,7 @@ title: "Direct mail configuration direct-mail-configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/direct-mail/direct-mail-configuration"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:46.612557+00:00"
+created_at: "2026-10-01T17:58:39.008946+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -48185,7 +48191,7 @@ title: "Direct mail journey report journey-global-report"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/journey-reporting/journey-global-report-cja-direct"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:50.396490+00:00"
+created_at: "2026-10-01T18:00:45.200365+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -48251,7 +48257,7 @@ title: "Direct mail section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/direct-mail/direct-mail-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:29.731948+00:00"
+created_at: "2026-10-01T17:54:01.574416+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -48298,7 +48304,7 @@ title: "DMARC record dmarc-record"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/delegate-subdomains/dmarc-record"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:17.133161+00:00"
+created_at: "2026-10-01T17:59:11.454623+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -48450,7 +48456,7 @@ title: "Documentation updates latest-updates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/documentation-updates"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:36.896405+00:00"
+created_at: "2026-10-01T17:56:15.979919+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -48681,7 +48687,7 @@ title: "Double opt-in for Sinch and Infobip"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:07:01.169257+00:00"
+created_at: "2026-10-01T18:06:17.274054+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -48712,7 +48718,7 @@ title: "Dynamic content section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/dynamic/dynamic-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:39.753515+00:00"
+created_at: "2026-10-01T17:54:11.289961+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -48753,7 +48759,7 @@ title: "Edit assets with Adobe Express express"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/express"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:41.249171+00:00"
+created_at: "2026-10-01T18:00:34.680815+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -48898,7 +48904,7 @@ title: "Edit email content with the advanced HTML editor email-expert-mode"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/email-expert-mode"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:57.417473+00:00"
+created_at: "2026-10-01T18:02:56.882036+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -49015,7 +49021,7 @@ title: "Edit expressions edit-expressions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/query-database/edit-expressions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:43.846908+00:00"
+created_at: "2026-10-01T18:01:39.603779+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -49508,7 +49514,7 @@ title: "Edit images with Adobe Express edit-images-adobe-express"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/assets/internal-dam/image-edit-adobe-express"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:05.049313+00:00"
+created_at: "2026-10-01T18:07:28.293673+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -49600,7 +49606,7 @@ title: "Edit style section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/edit-style/edit-style-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:11.585390+00:00"
+created_at: "2026-10-01T18:04:18.291815+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -49647,7 +49653,7 @@ title: "Edit the Action campaign content action-campaign-content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/campaign-content"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:40.732165+00:00"
+created_at: "2026-10-01T17:53:09.212294+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -49719,7 +49725,7 @@ title: "Edit the API triggered campaign content api-content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/api-triggered-campaigns/api-triggered-campaign-content"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:41.720417+00:00"
+created_at: "2026-10-01T17:53:10.179687+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -49800,7 +49806,7 @@ title: "Email campaign report campaign-global-report-cja-email"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/campaign-reporting/campaign-global-report-cja-email"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:18.995157+00:00"
+created_at: "2026-10-01T17:59:13.574548+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -49994,7 +50000,7 @@ title: "Email channel configurations"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-emails"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:18.895501+00:00"
+created_at: "2026-10-01T18:05:30.288020+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -50176,7 +50182,7 @@ title: "Email channel section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/email-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:26.293006+00:00"
+created_at: "2026-10-01T17:53:57.797104+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -50237,7 +50243,7 @@ title: "Email collaboration tools"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/emails/email-collaboration-tools"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:47.520554+00:00"
+created_at: "2026-10-01T18:07:08.664708+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -50388,7 +50394,7 @@ title: "Email content creation with GenStudio for Performance Marketing genstudi
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/genstudio-email-workflow"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:29.743646+00:00"
+created_at: "2026-10-01T18:05:42.825923+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -50494,7 +50500,7 @@ title: "Email deduplication"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-deduplication"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:45.880747+00:00"
+created_at: "2026-10-01T18:07:06.773766+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -50545,7 +50551,7 @@ title: "Email error types email-error-types"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/monitor-reputation/email-error-types"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:40.414074+00:00"
+created_at: "2026-10-01T17:59:35.439999+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -50658,7 +50664,7 @@ title: "Email journey report journey-global-report"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/journey-reporting/journey-global-report-cja-email"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:19.937376+00:00"
+created_at: "2026-10-01T17:59:14.479211+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -50800,7 +50806,7 @@ title: "Email message authoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-authoring"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:57.926129+00:00"
+created_at: "2026-10-01T18:07:20.241426+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -51072,7 +51078,7 @@ title: "Email opt-out management email-opt-out"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/email-opt-out"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:55.861077+00:00"
+created_at: "2026-10-01T17:59:49.412320+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -51260,7 +51266,7 @@ title: "Email performance report"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/email-performance-dashboard"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:35.544602+00:00"
+created_at: "2026-10-01T18:06:54.852466+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -51410,7 +51416,7 @@ title: "Email send-time optimization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-send-time-optimization"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:10.825980+00:00"
+created_at: "2026-10-01T18:05:22.123043+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -51475,7 +51481,7 @@ title: "Email setup"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/email-setup"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:11.679224+00:00"
+created_at: "2026-10-01T18:07:35.191122+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -51658,7 +51664,7 @@ title: "Email spam report spam-report"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/preview-test/spam-report"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:03.081101+00:00"
+created_at: "2026-10-01T17:53:34.150256+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -51715,7 +51721,7 @@ title: "Email template authoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/email-templates/email-template-authoring"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:22.841716+00:00"
+created_at: "2026-10-01T18:07:48.671534+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -51873,7 +51879,7 @@ title: "Email templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/email-templates/email-templates"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:32.218458+00:00"
+created_at: "2026-10-01T18:05:45.407470+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -52068,7 +52074,7 @@ title: "Emails"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/emails/emails-list"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:00.257727+00:00"
+created_at: "2026-10-01T18:07:23.078272+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -52118,7 +52124,7 @@ title: "Enable AI Assistant access"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/enable-ai-assistant-access"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:15.077779+00:00"
+created_at: "2026-10-01T18:07:39.064180+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -52178,7 +52184,7 @@ title: "Encrypt URL parameters url-parameter-encryption"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/url-parameter-encryption"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:16.358862+00:00"
+created_at: "2026-10-01T18:02:13.664653+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -52304,7 +52310,7 @@ title: "End a journey journey-ending"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/end-journey"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:18.106292+00:00"
+created_at: "2026-10-01T17:57:00.813935+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -52518,7 +52524,7 @@ title: "Enforce data usage policies in Journey Optimizer channels"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/enforce-data-usage-policies-in-journey-optimizer-channels"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:08:34.090906+00:00"
+created_at: "2026-10-01T18:07:59.322911+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -52556,7 +52562,7 @@ title: "Engage customers by browsing activity engage-customers-uc"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/use-cases/engage-customers-uc"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:10.666712+00:00"
+created_at: "2026-10-01T17:57:54.514987+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -52639,7 +52645,7 @@ title: "Engagement Overview dashboard"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/engagement-dashboard"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:35.756787+00:00"
+created_at: "2026-10-01T18:05:49.661865+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -52769,7 +52775,7 @@ title: "Engagement scores engagement-scores"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/scoring/engagement-scores"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:49.979337+00:00"
+created_at: "2026-10-01T18:07:11.416008+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -53023,7 +53029,7 @@ title: "Enhanced reporting with Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:05:23.812502+00:00"
+created_at: "2026-10-01T18:04:31.720895+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -53056,7 +53062,7 @@ title: "Enrichment enrichment"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/enrichment"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:14.354463+00:00"
+created_at: "2026-10-01T18:02:11.682201+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -53271,7 +53277,7 @@ title: "Error codes reference error-codes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/monitor-alerts-errors/error-codes-reference"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:26.141093+00:00"
+created_at: "2026-10-01T17:52:53.602570+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -53818,7 +53824,7 @@ title: "Event configuration section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/events-journeys/events-journeys-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:45.493689+00:00"
+created_at: "2026-10-01T17:56:25.820428+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -53877,7 +53883,7 @@ title: "Event Transformer guide event-transformer-guide"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/configure-integrate-loyalty/event-transformer-guide"
 category: "guides"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:21.903937+00:00"
+created_at: "2026-10-01T18:01:17.042356+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -54295,7 +54301,7 @@ title: "Examples of queries query-examples"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reports/query-examples"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:42.901657+00:00"
+created_at: "2026-10-01T17:57:25.527422+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -55117,7 +55123,7 @@ title: "Exclusion reasons exclusion-list"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/exclusion-list"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:55.806480+00:00"
+created_at: "2026-10-01T17:58:49.181664+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -55333,7 +55339,7 @@ title: "Execute an API triggered campaign execute"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/api-triggered-campaigns/trigger-campaigns"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:21.915552+00:00"
+created_at: "2026-10-01T17:53:53.699591+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -55402,7 +55408,7 @@ title: "Execute the IP warmup plan ip-warmup-running"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-execution"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:02.791075+00:00"
+created_at: "2026-10-01T18:03:03.520093+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -55563,7 +55569,7 @@ title: "Experience event lookup in journeys ee-journeys"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/exp-event-lookup"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:40.381635+00:00"
+created_at: "2026-10-01T17:57:23.645164+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -55755,7 +55761,7 @@ title: "Experimentation Agent overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:03:40.036039+00:00"
+created_at: "2026-10-01T18:02:37.044615+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -55788,7 +55794,7 @@ title: "Experimentation campaign report campaign-global-report-cja-experimentati
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/campaign-reporting/campaign-global-report-cja-experimentation"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:14.461148+00:00"
+created_at: "2026-10-01T17:59:08.535172+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -55850,7 +55856,7 @@ title: "Experimentation journey report campaign-global-report-cja-experimentatio
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/journey-reporting/journey-global-report-cja-experimentation"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:36.757684+00:00"
+created_at: "2026-10-01T17:59:31.924808+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -55917,7 +55923,7 @@ title: "Explore loyalty performance loyalty-performance"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/create-manage-challenges/loyalty-performance"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:08.864232+00:00"
+created_at: "2026-10-01T17:54:42.030272+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -56062,7 +56068,7 @@ title: "Export datasets to cloud storage locations export-datasets"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/datasets/export-datasets"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:45.894842+00:00"
+created_at: "2026-10-01T17:59:40.690029+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -56238,7 +56244,7 @@ title: "Export message content message-export"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/message-export"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:27.825675+00:00"
+created_at: "2026-10-01T18:02:24.645389+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -56435,7 +56441,7 @@ title: "Export objects to another sandbox copy-to-sandbox"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/sandbox/copy-objects-to-sandbox"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:20.112442+00:00"
+created_at: "2026-10-01T17:52:46.803198+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -56587,7 +56593,7 @@ title: "Export reports in CSV format"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:05:22.314548+00:00"
+created_at: "2026-10-01T18:04:29.894025+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -56618,7 +56624,7 @@ title: "Export your offer catalog section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/export-catalog/export-catalog-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:12.554114+00:00"
+created_at: "2026-10-01T18:01:07.568702+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -56682,7 +56688,7 @@ title: "External actions configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/configurations/configure-external-actions"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:36.319893+00:00"
+created_at: "2026-10-01T18:06:55.811956+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -56849,7 +56855,7 @@ title: "External data sources external-data-sources"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/data-source-journeys/external-data-sources"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:30.663861+00:00"
+created_at: "2026-10-01T17:57:13.854734+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -57264,7 +57270,7 @@ title: "External nodes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/external-nodes"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:28.812976+00:00"
+created_at: "2026-10-01T18:06:47.182946+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -57328,7 +57334,7 @@ title: "Fallback offers dataset fallback-dataset"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/export-catalog/export-fallback"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:51.862282+00:00"
+created_at: "2026-10-01T18:05:00.434702+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -57473,7 +57479,7 @@ title: "Federated Audience Composition fac"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/audiences/create/federated-audience-composition"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:13.372564+00:00"
+created_at: "2026-10-01T17:58:01.513266+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -57552,7 +57558,7 @@ title: "Field references field-references"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/syntax/field-references"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:56.545413+00:00"
+created_at: "2026-10-01T17:57:39.152480+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -57775,7 +57781,7 @@ title: "Fork fork"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/fork"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:04.496783+00:00"
+created_at: "2026-10-01T17:57:48.170406+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -57828,7 +57834,7 @@ title: "Form design"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/forms/form-design"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:42.617808+00:00"
+created_at: "2026-10-01T18:08:07.923614+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -57954,7 +57960,7 @@ title: "Forms configurations"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-forms"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:31.307220+00:00"
+created_at: "2026-10-01T18:06:50.711016+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -58026,7 +58032,7 @@ title: "Forms"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/forms/forms"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:32.326577+00:00"
+created_at: "2026-10-01T18:06:51.723237+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -58283,7 +58289,7 @@ title: "Fragment authoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/visual-fragments/fragment-authoring"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:03.060711+00:00"
+created_at: "2026-10-01T18:07:25.855738+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -58385,7 +58391,7 @@ title: "Fragments"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/visual-fragments/fragments"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:33.163175+00:00"
+created_at: "2026-10-01T18:05:46.526039+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -58647,7 +58653,7 @@ title: "Frequency capping by channel and communication type rule-sets"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/channel-capping"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:51.747742+00:00"
+created_at: "2026-10-01T17:53:20.924269+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -58812,7 +58818,7 @@ title: "Frequently asked questions about Integrations vendor-integration-faq"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/vendor-integration-faq"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:23.905940+00:00"
+created_at: "2026-10-01T17:53:55.942658+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -59003,7 +59009,7 @@ title: "Frequently asked questions faq-oc"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/orchestrated-campaigns-faq"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:09.068609+00:00"
+created_at: "2026-10-01T17:57:52.915859+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -59382,7 +59388,7 @@ title: "Functions functions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/main-functions-journey/functions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:59.166766+00:00"
+created_at: "2026-10-01T17:57:42.168674+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -59706,7 +59712,7 @@ title: "General events general-events"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/general-events"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:15.218951+00:00"
+created_at: "2026-10-01T17:56:57.767031+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -59818,7 +59824,7 @@ title: "Generate content for personalization expressions generative-personalizat
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/generative-personalization-expressions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:49.716012+00:00"
+created_at: "2026-10-01T17:55:26.883641+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -59941,7 +59947,7 @@ title: "Generate content prompt best practices ai-assistant-prompting-guide"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/ai-assistant-prompting-guide"
 category: "guides"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:52.448964+00:00"
+created_at: "2026-10-01T17:55:29.895967+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -60347,7 +60353,7 @@ title: "Generate content use cases generative-uc"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/generative-uc"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:07.225575+00:00"
+created_at: "2026-10-01T18:02:04.372585+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -60508,7 +60514,7 @@ title: "Generate email content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/generate-content-emails"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:28.927973+00:00"
+created_at: "2026-10-01T18:05:41.787370+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -60745,7 +60751,7 @@ title: "Generate expressions with AI generate-expression"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/generate-expression"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:12.749787+00:00"
+created_at: "2026-10-01T17:54:46.398129+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -60865,7 +60871,7 @@ title: "Generate full content with AI generative-full-content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/generative-full-content"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:45.973954+00:00"
+created_at: "2026-10-01T17:55:22.398723+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -60988,7 +60994,7 @@ title: "Generate images with AI generative-image"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/generative-image"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:47.957097+00:00"
+created_at: "2026-10-01T17:55:24.934696+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -61098,7 +61104,7 @@ title: "Generate landing page content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/generate-content-landing-pages"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:55.481401+00:00"
+created_at: "2026-10-01T18:08:21.090772+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -61303,7 +61309,7 @@ title: "Generate SMS usage report sms-usage-report"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/mobile/sms-usage-report"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:59.661756+00:00"
+created_at: "2026-10-01T18:04:05.385971+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -61402,7 +61408,7 @@ title: "Generate text with AI generative-text"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/generative-text"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:46.861369+00:00"
+created_at: "2026-10-01T17:55:23.536555+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -61516,7 +61522,7 @@ title: "Generative AI for content generative-ai-content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/generative-ai-content"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:21.210178+00:00"
+created_at: "2026-10-01T18:07:46.818787+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -61900,7 +61906,7 @@ title: "Generative AI models for brand alignment"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/brands/generative-ai-models"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:10.096563+00:00"
+created_at: "2026-10-01T18:05:21.338309+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -61979,7 +61985,7 @@ title: "Get started for data engineer data-engineer"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/by-role/data-engineer"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:25.911954+00:00"
+created_at: "2026-10-01T17:56:05.745258+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -62157,7 +62163,7 @@ title: "Get started for developers get-started-developers"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/by-role/developer"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:28.187833+00:00"
+created_at: "2026-10-01T17:56:08.214815+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -62564,7 +62570,7 @@ title: "Get started for Marketers get-started-marketers"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/by-role/marketer"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:24.932483+00:00"
+created_at: "2026-10-01T17:56:04.694095+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -62800,7 +62806,7 @@ title: "Get started for system administrators get-started-sys-admins"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/by-role/administrator"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:27.158878+00:00"
+created_at: "2026-10-01T17:56:06.902687+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -62990,7 +62996,7 @@ title: "Get started with access control permissions-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/permissions-overview"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:56.061617+00:00"
+created_at: "2026-10-01T17:54:27.678510+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -63099,7 +63105,7 @@ title: "Get started with Adobe Experience Manager content fragments aem-fragment
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem/aem-fragments-gs"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:53.109066+00:00"
+created_at: "2026-10-01T17:59:46.433391+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -63188,7 +63194,7 @@ title: "Get started with Adobe Journey Optimizer channels get-started-email"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/gs-channels"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:39.426563+00:00"
+created_at: "2026-10-01T17:52:01.897022+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -63378,7 +63384,7 @@ title: "Get started with Adobe Journey Optimizer get-started"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/get-started-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:51.830661+00:00"
+created_at: "2026-10-01T17:52:15.872671+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -63561,7 +63567,7 @@ title: "Get started with AI models ai-models"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/rankings/ai-models/ai-models"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:47.914486+00:00"
+created_at: "2026-10-01T18:03:52.435690+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -63629,7 +63635,7 @@ title: "Get started with AI models ai-models"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-rankings/experience-decisioning-ai-models/ai-models"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:58.230927+00:00"
+created_at: "2026-10-01T17:55:35.923776+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -63690,7 +63696,7 @@ title: "Get started with all time report channel-report-gs-cja"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/report-gs-cja"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:17.310154+00:00"
+created_at: "2026-10-01T17:53:48.835140+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -63742,7 +63748,7 @@ title: "Get started with audience composition get-start-audience-composition"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/audiences/create/get-started-audience-orchestration"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:22.517554+00:00"
+created_at: "2026-10-01T17:58:13.049260+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -63875,7 +63881,7 @@ title: "Get started with audiences about-segments"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/audiences/about-audiences"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:32.703386+00:00"
+created_at: "2026-10-01T17:53:01.481730+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -63999,7 +64005,7 @@ title: "Get started with campaigns get-started-campaigns"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/get-started-with-campaigns"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:34.926472+00:00"
+created_at: "2026-10-01T17:51:57.706755+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -64216,7 +64222,7 @@ title: "Get started with channels configuration start-optimizer-configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/get-started-configuration"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:38.891615+00:00"
+created_at: "2026-10-01T17:56:17.799510+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -64270,7 +64276,7 @@ title: "Get started with code-based channel get-started-code-based"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/get-started-code-based"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:25.539842+00:00"
+created_at: "2026-10-01T17:58:16.151819+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -64412,7 +64418,7 @@ title: "Get started with content experiments get-started-experiment"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/get-started-experiment"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:58.945150+00:00"
+created_at: "2026-10-01T17:53:29.494386+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -64578,7 +64584,7 @@ title: "Get started with content optimization message-optimization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/message-optimization/gs-message-optimization"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:47.624060+00:00"
+created_at: "2026-10-01T17:53:16.658457+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -64700,7 +64706,7 @@ title: "Get started with content templates content-templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-templates/content-templates"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:51.543899+00:00"
+created_at: "2026-10-01T17:55:28.936355+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -64758,7 +64764,7 @@ title: "Get started with context data context-data"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/context-data/context-data"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:42.755399+00:00"
+created_at: "2026-10-01T18:04:50.938348+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -64809,7 +64815,7 @@ title: "Get started with custom actions about_actions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/action"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:07.781250+00:00"
+created_at: "2026-10-01T17:56:49.915676+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -64918,7 +64924,7 @@ title: "Get started with custom channels get-started-custom-channel"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/custom-channel/get-started-custom-channel"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:20.867932+00:00"
+created_at: "2026-10-01T17:54:55.242248+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -65073,7 +65079,7 @@ title: "Get started with data management about-data"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/gs-data"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:51.526596+00:00"
+created_at: "2026-10-01T17:54:23.222411+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -65397,7 +65403,7 @@ title: "Get started with data sources about-data-sources"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/data-source-journeys/about-data-sources"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:02.596907+00:00"
+created_at: "2026-10-01T17:52:27.711353+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -65573,7 +65579,7 @@ title: "Get Started with datasets datasets-gs"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/datasets/get-started-datasets"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:38.773342+00:00"
+created_at: "2026-10-01T17:58:30.671973+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -65738,7 +65744,7 @@ title: "Get started with decision capabilities in Journey Optimizer gs-decision"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/gs-decision"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:48.664284+00:00"
+created_at: "2026-10-01T17:54:20.677918+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -65810,7 +65816,7 @@ title: "Get started with decision management about-decision-management"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:10.995612+00:00"
+created_at: "2026-10-01T17:55:49.532803+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -65923,7 +65929,7 @@ title: "Get started with Decision management events monitor-offer-events"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/create-reports/get-started-events"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:45.447050+00:00"
+created_at: "2026-10-01T18:04:53.773905+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -65988,7 +65994,7 @@ title: "Get started with Decision management section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/get-started-decision-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:04.729370+00:00"
+created_at: "2026-10-01T18:00:59.644117+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -66052,7 +66058,7 @@ title: "Get started with decision policies create-decision"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/decision-policies/create-decision"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:54.884059+00:00"
+created_at: "2026-10-01T17:58:48.270360+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -66120,7 +66126,7 @@ title: "Get started with Decisioning get-started-experience-decisioning"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/gs-experience-decisioning"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:56.686433+00:00"
+created_at: "2026-10-01T18:00:51.822573+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -66220,7 +66226,7 @@ title: "Get started with deliverability manage-deliverability"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/deliverability/deliverability"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:11.667594+00:00"
+created_at: "2026-10-01T17:53:43.541651+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -66395,7 +66401,7 @@ title: "Get started with direct mail create-direct"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/direct-mail/get-started-direct-mail"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:09.971489+00:00"
+created_at: "2026-10-01T18:00:03.352772+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -66505,7 +66511,7 @@ title: "Get started with dynamic content start-dynamic-content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/dynamic/get-started-dynamic-content"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:09.047133+00:00"
+created_at: "2026-10-01T18:00:02.397168+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -66580,7 +66586,7 @@ title: "Get started with email configuration get-starte-email-config"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/configure-email/get-started-email-config"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:53.107412+00:00"
+created_at: "2026-10-01T17:57:35.172062+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -66706,7 +66712,7 @@ title: "Get started with email design get-started-content-design"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/get-started-email-design"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:00.083797+00:00"
+created_at: "2026-10-01T17:55:37.764707+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -66894,7 +66900,7 @@ title: "Get started with email get-started-email"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/get-started-email"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:44.015508+00:00"
+created_at: "2026-10-01T17:55:19.392699+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -66962,7 +66968,7 @@ title: "Get started with email style get-started-email-style"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/edit-style/get-started-email-style"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:00.494073+00:00"
+created_at: "2026-10-01T18:01:58.132301+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -67063,7 +67069,7 @@ title: "Get started with fragments fragments"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/fragments"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:31.356650+00:00"
+created_at: "2026-10-01T17:58:21.996064+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -67143,7 +67149,7 @@ title: "Get started with Generate Content gs-content-assistant"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/gs-generative"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:53.359972+00:00"
+created_at: "2026-10-01T17:55:30.754720+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -67272,7 +67278,7 @@ title: "Get started with Guided channel setup set-mobile-config"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config"
 category: "guides"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:39.812923+00:00"
+created_at: "2026-10-01T17:56:18.761780+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -67394,7 +67400,7 @@ title: "Get started with Helper functions functions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/functions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:03.906883+00:00"
+created_at: "2026-10-01T17:58:57.690333+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -67804,7 +67810,7 @@ title: "Get Started with identities identities-gs"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/get-started-identity"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:44.760788+00:00"
+created_at: "2026-10-01T17:54:16.458699+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -67890,7 +67896,7 @@ title: "Get started with In-app channel gs-in-app"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/get-started-in-app"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:30.486086+00:00"
+created_at: "2026-10-01T17:58:20.899495+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -68027,7 +68033,7 @@ title: "Get started with IP warmup plans ip-warmup-gs"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-gs"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:41.451773+00:00"
+created_at: "2026-10-01T17:56:21.108983+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -68105,7 +68111,7 @@ title: "Get started with journey activities about-journey-activities"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/about-journey-activities"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:04.540833+00:00"
+created_at: "2026-10-01T17:52:29.612265+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -68263,7 +68269,7 @@ title: "Get Started with Journey Optimizer ajo-gs"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/get-started"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:49.533215+00:00"
+created_at: "2026-10-01T18:03:54.785310+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -68366,7 +68372,7 @@ title: "Get Started with Journey Optimizer ajo-gs"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/get-started"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:22.085904+00:00"
+created_at: "2026-10-01T17:56:01.727585+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -68469,7 +68475,7 @@ title: "Get started with Journey simulation simulate-journey-gs"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/validate-journey/simulate-journey/simulate-journey-gs"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:04.632246+00:00"
+created_at: "2026-10-01T17:53:36.199493+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -68684,7 +68690,7 @@ title: "Get started with journeys & campaigns approval send-proofs"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/approve/gs-approval"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:04.062374+00:00"
+created_at: "2026-10-01T17:53:35.140190+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -68839,7 +68845,7 @@ title: "Get started with journeys configuration configure-journeys"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/about-data-sources-events-actions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:44.739442+00:00"
+created_at: "2026-10-01T17:56:24.957623+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -68899,7 +68905,7 @@ title: "Get started with journeys jo-general-principle"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:33.879415+00:00"
+created_at: "2026-10-01T17:51:56.519999+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -69274,7 +69280,7 @@ title: "Get started with landing pages get-started-lp"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/landing-pages/get-started-lp"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:37.408841+00:00"
+created_at: "2026-10-01T17:54:08.799889+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -69373,7 +69379,7 @@ title: "Get started with LINE get-started-line"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/line/get-started-line"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:52.018034+00:00"
+created_at: "2026-10-01T17:58:45.316375+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -69419,7 +69425,7 @@ title: "Get started with Live activities get-started-mobile-live"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/get-started-mobile-live"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:27.613465+00:00"
+created_at: "2026-10-01T17:53:59.638899+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -69542,7 +69548,7 @@ title: "Get started with Live activity configuration mobile-live-config"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:58.817175+00:00"
+created_at: "2026-10-01T17:59:51.967039+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -69676,7 +69682,7 @@ title: "Get started with live report live-report"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/live-report/live-report"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:31.843453+00:00"
+created_at: "2026-10-01T17:56:11.351891+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -69747,7 +69753,7 @@ title: "Get started with loyalty challenges get-started-loyalty-challenges"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/get-started"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:48.428457+00:00"
+created_at: "2026-10-01T17:52:12.731378+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -69882,7 +69888,7 @@ title: "Get started with Mobile configuration sms-configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:08:31.315450+00:00"
+created_at: "2026-10-01T18:07:57.345582+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -69987,7 +69993,7 @@ title: "Get started with Mobile configuration sms-configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/mobile/configure-mobile/mobile-configuration"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:44.018242+00:00"
+created_at: "2026-10-01T17:58:35.802204+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -70092,7 +70098,7 @@ title: "Get started with Mobile messages get-started-sms"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/get-started-sms"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:07:03.397129+00:00"
+created_at: "2026-10-01T18:06:19.583441+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -70372,7 +70378,7 @@ title: "Get started with Mobile messages get-started-sms"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/mobile/get-started-mobile"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:28.751051+00:00"
+created_at: "2026-10-01T17:54:00.810792+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -70652,7 +70658,7 @@ title: "Get started with multilingual content multilingual-gs"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-multilingual/multilingual-gs"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:20.561571+00:00"
+created_at: "2026-10-01T17:57:02.864519+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -70712,7 +70718,7 @@ title: "Get started with offer catalog export export-catalog"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/export-catalog/get-started-export"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:47.009137+00:00"
+created_at: "2026-10-01T18:04:55.338857+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -70766,7 +70772,7 @@ title: "Get started with offer delivery APIs about-decisioning-apis"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/api-reference/offer-delivery-api/start-offer-delivery-apis"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:07:11.792636+00:00"
+created_at: "2026-10-01T18:06:29.427907+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -70843,7 +70849,7 @@ title: "Get started with Orchestrated campaigns orchestrated-camp"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/gs-orchestrated-campaigns"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:24.373740+00:00"
+created_at: "2026-10-01T17:52:51.405866+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -70965,7 +70971,7 @@ title: "Get started with personalization add-personalization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/personalize"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:58.095734+00:00"
+created_at: "2026-10-01T17:53:28.343153+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -71111,7 +71117,7 @@ title: "Get started with privacy privacy"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/get-started-privacy"
 category: "guides"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:53.059468+00:00"
+created_at: "2026-10-01T17:56:34.412767+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -71205,7 +71211,7 @@ title: "Get Started with profiles profiles-gs"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/profiles/get-started-profiles"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:19.900179+00:00"
+created_at: "2026-10-01T17:58:10.628542+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -71343,7 +71349,7 @@ title: "Get started with push notification gs-push-notification"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/get-started-push"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:44.568588+00:00"
+created_at: "2026-10-01T17:55:20.355958+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -71479,7 +71485,7 @@ title: "Get Started with queries queries-gs"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/get-started-queries"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:55.282158+00:00"
+created_at: "2026-10-01T17:54:26.704261+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -71556,7 +71562,7 @@ title: "Get started with rankings create-fallback-offers"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/rankings/get-started-rankings"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:34.251430+00:00"
+created_at: "2026-10-01T18:04:42.888218+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -71600,7 +71606,7 @@ title: "Get started with relational schemas and datasets gs-schemas"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/data-configuration/schemas-datasets/gs-schemas"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:05.978399+00:00"
+created_at: "2026-10-01T17:57:49.941746+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -71679,7 +71685,7 @@ title: "Get started with reporting capabilities get-started-report"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/gs-reports"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:45.333698+00:00"
+created_at: "2026-10-01T17:54:17.399361+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -71818,7 +71824,7 @@ title: "Get Started with schemas schemas-gs"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/get-started-schemas"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:52.513834+00:00"
+created_at: "2026-10-01T17:54:24.159584+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -71925,7 +71931,7 @@ title: "Get started with sources connectors sources-gs"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/get-started-sources"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:52.087203+00:00"
+created_at: "2026-10-01T17:56:33.232230+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -72123,7 +72129,7 @@ title: "Get started with the Journey Optimizer experimentation accelerator conte
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/experiment-accelerator-gs"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:55.174380+00:00"
+created_at: "2026-10-01T17:55:32.953826+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -72170,7 +72176,7 @@ title: "Get started with the Optimize activity journey-path-optimization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/optimize-activity/optimize"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:11.915222+00:00"
+created_at: "2026-10-01T17:52:38.261281+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -72292,7 +72298,7 @@ title: "Get started with tracking in Journey Optimizer get-started-tracking"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/get-started-tracking"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:12.837825+00:00"
+created_at: "2026-10-01T17:53:44.468391+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -72577,7 +72583,7 @@ title: "Get started with web channel get-started-web"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/web/get-started-web"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:45.349570+00:00"
+created_at: "2026-10-01T17:55:21.223787+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -72642,7 +72648,7 @@ title: "Get started with WhatsApp configuration whatsapp-config"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/whatsapp-configuration"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:22.491843+00:00"
+created_at: "2026-10-01T17:53:55.011172+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -72829,7 +72835,7 @@ title: "Get started with WhatsApp messages get-started-whatsapp"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/get-started-whatsapp"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:53.088931+00:00"
+created_at: "2026-10-01T17:58:46.280047+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -72990,7 +72996,7 @@ title: "Governance and privacy features"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/governance"
 category: "guides"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:54.614141+00:00"
+created_at: "2026-10-01T18:08:19.823939+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -73073,7 +73079,7 @@ title: "Guardrails and limitations guardrails"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/guardrails"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:07.604046+00:00"
+created_at: "2026-10-01T17:57:51.732399+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -73155,7 +73161,7 @@ title: "Guardrails and limitations limitations"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/guardrails"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:27.881435+00:00"
+created_at: "2026-10-01T17:52:54.954703+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -73696,7 +73702,7 @@ title: "Guided channel setup"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup?lang=en"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:06:57.190594+00:00"
+created_at: "2026-10-01T18:06:12.196338+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -73736,7 +73742,7 @@ title: "Guided channel setup"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:06:53.567964+00:00"
+created_at: "2026-10-01T18:06:08.290407+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -73776,7 +73782,7 @@ title: "Header parameters email-header"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/configure-email/header-parameters"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:40.962246+00:00"
+created_at: "2026-10-01T18:02:38.215644+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -73975,7 +73981,7 @@ title: "Health plan prescriptions email plan-prescription"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/personalization-use-cases/perso-uc-plan-prescriptions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:16.212666+00:00"
+created_at: "2026-10-01T18:04:23.795740+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -74067,7 +74073,7 @@ title: "Helper functions list section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/functions-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:24.932094+00:00"
+created_at: "2026-10-01T18:00:17.745119+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -74134,7 +74140,7 @@ title: "Helper functions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/personalization/personalization-helper-functions"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:47.886364+00:00"
+created_at: "2026-10-01T18:08:13.127859+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -76464,7 +76470,7 @@ title: "Helpers gs-helpers"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/helpers"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:04.050645+00:00"
+created_at: "2026-10-01T17:55:41.433944+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -76901,7 +76907,7 @@ title: "Identify potential conflicts"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T13:54:55.540429+00:00"
+created_at: "2026-10-01T17:53:25.187498+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -76934,7 +76940,7 @@ title: "Identity stitching in AEP"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction"
 category: "tutorials"
 topic: "documentation/journey-optimizer/tutorial-on-identity-stitching-in-aep"
-created_at: "2026-10-01T14:04:27.147395+00:00"
+created_at: "2026-10-01T18:03:29.630704+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > tutorial-on-identity-stitching-in-aep
 
@@ -76974,7 +76980,7 @@ title: "Implement a customer onboarding journey"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T13:58:08.614393+00:00"
+created_at: "2026-10-01T17:56:50.652932+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -77009,7 +77015,7 @@ title: "Implement single-page applications (SPAs) web-spa-implementation"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/web/web-sdk/web-spa-implementation"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:07:17.344159+00:00"
+created_at: "2026-10-01T18:06:35.023233+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -77227,7 +77233,7 @@ title: "Import and author HTML email content with the message editor"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:04:06.802630+00:00"
+created_at: "2026-10-01T18:03:08.216987+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -77258,7 +77264,7 @@ title: "Import your email content existing-content"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/start-creating-content/existing-content"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:34.380367+00:00"
+created_at: "2026-10-01T18:01:29.336461+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -77354,7 +77360,7 @@ title: "In-app campaign report campaign-global-report-cja-inapp"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/campaign-reporting/campaign-global-report-cja-inapp"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:26.086141+00:00"
+created_at: "2026-10-01T17:59:19.873811+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -77451,7 +77457,7 @@ title: "In-app channel section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/in-app-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:32.444087+00:00"
+created_at: "2026-10-01T17:54:04.313243+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -77504,7 +77510,7 @@ title: "In-app journey report journey-global-report"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/journey-reporting/journey-global-report-cja-inapp"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:26.963771+00:00"
+created_at: "2026-10-01T17:59:20.841378+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -77599,7 +77605,7 @@ title: "In-app messages - Overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/in-app-messages-overview"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:04:55.814273+00:00"
+created_at: "2026-10-01T18:04:01.524969+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -77630,7 +77636,7 @@ title: "In-app messages - Overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/mobile-channels-overview/in-app-messages-overview"
 category: "other"
 topic: "documentation/journey-optimizer/ajo-mobile-learning-hub"
-created_at: "2026-10-01T14:04:15.371168+00:00"
+created_at: "2026-10-01T18:03:16.818754+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > AJO Mobile Learning Hub
 
@@ -77725,7 +77731,7 @@ title: "In-CRM access to detail pages"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/sales-experience/crm-linking"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:54.205337+00:00"
+created_at: "2026-10-01T18:07:16.159639+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -77903,7 +77909,7 @@ title: "In-CRM Insights"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/incrm-insights"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:38.098822+00:00"
+created_at: "2026-10-01T18:05:52.385705+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -77983,7 +77989,7 @@ title: "inAudience function inAudience"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/main-functions-journey/functioninaudience"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:31.803485+00:00"
+created_at: "2026-10-01T17:57:14.882104+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -78161,7 +78167,7 @@ title: "Ingest data ingest-data"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/data-configuration/schemas-datasets/ingest-data"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:45.541168+00:00"
+created_at: "2026-10-01T18:03:49.460463+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -78244,7 +78250,7 @@ title: "Integrate with Adobe Campaign Standard using_adobe_campaign_standard"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/adobe-solutions/acs-action"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:28.647400+00:00"
+created_at: "2026-10-01T17:57:11.636987+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -78356,7 +78362,7 @@ title: "Integrate with Adobe Campaign v7/v8 integrating-with-adobe-campaign-v7-v
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/adobe-solutions/acc-action"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:27.534806+00:00"
+created_at: "2026-10-01T17:57:10.721080+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -78503,7 +78509,7 @@ title: "Integrate with external systems external-systems"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/external-systems/external-systems"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:17.155209+00:00"
+created_at: "2026-10-01T17:56:59.926555+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -78670,7 +78676,7 @@ title: "Integrate with intelligent services ai-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/intelligent-services"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:02.704648+00:00"
+created_at: "2026-10-01T17:57:46.022897+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -78755,7 +78761,7 @@ title: "Integrate with Marketo Engage integrating-with-marketo-engage"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/adobe-solutions/marketo-engage"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:39.547351+00:00"
+created_at: "2026-10-01T17:57:22.549858+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -78923,7 +78929,7 @@ title: "Integrate your journeys with external systems section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/external-systems/external-systems-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:49.536591+00:00"
+created_at: "2026-10-01T17:56:30.303423+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -78964,7 +78970,7 @@ title: "Integrations with other solutions integration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/ajo-integrations"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:48.045245+00:00"
+created_at: "2026-10-01T17:56:28.361797+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -79100,7 +79106,7 @@ title: "Intelligent Dashboard"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/intelligent-dashboard"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:34.872194+00:00"
+created_at: "2026-10-01T18:05:48.586821+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -79345,7 +79351,7 @@ title: "Intent data configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/configurations/intent-data"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:21.797611+00:00"
+created_at: "2026-10-01T18:06:39.712863+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -79415,7 +79421,7 @@ title: "Intent scores intent-scores"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/intent-scores"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:38.307646+00:00"
+created_at: "2026-10-01T18:08:03.056759+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -79597,7 +79603,7 @@ title: "Interactive demo loyalty-challenges-demo"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/loyalty-challenges-demo"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:42.171173+00:00"
+created_at: "2026-10-01T17:55:17.618073+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -79636,7 +79642,7 @@ title: "Introduction to Adobe Journey Optimizer"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/introduction"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:02:51.651627+00:00"
+created_at: "2026-10-01T18:01:47.822722+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -79667,7 +79673,7 @@ title: "Introduction to building a journey"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:04:51.694622+00:00"
+created_at: "2026-10-01T18:03:57.658972+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -79698,7 +79704,7 @@ title: "Introduction to building a journey"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T13:57:59.708306+00:00"
+created_at: "2026-10-01T17:56:41.457790+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -79729,7 +79735,7 @@ title: "Introduction to Decisioning"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/introduction-to-decisioning"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:05:28.806604+00:00"
+created_at: "2026-10-01T18:04:37.548203+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -79762,7 +79768,7 @@ title: "Introduction to Decisioning"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/fundamentals/introduction-to-decisioning"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:04:53.242762+00:00"
+created_at: "2026-10-01T18:03:59.077461+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -79795,7 +79801,7 @@ title: "Introduction to Experimentation"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/experimentation-overview"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:00:10.721619+00:00"
+created_at: "2026-10-01T17:59:04.471207+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -79829,7 +79835,7 @@ title: "Introduction to Orchestrated Campaigns in Adobe Journey Optimizer"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T13:59:09.780625+00:00"
+created_at: "2026-10-01T17:57:53.684053+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -79863,7 +79869,7 @@ title: "Introduction to reporting in Journey Optimizer"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:07:10.245274+00:00"
+created_at: "2026-10-01T18:06:27.761740+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -79894,7 +79900,7 @@ title: "Introduction to reporting in Journey Optimizer"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/introduction-to-reporting"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:05:19.109796+00:00"
+created_at: "2026-10-01T18:04:26.300673+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -79925,7 +79931,7 @@ title: "Introduction to the WhatsApp channel"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:05:01.173034+00:00"
+created_at: "2026-10-01T18:04:07.080821+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -79957,7 +79963,7 @@ title: "iOS Live Activities"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/live-activities/ios-live-activities"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:06:45.668304+00:00"
+created_at: "2026-10-01T18:06:00.043544+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -79990,7 +79996,7 @@ title: "IP warmup deliverability guide ip-warmup-deliverability-guide"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-deliverability-guide"
 category: "guides"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:00.742796+00:00"
+created_at: "2026-10-01T18:03:00.686224+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -80198,7 +80204,7 @@ title: "Iterate over contextual data personalization-contexts"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/iterate-contextual-data"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:50.943651+00:00"
+created_at: "2026-10-01T17:52:14.960459+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -80953,7 +80959,7 @@ title: "Journey Agent B2B"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-agents/journey-agent"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:08.425742+00:00"
+created_at: "2026-10-01T18:05:19.434685+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -81100,7 +81106,7 @@ title: "Journey capping & arbitration journey-capping"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:50.748063+00:00"
+created_at: "2026-10-01T17:53:20.104078+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -81218,7 +81224,7 @@ title: "Journey configuration section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/configure-journeys-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:53.423064+00:00"
+created_at: "2026-10-01T17:52:17.608875+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -81265,7 +81271,7 @@ title: "Journey Designer - Overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-designer-overview"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T13:54:23.398729+00:00"
+created_at: "2026-10-01T17:52:50.532035+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -81296,7 +81302,7 @@ title: "Journey details"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-details"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:40.029570+00:00"
+created_at: "2026-10-01T18:08:04.941169+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -81389,7 +81395,7 @@ title: "Journey Dry run journey-dry-run"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/validate-journey/journey-dry-run"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:08.152318+00:00"
+created_at: "2026-10-01T17:52:33.820029+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -81608,7 +81614,7 @@ title: "Journey fields sharing-journey-fields"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reports/legacy-step-event-fields/sharing-journey-fields"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:42.121411+00:00"
+created_at: "2026-10-01T17:59:37.414747+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -81680,7 +81686,7 @@ title: "Journey Fragments journey-fragments"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/journey-fragments"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:14.238431+00:00"
+created_at: "2026-10-01T17:56:56.923688+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -81898,7 +81904,7 @@ title: "Journey frequency capping and prioritization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:07:09.457523+00:00"
+created_at: "2026-10-01T18:06:26.747236+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -81933,7 +81939,7 @@ title: "Journey live report journey-live-report"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/live-report/journey-live-report"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:15.053394+00:00"
+created_at: "2026-10-01T17:53:46.726375+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -82248,7 +82254,7 @@ title: "Journey management"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journeys-overview"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:20.505739+00:00"
+created_at: "2026-10-01T18:05:32.092348+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -82454,7 +82460,7 @@ title: "Journey nodes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:27.167274+00:00"
+created_at: "2026-10-01T18:05:39.549406+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -82499,7 +82505,7 @@ title: "Journey Optimizer B2B Edition release notes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes"
 category: "release-notes"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:15.500214+00:00"
+created_at: "2026-10-01T18:05:26.432507+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -83286,7 +83292,7 @@ title: "Journey Optimizer B2B Edition Tutorials"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/overview"
 category: "tutorials"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-tutorials"
-created_at: "2026-10-01T14:06:39.074601+00:00"
+created_at: "2026-10-01T18:05:53.127720+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Tutorials
 
@@ -83321,7 +83327,7 @@ title: "Journey Optimizer challenges - Introduction and prerequisites"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-challenges"
-created_at: "2026-10-01T13:57:57.206975+00:00"
+created_at: "2026-10-01T17:56:38.819059+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer - Challenges
 
@@ -83421,7 +83427,7 @@ title: "Journey Optimizer datasets section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/datasets/datasets-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:53.317612+00:00"
+created_at: "2026-10-01T17:54:24.955461+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -83468,7 +83474,7 @@ title: "Journey Optimizer Experimentation Accelerator"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/experiment/experiment-accelerator"
 category: "other"
 topic: "documentation/experimentation-accelerator"
-created_at: "2026-10-01T14:06:40.850317+00:00"
+created_at: "2026-10-01T18:05:55.045432+00:00"
 ---
 Breadcrumbs: Documentation > Experimentation accelerator
 
@@ -83513,7 +83519,7 @@ title: "Journey Optimizer - Mobile Learning Hub"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview"
 category: "overview"
 topic: "documentation/journey-optimizer/ajo-mobile-learning-hub"
-created_at: "2026-10-01T13:57:58.044452+00:00"
+created_at: "2026-10-01T17:56:39.675940+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > AJO Mobile Learning Hub
 
@@ -83644,7 +83650,7 @@ title: "Journey Optimizer onboarding hub onboarding-hub"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/onboarding-hub"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:35.185281+00:00"
+created_at: "2026-10-01T17:55:09.620998+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -83797,7 +83803,7 @@ title: "Journey Optimizer release cycle releases"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/releases"
 category: "release-notes"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:02.508078+00:00"
+created_at: "2026-10-01T17:54:34.907015+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -83932,7 +83938,7 @@ title: "Journey Optimizer Tutorials"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/overview"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T13:53:56.042364+00:00"
+created_at: "2026-10-01T17:52:20.529457+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -84052,7 +84058,7 @@ title: "Journey orchestration - frequently asked questions faq-journeys"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-faq"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:24.955838+00:00"
+created_at: "2026-10-01T17:52:52.471704+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -84526,7 +84532,7 @@ title: "Journey properties attributes journey-properties"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/syntax/journey-properties"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:29.563790+00:00"
+created_at: "2026-10-01T17:57:12.732594+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -84704,7 +84710,7 @@ title: "Journey re-entry"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-re-entry"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:11.593966+00:00"
+created_at: "2026-10-01T18:05:23.011039+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -84757,7 +84763,7 @@ title: "Journey report journey-global-report"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/journey-reporting/journey-global-report-cja"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:13.997327+00:00"
+created_at: "2026-10-01T17:53:45.579676+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -84888,7 +84894,7 @@ title: "Journey reports section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/journey-reporting/journey-reporting-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:55.096986+00:00"
+created_at: "2026-10-01T18:00:50.152155+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -84953,7 +84959,7 @@ title: "Journey types: choose the right one journey-types-selection"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/journey-types-selection"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:58.193071+00:00"
+created_at: "2026-10-01T17:52:22.772691+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -85364,7 +85370,7 @@ title: "Journeys Overview dashboard"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/journeys-dashboard"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:37.228691+00:00"
+created_at: "2026-10-01T18:05:51.574712+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -85445,7 +85451,7 @@ title: "Journeys vs campaigns: choose the right approach journeys-vs-campaigns"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/journeys-vs-campaigns"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:10.423216+00:00"
+created_at: "2026-10-01T17:56:52.878812+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -85915,7 +85921,7 @@ title: "journeyStep event identity fields sharing-identity-fields"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reports/legacy-step-event-fields/sharing-identity-fields"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:43.046553+00:00"
+created_at: "2026-10-01T17:59:38.187807+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -85963,7 +85969,7 @@ title: "journeyStep events action execution fields sharing-execution-fields"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reports/legacy-step-event-fields/sharing-execution-fields"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:45.023066+00:00"
+created_at: "2026-10-01T17:59:39.765723+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -86167,7 +86173,7 @@ title: "journeyStep events data fetch fields sharing-fetch-fields"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reports/legacy-step-event-fields/sharing-fetch-fields"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:24.713934+00:00"
+created_at: "2026-10-01T18:04:32.970920+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -86295,7 +86301,7 @@ title: "journeysteps events common fields sharing-common-fields"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reports/legacy-step-event-fields/sharing-common-fields"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:44.046323+00:00"
+created_at: "2026-10-01T17:59:38.993809+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -86537,7 +86543,7 @@ title: "Jump from one journey to another jump"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/jump"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:13.686828+00:00"
+created_at: "2026-10-01T17:54:47.421897+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -86737,7 +86743,7 @@ title: "Key capabilities and the user interface"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T13:57:58.799629+00:00"
+created_at: "2026-10-01T17:56:40.549472+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -86769,7 +86775,7 @@ title: "Key steps to create an Orchestrated campaign orchestrated-campaign-creat
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/launch/gs-campaign-creation"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:05.244337+00:00"
+created_at: "2026-10-01T17:57:49.012420+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -86847,7 +86853,7 @@ title: "Key steps to create & manage offers key-steps-to-manage-offers"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/key-steps"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:30.687650+00:00"
+created_at: "2026-10-01T18:04:39.332725+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -86909,7 +86915,7 @@ title: "Key Terminology key-terminology"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/terminology"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:23.964991+00:00"
+created_at: "2026-10-01T17:56:03.818053+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -87211,7 +87217,7 @@ title: "Landing page configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-landing-pages"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:29.618217+00:00"
+created_at: "2026-10-01T18:06:48.247425+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -87281,7 +87287,7 @@ title: "Landing page design"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/landing-page-design"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:41.748367+00:00"
+created_at: "2026-10-01T18:08:07.026079+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -87426,7 +87432,7 @@ title: "Landing page live report lp-report-live"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/live-report/lp-report-live"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:28.662787+00:00"
+created_at: "2026-10-01T18:00:21.469687+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -87489,7 +87495,7 @@ title: "Landing page report lp-report-global-cja"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/lp-report-global-cja"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:35.065675+00:00"
+created_at: "2026-10-01T17:59:30.112198+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -87595,7 +87601,7 @@ title: "Landing page templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/landing-page-templates/landing-page-templates"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:43.534648+00:00"
+created_at: "2026-10-01T18:08:09.292041+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -87784,7 +87790,7 @@ title: "Landing page use cases lp-use-cases"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/landing-pages/lp-use-cases"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:26.740666+00:00"
+created_at: "2026-10-01T18:00:19.482981+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -87982,7 +87988,7 @@ title: "Landing pages"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/landing-pages/landing-pages"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:30.491256+00:00"
+created_at: "2026-10-01T18:06:49.861667+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -88156,7 +88162,7 @@ title: "Learn through use cases jo-uc-gs"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/journeys-uc"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:16.125298+00:00"
+created_at: "2026-10-01T17:52:42.818819+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -88347,7 +88353,7 @@ title: "Learn through use cases jo-uc-gs"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/jo-use-cases"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:05.500316+00:00"
+created_at: "2026-10-01T17:52:30.892822+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -88538,7 +88544,7 @@ title: "Legacy step event fields section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reports/legacy-step-event-fields/legacy-step-event-fields-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:55.807155+00:00"
+created_at: "2026-10-01T18:00:50.965691+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -88597,7 +88603,7 @@ title: "Leverage context data in Decisioning context"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/aep-data/context-data"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:50.065298+00:00"
+created_at: "2026-10-01T18:01:46.133606+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -88653,7 +88659,7 @@ title: "Leverage context data section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/context-data/context-data-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:10.824584+00:00"
+created_at: "2026-10-01T18:01:05.718863+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -88699,7 +88705,7 @@ title: "Leverage Custom upload audiences for decisioning custom-upload-decisioni
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/custom-upload-decisioning"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:31.728053+00:00"
+created_at: "2026-10-01T18:04:40.197164+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -88772,7 +88778,7 @@ title: "Leverage expression fragments use-expression-fragments"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/use-expression-fragments"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:16.569457+00:00"
+created_at: "2026-10-01T17:55:55.792048+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -88983,7 +88989,7 @@ title: "Leverage fragments in decision policies fragments"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/decision-policies/fragments-decision-policies"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:44.441433+00:00"
+created_at: "2026-10-01T18:01:40.759532+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -89189,7 +89195,7 @@ title: "Leverage path targeting targeting"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/optimize-activity/path-targeting"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:54.874330+00:00"
+created_at: "2026-10-01T17:57:37.284188+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -89307,7 +89313,7 @@ title: "License usage dashboard license-usage"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/license-usage"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:33.556797+00:00"
+created_at: "2026-10-01T17:53:02.448145+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -89433,7 +89439,7 @@ title: "LINE section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/line/line-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:31.635902+00:00"
+created_at: "2026-10-01T17:54:03.210526+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -89481,7 +89487,7 @@ title: "LinkedIn Account Matched audiences"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/audiences/linkedin-account-matched-audiences"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:07.405726+00:00"
+created_at: "2026-10-01T18:07:30.929885+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -89561,7 +89567,7 @@ title: "List decision items list-decision-items"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-api-reference/decision-items/decision-items-list"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:06:44.783716+00:00"
+created_at: "2026-10-01T18:05:59.285443+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -89747,7 +89753,7 @@ title: "List functions list-functions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/main-functions-journey/list-functions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:14.703506+00:00"
+created_at: "2026-10-01T17:55:53.499131+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -90507,7 +90513,7 @@ title: "List of components list-of-components-live"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/live-report/live-report-components"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:51.993305+00:00"
+created_at: "2026-10-01T18:00:47.435213+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -90679,7 +90685,7 @@ title: "List of metrics list-of-components-global"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/global-report-components-cja"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:53.241601+00:00"
+created_at: "2026-10-01T18:00:48.452741+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -91086,7 +91092,7 @@ title: "List unsubscribe list-unsubscribe"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/configure-email/list-unsubscribe"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:28.816701+00:00"
+created_at: "2026-10-01T18:03:31.798716+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -91367,7 +91373,7 @@ title: "Listen for AEP events"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/journey-nodes/listen-for-aep-events"
 category: "tutorials"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-tutorials"
-created_at: "2026-10-01T14:08:25.313290+00:00"
+created_at: "2026-10-01T18:07:51.341242+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Tutorials
 
@@ -91401,7 +91407,7 @@ title: "Listen for an event"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:28.038082+00:00"
+created_at: "2026-10-01T18:06:46.316400+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -91632,7 +91638,7 @@ title: "Live activities - Overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/mobile-channels-overview/live-activities-overview"
 category: "other"
 topic: "documentation/journey-optimizer/ajo-mobile-learning-hub"
-created_at: "2026-10-01T14:04:14.494973+00:00"
+created_at: "2026-10-01T18:03:16.053204+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > AJO Mobile Learning Hub
 
@@ -91712,7 +91718,7 @@ title: "Live activity campaign report campaign-global-report-cja-activity"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/campaign-reporting/campaign-global-report-cja-activity"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:46.736078+00:00"
+created_at: "2026-10-01T17:59:41.548727+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -91826,7 +91832,7 @@ title: "Live activity integration with Adobe Experience Platform Mobile SDK mobi
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:59.906055+00:00"
+created_at: "2026-10-01T17:59:53.356826+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -92110,7 +92116,7 @@ title: "Live report in the journey canvas report-journey"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/report-journey"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:09.711887+00:00"
+created_at: "2026-10-01T17:52:35.977605+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -92231,7 +92237,7 @@ title: "Live report section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/live-report/live-report-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:46.177001+00:00"
+created_at: "2026-10-01T17:54:18.250136+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -92290,7 +92296,7 @@ title: "Load file load-file"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/load-file"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:41.592083+00:00"
+created_at: "2026-10-01T18:03:45.357558+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -92402,7 +92408,7 @@ title: "Lock content in email templates lock-content-email-templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-templates/content-locking"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:34.257973+00:00"
+created_at: "2026-10-01T18:00:27.153469+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -92527,7 +92533,7 @@ title: "Log in and home page"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/home-page"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:22.125470+00:00"
+created_at: "2026-10-01T18:05:33.767660+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -92575,7 +92581,7 @@ title: "Loyalty Challenges permissions loyalty-permissions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/configure-integrate-loyalty/loyalty-permissions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:39.548599+00:00"
+created_at: "2026-10-01T17:55:14.681763+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -92805,7 +92811,7 @@ title: "Loyalty data and datasets loyalty-data-and-datasets"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/configure-integrate-loyalty/loyalty-data-and-datasets"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:47.514769+00:00"
+created_at: "2026-10-01T18:02:45.435429+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -92888,7 +92894,7 @@ title: "Manage allowed IPs waf-ip-allowlist"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/waf-ip-allowlist"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:17.225163+00:00"
+created_at: "2026-10-01T18:01:12.265758+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -93018,7 +93024,7 @@ title: "Manage API credentials api-credentials"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/custom-channel/configure-custom-channel/custom-channel-api-credentials"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:54.994546+00:00"
+created_at: "2026-10-01T18:05:04.149752+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -93115,7 +93121,7 @@ title: "Manage code-based experiences publish-code-based"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/publish-code-based"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:54.351711+00:00"
+created_at: "2026-10-01T18:03:59.953668+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -93254,7 +93260,7 @@ title: "Manage consent section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent-landing-page"
 category: "guides"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:56.422758+00:00"
+created_at: "2026-10-01T17:56:38.067143+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -93304,7 +93310,7 @@ title: "Manage dark mode content dark-mode"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/edit-style/dark-mode"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:35.316588+00:00"
+created_at: "2026-10-01T18:01:30.282962+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -93620,7 +93626,7 @@ title: "Manage decision items section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/manage-decision-items/manage-decision-items-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:00.297962+00:00"
+created_at: "2026-10-01T18:00:55.190168+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -93661,7 +93667,7 @@ title: "Manage email open tracking"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/email-channel/email-tracking-manage"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:09:00.099408+00:00"
+created_at: "2026-10-01T18:08:25.431566+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -93748,7 +93754,7 @@ title: "Manage fragments manage-fragments"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/manage-fragments"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:38.631853+00:00"
+created_at: "2026-10-01T18:00:32.144708+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -93931,7 +93937,7 @@ title: "Manage opt-out consent"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/opt-out"
 category: "guides"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:18.113411+00:00"
+created_at: "2026-10-01T17:58:08.632066+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -94138,7 +94144,7 @@ title: "Manage tags in journeys journey_tags"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/tags"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:21.057475+00:00"
+created_at: "2026-10-01T17:52:47.776433+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -94279,7 +94285,7 @@ title: "Manage the default execution fields change-primary-email"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/primary-email-addresses"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:43.961799+00:00"
+created_at: "2026-10-01T17:56:24.239194+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -94380,7 +94386,7 @@ title: "Manage the suppression list manage-suppression-list"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/monitor-reputation/manage-suppression-list"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:23.402506+00:00"
+created_at: "2026-10-01T17:58:14.306293+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -94581,7 +94587,7 @@ title: "Manage the text version of an email text-version-email"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/text-version-email"
 category: "release-notes"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:59.181395+00:00"
+created_at: "2026-10-01T18:02:58.994550+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -94801,7 +94807,7 @@ title: "Manage users & roles manage-permissions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/permissions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:56.631924+00:00"
+created_at: "2026-10-01T17:54:28.706401+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -94943,7 +94949,7 @@ title: "Manage web modifications manage-web-modifications"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/web/author-web-pages/manage-web-modifications"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:03.426745+00:00"
+created_at: "2026-10-01T18:02:01.150620+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -95106,7 +95112,7 @@ title: "Manage your Adobe Experience Manager Content fragments aem-fragments"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem/aem-fragments-manage"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:18.388369+00:00"
+created_at: "2026-10-01T18:04:25.587027+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -95198,7 +95204,7 @@ title: "Manage your customers’ preferences preference-center"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/preference-center"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:04.501529+00:00"
+created_at: "2026-10-01T18:03:05.599552+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -95317,7 +95323,7 @@ title: "Manage your journeys section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/manage-journey-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:22.677601+00:00"
+created_at: "2026-10-01T17:52:49.688385+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -95381,7 +95387,7 @@ title: "Manage your reports channel-cja-manage"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:45.976280+00:00"
+created_at: "2026-10-01T18:00:40.199794+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -95536,7 +95542,7 @@ title: "Manually configure Customer Journey Analytics cja-ajo"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/cja-ajo"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:41.334008+00:00"
+created_at: "2026-10-01T17:59:36.226740+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -95601,7 +95607,7 @@ title: "Map identities"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-management/map-identities"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:07:19.204504+00:00"
+created_at: "2026-10-01T18:06:37.110954+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -95633,7 +95639,7 @@ title: "Maps Functions maps"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/maps"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:02.693535+00:00"
+created_at: "2026-10-01T18:04:08.816224+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -95716,7 +95722,7 @@ title: "Math functions math-functions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/main-functions-journey/math-functions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:34.644535+00:00"
+created_at: "2026-10-01T18:03:38.061157+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -95839,7 +95845,7 @@ title: "Math Functions math"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/math"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:50.126730+00:00"
+created_at: "2026-10-01T18:02:48.875360+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -96004,7 +96010,7 @@ title: "Measure Performance and Optimize"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/measure-and-optimize"
 category: "other"
 topic: "documentation/journey-optimizer/ajo-mobile-learning-hub"
-created_at: "2026-10-01T14:04:20.671747+00:00"
+created_at: "2026-10-01T18:03:22.183318+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > AJO Mobile Learning Hub
 
@@ -96065,7 +96071,7 @@ title: "Migrate an email subdomain from CNAME to custom delegation migrate-cname
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/delegate-subdomains/custom-subdomain-migration"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:54.448656+00:00"
+created_at: "2026-10-01T17:59:47.550802+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -96208,7 +96214,7 @@ title: "Migrate batch audiences from Audience Qualification journeys and Exit cr
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/aq-batch-audiences-migration"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:14.551351+00:00"
+created_at: "2026-10-01T17:54:48.525202+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -96317,7 +96323,7 @@ title: "Migrate content and journeys migrate-content-and-journeys"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/migrate-content-and-journeys"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:56.287603+00:00"
+created_at: "2026-10-01T18:01:53.192656+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -96471,7 +96477,7 @@ title: "Mobile onboarding quick start workflow mobile-wf"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/mobile-onboarding-wf"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:30.976819+00:00"
+created_at: "2026-10-01T18:02:27.413078+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -96595,7 +96601,7 @@ title: "Monitor and analyze your journey with Journey Reports"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:05:19.934149+00:00"
+created_at: "2026-10-01T18:04:27.167288+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -96628,7 +96634,7 @@ title: "Monitor and analyze your journey with live reports"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:02:54.643561+00:00"
+created_at: "2026-10-01T18:01:51.242777+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -96660,7 +96666,7 @@ title: "Monitor custom channels monitor-custom-channel"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/custom-channel/monitor-custom-channel"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:31.522651+00:00"
+created_at: "2026-10-01T18:01:26.379813+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -96871,7 +96877,7 @@ title: "Monitor data ingestion"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/monitoring/monitor-data-ingestion"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:27.330386+00:00"
+created_at: "2026-10-01T17:55:01.632654+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -96930,7 +96936,7 @@ title: "Monitor email addresses section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/monitor-reputation/monitor-reputation-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:42.224067+00:00"
+created_at: "2026-10-01T17:56:22.430481+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -96971,7 +96977,7 @@ title: "Monitor inbound data monitoring-edge"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/monitoring/monitoring"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:35.983748+00:00"
+created_at: "2026-10-01T17:55:10.398814+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -97098,7 +97104,7 @@ title: "Monitor your AI models ai-model-observability"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-rankings/experience-decisioning-ai-models/ai-model-observability"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:11.217010+00:00"
+created_at: "2026-10-01T18:02:08.341941+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -97226,7 +97232,7 @@ title: "Monitor your custom actions reporting"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:35.995917+00:00"
+created_at: "2026-10-01T17:59:30.994544+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -97363,7 +97369,7 @@ title: "Monitor your web experiences monitor-web-experiences"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/web/author-web-pages/monitor-web-experiences"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:20.860256+00:00"
+created_at: "2026-10-01T17:59:15.255153+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -97463,7 +97469,7 @@ title: "Multilingual content section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-multilingual/content-multilingual-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:42.233807+00:00"
+created_at: "2026-10-01T17:54:13.815592+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -97516,7 +97522,7 @@ title: "Navigate the interface user-interface"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/work-efficiently/user-interface"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:20.976681+00:00"
+created_at: "2026-10-01T17:53:52.651913+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -97775,7 +97781,7 @@ title: "Next best path node"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/next-best-path-node"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:34.324913+00:00"
+created_at: "2026-10-01T18:06:53.935673+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -97958,7 +97964,7 @@ title: "Notify users about product availability product-availability-uc"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/use-cases/product-availability-uc"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:11.539071+00:00"
+created_at: "2026-10-01T17:57:59.721176+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -98009,7 +98015,7 @@ title: "Object Functions objects"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/objects"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:03.482919+00:00"
+created_at: "2026-10-01T18:04:09.665887+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -98072,7 +98078,7 @@ title: "Object level access control object-level-access"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/object-based-access"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:00.634015+00:00"
+created_at: "2026-10-01T17:54:33.218393+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -98197,7 +98203,7 @@ title: "Offer library user interface user-interface"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/user-interface"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:19.096535+00:00"
+created_at: "2026-10-01T18:02:16.478176+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -98297,7 +98303,7 @@ title: "Operators operators"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/operators"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:05.162056+00:00"
+created_at: "2026-10-01T18:04:11.667053+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -98556,7 +98562,7 @@ title: "Operators operators"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/syntax/operators"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:31.599774+00:00"
+created_at: "2026-10-01T18:03:34.579504+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -99093,7 +99099,7 @@ title: "Opt-out management for Mobile messages sms-opt-out"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/mobile/mobile-opt-out"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:28.869568+00:00"
+created_at: "2026-10-01T17:59:22.614581+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -99224,7 +99230,7 @@ title: "Optimize email for AI inboxes email-text-optimizer"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/llm-email-optimizer"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:07:15.683766+00:00"
+created_at: "2026-10-01T18:06:33.122953+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -99365,7 +99371,7 @@ title: "Optimize Push Notifications with AJO Decisioning"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:06:56.522482+00:00"
+created_at: "2026-10-01T18:06:11.427552+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -99397,7 +99403,7 @@ title: "Orchestrate campaign activities orchestrate"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/launch/orchestrate-activities"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:50.356762+00:00"
+created_at: "2026-10-01T17:58:43.038668+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -99514,7 +99520,7 @@ title: "Orchestrated campaigns reporting report-campaigns"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/launch/reporting-campaigns"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:07.055617+00:00"
+created_at: "2026-10-01T17:57:50.795836+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -99567,7 +99573,7 @@ title: "Overview report channel-report-cja"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/channel-report"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:07:18.510466+00:00"
+created_at: "2026-10-01T18:06:36.329631+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -99711,7 +99717,7 @@ title: "Overview report channel-report-cja"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/channel-report-cja"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:55.731362+00:00"
+created_at: "2026-10-01T17:57:38.256483+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -99855,7 +99861,7 @@ title: "Paid media orchestration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/journey-nodes/paid-media-orchestration"
 category: "tutorials"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-tutorials"
-created_at: "2026-10-01T14:08:26.079843+00:00"
+created_at: "2026-10-01T18:07:52.171976+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Tutorials
 
@@ -99894,7 +99900,7 @@ title: "Pass collections into custom action parameters passing-collection"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/collections"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:12.712925+00:00"
+created_at: "2026-10-01T17:55:51.314129+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -100075,7 +100081,7 @@ title: "Pause a journey journey-pause"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-pause"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:44.858876+00:00"
+created_at: "2026-10-01T17:57:27.418552+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -100358,7 +100364,7 @@ title: "Perform data lifecycle operations data-hygiene"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/data-hygiene"
 category: "guides"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:55.498336+00:00"
+created_at: "2026-10-01T17:56:37.219479+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -100455,7 +100461,7 @@ title: "Permission levels high-low-permissions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/high-low-permissions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:58.753253+00:00"
+created_at: "2026-10-01T17:54:31.287944+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -100631,7 +100637,7 @@ title: "Person audience journey nodes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/person-audience-nodes"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:19.487042+00:00"
+created_at: "2026-10-01T18:07:44.569158+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -100683,7 +100689,7 @@ title: "Person details"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/sales-experience/person-details"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:51.804968+00:00"
+created_at: "2026-10-01T18:07:13.248374+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -100764,7 +100770,7 @@ title: "Persona mapping"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/persona-mapping"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:13.664104+00:00"
+created_at: "2026-10-01T18:05:25.237427+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -100873,7 +100879,7 @@ title: "Personalization editor - Overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/personalization-editor-overview"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:00:05.760901+00:00"
+created_at: "2026-10-01T17:58:59.439857+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -100904,7 +100910,7 @@ title: "Personalization recipes personalization-recipes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/personalization-use-cases/personalization-recipes"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:04.914705+00:00"
+created_at: "2026-10-01T17:58:58.708694+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -101279,7 +101285,7 @@ title: "Personalization section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/personalization-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:36.294643+00:00"
+created_at: "2026-10-01T17:54:07.932197+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -101342,7 +101348,7 @@ title: "Personalization syntax personalization-syntax"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/personalization/personalization-syntax"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:45.593505+00:00"
+created_at: "2026-10-01T18:08:11.249294+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -101442,7 +101448,7 @@ title: "Personalization syntax personalization-syntax"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/personalization-syntax"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:06.974419+00:00"
+created_at: "2026-10-01T17:54:39.996683+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -101775,7 +101781,7 @@ title: "Personalization use case: cart abandonment email personalization-use-cas
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/personalization-use-cases/personalization-use-case-helper-functions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:20.384230+00:00"
+created_at: "2026-10-01T17:55:59.912227+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -101947,7 +101953,7 @@ title: "Personalization use case: order status notification personalization-use-
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/personalization-use-cases/personalization-use-case"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:21.207087+00:00"
+created_at: "2026-10-01T17:56:00.837929+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -102068,7 +102074,7 @@ title: "Personalization use cases section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/personalization-use-cases/personalization-use-cases-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:25.720709+00:00"
+created_at: "2026-10-01T18:00:18.533186+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -102115,7 +102121,7 @@ title: "Personalize email configuration settings surface-personalization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/configure-email/surface-personalization"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:58.837463+00:00"
+created_at: "2026-10-01T18:01:56.396757+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -102302,7 +102308,7 @@ title: "Personalize offers with ranking formulas based on user zip code and inco
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction"
 category: "other"
 topic: "documentation/journey-optimizer/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income"
-created_at: "2026-10-01T13:58:47.201949+00:00"
+created_at: "2026-10-01T17:57:29.777074+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income
 
@@ -102347,7 +102353,7 @@ title: "Personalize URLs in emails url-personalization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/url-personalization"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:57.946272+00:00"
+created_at: "2026-10-01T18:01:55.499644+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -102557,7 +102563,7 @@ title: "Personalize your email background backgrounds"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/edit-style/backgrounds"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:45.729433+00:00"
+created_at: "2026-10-01T18:02:43.795288+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -102697,7 +102703,7 @@ title: "Personalized offers dataset offers-dataset"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/export-catalog/export-offers"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:48.848893+00:00"
+created_at: "2026-10-01T18:04:57.311517+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -102928,7 +102934,7 @@ title: "Personalized optimization model personalized-optimization-model"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/rankings/ai-models/personalized-optimization-model"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:51.037642+00:00"
+created_at: "2026-10-01T18:02:49.942514+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -103099,7 +103105,7 @@ title: "Personalized optimization model personalized-optimization-model"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-rankings/experience-decisioning-ai-models/personalized-optimization-model"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:48.847877+00:00"
+created_at: "2026-10-01T18:01:45.304676+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -103268,7 +103274,7 @@ title: "Placements dataset placements-dataset"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/export-catalog/export-placements"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:50.962301+00:00"
+created_at: "2026-10-01T18:04:59.250772+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -103397,7 +103403,7 @@ title: "Prerequisites and configuration inapp-configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/configure-inapp/inapp-configuration"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:28.271158+00:00"
+created_at: "2026-10-01T17:58:19.179046+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -103540,7 +103546,7 @@ title: "Prerequisites and guardrails web-prerequisites"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/web/configure-web-channel/web-prerequisites"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:27.349651+00:00"
+created_at: "2026-10-01T17:58:18.190663+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -103720,7 +103726,7 @@ title: "Preview and test your email content preview-simulate"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/emails/preview/email-simulate-content"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:56.055044+00:00"
+created_at: "2026-10-01T18:07:18.055882+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -103788,7 +103794,7 @@ title: "Preview & test content section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/preview-test/preview-test-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:56.407602+00:00"
+created_at: "2026-10-01T17:53:26.457670+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -103908,7 +103914,7 @@ title: "Preview & test your content preview-test"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/preview-test/preview-test"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:05.416786+00:00"
+created_at: "2026-10-01T17:53:37.022495+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -103974,7 +103980,7 @@ title: "Preview, validate, and send your LINE message send-line"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/line/send-line"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:15.969193+00:00"
+created_at: "2026-10-01T18:00:08.974141+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -104108,7 +104114,7 @@ title: "Preview your content using test profiles preview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/preview-test/preview"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:19.210391+00:00"
+created_at: "2026-10-01T17:55:58.861232+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -104149,7 +104155,7 @@ title: "Privacy management privacy-management"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/privacy-management"
 category: "guides"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:59.222639+00:00"
+created_at: "2026-10-01T18:08:24.471126+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -104311,7 +104317,7 @@ title: "Privacy requests track-changes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/action-privacy-restricted"
 category: "guides"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:08:33.220025+00:00"
+created_at: "2026-10-01T18:07:58.394002+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -104628,7 +104634,7 @@ title: "Privacy requests track-changes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/requests"
 category: "guides"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:53.919083+00:00"
+created_at: "2026-10-01T17:56:35.452635+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -104945,7 +104951,7 @@ title: "Privacy section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page"
 category: "guides"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:55.002333+00:00"
+created_at: "2026-10-01T17:52:19.595826+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -105008,7 +105014,7 @@ title: "Profile entrance management entry-management"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/entry-management"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:59.901155+00:00"
+created_at: "2026-10-01T17:52:24.768353+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -105210,7 +105216,7 @@ title: "Profiles section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/profiles/profiles-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:43.797175+00:00"
+created_at: "2026-10-01T17:54:15.669156+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -105251,7 +105257,7 @@ title: "Publish your journey publishing-the-journey"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/publish-journey"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:09.114160+00:00"
+created_at: "2026-10-01T17:52:34.978335+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -105470,7 +105476,7 @@ title: "Push notification campaign report campaign-global-report-cja-push"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/campaign-reporting/campaign-global-report-cja-push"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:23.993822+00:00"
+created_at: "2026-10-01T17:59:18.251726+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -105584,7 +105590,7 @@ title: "Push notification channel section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:27.048719+00:00"
+created_at: "2026-10-01T17:53:58.620697+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -105644,7 +105650,7 @@ title: "Push notification data flow and components get-started-push"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:25.941788+00:00"
+created_at: "2026-10-01T18:01:20.600379+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -105766,7 +105772,7 @@ title: "Push notification journey report journey-global-report"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/journey-reporting/journey-global-report-cja-push"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:24.929773+00:00"
+created_at: "2026-10-01T17:59:19.012255+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -105857,7 +105863,7 @@ title: "Push notifications- Overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/push-notifications-overview"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:06:54.950691+00:00"
+created_at: "2026-10-01T18:06:09.051396+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -105888,7 +105894,7 @@ title: "Push notifications - overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/mobile-channels-overview/push-notifications-overview"
 category: "other"
 topic: "documentation/journey-optimizer/ajo-mobile-learning-hub"
-created_at: "2026-10-01T14:04:12.632379+00:00"
+created_at: "2026-10-01T18:03:14.417057+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > AJO Mobile Learning Hub
 
@@ -105979,7 +105985,7 @@ title: "Query examples query-examples"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/datasets/datasets-query-examples"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:41.468906+00:00"
+created_at: "2026-10-01T17:57:24.852006+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -106568,7 +106574,7 @@ title: "Question guidance for AI Assistant in Journey Optimizer B2B Edition"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/question-guidance"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:15.941921+00:00"
+created_at: "2026-10-01T18:07:40.135449+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -106706,7 +106712,7 @@ title: "Ranking formulas create-ranking-formulas"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/rankings/create-ranking-formulas"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:35.390693+00:00"
+created_at: "2026-10-01T18:04:43.816059+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -106864,7 +106870,7 @@ title: "Ranking methods rankings"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-rankings/ranking"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:27.402796+00:00"
+created_at: "2026-10-01T18:04:35.537237+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -106916,7 +106922,7 @@ title: "Reaction events reaction-events"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/reaction-events"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:13.086496+00:00"
+created_at: "2026-10-01T17:56:55.614808+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -107022,7 +107028,7 @@ title: "Read audience read-audience"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/read-audience"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:39.843244+00:00"
+created_at: "2026-10-01T18:01:35.296909+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -107087,7 +107093,7 @@ title: "Reconciliation reconciliation"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/reconciliation"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:40.576896+00:00"
+created_at: "2026-10-01T18:03:44.299758+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -107141,7 +107147,7 @@ title: "Release notes release-notes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes"
 category: "release-notes"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:47.666595+00:00"
+created_at: "2026-10-01T17:52:11.619549+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -107458,10 +107464,13 @@ Information below is subject to change.
 
 ### Campaigns sep-26-campaigns
 
+The following improvement is coming to campaigns in this release.
+
+- Folders for Action Campaigns - You can now organize your Action Campaigns into folders to improve navigation and management in the interface. Learn more Availability date: September 30, 2026
+
 Coming soon —
 Information below is subject to change.
-- Folders for Action Campaigns - You can now organize your Action Campaigns into folders to improve navigation and management in the interface.
-- Override the default execution fields in Action Campaigns - Previously available at the journey level, you can now override the default execution fields configured globally for your Email, SMS, and WhatsApp deliveries in the Action Campaign parameters.
+- **Override the default execution fields in Action Campaigns** - Previously available at the journey level, you can now override the default execution fields configured globally for your Email, SMS, and WhatsApp deliveries in the Action Campaign parameters.
 
 ### Decisioning sep-26-decisioning
 
@@ -107587,7 +107596,7 @@ title: "Report and monitor"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/report-and-monitor"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:01:51.171677+00:00"
+created_at: "2026-10-01T18:00:46.234085+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -107671,7 +107680,7 @@ title: "Report on Decisioning decisioning-report"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:39.441730+00:00"
+created_at: "2026-10-01T17:59:34.582071+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -107727,7 +107736,7 @@ title: "Reporting & experimentation prerequisites reporting-configuration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/reporting-configuration"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:13.572924+00:00"
+created_at: "2026-10-01T17:59:07.682042+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -107812,7 +107821,7 @@ title: "Reporting section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reporting-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:41.995133+00:00"
+created_at: "2026-10-01T17:52:05.157181+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -107859,7 +107868,7 @@ title: "Request approval request-approval"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/approve/request-approval"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:01.301191+00:00"
+created_at: "2026-10-01T17:58:54.659983+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -107958,7 +107967,7 @@ title: "Retries retries"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/monitor-reputation/retries"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:28.681349+00:00"
+created_at: "2026-10-01T18:02:25.378692+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -108034,7 +108043,7 @@ title: "Reusable content fragments section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/fragments-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:38.981332+00:00"
+created_at: "2026-10-01T17:54:10.463878+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -108087,7 +108096,7 @@ title: "Review & activate the API triggered campaign api-review"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/api-triggered-campaigns/review-activate-api-triggered-campaign"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:43.263318+00:00"
+created_at: "2026-10-01T17:53:12.039782+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -108135,7 +108144,7 @@ title: "Review and activate the Action campaign action-campaign-review"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/review-activate-campaign"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:42.432183+00:00"
+created_at: "2026-10-01T17:53:11.082931+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -108179,7 +108188,7 @@ title: "Review & approve a request approve-requests"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/approve/review-approve-request"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:02.055469+00:00"
+created_at: "2026-10-01T17:58:55.466436+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -108279,7 +108288,7 @@ title: "Review the spam report"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/emails/preview/email-spam-report"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:51.042312+00:00"
+created_at: "2026-10-01T18:07:12.343572+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -108316,7 +108325,7 @@ title: "Reward definition guide reward-definition-guide"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/configure-integrate-loyalty/reward-definition-guide"
 category: "guides"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:20.889539+00:00"
+created_at: "2026-10-01T18:01:15.950730+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -108633,7 +108642,7 @@ title: "Role Insights dashboard"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-group-role-insights"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:43.516304+00:00"
+created_at: "2026-10-01T18:07:03.256422+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -108744,7 +108753,7 @@ title: "Role templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/role-templates"
 category: "tutorials"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-tutorials"
-created_at: "2026-10-01T14:08:28.787405+00:00"
+created_at: "2026-10-01T18:07:54.851731+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Tutorials
 
@@ -108778,7 +108787,7 @@ title: "Roles and responsibilities"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/by-role/quick-start"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:29.360895+00:00"
+created_at: "2026-10-01T17:56:09.184809+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -109066,7 +109075,7 @@ title: "Sample Vendor configurations vendor-integration"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/vendors/vendor-integration"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:52.078771+00:00"
+created_at: "2026-10-01T17:59:45.411107+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -110969,7 +110978,7 @@ title: "Save audience save-audience"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/save-audience"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:37.156539+00:00"
+created_at: "2026-10-01T18:01:32.235433+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -111028,7 +111037,7 @@ title: "Save content as fragment save-as-fragment"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/save-fragments"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:18.002507+00:00"
+created_at: "2026-10-01T17:59:12.344494+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -111093,7 +111102,7 @@ title: "Scaling orchestration to omnichannel engagement in Adobe Journey Optimiz
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction"
 category: "other"
 topic: "documentation/journey-optimizer/scaling-orchestration-to-omnichannel-engagement"
-created_at: "2026-10-01T13:58:48.032214+00:00"
+created_at: "2026-10-01T17:57:30.573936+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > scaling-orchestration-to-omnichannel-engagement
 
@@ -111129,7 +111138,7 @@ title: "Schedule the Action campaign action-campaign-schedule"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/campaign-schedule"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:45.093487+00:00"
+created_at: "2026-10-01T17:53:14.038504+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -111231,7 +111240,7 @@ title: "Schedule the API triggered campaign api-schedule"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/api-triggered-campaigns/api-triggered-campaign-schedule"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:42.224044+00:00"
+created_at: "2026-10-01T17:58:34.221075+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -111290,13 +111299,13 @@ title: "Search, filter, organize search-filter-organize"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/work-efficiently/search-filter-categorize"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:32.704818+00:00"
+created_at: "2026-10-01T17:56:12.188300+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
 # Search, filter, organize search-filter-organize
 
-Last update: September 13, 2026
+Last update: October 1, 2026
 - Topics:
 - [Search, filter and organize](#)
 - [Administration](#)
@@ -111311,7 +111320,7 @@ ai-section-version: 1 | source-hash: f8e69ac4
 
 style
 shade-box
-As your Adobe Journey Optimizer projects grow, finding and organizing content becomes essential for efficient work. This page shows you how to quickly locate journeys, campaigns, and assets using universal search; filter lists to focus on specific items; and organize your work with tags and categories. These tools help you navigate large volumes of content, maintain consistency across teams, and streamline your daily workflows.
+As your Adobe Journey Optimizer projects grow, finding and organizing content becomes essential for efficient work. This page shows you how to quickly locate journeys, campaigns, and assets using universal search; filter lists to focus on specific items; and organize your work with tags, folders, and categories. These tools help you navigate large volumes of content, maintain consistency across teams, and streamline your daily workflows.
 
 ## Search unified-search
 
@@ -111327,11 +111336,36 @@ In most of the lists, use the search bar to find specific items, and define filt
 
 Filters can be accessed by clicking on the filter icon on the top left of a list. The filter menu allows you to filter the displayed elements according to different criteria: you can choose to display only elements of a certain type or status, the ones you created, or the ones modified in the last 30 days. Options differ depending on the context.
 
-Additionally, you can use Unified tags to filter a list depending on the tags assigned to an object. For now, tags are available for journeys and campaigns. [Learn how to work with tags](#tags)
+Additionally, you can use Unified tags to filter a list depending on the tags assigned to an object. For now, tags are available for journeys and campaigns. You can also [organize journeys and campaigns with folders](#organize-folders).
 
 NOTE
 Note that columns displayed can be personalized using the configuration button on the top right of the lists. Personalization is saved for each user.
 In the lists, you can perform basic actions on each element. For example, you can duplicate or delete an item.
+
+## Organize journeys and campaigns with folders organize-folders
+
+Folders complement tags and list filters by grouping journeys and campaigns in the interface.
+
+AVAILABILITY
+Folders for journeys and campaigns are in limited availability. For current release status, see the
+Journey Optimizer release cycle
+.
+For campaigns, folders are available for Action and API-triggered campaigns only (not for Orchestrated campaigns).
+### Access and manage folders
+
+To access folders, access the campaigns or journeys inventory and select the **Show folders** icon. For journeys, you can also access folders from the **Folders view** tab.
+
+When a folder is selected, the list is filtered to that folder. To return to the full inventory list, select **All journeys** or **All campaigns**
+
+To create a new folder, access the folders view and select **Create folder**. To rename, delete, or move a folder, click the button next to a folder and choose the desired operation.
+
+### Move journeys and campaigns to a folder
+
+To move a journey or campaign to a folder:
+
+- Access the journey or campaign inventory and click the button next to a journey or campaign name.
+- Select Move to folder .
+- Choose an existing folder or create a new folder to move the object into it.
 
 ## Bulk actions bulk-actions
 
@@ -111387,7 +111421,7 @@ Each object list displays a dedicated column so you can easily visualize your ta
 
 A filter is also available to only display objects with certain tags.
 
-You can add or remove tags from any type of journey or campaign (live, draft, etc). To do this, click the **More actions** icon next to the object, and select **Edit tags**.
+You can add or remove tags from any type of journey or campaign (live, draft, etc). To do this, click the button next to the object, and select **Edit tags**.
 
 ### Manage tags manage-tags
 
@@ -111456,7 +111490,7 @@ title: "Select Experience Events and fields"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/configure-aep-events"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:04.044574+00:00"
+created_at: "2026-10-01T18:07:27.165418+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -111869,7 +111903,7 @@ title: "Select test profiles select-test-profiles"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/preview-test/test-profiles"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:00.566177+00:00"
+created_at: "2026-10-01T17:53:31.420673+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -111915,7 +111949,7 @@ title: "Send a message to the subscribers of a list send-a-message-to-the-subscr
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/message-to-subscribers-uc"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:13.546388+00:00"
+created_at: "2026-10-01T17:52:39.969290+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -112006,7 +112040,7 @@ title: "Send a message with Campaign v7/v8 campaign-v7-v8-use-case"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/ajo-ac"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:43.895080+00:00"
+created_at: "2026-10-01T17:57:26.535377+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -112136,7 +112170,7 @@ title: "Send emails only on weekdays send-emails-only-on-weekdays"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/weekday-email-uc"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:15.425210+00:00"
+created_at: "2026-10-01T17:52:41.938268+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -112355,7 +112389,7 @@ title: "Send proofs using test profiles data send-proofs"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/preview-test/proofs"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:08.160774+00:00"
+created_at: "2026-10-01T17:53:39.856016+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -112420,7 +112454,7 @@ title: "Send-Time Optimization send-time-optimization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/delivery-settings/send-time-optimization"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:12.678844+00:00"
+created_at: "2026-10-01T17:52:39.111010+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -112611,7 +112645,7 @@ title: "Send using waves send-using-waves"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/delivery-settings/send-using-waves"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:36.814954+00:00"
+created_at: "2026-10-01T17:53:05.668767+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -112829,7 +112863,7 @@ title: "Send wishlist item updates wishist-uc"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/use-cases/wishlist-uc"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:12.498920+00:00"
+created_at: "2026-10-01T17:58:00.710202+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -112898,7 +112932,7 @@ title: "Send with Adobe solutions section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/adobe-solutions/adobe-solutions-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:50.353564+00:00"
+created_at: "2026-10-01T17:56:31.154075+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -112939,7 +112973,7 @@ title: "Set message & journey capping rules section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/capping-rules-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:49.836789+00:00"
+created_at: "2026-10-01T17:53:19.261987+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -112994,7 +113028,7 @@ title: "Set quiet hours quiet-hours"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/quiet-hours"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:46.814246+00:00"
+created_at: "2026-10-01T17:53:15.676210+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -113158,7 +113192,7 @@ title: "Set up a custom channel create-custom-channel"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/custom-channel/configure-custom-channel/create-custom-channel"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:41.944934+00:00"
+created_at: "2026-10-01T18:01:37.135067+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -113349,7 +113383,7 @@ title: "Set up a custom subdomain delegate-custom-subdomain"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/delegate-subdomains/delegate-custom-subdomain"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:25.471765+00:00"
+created_at: "2026-10-01T17:53:56.976253+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -113442,7 +113476,7 @@ title: "Set up a manual relational schema manual-schema"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/data-configuration/schemas-datasets/manual-schema"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:36.967046+00:00"
+created_at: "2026-10-01T18:02:33.758486+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -113560,7 +113594,7 @@ title: "Set up a translation provider multilingual-provider"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-multilingual/multilingual-provider"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:05.369433+00:00"
+created_at: "2026-10-01T17:54:38.078618+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -113629,7 +113663,7 @@ title: "Set up an allowed list allow-list"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/monitor-reputation/allow-list"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:29.812151+00:00"
+created_at: "2026-10-01T18:02:26.343585+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -113796,7 +113830,7 @@ title: "Set up channel configurations set-up-channel-surfaces"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/channel-surfaces"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:34.777649+00:00"
+created_at: "2026-10-01T17:53:03.454334+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -113984,7 +114018,7 @@ title: "Set up data manually"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/set-up-data-structure-and-ingest-data/manual-data-set-up"
 category: "other"
 topic: "documentation/journey-optimizer/tutorial-configure-a-training-sandbox"
-created_at: "2026-10-01T14:06:02.261423+00:00"
+created_at: "2026-10-01T18:05:12.141475+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Tutorial - Configure a training sandbox
 
@@ -114185,7 +114219,7 @@ title: "Set up data - Overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-management/set-up-data-overview"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:02:14.565501+00:00"
+created_at: "2026-10-01T18:01:09.239503+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -114219,7 +114253,7 @@ title: "Set up Live Updates for Android"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/live-activities/android-live-updates"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:06:46.537216+00:00"
+created_at: "2026-10-01T18:06:00.827477+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -114252,7 +114286,7 @@ title: "Set up & manage customer managed keys cmk"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/cmk"
 category: "guides"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:45.952346+00:00"
+created_at: "2026-10-01T17:52:09.488046+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -114345,7 +114379,7 @@ title: "Set up RCS in Journey Optimizer"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:06:50.345344+00:00"
+created_at: "2026-10-01T18:06:04.982665+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -114379,7 +114413,7 @@ title: "Set up the WhatsApp channel"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:06:47.264941+00:00"
+created_at: "2026-10-01T18:06:01.762648+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -114418,7 +114452,7 @@ title: "Set your journey properties jo-properties"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-properties"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:11.888106+00:00"
+created_at: "2026-10-01T17:54:45.552942+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -114869,7 +114903,7 @@ title: "Setup checklist"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/setup-ultimate"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:16.392652+00:00"
+created_at: "2026-10-01T18:05:27.495144+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -115081,7 +115115,7 @@ title: "Setup for email tracking and delivery"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/email-protocols"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:09.722782+00:00"
+created_at: "2026-10-01T18:07:32.910028+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -115367,7 +115401,7 @@ title: "Simulate content variations custom-profiles"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/preview-test/simulate-sample-input"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:01.486917+00:00"
+created_at: "2026-10-01T17:53:32.374448+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -115565,7 +115599,7 @@ title: "Simulate content variations simulate-content-variations"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/preview-test/simulate-content-variations"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:11.640751+00:00"
+created_at: "2026-10-01T17:59:05.347087+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -115721,7 +115755,7 @@ title: "Simulate your journey simulate-journey"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/validate-journey/simulate-journey/simulate-journey"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:12.138568+00:00"
+created_at: "2026-10-01T17:56:54.688029+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -115920,7 +115954,7 @@ title: "SMS authoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/sms-authoring"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:30.590829+00:00"
+created_at: "2026-10-01T18:05:43.650648+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -116022,7 +116056,7 @@ title: "SMS campaign report campaign-global-report-cja-sms"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/campaign-reporting/campaign-global-report-cja-sms"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:30.039206+00:00"
+created_at: "2026-10-01T17:59:23.843392+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -116145,7 +116179,7 @@ title: "SMS channel configurations"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-sms"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:19.670147+00:00"
+created_at: "2026-10-01T18:05:31.221830+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -116218,7 +116252,7 @@ title: "SMS journey report sms"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/journey-reporting/journey-global-report-cja-sms"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:30.743113+00:00"
+created_at: "2026-10-01T17:59:24.819554+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -116340,7 +116374,7 @@ title: "SMS/MMS messages - Overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-mms-messages-overview"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:06:59.733609+00:00"
+created_at: "2026-10-01T18:06:15.102444+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -116371,7 +116405,7 @@ title: "SMS/MMS/RCS - Overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/mobile-channels-overview/sms-mms-rcs-overview"
 category: "other"
 topic: "documentation/journey-optimizer/ajo-mobile-learning-hub"
-created_at: "2026-10-01T14:01:07.554115+00:00"
+created_at: "2026-10-01T18:00:00.489061+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > AJO Mobile Learning Hub
 
@@ -116476,7 +116510,7 @@ title: "Solution interests"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/solution-interests"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:24.824820+00:00"
+created_at: "2026-10-01T18:05:36.538503+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -116549,7 +116583,7 @@ title: "Split and merge paths split-paths"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:33.448029+00:00"
+created_at: "2026-10-01T18:06:52.937923+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -116815,7 +116849,7 @@ title: "Split split"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/split"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:51.885124+00:00"
+created_at: "2026-10-01T18:02:50.948635+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -116868,7 +116902,7 @@ title: "Start and monitor your Orchestrated campaigns start-monitor"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/launch/start-monitor-campaigns"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:25.640884+00:00"
+created_at: "2026-10-01T17:55:00.103975+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -117066,7 +117100,7 @@ title: "Start creating content section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/start-creating-content/start-creating-content-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:09.754805+00:00"
+created_at: "2026-10-01T18:04:16.382770+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -117119,7 +117153,7 @@ title: "Start from your goal ajo-use-case-guide"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/ajo-use-case-guide"
 category: "guides"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:30.420750+00:00"
+created_at: "2026-10-01T17:56:10.463974+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -117639,7 +117673,7 @@ title: "Step event field list sharing-field-list"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/reports/sharing-field-list"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:36.912512+00:00"
+created_at: "2026-10-01T17:58:28.827552+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -117785,7 +117819,7 @@ title: "String functions string-functions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/main-functions-journey/string-functions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:35.751584+00:00"
+created_at: "2026-10-01T18:03:39.613413+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -118443,7 +118477,7 @@ title: "String Functions string"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/string"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:22.001003+00:00"
+created_at: "2026-10-01T18:02:19.607456+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -119469,7 +119503,7 @@ title: "Structure components structure-components"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/content-design/structure-components"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:49.744680+00:00"
+created_at: "2026-10-01T18:08:15.478724+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -119747,7 +119781,7 @@ title: "Subdomain delegation in Journey Optimizer subdomain-delegation"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/delegate-subdomains/about-subdomain-delegation"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:52.080923+00:00"
+created_at: "2026-10-01T17:57:34.349688+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -119870,7 +119904,7 @@ title: "Subscription lists create-subscription-list"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/landing-pages/subscription-list"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:47.674225+00:00"
+created_at: "2026-10-01T17:59:42.590210+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -119957,7 +119991,7 @@ title: "Subscription live report subscription-report-live"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/live-report/subscription-report-live"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:47.871754+00:00"
+created_at: "2026-10-01T18:00:42.154488+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -120003,7 +120037,7 @@ title: "Subscription report subscription-report-global-cja"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/subscription-report-global-cja"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:48.623059+00:00"
+created_at: "2026-10-01T18:00:43.577743+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -120084,7 +120118,7 @@ title: "Support for archiving archiving-support"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/archiving-support"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:43.168909+00:00"
+created_at: "2026-10-01T17:56:23.436812+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -120301,7 +120335,7 @@ title: "Supported functions in the personalization editor personalization-editor
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/managing-offers-in-the-offer-library/configure-offers/personalization-editor-supported-functions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:58.349017+00:00"
+created_at: "2026-10-01T18:02:57.919427+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -120521,7 +120555,7 @@ title: "Suppression list suppression-list"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/deliverability/suppression-list"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:16.189220+00:00"
+created_at: "2026-10-01T17:59:10.455139+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -120630,7 +120664,7 @@ title: "Syntax section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/syntax/syntax-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:58.303777+00:00"
+created_at: "2026-10-01T17:57:40.877088+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -120693,7 +120727,7 @@ title: "Take an action"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/action-nodes"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:24.209479+00:00"
+created_at: "2026-10-01T18:06:42.109306+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -121041,7 +121075,7 @@ title: "Template content governance"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/templates/template-content-governance"
 category: "guides"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:05.807327+00:00"
+created_at: "2026-10-01T18:07:29.069690+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -121097,7 +121131,7 @@ title: "Test code-based experiences test-code-based"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/test-code-based"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:20.853260+00:00"
+created_at: "2026-10-01T18:02:18.371328+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -121175,7 +121209,7 @@ title: "Test email content templates test-template"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-templates/test-content-templates"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:35.156488+00:00"
+created_at: "2026-10-01T18:00:28.403603+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -121219,7 +121253,7 @@ title: "Test email rendering email-rendering"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/preview-test/rendering"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:02.287005+00:00"
+created_at: "2026-10-01T17:53:33.264112+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -121265,7 +121299,7 @@ title: "Test email rendering with Litmus"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/emails/preview/email-test-rendering"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:56.851567+00:00"
+created_at: "2026-10-01T18:07:18.971899+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -121309,7 +121343,7 @@ title: "Test profiles test-profiles"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/audiences/test-profiles"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:58.348881+00:00"
+created_at: "2026-10-01T18:08:23.555916+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -121399,7 +121433,7 @@ title: "Test test"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/test"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:38.081760+00:00"
+created_at: "2026-10-01T18:01:33.540062+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -121448,7 +121482,7 @@ title: "Test, validate & approve section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/test-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:37.069875+00:00"
+created_at: "2026-10-01T17:51:59.822287+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -121779,7 +121813,7 @@ title: "Test your custom channel test-custom-channel"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/custom-channel/create-custom-channel-experiences/test-custom-channel"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:57.831231+00:00"
+created_at: "2026-10-01T18:05:07.314131+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -121948,7 +121982,7 @@ title: "Test your journey testing_the_journey"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/validate-journey/testing-the-journey"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:07.580118+00:00"
+created_at: "2026-10-01T17:52:32.785823+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -122240,7 +122274,7 @@ title: "Time zone management timezone_management"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/timezone-management"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:19.155666+00:00"
+created_at: "2026-10-01T17:52:45.491330+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -122351,7 +122385,7 @@ title: "Track, monitor and troubleshoot section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/troubleshoot-journey-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:37.916676+00:00"
+created_at: "2026-10-01T17:52:00.615696+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -122492,7 +122526,7 @@ title: "Trigger journey on form submission"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction"
 category: "other"
 topic: "documentation/journey-optimizer/trigger-journey-on-form-submission"
-created_at: "2026-10-01T14:03:37.657966+00:00"
+created_at: "2026-10-01T18:02:34.641072+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > trigger-journey-on-form-submission
 
@@ -122540,7 +122574,7 @@ title: "Trigger Orchestrated campaigns using a signal trigger-signal"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/orchestrated-advanced/trigger-orchestrated-campaign"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:49.522417+00:00"
+created_at: "2026-10-01T17:58:42.173633+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -122663,7 +122697,7 @@ title: "Troubleshoot errors before testing your journey troubleshooting"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/troubleshooting/troubleshoot-journey/troubleshooting"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:09.895670+00:00"
+created_at: "2026-10-01T17:53:41.660696+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -122771,7 +122805,7 @@ title: "Troubleshoot inbound actions in journeys troubleshooting-inbound-actions
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/troubleshooting/troubleshoot-journey/troubleshooting-inbound"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:30.592576+00:00"
+created_at: "2026-10-01T17:52:58.229243+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -122987,7 +123021,7 @@ title: "Troubleshoot Live activities troubleshoot-mobile-live"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/troubleshoot-mobile-live"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:19.530283+00:00"
+created_at: "2026-10-01T17:53:50.542647+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -124006,7 +124040,7 @@ title: "Troubleshoot your custom actions troubleshoot-a-custom-action"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/troubleshooting/troubleshoot-journey/troubleshoot-custom-action"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:10.835327+00:00"
+created_at: "2026-10-01T17:53:42.552550+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -124170,7 +124204,7 @@ title: "Troubleshoot your live journey execution troubleshooting-execution"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/troubleshooting/troubleshoot-journey/troubleshooting-execution"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:29.653099+00:00"
+created_at: "2026-10-01T17:52:57.218791+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -124443,7 +124477,7 @@ title: "Troubleshooting FAQ ajo-troubleshooting"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/troubleshooting/troubleshooting"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:33.980677+00:00"
+created_at: "2026-10-01T17:56:13.898180+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -124881,7 +124915,7 @@ title: "Understand statistical calculations experiment-calculations"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations"
 category: "release-notes"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:07.819597+00:00"
+created_at: "2026-10-01T17:59:01.571296+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -124966,7 +125000,7 @@ title: "Understand statistical calculations in Experimentation report experiment
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-report-calculations"
 category: "release-notes"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:09.569996+00:00"
+created_at: "2026-10-01T17:59:03.435179+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -125091,7 +125125,7 @@ title: "Understanding Journey Optimizer understanding-ajo"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/quick-start/quick-start"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:50.274091+00:00"
+created_at: "2026-10-01T18:03:55.858316+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -125258,7 +125292,7 @@ title: "Understanding Journey Optimizer understanding-ajo"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/understanding-ajo"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:23.009157+00:00"
+created_at: "2026-10-01T17:56:02.740386+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -125425,7 +125459,7 @@ title: "Update Profile update-profile"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/update-profiles"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:14.228128+00:00"
+created_at: "2026-10-01T17:58:03.390825+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -125555,7 +125589,7 @@ title: "URL tracking url-tracking"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/configure-email/url-tracking"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:37.758968+00:00"
+created_at: "2026-10-01T17:58:29.680830+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -125674,7 +125708,7 @@ title: "Use a custom dataset for inbound keywords custom-dataset-inbound-keyword
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/mobile/configure-mobile/custom-dataset-inbound-keywords"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:12.400554+00:00"
+created_at: "2026-10-01T18:04:19.319081+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -125805,7 +125839,7 @@ title: "Use account lists in journeys"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/account-lists/account-lists-journeys"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:59.547879+00:00"
+created_at: "2026-10-01T18:07:22.178028+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -125869,7 +125903,7 @@ title: "Use Adobe Experience Platform data aep-data"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/data-management/lookup-aep-data"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:54.391888+00:00"
+created_at: "2026-10-01T17:54:25.869162+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -126062,7 +126096,7 @@ title: "Use Adobe Experience Platform data for Decisioning aep-data"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/aep-data/aep-data-exd"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:16.277809+00:00"
+created_at: "2026-10-01T18:01:11.270721+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -126180,7 +126214,7 @@ title: "Use Adobe Experience Platform data for personalization aep-data"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/aep-data-perso"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:02.907440+00:00"
+created_at: "2026-10-01T17:58:56.523504+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -126272,7 +126306,7 @@ title: "Use Adobe Experience Platform data in journeys datalookup"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/dataset-lookup"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:08.972883+00:00"
+created_at: "2026-10-01T17:55:46.944653+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -126447,7 +126481,7 @@ title: "Use Adobe Experience Platform data section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/aep-data/aep-data-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:02.639788+00:00"
+created_at: "2026-10-01T18:00:57.889147+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -126482,7 +126516,7 @@ title: "Use AI models to rank journeys journey-ai-models"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/journey-arbitration/journey-ai-models"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:54.645926+00:00"
+created_at: "2026-10-01T17:53:23.943419+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -126616,7 +126650,7 @@ title: "Use alerts"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:05:23.136756+00:00"
+created_at: "2026-10-01T18:04:30.791547+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -126653,7 +126687,7 @@ title: "Use an audience in a journey segment-trigger-activity"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/read-audience"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:16.213075+00:00"
+created_at: "2026-10-01T17:54:49.712963+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -127049,7 +127083,7 @@ title: "Use and assign sandboxes sandboxes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/sandbox/sandboxes"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:51.208960+00:00"
+created_at: "2026-10-01T17:56:32.348352+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -127165,7 +127199,7 @@ title: "Use and configure deep links in emails and SMS deeplinks"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/deeplinks"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:15.400110+00:00"
+created_at: "2026-10-01T18:02:12.687497+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -127411,7 +127445,7 @@ title: "Use and manage saved expressions in the personalization library"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:07:07.755480+00:00"
+created_at: "2026-10-01T18:06:25.073270+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -127443,7 +127477,7 @@ title: "Use API call responses in custom actions custom-action-enhancements"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/action-response"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:07.963820+00:00"
+created_at: "2026-10-01T17:55:45.931323+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -127659,7 +127693,7 @@ title: "Use audiences enrichment attributes enrichment"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/audiences/enrichment-attributes"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:15.358306+00:00"
+created_at: "2026-10-01T17:59:09.530886+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -127783,7 +127817,7 @@ title: "Use brand themes for email content email-brand-themes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/brand-themes"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:12.754070+00:00"
+created_at: "2026-10-01T18:05:24.226524+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -127996,7 +128030,7 @@ title: "Use brands for content generation and consistency brands"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/brands/brands-overview"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:37.370967+00:00"
+created_at: "2026-10-01T18:06:57.045476+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -128062,7 +128096,7 @@ title: "Use Case: Business Event"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/use-case-business-event"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:04:21.524419+00:00"
+created_at: "2026-10-01T18:03:23.389603+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -128093,7 +128127,7 @@ title: "Use case: Configure personalized offers to use them in an email configur
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/offers-e2e"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:23.107034+00:00"
+created_at: "2026-10-01T18:02:20.530250+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -128212,7 +128246,7 @@ title: "Use case description"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction"
 category: "other"
 topic: "documentation/journey-optimizer/personalize-offers-with-real-time-weather-data-using-web-sdk"
-created_at: "2026-10-01T13:58:45.788215+00:00"
+created_at: "2026-10-01T17:57:28.184105+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Personalize Offers with Real-Time Weather Data Using Web SDK
 
@@ -128256,7 +128290,7 @@ title: "Use case: limit throughput with external data sources & custom actions l
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/limit-throughput"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:21.950129+00:00"
+created_at: "2026-10-01T17:52:48.716432+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -128379,7 +128413,7 @@ title: "Use Case Playbook - Abandoned shopping cart"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T13:58:09.430009+00:00"
+created_at: "2026-10-01T17:56:51.504223+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -128413,7 +128447,7 @@ title: "Use case: ramp up your deliveries use-case-ramp-up-your-deliveries"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/ramp-up-deliveries-uc"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:14.525149+00:00"
+created_at: "2026-10-01T17:52:40.783662+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -128503,7 +128537,7 @@ title: "Use cases section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/journey-use-cases-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:16.882031+00:00"
+created_at: "2026-10-01T17:52:43.814644+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -128568,7 +128602,7 @@ title: "Use content templates use-content-templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-templates/use-content-templates"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:35.939550+00:00"
+created_at: "2026-10-01T18:00:29.357509+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -128619,7 +128653,7 @@ title: "Use contextual event information for personalization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:04:11.043813+00:00"
+created_at: "2026-10-01T18:03:12.597076+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -128651,7 +128685,7 @@ title: "Use custom actions to write journey events in Experience Platform custom
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/custom-action-aep"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:57.419620+00:00"
+created_at: "2026-10-01T17:57:40.111345+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -128818,7 +128852,7 @@ title: "Use custom actions use-custom-actions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/using-custom-actions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:37.261109+00:00"
+created_at: "2026-10-01T17:57:20.534207+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -128943,7 +128977,7 @@ title: "Use decision policies in messages create-decision"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/decision-policies/use-decision-policy"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:31.442783+00:00"
+created_at: "2026-10-01T17:55:05.635821+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -129107,7 +129141,7 @@ title: "Use decisioning in a code-based experience with content experiment exper
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:06.912214+00:00"
+created_at: "2026-10-01T17:59:00.540312+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -129218,7 +129252,7 @@ title: "Use Decisioning to personalize web offers"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction"
 category: "other"
 topic: "documentation/journey-optimizer/use-decisioning-to-personalize-web-offers"
-created_at: "2026-10-01T14:02:53.925766+00:00"
+created_at: "2026-10-01T18:01:50.167698+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > use-decisioning-to-personalize-web-offers
 
@@ -129268,7 +129302,7 @@ title: "Use dynamic fragments dynamic-fragments"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/dynamic-fragments"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:19.974070+00:00"
+created_at: "2026-10-01T18:02:17.343365+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -129476,7 +129510,7 @@ title: "Use editable form fields in code-based experiences code-based-form-field
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:25.748290+00:00"
+created_at: "2026-10-01T18:03:28.208308+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -129653,7 +129687,7 @@ title: "Use email templates email-templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/start-creating-content/use-email-templates"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:36.296271+00:00"
+created_at: "2026-10-01T18:01:31.379881+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -129747,7 +129781,7 @@ title: "Use experimentation experimentation"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/message-optimization/optimization-experimentation"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:58.527648+00:00"
+created_at: "2026-10-01T17:58:51.738181+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -129804,7 +129838,7 @@ title: "Use External integrations for personalization integrations-personalizati
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/integrations-personalization"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:07.781369+00:00"
+created_at: "2026-10-01T18:04:14.383471+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -129975,7 +130009,7 @@ title: "Use forms in your landing pages lp-forms"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/landing-pages/lp-forms"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:27.869699+00:00"
+created_at: "2026-10-01T18:00:20.606173+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -130181,7 +130215,7 @@ title: "Use formulas to rank journeys journey-ranking-formulas"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/journey-arbitration/journey-ranking-formulas"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:53.631342+00:00"
+created_at: "2026-10-01T17:53:23.001249+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -130372,7 +130406,7 @@ title: "Use helper functions for personalization"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:04:11.812948+00:00"
+created_at: "2026-10-01T18:03:13.388873+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -130405,7 +130439,7 @@ title: "Use modules in the Email Designer email-layout-modules"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/email-modules"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:48.832042+00:00"
+created_at: "2026-10-01T18:03:53.554299+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -130522,7 +130556,7 @@ title: "Use path experimentation experimentation"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/optimize-activity/path-experimentation"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:53.990712+00:00"
+created_at: "2026-10-01T17:57:36.298147+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -130698,7 +130732,7 @@ title: "Use sandboxes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/access-control/create-and-manage-sandboxes"
 category: "tutorials"
 topic: "documentation/journey-optimizer/journey-optimizer-tutorials"
-created_at: "2026-10-01T14:05:59.748114+00:00"
+created_at: "2026-10-01T18:05:09.188774+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Tutorials
 
@@ -130729,7 +130763,7 @@ title: "Use seed lists seed-lists"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/seed-lists"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:59.743673+00:00"
+created_at: "2026-10-01T17:53:30.481325+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -130834,7 +130868,7 @@ title: "Use supplemental identifiers in journeys supplemental-id"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:09.951821+00:00"
+created_at: "2026-10-01T17:55:48.146086+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -131084,7 +131118,7 @@ title: "Use targeting targeting"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/message-optimization/optimization-targeting"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:59:56.623522+00:00"
+created_at: "2026-10-01T17:58:49.993322+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -131146,7 +131180,7 @@ title: "Use the Action activity add-a-message-in-a-journey"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/journey-action"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:00.875345+00:00"
+created_at: "2026-10-01T17:52:25.829441+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -131370,7 +131404,7 @@ title: "Use the chat interface"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/use-ai-assistant"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:16.737506+00:00"
+created_at: "2026-10-01T18:07:41.773962+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -131490,7 +131524,7 @@ title: "Use the Email Designer content components content-components"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/email/design-email/add-content/content-components"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:23.565830+00:00"
+created_at: "2026-10-01T17:54:58.261063+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -131639,7 +131673,7 @@ title: "Use the web non-visual editor web-non-visual-editor"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/web/author-web-pages/web-non-visual-editor"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:23.099032+00:00"
+created_at: "2026-10-01T18:03:25.230768+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -131737,7 +131771,7 @@ title: "Use variables in Orchestrated campaigns variables-oc"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/orchestrated-advanced/variables-orchestrated-campaigns"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:00.424124+00:00"
+created_at: "2026-10-01T18:04:06.256412+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -131793,7 +131827,7 @@ title: "User access and permissions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/user-management"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:23.730872+00:00"
+created_at: "2026-10-01T18:07:49.526537+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -132060,7 +132094,7 @@ title: "User access and permissions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/user-management"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:22.966346+00:00"
+created_at: "2026-10-01T18:06:40.920490+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -132327,7 +132361,7 @@ title: "User onboarding guidance"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/get-started"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:17.161673+00:00"
+created_at: "2026-10-01T18:05:28.325622+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -132372,7 +132406,7 @@ title: "Validate URLs in your content url-validation"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/preview-test/url-validation"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:03.591802+00:00"
+created_at: "2026-10-01T17:54:35.856006+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -132529,7 +132563,7 @@ title: "Variant split paths"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/variant-split-paths-nodes"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:26.324663+00:00"
+created_at: "2026-10-01T18:06:44.485985+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -132724,7 +132758,7 @@ title: "Wait activity wait-activity"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/wait-activity"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:26.677596+00:00"
+created_at: "2026-10-01T17:57:09.539375+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -132905,7 +132939,7 @@ title: "Wait nodes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/wait-nodes"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:25.169710+00:00"
+created_at: "2026-10-01T18:06:43.477738+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -133009,7 +133043,7 @@ title: "Wait wait"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/design-campaigns/wait"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:43.115765+00:00"
+created_at: "2026-10-01T18:03:46.796268+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -133062,7 +133096,7 @@ title: "Web campaign report campaign-global-report-cja-web"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/campaign-reporting/campaign-global-report-cja-web"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:22.125339+00:00"
+created_at: "2026-10-01T17:59:16.062606+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -133153,7 +133187,7 @@ title: "Web channel configurations"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-web"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:12.645218+00:00"
+created_at: "2026-10-01T18:07:36.261893+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -133228,7 +133262,7 @@ title: "Web channel section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/web/web-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:33.792213+00:00"
+created_at: "2026-10-01T17:54:05.445712+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -133275,7 +133309,7 @@ title: "Web engagement dashboard"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/dashboards/web-engagement-dashboard"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:07:42.613900+00:00"
+created_at: "2026-10-01T18:07:02.305833+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -133364,7 +133398,7 @@ title: "Web experience design"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/web-channel/web-experience-design"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:53.898489+00:00"
+created_at: "2026-10-01T18:08:18.871439+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -133603,7 +133637,7 @@ title: "Web experiences"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/web-channel/web-experiences"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:13.458954+00:00"
+created_at: "2026-10-01T18:07:37.173690+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -133738,7 +133772,7 @@ title: "Web journey report journey-global-report"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/reporting/channel-report/journey-reporting/journey-global-report-cja-web"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:23.005774+00:00"
+created_at: "2026-10-01T17:59:17.279982+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -133831,7 +133865,7 @@ title: "WhatsApp authoring"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journey-content/whatsapp-authoring"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:39.232346+00:00"
+created_at: "2026-10-01T18:08:04.089309+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -133940,7 +133974,7 @@ title: "WhatsApp channel setup"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/admin/channels/configure-channels-whatsapp"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:09.315413+00:00"
+created_at: "2026-10-01T18:05:20.239737+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -134085,7 +134119,7 @@ title: "Whatsapp - Overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/mobile-channels-overview/whatsapp-overview"
 category: "other"
 topic: "documentation/journey-optimizer/ajo-mobile-learning-hub"
-created_at: "2026-10-01T14:04:13.627637+00:00"
+created_at: "2026-10-01T18:03:15.322218+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > AJO Mobile Learning Hub
 
@@ -134172,7 +134206,7 @@ title: "WhatsApp section-overview"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/whatsapp-landing-page"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:30.844734+00:00"
+created_at: "2026-10-01T17:54:02.444247+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -134219,7 +134253,7 @@ title: "Work with Action campaigns gs-action-campaigns"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/create-campaign"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:31.358365+00:00"
+created_at: "2026-10-01T17:52:59.295298+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -134279,7 +134313,7 @@ title: "Work with Adobe Analytics data analytics-data"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/events-journeys/about-analytics"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:17.279209+00:00"
+created_at: "2026-10-01T18:02:14.598655+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -134422,7 +134456,7 @@ title: "Work with Adobe Experience Manager Content Fragments aem-fragments"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem/aem-fragments"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:42.339581+00:00"
+created_at: "2026-10-01T18:00:35.684947+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -134637,7 +134671,7 @@ title: "Work with Adobe Stock images stock"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/stock"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:01:40.340193+00:00"
+created_at: "2026-10-01T18:00:33.902602+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -134763,7 +134797,7 @@ title: "Work with AI ai-features"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:53:49.461276+00:00"
+created_at: "2026-10-01T17:52:13.730984+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -135140,7 +135174,7 @@ title: "Work with API triggered campaigns trigger-campaigns"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/api-triggered-campaigns/api-triggered-campaigns"
 category: "reference"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:32.154790+00:00"
+created_at: "2026-10-01T17:53:00.245792+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -135203,7 +135237,7 @@ title: "Work with Browsing integrations Browsing"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:36.819430+00:00"
+created_at: "2026-10-01T17:55:11.845377+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -135273,7 +135307,7 @@ title: "Work with computed attributes computed-attributes"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/audiences-profiles-identities/profiles/computed-attributes"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:15.574485+00:00"
+created_at: "2026-10-01T17:55:54.731317+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -135394,7 +135428,7 @@ title: "Work with conditional rules conditions"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/dynamic/create-conditions"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:17.416546+00:00"
+created_at: "2026-10-01T17:55:56.879739+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -135523,7 +135557,7 @@ title: "Work with consent policies consent-management"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent"
 category: "guides"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:01.507168+00:00"
+created_at: "2026-10-01T17:54:34.038515+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -135697,7 +135731,7 @@ title: "Work with dynamic media aem-dynamic"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem-dynamic"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:21.864625+00:00"
+created_at: "2026-10-01T17:54:56.280814+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -135908,7 +135942,7 @@ title: "Work with Experience Manager assets"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/assets/aem-assets"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:22.006064+00:00"
+created_at: "2026-10-01T18:07:47.635376+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -135982,7 +136016,7 @@ title: "Work with GenStudio for performance marketing ajo-genstudio"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/genstudio"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:57.429876+00:00"
+created_at: "2026-10-01T17:55:35.107396+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -136191,7 +136225,7 @@ title: "Work with Integrations external-sources"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/integrations"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:00:48.609480+00:00"
+created_at: "2026-10-01T17:59:43.411557+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -136315,7 +136349,7 @@ title: "Work with internal image assets"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/content-management/assets/internal-dam/internal-image-assets"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:08:06.620376+00:00"
+created_at: "2026-10-01T18:07:29.968687+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 
@@ -136510,7 +136544,7 @@ title: "Work with journey entry and exit criteria entry-exit-criteria-guide"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journey-use-cases/entry-exit-criteria-guide"
 category: "guides"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:16.244349+00:00"
+created_at: "2026-10-01T17:56:58.912580+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -136768,7 +136802,7 @@ title: "Work with journey events about-events"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/events-journeys/about-events"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:05.048123+00:00"
+created_at: "2026-10-01T17:55:42.566794+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -137091,7 +137125,7 @@ title: "Work with Journey Optimizer APIs apis-gs"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/ajo-apis"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:48.812703+00:00"
+created_at: "2026-10-01T17:56:29.576610+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -137194,7 +137228,7 @@ title: "Work with journey step events work-with-journey-step-events"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/journey-step-events-overview"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:55:16.513833+00:00"
+created_at: "2026-10-01T17:53:47.856948+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -137433,7 +137467,7 @@ title: "Work with landing page templates work-with-templates"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/landing-pages/landing-pages-design/lp-templates"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:05:16.969185+00:00"
+created_at: "2026-10-01T18:04:24.615443+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -137486,7 +137520,7 @@ title: "Work with MCP clients ajo-mcp"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/ajo-mcp"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:56:43.080633+00:00"
+created_at: "2026-10-01T17:55:18.463813+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -137715,7 +137749,7 @@ title: "Work with placements create-decision"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/placements"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:01.889141+00:00"
+created_at: "2026-10-01T18:00:56.831187+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -137770,7 +137804,7 @@ title: "Work with predefined filters predefined-filters"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/query-database/predefined-filters"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:42.735675+00:00"
+created_at: "2026-10-01T18:01:37.990530+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -137842,7 +137876,7 @@ title: "Work with rule sets rule-sets"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/rule-sets"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:54:52.713891+00:00"
+created_at: "2026-10-01T17:53:21.998064+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -137994,7 +138028,7 @@ title: "Work with Standard integrations external-sources"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:02:57.378756+00:00"
+created_at: "2026-10-01T18:01:54.531307+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -138098,7 +138132,7 @@ title: "Work with the advanced expression editor about-the-advanced-expression-e
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/expressionadvanced"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:57:11.814878+00:00"
+created_at: "2026-10-01T17:55:50.359267+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -138234,7 +138268,7 @@ title: "Work with the Capping API work"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/external-systems/capping"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:36.468523+00:00"
+created_at: "2026-10-01T17:57:19.645888+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -138455,7 +138489,7 @@ title: "Work with the rule builder orchestrated-rule-builder"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/orchestrated-campaigns/query-database/orchestrated-rule-builder"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:04:46.328831+00:00"
+created_at: "2026-10-01T18:03:50.457013+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -138521,7 +138555,7 @@ title: "Work with the Throttling API"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/external-systems/throttling"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T13:58:35.484835+00:00"
+created_at: "2026-10-01T17:57:18.475659+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -138919,7 +138953,7 @@ title: "Work with the web designer work-with-web-designer"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/web/author-web-pages/web-visual-editor"
 category: "other"
 topic: "documentation/journey-optimizer/journey-optimizer-guide"
-created_at: "2026-10-01T14:03:02.479114+00:00"
+created_at: "2026-10-01T18:02:00.179182+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer > Journey Optimizer Guide
 
@@ -139085,7 +139119,7 @@ title: "XDM field management"
 url: "https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/xdm-field-management"
 category: "other"
 topic: "documentation/journey-optimizer-b2b/journey-optimizer-b2b-edition-documentation"
-created_at: "2026-10-01T14:06:18.088080+00:00"
+created_at: "2026-10-01T18:05:29.298857+00:00"
 ---
 Breadcrumbs: Documentation > Journey Optimizer B2B > Journey Optimizer B2B Edition Documentation
 

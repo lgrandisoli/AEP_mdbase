@@ -62423,7 +62423,7 @@ Workfront Guide
 
 Configure AI Collaborators
 
-Last update: September 25, 2026
+Last update: October 1, 2026
 
 Topics:
 
@@ -62433,7 +62433,15 @@ CREATED FOR:
 
 Admin
 
-AI Collaborators are a way to onboard AI agents into your projects and tasks. You can configure an AI Collaborator, then assign it as you would a user.
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
+
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
+AI Collaborators are a way to onboard AI agents into your projects, tasks, and issues. You can configure an AI Collaborator, then assign it as you would a user.
 
 For example, you can configure a reviewer-type AI Collaborator with brand guidelines, then assign that collaborator to review a document.
 
@@ -62447,7 +62455,7 @@ Get started with the Workfront AI Reviewer
 
 .
 
-Work Agent: Create a collaborator using Copilot or Writer, then assign the collaborator to a task to complete task-level work.
+Work Agent: Create a collaborator using a standard AI platform like Claude, OpenAI, Copilot, or Writer, then assign the collaborator to a task or issue to complete work items.
 
 For more information, see
 
@@ -62473,6 +62481,8 @@ Access level configurations
 
 System Administrator
 
+or Group Administrator
+
 For information, see
 
 Access requirements in Workfront documentation
@@ -62480,6 +62490,10 @@ Access requirements in Workfront documentation
 .
 
 Prerequisites
+
+For AI Reviewers
+
+For Work Agents
 
 For AI Reviewers:
 
@@ -62509,7 +62523,11 @@ Get started with unified review and approval
 
 For Work Agents
 
-You must configure an agent in Claude, Copilot Studio, or Writer before you can use it as a Work Agent.
+You must configure an agent in Claude, Copilot Studio, Writer, OpenAI, or IBM before you can use it as a Work Agent.
+
+NOTE
+
+We aim to connect with any agent provider, so if the provider you are using is not currently compatible with Work Agents, please reach out to your account team for assistance.
 
 Create a new AI Reviewer
 
@@ -62571,17 +62589,21 @@ Save
 
 Configure a Work Agent
 
-Work Agents are agents that you can assign to tasks in Workfront. You configure the Work Agent with a name, access level, and other details, and assign it to a task as you would assign a user.
+Work Agents are agents that you can assign to tasks or issues in Workfront. You configure the Work Agent with a name, access level, and other details, and assign it to a task as you would assign a user.
 
-Because Work Agents are agents, their actions and abilities are configured where you configure your agents. Currently, agents used as Work Agents can be created in Copilot Studio, Claude, or Writer.
+Because Work Agents are agents, their actions and abilities are configured where you configure your agents. Currently, agents used as Work Agents can be created in Copilot Studio, Claude, or Writer, OpenAI, and IBM.
 
-Work Agents can be assigned only to tasks, and cannot currently be assigned to issues.
+Work Agents can be assigned to tasks or issues.
 
 For a list of best practices when creating an agent to work as a Work Agent, see
 
 Best practices for creating an agent for a Work Agent
 
 .
+
+Configure a Work Agent in Workfront
+
+Best practices for creating an agent for a Work Agent
 
 Configure a Work Agent in Workfront
 
@@ -62625,6 +62647,14 @@ In the AI Collaborator description field, enter a description of the collaborato
 
 In the Access Level field, select an access level for this collaborator. This access level controls what the collaborator can do, in the same way an access level controls what a user can do.
 
+(Optional) In the Groups field, select the groups that the Work Agent will be associated with.
+
+note
+
+NOTE
+
+If you are a group administrator, this field displays only groups that you are an administrator for. Group administrators must select at least one group.
+
 In the
 
 Choose agent’s origin
@@ -62633,7 +62663,7 @@ area, select whether you want to connect an agent created in an common platform 
 
 (Conditional) If you are using an agent from a common platform, enter authentication details for the agent’s platform:
 
-table 0-row-2 1-row-2 2-row-2 3-row-2
+table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2
 
 Platform
 
@@ -62651,11 +62681,25 @@ Agent ID
 
 Environment ID
 
-Writer
+Writer Agent
 
 API key
 
 Application ID
+
+OpenAI Agents
+
+API key
+
+Agent ID
+
+IBM watsonx Orchestrate
+
+Service URL
+
+API Key
+
+Agent ID
 
 Click
 
@@ -62668,6 +62712,14 @@ In the
 After the Collaborator is finished with its work, it can
 
 area, toggle on the actions that you want the collaborator to take.
+
+Send notification: The Agent makes a comment in the update stream, tagging the user that requested the work, assigned the Agent, or that owns the project.
+
+Upload a document
+
+Mark task complete
+
+Write task fields: Select the forms and fields that the Agent can write to.
 
 Click
 
@@ -62803,9 +62855,17 @@ to verify.
 
 Assign the Work Agent to a Workfront task. The Work Agent begins work when all of the task’s predecessor tasks are complete.
 
+style
+
+highlighted
+
 Manage AI Collaborators
 
 You can edit, copy, and delete existing AI Collaborators.
+
+NOTE
+
+Group administrators can view and interact with only AI Collaborators associated with groups that they are administrators for. If other groups are also associated with a given AI Collaborator, a group administrator can view but not edit it.
 
 Click the
 
@@ -63759,7 +63819,7 @@ Workfront Guide
 
 Configure custom localization
 
-Last update: September 25, 2026
+Last update: October 1, 2026
 
 Topics:
 
@@ -63769,9 +63829,15 @@ CREATED FOR:
 
 Admin
 
-Custom localization allows you to define custom terms and phrases in different languages. Workfront then displays these terms in the language set in the user’s Adobe Identity Management (IMS) settings.
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview Sandbox environment.
 
-For example, you can set the label “Target Audience” to translate to the German word “Zielgruppe.” Any user with German selected as their browser’s main language sees the word “Zielgruppe” as a label for any fields labeled “Target Audience” in English.
+Custom localization allows you to
+
+use AI
+
+to define custom terms and phrases in different languages. Workfront then displays these terms in the language set in the user’s Adobe Identity Management (IMS) settings.
+
+For example, label “Target Audience” can be localized to the German word “Zielgruppe.” Any user with German selected as their browser’s main language sees the word “Zielgruppe” as a label for any fields labeled “Target Audience” in English.
 
 You can configure translations to multiple languages. Currently available languages include:
 
@@ -63875,9 +63941,171 @@ column, enter the English term that should be translated.
 
 In the column for the language that you want the term to be translated, enter the term in the target language.
 
-To translate the word into additional languages, add the translation into the appropriate language column.
+(Optional) To translate the word into additional languages, add the translation into the appropriate language column.
 
-To reorder language columns, click the header of a column you want to move and drag it to the desired location.
+(Optional) To reorder language columns, click the header of a column you want to move and drag it to the desired location.
+
+(Optional) To delete translations for a term, click the checkbox next to the term, then click
+
+Delete
+
+in the blue bar at the bottom of the page.
+
+Localize untranslated custom text using AI translations
+
+You can use AI to localize custom text. You select the term and the languages, and can approve the translations before they are applied.
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-right corner of Adobe Workfront, or (if available), click the
+
+Main Menu
+
+icon
+
+in the upper-left corner, then click
+
+Setup
+
+.
+
+In the Setup area, click
+
+Localization
+
+in the left navigation panel.
+
+In the Localization area, select the
+
+Untranslated custom text
+
+tab.
+
+A list of untranslated custom text appears. This includes text such as field labels and custom rule messages.
+
+Select one or more terms that you want to localize.
+
+In the blue bar at the bottom of the screen, select
+
+Translate with AI
+
+.
+
+The Generate translations window opens.
+
+Click the languages that you want to translate the term or terms into. To quickly select all languages, click
+
+Select all
+
+.
+
+(Optional) To provide more specific guidance for the translation, enter instructions into the “Instructions for AI” field.
+
+Click
+
+Generate
+
+.
+
+AI begins to generate translations.
+
+The Review translations window opens.
+
+(Optional) To adjust translations, or to add your own translation, click into the appropriate square of the table, and type the desired translation.
+
+Click
+
+Save
+
+.
+
+Translate a localized term into additional languages
+
+You can translate a previously localized term into new languages using AI, or provide your own translation.
+
+Click the
+
+Main Menu
+
+icon
+
+in the upper-right corner of Adobe Workfront, or (if available), click the
+
+Main Menu
+
+icon
+
+in the upper-left corner, then click
+
+Setup
+
+.
+
+In the Setup area, click
+
+Localization
+
+in the left navigation panel.
+
+In the Localization area, select the
+
+Translations
+
+tab.
+
+A list of previously translated terms and their translations displays.
+
+(Optional) To edit or directly enter a translation, click on the appropriate box in the table and type in the desired translation.
+
+Select the terms that you want to generate additional translations for by clicking the checkboxes next to those terms.
+
+In the blue bar at the bottom of the page, click
+
+Fill in with AI
+
+.
+
+The Generate translations window opens.
+
+Click the languages that you want to translate the term or terms into. To quickly select all languages, click
+
+Select all
+
+.
+
+(Optional) To provide more specific guidance for the translation, enter instructions into the “Instructions for AI” field.
+
+Click
+
+Generate
+
+.
+
+AI begins to generate translations.
+
+The Review translations window opens.
+
+(Optional) To adjust translations, or to add your own translation, click into the appropriate square of the table, and type the desired translation.
+
+Click
+
+Save
+
+.
+
+(Optional) To delete all translations for a term, click the checkbox next to the term, then click
+
+Delete
+
+in the blue bar at the bottom of the page.
+
+style
+
+highlighted
 
 recommendation-more-help
 
@@ -256167,11 +256395,13 @@ x
 
 icon in the search box to clear the search keyword.
 
-(Conditional) For number, currency, percentage, and formula fields that are formatted as any of these field types, expand the aggregator dropdown menu at the bottom of the columns, and select from the following options:
+(Conditional) Depending on the types of fields you are viewing, do one of the following;
+
+For number, currency, percentage, and formula fields that are formatted as any of these field types, expand the aggregator dropdown menu at the bottom of the columns, and select from the following options:
 
 SUM
 
-: Displays the total of all cells in the column. This is the default selection.
+: Displays the total of all cells in the column.
 
 MIN
 
@@ -256185,15 +256415,205 @@ AVG
 
 : Displays the average value of all the cells in the column.
 
+NONE
+
+: The values of the column are not aggregated. This is the default option.
+
+For date fields, expand the aggregator dropdown menu at the bottom of the columns, and select from the following options:
+
+NONE
+
+: The values of the column are not aggregated. This is the default option.
+
+EMPTY
+
+: Displays a count of the fields that have no values.
+
+NOT EMPTY
+
+: Displays a count of the fields that have values.
+
+MIN
+
+: Displays the earliest date.
+
+MAX
+
+: Displays the latest date.
+
+For text, select, boolean, People fields expand the aggregator dropdown menu at the bottom of the columns, and select from the following options:
+
+NONE
+
+: The values of the column are not aggregated. This is the default option.
+
+EMPTY
+
+: Displays a count of the fields that have no values.
+
+NOT EMPTY
+
+: Displays a count of the fields that have values.
+
 Consider the following when working with aggregators:
 
-The aggregator row in the column is frozen and is part of the view settings.
+The aggregator row in the column is frozen when it displays values, and is part of the view settings.
 
 As a View manager, you can choose the aggregator, and it will be shared with the view when you share the view with others.
 
 As a viewer, you can modify the aggregator, but it does not save with the view.
 
 Public shared views are shared with the saved aggregators which cannot be modified.
+
+The following field types do not have an aggregator:
+
+Created by
+
+Last modified by
+
+Record ID
+
+Formula fields and look up fields have the aggregators that correspond to their field format.
+
+Add rows (or records)
+
+add-rows-1
+
+The rows of a table view display individual records of the selected record type. Adding rows is identical to creating records.
+
+You can have up to 50,000 records (or rows) for a record type.
+
+Go to a record type page and select a table view, or click
+
++ View
+
+to add a new view, then choose
+
+Table
+
+.
+
+Start adding records (or rows), as described in the article
+
+Create records
+
+.
+
+The records you add in the table view are saved immediately and are visible to all users who have View or higher permissions to the workspace.
+
+A default thumbnail image
+
+and color
+
+are also added to the new record.
+
+note tip
+
+TIP
+
+When a record has unread comments, a
+
+New comment
+
+indicator displays in the upper-right corner of the record’s primary field.
+
+(Optional) Select one or multiple records or rows, then drag and drop the
+
+handle
+
+icon
+
+to the left of the record to reorder the rows.
+
+note
+
+NOTE
+
+You cannot reorder rows if you apply at least one sort or grouping to the table view.
+
+The changes you make to the row order are visible to all users who access the record type in the same view.
+
+In the drag and drop line, a number indicator displays the number of records selected, if more than one.
+
+(Optional) Click the
+
+More
+
+menu
+
+to the right of the record, then click
+
+Edit thumbnail
+
+to edit the thumbnail.
+
+Click
+
+Fields
+
+at the top of the table in the Production environment
+
+Or
+
+Hover over the primary field header
+
+, then select the toggle for the
+
+Thumbnail
+
+field to display it to the left of the primary field. It is deselected by default.
+
+For information, see
+
+Add a thumbnail to a record
+
+.
+
+Click
+
+Fields
+
+at the top of the table
+
+Or
+
+Hover over the primary field header, then select the toggle for the
+
+Color
+
+field to display it to the left of the primary field. It is deselected by default.
+
+(Optional and conditional) If you turned on the
+
+Color
+
+setting, click the color bar to the left of the record’s primary field and select a color from the
+
+Swatches
+
+or
+
+Custom
+
+tabs, then click outside the box to close it. The color is applied immediately.
+
+For more information, see
+
+Create records
+
+.
+
+style
+
+highlighted
+
+Add filters
+
+add-filters-1
+
+Filters help you reduce the amount of information displayed on the screen.
+
+Consider the following when working with filters in the table view:
 
 The filters you create for the table view work independently from the filters in the timeline view when applied to the same record type.
 
@@ -379495,7 +379915,7 @@ Workfront Guide
 
 Use Work Agents
 
-Last update: September 30, 2026
+Last update: October 1, 2026
 
 Topics:
 
@@ -379505,9 +379925,29 @@ CREATED FOR:
 
 User
 
-Work Agents are AI Collaborators that can be assigned directly to Workfront tasks, in addition to the existing AI Reviewer used for document and asset reviews. Like other AI Collaborators, Work Agents are configured in the Setup area and assigned to tasks just like a user.
+The highlighted information on this page refers to functionality not yet generally available. It is available only in the Preview environment for all customers. After the release to Preview, the same features are also available monthly in the Production environment for customers who enabled fast releases.
 
-Work Agents connect to agents that you have configured in Copilot Studio, Claude, or Writer.
+For information about fast releases, see
+
+Enable or disable fast releases for your organization
+
+.
+
+Work Agents are AI Collaborators that can be assigned directly to Workfront tasks and issues. Like other AI Collaborators, Work Agents are configured in the Setup area and assigned to tasks just like a user.
+
+Work Agents connect to agents that you have configured in Copilot Studio, Claude, Writer,
+
+OpenAI or IBM.
+
+IMPORTANT
+
+Writer is deprecating their use of agents. Work Agents configured using Writer agents will not work after October 9. 2026.
+
+For information on the deprecation, see
+
+Agent Library migration & deprecation
+
+in the Writer documentation.
 
 For information and instructions about creating a Work Agent in Workfront, see
 
@@ -379541,7 +379981,7 @@ Access requirements in Workfront documentation
 
 Prerequisites
 
-You must configure an agent in Copilot, Claude, or Writer.ai before you can use it as a Work Agent.
+You must configure an agent in Copilot, Claude, Writer.ai, OpenAI, or IBM before you can use it as a Work Agent in Workfront.
 
 Work Agent overview
 
@@ -379561,7 +380001,9 @@ Specific details about an agent’s responsibilities and abilities are configure
 
 The Workfront MCP server does not need to be added to the agent used as a Work Agent, and does not need to be connected for the Work Agent to work.
 
-Work Agents currently support agents created in Copilot Studio, Claude, and Writer.ai.
+Work Agents currently support agents created in Copilot Studio, Claude, and Writer.ai,
+
+OpenAI, and IBM.
 
 When configuring an agent in Copilot Studio, you must set security to
 
@@ -379587,6 +380029,8 @@ Comments in the task’s update stream
 
 Information in any custom form attached to the task
 
+Attached documents
+
 This information is always read and is not configurable as a Workfront setting.
 
 TIP
@@ -379599,7 +380043,11 @@ Making sure the task matches what your agent is instructed to do. For example, i
 
 Work Agent start triggers
 
-When a Work Agent is assigned to a task, it begins work when any of the following situations are met:
+When a Work Agent is assigned to a task
+
+or issue
+
+, it begins work when any of the following situations are met:
 
 The Work Agent is assigned to a task that is ready to start. (For example, if the task has predecessors, the predecessors are complete.)
 
@@ -379625,7 +380073,13 @@ A Work Agent is assigned to a task that is not ready to start. (For example, if 
 
 Assign a Work Agent to a task
 
-Work Agents are assigned to tasks the same way users are assigned.
+or issue
+
+Work Agents are assigned to tasks
+
+or issues
+
+the same way users are assigned.
 
 When you are searching for a Work Agent in the list of available assignees, the name of the Work Agent is a first name only.
 
@@ -382248,412 +382702,6 @@ If you need to adjust the asset based on the AI Reviewer’s feedback, you can u
 For more information, see
 
 Upload a new document version and request an approval
-
-.
-
-recommendation-more-help
-
-workfront-help-quicksilver
-
----
-# FILE: view-all-custom-forms-that-use-a-particular-custom-field-or-widget-adobe-workfront.md
----
-
-View All Custom Forms that Use a Particular Custom Field or Widget | Adobe Workfront
-
-Documentation
-
-Workfront
-
-Workfront Guide
-
-View all custom forms that use a particular custom field or widget
-
-Last update: September 25, 2026
-
-Topics:
-
-Administration
-
-System Setup and Administration
-
-CREATED FOR:
-
-Admin
-
-You can find out which custom forms are using a custom field or widget that you want to change or delete. It’s important to assess whether those custom forms will need adjustments to keep working properly or to continue to be useful after you change or delete the field or widget.
-
-For information about custom fields and widgets in custom forms, see
-
-Create a custom form
-
-.
-
-Access requirements
-
-Expand to view access requirements for the functionality in this article.
-
-table 0-row-2 1-row-2 2-row-2 layout-auto html-authored no-header
-
-Adobe Workfront package
-
-Any
-
-Adobe Workfront license
-
-Standard
-
-Plan
-
-Access level configurations
-
-Administrative access to custom forms
-
-For information, see
-
-Access requirements in Workfront documentation
-
-.
-
-Find out which custom forms use a particular custom field or widget
-
-To see a field’s usage in the list of all custom fields:
-
-Click the
-
-Main Menu
-
-icon
-
-in the upper-left corner of Adobe Workfront, then click
-
-Setup
-
-.
-
-In the left panel, click
-
-Custom Forms
-
-.
-
-Click
-
-Fields
-
-, look for the field or widget in the
-
-Name
-
-column, then view the
-
-Forms
-
-column to see which custom forms are using the field or widget.
-
-(Optional) Click the name of any of those custom forms to go to the form and consider what changes you might need to make there if you modify the field or widget.
-
-To see a field’s usage within a custom form:
-
-Click the
-
-Main Menu
-
-icon
-
-in the upper-left corner of Adobe Workfront, then click
-
-Setup
-
-.
-
-In the left panel, click
-
-Custom Forms
-
-.
-
-Open a custom form and add a field from the library, or select an existing field on the form.
-
-The usage indicator on the right of the form designer shows how many other custom forms use this field.
-
-Click
-
-View Related Forms
-
-.
-
-On the list of forms, you can click any form name to open the form and see how the field is used. An indicator shows whether each form is active or inactive.
-
-recommendation-more-help
-
-workfront-help-quicksilver
-
----
-# FILE: view-all-reports-that-use-a-particular-custom-field-or-widget-adobe-workfront.md
----
-
-View All Reports that Use a Particular Custom Field or Widget | Adobe Workfront
-
-Documentation
-
-Workfront
-
-Workfront Guide
-
-View all reports that use a particular custom field or widget
-
-Last update: September 25, 2026
-
-Topics:
-
-Administration
-
-System Setup and Administration
-
-CREATED FOR:
-
-Admin
-
-You can add a custom view in the Custom Forms area that shows which reports are using a particular custom field or widget. This is useful when you need to edit or delete the field or widget, because it might already be implemented in one or more reports. It’s important to assess whether those reports will need adjustments in order to keep working properly.
-
-For information about custom fields and widgets in custom forms, see
-
-Create a custom form
-
-.
-
-Access requirements
-
-Expand to view access requirements for the functionality in this article.
-
-table 0-row-2 1-row-2 2-row-2 layout-auto html-authored no-header
-
-Adobe Workfront package
-
-Any
-
-Adobe Workfront license
-
-Standard
-
-Plan
-
-Access level configurations
-
-Administrative access to custom forms
-
-For information, see
-
-Access requirements in Workfront documentation
-
-.
-
-List the reports that use a particular custom field or widget
-
-Click the
-
-Main Menu
-
-icon
-
-in the upper-left corner of Adobe Workfront, then click
-
-Setup
-
-.
-
-In the left panel, click
-
-Custom Forms
-
-.
-
-Click
-
-Fields
-
-to display a report listing all of the custom fields and widgets in your Workfront instance.
-
-Click the
-
-View
-
-menu, then check for any custom views in the list that include the
-
-Reports
-
-column (which is not a default column on this tab).
-
-The Reports column is where you can see which reports are using each custom field and widget that has been added to a custom form in your system. It’s possible that someone has already created a view that includes the
-
-Reports
-
-column.
-
-If you don’t see a view that includes the
-
-Reports
-
-column, create a new view that includes it:
-
-Click the
-
-View
-
-menu, then click
-
-New View
-
-.
-
-On the
-
-New View
-
-page that appears, in the box near the upper-left corner, replace
-
-New Parameter View
-
-with a descriptive name for the view, such as
-
-Fields and widgets
-
-.
-
-Click
-
-Add Column
-
-near the lower-right corner.
-
-In the
-
-Show in this column
-
-box that displays near the upper-left corner, start typing
-
-report
-
-, then select
-
-Reports
-
-when it appears in the list below the box.
-
-(Conditional) If you want to move the
-
-Reports
-
-column you just added to a different horizontal position, drag its header in the
-
-Column Preview
-
-area at the bottom of the page.
-
-Click
-
-Done
-
-, then click
-
-Save View
-
-.
-
-Click the
-
-View
-
-drop down menu, then select the name of the custom view you just created.
-
-In the
-
-Name
-
-column, find the custom field or widget you plan to edit or delete, then look at the
-
-Reports
-
-column on that row to see which reports use it, if any.
-
-To find the information for this column, Workfront searches for the custom fields and widgets in all report filters, views, groupings.
-
-If you see a plus sign, you can click that line of text to display a box listing all additional reports that use the field or widget.
-
-note
-
-NOTE
-
-The initial load time for this tool can take anywhere from 10 seconds to 2.5 minutes, depending on the amount of data in your system.
-
-note tip
-
-TIP
-
-If you don’t have time to investigate the reports that are using the custom field or widget, you can click Export to create a file that lists them. You could share this file with anyone who owns a report that’s using the field or widget and discuss the change that needs to happen, the impact it might have on the report, and what needs to be done to make sure that the report continue to work correctly.
-
-This view is also available in a Parameter report:
-
-In the Main Menu, click
-
-Reports
-
-.
-
-Near the upper-left corner, click
-
-New Report
-
-, then click
-
-Parameter
-
-in the list that displays.
-
-Click
-
-Add Column
-
-near the lower-right corner.
-
-In the
-
-Show in this column
-
-box that displays near the upper-left corner, start typing
-
-report
-
-, then select
-
-Reports
-
-when it appears in the list below the box.
-
-(Conditional) If you want to move the
-
-Reports
-
-column you just added to a different horizontal position, drag its header in the
-
-Column Preview
-
-area at the bottom of the page.
-
-Click
-
-Done
-
-, then click
-
-Save+Close
-
-.
-
-Type a descriptive name for the report, such as
-
-Fields and widgets
 
 .
 

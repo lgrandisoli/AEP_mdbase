@@ -6,13 +6,13 @@
 ---
 title: "Adobe Experience Platform Agent Orchestrator"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/agent-orchestrator"
-created_at: "2026-09-01T13:43:20.732294+00:00"
+created_at: "2026-10-01T14:24:09.014819+00:00"
 ---
 Breadcrumbs: Documentation > AI Documentation > AI in CX Enterprise
 
 # Adobe Experience Platform Agent Orchestrator
 
-Last update: July 21, 2026
+Last update: September 14, 2026
 CREATED FOR:
 
 - User
@@ -60,7 +60,17 @@ Experimentation Agent
 Experimentation Agent helps teams learn faster by analyzing experiment results, predicting impact, and proposing new experiments. It centralizes past and active experiments so you can build on what you’ve already learned, spot gaps, and prioritize what to test next.
 Adobe Journey Optimizer Experimentation Accelerator
 Journey Agent
-Journey Agent allows Adobe Journey Optimizer users to create, analyze, and optimize journeys using a natural language interface. With Journey Agent, you can quickly build journeys, detect and resolve schedule or audience conflicts, analyze performance and drop-off points, and identify top-performing journeys to replicate for future campaigns. It helps you make data-driven decisions, improve customer engagement, and streamline journey orchestration.
+Journey Agent lets Adobe Journey Optimizer users create, analyze, and optimize journeys using natural language, through four capabilities:
+Journey Create
+,
+Channel Content Create
+,
+Journey Analyze
+, and
+Journey Simulate
+. See the
+Journey Agent guide
+for details.
 Adobe Journey Optimizer
 Product Support Agent
 Product Support Agent is a self-serve debugging and troubleshooting capability that helps you troubleshoot Adobe Experience Platform features and applications without leaving your workflows. Support administrators can create customer support tickets with context from your AI Assistant interactions and you can check ticket updates through AI Assistant.
@@ -109,13 +119,13 @@ recommendation-more-help
 ---
 title: "Adobe Marketing Agent for Microsoft 365 Copilot"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms"
-created_at: "2026-09-01T13:43:27.639616+00:00"
+created_at: "2026-10-01T14:24:15.598306+00:00"
 ---
 Breadcrumbs: Documentation > AI Documentation > AI in CX Enterprise
 
 # Adobe Marketing Agent for Microsoft 365 Copilot
 
-Last update: July 21, 2026
+Last update: September 14, 2026
 CREATED FOR:
 
 - Admin
@@ -134,7 +144,11 @@ With the Adobe Marketing Agent for Microsoft 365 Copilot, marketing managers, an
 ## How the agent works
 
 IMPORTANT
-The Adobe Marketing Agent for Microsoft 365 Copilot currently supports Experience Platform Operational Insights, Customer Journey Analytics Data Insights, Audience Agent, and the Journey Agent.
+The Adobe Marketing Agent for Microsoft 365 Copilot currently supports Experience Platform Operational Insights, Customer Journey Analytics Data Insights,
+Audience Agent
+, and the
+Journey Agent
+.
 The Adobe Marketing Agent for Microsoft 365 Copilot provides an integrated experience between Experience Platform and Microsoft 365 applications:
 
 - Adobe Marketing Agent appears as an agent in Microsoft 365 Copilot, including in Teams, Word, Powerpoint, and Excel.
@@ -277,13 +291,13 @@ recommendation-more-help
 ---
 title: "AI Assistant Prompt Library"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/ai-assistant/prompt-library"
-created_at: "2026-09-01T13:43:29.485257+00:00"
+created_at: "2026-10-01T14:24:17.248768+00:00"
 ---
 Breadcrumbs: Documentation > AI Documentation > AI in CX Enterprise
 
 # AI Assistant Prompt Library
 
-Last update: July 13, 2026
+Last update: September 14, 2026
 CREATED FOR:
 
 - User
@@ -340,7 +354,9 @@ The following example prompts can be used with the Data Insights Agent to analyz
 
 ## Journey Agent
 
-The following example prompts can be used with the Journey Agent to help you analyze journey lifecycles, manage journey resources, gain insights into audience and journey relationships, and detect conflicts between journeys. Use these prompts to optimize your journey orchestration and resolve issues efficiently.
+The following example prompts can be used with the [Journey Agent](/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent) to help you analyze journey lifecycles, manage journey resources, gain insights into audience and journey relationships, and detect conflicts between journeys. Use these prompts to optimize your journey orchestration and resolve issues efficiently.
+
+For sample prompts covering journey creation, channel content generation, and fallout analysis, see the [Journey Create](/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), [Channel Content Create](/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#channel-content-create), and [Journey Analyze](/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-analyze) sections of the Journey Agent guide.
 
 ### Journey Lifecycle Questions
 
@@ -422,13 +438,13 @@ recommendation-more-help
 ---
 title: "Audience Agent"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/audience"
-created_at: "2026-09-01T13:43:21.590012+00:00"
+created_at: "2026-10-01T14:24:09.905546+00:00"
 ---
 Breadcrumbs: Documentation > AI Documentation > AI in CX Enterprise
 
 # Audience Agent
 
-Last update: July 21, 2026
+Last update: September 9, 2026
 CREATED FOR:
 
 - User
@@ -575,19 +591,91 @@ recommendation-more-help
 
 
 ---
+# FILE: cx-enterprise-coworker-overview-overview-bf707ef3.md
+---
+
+---
+title: "CX Enterprise Coworker overview overview"
+url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/mcp/rtcdp-mcp"
+created_at: "2026-10-01T14:24:16.505681+00:00"
+---
+Breadcrumbs: Documentation > AI Documentation > AI in CX Enterprise
+
+# CX Enterprise Coworker overview overview
+
+Last update: September 24, 2026
+- Topics:
+- [CX Enterprise Coworker](#)
+
+CREATED FOR:
+
+- Admin
+- User
+- Developer
+- Leader
+
+Coworker is an AI-powered teammate that reimagines the nature of work for organizations, teams, and individuals. Coworker elegantly automates customer experience and marketing workflows so organizations can focus on realizing their business goals and transforming outcomes, not coordinating tasks. As an agentic engine, Coworker takes a new innovative approach to automating business process. It elevates AI model performance and accuracy by bringing together data, intelligence, collaboration and agentic skills execution with enterprise context, governance, and human oversight built in.
+
+## Coworker Chat
+
+Coworker Chat enables teams to automate Adobe product tasks using natural language, quickly turning ideas into actions with flexible planning, customizable skills, and intelligent execution.
+
+**UI guide**
+
+Learn about the Coworker Chat interface, including navigation, the input box, responses, chat history, and configuring Skills, MCP servers, and Memory.
+
+*Watch*
+
+**Validate Customer Journey Analytics data**
+
+Learn how Analytics admins use the CX Enterprise Coworker data validation skill to compare Adobe Analytics and Customer Journey Analytics data during the upgrade.
+
+*Watch*
+
+## Customizations
+
+Customizations let you extend and personalize Coworker with Skills, Integrations, Plugins, and Memory.
+
+- [What are skills?](/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills)
+- [Create your first skill](/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/create-your-first-skill)
+- [Build and run a quality gate skill](/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/run-a-quality-gate-skill)
+- [Manage and iterate on skills](/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/manage-and-iterate-on-skills)
+- [What are integrations?](/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/integrations/understanding-integrations-in-coworker)
+- [What are plugins?](/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/plugins/what-are-plugins)
+- [What is memory?](/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/memory/what-is-memory)
+
+## Campaigns
+
+Coworker Campaigns is a templatized feature for small agile teams to stand up and execute campaigns.
+
+- [Overview](/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/campaigns/overview)
+- [Create an email campaign](/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/campaigns/create-an-email-campaign)
+- [Use cases](/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/campaigns/use-cases)
+- [Prompting best practices](/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/campaigns/prompting-best-practices)
+- [Connect to Marketo Engage](/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/campaigns/connectors/marketo)
+- [Connect to Hubspot](/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/campaigns/connectors/hubspot)
+
+## Projects (coming soon)
+
+Coworker Projects is a unified workspace for automating end-to-end customer experience orchestration workflows, helping teams coordinate tasks, approvals, and execution to drive outcomes from strategy through delivery.
+
+recommendation-more-help
+
+
+---
 # FILE: experimentation-agent-9ecc71c8.md
 ---
 
 ---
 title: "Experimentation Agent"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/agent-experiment"
-created_at: "2026-09-01T13:43:23.710006+00:00"
+created_at: "2026-10-01T14:24:11.927958+00:00"
 ---
 Breadcrumbs: Documentation > AI Documentation > AI in CX Enterprise
 
 # Experimentation Agent
 
-Last update: July 21, 2026
+Last update: September 9, 2026
 CREATED FOR:
 
 - User
@@ -710,7 +798,7 @@ recommendation-more-help
 ---
 title: "Field Discovery Agent"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/field-discovery-agent"
-created_at: "2026-09-01T13:43:24.867649+00:00"
+created_at: "2026-10-01T14:24:12.765991+00:00"
 ---
 Breadcrumbs: Documentation > AI Documentation > AI in CX Enterprise
 
@@ -980,13 +1068,13 @@ recommendation-more-help
 ---
 title: "Journey Agent: Overview and User Guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ajo-agent"
-created_at: "2026-09-01T13:43:25.921675+00:00"
+created_at: "2026-10-01T14:24:14.073714+00:00"
 ---
 Breadcrumbs: Documentation > AI Documentation > AI in CX Enterprise
 
 # Journey Agent: Overview and User Guide
 
-Last update: July 21, 2026
+Last update: September 14, 2026
 - Topics:
 - [Journey management](#)
 - [Communication channels](#)
@@ -1002,8 +1090,6 @@ CREATED FOR:
 - Leader
 - Developer
 
-AVAILABILITY
-Journey Agent create skills and content generation skills are available to customers that are a part of the Agent Orchestrator Explorer program. For more information, contact Adobe Customer Care.
 ## Introduction to Journey Agent in Adobe Journey Optimizer
 
 Journey Agent enables Journey Optimizer users to create, analyze, and optimize marketing journeys using a natural language interface. With Journey Agent, practitioners can quickly build journeys, detect and resolve schedule or audience conflicts, analyze performance and drop-off points, and identify top-performing journeys to replicate for future campaigns. It empowers practitioners to make data-driven decisions, improve customer engagement, and streamline journey orchestration.
@@ -1014,20 +1100,22 @@ Journey Agent consists of four main jobs to be done:
 - **Channel Content Create**: Generate, edit, and manage channel-specific content (email, push, SMS) for journeys using AI-powered content generation
 - **Journey Analyze**: Analyze journeys, detect issues, uncover insights, and optimize customer engagement
 
-In addition, **Journey Simulation** is a Journey Optimizer feature that includes [Journey Simulate](/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/simulate-journey/simulate-journey-gs), an in-product agentic skill, non conversational, with three capabilities:
+In addition, **Journey Simulation** is a Journey Optimizer feature that includes [Journey Simulate](/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/validate-journey/simulate-journey/simulate-journey-gs#_blank), an in-product, non-conversational AI capability with three sub-capabilities:
 
 - Generating simulated users
 - Generating event values
 - Quick simulation
 
-## Journey Create: Use cases, Agentic skills and User guide
+## Journey Create: Use cases, AI capabilities and User guide journey-create
 
 ## Overview
 
 Journey Create enables Journey Optimizer users to build and configure marketing journeys using a natural language interface. With Journey Create, practitioners can quickly create journeys by describing their requirements in conversational prompts. The agent streamlines journey creation, allowing marketers to focus on strategy rather than technical configuration.
 
+For more information, see [Journey Create](/en/docs/journey-optimizer/using/get-started/essentials/ajo-coworker-skills#journey-create#_blank) in the Adobe Journey Optimizer documentation.
+
 AVAILABILITY
-Journey Create is available to customers that are a part of the Agent Orchestrator Explorer program. You will also need the following permissions in order to fully use Journey Create features:
+You need the following permissions in order to fully use Journey Create features:
 Manage Journeys
 : This permission lets you create new journeys directly in AI Assistant.
 View Journey Events, Data Sources and Actions
@@ -1047,10 +1135,11 @@ Journey Create offers capabilities that can be leveraged to accelerate marketing
 - Business-event triggered journey creation Create journeys that activate based on a particular business event and target a specified audience (e.g. product back in stock or game score change) Build personalized communication flows based on customer behavior.
 - Audience qualification journey creation Create journeys that activate as profiles enter or exit an audience segment definition. Build personalized communication flows based on customer behavior.
 - Conditional journey flows Create decision branches based on customer attributes. Design split paths that adapt to customer preferences.
+- Create journey from image Upload a reference image and ask the agent to create a journey using the image as reference. The agent extracts an editable prompt from the reference image.
 
 For each of these use cases, the agent translates natural language requirements into structured journey configurations.
 
-## In scope and out of scope skills
+## In scope and out of scope AI capabilities
 
 ### In scope
 
@@ -1067,9 +1156,14 @@ The following capabilities are supported by Journey Create:
 The following functionalities are currently not supported:
 
 - **Advanced journey analytics**
-- **Real-time journey modifications**
 - **Cross-journey orchestration**
 - **A/B testing configuration**
+- **InAudience expression generation**
+- **Dataset lookup nodes**
+- **Wave sending settings**
+- **Schedule recurrence options**
+- **Namespace selection for audiences**
+- **Custom Action field mapping**
 - **Complex data transformations**
 
 ## Sample prompts
@@ -1133,13 +1227,15 @@ To maximize the effectiveness of Journey Create, follow these best practices:
 - **Plan Message Content**: Have your messaging strategy defined before journey creation.
 - **Consider Customer Experience**: Design journey flows that respect customer preferences and avoid over-communication.
 
-## Channel Content Create: Use Cases, Agentic Skills and User Guide
+## Channel Content Create: Use Cases, AI Capabilities and User Guide channel-content-create
 
 AVAILABILITY
 This feature is available for all customers in Limited Availability. Contact your Adobe representative to gain access.
 ## Overview
 
 Channel Content Create enables Journey Optimizer users to generate, edit, and manage channel-specific content for journeys using AI-powered content generation.
+
+For more information, see [Channel Content Create](/en/docs/journey-optimizer/using/get-started/essentials/ajo-coworker-skills#channel-content-create#_blank) in the Adobe Journey Optimizer documentation.
 
 ## Use cases
 
@@ -1152,7 +1248,7 @@ Channel Content Create enables Journey Optimizer users to generate, edit, and ma
 - Content refinement and iteration : Regenerate content with different tones or styles using the Regenerate action.
 - Journey canvas integration : Select journeys from inventory and view associated channels.
 
-## In scope and out of scope skills
+## In scope and out of scope AI capabilities
 
 ### In scope
 
@@ -1208,13 +1304,15 @@ The following functionalities are currently not supported:
 - **Define Tone**: Specify the desired tone (friendly, formal, casual, urgent).
 - **Iterate and Refine**: Use the regenerate action to refine content until it meets your requirements.
 
-## Journey Analyze: Use Cases, Agentic Skills and User Guide
+## Journey Analyze: Use Cases, AI Capabilities and User Guide journey-analyze
 
 ## Overview
 
-Journey Agent will enable Journey Optimizer users to analyze, and optimize journeys using a natural language interface. With Journey Agent, practitioners can quickly identify and resolve schedule and/or audience conflicts, detect points of user abandonment in a journey and provide insights or recommendations. It empowers practitionners to make data-driven decisions, improve customer engagement, and streamline journey orchestration.
+Journey Analyze enables Journey Optimizer users to analyze and optimize journeys using a natural language interface. With Journey Analyze, practitioners can quickly identify and resolve schedule and audience conflicts, detect points of user abandonment in a journey, and surface insights or recommendations to improve performance.
 
 Learn more and discover the agent at a glance in this [overview](/en/slides/journey-agent-overview).
+
+For more information, see [Journey Analyze](/en/docs/journey-optimizer/using/get-started/essentials/ajo-coworker-skills#journey-analyze#_blank) in the Adobe Journey Optimizer documentation.
 
 AVAILABILITY
 The Journey Agent is available for all customers who have access to AI Assistant. However, you will need the following permissions in order to fully use the Journey Agent features:
@@ -1236,10 +1334,12 @@ Journey Analyze offers a range of functionalities that can be leveraged to optim
 - Journey Audience Overlap Analysis Analyze audience overlap across multiple journeys. Prevent audience fatigue caused by over-targeting. Optimize segmentation to ensure balanced engagement.
 - Journey Schedule Overlap Analysis Detect timing conflicts between scheduled journeys targeting the same audience. Avoid over-communication and improve scheduling efficiency. Maximize audience impact by ensuring journeys run at optimal times.
 - Operational insights Prompt-based Journey Insights – Surface operational insights about journeys , i.e. “show me all live journeys.”
+- Journey Custom Action Error Analysis Identify when custom actions are failing or error rates spike within a journey. Diagnose root causes before failures cascade into broader journey disruption. Use specific remediation steps to restore custom action reliability quickly.
+- Analyze Journey Anomalies Detect unexpected spikes, drops, or flatlines in a journey’s entry, exit, or message-send counts compared to historical baselines, including when the question is phrased around the number of profiles entering, exiting, or completing the journey. Confirm whether a flagged change is a genuine anomaly using a deterministic statistical check, rather than relying on the raw anomaly flag alone. Run bounded, read-only diagnostics against journey-execution data to identify a likely root cause, surfacing what each check looked for and found alongside the recommendation. Investigate anomaly alerts that reference a specific journey version and timestamp.
 
 For each of these analyses, the agent not only detects issues but also provides **actionable recommendations to resolve them**.
 
-## In Scope and Out of Scope Skills
+## In Scope and Out of Scope AI Capabilities
 
 ### In Scope
 
@@ -1248,13 +1348,14 @@ The following capabilities are supported by Journey Analyze:
 - **Reactive Queries**: Allows users to ask specific questions about journey performance, audience usage, and scheduling conflicts.
 - **Integration with Other Agents**: Collaborates with Audience Agent and Data Insights Agent for deeper analysis.
 - **Agent response structuration**: reasoning (explain the logic), analysis summary (highlight key points), issue details (describe the problem), and recommendation (propose next steps).
+- **Custom action error analysis**: Detect and diagnose custom action failures and error spikes within a journey.
+- **Anomaly detection**: Detect and confirm statistically significant spikes, drops, or flatlines in a journey’s entry, exit, or send counts, and surface a likely root cause.
 
 ### Out of Scope
 
 The following functionalities are currently not supported:
 
 - **Automated Journey Creation**
-- **Real-Time Anomaly Detection**
 - **Channels overlap**
 - **Journey entry analysis**
 - **Technical issue analysis**
@@ -1319,6 +1420,22 @@ Use these prompts to analyze potential conflicts between journeys, including sch
 - “Analyze conflict risk for journey [Journey Name].”
 - “Provide conflict diagnostics for [Journey Name].”
 
+### Custom action error analysis
+
+- “Why are custom actions failing in journey [Journey Name]?”
+- “What is the error rate for custom action [Custom Action Name] in journey [Journey Name]?”
+- “Show me the root cause of custom action failures in journey [Journey Name].”
+- “Are there any custom action errors affecting journey [Journey Name] right now?”
+
+### Journey anomaly analysis
+
+- “Why did entries drop for my Welcome journey yesterday?”
+- “Did exits spike for the Cart Abandonment journey this week?”
+- “Sends look low for the Renewal Reminder journey today — what happened?”
+- “Why was there a sudden drop in the number of profiles entering my Member Anniversary Thank You journey in the last 30 days?”
+- “Fewer profiles than usual are completing my Renewal Reminder journey this month — why?”
+- “An anomaly alert was triggered for journey [Journey Version ID] at [timestamp] — investigate.”
+
 ## Best Practices
 
 ### Prompting Best Practices
@@ -1335,11 +1452,11 @@ To maximize the effectiveness of Journey Analyze, follow these best practices:
 - **Monitor Regularly**: Schedule regular reviews of journey performance to identify trends and anomalies.
 - **Optimize Segmentation**: Ensure audience segmentation is balanced to avoid fatigue and maximize engagement.
 
-## Journey Simulate: Use Cases, Agentic Skills and User Guide
+## Journey Simulate: Use Cases, AI Capabilities and User Guide journey-simulate
 
 ## Overview
 
-Journey Simulation is available to all Journey Optimizer customers. Journey Simulate, the in-product agentic skill within Journey Simulation, is available to customers that are a part of the Agent Orchestrator Explorer program and requires at least one of the following permissions:
+Journey Simulation is available to all Journey Optimizer customers. Journey Simulate, the in-product agentic AI capability within Journey Simulation, is available to customers that are a part of the Agent Orchestrator Explorer program and requires at least one of the following permissions:
 
 - Simulate journeys : Run simulation workflows from the journey canvas.
 - Publish journeys : Publish journeys, including flows that use simulation before go-live.
@@ -1347,11 +1464,11 @@ Journey Simulation is available to all Journey Optimizer customers. Journey Simu
 
 To use AI in **Simulation** (**Quick simulation**, generating simulated users with AI, **Generate event values**), users require **Generate Content** permission from the **AI Assistant** capability.
 
-[Learn more about permissions](/en/docs/journey-optimizer/using/administration/permissions).
+[Learn more about permissions](/en/docs/journey-optimizer/using/access-control/permissions).
 
 style
 shade-box
-Journey Simulation is a Journey Optimizer feature that enables Journey Optimizer users to safely test and validate marketing journeys before activation. Within Journey Simulation, Journey Simulate is an in-product agentic skill, not a conversational one, that automates and assists the testing process directly from the journey canvas.
+Journey Simulation is a Journey Optimizer feature that enables Journey Optimizer users to safely test and validate marketing journeys before activation. Within Journey Simulation, Journey Simulate is an in-product agentic AI capability, not a conversational one, that automates and assists the testing process directly from the journey canvas.
 
 Journey Simulate includes three capabilities:
 
@@ -1386,7 +1503,7 @@ Journey Simulate offers three capabilities that can be leveraged to reduce testi
 - Identify which simulated user flows through which path, and why, with detailed node-by-node traversal.
 - Review simulation reporting at the end of a run in the Journey Optimizer UI to validate outcomes before activation.
 
-## In scope skills and limitations
+## In scope AI capabilities and limitations
 
 ### In scope
 
@@ -1399,17 +1516,24 @@ The following capabilities are supported by the Journey Simulation feature:
 - **Simulation reporting**: View reporting at the end of a simulation run in the Journey Optimizer UI.
 - **Multi-user testing**: Run and visualize tests for multiple simulated users simultaneously, covering all journey branches.
 
-In addition to this, the following capabilities are supported by the Journey Simulate skill:
+In addition to this, the following capabilities are supported by the Journey Simulate AI capability:
 
 - **Simulated user generation**: Create simulated users based on journey paths, existing test profiles, or specified attributes.
 - **Event value generation**: Generate and assign event attribute values to drive test execution through specific journey paths.
-- **Quick simulation**: Run a full end-to-end simulation with minimal intervention. The skill automatically generates simulated users, event values, and pre-filled test settings, then executes the journey and surfaces results for review.
+- **Quick simulation**: Run a full end-to-end simulation with minimal intervention. This AI capability automatically generates simulated users, event values, and pre-filled test settings, then executes the journey and surfaces results for review.
 
 ### Limitations
 
 Simulation may not support every activity, channel, or integration that Test mode or a live journey supports, and behavior may change as the capability matures.
 
-➡️ Learn more about [Simulation limitations](/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/simulate-journey/simulate-journey-gs#limitations) in the Journey Optimizer documentation.
+➡️ Learn more about [Simulation limitations](/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/validate-journey/simulate-journey/simulate-journey-gs#limitations#_blank) in the Journey Optimizer documentation.
+
+## See also
+
+- [Agent Orchestrator](/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/agent-orchestrator), the agentic layer that powers Journey Agent and other Experience Platform Agents.
+- [Journey Optimizer tools in CX Coworker Gateway](/en/docs/cx-enterprise-ai/experience-cloud-ai/mcp/mcp-product-tools/ajo-mcp), a read-only MCP surface for campaign and channel configuration review.
+- [Create journeys from natural language](/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/journeys/create-journey-from-natural-language) and [Create, edit, and manage loyalty challenges](/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/loyalty/create-loyalty-challenge), Coworker Chat use cases that build on Journey Create.
+- [Product Support Agent](/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/product-support), for troubleshooting Journey Optimizer issues surfaced through AI Assistant.
 
 recommendation-more-help
 
@@ -1421,13 +1545,13 @@ recommendation-more-help
 ---
 title: "Legal Disclaimer: Personal Data, Language Support, and Verifying Responses"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/ai-assistant/legal-disclaimer"
-created_at: "2026-09-01T13:43:30.329835+00:00"
+created_at: "2026-10-01T14:24:18.017811+00:00"
 ---
 Breadcrumbs: Documentation > AI Documentation > AI in CX Enterprise
 
 # Legal Disclaimer: Personal Data, Language Support, and Verifying Responses
 
-Last update: August 11, 2026
+Last update: September 9, 2026
 CREATED FOR:
 
 - User
@@ -1461,13 +1585,13 @@ recommendation-more-help
 ---
 title: "Product Support Agent"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/product-support"
-created_at: "2026-09-01T13:43:26.794620+00:00"
+created_at: "2026-10-01T14:24:14.812321+00:00"
 ---
 Breadcrumbs: Documentation > AI Documentation > AI in CX Enterprise
 
 # Product Support Agent
 
-Last update: July 14, 2026
+Last update: September 9, 2026
 CREATED FOR:
 
 - User
@@ -1514,395 +1638,13 @@ recommendation-more-help
 
 
 ---
-# FILE: real-time-cdp-mcp-beta-rtcdp-mcp-bf707ef3.md
----
-
----
-title: "Real-Time CDP MCP (Beta) rtcdp-mcp"
-url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/mcp/rtcdp-mcp"
-created_at: "2026-09-01T13:43:28.641974+00:00"
----
-Breadcrumbs: Documentation > AI Documentation > AI in CX Enterprise
-
-[Beta]{class="badge informative"}
-
-# Real-Time CDP MCP (Beta) rtcdp-mcp
-
-Last update: July 17, 2026
-- Topics:
-- [Integrations](#)
-
-CREATED FOR:
-
-- Beginner
-- Intermediate
-- User
-- Developer
-
-You can use the Adobe Real-Time CDP MCP integration to query audiences, destinations, and activation health using plain-language prompts — without writing API calls or navigating product screens. This integration serves both Adobe Real-Time CDP and Adobe Real-Time CDP B2B Edition customers, providing a conversational way to inspect supported Real-Time CDP data and workflows from MCP-compatible clients. Read this guide to learn how the integration works, what you can do with it, and how to get started.
-
-AVAILABILITY
-Real-Time CDP MCP is in Beta. The feature and documentation are subject to change. The Real-Time CDP MCP server is distributed as a
-remote HTTP transport server
-that users install and configure in supported MCP clients and app platforms (for example, Claude, ChatGPT, Claude Code, Codex, Cursor, or VS Code). Authentication is handled through a
-browser-based login flow
-— when your client first connects to the server, it opens your default browser so you can sign in with your Adobe credentials and authorize access. Please contact your Adobe representative to access this Beta program.
-## Beta, security, and legal notices mcp-notices
-
-**Beta documentation notice:** This documentation covers a Beta feature and does not constitute final documentation. The content described herein relates to a Beta release and is subject to change prior to general availability. Adobe makes no representations about the completeness or accuracy of this documentation.
-
-By using the Adobe Real-Time CDP MCP Server (Beta) (“Beta”), You hereby acknowledge that the Beta is provided **“as is” without warranty of any kind**. Adobe shall have no obligation to maintain, correct, update, change, modify or otherwise support the Beta. You are advised to use caution and not to rely in any way on the correct functioning or performance of such Beta and/or accompanying materials. The Beta is considered Confidential Information of Adobe. Any “Feedback” (information regarding the Beta including but not limited to problems or defects you encounter while using the Beta, suggestions, improvements, and recommendations) provided by You to Adobe is hereby assigned to Adobe including all rights, title, and interest in and to such Feedback.
-
-WARNING
-The Model Context Protocol (MCP) is an emerging open-source standard and may present security or reliability risks. Adobe MCP server integrations and related documentation are provided “as is,” without warranties of any kind.
-Connecting MCP clients or servers to Adobe products is a customer-elected configuration. Customers are responsible for evaluating the security and suitability of any MCP integration. Adobe is not responsible for issues arising from misconfiguration, misuse of the MCP, vulnerabilities in third-party implementations, or unintended actions performed through MCP-enabled workflows.
-To reduce risk, Adobe encourages testing integrations in a sandbox environment prior to productive use, and carefully reviewing and validating all MCP-initiated actions and responses before confirming or relying on them.
-## What is the model context protocol? mcp-overview
-
-Marketing, data, and customer-experience teams increasingly rely on chat-based applications and developer tools — such as Anthropic Claude, OpenAI ChatGPT, Cursor, and Microsoft Copilot Studio — to streamline their day-to-day work. These applications support the **Model Context Protocol (MCP)**, an open standard that lets applications expose back-end tools to large language models (LLMs) in a uniform way.
-
-Real-Time CDP now provides an MCP server that surfaces audience, destination, and activation operations directly inside any MCP-compatible application. With the Real-Time CDP MCP integration, different personas can collaborate around the same segmentation and activation data — without writing queries against the Adobe Experience Platform REST APIs or navigating multiple UI screens. Customers can describe their intent conversationally and let the LLM invoke the appropriate MCP tools.
-
-## Key capabilities mcp-capabilities
-
-The Real-Time CDP MCP server is a **read-only** monitoring and triage surface. It exposes retrieve APIs across audiences, destinations, sources, identity, and profile resolution as plain-language answers inside your AI assistant — without writing queries or navigating product screens. No data can be created, modified, or deleted through the MCP server.
-
-IMPORTANT
-All tools in the current Beta are
-read-only
-. Write operations — including creating, activating, updating, or deleting audiences, destinations, or dataflows — are not supported.
-The Beta release includes the following 18 tools:
-
-Tool
-Description
-search_audiences
-List and look up audiences by name, entity type, lifecycle state, identity namespace, or origin.
-preview_audience_membership
-Estimate the size of a PQL or SDD segment expression before saving it as an audience.
-inspect_audience_evaluation_jobs
-Retrieve segment evaluation job records to diagnose why a batch audience isn’t refreshing or to confirm recent evaluation history.
-inspect_audience_export_jobs
-Retrieve audience export job records to confirm exports completed or to surface failure details.
-search_destination_connectors
-List the destination connector types available in the platform (e.g. Amazon S3, Google Ads, Salesforce CRM).
-search_destination_accounts
-List authenticated destination accounts — configured instances of a destination connector type.
-search_destination_input_connections
-Retrieve the Experience Platform-side input of a destination flow — the audience or dataset being exported.
-search_destination_output_connections
-Retrieve the external endpoint of a destination flow — target path, file format, and delivery configuration.
-search_destination_flows
-List and inspect configured destination activation flows including their state, mappings, and schedule.
-inspect_flow_runs
-Retrieve execution history for source and destination flows — status, timing, record counts, and failure details per run.
-search_source_connectors
-List the source connector types available in the platform.
-search_source_accounts
-List authenticated source accounts — configured instances of a source connector type.
-search_source_input_connections
-Retrieve the data selection layer of a source flow — what is being pulled from an account.
-search_source_output_connections
-Retrieve the Experience Platform dataset destination of a source flow — where ingested data lands.
-search_source_flows
-List and inspect configured source ingestion pipelines including their state, mappings, and schedule.
-search_identity_namespaces
-List identity namespace definitions in your sandbox — both Adobe-standard and custom namespaces.
-search_merge_policies
-List merge policy records that control how Real-Time Customer Profiles are assembled from profile fragments.
-search_organizations
-List the Adobe organizations accessible to the authenticated user.
-## Use cases mcp-use-cases
-
-The Real-Time CDP MCP server is designed for **monitoring and triage**. Because the server works with IDs rather than names, a typical workflow starts with a list — ask Claude to show you what’s available, pick the item you want, then ask follow-up questions using the ID it returns.
-
-Goal
-Example prompt
-List your audiences
-“List my audiences in the
-prod
-sandbox.”
-Inspect a specific audience
-“Show me the details and lifecycle state for audience ID
-abc123
-.”
-Diagnose an evaluation failure
-“Show me the most recent evaluation jobs and flag any failures.”
-Check an export job
-“List recent audience export jobs and show me the status of each.”
-Estimate audience size
-“Estimate the size of this PQL expression before I save it:
-homeAddress.country = 'US'
-.”
-List destination connector types
-“What destination connector types are available in my sandbox?”
-List configured destination accounts
-“List my destination accounts and their connection state.”
-List destination flows
-“List my destination activation flows and show which are enabled or disabled.”
-Inspect a destination flow
-“Show me the full configuration for destination flow ID
-xyz789
-.”
-Check destination account health
-“List my destination accounts and flag any that are in an error state.”
-Monitor recent activation runs
-“Show me flow runs from the last 24 hours and flag any failures.”
-Investigate a failed run
-“Show me the run history for flow ID
-xyz789
-and summarize any errors.”
-List source flows
-“List my source ingestion flows and show their current state.”
-Inspect a source flow
-“Show me the configuration for source flow ID
-src456
-— what is it ingesting and where does it land?”
-Check ingestion run health
-“Show me recent run history for source flow ID
-src456
-and flag failures.”
-List identity namespaces
-“What identity namespaces are configured in my sandbox?”
-List merge policies
-“List my merge policies and show which is the default.”
-Find your Organization ID
-“List the Adobe organizations I have access to.”
-## Access and enablement mcp-access
-
-AVAILABILITY
-The Real-Time CDP MCP server is in Beta and is not open for self-service enrollment. Access is by invitation only and requires your Adobe organization to be explicitly allowlisted before you can connect.
-To request access:
-
-- Contact your Adobe account representative (Customer Success Manager, Technical Account Manager, or Account Executive) and express your interest in the Real-Time CDP MCP Beta program.
-- Your Adobe representative will coordinate with the product team to evaluate eligibility and enable your Organization ID.
-- Once enabled, your Adobe representative will confirm access and provide any additional onboarding materials.
-
-NOTE
-Only organizations that have been explicitly enabled can connect to the Real-Time CDP MCP server. Attempting to connect before enablement will result in an authentication error.
-## Prerequisites mcp-prerequisites
-
-Before connecting the Real-Time CDP MCP server to your MCP client, ensure the following:
-
-- You have an active Real-Time CDP license.
-- Your Adobe organization has been enabled for the Beta program by your Adobe representative (see [Access and enablement](#mcp-access)).
-- You have access to a supported MCP client such as Claude, ChatGPT, Claude Code, Codex, Cursor, or VS Code.
-- You have your Organization ID and the name of the sandbox you want to query.
-- You have the necessary permissions in Adobe Experience Platform to view audiences, destinations, and flow service entities.
-
-## Connect the Real-Time CDP MCP server mcp-connect
-
-The Real-Time CDP MCP server endpoint is:
-
-```
-https://rtcdp-mcp.adobe.io/mcp
-```
-
-The server uses a **remote HTTP (Streamable HTTP) transport** with a **browser-based Adobe sign-in flow**. In every client, the setup pattern is the same:
-
-- Add the server URL: https://rtcdp-mcp.adobe.io/mcp
-- Save or enable the connection.
-- Complete the **browser-based Adobe login** the first time the client invokes a tool.
-- Provide imsOrgId and sandboxName at the start of each session.
-
-### General JSON configuration mcp-connect-json
-
-For clients that accept a JSON-based MCP server configuration — such as Claude Desktop (claude_desktop_config.json), VS Code, or any client that reads a mcp.json file — use one of the following formats depending on whether your client supports native remote HTTP or requires a local bridge:
-
-**Via mcp-remote bridge (Claude Desktop and other clients that require a local bridge)**
-
-```
-{
-  "mcpServers": {
-    "rtcdp": {
-      "command": "npx",
-      "args": [
-        "mcp-remote",
-        "https://rtcdp-mcp.adobe.io/mcp"
-      ]
-    }
-  }
-}
-```
-
-**Native remote HTTP (clients that support it directly)**
-
-```
-{
-  "mcpServers": {
-    "rtcdp": {
-      "url": "https://rtcdp-mcp.adobe.io/mcp",
-      "transport": "http"
-    }
-  }
-}
-```
-
-NOTE
-No API keys, bearer tokens, or additional headers are required in the configuration. Authentication is handled entirely through the browser-based Adobe sign-in flow on first use.
-### Install in UI-based clients mcp-connect-ui
-
-#### Claude
-
-For claude.ai and Claude Desktop, add the Real-Time CDP MCP server as a **custom connector** using the server URL https://rtcdp-mcp.adobe.io/mcp.
-
-- **Individual plans** — In Claude, navigate to **Customize → Connectors**, select **Add connector**, and enter the server URL.
-- **Team and Enterprise plans** — A workspace **Owner** or **Primary Owner** adds the connector under **Organization settings → Connectors**. Once added, each user enables it in their own Claude settings.
-
-After the connector is added, enable it in a conversation and complete the Adobe browser sign-in on first use. Claude discovers the Adobe authorization server automatically — no Client ID or Client Secret is required.
-
-#### ChatGPT
-
-In ChatGPT, add the Real-Time CDP MCP server as a **custom connector**:
-
-- Navigate to **Settings → Connectors** (or **Settings → Apps & Connectors**, depending on your plan).
-- Select **Add connector** and enter https://rtcdp-mcp.adobe.io/mcp as the server URL.
-- Save the connector. Depending on your ChatGPT plan, this step may require **Developer mode** or workspace admin approval.
-- Once the connector is enabled, authenticate through the Adobe browser sign-in when prompted on first use.
-
-#### Cursor
-
-In Cursor, add the Real-Time CDP MCP server as a remote MCP server:
-
-- Open **Settings → MCP**.
-- Select **Add new server** and enter https://rtcdp-mcp.adobe.io/mcp as the server URL.
-- Select **connect** to trigger the browser-based Adobe sign-in and authenticate.
-
-Once connected, Real-Time CDP tools are available in Cursor’s Composer and Agent modes.
-
-#### Other UI-based clients
-
-For clients such as VS Code or other desktop and web applications with remote MCP support, add the Real-Time CDP MCP server as a **remote HTTP** server using https://rtcdp-mcp.adobe.io/mcp. If the client supports optional headers or bearer tokens, leave them empty — authentication is handled through the browser-based Adobe sign-in flow on first use.
-
-### Install in technical clients mcp-connect-technical
-
-#### Claude Code
-
-Add the server from the terminal:
-
-```
-claude mcp add --transport http rtcdp https://rtcdp-mcp.adobe.io/mcp
-```
-
-Then start Claude Code and run:
-
-```
-/mcp
-```
-
-Select the rtcdp server and complete the Adobe login flow in your browser. If you already added the server in claude.ai, it may appear automatically in Claude Code when both are signed in to the same account.
-
-#### Codex
-
-Add the server from the terminal:
-
-```
-codex mcp add rtcdp --url https://rtcdp-mcp.adobe.io/mcp
-```
-
-Authenticate the server:
-
-```
-codex mcp login rtcdp
-```
-
-Verify the configuration:
-
-```
-codex mcp list
-```
-
-You can also add the server directly to ~/.codex/config.toml:
-
-```
-[mcp_servers.rtcdp]
-url = "https://rtcdp-mcp.adobe.io/mcp"
-```
-
-### Required request parameters mcp-connect-params
-
-Every tool call requires two parameters that scope the request to your Adobe Experience Platform tenant:
-
-- imsOrgId — your Organization ID, mapped to the x-gw-ims-org-id header on downstream Experience Platform API calls.
-- sandboxName — the Experience Platform sandbox name, mapped to the x-sandbox-name header.
-
-Provide these at the start of each session. For example:
-
-“Use org 1234ABCD@AdobeOrg and sandbox prod for this session.”
-
-If you don’t know your Organization ID, ask your AI assistant to call search_organizations — it will return every org your Adobe credentials can access.
-
-## Known limitations (Beta) mcp-limitations
-
-The following limitations apply to the current Beta release of the Adobe Real-Time CDP MCP server:
-
-Limitation
-Description
-Workaround
-Read-only surface
-The MCP server only exposes retrieve APIs. You cannot create, update, activate, or delete audiences, destinations, or dataflows.
-Use the Real-Time CDP UI or the Experience Platform REST APIs for write operations.
-No engagement or delivery metrics
-The MCP server does not return downstream delivery stats, engagement, or conversion metrics from destination platforms.
-Use the destination platform’s own reporting, Customer Journey Analytics MCP, or Adobe Analytics MCP for engagement and conversion data.
-Segment query must be authored externally
-Preview Audience Membership
-requires a valid PQL or SDD expression as input; the MCP server does not compose the query for you.
-Author the PQL/SDD expression in the Segment Builder UI or via the Segmentation Service API, then paste into the MCP prompt.
-Pagination via continuation tokens
-List tools return paginated results. Full enumeration across very large sandboxes requires chaining
-continuationToken
-calls.
-Narrow queries using filters (name, state, connection spec, time range) rather than enumerating the full list.
-Activation run filtering is time-based only
-Inspect Activation Runs
-supports filtering by status and completion timestamp (epoch ms UTC), but not by error type or destination platform directly.
-Filter by
-flowId
-first (obtained from
-List Configured Destinations
-) to scope runs to a specific destination.
-Organization ID required at session start
-Every tool call (except
-search_organizations
-) requires
-imsOrgId
-and
-sandboxName
-as explicit parameters. If these are not provided, tool calls will fail.
-At the start of each session, tell your AI assistant: “Use org
-<YOUR_ORG_ID>
-and sandbox
-<SANDBOX_NAME>
-for this session.” If you don’t know your Organization ID, call
-search_organizations
-first — it will return the orgs your credentials can access.
-## Frequently asked questions mcp-faq
-
-Which MCP clients are supported?
-The Real-Time CDP MCP server works with any client that supports remote MCP servers or custom connectors — including Claude, ChatGPT, Claude Code, Codex, Cursor, and VS Code. The setup flow depends on the client: UI-based clients typically add the server from a settings or connectors panel, while technical clients such as Claude Code and Codex can add it from the command line or configuration files.
-How do I get access?
-Access is by invitation only during the Beta. Contact your Adobe account representative (Customer Success Manager, Technical Account Manager, or Account Executive) to request enrollment. Your Adobe representative will coordinate with the product team to enable your organization. See
-Access and enablement
-for details.
-How does authentication work?
-Authentication is handled through a
-browser-based login
-. When your MCP client first invokes a tool, it opens your default browser to an Adobe sign-in page. After you authenticate and authorize the client, the session is established and subsequent tool calls reuse it. No API keys or long-lived credentials need to be stored in your client configuration.
-What Real-Time CDP objects can I access via MCP?
-You can access audiences, destination types, configured destination accounts, destination dataflows, source and target connections, and activation run history. Operations are read-only (retrieve APIs); write operations are not supported in the current release.
-Do I need developer access to use the Real-Time CDP MCP server?
-No. The MCP server is designed for both marketing and technical personas. Marketers can interact with it using natural language prompts in any supported MCP client, while data engineers and developers can use it in developer tools that support MCP.
-recommendation-more-help
-
-
----
 # FILE: visualize-data-with-data-insights-agent-4b07cf3c.md
 ---
 
 ---
 title: "Visualize data with Data Insights Agent"
 url: "https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/cja-data-insights-agent"
-created_at: "2026-09-01T13:43:22.828547+00:00"
+created_at: "2026-10-01T14:24:11.085125+00:00"
 ---
 Breadcrumbs: Documentation > AI Documentation > AI in CX Enterprise
 

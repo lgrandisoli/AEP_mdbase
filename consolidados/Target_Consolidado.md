@@ -6,7 +6,7 @@
 ---
 title: "Acessar o Target pela Adobe Experience Cloud"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/target-access-from-mac"
-created_at: "2026-10-01T14:22:05.215785+00:00"
+created_at: "2026-10-01T18:23:53.657327+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -62,7 +62,7 @@ recommendation-more-help
 ---
 title: "Acesso aos tokens de resposta"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/aep/accessing-response-tokens"
-created_at: "2026-10-01T14:23:44.692702+00:00"
+created_at: "2026-10-01T18:25:49.476250+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -142,7 +142,7 @@ recommendation-more-help
 ---
 title: "Adicionar experiência"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/create/ab-add-experience"
-created_at: "2026-10-01T14:21:42.703447+00:00"
+created_at: "2026-10-01T18:23:25.988876+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -192,7 +192,7 @@ recommendation-more-help
 ---
 title: "Adicionar promoções"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-activity/adding-promotions"
-created_at: "2026-10-01T14:21:59.262471+00:00"
+created_at: "2026-10-01T18:23:46.511128+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -238,7 +238,7 @@ recommendation-more-help
 ---
 title: "Administrar visão geral do Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/administrating-target"
-created_at: "2026-10-01T14:18:40.373594+00:00"
+created_at: "2026-10-01T18:19:49.911928+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -281,7 +281,7 @@ recommendation-more-help
 ---
 title: "Adobe Analytics como origem de relatório do Adobe Target (A4T)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4t"
-created_at: "2026-10-01T14:18:46.467529+00:00"
+created_at: "2026-10-01T18:19:57.726573+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -418,7 +418,7 @@ recommendation-more-help
 ---
 title: "Adobe Analytics for Target (A4T) fazendo logon no Experience Platform Web SDK"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/a4t/overview-a4t"
-created_at: "2026-10-01T14:20:12.448651+00:00"
+created_at: "2026-10-01T18:21:43.108865+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -469,7 +469,7 @@ recommendation-more-help
 ---
 title: "Adobe Analytics for Target (A4T) fazendo logon no Experience Platform Web SDK"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/a4t/overview-a4t?lang=en"
-created_at: "2026-10-01T14:21:05.773622+00:00"
+created_at: "2026-10-01T18:22:44.789336+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -520,7 +520,7 @@ recommendation-more-help
 ---
 title: "Adobe Target"
 url: "https://experienceleague.adobe.com/pt-br/browse/target"
-created_at: "2026-10-01T14:18:30.184548+00:00"
+created_at: "2026-10-01T18:19:37.563837+00:00"
 ---
 # Adobe Target
 
@@ -673,7 +673,7 @@ default
 ---
 title: "Adobe Target Bulk Profile Update API"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/profile-apis/profile-bulk-api"
-created_at: "2026-10-01T14:20:03.923065+00:00"
+created_at: "2026-10-01T18:21:33.107801+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -893,7 +893,7 @@ recommendation-more-help
 ---
 title: "Adobe Target Models API"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/models-api/models-api-overview"
-created_at: "2026-10-01T14:19:42.906613+00:00"
+created_at: "2026-10-01T18:21:06.741378+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -923,7 +923,7 @@ recommendation-more-help
 ---
 title: "Adobe Target servidor MCP target-mcp"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/mcp/target-mcp"
-created_at: "2026-10-01T14:18:43.731448+00:00"
+created_at: "2026-10-01T18:19:54.101492+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -1045,7 +1045,7 @@ recommendation-more-help
 ---
 title: "Adobe Target Single Profile Update API"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/profile-apis/profile-single-api"
-created_at: "2026-10-01T14:23:53.808335+00:00"
+created_at: "2026-10-01T18:26:00.990198+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -1120,7 +1120,7 @@ recommendation-more-help
 ---
 title: "adobe.target.applyOffer(options)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/adobe-target-applyoffer"
-created_at: "2026-10-01T14:24:03.220191+00:00"
+created_at: "2026-10-01T18:26:12.177174+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -1193,7 +1193,7 @@ recommendation-more-help
 ---
 title: "adobe.target.applyOffers(options) - at.js 2.x"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/adobe-target-applyoffers-atjs-2"
-created_at: "2026-10-01T14:24:00.154658+00:00"
+created_at: "2026-10-01T18:26:08.354556+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -1396,7 +1396,7 @@ recommendation-more-help
 ---
 title: "adobe.target.getOffer(options)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/adobe-target-getoffer"
-created_at: "2026-10-01T14:23:58.192496+00:00"
+created_at: "2026-10-01T18:26:06.415257+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -1587,7 +1587,7 @@ recommendation-more-help
 ---
 title: "adobe.target.getOffers() - at.js 2.x"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/adobe-target-getoffers-atjs-2"
-created_at: "2026-10-01T14:23:39.430324+00:00"
+created_at: "2026-10-01T18:25:43.590400+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -2151,7 +2151,7 @@ recommendation-more-help
 ---
 title: "adobe.target.sendNotifications(options)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/adobe-target-sendnotifications-atjs-21"
-created_at: "2026-10-01T14:23:54.700373+00:00"
+created_at: "2026-10-01T18:26:01.918636+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -2426,7 +2426,7 @@ recommendation-more-help
 ---
 title: "adobe.target.trackEvent(options)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/adobe-target-trackevent"
-created_at: "2026-10-01T14:23:59.313893+00:00"
+created_at: "2026-10-01T18:26:07.334188+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -2535,7 +2535,7 @@ recommendation-more-help
 ---
 title: "adobe.target.triggerView (viewName, options) - at.js 2.x"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/adobe-target-triggerview-atjs-2"
-created_at: "2026-10-01T14:23:42.870944+00:00"
+created_at: "2026-10-01T18:25:47.277237+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -2658,7 +2658,7 @@ recommendation-more-help
 ---
 title: "AEM Content Fragments"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/aem/fragments/content-fragments-aem"
-created_at: "2026-10-01T14:21:15.268928+00:00"
+created_at: "2026-10-01T18:22:54.447186+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -2735,7 +2735,7 @@ recommendation-more-help
 ---
 title: "AEM Experience Fragments"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/aem/fragments/experience-fragments-aem"
-created_at: "2026-10-01T14:22:29.316433+00:00"
+created_at: "2026-10-01T18:24:19.521214+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -2871,7 +2871,7 @@ recommendation-more-help
 ---
 title: "Afinidade de categorias"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/visitor-profiles/category-affinity"
-created_at: "2026-10-01T14:22:01.067825+00:00"
+created_at: "2026-10-01T18:23:48.508046+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -2988,7 +2988,7 @@ recommendation-more-help
 ---
 title: "Algoritmo Random Forest"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/algo-random-forest"
-created_at: "2026-10-01T14:22:14.610357+00:00"
+created_at: "2026-10-01T18:24:05.341127+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -3078,7 +3078,7 @@ recommendation-more-help
 ---
 title: "Alocação automática oferece resultados de teste mais rápidos e receita maior do que um teste manual"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/auto-allocate/faster-results-higher-revenue"
-created_at: "2026-10-01T14:22:42.985026+00:00"
+created_at: "2026-10-01T18:24:36.053215+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -3128,7 +3128,7 @@ recommendation-more-help
 ---
 title: "Alterações de documentação"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/doc-change"
-created_at: "2026-10-01T14:18:42.877184+00:00"
+created_at: "2026-10-01T18:19:53.042632+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -3700,7 +3700,7 @@ recommendation-more-help
 ---
 title: "Alterações do Visual Experience Composer"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/vec-changes"
-created_at: "2026-10-01T14:19:05.392514+00:00"
+created_at: "2026-10-01T18:20:22.610818+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -3820,7 +3820,7 @@ recommendation-more-help
 ---
 title: "Alterações na criptografia do TLS (Transport Layer Security)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/tls-transport-layer-security-encryption"
-created_at: "2026-10-01T14:21:46.510125+00:00"
+created_at: "2026-10-01T18:23:30.932199+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -3967,7 +3967,7 @@ recommendation-more-help
 ---
 title: "Ambientes"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/environments"
-created_at: "2026-10-01T14:19:47.806977+00:00"
+created_at: "2026-10-01T18:21:12.775424+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -4065,7 +4065,7 @@ recommendation-more-help
 ---
 title: "Antes da implementação"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/before-implement/considerations-before-you-implement-target"
-created_at: "2026-10-01T14:19:31.243387+00:00"
+created_at: "2026-10-01T18:20:53.053326+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -4103,7 +4103,7 @@ recommendation-more-help
 ---
 title: "Antes de implementar o Analytics for Target (A4T) com a at.js"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/before-implement"
-created_at: "2026-10-01T14:21:37.516636+00:00"
+created_at: "2026-10-01T18:23:20.340216+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -4212,7 +4212,7 @@ recommendation-more-help
 ---
 title: "API de administração do Adobe Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/admin-api/admin-api-overview-new"
-created_at: "2026-10-01T14:19:41.414229+00:00"
+created_at: "2026-10-01T18:21:04.805399+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -4240,7 +4240,7 @@ recommendation-more-help
 ---
 title: "API de atualização de perfil em massa"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/methods/bulk-profile-update-api"
-created_at: "2026-10-01T14:23:32.151343+00:00"
+created_at: "2026-10-01T18:25:34.191858+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -4289,7 +4289,7 @@ recommendation-more-help
 ---
 title: "API de atualização de perfil único"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/methods/single-profile-update-api"
-created_at: "2026-10-01T14:23:32.913004+00:00"
+created_at: "2026-10-01T18:25:35.326402+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -4327,7 +4327,7 @@ recommendation-more-help
 ---
 title: "Aplicar um relatório de público-alvo a uma métrica de sucesso"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/apply-reporting-audience-success-metric"
-created_at: "2026-10-01T14:21:51.948878+00:00"
+created_at: "2026-10-01T18:23:37.414302+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -4400,13 +4400,13 @@ recommendation-more-help
 ---
 title: "Aplicativo de página única (SPA) no Visual Experience Composer"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/spa-visual-experience-composer"
-created_at: "2026-10-01T14:19:30.463062+00:00"
+created_at: "2026-10-01T18:20:52.084963+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
 # Aplicativo de página única (SPA) no Visual Experience Composer
 
-Última atualização: 30 de setembro de 2026
+Última atualização: 1 de outubro de 2026
 - Tópicos:
 - [Públicos-alvo](#)
 - [Implementação](#)
@@ -4447,16 +4447,61 @@ Agora, os profissionais de marketing podem executar um teste A/B para ver se a a
 
 Agora que cobrimos o que são Exibições do Adobe Target, podemos aproveitar este conceito no Target para que os profissionais de marketing executem testes de A/B e XT em SPAs por meio do VEC. Isso exigirá uma configuração de desenvolvedor única. Vamos analisar as etapas de configuração.
 
-- Instalar a at.js 2.x. Primeiro, precisamos instalar a at.js 2.x. Essa versão da at.js foi desenvolvida para SPAs. As versões anteriores da at.js e do não são compatíveis com as Exibições do Adobe Target e o VEC for SPA. Baixe a at.js 2.x pela interface do usuário do Adobe Target localizada em Administração > Implementação. A at.js 2.x também pode ser implantada por meio de tags na Adobe Experience Platform . No entanto, as extensões do Adobe Target não estão atualizadas e não são compatíveis no momento.
-- Implemente a função mais recente da at.js 2.x: triggerView() em seus sites. Após definir as Exibições de SPA, onde deseja executar um teste A/B ou XT, implemente a função triggerView() da at.js 2.x com as Exibições passadas como parâmetro. Isso permite que os profissionais de marketing usem o VEC para projetar e executar os testes A/B e XT para essas Exibições definidas. Se a função triggerView() não estiver definida para essas Exibições, o VEC não detectará as Exibições e, portanto, os profissionais de marketing não poderão usar o VEC para projetar e executar testes A/B. adobe.target.triggerView(viewName, options) table 0-row-5 1-row-5 2-row-5 3-row-5 Parâmetro Tipo Obrigatório? Validação Descrição viewName String Sim ​1. Não há espaços à direita. 2. Não pode ficar em branco. 3. O nome da exibição deve ser exclusivo para todas as páginas. 4. Aviso : O nome da Exibição não deve iniciar ou terminar com ‘ / ’. Isso ocorre porque o cliente normalmente extrai o nome da Exibição do caminho do URL. Para nós, “inicial” e “ /home ” são diferentes. 5. Aviso : A mesma exibição não deve ser acionada consecutivamente várias vezes com a opção {page: true} . Transmita qualquer nome como um tipo de sequência de caracteres que você deseja representar sua exibição. Esse nome Exibição é mostrado no painel Modificações do VEC para que os profissionais de marketing criem ações e executem suas atividades A/B e XT. opções Objeto Não opções > página Booleano Não TRUE : O valor padrão da página é true. Quando page=true , as notificações serão enviadas aos servidores Edge para aumentar a contagem de impressões. FALSE : quando page=false , as notificações não serão enviadas para aumentar a contagem de impressões. Isso deve ser usado quando você deseja apenas renderizar novamente um componente em uma página com uma oferta. Agora vamos analisar alguns exemplos de casos de uso de como invocar a função triggerView() no React para nosso SPA hipotético de comércio eletrônico: Link: Site Residencial Como profissionais de marketing, se queremos executar testes A/B em todo o site inicial, talvez seja ideal nomear a exibição “inicial” que pode ser extraída do URL: code language-javascript function targetView() { var viewName = window.location.hash; // or use window.location.pathName if router works on path and not hash viewName = viewName || 'home'; // view name cannot be empty // Sanitize viewName to get rid of any trailing symbols derived from URL if (viewName.startsWith('#') || viewName.startsWith('/')) { viewName = viewName.substr(1); } // Validate if the Target Libraries are available on your website if (typeof adobe != 'undefined' && adobe.target && typeof adobe.target.triggerView === 'function') { adobe.target.triggerView(viewName); } } // react router v4 const history = syncHistoryWithStore(createBrowserHistory(), store); history.listen(targetView); // react router v3 <Router history={hashHistory} onUpdate={targetView} > Link: Site de Produtos Agora, vejamos um exemplo que é um pouco mais complicado. Digamos que, como profissionais de marketing, gostaríamos de personalizar a segunda linha dos produtos alterando a cor do rótulo de preço para vermelho, depois que um usuário clicou no botão Carregar mais. code language-javascript function targetView(viewName) { // Validate if the Target Libraries are available on your website if (typeof adobe != 'undefined' && adobe.target && typeof adobe.target.triggerView === 'function') { adobe.target.triggerView(viewName); } } class Products extends Component { render() { return ( <button type="button" onClick={this.handleLoadMoreClicked}>Load more</button> ); } handleLoadMoreClicked() { var page = this.state.page + 1; // assuming page number is derived from component's state this.setState({page: page}); targetView('PRODUCTS-PAGE-' + page); } } Link: Check-out Se os profissionais de marketing quiserem personalizar o conteúdo no site, dependendo da preferência de entrega selecionada, é possível criar uma exibição para cada preferência de entrega. Nesse caso, quando selecionamos Entrega normal, a Exibição pode se chamar “Entrega normal”. Se a opção Entrega expressa estiver selecionada, a Exibição pode ser chamada de “Entrega expressa”. Agora, os profissionais de marketing podem executar um teste A/B para ver se a alteração da cor de azul para vermelho quando a opção Entrega expressa está selecionada pode aumentar as conversões em vez de manter a cor do botão azul para ambas as opções de entrega. code language-javascript function targetView(viewName) { // Validate if the Target Libraries are available on your website if (typeof adobe != 'undefined' && adobe.target && typeof adobe.target.triggerView === 'function') { adobe.target.triggerView(viewName); } } class Checkout extends Component { render() { return ( <div onChange={this.onDeliveryPreferenceChanged}> <label> <input type="radio" id="normal" name="deliveryPreference" value={"Normal Delivery"} defaultChecked={true}/> <span> Normal Delivery (7-10 business days)</span> </label> <label> <input type="radio" id="express" name="deliveryPreference" value={"Express Delivery"}/> <span> Express Delivery* (2-3 business days)</span> </label> </div> ); } onDeliveryPreferenceChanged(evt) { var selectedPreferenceValue = evt.target.value; targetView(selectedPreferenceValue); } }
-- Inicie atividades A/B ou XT por meio do VEC.
+Instalar a at.js 2.x.
+Primeiro, precisamos instalar a at.js 2.x. Essa versão da at.js foi desenvolvida para SPAs. As versões anteriores da at.js e do não são compatíveis com as Exibições do Adobe Target e o VEC for SPA.
 
+Baixe a at.js 2.x pela interface do usuário do Adobe Target localizada em Administração > Implementação. A at.js 2.x também pode ser implantada por meio de tags na [Adobe Experience Platform](/pt-br/docs/target-dev/developer/client-side/at-js-implementation/deploy-at-js/implement-target-using-adobe-launch#_blank). No entanto, as extensões do Adobe Target não estão atualizadas e não são compatíveis no momento.
+
+Implementar a função mais recente da at.js 2.x
+Implemente a função mais recente da at.js 2.x [triggerView()](/pt-br/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/adobe-target-triggerview-atjs-2#_blank) em seus sites.
+
+Após definir as Exibições de SPA, onde deseja executar um teste A/B ou XT, implemente a função triggerView() da at.js 2.x com as Exibições passadas como parâmetro. Isso permite que os profissionais de marketing usem o VEC para projetar e executar os testes A/B e XT para essas Exibições definidas. Se a função triggerView() não estiver definida para essas Exibições, o VEC não detectará as Exibições e, portanto, os profissionais de marketing não poderão usar o VEC para projetar e executar testes A/B.
+
+**adobe.target.triggerView(viewName, options)**
+
+| table 0-row-5 1-row-5 2-row-5 3-row-5 |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Parâmetro | Tipo | Obrigatório? | Validação | Descrição |
+| viewName | String | Sim | ​1. Não há espaços à direita.2. Não pode ficar em branco.3. O nome da exibição deve ser exclusivo para todas as páginas.4. **Aviso**: O nome da Exibição não deve iniciar ou terminar com ‘/’. Isso ocorre porque o cliente normalmente extrai o nome da Exibição do caminho do URL. Para nós, “inicial” e “/home” são diferentes.5. **Aviso**: A mesma exibição não deve ser acionada consecutivamente várias vezes com a opção {page: true}. | Transmita qualquer nome como um tipo de sequência de caracteres que você deseja representar sua exibição. Esse nome Exibição é mostrado no painel Modificações do VEC para que os profissionais de marketing criem ações e executem suas atividades A/B e XT. |
+| opções | Objeto | Não |  |  |
+| opções > página | Booleano | Não |  | **TRUE**: O valor padrão da página é true. Quando page=true, as notificações serão enviadas aos servidores Edge para aumentar a contagem de impressões.**FALSE**: quando page=false, as notificações não serão enviadas para aumentar a contagem de impressões. Isso deve ser usado quando você deseja apenas renderizar novamente um componente em uma página com uma oferta. |
+
+Agora vamos analisar alguns exemplos de casos de uso de como invocar a função triggerView() no React para nosso SPA hipotético de comércio eletrônico:
+
+**Link: Site Residencial**
+
+Como profissionais de marketing, se queremos executar testes A/B em todo o site inicial, talvez seja ideal nomear a exibição “inicial” que pode ser extraída do URL:
+
+| code language-javascript |
+| --- |
+| function targetView() { var viewName = window.location.hash; // or use window.location.pathName if router works on path and not hash viewName = viewName || 'home'; // view name cannot be empty // Sanitize viewName to get rid of any trailing symbols derived from URL if (viewName.startsWith('#') || viewName.startsWith('/')) { viewName = viewName.substr(1); } // Validate if the Target Libraries are available on your website if (typeof adobe != 'undefined' && adobe.target && typeof adobe.target.triggerView === 'function') { adobe.target.triggerView(viewName); } } // react router v4 const history = syncHistoryWithStore(createBrowserHistory(), store); history.listen(targetView); // react router v3 <Router history={hashHistory} onUpdate={targetView} > |
+
+**Link: Site de Produtos**
+
+Agora, vejamos um exemplo que é um pouco mais complicado. Digamos que, como profissionais de marketing, gostaríamos de personalizar a segunda linha dos produtos alterando a cor do rótulo de preço para vermelho, depois que um usuário clicou no botão Carregar mais.
+
+| code language-javascript |
+| --- |
+| function targetView(viewName) { // Validate if the Target Libraries are available on your website if (typeof adobe != 'undefined' && adobe.target && typeof adobe.target.triggerView === 'function') { adobe.target.triggerView(viewName); } } class Products extends Component { render() { return ( <button type="button" onClick={this.handleLoadMoreClicked}>Load more</button> ); } handleLoadMoreClicked() { var page = this.state.page + 1; // assuming page number is derived from component's state this.setState({page: page}); targetView('PRODUCTS-PAGE-' + page); } } |
+
+**Link: Check-out**
+
+Se os profissionais de marketing quiserem personalizar o conteúdo no site, dependendo da preferência de entrega selecionada, é possível criar uma exibição para cada preferência de entrega. Nesse caso, quando selecionamos Entrega normal, a Exibição pode se chamar “Entrega normal”. Se a opção Entrega expressa estiver selecionada, a Exibição pode ser chamada de “Entrega expressa”.
+
+Agora, os profissionais de marketing podem executar um teste A/B para ver se a alteração da cor de azul para vermelho quando a opção Entrega expressa está selecionada pode aumentar as conversões em vez de manter a cor do botão azul para ambas as opções de entrega.
+
+| code language-javascript |
+| --- |
+| function targetView(viewName) { // Validate if the Target Libraries are available on your website if (typeof adobe != 'undefined' && adobe.target && typeof adobe.target.triggerView === 'function') { adobe.target.triggerView(viewName); } } class Checkout extends Component { render() { return ( <div onChange={this.onDeliveryPreferenceChanged}> <label> <input type="radio" id="normal" name="deliveryPreference" value={"Normal Delivery"} defaultChecked={true}/> <span> Normal Delivery (7-10 business days)</span> </label> <label> <input type="radio" id="express" name="deliveryPreference" value={"Express Delivery"}/> <span> Express Delivery* (2-3 business days)</span> </label> </div> ); } onDeliveryPreferenceChanged(evt) { var selectedPreferenceValue = evt.target.value; targetView(selectedPreferenceValue); } } |
+
+Inicie atividades A/B ou XT por meio do VEC.
 Quando adobe.target.triggerView() é implementado em sua SPA com nomes de exibição passados como parâmetros, o VEC poderá detectar essas exibições e permitir que os usuários criem ações e modificações para suas atividades de A/B ou XT.
 
-NOTE
-O VEC for SPAs é realmente o mesmo VEC que você usa em páginas da Web regulares, mas alguns recursos adicionais estão disponíveis ao abrir um aplicativo de página única com a implementação de
-triggerView()
-.
+| note |
+| --- |
+| NOTE |
+| O VEC for SPAs é realmente o mesmo VEC que você usa em páginas da Web regulares, mas alguns recursos adicionais estão disponíveis ao abrir um aplicativo de página única com a implementação de triggerView(). |
+
 Há duas melhorias importantes no painel [Modificações](/pt-br/docs/target/using/experiences/vec/modifications/vec-code-editor) e Ações para o VEC que permitem seu funcione adequado com SPAs.
 
 **Painel de modificações**
@@ -4469,25 +4514,20 @@ Clique em uma ação para destacar o elemento no site onde esta ação será apl
 
 A seguinte tabela descreve cada ação:
 
-Página
-Descrição
-Informações
-Exibe os detalhes da ação.
-Editar
-Permite editar as propriedades da ação diretamente.
-Clonar
-Clona a ação a uma ou mais Exibições que existem no painel Modificações ou a uma ou mais Exibições que você buscou e nas quais navegou no VEC. A ação não precisa existir necessariamente no painel Modificações.
-Observação
-: após a realização de uma operação de clonagem, é necessário navegar para o Modo de Exibição no VEC via Procurar para ver se a ação clonada foi uma operação válida. Se a ação não puder ser aplicada à Exibição, você verá um erro.
-Mover
-Move a ação para um Evento de carregamento de página ou qualquer outra Exibição que já existe no painel de modificações.
-Evento de carregamento de página - qualquer ação correspondente ao evento de carregamento de página é aplicada no carregamento inicial da página no aplicativo da Web.
-Observação
-: após a realização de uma operação de mover, é necessário navegar para a Exibição no VEC via Procurar para ver se a movimentação foi uma operação válida. Se a ação não puder ser aplicada à Exibição, você verá um erro
-Excluir
-Exclui a ação.
-NOTE
-É possível executar muitas ações antes que a página seja carregada no VEC ou até mesmo se a página não carregar completamente. Ações que não podem ser editadas antes que o site seja carregado estão desabilitadas na interface.
+| table 0-row-2 1-row-2 2-row-2 3-row-2 4-row-2 5-row-2 |  |
+| --- | --- |
+| Página | Descrição |
+| Informações | Exibe os detalhes da ação. |
+| Editar | Permite editar as propriedades da ação diretamente. |
+| Clonar | Clona a ação a uma ou mais Exibições que existem no painel Modificações ou a uma ou mais Exibições que você buscou e nas quais navegou no VEC. A ação não precisa existir necessariamente no painel Modificações.**Observação**: após a realização de uma operação de clonagem, é necessário navegar para o Modo de Exibição no VEC via Procurar para ver se a ação clonada foi uma operação válida. Se a ação não puder ser aplicada à Exibição, você verá um erro. |
+| Mover | Move a ação para um Evento de carregamento de página ou qualquer outra Exibição que já existe no painel de modificações.Evento de carregamento de página - qualquer ação correspondente ao evento de carregamento de página é aplicada no carregamento inicial da página no aplicativo da Web.**Observação**: após a realização de uma operação de mover, é necessário navegar para a Exibição no VEC via Procurar para ver se a movimentação foi uma operação válida. Se a ação não puder ser aplicada à Exibição, você verá um erro |
+| Excluir | Exclui a ação. |
+
+| note |
+| --- |
+| NOTE |
+| É possível executar muitas ações antes que a página seja carregada no VEC ou até mesmo se a página não carregar completamente. Ações que não podem ser editadas antes que o site seja carregado estão desabilitadas na interface. |
+
 **Exemplo 1**
 
 Vamos consultar o exemplo acima em que criamos uma exibição de Página inicial. Nosso objetivo é criar duas dobras para esta exibição:
@@ -4518,10 +4558,11 @@ Por fim, como mencionado anteriormente, as Exibições podem ser definidas em n�
 - Clique em Compor.
 - Altere o botão “Pagar” para ler o botão “Concluir o pedido” e altere a cor para vermelho.
 
-NOTE
-A exibição CHECKOUT-EXPRESS não será mostrada no painel de modificação até você clicar no botão de opção Entrega expressa. Isso ocorre porque a função
-triggerView()
-acionada quando o botão de opção Entrega expressa é selecionado e isso ocorre somente quando o VEC sabe que há uma Exibição para mostrar no painel de modificação.
+| note |
+| --- |
+| NOTE |
+| A exibição CHECKOUT-EXPRESS não será mostrada no painel de modificação até você clicar no botão de opção Entrega expressa. Isso ocorre porque a função triggerView() acionada quando o botão de opção Entrega expressa é selecionado e isso ocorre somente quando o VEC sabe que há uma Exibição para mostrar no painel de modificação. |
+
 ## Análise detalhada de at.js e SPAs
 
 **Como posso recuperar as exibições dos dados de público-alvo mais recentes com ações após o carregamento da página inicial em meu SPA?**
@@ -4727,7 +4768,7 @@ recommendation-more-help
 ---
 title: "Apple Intelligent Tracking Prevention (ITP) 2.x"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/privacy/apple-itp-2x"
-created_at: "2026-10-01T14:21:33.227468+00:00"
+created_at: "2026-10-01T18:23:14.933472+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -4798,7 +4839,7 @@ recommendation-more-help
 ---
 title: "Artefato da regra de decisão no dispositivo"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/on-device-decisioning/rule-artifact"
-created_at: "2026-10-01T14:23:38.366066+00:00"
+created_at: "2026-10-01T18:25:42.339751+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -4827,7 +4868,7 @@ recommendation-more-help
 ---
 title: "Atividade multipáginas"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/multipage-activity"
-created_at: "2026-10-01T14:22:09.258643+00:00"
+created_at: "2026-10-01T18:23:58.773933+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -4866,7 +4907,7 @@ recommendation-more-help
 ---
 title: "Atividades do Recommendations Classic versus Recommendations no Target Premium"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-faq/recommendations-classic-versus-recommendations-activities-target-premium"
-created_at: "2026-10-01T14:20:59.139719+00:00"
+created_at: "2026-10-01T18:22:36.795109+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -4945,7 +4986,7 @@ recommendation-more-help
 ---
 title: "Atributos da entidade"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/entities/entity-attributes"
-created_at: "2026-10-01T14:23:28.299859+00:00"
+created_at: "2026-10-01T18:25:29.165935+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -5192,7 +5233,7 @@ recommendation-more-help
 ---
 title: "Atributos de entidade personalizados"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/entities/custom-entity-attributes"
-created_at: "2026-10-01T14:22:02.764982+00:00"
+created_at: "2026-10-01T18:23:50.576955+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -5458,7 +5499,7 @@ recommendation-more-help
 ---
 title: "Atributos de perfil de script"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/methods/script-profile-attributes"
-created_at: "2026-10-01T14:23:30.535981+00:00"
+created_at: "2026-10-01T18:25:32.261754+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -5525,7 +5566,7 @@ recommendation-more-help
 ---
 title: "Atributos de perfil na página"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/methods/in-page-profile-attributes"
-created_at: "2026-10-01T14:23:29.797913+00:00"
+created_at: "2026-10-01T18:25:31.253954+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -5600,7 +5641,7 @@ recommendation-more-help
 ---
 title: "Atributos do cliente"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/methods/customer-attributes"
-created_at: "2026-10-01T14:22:46.456120+00:00"
+created_at: "2026-10-01T18:24:40.113748+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -5660,7 +5701,7 @@ recommendation-more-help
 ---
 title: "Atributos do cliente"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/visitor-profiles/working-with-customer-attributes"
-created_at: "2026-10-01T14:23:35.384073+00:00"
+created_at: "2026-10-01T18:25:38.487724+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -5788,7 +5829,7 @@ recommendation-more-help
 ---
 title: "Atributos do perfil"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/visitor-profiles/profile-parameters"
-created_at: "2026-10-01T14:20:45.727775+00:00"
+created_at: "2026-10-01T18:22:20.255331+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -6096,7 +6137,7 @@ recommendation-more-help
 ---
 title: "Atualizar perfis"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/profile-apis/profile-api-overview"
-created_at: "2026-10-01T14:23:11.934023+00:00"
+created_at: "2026-10-01T18:25:08.717021+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -6134,7 +6175,7 @@ recommendation-more-help
 ---
 title: "Atualização da at.js 1. x para at.js 2. x"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/upgrading-from-atjs-1x-to-atjs-20"
-created_at: "2026-10-01T14:23:55.810871+00:00"
+created_at: "2026-10-01T18:26:03.227685+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -7013,7 +7054,7 @@ recommendation-more-help
 ---
 title: "Atualizações do status do sistema e notificações proativas"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/system-status-updates"
-created_at: "2026-10-01T14:20:55.666631+00:00"
+created_at: "2026-10-01T18:22:32.759757+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -7057,7 +7098,7 @@ recommendation-more-help
 ---
 title: "Aumento e Confiança - Perguntas frequentes sobre o A4T"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4t-faq/a4t-faq-lift-and-confidence"
-created_at: "2026-10-01T14:20:40.820200+00:00"
+created_at: "2026-10-01T18:22:14.663513+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -7119,7 +7160,7 @@ recommendation-more-help
 ---
 title: "Aumento estimado na receita"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/reporting/estimating-lift-in-revenue"
-created_at: "2026-10-01T14:19:19.699037+00:00"
+created_at: "2026-10-01T18:20:38.793801+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -7173,7 +7214,7 @@ recommendation-more-help
 ---
 title: "Automated Personalization (AP)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/automated-personalization"
-created_at: "2026-10-01T14:19:01.157180+00:00"
+created_at: "2026-10-01T18:20:17.951368+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -7270,7 +7311,7 @@ recommendation-more-help
 ---
 title: "Baixando, armazenando e atualizando automaticamente o artefato de regra por meio do SDK Adobe Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/on-device-decisioning/rule-artifact/rule-artifact-sdk"
-created_at: "2026-10-01T14:23:50.434686+00:00"
+created_at: "2026-10-01T18:25:56.569354+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -7353,7 +7394,7 @@ recommendation-more-help
 ---
 title: "Baixar, armazenar e atualizar o artefato da regra por meio da carga JSON"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/on-device-decisioning/rule-artifact/rule-artifact-json"
-created_at: "2026-10-01T14:23:51.292320+00:00"
+created_at: "2026-10-01T18:25:57.756050+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -7432,7 +7473,7 @@ recommendation-more-help
 ---
 title: "Basear a recomendação em uma chave de recomendação"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/base-the-recommendation-on-a-recommendation-key"
-created_at: "2026-10-01T14:21:24.468406+00:00"
+created_at: "2026-10-01T18:23:04.824710+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -7946,7 +7987,7 @@ recommendation-more-help
 ---
 title: "Biblioteca do Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/target-library"
-created_at: "2026-10-01T14:24:01.034002+00:00"
+created_at: "2026-10-01T18:26:09.204523+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -7985,7 +8026,7 @@ recommendation-more-help
 ---
 title: "Bookmarklet de controle de qualidade da atividade"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/activity-qa/activity-qa-bookmark"
-created_at: "2026-10-01T14:20:20.545554+00:00"
+created_at: "2026-10-01T18:21:52.275736+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -8064,7 +8105,7 @@ recommendation-more-help
 ---
 title: "Browser"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/browser"
-created_at: "2026-10-01T14:21:11.051931+00:00"
+created_at: "2026-10-01T18:22:50.679370+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -8218,13 +8259,73 @@ recommendation-more-help
 
 
 ---
+# FILE: calculadora-de-tamanho-da-amostra-c54b0b34.md
+---
+
+---
+title: "Calculadora de tamanho da amostra"
+url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/sample-size-calculator"
+created_at: "2026-10-01T18:20:04.875188+00:00"
+---
+Breadcrumbs: Documentação > Target > Guia do Target
+
+[Beta]{class="badge informative"}
+
+# Calculadora de tamanho da amostra
+
+Última atualização: 1 de outubro de 2026
+- Tópicos:
+- [Activities](#)
+
+AVAILABILITY
+Ao usar esta calculadora de tamanho de exemplo (Beta), você reconhece que a Beta é fornecida "no estado em que se encontra" sem nenhum tipo de garantia. A Adobe não tem nenhuma obrigação de manter, corrigir, atualizar, alterar, modificar ou oferecer suporte à Beta. É recomendável ter cuidado e não depender de forma alguma do funcionamento ou desempenho correto desse Beta e/ou dos materiais que o acompanham. O Beta é considerado Informações confidenciais da Adobe. Qualquer "Feedback" (informação sobre o Beta incluindo, mas não se limitando a, problemas ou defeitos encontrados durante o uso do Beta, sugestões, melhorias e recomendações) fornecido por Você ao Adobe é atribuído ao Adobe, incluindo todos os direitos, cargos e interesses no e no Feedback.
+A **Calculadora de Tamanho da Amostra** permite estimar as entradas necessárias para planejar um experimento antes de iniciá-lo. A calculadora ajuda a determinar quanto tráfego você precisa, quanto tempo o teste deve ser executado, quantas experiências devem ser incluídas ou qual efeito mínimo você pode detectar de forma confiável com base nos valores fornecidos.
+
+Para acessar a **Calculadora de Tamanho da Amostra**, acesse o menu **Atividades**.
+
+## A/B (relatórios do Target)
+
+Estime as entradas necessárias para planejar e executar um teste A/B. Esses valores ajudam você a decidir quanto tráfego precisa, por quanto tempo o teste deve ser executado e qual tamanho de efeito pode ser detectado de forma realista.
+
+- Acesse a guia A/B (Relatórios de Destino) para calcular entradas de planejamento para um teste A/B.
+- Habilite a opção Aplicar correção para ajustar o nível de confiança e considerar a comparação de mais de uma oferta com o controle ao mesmo tempo.
+- Escolha seu Tipo de métrica : Índice de conversão: use essa opção para resultados binários, como cliques ou compras, em que cada visitante conclui ou não a ação. Receita por visitante: use essa opção para métricas de estilo de receita, em que os valores podem variar bastante de visitante para visitante.
+- Especifique o Tráfego diário , o número de usuários entrando no experimento a cada dia.
+- Em Configurar o teste , insira os valores restantes: Número de ofertas : o número de experiências em seu experimento, incluindo o controle. Mais de duas ofertas aplicam uma correção Bonferroni, quando habilitada, para manter o nível geral de confiança. Aumento : a melhoria relativa em relação à linha de base que você deseja detectar. Insira-o como um percentual da linha de base, por exemplo, um aumento de 5% em uma meta de taxa de conversão de linha de base de 11,8% e 12,39%.
+- Especifique o Índice de conversão da linha de base para a sua experiência atual antes do início do experimento.
+- Você pode expandir Configurações estatísticas avançadas para fornecer entradas estatísticas adicionais quando elas estiverem disponíveis para o cálculo selecionado. Nível de confiança : a probabilidade de um resultado não ser aleatório. Um nível de 95% permite uma chance de 5% de um falso positivo. Potência estatística : a probabilidade de detectar um efeito real. Uma energia de 80% reduz falsos negativos, mas requer mais tráfego ou tempo.
+- Selecione Executar cálculo para gerar a estimativa. Selecione Redefinir para limpar as entradas atuais e iniciar novamente.
+
+O painel **Resultado** exibe a estimativa depois que você conclui os campos obrigatórios e executa o cálculo. Se os campos obrigatórios estiverem incompletos, o painel solicitará que você insira os valores ausentes.
+
+A calculadora fornece uma estimativa para planejar um experimento. Use o resultado junto com o design do experimento, o tráfego esperado, o desempenho da linha de base e os requisitos estatísticos ao decidir por quanto tempo executar a atividade.
+
+## A/B (CJA/Adobe Analytics)
+
+Estime as entradas de planejamento para uma atividade A/B que depende dos dados do Adobe Analytics ou do Customer Journey Analytics. Isso ajuda a definir o tamanho do experimento, o aumento esperado e a duração do teste antes de iniciar a atividade.
+
+- Acesse a guia A/B (CJA/Adobe Analytics) para calcular entradas de planejamento para um teste A/B.
+- Em O que você deseja saber? , selecione o valor que deseja que a calculadora determine: Duração : você tem um experimento em mente e deseja saber quanto tempo levaria para ser executado e se vale a pena executá-lo. Número de experiências : você tem um local para executar um experimento e deseja descobrir quantos tratamentos seu tráfego poderia suportar. Volume de tráfego : você tem um experimento em mente e deseja saber quantos visitantes precisam para atingir significância estatística. Efeito mínimo detectável : você tem um experimento que deseja executar, mas deseja saber quanto de um aumento é necessário para atingir significância estatística. Isso ajuda a avaliar se vale a pena executar ou planejar o experimento. Os campos no formulário mudam dependendo do valor selecionado. A calculadora usa as outras entradas para determinar o resultado selecionado.
+- Especifique o Tráfego diário , o número de usuários entrando no experimento a cada dia.
+- Em Configurar o teste , insira os valores restantes: Número de experiências : o número de variantes, incluindo o controle. Mais variantes exigem mais tráfego. Duração do teste A/B : o número de dias que o experimento é executado. Testes mais longos podem detectar efeitos menores. Aperfeiçoamento esperado : o aprimoramento que você espera que o experimento produza. Variação : a extensão dos valores de métrica. Uma taxa de click-through geralmente tem baixa variação, a receita por usuário pode ser muito maior. Se não tiver certeza, deixe o valor padrão como 1. Saiba como calcular uma Variação na documentação do Analytics
+- Você pode expandir Configurações estatísticas avançadas para fornecer entradas estatísticas adicionais quando elas estiverem disponíveis para o cálculo selecionado. Nível de confiança : a probabilidade de um resultado não ser aleatório. Um nível de 95% permite uma chance de 5% de um falso positivo. Níveis de confiança mais baixos significam menos tráfego, mas também aumentam o risco de um falso positivo. Potência estatística : a probabilidade de detectar um efeito real. Uma energia de 80% reduz falsos negativos, mas requer mais tráfego ou tempo.
+- Selecione Executar cálculo para gerar a estimativa. Selecione Redefinir para limpar as entradas atuais e iniciar novamente.
+
+O painel **Resultado** exibe a estimativa depois que você conclui os campos obrigatórios e executa o cálculo. Se os campos obrigatórios estiverem incompletos, o painel solicitará que você insira os valores ausentes.
+
+A calculadora fornece uma estimativa para planejar um experimento. Use o resultado junto com o design do experimento, o tráfego esperado, o desempenho da linha de base e os requisitos estatísticos ao decidir por quanto tempo executar a atividade.
+
+recommendation-more-help
+
+
+---
 # FILE: capítulo-1-introdução-5aef1089.md
 ---
 
 ---
 title: "Capítulo 1: Introdução"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/welcome/target-welcome-kit-1"
-created_at: "2026-10-01T14:22:20.942800+00:00"
+created_at: "2026-10-01T18:24:10.322497+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -8260,7 +8361,7 @@ recommendation-more-help
 ---
 title: "Capítulo 2: Principais características do Adobe Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/welcome/target-welcome-kit-2"
-created_at: "2026-10-01T14:22:21.739354+00:00"
+created_at: "2026-10-01T18:24:11.437004+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -8471,7 +8572,7 @@ recommendation-more-help
 ---
 title: "Capítulo 3: desenvolver ideias de teste e personalização"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/welcome/target-welcome-kit-3"
-created_at: "2026-10-01T14:22:22.788853+00:00"
+created_at: "2026-10-01T18:24:12.588102+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -8565,7 +8666,7 @@ recommendation-more-help
 ---
 title: "Capítulo 4: dicas para usar o Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/welcome/target-welcome-kit-4"
-created_at: "2026-10-01T14:22:23.598728+00:00"
+created_at: "2026-10-01T18:24:13.497055+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -8767,7 +8868,7 @@ recommendation-more-help
 ---
 title: "Capítulo 5: Inspiração para atividades de teste e personalização."
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/welcome/target-welcome-kit-5"
-created_at: "2026-10-01T14:22:24.463338+00:00"
+created_at: "2026-10-01T18:24:14.616076+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -8849,7 +8950,7 @@ recommendation-more-help
 ---
 title: "Capítulo 6: Armadilhas que podem ser evitadas facilmente"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/welcome/target-welcome-kit-6"
-created_at: "2026-10-01T14:22:25.465480+00:00"
+created_at: "2026-10-01T18:24:15.472739+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -8905,7 +9006,7 @@ recommendation-more-help
 ---
 title: "Capítulo 7: Criar e executar a primeira atividade do Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/welcome/target-welcome-kit-7"
-created_at: "2026-10-01T14:22:26.205102+00:00"
+created_at: "2026-10-01T18:24:16.387724+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -9020,7 +9121,7 @@ recommendation-more-help
 ---
 title: "Capítulo 8: Comunicar os resultados da atividade"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/welcome/target-welcome-kit-8"
-created_at: "2026-10-01T14:22:26.947287+00:00"
+created_at: "2026-10-01T18:24:17.220573+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -9046,7 +9147,7 @@ recommendation-more-help
 ---
 title: "Capítulo 9: Próximas etapas e recursos"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/welcome/target-welcome-kit-9"
-created_at: "2026-10-01T14:22:28.062275+00:00"
+created_at: "2026-10-01T18:24:18.425385+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -9098,7 +9199,7 @@ recommendation-more-help
 ---
 title: "Carregar dados para os algoritmos de personalização do Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/uploading-data-for-the-target-personalization-algorithms"
-created_at: "2026-10-01T14:22:18.713293+00:00"
+created_at: "2026-10-01T18:24:07.254875+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -9139,7 +9240,7 @@ recommendation-more-help
 ---
 title: "Categorias para públicos"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/target-rules"
-created_at: "2026-10-01T14:21:11.862567+00:00"
+created_at: "2026-10-01T18:22:51.734829+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -9183,7 +9284,7 @@ recommendation-more-help
 ---
 title: "Cenários de modificação da página"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/troubleshoot-composer/vec-scenarios"
-created_at: "2026-10-01T14:23:09.503402+00:00"
+created_at: "2026-10-01T18:25:05.597079+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -9517,7 +9618,7 @@ recommendation-more-help
 ---
 title: "Classificações - Perguntas frequentes sobre o A4T"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4t-faq/a4t-faq-classifications"
-created_at: "2026-10-01T14:20:43.179990+00:00"
+created_at: "2026-10-01T18:22:17.362128+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -9569,7 +9670,7 @@ recommendation-more-help
 ---
 title: "CNAME e Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/implement-cname-support-in-target"
-created_at: "2026-10-01T14:20:08.087282+00:00"
+created_at: "2026-10-01T18:21:38.188434+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -9879,7 +9980,7 @@ recommendation-more-help
 ---
 title: "Coleções"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/entities/collections"
-created_at: "2026-10-01T14:20:17.047800+00:00"
+created_at: "2026-10-01T18:21:48.262376+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -9947,7 +10048,7 @@ recommendation-more-help
 ---
 title: "Combinar vários públicos"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/combining-multiple-audiences"
-created_at: "2026-10-01T14:21:18.087333+00:00"
+created_at: "2026-10-01T18:22:57.707819+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -10020,7 +10121,7 @@ recommendation-more-help
 ---
 title: "Como a at.js funciona"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/at-js/how-atjs-works"
-created_at: "2026-10-01T14:20:54.113995+00:00"
+created_at: "2026-10-01T18:22:30.934353+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -10183,7 +10284,7 @@ recommendation-more-help
 ---
 title: "Como a at.js gerencia a cintilação"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/at-js/manage-flicker-with-atjs"
-created_at: "2026-10-01T14:23:40.363935+00:00"
+created_at: "2026-10-01T18:25:44.576032+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -10345,7 +10446,7 @@ recommendation-more-help
 ---
 title: "Como implantar a at.js"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/deploy-at-js/how-to-deployatjs"
-created_at: "2026-10-01T14:24:06.537694+00:00"
+created_at: "2026-10-01T18:26:16.121103+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -10386,7 +10487,7 @@ recommendation-more-help
 ---
 title: "Como o Adobe Target funciona"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/how-target-works"
-created_at: "2026-10-01T14:23:02.146695+00:00"
+created_at: "2026-10-01T18:24:57.509273+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -10602,7 +10703,7 @@ recommendation-more-help
 ---
 title: "Comparar a biblioteca at.js com a Adobe Experience Platform Web SDK"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/aep/web-sdk-atjs-comparison"
-created_at: "2026-10-01T14:22:49.372535+00:00"
+created_at: "2026-10-01T18:24:43.178797+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -11879,7 +11980,7 @@ recommendation-more-help
 ---
 title: "Compartilhamento de métricas, públicos-alvos e relatórios - Perguntas frequentes sobre o A4T"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4t-faq/a4t-faq-sharing-metrics-audiences-reports"
-created_at: "2026-10-01T14:20:42.432269+00:00"
+created_at: "2026-10-01T18:22:16.322509+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -11916,7 +12017,7 @@ recommendation-more-help
 ---
 title: "Compreensão da interface do Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/understand-the-target-ui"
-created_at: "2026-10-01T14:18:33.623847+00:00"
+created_at: "2026-10-01T18:19:41.705462+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -12080,7 +12181,7 @@ recommendation-more-help
 ---
 title: "Conceder acesso às integrações do Adobe I/O para espaços de trabalho e atribuir funções"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/manage-users/enterprise/configure-adobe-io-integration"
-created_at: "2026-10-01T14:21:32.476317+00:00"
+created_at: "2026-10-01T18:23:14.141272+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -12141,7 +12242,7 @@ recommendation-more-help
 ---
 title: "Configurar autenticação para Adobe Target APIs"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/configure-authentication"
-created_at: "2026-10-01T14:21:03.318496+00:00"
+created_at: "2026-10-01T18:22:42.093614+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -12278,7 +12379,7 @@ recommendation-more-help
 ---
 title: "Configurar coleção de dados"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation-patterns/atjs/data-collection"
-created_at: "2026-10-01T14:23:20.244952+00:00"
+created_at: "2026-10-01T18:25:18.931572+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -12388,7 +12489,7 @@ recommendation-more-help
 ---
 title: "Configurar o Visual Experience Composer"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/visual-experience-composer-set-up"
-created_at: "2026-10-01T14:19:44.531577+00:00"
+created_at: "2026-10-01T18:21:08.884062+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -12496,7 +12597,7 @@ recommendation-more-help
 ---
 title: "Configurar relatórios do A4T em Analysis Workspace para Auto-Allocate atividades"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities"
-created_at: "2026-10-01T14:21:16.430255+00:00"
+created_at: "2026-10-01T18:22:55.669824+00:00"
 ---
 Breadcrumbs: Documentação > Adobe Target > Tutoriais do Adobe Target
 
@@ -12660,7 +12761,7 @@ recommendation-more-help
 ---
 title: "Configurar relatórios do A4T em Analysis Workspace para Auto-Target atividades"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities"
-created_at: "2026-10-01T14:21:17.293230+00:00"
+created_at: "2026-10-01T18:22:56.548292+00:00"
 ---
 Breadcrumbs: Documentação > Adobe Target > Tutoriais do Adobe Target
 
@@ -12889,7 +12990,7 @@ recommendation-more-help
 ---
 title: "Configurar relatórios em Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/reporting/reporting"
-created_at: "2026-10-01T14:19:18.164776+00:00"
+created_at: "2026-10-01T18:20:36.891661+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -12980,7 +13081,7 @@ recommendation-more-help
 ---
 title: "Configuração de permissões empresariais"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/manage-users/enterprise/properties-overview"
-created_at: "2026-10-01T14:21:29.719931+00:00"
+created_at: "2026-10-01T18:23:11.000415+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -13124,7 +13225,7 @@ recommendation-more-help
 ---
 title: "Configuração do Dynamic Media Classic (antigo Scene7)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/scene7-settings"
-created_at: "2026-10-01T14:19:45.440571+00:00"
+created_at: "2026-10-01T18:21:09.834702+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -13169,7 +13270,7 @@ recommendation-more-help
 ---
 title: "Configurações da API de perfil"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/methods/profile-api-settings"
-created_at: "2026-10-01T14:21:54.304956+00:00"
+created_at: "2026-10-01T18:23:40.236159+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -13213,7 +13314,7 @@ recommendation-more-help
 ---
 title: "Configurações de atividade"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/activity-settings"
-created_at: "2026-10-01T14:22:01.891137+00:00"
+created_at: "2026-10-01T18:23:49.610764+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -13258,7 +13359,7 @@ recommendation-more-help
 ---
 title: "Configurações de atividade do Recomendações"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-activity/recs-activity-settings"
-created_at: "2026-10-01T14:23:01.334423+00:00"
+created_at: "2026-10-01T18:24:56.586911+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -13333,7 +13434,7 @@ recommendation-more-help
 ---
 title: "Configurações de atividade - Perguntas frequentes sobre o A4T"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4t-faq/a4t-faq-activity-setup"
-created_at: "2026-10-01T14:20:39.024439+00:00"
+created_at: "2026-10-01T18:22:12.691367+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -13409,7 +13510,7 @@ recommendation-more-help
 ---
 title: "Configurações do relatório"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/settings/report-settings"
-created_at: "2026-10-01T14:19:52.560324+00:00"
+created_at: "2026-10-01T18:21:18.882342+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -13655,7 +13756,7 @@ recommendation-more-help
 ---
 title: "Conflitos de atividades"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/activity-collisions"
-created_at: "2026-10-01T14:20:48.888888+00:00"
+created_at: "2026-10-01T18:22:24.563391+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -13697,7 +13798,7 @@ recommendation-more-help
 ---
 title: "Controle de qualidade da atividade"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/activity-qa/activity-qa"
-created_at: "2026-10-01T14:21:12.666799+00:00"
+created_at: "2026-10-01T18:22:52.623403+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -13814,7 +13915,7 @@ recommendation-more-help
 ---
 title: "Correspondência de atributo de perfil"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/dynamic-static/profile-attribute-matching"
-created_at: "2026-10-01T14:23:25.225231+00:00"
+created_at: "2026-10-01T18:25:25.116116+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -13887,7 +13988,7 @@ recommendation-more-help
 ---
 title: "Correspondência de atributos de entidade"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/dynamic-static/entity-attribute-matching"
-created_at: "2026-10-01T14:23:24.471896+00:00"
+created_at: "2026-10-01T18:25:24.265563+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -13972,7 +14073,7 @@ recommendation-more-help
 ---
 title: "Correspondência de parâmetros"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/dynamic-static/parameter-matching"
-created_at: "2026-10-01T14:23:25.997102+00:00"
+created_at: "2026-10-01T18:25:26.192958+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -14018,7 +14119,7 @@ recommendation-more-help
 ---
 title: "Criar combinações"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/multivariate-test/create-mvt/add-offers"
-created_at: "2026-10-01T14:22:36.394185+00:00"
+created_at: "2026-10-01T18:24:28.507588+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -14078,7 +14179,7 @@ recommendation-more-help
 ---
 title: "Criar critérios"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/create-new-algorithm"
-created_at: "2026-10-01T14:21:23.250745+00:00"
+created_at: "2026-10-01T18:23:03.634702+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -14214,7 +14315,7 @@ recommendation-more-help
 ---
 title: "Criar experiência em Direcionamento de experiência (XT)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/experience-targeting/create-targeting/xt-add-experience"
-created_at: "2026-10-01T14:21:41.756165+00:00"
+created_at: "2026-10-01T18:23:25.010411+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -14286,7 +14387,7 @@ recommendation-more-help
 ---
 title: "Criar Ofertas de redirecionamento"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/offers/offer-redirect"
-created_at: "2026-10-01T14:20:27.516729+00:00"
+created_at: "2026-10-01T18:22:00.359178+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -14357,7 +14458,7 @@ recommendation-more-help
 ---
 title: "Criar ofertas JSON"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/offers/create-json-offer"
-created_at: "2026-10-01T14:21:08.937117+00:00"
+created_at: "2026-10-01T18:22:48.763906+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -14490,7 +14591,7 @@ recommendation-more-help
 ---
 title: "Criar ofertas remotas"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/offers/about-remote-offers"
-created_at: "2026-10-01T14:20:09.051963+00:00"
+created_at: "2026-10-01T18:21:39.253763+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -14631,7 +14732,7 @@ recommendation-more-help
 ---
 title: "Criar pastas de ofertas"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/offers/create-content-folder"
-created_at: "2026-10-01T14:22:30.034922+00:00"
+created_at: "2026-10-01T18:24:20.480476+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -14681,7 +14782,7 @@ recommendation-more-help
 ---
 title: "Criar públicos-alvo"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/audiences"
-created_at: "2026-10-01T14:21:06.691487+00:00"
+created_at: "2026-10-01T18:22:45.788481+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -14777,7 +14878,7 @@ recommendation-more-help
 ---
 title: "Criar públicos em Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/create-audience"
-created_at: "2026-10-01T14:19:07.167295+00:00"
+created_at: "2026-10-01T18:20:24.603090+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -14833,7 +14934,7 @@ recommendation-more-help
 ---
 title: "Criar sequências de critérios"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/create-criteria-sequence"
-created_at: "2026-10-01T14:21:27.085105+00:00"
+created_at: "2026-10-01T18:23:07.817362+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -14903,7 +15004,7 @@ recommendation-more-help
 ---
 title: "Criar um design"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-design/create-design"
-created_at: "2026-10-01T14:21:01.698602+00:00"
+created_at: "2026-10-01T18:22:40.140591+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -15142,7 +15243,7 @@ recommendation-more-help
 ---
 title: "Criar um público-alvo com apenas uma atividade"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/creating-activity-only-audience"
-created_at: "2026-10-01T14:21:50.474051+00:00"
+created_at: "2026-10-01T18:23:35.582563+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -15188,7 +15289,7 @@ recommendation-more-help
 ---
 title: "Criar um público-alvo de comparação do atributo de perfil"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/creating-a-profile-attribute-comparison-audience"
-created_at: "2026-10-01T14:21:43.528524+00:00"
+created_at: "2026-10-01T18:23:26.953396+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -15243,7 +15344,7 @@ recommendation-more-help
 ---
 title: "Criar um teste multivariado"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/multivariate-test/create-mvt/create-multivariate-test"
-created_at: "2026-10-01T14:19:16.477656+00:00"
+created_at: "2026-10-01T18:20:34.866354+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -15297,7 +15398,7 @@ recommendation-more-help
 ---
 title: "Criar uma atividade de Alocação automática"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/auto-allocate/create-auto-allocate-activity"
-created_at: "2026-10-01T14:19:12.918622+00:00"
+created_at: "2026-10-01T18:20:30.685126+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -15341,7 +15442,7 @@ recommendation-more-help
 ---
 title: "Criar uma atividade de Direcionamento automático"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/auto-target/create-auto-target"
-created_at: "2026-10-01T14:19:13.722756+00:00"
+created_at: "2026-10-01T18:20:31.880993+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -15389,7 +15490,7 @@ recommendation-more-help
 ---
 title: "Criar uma atividade de Direcionamento de experiência (XT)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/experience-targeting/create-targeting/xt-create"
-created_at: "2026-10-01T14:19:15.680614+00:00"
+created_at: "2026-10-01T18:20:33.926381+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -15428,7 +15529,7 @@ recommendation-more-help
 ---
 title: "Criar uma atividade de Teste A/B"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/create/test-create-ab"
-created_at: "2026-10-01T14:19:12.104430+00:00"
+created_at: "2026-10-01T18:20:29.525447+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -15477,7 +15578,7 @@ recommendation-more-help
 ---
 title: "Criar uma atividade do Automated Personalization"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/create-ap-activity"
-created_at: "2026-10-01T14:19:14.616373+00:00"
+created_at: "2026-10-01T18:20:32.972044+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -15547,7 +15648,7 @@ recommendation-more-help
 ---
 title: "Criar uma atividade Recommendations"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-activity/create-recs-activity"
-created_at: "2026-10-01T14:20:03.027336+00:00"
+created_at: "2026-10-01T18:21:32.093311+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -15595,7 +15696,7 @@ recommendation-more-help
 ---
 title: "Critérios"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/algorithms"
-created_at: "2026-10-01T14:20:59.873481+00:00"
+created_at: "2026-10-01T18:22:37.915425+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -15711,7 +15812,7 @@ recommendation-more-help
 ---
 title: "Cálculos estatísticos em testes A/Bn"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/statistical-methodology/statistical-calculations"
-created_at: "2026-10-01T14:21:48.874888+00:00"
+created_at: "2026-10-01T18:23:33.662705+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -15877,7 +15978,7 @@ recommendation-more-help
 ---
 title: "Dados usados por algoritmos de aprendizado de máquina do Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/ap-data"
-created_at: "2026-10-01T14:21:35.004480+00:00"
+created_at: "2026-10-01T18:23:17.167033+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -16261,7 +16362,7 @@ recommendation-more-help
 ---
 title: "Decisão no dispositivo para at.js"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/on-device-decisioning/on-device-decisioning"
-created_at: "2026-10-01T14:22:39.814287+00:00"
+created_at: "2026-10-01T18:24:32.358665+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -16646,7 +16747,7 @@ recommendation-more-help
 ---
 title: "Definir configurações para Recommendations"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/recommendations-settings"
-created_at: "2026-10-01T14:19:50.948659+00:00"
+created_at: "2026-10-01T18:21:16.851277+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -16692,7 +16793,7 @@ recommendation-more-help
 ---
 title: "Definir métricas"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/create/ab-set-metrics"
-created_at: "2026-10-01T14:22:37.897830+00:00"
+created_at: "2026-10-01T18:24:30.364065+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -16741,7 +16842,7 @@ recommendation-more-help
 ---
 title: "Definições de métricas - Perguntas frequentes sobre o A4T"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4t-faq/a4t-faq-metric-definition"
-created_at: "2026-10-01T14:20:41.545704+00:00"
+created_at: "2026-10-01T18:22:15.488241+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -16794,7 +16895,7 @@ recommendation-more-help
 ---
 title: "Depurar a at.js usando o Adobe Experience Cloud Debugger"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/target-debugging-atjs"
-created_at: "2026-10-01T14:24:08.031401+00:00"
+created_at: "2026-10-01T18:26:18.248162+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -16837,13 +16938,13 @@ recommendation-more-help
 ---
 title: "Detalhes da versão da at.js"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/target-atjs-versions"
-created_at: "2026-10-01T14:23:17.749967+00:00"
+created_at: "2026-10-01T18:25:15.924766+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
 # Detalhes da versão da at.js
 
-Última atualização: 25 de setembro de 2026
+Última atualização: 1 de outubro de 2026
 - Tópicos:
 - [Públicos-alvo](#)
 - [Implementação](#)
@@ -17371,7 +17472,7 @@ recommendation-more-help
 ---
 title: "Dez erros comuns em testes A/B e como evitá-los"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/common-ab-testing-pitfalls"
-created_at: "2026-10-01T14:20:31.178370+00:00"
+created_at: "2026-10-01T18:22:04.323141+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -17532,7 +17633,7 @@ recommendation-more-help
 ---
 title: "Direcionamento de experiência (XT)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/experience-targeting/experience-target"
-created_at: "2026-10-01T14:19:25.177979+00:00"
+created_at: "2026-10-01T18:20:45.687129+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -17580,7 +17681,7 @@ recommendation-more-help
 ---
 title: "Direcionamento de público"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/core-principles/audience-targeting"
-created_at: "2026-10-01T14:23:22.917106+00:00"
+created_at: "2026-10-01T18:25:22.116699+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -17819,7 +17920,7 @@ recommendation-more-help
 ---
 title: "Diretivas da Política de segurança de conteúdo (CSP)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/privacy/content-security-policy"
-created_at: "2026-10-01T14:20:54.918118+00:00"
+created_at: "2026-10-01T18:22:31.891648+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -17928,7 +18029,7 @@ recommendation-more-help
 ---
 title: "Dispositivo móvel"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/mobile"
-created_at: "2026-10-01T14:21:44.975696+00:00"
+created_at: "2026-10-01T18:23:28.951255+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -18011,7 +18112,7 @@ recommendation-more-help
 ---
 title: "Download de dados em um arquivo CSV"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/settings/downloading-data-in-csv-file"
-created_at: "2026-10-01T14:19:53.290460+00:00"
+created_at: "2026-10-01T18:21:19.900486+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -18085,7 +18186,7 @@ recommendation-more-help
 ---
 title: "Duração do perfil do visitante"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/visitor-profiles/visitor-profile-lifetime"
-created_at: "2026-10-01T14:23:14.285726+00:00"
+created_at: "2026-10-01T18:25:11.638497+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -18113,7 +18214,7 @@ recommendation-more-help
 ---
 title: "Editar uma atividade"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/edit-activity"
-created_at: "2026-10-01T14:19:28.591617+00:00"
+created_at: "2026-10-01T18:20:49.860966+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -18185,7 +18286,7 @@ recommendation-more-help
 ---
 title: "Email: implementação de Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implement-email/overview"
-created_at: "2026-10-01T14:19:39.550774+00:00"
+created_at: "2026-10-01T18:21:03.088126+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -18246,7 +18347,7 @@ recommendation-more-help
 ---
 title: "Endereços IP usados por Recommendations servidores de processamento de feed"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-faq/ip-addresses-marketing-cloud"
-created_at: "2026-10-01T14:20:21.372472+00:00"
+created_at: "2026-10-01T18:21:53.224584+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -18302,7 +18403,7 @@ recommendation-more-help
 ---
 title: "Entender como a at.js 2.0 do Adobe Target funciona"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-learn/tutorials/implementation/understanding-how-atjs-20-works"
-created_at: "2026-10-01T14:22:31.545360+00:00"
+created_at: "2026-10-01T18:24:22.626665+00:00"
 ---
 Breadcrumbs: Documentação > Adobe Target > Tutoriais do Adobe Target
 
@@ -18358,7 +18459,7 @@ recommendation-more-help
 ---
 title: "Entidades"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/entities/products"
-created_at: "2026-10-01T14:21:00.694960+00:00"
+created_at: "2026-10-01T18:22:38.801280+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -18390,7 +18491,7 @@ recommendation-more-help
 ---
 title: "Envio de parâmetros para uma mbox global"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/global-mbox/pass-parameters-to-global-mbox"
-created_at: "2026-10-01T14:23:11.135285+00:00"
+created_at: "2026-10-01T18:25:07.639292+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -18511,7 +18612,7 @@ recommendation-more-help
 ---
 title: "Estimar o tráfego necessário para uma atividade de Teste multivariado bem-sucedida"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/multivariate-test/create-mvt/traffic-estimator"
-created_at: "2026-10-01T14:20:35.766712+00:00"
+created_at: "2026-10-01T18:22:09.996320+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -18546,7 +18647,7 @@ recommendation-more-help
 ---
 title: "Estimativa de tráfego exigido para o sucesso"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/ap-traffic-estimator"
-created_at: "2026-10-01T14:22:11.192822+00:00"
+created_at: "2026-10-01T18:24:00.922292+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -18591,7 +18692,7 @@ recommendation-more-help
 ---
 title: "Eventos personalizados da at.js"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/atjs-custom-events"
-created_at: "2026-10-01T14:23:56.606010+00:00"
+created_at: "2026-10-01T18:26:04.265975+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -18764,7 +18865,7 @@ recommendation-more-help
 ---
 title: "Excluir valores extremos"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/settings/excluding-extreme-orders"
-created_at: "2026-10-01T14:23:00.551080+00:00"
+created_at: "2026-10-01T18:24:55.747051+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -18803,7 +18904,7 @@ recommendation-more-help
 ---
 title: "Exclusões"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/entities/exclusions"
-created_at: "2026-10-01T14:21:40.852470+00:00"
+created_at: "2026-10-01T18:23:23.975837+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -18867,7 +18968,7 @@ recommendation-more-help
 ---
 title: "Exemplo de artefato de regra"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/on-device-decisioning/rule-artifact/rule-artifact-example"
-created_at: "2026-10-01T14:23:52.235168+00:00"
+created_at: "2026-10-01T18:25:58.783334+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -19781,7 +19882,7 @@ recommendation-more-help
 ---
 title: "Exibir várias métricas em um relatório"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/settings/view-multiple-metrics"
-created_at: "2026-10-01T14:21:53.445265+00:00"
+created_at: "2026-10-01T18:23:39.292474+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -19819,7 +19920,7 @@ recommendation-more-help
 ---
 title: "Exibição de relatórios - Perguntas frequentes sobre o A4T"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4t-faq/a4t-faq-viewing-reports"
-created_at: "2026-10-01T14:20:39.989117+00:00"
+created_at: "2026-10-01T18:22:13.714499+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -20021,7 +20122,7 @@ recommendation-more-help
 ---
 title: "Exigências de permissão do usuário"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/account-reqs"
-created_at: "2026-10-01T14:23:07.201125+00:00"
+created_at: "2026-10-01T18:25:02.919824+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -20076,7 +20177,7 @@ recommendation-more-help
 ---
 title: "Experience Composer baseado em formulário"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/form-experience-composer"
-created_at: "2026-10-01T14:19:26.844085+00:00"
+created_at: "2026-10-01T18:20:47.732032+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -20127,7 +20228,7 @@ recommendation-more-help
 ---
 title: "Experiências de visualização para um Teste multivariado"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/multivariate-test/create-mvt/preview-experiences"
-created_at: "2026-10-01T14:21:58.459833+00:00"
+created_at: "2026-10-01T18:23:45.641364+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -20158,7 +20259,7 @@ recommendation-more-help
 ---
 title: "Experiências e ofertas"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/experiences"
-created_at: "2026-10-01T14:18:38.631671+00:00"
+created_at: "2026-10-01T18:19:48.162452+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -20195,7 +20296,7 @@ recommendation-more-help
 ---
 title: "Extensão Auxiliar de edição visual"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/troubleshoot-composer/visual-editing-helper-extension"
-created_at: "2026-10-01T14:20:07.247371+00:00"
+created_at: "2026-10-01T18:21:37.205741+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -20270,7 +20371,7 @@ recommendation-more-help
 ---
 title: "Extensão auxiliar do Visual Experience Composer"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/troubleshoot-composer/vec-helper-browser-extension"
-created_at: "2026-10-01T14:21:10.129774+00:00"
+created_at: "2026-10-01T18:22:49.683891+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -20343,7 +20444,7 @@ recommendation-more-help
 ---
 title: "Feeds"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/entities/feeds"
-created_at: "2026-10-01T14:20:13.653028+00:00"
+created_at: "2026-10-01T18:21:44.441728+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -20687,7 +20788,7 @@ recommendation-more-help
 ---
 title: "Filtro estático"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/dynamic-static/static-value"
-created_at: "2026-10-01T14:23:26.763549+00:00"
+created_at: "2026-10-01T18:25:27.098464+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -20721,7 +20822,7 @@ recommendation-more-help
 ---
 title: "Fontes de tráfego"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/traffic-sources"
-created_at: "2026-10-01T14:22:42.245159+00:00"
+created_at: "2026-10-01T18:24:35.062950+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -20764,7 +20865,7 @@ recommendation-more-help
 ---
 title: "Fragmentos de experiência e conteúdo do AEM"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/offers/aem-experience-fragments"
-created_at: "2026-10-01T14:21:18.809548+00:00"
+created_at: "2026-10-01T18:22:58.610658+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -20788,7 +20889,7 @@ recommendation-more-help
 ---
 title: "Funções da at.js"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/atjs-functions"
-created_at: "2026-10-01T14:23:47.032508+00:00"
+created_at: "2026-10-01T18:25:52.159428+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -20891,7 +20992,7 @@ recommendation-more-help
 ---
 title: "Geografia"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/geo"
-created_at: "2026-10-01T14:20:56.653201+00:00"
+created_at: "2026-10-01T18:22:33.602148+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -21066,7 +21167,7 @@ recommendation-more-help
 ---
 title: "Gerenciamento do usuário"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/manage-users/user-management"
-created_at: "2026-10-01T14:19:50.138683+00:00"
+created_at: "2026-10-01T18:21:15.756503+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -21107,7 +21208,7 @@ recommendation-more-help
 ---
 title: "Gerenciar exclusões"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/managing-exclusions"
-created_at: "2026-10-01T14:20:06.365528+00:00"
+created_at: "2026-10-01T18:21:36.209926+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -21160,7 +21261,7 @@ recommendation-more-help
 ---
 title: "Glossário de variáveis e perfis"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/visitor-profiles/variables-profiles-parameters-methods"
-created_at: "2026-10-01T14:22:06.146908+00:00"
+created_at: "2026-10-01T18:23:54.690350+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -21340,7 +21441,7 @@ recommendation-more-help
 ---
 title: "Guia do desenvolvedor do Adobe Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/overview"
-created_at: "2026-10-01T14:18:39.492600+00:00"
+created_at: "2026-10-01T18:19:49.063375+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -21455,7 +21556,7 @@ recommendation-more-help
 ---
 title: "Guia do profissional de negócios do Adobe Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/target-home"
-created_at: "2026-10-01T14:18:31.085506+00:00"
+created_at: "2026-10-01T18:19:38.570198+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -21566,7 +21667,7 @@ recommendation-more-help
 ---
 title: "Habilitar Adobe Experience Platform AI Assistant em Adobe Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/assistant-ai/enabling-ai-assistant"
-created_at: "2026-10-01T14:19:09.534049+00:00"
+created_at: "2026-10-01T18:20:26.548658+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -21613,7 +21714,7 @@ recommendation-more-help
 ---
 title: "Habilitar conteúdo misto no navegador"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/troubleshoot-composer/mixed-content"
-created_at: "2026-10-01T14:21:55.144465+00:00"
+created_at: "2026-10-01T18:23:41.173247+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -21682,7 +21783,7 @@ recommendation-more-help
 ---
 title: "Hosts"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/hosts"
-created_at: "2026-10-01T14:19:46.905289+00:00"
+created_at: "2026-10-01T18:21:11.991316+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -21803,7 +21904,7 @@ recommendation-more-help
 ---
 title: "Implantação híbrida do Adobe Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-learn/tutorials/implementation/hybrid-deployment"
-created_at: "2026-10-01T14:22:55.581319+00:00"
+created_at: "2026-10-01T18:24:49.723406+00:00"
 ---
 Breadcrumbs: Documentação > Adobe Target > Tutoriais do Adobe Target
 
@@ -21853,7 +21954,7 @@ recommendation-more-help
 ---
 title: "Implementar a at.js 2.0 do Adobe Target em um aplicativo de página única (SPA)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application"
-created_at: "2026-10-01T14:19:11.271634+00:00"
+created_at: "2026-10-01T18:20:28.506593+00:00"
 ---
 Breadcrumbs: Documentação > Adobe Target > Tutoriais do Adobe Target
 
@@ -21936,7 +22037,7 @@ recommendation-more-help
 ---
 title: "Implementar o Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/implement-target/implementing-target"
-created_at: "2026-10-01T14:19:46.116086+00:00"
+created_at: "2026-10-01T18:21:10.759947+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -21985,7 +22086,7 @@ recommendation-more-help
 ---
 title: "Implementar o Target sem um gerenciador de tags"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/deploy-at-js/implement-target-without-a-tag-manager"
-created_at: "2026-10-01T14:22:56.483549+00:00"
+created_at: "2026-10-01T18:24:50.950751+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -22285,7 +22386,7 @@ recommendation-more-help
 ---
 title: "Implementar o Targetusando a Adobe Experience Platform"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/deploy-at-js/implement-target-using-adobe-launch"
-created_at: "2026-10-01T14:23:18.529935+00:00"
+created_at: "2026-10-01T18:25:16.896372+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -22333,7 +22434,7 @@ recommendation-more-help
 ---
 title: "Implementar Provedores de dados para integrar dados de terceiros ao Adobe Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-learn/tutorials/integrations/implement-data-providers-to-integrate-third-party-data"
-created_at: "2026-10-01T14:23:48.631804+00:00"
+created_at: "2026-10-01T18:25:54.339539+00:00"
 ---
 Breadcrumbs: Documentação > Adobe Target > Tutoriais do Adobe Target
 
@@ -22396,7 +22497,7 @@ recommendation-more-help
 ---
 title: "Implementação de aplicativos de página única"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/aep/spa-implementation"
-created_at: "2026-10-01T14:23:43.810254+00:00"
+created_at: "2026-10-01T18:25:48.604142+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -22677,7 +22778,7 @@ recommendation-more-help
 ---
 title: "Implementação do Analytics para Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4timplementation"
-created_at: "2026-10-01T14:20:25.608208+00:00"
+created_at: "2026-10-01T18:21:58.103357+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -22880,7 +22981,7 @@ recommendation-more-help
 ---
 title: "Implementação do aplicativo de página única"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/deploy-at-js/target-atjs-single-page-application"
-created_at: "2026-10-01T14:23:16.573160+00:00"
+created_at: "2026-10-01T18:25:14.593786+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -23228,7 +23329,7 @@ recommendation-more-help
 ---
 title: "Implementação híbrida"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/hybrid-overview"
-created_at: "2026-10-01T14:19:37.822375+00:00"
+created_at: "2026-10-01T18:21:01.088241+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -23256,7 +23357,7 @@ recommendation-more-help
 ---
 title: "Incluir a mesma experiência em páginas semelhantes"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/temtest"
-created_at: "2026-10-01T14:22:06.898813+00:00"
+created_at: "2026-10-01T18:23:55.840925+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -23319,7 +23420,7 @@ recommendation-more-help
 ---
 title: "Incluir na lista de permissões Target nós de borda"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/privacy/allowlist-edges"
-created_at: "2026-10-01T14:20:04.651296+00:00"
+created_at: "2026-10-01T18:21:34.102983+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -23394,7 +23495,7 @@ recommendation-more-help
 ---
 title: "Inicializar SDKs"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation-patterns/atjs/initialize-sdk"
-created_at: "2026-10-01T14:23:19.403068+00:00"
+created_at: "2026-10-01T18:25:17.909129+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -23793,13 +23894,78 @@ recommendation-more-help
 
 
 ---
+# FILE: insights-de-ia-47a96501.md
+---
+
+---
+title: "Insights de IA"
+url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/ai-insights"
+created_at: "2026-10-01T18:20:05.796070+00:00"
+---
+Breadcrumbs: Documentação > Target > Guia do Target
+
+[Beta]{class="badge informative"}
+
+# Insights de IA
+
+Última atualização: 1 de outubro de 2026
+- Tópicos:
+- [Activities](#)
+
+AVAILABILITY
+O recurso de insights de IA está disponível atualmente como um recurso beta.
+A seção
+Insights de IA
+está disponível apenas para atividades de
+Teste A/B
+com alocação de tráfego
+Manual
+.
+O menu **Insights de IA** em sua **Visão geral da atividade** fornece acesso a insights e oportunidades de otimização. Use esta guia para revisar os aprendizados dos experimentos, comparar tratamentos e identificar alterações que possam melhorar as taxas de conversão.
+
+## Configuração de insights e oportunidades de IA
+
+Antes de acessar insights e oportunidades geradas por IA, primeiro é necessário configurar a atividade confirmando as capturas de tela da métrica primária, hipótese e experiência.
+
+A métrica primária é retirada automaticamente das configurações de relatórios e depende de como você configura suas Metas e configurações. Você deve criar a hipótese no painel de insights de IA. [Saiba mais](/pt-br/docs/target/using/activities/abtest/create/ab-goals-and-settings)
+
+- Abra sua atividade no Adobe Target.
+- Selecione o menu Insights de IA para abrir o painel de configuração.
+- Clique em para criar uma hipótese para seu experimento.
+- Digite sua hipótese descrevendo as alterações feitas e como elas afetarão a métrica primária. Clique em Salvar .
+- Em Detalhes da experiência , clique em um cartão para adicionar uma captura de tela para suas Experiências. note NOTE Algumas imagens podem já ter sido capturadas automaticamente. Em caso afirmativo, confirme a captura de tela clicando em Confirmar .
+- Selecione Carregar imagem para carregar uma captura de tela preferencial de seus arquivos locais para cada Experiência.
+- Copie o link de visualização ou abra-o diretamente para visualizar a experiência.
+- Assim que cada experiência tiver uma captura de tela, analise os detalhes e clique em Confirmar para concluir a instalação.
+
+Após a conclusão da configuração, sua atividade estará pronta para gerar oportunidades. Os insights ficam disponíveis depois que a experiência tem dados suficientes para validação estatística e os detalhes necessários da experiência foram confirmados.
+
+## Insights insights
+
+Os insights do experimento são aprendizados gerados por IA derivados desse experimento. Esses insights ficam disponíveis assim que o experimento atinge significância estatística e fornecem contexto sobre o que contribuiu para seu sucesso. Eles destacam os principais atributos presentes na experiência vencedora que são distintos do controle e provavelmente influenciam o resultado.
+
+- Clique no cartão para acessar o menu Insights .
+- Navegue pelos insights gerados pela IA para revisar o aprendizado do experimento e comparar a experiência vencedora com o controle.
+- Em O que fez esta Experiência vencer? , analise os detalhes explicando por que esta Experiência superou o controle.
+
+## Oportunidades
+
+O painel **Oportunidades** mostra recomendações geradas por IA projetadas para melhorar o desempenho do teste e se alinhar a objetivos de negócios mais amplos e KPIs.
+
+- Navegue pelas oportunidades sugeridas e selecione aquela que deseja revisar.
+- Selecione uma oportunidade para abrir a janela Detalhes da oportunidade, que descreve uma experiência ou variação específica. Essa visualização inclui: A imagem da experiência atual usada para gerar a oportunidade. Uma hipótese gerada por IA que explica o resultado esperado da experiência sugerida e por que ela pode melhorar o desempenho. Orientação sobre como implementar a recomendação na sua experiência e medir o efeito na métrica selecionada.
+
+recommendation-more-help
+
+
+---
 # FILE: instalar-o-java-sdk-56ee48c0.md
 ---
 
 ---
 title: "Instalar o Java SDK"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/java/install-sdk"
-created_at: "2026-10-01T14:22:52.822497+00:00"
+created_at: "2026-10-01T18:24:46.741397+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -23837,7 +24003,7 @@ recommendation-more-help
 ---
 title: "Instalar o .NET SDK"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/net/install-sdk"
-created_at: "2026-10-01T14:22:53.700954+00:00"
+created_at: "2026-10-01T18:24:47.651654+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -23877,7 +24043,7 @@ recommendation-more-help
 ---
 title: "Instalar o Python SDK"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/python/install-sdk"
-created_at: "2026-10-01T14:22:54.748341+00:00"
+created_at: "2026-10-01T18:24:48.539759+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -23911,7 +24077,7 @@ recommendation-more-help
 ---
 title: "Instale o Node js. SDK"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/node-js/install-sdk"
-created_at: "2026-10-01T14:22:51.855824+00:00"
+created_at: "2026-10-01T18:24:45.894856+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -23947,7 +24113,7 @@ recommendation-more-help
 ---
 title: "Integrar com a Real-Time Customer Data Platform"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/integrating-with-rtcdp"
-created_at: "2026-10-01T14:20:14.545954+00:00"
+created_at: "2026-10-01T18:21:45.420280+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -24140,7 +24306,7 @@ recommendation-more-help
 ---
 title: "Integrar o Target ao Adobe Campaign"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/campaign-and-target"
-created_at: "2026-10-01T14:18:48.091131+00:00"
+created_at: "2026-10-01T18:19:59.472110+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -24215,7 +24381,7 @@ recommendation-more-help
 ---
 title: "Integrar Target a Adobe Audience Manager (AAM)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/audience-manager-target-integration"
-created_at: "2026-10-01T14:23:33.761445+00:00"
+created_at: "2026-10-01T18:25:36.255164+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -24242,7 +24408,7 @@ recommendation-more-help
 ---
 title: "Integração herdada do SiteCatalyst ao Test&Target - Perguntas frequentes sobre o A4T"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4t-faq/a4t-faq-old-integration"
-created_at: "2026-10-01T14:20:43.933933+00:00"
+created_at: "2026-10-01T18:22:18.253048+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -24274,7 +24440,7 @@ recommendation-more-help
 ---
 title: "Integrações da at.js"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/at-js/target-atjs-integrations"
-created_at: "2026-10-01T14:23:41.154741+00:00"
+created_at: "2026-10-01T18:25:45.494094+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -24356,7 +24522,7 @@ recommendation-more-help
 ---
 title: "Interpretar relatórios de Alocação automática"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/auto-allocate/determine-winner"
-created_at: "2026-10-01T14:19:51.739226+00:00"
+created_at: "2026-10-01T18:21:17.796407+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -24434,7 +24600,7 @@ recommendation-more-help
 ---
 title: "Introdução ao servidor MCP Adobe Target target-mcp-get-started"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/mcp/target-mcp-get-started"
-created_at: "2026-10-01T14:20:01.298509+00:00"
+created_at: "2026-10-01T18:21:29.909634+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -24583,13 +24749,13 @@ recommendation-more-help
 ---
 title: "Introdução ao Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/intro"
-created_at: "2026-10-01T14:18:32.644082+00:00"
+created_at: "2026-10-01T18:19:40.541889+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
 # Introdução ao Target
 
-Última atualização: 30 de setembro de 2026
+Última atualização: 1 de outubro de 2026
 - Tópicos:
 - [Implementação](#)
 - [Administração e configuração](#)
@@ -24690,7 +24856,7 @@ recommendation-more-help
 ---
 title: "Introdução aos Target SDKs"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/getting-started"
-created_at: "2026-10-01T14:20:23.165266+00:00"
+created_at: "2026-10-01T18:21:55.269871+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -24859,7 +25025,7 @@ recommendation-more-help
 ---
 title: "Introdução à API de entrega do Adobe Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/delivery-api/getting-started"
-created_at: "2026-10-01T14:21:02.452282+00:00"
+created_at: "2026-10-01T18:22:41.113793+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -24930,7 +25096,7 @@ recommendation-more-help
 ---
 title: "Kit de boas-vindas do Adobe Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/welcome/target-welcome-kit"
-created_at: "2026-10-01T14:19:04.524713+00:00"
+created_at: "2026-10-01T18:20:21.710480+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -24964,7 +25130,7 @@ recommendation-more-help
 ---
 title: "Lado do servidor: implementar o Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/server-side-overview"
-created_at: "2026-10-01T14:19:34.049699+00:00"
+created_at: "2026-10-01T18:20:55.871591+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -25075,7 +25241,7 @@ recommendation-more-help
 ---
 title: "Limites"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/troubleshoot/target-limits"
-created_at: "2026-10-01T14:20:05.579113+00:00"
+created_at: "2026-10-01T18:21:35.286626+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -25300,7 +25466,7 @@ recommendation-more-help
 ---
 title: "Log de alterações da atividade"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/change-log"
-created_at: "2026-10-01T14:21:07.394752+00:00"
+created_at: "2026-10-01T18:22:46.692269+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -25336,7 +25502,7 @@ recommendation-more-help
 ---
 title: "Logon do lado do cliente para dados A4T no Experience Platform Web SDK"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/a4t/client-side-logging"
-created_at: "2026-10-01T14:23:04.880723+00:00"
+created_at: "2026-10-01T18:25:00.333460+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -25878,7 +26044,7 @@ recommendation-more-help
 ---
 title: "Logon do lado do servidor para dados A4T em Experience Platform Web SDK"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/a4t/server-side-a4t"
-created_at: "2026-10-01T14:23:49.617857+00:00"
+created_at: "2026-10-01T18:25:55.202423+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -25912,7 +26078,7 @@ recommendation-more-help
 ---
 title: "mboxCreate(mbox,params) - at.js 1.x"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/mboxcreate-atjs"
-created_at: "2026-10-01T14:24:04.198501+00:00"
+created_at: "2026-10-01T18:26:13.051593+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -25964,7 +26130,7 @@ recommendation-more-help
 ---
 title: "mboxDefine() e mboxUpdate() - at.js 1.x"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/mboxdefine-mboxupdate-atjs-1x"
-created_at: "2026-10-01T14:24:05.074064+00:00"
+created_at: "2026-10-01T18:26:14.219292+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -26018,7 +26184,7 @@ recommendation-more-help
 ---
 title: "Metas e Configurações"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/create/ab-goals-and-settings"
-created_at: "2026-10-01T14:19:18.896531+00:00"
+created_at: "2026-10-01T18:20:37.899221+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -26159,7 +26325,7 @@ recommendation-more-help
 ---
 title: "Metas e Configurações em Direcionamento de experiência (XT)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/experience-targeting/create-targeting/xt-goals-and-settings"
-created_at: "2026-10-01T14:21:56.845618+00:00"
+created_at: "2026-10-01T18:23:43.462010+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -26320,7 +26486,7 @@ recommendation-more-help
 ---
 title: "Metas e Configurações (Teste Multivariado)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/multivariate-test/create-mvt/goals-and-settings"
-created_at: "2026-10-01T14:21:57.665323+00:00"
+created_at: "2026-10-01T18:23:44.513442+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -26493,7 +26659,7 @@ recommendation-more-help
 ---
 title: "Modelos de experiência"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/modifications/experience-templates"
-created_at: "2026-10-01T14:21:44.253833+00:00"
+created_at: "2026-10-01T18:23:28.023758+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -26551,7 +26717,7 @@ recommendation-more-help
 ---
 title: "Modificações"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/modifications/vec-code-editor"
-created_at: "2026-10-01T14:20:58.368735+00:00"
+created_at: "2026-10-01T18:22:35.903256+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -26689,7 +26855,7 @@ recommendation-more-help
 ---
 title: "Métricas de sucesso"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/success-metrics/success-metrics"
-created_at: "2026-10-01T14:19:27.755315+00:00"
+created_at: "2026-10-01T18:20:48.898641+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -26854,7 +27020,7 @@ recommendation-more-help
 ---
 title: "Navegadores compatíveis"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/supported-browsers"
-created_at: "2026-10-01T14:20:19.752919+00:00"
+created_at: "2026-10-01T18:21:51.339078+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -26937,13 +27103,13 @@ recommendation-more-help
 ---
 title: "Notas de versão do Target (atuais)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/release-notes"
-created_at: "2026-10-01T14:18:31.946613+00:00"
+created_at: "2026-10-01T18:19:39.540551+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
 # Notas de versão do Target (atuais)
 
-Última atualização: 29 de setembro de 2026
+Última atualização: 1 de outubro de 2026
 - Tópicos:
 - [Implementação](#)
 - [Administração e configuração](#)
@@ -26951,6 +27117,31 @@ Breadcrumbs: Documentação > Target > Guia do Target
 Explore os recursos, aprimoramentos e correções mais recentes no Adobe Target. Essas notas de versão também abrangem atualizações para APIs do Target, SDKs, o Adobe Experience Platform Web SDK, at.js e outros componentes da plataforma, quando aplicável.
 
 (Os números de edição entre parênteses são para uso interno da Adobe).
+
+## Target Standard/Premium 26.9.8 (30 de setembro de 2026)
+
+### Recursos
+
+Calculadora de tamanho da amostra
+A Calculadora de tamanho da amostra ajuda a planejar experimentos antes do lançamento, estimando o tráfego necessário, a duração do teste, o número de experiências ou o efeito mínimo que você pode detectar com confiança. Disponível no menu Atividades, ele usa suas entradas para ajudar a determinar os recursos e o tempo de execução necessários para seu teste.
+
+O recurso de calculadora de tamanho de amostra está disponível no momento como um recurso beta.
+
+Para obter mais informações, consulte a [documentação detalhada](/pt-br/docs/target/using/activities/sample-size-calculator).
+
+Insights de IA
+Os insights de IA fornecem aprendizados de experimento gerados por IA e oportunidades de otimização para atividades de Teste A/B com alocação manual de tráfego. Quando um experimento atinge significância estatística, os insights destacam os atributos da experiência vencedora que provavelmente contribuíram para seu desempenho. As oportunidades sugeridas incluem novas ideias de experiência, hipóteses e orientação de implementação para ajudar a melhorar as taxas de conversão.
+
+O recurso de insights de IA está disponível atualmente como um recurso beta.
+
+Para obter mais informações, consulte a [documentação detalhada](/pt-br/docs/target/using/activities/ai-insights).
+
+### Melhorias
+
+**Administração**
+
+Ver detalhes
+- **Não é possível conceder permissões de IA aos usuários**. Usuários com acesso de Administrador de produto e de Administrador do sistema não podem conceder permissões de IA a outros usuários. A tentativa de habilitar a permissão de IA resultou em um erro Unauthorized, mesmo quando a IA estava habilitada para a organização. (TGT-56261)
 
 ## Target Standard/Premium 26.9.7 (28 de setembro de 2026)
 
@@ -27082,7 +27273,7 @@ recommendation-more-help
 ---
 title: "Notas de versão do Target (pré-lançamento)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/target-release-notes"
-created_at: "2026-10-01T14:18:59.504507+00:00"
+created_at: "2026-10-01T18:20:16.020702+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -27126,7 +27317,7 @@ recommendation-more-help
 ---
 title: "Notas de versão para versões anteriores"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/release-notes-for-previous-releases"
-created_at: "2026-10-01T14:18:58.354287+00:00"
+created_at: "2026-10-01T18:20:14.605299+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -33076,7 +33267,7 @@ recommendation-more-help
 ---
 title: "Notificar Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation-patterns/atjs/notify-target"
-created_at: "2026-10-01T14:23:21.848705+00:00"
+created_at: "2026-10-01T18:25:20.929809+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -33140,7 +33331,7 @@ recommendation-more-help
 ---
 title: "Oferecer grupos de relatório no Automated Personalization"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/offer-reporting-groups-in-automated-personalization"
-created_at: "2026-10-01T14:22:33.963537+00:00"
+created_at: "2026-10-01T18:24:25.583068+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -33202,7 +33393,7 @@ recommendation-more-help
 ---
 title: "Ofertas"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/offers/manage-content"
-created_at: "2026-10-01T14:19:08.613630+00:00"
+created_at: "2026-10-01T18:20:25.661157+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -33367,7 +33558,7 @@ recommendation-more-help
 ---
 title: "Ofertas de redirecionamento - Perguntas frequentes sobre o A4T"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4t-faq/a4t-faq-redirect-offers"
-created_at: "2026-10-01T14:20:26.423937+00:00"
+created_at: "2026-10-01T18:21:59.237962+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -33518,7 +33709,7 @@ recommendation-more-help
 ---
 title: "Ofertas do Automated Personalization do Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/ap-target-offers"
-created_at: "2026-10-01T14:22:08.532152+00:00"
+created_at: "2026-10-01T18:23:57.874533+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -33572,7 +33763,7 @@ recommendation-more-help
 ---
 title: "Opções do Visual Experience Composer"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/viztarget-options"
-created_at: "2026-10-01T14:19:06.303518+00:00"
+created_at: "2026-10-01T18:20:23.793981+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -33860,7 +34051,7 @@ recommendation-more-help
 ---
 title: "Painel do Adobe Target Insights"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/insights-dashboard"
-created_at: "2026-10-01T14:21:04.999154+00:00"
+created_at: "2026-10-01T18:22:44.026759+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -33966,7 +34157,7 @@ recommendation-more-help
 ---
 title: "Parâmetros da página"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/methods/page-parameters"
-created_at: "2026-10-01T14:23:29.069479+00:00"
+created_at: "2026-10-01T18:25:30.244265+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -34038,7 +34229,7 @@ recommendation-more-help
 ---
 title: "Parâmetros personalizados"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/custom-parameters"
-created_at: "2026-10-01T14:21:45.711628+00:00"
+created_at: "2026-10-01T18:23:29.849667+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -34089,7 +34280,7 @@ recommendation-more-help
 ---
 title: "Perfil do visitante"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/visitor-profile"
-created_at: "2026-10-01T14:22:10.397746+00:00"
+created_at: "2026-10-01T18:23:59.743339+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -34126,7 +34317,7 @@ recommendation-more-help
 ---
 title: "Perfis do visitante"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/visitor-profiles/visitor-profile"
-created_at: "2026-10-01T14:21:21.697715+00:00"
+created_at: "2026-10-01T18:23:01.567324+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -34161,7 +34352,7 @@ recommendation-more-help
 ---
 title: "Perguntas e respostas sobre design"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-design/template-faq"
-created_at: "2026-10-01T14:20:37.449407+00:00"
+created_at: "2026-10-01T18:22:10.915231+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -34218,7 +34409,7 @@ recommendation-more-help
 ---
 title: "Perguntas frequentes de geração de relatórios"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/reporting-frequently-asked-questions"
-created_at: "2026-10-01T14:20:53.288602+00:00"
+created_at: "2026-10-01T18:22:30.005857+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -34341,7 +34532,7 @@ recommendation-more-help
 ---
 title: "Perguntas frequentes do Recomendações"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-faq/recommendations-faq"
-created_at: "2026-10-01T14:20:16.297775+00:00"
+created_at: "2026-10-01T18:21:47.271725+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -34637,7 +34828,7 @@ recommendation-more-help
 ---
 title: "Perguntas frequentes e solução de problemas do Direcionamento automático"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/auto-target/auto-target-troubleshooting-faqs"
-created_at: "2026-10-01T14:20:31.935250+00:00"
+created_at: "2026-10-01T18:22:05.433043+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -34799,7 +34990,7 @@ recommendation-more-help
 ---
 title: "Perguntas frequentes sobre a Mbox global"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/global-mbox/global-mbox-faq"
-created_at: "2026-10-01T14:20:49.653151+00:00"
+created_at: "2026-10-01T18:22:25.419659+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -34851,7 +35042,7 @@ recommendation-more-help
 ---
 title: "Perguntas frequentes sobre at.js"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/target-atjs-faq"
-created_at: "2026-10-01T14:23:57.394485+00:00"
+created_at: "2026-10-01T18:26:05.354928+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -35133,7 +35324,7 @@ recommendation-more-help
 ---
 title: "Perguntas frequentes sobre atualização da interface do usuário do Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/updated-ui-faq"
-created_at: "2026-10-01T14:18:44.630360+00:00"
+created_at: "2026-10-01T18:19:55.477784+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -35333,7 +35524,7 @@ recommendation-more-help
 ---
 title: "Perguntas frequentes sobre direcionamentos e públicos"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/faq-audiences/troubleshooting-targets-and-audiences"
-created_at: "2026-10-01T14:20:44.711556+00:00"
+created_at: "2026-10-01T18:22:19.179787+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -35476,7 +35667,7 @@ recommendation-more-help
 ---
 title: "Perguntas frequentes sobre o Automated Personalization"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/automated-personalization-faq"
-created_at: "2026-10-01T14:20:33.323991+00:00"
+created_at: "2026-10-01T18:22:06.839945+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -35618,7 +35809,7 @@ recommendation-more-help
 ---
 title: "Perguntas frequentes sobre o Target for mobile apps"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/mobile-apps/mobile-faq"
-created_at: "2026-10-01T14:20:52.531870+00:00"
+created_at: "2026-10-01T18:22:29.083957+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -35668,7 +35859,7 @@ recommendation-more-help
 ---
 title: "Perguntas frequentes sobre otimização e personalização do Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/cmp-target-standard-cheatsheet"
-created_at: "2026-10-01T14:20:29.351426+00:00"
+created_at: "2026-10-01T18:22:02.364062+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -36077,7 +36268,7 @@ recommendation-more-help
 ---
 title: "Permissões de usuário empresarial"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/manage-users/enterprise/property-channel"
-created_at: "2026-10-01T14:19:03.800875+00:00"
+created_at: "2026-10-01T18:20:20.817117+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -36331,7 +36522,7 @@ recommendation-more-help
 ---
 title: "Personalizar um design usando o Velocity"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-design/customizing-a-template"
-created_at: "2026-10-01T14:21:55.942644+00:00"
+created_at: "2026-10-01T18:23:42.199983+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -36608,7 +36799,7 @@ recommendation-more-help
 ---
 title: "Personalizar uma mbox global"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/global-mbox/customize-global-mbox"
-created_at: "2026-10-01T14:24:02.467478+00:00"
+created_at: "2026-10-01T18:26:11.228493+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -36646,7 +36837,7 @@ recommendation-more-help
 ---
 title: "Pesquisa no catálogo"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/entities/catalog-search"
-created_at: "2026-10-01T14:21:08.150043+00:00"
+created_at: "2026-10-01T18:22:47.811697+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -36719,7 +36910,7 @@ recommendation-more-help
 ---
 title: "Pesquisar e filtrar conteúdo"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/offers/filter-and-search-content"
-created_at: "2026-10-01T14:22:00.221195+00:00"
+created_at: "2026-10-01T18:23:47.555199+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -36754,7 +36945,7 @@ recommendation-more-help
 ---
 title: "Planejar e implementar o Recommendations"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/plan-implement"
-created_at: "2026-10-01T14:24:01.742492+00:00"
+created_at: "2026-10-01T18:26:10.211030+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -36783,7 +36974,7 @@ recommendation-more-help
 ---
 title: "Planejar e implementar o Recommendations"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/recommendations"
-created_at: "2026-10-01T14:19:38.812521+00:00"
+created_at: "2026-10-01T18:21:02.015648+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -37014,7 +37205,7 @@ recommendation-more-help
 ---
 title: "Políticas de cookies do Google Chrome para SameSite"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/privacy/google-chrome-samesite-cookie-policies"
-created_at: "2026-10-01T14:21:35.786544+00:00"
+created_at: "2026-10-01T18:23:18.379799+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -37163,7 +37354,7 @@ recommendation-more-help
 ---
 title: "Por quanto tempo você deve executar um teste A/B?"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/sample-size-determination"
-created_at: "2026-10-01T14:19:58.102278+00:00"
+created_at: "2026-10-01T18:21:26.075637+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -37324,7 +37515,7 @@ recommendation-more-help
 ---
 title: "Preparação para implementar o Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/before-implement/prepare-to-implement-target"
-created_at: "2026-10-01T14:19:43.673731+00:00"
+created_at: "2026-10-01T18:21:07.736968+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -37376,7 +37567,7 @@ recommendation-more-help
 ---
 title: "Primeiros passos do administrador"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/start-target"
-created_at: "2026-10-01T14:20:15.382032+00:00"
+created_at: "2026-10-01T18:21:46.274428+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -37442,7 +37633,7 @@ recommendation-more-help
 ---
 title: "Prioridade"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/priority"
-created_at: "2026-10-01T14:22:12.762889+00:00"
+created_at: "2026-10-01T18:24:02.958908+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -37536,7 +37727,7 @@ recommendation-more-help
 ---
 title: "Privacidade"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/privacy/privacy"
-created_at: "2026-10-01T14:22:47.304795+00:00"
+created_at: "2026-10-01T18:24:41.067717+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -37617,7 +37808,7 @@ recommendation-more-help
 ---
 title: "Privacidade e regulamentos sobre proteção de dados"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/privacy/cmp-privacy-and-general-data-protection-regulation"
-created_at: "2026-10-01T14:21:36.620860+00:00"
+created_at: "2026-10-01T18:23:19.418215+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -37927,7 +38118,7 @@ recommendation-more-help
 ---
 title: "Provedores de dados"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/methods/data-providers"
-created_at: "2026-10-01T14:23:31.324119+00:00"
+created_at: "2026-10-01T18:25:33.233560+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -37992,7 +38183,7 @@ recommendation-more-help
 ---
 title: "Provisionamento inicial - Perguntas frequentes sobre o A4T"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4t-faq/a4t-faq-initial-provisioning"
-created_at: "2026-10-01T14:20:38.220199+00:00"
+created_at: "2026-10-01T18:22:11.688804+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -38053,7 +38244,7 @@ recommendation-more-help
 ---
 title: "Práticas recomendadas e limitações do Visual Experience Composer"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/experience-composer-best-practices"
-created_at: "2026-10-01T14:19:29.402160+00:00"
+created_at: "2026-10-01T18:20:50.907371+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -38402,7 +38593,7 @@ recommendation-more-help
 ---
 title: "Práticas recomendadas para o teste multivariado"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/multivariate-test/best-practices"
-created_at: "2026-10-01T14:20:34.986194+00:00"
+created_at: "2026-10-01T18:22:09.057101+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -38447,7 +38638,7 @@ recommendation-more-help
 ---
 title: "Pré-ocultar guia de integração do SDK"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/prehide-sdk"
-created_at: "2026-10-01T14:21:04.253377+00:00"
+created_at: "2026-10-01T18:22:43.006834+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -38678,7 +38869,7 @@ recommendation-more-help
 ---
 title: "Pré-ocultação de conteúdo para experiências personalizadas"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/content-pre-hiding"
-created_at: "2026-10-01T14:18:52.333608+00:00"
+created_at: "2026-10-01T18:20:06.664608+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -38747,7 +38938,7 @@ recommendation-more-help
 ---
 title: "Pré-visualizar e iniciar atividade do Recomendações"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-activity/previewing-and-launching-your-recommendations-activity"
-created_at: "2026-10-01T14:20:10.030271+00:00"
+created_at: "2026-10-01T18:21:40.222667+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -38871,7 +39062,7 @@ recommendation-more-help
 ---
 title: "Páginas do site"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/site-pages"
-created_at: "2026-10-01T14:20:46.663817+00:00"
+created_at: "2026-10-01T18:22:21.372693+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -38920,7 +39111,7 @@ recommendation-more-help
 ---
 title: "Públicos-alvo"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/target"
-created_at: "2026-10-01T14:18:37.892805+00:00"
+created_at: "2026-10-01T18:19:47.035256+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -38964,7 +39155,7 @@ recommendation-more-help
 ---
 title: "Públicos-alvo da Experience Cloud"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/mmp"
-created_at: "2026-10-01T14:18:47.248947+00:00"
+created_at: "2026-10-01T18:19:58.602687+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -38998,7 +39189,7 @@ recommendation-more-help
 ---
 title: "Rastreamento de cliques"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/success-metrics/click-tracking"
-created_at: "2026-10-01T14:21:34.086477+00:00"
+created_at: "2026-10-01T18:23:15.935216+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -39079,7 +39270,7 @@ recommendation-more-help
 ---
 title: "Recomendações"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations"
-created_at: "2026-10-01T14:18:50.471545+00:00"
+created_at: "2026-10-01T18:20:02.723132+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -39192,7 +39383,7 @@ recommendation-more-help
 ---
 title: "Recomendações como oferta"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-as-an-offer"
-created_at: "2026-10-01T14:19:02.904781+00:00"
+created_at: "2026-10-01T18:20:19.917784+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -39282,7 +39473,7 @@ recommendation-more-help
 ---
 title: "Recursos com suporte para decisão no dispositivo"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/on-device-decisioning/supported-features"
-created_at: "2026-10-01T14:23:37.649105+00:00"
+created_at: "2026-10-01T18:25:41.238505+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -39426,7 +39617,7 @@ recommendation-more-help
 ---
 title: "Recursos e informações de contato"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/cmp-resources-and-contact-information"
-created_at: "2026-10-01T14:18:49.661470+00:00"
+created_at: "2026-10-01T18:20:01.373620+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -39626,7 +39817,7 @@ recommendation-more-help
 ---
 title: "Rede"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/network"
-created_at: "2026-10-01T14:22:40.775769+00:00"
+created_at: "2026-10-01T18:24:33.417995+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -39665,7 +39856,7 @@ recommendation-more-help
 ---
 title: "Redirecionar para um URL"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/redirect-offer"
-created_at: "2026-10-01T14:20:28.279194+00:00"
+created_at: "2026-10-01T18:22:01.272682+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -39712,7 +39903,7 @@ recommendation-more-help
 ---
 title: "Referência de ferramentas do servidor MCP Adobe Target target-mcp-tools-reference"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/mcp/target-mcp-tools-reference"
-created_at: "2026-10-01T14:18:53.580718+00:00"
+created_at: "2026-10-01T18:20:08.145633+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -40737,7 +40928,7 @@ recommendation-more-help
 ---
 title: "registerExtension() - at.js 1.x"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/registerextension-atjs-1x"
-created_at: "2026-10-01T14:24:05.821957+00:00"
+created_at: "2026-10-01T18:26:15.249346+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -40827,7 +41018,7 @@ recommendation-more-help
 ---
 title: "Relatório de atributos importantes"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/insights/important-attributes-report"
-created_at: "2026-10-01T14:19:54.979932+00:00"
+created_at: "2026-10-01T18:21:22.264385+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -40956,7 +41147,7 @@ recommendation-more-help
 ---
 title: "Relatório de Contribuição de localização (MVT)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/multivariate-test-reports/location-contribution-report"
-created_at: "2026-10-01T14:19:57.329339+00:00"
+created_at: "2026-10-01T18:21:25.204200+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -40997,7 +41188,7 @@ recommendation-more-help
 ---
 title: "Relatório de Desempenho da experiência (MVT)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/multivariate-test-reports/experience-performance-report"
-created_at: "2026-10-01T14:19:56.555183+00:00"
+created_at: "2026-10-01T18:21:24.311082+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -41038,7 +41229,7 @@ recommendation-more-help
 ---
 title: "Relatório de Resumo do direcionamento automático"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/personalization-reports/auto-target-summary-report"
-created_at: "2026-10-01T14:19:58.845788+00:00"
+created_at: "2026-10-01T18:21:27.077336+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -41097,7 +41288,7 @@ recommendation-more-help
 ---
 title: "Relatório de Segmentos automatizados"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/insights/automated-segments-report"
-created_at: "2026-10-01T14:19:54.206620+00:00"
+created_at: "2026-10-01T18:21:20.942376+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -41254,7 +41445,7 @@ recommendation-more-help
 ---
 title: "Relatórios de resumo de Automated Personalization"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/personalization-reports/reports-ap"
-created_at: "2026-10-01T14:19:55.783268+00:00"
+created_at: "2026-10-01T18:21:23.373695+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -41330,7 +41521,7 @@ recommendation-more-help
 ---
 title: "Relatórios do A4T"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/reporting"
-created_at: "2026-10-01T14:21:30.815619+00:00"
+created_at: "2026-10-01T18:23:12.027981+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -41425,7 +41616,7 @@ recommendation-more-help
 ---
 title: "Relatórios do Analytics for Adobe Target (A4T)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/analytics-for-target-a4t-reporting"
-created_at: "2026-10-01T14:20:00.353163+00:00"
+created_at: "2026-10-01T18:21:28.927883+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -41449,7 +41640,7 @@ recommendation-more-help
 ---
 title: "Relatórios do Analytics for Target (A4T)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/integration/a4t-reporting"
-created_at: "2026-10-01T14:20:11.714018+00:00"
+created_at: "2026-10-01T18:21:42.169162+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -41577,7 +41768,7 @@ recommendation-more-help
 ---
 title: "Relatórios do Personalization Insights"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/insights/personalization-insights-reports"
-created_at: "2026-10-01T14:19:59.649888+00:00"
+created_at: "2026-10-01T18:21:28.016926+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -41682,7 +41873,7 @@ recommendation-more-help
 ---
 title: "Relatórios e Direcionamento automático"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/auto-target/reporting-and-auto-target"
-created_at: "2026-10-01T14:22:19.460849+00:00"
+created_at: "2026-10-01T18:24:08.196879+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -41721,7 +41912,7 @@ recommendation-more-help
 ---
 title: "Relatórios"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/reports/reports"
-created_at: "2026-10-01T14:18:41.283038+00:00"
+created_at: "2026-10-01T18:19:50.891432+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -41802,7 +41993,7 @@ recommendation-more-help
 ---
 title: "Renderizar experiências"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation-patterns/atjs/render-experiences"
-created_at: "2026-10-01T14:23:21.105964+00:00"
+created_at: "2026-10-01T18:25:20.075213+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -42080,7 +42271,7 @@ recommendation-more-help
 ---
 title: "Resumo do teste (Teste multivariado)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/multivariate-test/create-mvt/test-summary"
-created_at: "2026-10-01T14:22:37.102855+00:00"
+created_at: "2026-10-01T18:24:29.451880+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -42113,7 +42304,7 @@ recommendation-more-help
 ---
 title: "SDK da Web da Adobe Experience Platform"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/aep/aep-web-sdk-overview"
-created_at: "2026-10-01T14:19:32.045477+00:00"
+created_at: "2026-10-01T18:20:53.985161+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -42212,7 +42403,7 @@ recommendation-more-help
 ---
 title: "SDK da Web da Adobe Experience Platform"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/aep-web-sdk"
-created_at: "2026-10-01T14:22:58.099007+00:00"
+created_at: "2026-10-01T18:24:53.132488+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -42311,7 +42502,7 @@ recommendation-more-help
 ---
 title: "SDKs e APIs do Adobe Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/apis/api-overview"
-created_at: "2026-10-01T14:23:34.530725+00:00"
+created_at: "2026-10-01T18:25:37.321400+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -42357,7 +42548,7 @@ recommendation-more-help
 ---
 title: "Selecione o controle da atividade Automated Personalization ou Direcionamento automático"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/experience-as-control"
-created_at: "2026-10-01T14:21:27.804137+00:00"
+created_at: "2026-10-01T18:23:08.683397+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -42411,7 +42602,7 @@ recommendation-more-help
 ---
 title: "Seletores de elementos usados no Visual Experience Composer"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/vec-selectors"
-created_at: "2026-10-01T14:20:10.922657+00:00"
+created_at: "2026-10-01T18:21:41.113277+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -42459,7 +42650,7 @@ recommendation-more-help
 ---
 title: "Seleção do público-alvo"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/create/ab-audience"
-created_at: "2026-10-01T14:21:52.698682+00:00"
+created_at: "2026-10-01T18:23:38.452184+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -42509,7 +42700,7 @@ recommendation-more-help
 ---
 title: "Servidor MCP Adobe Target — casos de uso e apresentações target-mcp-use-cases"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/mcp/target-mcp-use-cases"
-created_at: "2026-10-01T14:20:02.116694+00:00"
+created_at: "2026-10-01T18:21:31.033223+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -42627,7 +42818,7 @@ recommendation-more-help
 ---
 title: "Sincronização de perfil em tempo real para mbox3rdPartyId"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/visitor-profiles/3rd-party-id"
-created_at: "2026-10-01T14:23:10.331693+00:00"
+created_at: "2026-10-01T18:25:06.627069+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -42679,7 +42870,7 @@ recommendation-more-help
 ---
 title: "Sistema operacional"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/operating-system"
-created_at: "2026-10-01T14:22:41.495939+00:00"
+created_at: "2026-10-01T18:24:34.258565+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -42718,7 +42909,7 @@ recommendation-more-help
 ---
 title: "Solução de problemas da integração do Analytics e do Target (A4T)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/troubleshoot-a4t/a4t-troubleshooting"
-created_at: "2026-10-01T14:20:24.788362+00:00"
+created_at: "2026-10-01T18:21:57.004188+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -42811,7 +43002,7 @@ recommendation-more-help
 ---
 title: "Solução de problemas de atividades"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/troubleshoot-activities/troubleshooting-activities"
-created_at: "2026-10-01T14:20:30.320302+00:00"
+created_at: "2026-10-01T18:22:03.343654+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -42956,7 +43147,7 @@ recommendation-more-help
 ---
 title: "Solução de problemas de gerenciamento de usuários"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/manage-users/users/troubleshooting-user-management"
-created_at: "2026-10-01T14:20:57.513217+00:00"
+created_at: "2026-10-01T18:22:34.455614+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -42986,7 +43177,7 @@ recommendation-more-help
 ---
 title: "Solução de problemas do Automated Personalization"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/ap-trouble"
-created_at: "2026-10-01T14:20:34.241624+00:00"
+created_at: "2026-10-01T18:22:08.077667+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -43056,7 +43247,7 @@ recommendation-more-help
 ---
 title: "Solução de problemas do Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/troubleshoot/troubleshooting-target"
-created_at: "2026-10-01T14:18:48.866152+00:00"
+created_at: "2026-10-01T18:20:00.384592+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -43216,7 +43407,7 @@ recommendation-more-help
 ---
 title: "Solução de problemas do Visual Experience Composer e no Enhanced Experience Composer"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/troubleshoot-composer/troubleshoot-composer"
-created_at: "2026-10-01T14:20:48.150443+00:00"
+created_at: "2026-10-01T18:22:23.521343+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -43251,7 +43442,7 @@ recommendation-more-help
 ---
 title: "Solução de problemas relacionados ao Adobe Target Visual Experience Composer e Enhanced Experience Composer"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/troubleshoot-composer/issues-related-to-the-visual-experience-composer-vec-and-enhanced-experience-composer-eec"
-created_at: "2026-10-01T14:21:25.366223+00:00"
+created_at: "2026-10-01T18:23:05.902707+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -43378,7 +43569,7 @@ recommendation-more-help
 ---
 title: "Solução de problemas relacionados ao Enhanced Experience Composer"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/troubleshoot-composer/troubleshooting-issues-related-to-the-enhanced-experience-composer-eec"
-created_at: "2026-10-01T14:20:17.794398+00:00"
+created_at: "2026-10-01T18:21:49.138224+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -43452,7 +43643,7 @@ recommendation-more-help
 ---
 title: "Solução de problemas relacionados ao Visual Experience Composer"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/troubleshoot-composer/troubleshooting-issues-related-to-the-visual-experience-composer-vec"
-created_at: "2026-10-01T14:23:12.790847+00:00"
+created_at: "2026-10-01T18:25:09.793283+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -43563,7 +43754,7 @@ recommendation-more-help
 ---
 title: "Soluções de problemas da entrega de conteúdo"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/troubleshoot-activities/content-trouble"
-created_at: "2026-10-01T14:20:47.425210+00:00"
+created_at: "2026-10-01T18:22:22.487390+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -43773,7 +43964,7 @@ recommendation-more-help
 ---
 title: "Suporte do A4T para atividades de Alocação automática e Direcionamento automático"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/a4t-at-aa"
-created_at: "2026-10-01T14:20:18.862970+00:00"
+created_at: "2026-10-01T18:21:50.390525+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -43906,7 +44097,7 @@ recommendation-more-help
 ---
 title: "Target para aplicativos móveis"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/mobile-apps/overview"
-created_at: "2026-10-01T14:18:36.251778+00:00"
+created_at: "2026-10-01T18:19:44.883413+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -43940,7 +44131,7 @@ recommendation-more-help
 ---
 title: "Target relatórios em Adobe Customer Journey Analytics"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/cja/target-reporting-in-cja"
-created_at: "2026-10-01T14:19:25.978681+00:00"
+created_at: "2026-10-01T18:20:46.722235+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -44065,7 +44256,7 @@ recommendation-more-help
 ---
 title: "targetGlobalSettings()"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/targetglobalsettings"
-created_at: "2026-10-01T14:23:03.265722+00:00"
+created_at: "2026-10-01T18:24:58.525858+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -44590,7 +44781,7 @@ recommendation-more-help
 ---
 title: "targetPageParams()"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/targetpageparams"
-created_at: "2026-10-01T14:23:13.555516+00:00"
+created_at: "2026-10-01T18:25:10.751296+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -44659,7 +44850,7 @@ recommendation-more-help
 ---
 title: "targetPageParamsAll()"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/targetpageparamsall"
-created_at: "2026-10-01T14:23:53.046045+00:00"
+created_at: "2026-10-01T18:25:59.611927+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -44728,7 +44919,7 @@ recommendation-more-help
 ---
 title: "Teste A/A"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/aa-testing"
-created_at: "2026-10-01T14:22:59.722504+00:00"
+created_at: "2026-10-01T18:24:54.954545+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -44807,7 +44998,7 @@ recommendation-more-help
 ---
 title: "Time Frame"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/audiences/create-audiences/categories-audiences/time-frame"
-created_at: "2026-10-01T14:21:49.657589+00:00"
+created_at: "2026-10-01T18:23:34.516739+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -44847,7 +45038,7 @@ recommendation-more-help
 ---
 title: "Tipos de atividade do Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/target-activities-guide"
-created_at: "2026-10-01T14:19:21.988790+00:00"
+created_at: "2026-10-01T18:20:41.772441+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -45030,7 +45221,7 @@ recommendation-more-help
 ---
 title: "Tokens de resposta"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/response-tokens"
-created_at: "2026-10-01T14:19:49.451625+00:00"
+created_at: "2026-10-01T18:21:14.694827+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -45450,7 +45641,7 @@ recommendation-more-help
 ---
 title: "Trabalhar com atributos de vários valores"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/work-with-multi-value-attributes"
-created_at: "2026-10-01T14:21:31.609963+00:00"
+created_at: "2026-10-01T18:23:12.999512+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -45619,7 +45810,7 @@ recommendation-more-help
 ---
 title: "Trabalhar com conteúdo na biblioteca do Ativo"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/offers/assets-working"
-created_at: "2026-10-01T14:21:39.135495+00:00"
+created_at: "2026-10-01T18:23:22.088902+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -45670,7 +45861,7 @@ recommendation-more-help
 ---
 title: "Trabalhar com redirecionadores"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implement-email/working-with-redirectors"
-created_at: "2026-10-01T14:22:57.247934+00:00"
+created_at: "2026-10-01T18:24:51.936248+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -45758,7 +45949,7 @@ recommendation-more-help
 ---
 title: "Treinamento e certificado"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/training-and-certification"
-created_at: "2026-10-01T14:23:36.891842+00:00"
+created_at: "2026-10-01T18:25:40.315904+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -45790,7 +45981,7 @@ recommendation-more-help
 ---
 title: "Tutoriais do Adobe Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-learn/tutorials/overview"
-created_at: "2026-10-01T14:18:35.451301+00:00"
+created_at: "2026-10-01T18:19:43.926723+00:00"
 ---
 Breadcrumbs: Documentação > Adobe Target > Tutoriais do Adobe Target
 
@@ -45848,7 +46039,7 @@ recommendation-more-help
 ---
 title: "Upload dos critérios personalizados"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/recommendations-csv"
-created_at: "2026-10-01T14:21:51.205954+00:00"
+created_at: "2026-10-01T18:23:36.514537+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -45898,7 +46089,7 @@ recommendation-more-help
 ---
 title: "URL da atividade"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/create/ab-activity-url"
-created_at: "2026-10-01T14:22:33.065458+00:00"
+created_at: "2026-10-01T18:24:24.570901+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -45939,7 +46130,7 @@ recommendation-more-help
 ---
 title: "URL da atividade"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/multivariate-test/create-mvt/url"
-created_at: "2026-10-01T14:22:35.602945+00:00"
+created_at: "2026-10-01T18:24:27.577919+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -45972,7 +46163,7 @@ recommendation-more-help
 ---
 title: "URL de atividade em atividades de Direcionamento de experiência (XT)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/experience-targeting/create-targeting/xt-activity-url"
-created_at: "2026-10-01T14:22:34.818534+00:00"
+created_at: "2026-10-01T18:24:26.575920+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -45999,7 +46190,7 @@ recommendation-more-help
 ---
 title: "➡ URLs Incluídos na lista de permissões"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/allowlisted-urls"
-created_at: "2026-10-01T14:19:48.571544+00:00"
+created_at: "2026-10-01T18:21:13.627361+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -46038,7 +46229,7 @@ recommendation-more-help
 ---
 title: "Usando dados de Adobe Analytics"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/create/create-a4t"
-created_at: "2026-10-01T14:22:13.864506+00:00"
+created_at: "2026-10-01T18:24:03.907512+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -46081,7 +46272,7 @@ recommendation-more-help
 ---
 title: "Usar Adobe Analytics com Recommendations"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/use-adobe-analytics-with-recommendations"
-created_at: "2026-10-01T14:23:23.678339+00:00"
+created_at: "2026-10-01T18:25:23.037475+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -46166,7 +46357,7 @@ recommendation-more-help
 ---
 title: "Usar decisões de oferta"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/ajo/offer-decision"
-created_at: "2026-10-01T14:22:45.007137+00:00"
+created_at: "2026-10-01T18:24:38.235173+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -46244,7 +46435,7 @@ recommendation-more-help
 ---
 title: "Usar instâncias baseadas em nuvem com Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/functions-overview/targeting-using-cloud-based-instances"
-created_at: "2026-10-01T14:24:07.282485+00:00"
+created_at: "2026-10-01T18:26:17.340174+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -46282,7 +46473,7 @@ recommendation-more-help
 ---
 title: "Usar provedores de dados para integrar dados de terceiros ao Adobe Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-learn/tutorials/integrations/use-data-providers-to-integrate-third-party-data"
-created_at: "2026-10-01T14:23:47.807140+00:00"
+created_at: "2026-10-01T18:25:53.302500+00:00"
 ---
 Breadcrumbs: Documentação > Adobe Target > Tutoriais do Adobe Target
 
@@ -46328,7 +46519,7 @@ recommendation-more-help
 ---
 title: "Usar um servidor de rastreamento do Analytics"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/analytics-tracking-server"
-created_at: "2026-10-01T14:22:04.372134+00:00"
+created_at: "2026-10-01T18:23:52.455430+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -46381,7 +46572,7 @@ recommendation-more-help
 ---
 title: "Usar uma recomendação de backup"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/backup-recs"
-created_at: "2026-10-01T14:23:04.019388+00:00"
+created_at: "2026-10-01T18:24:59.454750+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -46439,7 +46630,7 @@ recommendation-more-help
 ---
 title: "Use o AI Assistant no Adobe Target para saber mais sobre o produto"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/assistant-ai/ai-assistant-product-knowledge"
-created_at: "2026-10-01T14:19:10.395359+00:00"
+created_at: "2026-10-01T18:20:27.514160+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -46497,7 +46688,7 @@ recommendation-more-help
 ---
 title: "User-agent e Client Hints"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/user-agent-and-client-hints"
-created_at: "2026-10-01T14:21:20.841174+00:00"
+created_at: "2026-10-01T18:23:00.583050+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -46759,7 +46950,7 @@ recommendation-more-help
 ---
 title: "Uso das regras de inclusão estática e dinâmica"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/criteria/dynamic-static/use-dynamic-and-static-inclusion-rules"
-created_at: "2026-10-01T14:21:26.229901+00:00"
+created_at: "2026-10-01T18:23:06.922754+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -47083,7 +47274,7 @@ recommendation-more-help
 ---
 title: "Uso do Visual Experience Composer para Aplicativos de Página Única (SPA VEC) no Adobe Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-learn/tutorials/experiences/use-the-visual-experience-composer-for-single-page-applications"
-created_at: "2026-10-01T14:22:32.293460+00:00"
+created_at: "2026-10-01T18:24:23.559590+00:00"
 ---
 Breadcrumbs: Documentação > Adobe Target > Tutoriais do Adobe Target
 
@@ -47134,7 +47325,7 @@ recommendation-more-help
 ---
 title: "Usuários"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/administer/manage-users/users/user-management"
-created_at: "2026-10-01T14:21:28.683592+00:00"
+created_at: "2026-10-01T18:23:09.747504+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -47233,7 +47424,7 @@ recommendation-more-help
 ---
 title: "Variações de dados esperadas entre o Adobe Target e o Adobe Analytics ao usar e não usar A4T"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/a4t/understanding-expected-data-variances"
-created_at: "2026-10-01T14:23:08.698503+00:00"
+created_at: "2026-10-01T18:25:04.756907+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -47297,7 +47488,7 @@ recommendation-more-help
 ---
 title: "Visores móveis para experiências responsivas"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/mobile-viewports"
-created_at: "2026-10-01T14:22:07.716448+00:00"
+created_at: "2026-10-01T18:23:56.913973+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -47531,7 +47722,7 @@ recommendation-more-help
 ---
 title: "Visual Experience Composer (VEC)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/experiences/vec/visual-experience-composer"
-created_at: "2026-10-01T14:19:00.358343+00:00"
+created_at: "2026-10-01T18:20:16.859331+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -47629,7 +47820,7 @@ recommendation-more-help
 ---
 title: "Visualizar experiências em atividades do Automated Personalization no Visual Experience Composer (VEC)"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/automated-personalization/ap-preview-experiences"
-created_at: "2026-10-01T14:22:11.969180+00:00"
+created_at: "2026-10-01T18:24:01.963523+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -47661,7 +47852,7 @@ recommendation-more-help
 ---
 title: "Visualização móvel de Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/mobile-apps/target-mobile-preview"
-created_at: "2026-10-01T14:19:17.392509+00:00"
+created_at: "2026-10-01T18:20:35.991679+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -47714,7 +47905,7 @@ recommendation-more-help
 ---
 title: "Visão geral da API de entrega"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/delivery-api/overview"
-created_at: "2026-10-01T14:19:40.411320+00:00"
+created_at: "2026-10-01T18:21:03.942515+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -47760,7 +47951,7 @@ recommendation-more-help
 ---
 title: "Visão geral da API de modelos"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/models-api/models-api"
-created_at: "2026-10-01T14:21:19.964741+00:00"
+created_at: "2026-10-01T18:22:59.585005+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -47962,7 +48153,7 @@ recommendation-more-help
 ---
 title: "Visão geral da API do Adobe Recommendations"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/recommendations-api/overview"
-created_at: "2026-10-01T14:20:22.139213+00:00"
+created_at: "2026-10-01T18:21:54.244216+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -48032,7 +48223,7 @@ recommendation-more-help
 ---
 title: "Visão geral da API do Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/target-api-overview"
-created_at: "2026-10-01T14:18:51.431013+00:00"
+created_at: "2026-10-01T18:20:03.934532+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -48100,7 +48291,7 @@ recommendation-more-help
 ---
 title: "Visão geral da biblioteca JavaScript do at.js"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/overview"
-created_at: "2026-10-01T14:22:44.044130+00:00"
+created_at: "2026-10-01T18:24:37.264576+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -48132,7 +48323,7 @@ recommendation-more-help
 ---
 title: "Visão geral da biblioteca JavaScript do at.js"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/at-js/overview"
-created_at: "2026-10-01T14:22:49.909586+00:00"
+created_at: "2026-10-01T18:24:43.745182+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -48164,7 +48355,7 @@ recommendation-more-help
 ---
 title: "Visão geral da decisão no dispositivo"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-learn/tutorials/implementation/on-device-decisioning-overview"
-created_at: "2026-10-01T14:23:46.272009+00:00"
+created_at: "2026-10-01T18:25:51.133867+00:00"
 ---
 Breadcrumbs: Documentação > Adobe Target > Tutoriais do Adobe Target
 
@@ -48218,7 +48409,7 @@ recommendation-more-help
 ---
 title: "Visão geral da decisão no dispositivo"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/on-device-decisioning/overview"
-created_at: "2026-10-01T14:19:20.506401+00:00"
+created_at: "2026-10-01T18:20:39.679080+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -48390,7 +48581,7 @@ recommendation-more-help
 ---
 title: "Visão geral da documentação e dos recursos do Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/target-documentation"
-created_at: "2026-10-01T14:18:45.440540+00:00"
+created_at: "2026-10-01T18:19:56.458722+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -48444,7 +48635,7 @@ recommendation-more-help
 ---
 title: "Visão geral da segurança do Target"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/target-security-overview"
-created_at: "2026-10-01T14:22:48.073705+00:00"
+created_at: "2026-10-01T18:24:41.899615+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -48477,7 +48668,7 @@ recommendation-more-help
 ---
 title: "Visão geral das Adobe Target Profiles API"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/api/profile-apis/profiles-api"
-created_at: "2026-10-01T14:19:42.196210+00:00"
+created_at: "2026-10-01T18:21:05.717036+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -48571,7 +48762,7 @@ recommendation-more-help
 ---
 title: "Visão geral das atividades"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/activities"
-created_at: "2026-10-01T14:18:37.102123+00:00"
+created_at: "2026-10-01T18:19:46.126311+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -48911,7 +49102,7 @@ recommendation-more-help
 ---
 title: "Visão geral de Adobe Experience Platform AI Assistant"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/assistant-ai/ai-assistant"
-created_at: "2026-10-01T14:18:34.420048+00:00"
+created_at: "2026-10-01T18:19:42.589546+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -48967,7 +49158,7 @@ recommendation-more-help
 ---
 title: "Visão geral de Alocação automática"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/auto-allocate/automated-traffic-allocation"
-created_at: "2026-10-01T14:19:23.701870+00:00"
+created_at: "2026-10-01T18:20:43.737271+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -49252,7 +49443,7 @@ recommendation-more-help
 ---
 title: "Visão geral de Teste multivariado"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/multivariate-test/multivariate-testing"
-created_at: "2026-10-01T14:19:24.447631+00:00"
+created_at: "2026-10-01T18:20:44.760228+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -49356,7 +49547,7 @@ recommendation-more-help
 ---
 title: "Visão geral do AEM Experience Fragments e Content Fragments"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/integrate/aem/fragments/aem-experience-and-content-fragments"
-created_at: "2026-10-01T14:22:30.795832+00:00"
+created_at: "2026-10-01T18:24:21.442233+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -49402,7 +49593,7 @@ recommendation-more-help
 ---
 title: "Visão geral do artefato da regra"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/on-device-decisioning/rule-artifact/rule-artifact-overview"
-created_at: "2026-10-01T14:23:06.449607+00:00"
+created_at: "2026-10-01T18:25:02.083035+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -49445,7 +49636,7 @@ recommendation-more-help
 ---
 title: "Visão geral do design"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/recommendations/recommendations-design/design-overview"
-created_at: "2026-10-01T14:22:20.189774+00:00"
+created_at: "2026-10-01T18:24:09.166553+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -49479,7 +49670,7 @@ recommendation-more-help
 ---
 title: "Visão geral do Direcionamento automático"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/auto-target/auto-target-to-optimize"
-created_at: "2026-10-01T14:19:02.130531+00:00"
+created_at: "2026-10-01T18:20:18.920958+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -49660,7 +49851,7 @@ recommendation-more-help
 ---
 title: "Visão geral do Java SDK"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/java/overview"
-created_at: "2026-10-01T14:19:35.536347+00:00"
+created_at: "2026-10-01T18:20:58.065250+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -49711,7 +49902,7 @@ recommendation-more-help
 ---
 title: "Visão geral do .NET SDK"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/net/overview"
-created_at: "2026-10-01T14:19:36.338232+00:00"
+created_at: "2026-10-01T18:20:59.005399+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -49762,7 +49953,7 @@ recommendation-more-help
 ---
 title: "Visão geral do padrão de implementação Recommendations usando at.js"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation-patterns/atjs/recs-implementation-pattern-atjs"
-created_at: "2026-10-01T14:21:14.238964+00:00"
+created_at: "2026-10-01T18:22:53.612638+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -49814,7 +50005,7 @@ recommendation-more-help
 ---
 title: "Visão geral do Python SDK"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/python/overview"
-created_at: "2026-10-01T14:19:37.034193+00:00"
+created_at: "2026-10-01T18:21:00.012356+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -49864,7 +50055,7 @@ recommendation-more-help
 ---
 title: "Visão geral do SDK Node.js"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/node-js/overview"
-created_at: "2026-10-01T14:19:34.836344+00:00"
+created_at: "2026-10-01T18:20:56.923722+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -49914,7 +50105,7 @@ recommendation-more-help
 ---
 title: "Visão geral do teste A/B"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/test-ab"
-created_at: "2026-10-01T14:19:22.828574+00:00"
+created_at: "2026-10-01T18:20:42.753592+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -49986,7 +50177,7 @@ recommendation-more-help
 ---
 title: "Visão geral dos aplicativos de exemplo"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/sample-apps"
-created_at: "2026-10-01T14:22:50.619116+00:00"
+created_at: "2026-10-01T18:24:44.830190+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -50030,7 +50221,7 @@ recommendation-more-help
 ---
 title: "Visão geral dos métodos"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/implementation/methods/methods-to-get-data-into-target"
-created_at: "2026-10-01T14:22:15.517025+00:00"
+created_at: "2026-10-01T18:24:06.383422+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -50079,7 +50270,7 @@ recommendation-more-help
 ---
 title: "Visão geral dos recursos compatíveis"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/server-side/on-device-decisioning/supported-features"
-created_at: "2026-10-01T14:22:38.735798+00:00"
+created_at: "2026-10-01T18:24:31.254607+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -50203,7 +50394,7 @@ recommendation-more-help
 ---
 title: "Visão geral: implementar o Target para Web no lado do cliente"
 url: "https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/overview"
-created_at: "2026-10-01T14:19:33.127871+00:00"
+created_at: "2026-10-01T18:20:54.979751+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Target
 
@@ -50236,7 +50427,7 @@ recommendation-more-help
 ---
 title: "Vários públicos-alvo de uma experiência em um Teste A/B"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/activities/abtest/create/target-experience-to-multiple-audiences"
-created_at: "2026-10-01T14:22:03.590274+00:00"
+created_at: "2026-10-01T18:23:51.513436+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 
@@ -50284,7 +50475,7 @@ recommendation-more-help
 ---
 title: "Vídeos de treinamento do Adobe Target Standard e Premium"
 url: "https://experienceleague.adobe.com/pt-br/docs/target/using/introduction/target-standard-premium-training-videos"
-created_at: "2026-10-01T14:23:36.136292+00:00"
+created_at: "2026-10-01T18:25:39.375790+00:00"
 ---
 Breadcrumbs: Documentação > Target > Guia do Target
 

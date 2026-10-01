@@ -8,7 +8,7 @@ title: "Accelerated queries endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/accelerated-queries"
 category: "reference"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-10-01T13:31:52.811148+00:00"
+created_at: "2026-10-01T17:27:57.511888+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -255,7 +255,7 @@ title: "Access Control API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/api/getting-started"
 category: "reference"
 topic: "experience-platform/access-control-guide"
-created_at: "2026-10-01T13:40:41.482456+00:00"
+created_at: "2026-10-01T17:37:44.170557+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Access Control Guide
 
@@ -320,7 +320,7 @@ title: "Access control overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/home"
 category: "overview"
 topic: "experience-platform/access-control-guide"
-created_at: "2026-10-01T13:30:53.043549+00:00"
+created_at: "2026-10-01T17:26:47.243605+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Access Control Guide
 
@@ -1125,7 +1125,7 @@ title: "Access control troubleshooting guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/troubleshooting-guide"
 category: "guides"
 topic: "experience-platform/access-control-guide"
-created_at: "2026-10-01T13:37:08.986921+00:00"
+created_at: "2026-10-01T17:33:48.696383+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Access Control Guide
 
@@ -1175,7 +1175,7 @@ title: "Access control UI overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/ui/overview"
 category: "overview"
 topic: "experience-platform/access-control-guide"
-created_at: "2026-10-01T13:32:21.698209+00:00"
+created_at: "2026-10-01T17:28:30.225425+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Access Control Guide
 
@@ -1213,7 +1213,7 @@ title: "Accessibility in Adobe Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/accessibility/home"
 category: "overview"
 topic: "experience-platform/adobe-experience-platform-accessibility"
-created_at: "2026-10-01T13:31:13.799624+00:00"
+created_at: "2026-10-01T17:27:10.858745+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Adobe Experience Platform Accessibility
 
@@ -1253,7 +1253,7 @@ title: "Account profile UI guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/account/account-profile-ui-guide"
 category: "guides"
 topic: "experience-platform/real-time-customer-data-platform-guide"
-created_at: "2026-10-01T13:36:01.819039+00:00"
+created_at: "2026-10-01T17:32:32.328924+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Data Platform Guide
 
@@ -1393,7 +1393,7 @@ title: "Account Profiles dashboard"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/account-profiles"
 category: "guides"
 topic: "experience-platform/dashboards-guide"
-created_at: "2026-10-01T13:46:14.757922+00:00"
+created_at: "2026-10-01T17:43:46.343428+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dashboards Guide
 
@@ -1588,7 +1588,7 @@ title: "Activate audiences on-demand via the ad-hoc activation API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/ad-hoc-activation-api"
 category: "reference"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:32:25.288472+00:00"
+created_at: "2026-10-01T17:28:34.201407+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -1982,7 +1982,7 @@ title: "Activate audiences to file-based destinations by using the Flow Service 
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/activate-segments-file-based-destinations"
 category: "reference"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:31:48.411818+00:00"
+created_at: "2026-10-01T17:27:53.241449+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -3538,7 +3538,7 @@ title: "Ad-hoc schemas"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/ad-hoc"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:40:45.575612+00:00"
+created_at: "2026-10-01T17:37:48.734447+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -3566,7 +3566,7 @@ title: "Add data to Real-Time Customer Profile"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/tutorials/add-profile-data"
 category: "tutorials"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-10-01T13:35:06.423960+00:00"
+created_at: "2026-10-01T17:31:32.087796+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -3622,7 +3622,7 @@ title: "Adobe AI Machine Learning API guide appendix"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/appendix"
 category: "reference"
 topic: "experience-platform/data-science-workspace-guide"
-created_at: "2026-10-01T13:49:10.677308+00:00"
+created_at: "2026-10-01T17:47:01.739272+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Science Workspace Guide
 
@@ -3796,7 +3796,7 @@ title: "Adobe AI Machine Learning API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/getting-started"
 category: "reference"
 topic: "experience-platform/data-science-workspace-guide"
-created_at: "2026-10-01T13:40:43.920620+00:00"
+created_at: "2026-10-01T17:37:46.691305+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Science Workspace Guide
 
@@ -3859,7 +3859,7 @@ title: "Adobe Analytics extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/analytics/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:49:52.042336+00:00"
+created_at: "2026-10-01T17:47:47.398186+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -4269,7 +4269,7 @@ title: "Adobe Analytics Product String extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/product-string/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:50:25.504136+00:00"
+created_at: "2026-10-01T17:48:26.008138+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -4364,7 +4364,7 @@ title: "Adobe Audience Manager extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/audience-manager/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:49:54.671527+00:00"
+created_at: "2026-10-01T17:47:51.170609+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -4458,7 +4458,7 @@ title: "Adobe Client Data Layer extension"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/client-data-layer/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:40:54.321334+00:00"
+created_at: "2026-10-01T17:37:57.001547+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -4592,7 +4592,7 @@ title: "Adobe ContextHub extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/contexthub/overview"
 category: "overview"
 topic: "tags/extensions/client"
-created_at: "2026-10-01T13:50:26.258634+00:00"
+created_at: "2026-10-01T17:48:27.021126+00:00"
 ---
 Breadcrumbs: Documentation > Tags
 
@@ -4638,7 +4638,7 @@ title: "Adobe destinations overview adobe-destinations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/adobe/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:35:27.453770+00:00"
+created_at: "2026-10-01T17:31:54.319404+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -4704,7 +4704,7 @@ title: "Adobe Experience Cloud ID Service extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/id-service/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:38:33.644215+00:00"
+created_at: "2026-10-01T17:35:21.594888+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -4821,7 +4821,7 @@ title: "Adobe Experience Platform Assurance"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/assurance/home"
 category: "overview"
 topic: "experience-platform/assurance-guide"
-created_at: "2026-10-01T13:31:19.183213+00:00"
+created_at: "2026-10-01T17:27:19.512098+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Assurance Guide
 
@@ -4925,7 +4925,7 @@ title: "Adobe Experience Platform Debugger overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/debugger/home"
 category: "overview"
 topic: "experience-platform/adobe-experience-platform-debugger-guide"
-created_at: "2026-10-01T13:31:19.927856+00:00"
+created_at: "2026-10-01T17:27:20.296758+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Adobe Experience Platform Debugger Guide
 
@@ -4976,7 +4976,7 @@ title: "Adobe Experience Platform Demo Extension"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/platform-demo/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:50:27.040135+00:00"
+created_at: "2026-10-01T17:48:28.062211+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -5099,7 +5099,7 @@ title: "Adobe Experience Platform Destination SDK"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:31:05.219167+00:00"
+created_at: "2026-10-01T17:27:01.046666+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -5259,7 +5259,7 @@ title: "Adobe Experience Platform end-to-end example workflow"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/getting-started/end-to-end-tutorial"
 category: "tutorials"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-10-01T13:30:34.738963+00:00"
+created_at: "2026-10-01T17:26:28.443786+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -5376,7 +5376,7 @@ title: "Adobe Experience Platform Identity Service"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/home"
 category: "overview"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-10-01T13:30:44.690521+00:00"
+created_at: "2026-10-01T17:26:39.286919+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -5546,7 +5546,7 @@ title: "Adobe Experience Platform overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/home"
 category: "overview"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-10-01T13:30:20.907507+00:00"
+created_at: "2026-10-01T17:26:12.757530+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -5621,7 +5621,7 @@ title: "Adobe Experience Platform UI guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/platform-ui/ui-guide"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-10-01T13:30:34.185931+00:00"
+created_at: "2026-10-01T17:26:27.607708+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -5796,7 +5796,7 @@ title: "Adobe Experience Platform Web SDK tag extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:33:11.826553+00:00"
+created_at: "2026-10-01T17:29:28.366004+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -5830,7 +5830,7 @@ title: "Adobe Media Analytics (3.x SDK) for Audio and Video extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/media-analytics-3x/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:50:28.688807+00:00"
+created_at: "2026-10-01T17:48:29.688681+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -5932,7 +5932,7 @@ title: "Adobe Media Analytics for Audio and Video extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/media-analytics/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:49:52.870184+00:00"
+created_at: "2026-10-01T17:47:48.301075+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -6038,7 +6038,7 @@ title: "Adobe Privacy extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/privacy/overview"
 category: "guides"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:49:50.063222+00:00"
+created_at: "2026-10-01T17:47:45.679922+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -6145,7 +6145,7 @@ title: "Adobe Privacy JavaScript Library overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/js-library"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-10-01T13:44:34.382193+00:00"
+created_at: "2026-10-01T17:41:57.762594+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -6405,7 +6405,7 @@ title: "Adobe Real-Time CDP Documentation rtcdp-documentation"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/home"
 category: "overview"
 topic: "experience-platform/real-time-customer-data-platform-guide"
-created_at: "2026-10-01T13:30:20.112810+00:00"
+created_at: "2026-10-01T17:26:11.716745+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Data Platform Guide
 
@@ -6607,7 +6607,7 @@ title: "Adobe Target extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/target/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:49:53.410898+00:00"
+created_at: "2026-10-01T17:47:49.362341+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -6810,7 +6810,7 @@ title: "Adobe Target v2 extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/target-v2/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:49:53.952709+00:00"
+created_at: "2026-10-01T17:47:50.197691+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -7006,7 +7006,7 @@ title: "Advanced Data Lifecycle Management in Adobe Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-lifecycle/home"
 category: "overview"
 topic: "experience-platform/advanced-data-lifecycle-management-guide"
-created_at: "2026-10-01T13:31:28.603975+00:00"
+created_at: "2026-10-01T17:27:29.138122+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Advanced Data Lifecycle Management Guide
 
@@ -7111,7 +7111,7 @@ title: "Advertising destinations overview advertising-destinations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/advertising/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:35:28.296004+00:00"
+created_at: "2026-10-01T17:31:55.214997+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -7197,7 +7197,7 @@ title: "AEM Asset Insights extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/asset-insights/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:50:27.931912+00:00"
+created_at: "2026-10-01T17:48:28.891104+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -7336,7 +7336,7 @@ title: "AI Assistant (Legacy) in Adobe Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home"
 category: "overview"
 topic: "experience-platform/ai-assistant-in-adobe-experience-platform-guide"
-created_at: "2026-10-01T13:31:13.116329+00:00"
+created_at: "2026-10-01T17:27:10.017713+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > AI Assistant in Adobe Experience Platform Guide
 
@@ -7635,7 +7635,7 @@ title: "AI Assistant UI Guide (Legacy)"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/ui-guide"
 category: "guides"
 topic: "experience-platform/ai-assistant-in-adobe-experience-platform-guide"
-created_at: "2026-10-01T13:37:17.040310+00:00"
+created_at: "2026-10-01T17:33:57.989394+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > AI Assistant in Adobe Experience Platform Guide
 
@@ -7831,7 +7831,7 @@ title: "AI/ML feature pipelines"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/data-distiller/ml-feature-pipelines/overview"
 category: "overview"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-10-01T13:40:12.440817+00:00"
+created_at: "2026-10-01T17:37:10.850242+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -7892,7 +7892,7 @@ title: "Alert Subscriptions endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/alert-subscriptions"
 category: "reference"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-10-01T13:43:43.905548+00:00"
+created_at: "2026-10-01T17:41:02.300021+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -8859,7 +8859,7 @@ title: "Alerts overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/observability/alerts/overview"
 category: "overview"
 topic: "experience-platform/observability-insights-guide"
-created_at: "2026-10-01T13:31:14.566916+00:00"
+created_at: "2026-10-01T17:27:11.953174+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Observability Insights Guide
 
@@ -8988,7 +8988,7 @@ title: "Analytics destinations overview analytics-destinations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/analytics/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:35:29.561768+00:00"
+created_at: "2026-10-01T17:31:56.212451+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -9043,7 +9043,7 @@ title: "App configurations endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/app-configurations"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:05.002129+00:00"
+created_at: "2026-10-01T17:50:17.240873+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -9464,7 +9464,7 @@ title: "Attribute-based access control API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/abac-api/overview"
 category: "overview"
 topic: "experience-platform/access-control-guide"
-created_at: "2026-10-01T13:35:51.867631+00:00"
+created_at: "2026-10-01T17:32:21.228736+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Access Control Guide
 
@@ -9516,7 +9516,7 @@ title: "Attribute-based access control end-to-end guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/end-to-end-guide"
 category: "guides"
 topic: "experience-platform/access-control-guide"
-created_at: "2026-10-01T13:30:54.729440+00:00"
+created_at: "2026-10-01T17:26:49.163793+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Access Control Guide
 
@@ -9678,7 +9678,7 @@ title: "Attribute-based access control overview attribute-based-access-control-o
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/overview"
 category: "overview"
 topic: "experience-platform/access-control-guide"
-created_at: "2026-10-01T13:30:53.968534+00:00"
+created_at: "2026-10-01T17:26:48.081482+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Access Control Guide
 
@@ -9841,7 +9841,7 @@ title: "Attribution AI overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/intelligent-services/attribution-ai/overview"
 category: "overview"
 topic: "experience-platform/intelligent-services-guide"
-created_at: "2026-10-01T13:38:04.580320+00:00"
+created_at: "2026-10-01T17:34:47.990916+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Intelligent Services Guide
 
@@ -9901,7 +9901,7 @@ title: "Attribution AI UI guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/intelligent-services/attribution-ai/user-guide"
 category: "guides"
 topic: "experience-platform/intelligent-services-guide"
-created_at: "2026-10-01T13:47:41.691937+00:00"
+created_at: "2026-10-01T17:45:23.956092+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Intelligent Services Guide
 
@@ -10101,7 +10101,7 @@ title: "Audience evaluation methods"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/methods/overview"
 category: "overview"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-10-01T13:44:18.247386+00:00"
+created_at: "2026-10-01T17:41:41.544283+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -10160,7 +10160,7 @@ title: "Audience Manager Expanded Activation"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/expanded-activation/overview"
 category: "overview"
 topic: "experience-platform/audience-manager-expanded-activation-guide"
-created_at: "2026-10-01T13:31:33.225895+00:00"
+created_at: "2026-10-01T17:27:34.001605+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Audience Manager Expanded Activation Guide
 
@@ -10218,7 +10218,7 @@ title: "Audience types"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/types/overview"
 category: "overview"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-10-01T13:35:56.099322+00:00"
+created_at: "2026-10-01T17:32:26.236058+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -10274,7 +10274,7 @@ title: "Audiences dashboard audiences-dashboard"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/audiences"
 category: "guides"
 topic: "experience-platform/dashboards-guide"
-created_at: "2026-10-01T13:40:00.642046+00:00"
+created_at: "2026-10-01T17:36:58.628952+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dashboards Guide
 
@@ -10511,7 +10511,7 @@ title: "Audiences endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/audiences"
 category: "reference"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-10-01T13:48:15.607205+00:00"
+created_at: "2026-10-01T17:46:01.017863+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -10864,7 +10864,7 @@ title: "Audit events endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/audit-events"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:05.805710+00:00"
+created_at: "2026-10-01T17:50:18.157379+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -11115,7 +11115,7 @@ title: "Audit events endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/audit-logs/audit-api/events"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-10-01T13:38:03.087654+00:00"
+created_at: "2026-10-01T17:34:46.241429+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -11355,7 +11355,7 @@ title: "Audit log endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/audit-log"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:34:32.946600+00:00"
+created_at: "2026-10-01T17:30:55.796344+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -11504,7 +11504,7 @@ title: "Audit logs audit-logs"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-10-01T13:31:29.515858+00:00"
+created_at: "2026-10-01T17:27:30.101100+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -11811,7 +11811,7 @@ title: "Auditor tab"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/debugger/auditor/overview"
 category: "overview"
 topic: "experience-platform/adobe-experience-platform-debugger-guide"
-created_at: "2026-10-01T13:37:35.213101+00:00"
+created_at: "2026-10-01T17:34:16.938180+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Adobe Experience Platform Debugger Guide
 
@@ -11891,7 +11891,7 @@ title: "Authenticate and access Experience Platform APIs"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/platform-apis/api-authentication"
 category: "reference"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-10-01T13:31:04.322460+00:00"
+created_at: "2026-10-01T17:26:59.881494+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -12173,7 +12173,7 @@ title: "Authenticate and access the Privacy Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/getting-started"
 category: "reference"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-10-01T13:36:21.881815+00:00"
+created_at: "2026-10-01T17:32:53.600281+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -12290,7 +12290,7 @@ title: "Authenticate and access the Reactor API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/getting-started"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:50:37.079500+00:00"
+created_at: "2026-10-01T17:48:38.405516+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -12417,7 +12417,7 @@ title: "Automatic policy enforcement"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/enforcement/auto-enforcement"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-10-01T13:35:22.821539+00:00"
+created_at: "2026-10-01T17:31:49.077151+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -12608,7 +12608,7 @@ title: "Available sandboxes endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/api/available"
 category: "reference"
 topic: "experience-platform/sandboxes-guide"
-created_at: "2026-10-01T13:39:21.524706+00:00"
+created_at: "2026-10-01T17:36:16.107278+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Sandboxes Guide
 
@@ -12740,7 +12740,7 @@ title: "AWS extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/aws/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:16.229398+00:00"
+created_at: "2026-10-01T17:50:29.418010+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -12833,7 +12833,7 @@ title: "Batch destinations mapping reference"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/ui/activate/activate-batch-profile/batch-destinations-mapping-reference"
 category: "reference"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:38:47.016947+00:00"
+created_at: "2026-10-01T17:35:37.782334+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -13100,7 +13100,7 @@ title: "Batch ingestion API overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/batch/overview"
 category: "overview"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-10-01T13:30:37.756698+00:00"
+created_at: "2026-10-01T17:26:31.182763+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -13611,7 +13611,7 @@ title: "Batch ingestion developer guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/batch/api-overview"
 category: "reference"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-10-01T13:33:10.352228+00:00"
+created_at: "2026-10-01T17:29:26.803146+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -14572,7 +14572,7 @@ title: "Behaviors endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/behaviors"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:47:16.480673+00:00"
+created_at: "2026-10-01T17:44:53.969867+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -14762,7 +14762,7 @@ title: "Best practices for Privacy Service"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/best-practices"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-10-01T13:31:03.742695+00:00"
+created_at: "2026-10-01T17:26:58.704675+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -14880,7 +14880,7 @@ title: "Braze Track Events API event forwarding extension"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/braze/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:17.332899+00:00"
+created_at: "2026-10-01T17:50:30.361518+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -15178,7 +15178,7 @@ title: "BrightCove Video Tracking extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/brightcove/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:50:29.463625+00:00"
+created_at: "2026-10-01T17:48:30.501225+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -15287,7 +15287,7 @@ title: "Build audiences using SQL"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/data-distiller-audiences/overview"
 category: "overview"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-10-01T13:38:59.272002+00:00"
+created_at: "2026-10-01T17:35:51.523448+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -15676,7 +15676,7 @@ title: "Builds endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/builds"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:02.935675+00:00"
+created_at: "2026-10-01T17:50:15.346237+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -16787,7 +16787,7 @@ title: "Callbacks endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/callbacks"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:06.741227+00:00"
+created_at: "2026-10-01T17:50:19.138878+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -17196,7 +17196,7 @@ title: "Catalog Service API guide appendix"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/api/appendix"
 category: "reference"
 topic: "experience-platform/catalog-and-datasets-guide"
-created_at: "2026-10-01T13:51:45.237935+00:00"
+created_at: "2026-10-01T17:49:55.824263+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Catalog and Datasets Guide
 
@@ -17322,7 +17322,7 @@ title: "Catalog Service API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/api/getting-started"
 category: "reference"
 topic: "experience-platform/catalog-and-datasets-guide"
-created_at: "2026-10-01T13:37:42.448444+00:00"
+created_at: "2026-10-01T17:34:24.359535+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Catalog and Datasets Guide
 
@@ -17402,7 +17402,7 @@ title: "Catalog Service overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/home"
 category: "overview"
 topic: "experience-platform/catalog-and-datasets-guide"
-created_at: "2026-10-01T13:31:21.791476+00:00"
+created_at: "2026-10-01T17:27:22.070745+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Catalog and Datasets Guide
 
@@ -17484,7 +17484,7 @@ title: "Classes endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/classes"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:46:24.918685+00:00"
+created_at: "2026-10-01T17:43:58.384179+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -18217,7 +18217,7 @@ title: "Cloud Connector extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/cloud-connector/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:37:39.788701+00:00"
+created_at: "2026-10-01T17:34:21.657160+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -18441,7 +18441,7 @@ title: "Cloud storage destinations overview cloud-storage-destinations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/cloud-storage/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:35:30.478472+00:00"
+created_at: "2026-10-01T17:31:57.203179+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -18534,7 +18534,7 @@ title: "Common Analytics Plugins extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/plugins/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:50:30.290345+00:00"
+created_at: "2026-10-01T17:48:31.419258+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -18614,7 +18614,7 @@ title: "Companies endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/companies"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:51:55.590889+00:00"
+created_at: "2026-10-01T17:50:07.503980+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -18820,7 +18820,7 @@ title: "Computed attributes API endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/computed-attributes/api"
 category: "reference"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-10-01T13:32:08.440532+00:00"
+created_at: "2026-10-01T17:28:16.580659+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -19125,7 +19125,7 @@ title: "Computed attributes overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/computed-attributes/overview"
 category: "overview"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-10-01T13:30:29.368080+00:00"
+created_at: "2026-10-01T17:26:22.045000+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -19290,7 +19290,7 @@ title: "Configure a Customer AI instance"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/intelligent-services/customer-ai/user-guide/configure"
 category: "guides"
 topic: "experience-platform/intelligent-services-guide"
-created_at: "2026-10-01T13:35:57.959593+00:00"
+created_at: "2026-10-01T17:32:28.053192+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Intelligent Services Guide
 
@@ -19498,7 +19498,7 @@ title: "Configure a dataflow to ingest batch data from a cloud storage source in
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/cloud-storage"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:39:52.893277+00:00"
+created_at: "2026-10-01T17:36:51.075726+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -19704,7 +19704,7 @@ title: "Configure a dataset export destination"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/guides/configure-file-based-destinations/configure-dataset-export-destination"
 category: "guides"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:36:33.951885+00:00"
+created_at: "2026-10-01T17:33:06.696484+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -20056,7 +20056,7 @@ title: "Configure a dataset for Profile using APIs"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/tutorials/dataset-configuration"
 category: "tutorials"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-10-01T13:32:49.387919+00:00"
+created_at: "2026-10-01T17:29:03.955476+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -20086,7 +20086,7 @@ title: "Configure a dataset to capture consent and preference data"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/consent/adobe/dataset"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-10-01T13:48:51.057317+00:00"
+created_at: "2026-10-01T17:46:39.665261+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -20283,7 +20283,7 @@ title: "Configure a file-based destination for prospect audiences"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/guides/configure-file-based-destinations/configure-prospect-audience-destination"
 category: "guides"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:36:33.137416+00:00"
+created_at: "2026-10-01T17:33:05.821911+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -20745,7 +20745,7 @@ title: "Configure an Amazon S3 destination with predefined file formatting"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/guides/configure-file-based-destinations/configure-amazon-s3-destination-with-predefined-file-formatting"
 category: "guides"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:36:37.728698+00:00"
+created_at: "2026-10-01T17:33:12.577729+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -21072,7 +21072,7 @@ title: "Configure file formatting options for file-based destinations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/guides/configure-file-based-destinations/configure-file-formatting-options"
 category: "guides"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:36:36.916132+00:00"
+created_at: "2026-10-01T17:33:11.343303+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -21828,7 +21828,7 @@ title: "Configure the Adobe Experience Platform Web SDK"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/collection/js/commands/configure/overview"
 category: "overview"
 topic: "experience-platform/data-collection"
-created_at: "2026-10-01T13:37:29.217699+00:00"
+created_at: "2026-10-01T17:34:10.611298+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Collection
 
@@ -21893,7 +21893,7 @@ title: "Connect Adobe Analytics to Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:33:18.609372+00:00"
+created_at: "2026-10-01T17:29:38.293585+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -22134,7 +22134,7 @@ title: "Connect Amazon S3 to Experience Platform using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/s3"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:32:50.253775+00:00"
+created_at: "2026-10-01T17:29:05.128305+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -22395,7 +22395,7 @@ title: "Connect AWS Redshift to Experience Platform using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/redshift"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:05.488989+00:00"
+created_at: "2026-10-01T17:38:08.787538+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -22544,7 +22544,7 @@ title: "Connect AWS Redshift to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/redshift"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:07.153512+00:00"
+created_at: "2026-10-01T17:38:10.655180+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -22655,7 +22655,7 @@ title: "Connect Azure Blob Storage to Experience Platform using the API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/blob"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:39:07.573186+00:00"
+created_at: "2026-10-01T17:36:00.710995+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -22784,7 +22784,7 @@ title: "Connect Azure Blob Storage to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/blob"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:30.406163+00:00"
+created_at: "2026-10-01T17:38:36.208147+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -22870,7 +22870,7 @@ title: "Connect Azure Synapse Analytics to Experience Platform using the Flow Se
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/synapse-analytics"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:12.450623+00:00"
+created_at: "2026-10-01T17:38:16.287167+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -23006,7 +23006,7 @@ title: "Connect Bombora Intent to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/data-partner/bombora"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:26.594316+00:00"
+created_at: "2026-10-01T17:39:33.999795+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -23119,7 +23119,7 @@ title: "Connect Capillary Streaming Events to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/loyalty/capillary"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:37.667525+00:00"
+created_at: "2026-10-01T17:39:47.117877+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -23238,7 +23238,7 @@ title: "Connect clients to Query Service"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/clients/overview"
 category: "overview"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-10-01T13:34:52.115209+00:00"
+created_at: "2026-10-01T17:31:17.739027+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -23294,7 +23294,7 @@ title: "Connect Data Landing Zone to Adobe Experience Platform using the Flow Se
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/data-landing-zone"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:39:10.124860+00:00"
+created_at: "2026-10-01T17:36:03.829364+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -23839,7 +23839,7 @@ title: "Connect Data Landing Zone to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/data-landing-zone"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:33.272624+00:00"
+created_at: "2026-10-01T17:38:38.766352+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -23943,7 +23943,7 @@ title: "Connect Databricks to Experience Platform in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/databricks"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:09.325732+00:00"
+created_at: "2026-10-01T17:38:13.245579+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -24030,7 +24030,7 @@ title: "Connect Databricks to Experience Platform using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/databricks"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:08.791952+00:00"
+created_at: "2026-10-01T17:38:12.339992+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -24145,7 +24145,7 @@ title: "Connect Demandbase Intent to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/data-partner/demandbase"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:27.445164+00:00"
+created_at: "2026-10-01T17:39:35.408712+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -24257,7 +24257,7 @@ title: "Connect Didomi to Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/consent/didomi"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:36.494426+00:00"
+created_at: "2026-10-01T17:38:42.143495+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -24413,7 +24413,7 @@ title: "Connect Google Ads to Experience Platform using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/advertising/ads"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:21.473799+00:00"
+created_at: "2026-10-01T17:38:26.221496+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -24602,7 +24602,7 @@ title: "Connect Google Ads to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/advertising/ads"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:22.209623+00:00"
+created_at: "2026-10-01T17:38:27.225322+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -24715,7 +24715,7 @@ title: "Connect Google BigQuery to Experience Platform using the Flow Service AP
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/bigquery"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:14.215964+00:00"
+created_at: "2026-10-01T17:38:18.590076+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -24868,7 +24868,7 @@ title: "Connect Google BigQuery to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/bigquery"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:15.055224+00:00"
+created_at: "2026-10-01T17:38:19.516519+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -24967,7 +24967,7 @@ title: "Connect MariaDB to Experience Platform using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/mariadb"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:12.042668+00:00"
+created_at: "2026-10-01T17:39:19.615018+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -25093,7 +25093,7 @@ title: "Connect MariaDB to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/mariadb"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:12.888366+00:00"
+created_at: "2026-10-01T17:39:20.609171+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -25168,7 +25168,7 @@ title: "Connect Microsoft Dynamics to Experience Platform using the Flow Service
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/crm/ms-dynamics"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:41.333679+00:00"
+created_at: "2026-10-01T17:38:46.988795+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -25547,7 +25547,7 @@ title: "Connect MySQL to Experience Platform using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/mysql"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:15.335197+00:00"
+created_at: "2026-10-01T17:39:23.273130+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -25714,7 +25714,7 @@ title: "Connect MySQL to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/mysql"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:16.429687+00:00"
+created_at: "2026-10-01T17:39:24.259066+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -25797,7 +25797,7 @@ title: "Connect Oracle DB to Experience Platform using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/oracle"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:17.385153+00:00"
+created_at: "2026-10-01T17:39:25.653025+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -25932,7 +25932,7 @@ title: "Connect Oracle DB to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/oracle"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:18.130860+00:00"
+created_at: "2026-10-01T17:39:26.486664+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -26011,7 +26011,7 @@ title: "Connect Oracle Eloqua (V2) to Experience Platform in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/eloqua"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:53.300043+00:00"
+created_at: "2026-10-01T17:40:05.030774+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -26146,7 +26146,7 @@ title: "Connect PostgreSQL to Experience Platform using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/postgres"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:19.272049+00:00"
+created_at: "2026-10-01T17:39:27.497588+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -26342,7 +26342,7 @@ title: "Connect PostgreSQL to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/postgres"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:20.201384+00:00"
+created_at: "2026-10-01T17:39:28.409388+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -26449,7 +26449,7 @@ title: "Connect Relay to Experience Platform in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/relay-connector"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:34:23.051025+00:00"
+created_at: "2026-10-01T17:30:44.459320+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -26536,7 +26536,7 @@ title: "Connect Salesforce Marketing Cloud to Experience Platform using the Flow
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/salesforce-marketing-cloud"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:49:21.110227+00:00"
+created_at: "2026-10-01T17:47:13.650626+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -26677,7 +26677,7 @@ title: "Connect Salesforce Marketing Cloud to Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/sfmc"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:43:00.749754+00:00"
+created_at: "2026-10-01T17:40:13.824178+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -26775,7 +26775,7 @@ title: "Connect Salesforce to Experience Platform using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/crm/salesforce"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:46.249182+00:00"
+created_at: "2026-10-01T17:38:52.291378+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -26982,7 +26982,7 @@ title: "Connect Snowflake to Experience Platform using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/snowflake"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:19.851742+00:00"
+created_at: "2026-10-01T17:38:24.353309+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -27170,7 +27170,7 @@ title: "Connect Snowflake to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/snowflake"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:20.608873+00:00"
+created_at: "2026-10-01T17:38:25.142692+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -27300,7 +27300,7 @@ title: "Connect to file-based email marketing destinations and activate data usi
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/connect-activate-batch-destinations"
 category: "reference"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:33:01.111127+00:00"
+created_at: "2026-10-01T17:29:16.577391+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -28344,7 +28344,7 @@ title: "Connect to streaming destinations and activate data using the Flow Servi
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/streaming-destinations"
 category: "reference"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:31:45.489812+00:00"
+created_at: "2026-10-01T17:27:47.923887+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -29103,7 +29103,7 @@ title: "Connect your PathFactory account to Experience Platform through the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/pathfactory"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:59.020845+00:00"
+created_at: "2026-10-01T17:40:11.508590+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -29187,7 +29187,7 @@ title: "Connect your RainFocus account to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/analytics/rainfocus"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:40:48.931951+00:00"
+created_at: "2026-10-01T17:37:52.011207+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -29309,7 +29309,7 @@ title: "Connect your Salesforce account to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/crm/salesforce"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:47.044743+00:00"
+created_at: "2026-10-01T17:38:53.135107+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -29454,7 +29454,7 @@ title: "Connect your Salesforce Marketing Cloud account to Experience Platform t
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/salesforce-marketing-cloud"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:49:21.923576+00:00"
+created_at: "2026-10-01T17:47:14.726761+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -29535,7 +29535,7 @@ title: "Connect your Salesforce Service Cloud account to Experience Platform usi
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/customer-success/salesforce-service-cloud"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:54.285272+00:00"
+created_at: "2026-10-01T17:39:00.505139+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -29609,7 +29609,7 @@ title: "Connection parameters endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/connection-parameters"
 category: "reference"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-10-01T13:43:41.057317+00:00"
+created_at: "2026-10-01T17:40:58.815729+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -29676,7 +29676,7 @@ title: "Consent analysis and tracking"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/insights-use-cases/consent-analysis"
 category: "guides"
 topic: "experience-platform/dashboards-guide"
-created_at: "2026-10-01T13:40:21.613916+00:00"
+created_at: "2026-10-01T17:37:20.999706+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dashboards Guide
 
@@ -29809,7 +29809,7 @@ title: "Consent and identity in Data Collection"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/collection/identity/consent"
 category: "guides"
 topic: "experience-platform/data-collection"
-created_at: "2026-10-01T13:48:40.875440+00:00"
+created_at: "2026-10-01T17:46:28.597041+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Collection
 
@@ -30006,7 +30006,7 @@ title: "Consent configuration settings consent"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/configure/consent"
 category: "guides"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:50:46.095121+00:00"
+created_at: "2026-10-01T17:48:48.346891+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -30049,7 +30049,7 @@ title: "Consent endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/consent"
 category: "reference"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-10-01T13:44:35.078391+00:00"
+created_at: "2026-10-01T17:41:58.579555+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -30150,7 +30150,7 @@ title: "Consent policy rule building reference"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/consent-policy-rule-building-reference"
 category: "reference"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-10-01T13:40:02.738224+00:00"
+created_at: "2026-10-01T17:37:00.617238+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -30505,7 +30505,7 @@ title: "Consent processing in Adobe Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/consent/adobe/overview"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-10-01T13:40:01.763082+00:00"
+created_at: "2026-10-01T17:36:59.488377+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -30634,7 +30634,7 @@ title: "Consent String data type"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/data-types/consent-string"
 category: "guides"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:49:36.048300+00:00"
+created_at: "2026-10-01T17:47:30.214279+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -30689,7 +30689,7 @@ title: "Consents and Preferences data type"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/data-types/consents"
 category: "guides"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:47:56.182871+00:00"
+created_at: "2026-10-01T17:45:39.417996+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -31108,7 +31108,7 @@ title: "Consents and Preferences field group"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/field-groups/profile/consents"
 category: "guides"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:38:27.973432+00:00"
+created_at: "2026-10-01T17:35:14.769427+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -31310,7 +31310,7 @@ title: "Core event forwarding extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/core/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:37:38.348316+00:00"
+created_at: "2026-10-01T17:34:20.761020+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -31550,7 +31550,7 @@ title: "Core extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/core/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:46:18.932157+00:00"
+created_at: "2026-10-01T17:43:50.936815+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -32416,7 +32416,7 @@ title: "Create a Amazon S3 source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/s3"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:32:51.066538+00:00"
+created_at: "2026-10-01T17:29:05.997717+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -32499,7 +32499,7 @@ title: "Create a Braze Currents source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/braze"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:43.581648+00:00"
+created_at: "2026-10-01T17:39:54.736445+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -32612,7 +32612,7 @@ title: "Create a Chatlio source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/chatlio-webhook"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:44.575826+00:00"
+created_at: "2026-10-01T17:39:55.775657+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -32773,7 +32773,7 @@ title: "Create a custom namespace in the Identity Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/api/create-custom-namespace"
 category: "reference"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-10-01T13:39:45.751397+00:00"
+created_at: "2026-10-01T17:36:43.449478+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -32849,7 +32849,7 @@ title: "Create a Customer Attributes source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/customer-attributes"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:33:24.020853+00:00"
+created_at: "2026-10-01T17:29:43.044373+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -32927,7 +32927,7 @@ title: "Create a Customer.io source connection and dataflow in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/customerio-webhook"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:46.891654+00:00"
+created_at: "2026-10-01T17:39:58.066435+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -33113,7 +33113,7 @@ title: "Create a data governance policy in the API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-10-01T13:35:25.715561+00:00"
+created_at: "2026-10-01T17:31:52.200189+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -33578,7 +33578,7 @@ title: "Create a dataflow for a OneTrust Integration source using the Flow Servi
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/consent/onetrust"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:37.605381+00:00"
+created_at: "2026-10-01T17:38:43.038702+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -34128,7 +34128,7 @@ title: "Create a dataflow for a payments source in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/payments"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:43:04.290802+00:00"
+created_at: "2026-10-01T17:40:17.415365+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -34281,7 +34281,7 @@ title: "Create a dataflow for advertising sources using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/advertising"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:23.056381+00:00"
+created_at: "2026-10-01T17:38:28.213349+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -34755,7 +34755,7 @@ title: "Create a dataflow for cloud storage sources using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/cloud-storage"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:39:05.674104+00:00"
+created_at: "2026-10-01T17:35:58.807361+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -35380,7 +35380,7 @@ title: "Create a dataflow for customer success sources using the Flow Service AP
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/customer-success"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:53.503586+00:00"
+created_at: "2026-10-01T17:38:59.614374+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -35803,7 +35803,7 @@ title: "Create a dataflow for database sources using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/database-nosql"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:06.373078+00:00"
+created_at: "2026-10-01T17:38:09.750913+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -36328,7 +36328,7 @@ title: "Create a dataflow for E-commerce sources using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/ecommerce"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:32.907101+00:00"
+created_at: "2026-10-01T17:39:41.866400+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -36758,7 +36758,7 @@ title: "Create a dataflow for Mailchimp Campaign using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/mailchimp-campaign"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:48.759225+00:00"
+created_at: "2026-10-01T17:40:00.078948+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -37335,7 +37335,7 @@ title: "Create a dataflow for Mailchimp Members using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/mailchimp-members"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:50.572873+00:00"
+created_at: "2026-10-01T17:40:02.054879+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -38070,7 +38070,7 @@ title: "Create a dataflow for marketing automation sources using the Flow Servic
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/marketing-automation"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:39:02.932438+00:00"
+created_at: "2026-10-01T17:35:55.571443+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -38510,7 +38510,7 @@ title: "Create a dataflow for payments sources using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/payments"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:43:02.570301+00:00"
+created_at: "2026-10-01T17:40:15.676609+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -38997,7 +38997,7 @@ title: "Create a dataflow for protocols sources Using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/protocols"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:43:09.150799+00:00"
+created_at: "2026-10-01T17:40:22.565139+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -39483,7 +39483,7 @@ title: "Create a dataflow for Zendesk using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/customer-success/zendesk"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:58.012459+00:00"
+created_at: "2026-10-01T17:39:04.414456+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -40353,7 +40353,7 @@ title: "Create a dataflow to ingest data from a CRM into Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/crm"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:42.384575+00:00"
+created_at: "2026-10-01T17:38:48.147106+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -40893,7 +40893,7 @@ title: "Create a dataflow using a consent and preferences source in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/consent-and-preferences"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:39.235618+00:00"
+created_at: "2026-10-01T17:38:44.707178+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -41048,7 +41048,7 @@ title: "Create a dataflow using a CRM source in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/crm"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:44.232050+00:00"
+created_at: "2026-10-01T17:38:50.226356+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -41203,7 +41203,7 @@ title: "Create a Dataflow using a customer success source in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/customer-success"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:55.192639+00:00"
+created_at: "2026-10-01T17:39:01.428660+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -41356,7 +41356,7 @@ title: "Create a dataflow using a database source in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/databases"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:07.963367+00:00"
+created_at: "2026-10-01T17:38:11.533112+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -41520,7 +41520,7 @@ title: "Create a dataflow using a marketing automation source in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/marketing-automation"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:39:04.676871+00:00"
+created_at: "2026-10-01T17:35:57.692012+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -41673,7 +41673,7 @@ title: "Create a dataflow using a protocols source in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/protocols"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:43:10.845959+00:00"
+created_at: "2026-10-01T17:40:24.423965+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -41826,7 +41826,7 @@ title: "Create a dataflow using an advertising source in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/advertising"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:49:13.498214+00:00"
+created_at: "2026-10-01T17:47:05.179678+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -41979,7 +41979,7 @@ title: "Create a dataflow using an analytics source in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/analytics"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:24.008036+00:00"
+created_at: "2026-10-01T17:38:29.200522+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -42123,7 +42123,7 @@ title: "Create a dataflow using an e-commerce source in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/ecommerce"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:31.124047+00:00"
+created_at: "2026-10-01T17:39:39.478872+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -42276,7 +42276,7 @@ title: "Create a dataset for exporting an audience"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment"
 category: "tutorials"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-10-01T13:49:02.212885+00:00"
+created_at: "2026-10-01T17:46:52.304337+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -42361,7 +42361,7 @@ title: "Create a dataset in the API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/api/create-dataset"
 category: "reference"
 topic: "experience-platform/catalog-and-datasets-guide"
-created_at: "2026-10-01T13:46:51.006091+00:00"
+created_at: "2026-10-01T17:44:26.701135+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Catalog and Datasets Guide
 
@@ -42450,7 +42450,7 @@ title: "Create a Generic OData base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/protocols/odata"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:43:07.820024+00:00"
+created_at: "2026-10-01T17:40:21.476875+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -42573,7 +42573,7 @@ title: "Create a Generic OData source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/protocols/odata"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:43:09.989231+00:00"
+created_at: "2026-10-01T17:40:23.379275+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -42644,7 +42644,7 @@ title: "Create a Generic REST API base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/protocols/generic-rest"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:43:11.673789+00:00"
+created_at: "2026-10-01T17:40:25.294664+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -42883,7 +42883,7 @@ title: "Create a Google Cloud Storage base connection using the Flow Service API
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/google"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:39:11.785881+00:00"
+created_at: "2026-10-01T17:36:05.554916+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -43015,7 +43015,7 @@ title: "Create a Google Cloud Storage source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/google-cloud-storage"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:34.822093+00:00"
+created_at: "2026-10-01T17:38:40.456715+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -43102,7 +43102,7 @@ title: "Create a Google PubSub source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/google-pubsub"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:17.146342+00:00"
+created_at: "2026-10-01T17:38:21.356675+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -43220,7 +43220,7 @@ title: "Create a Google PubSub Source Connection Using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/google-pubsub"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:16.313815+00:00"
+created_at: "2026-10-01T17:38:20.539532+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -43438,7 +43438,7 @@ title: "Create a GreenPlum base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/greenplum"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:06.777564+00:00"
+created_at: "2026-10-01T17:39:14.180737+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -43560,7 +43560,7 @@ title: "Create a GreenPlum source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/greenplum"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:07.566901+00:00"
+created_at: "2026-10-01T17:39:15.238168+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -43632,7 +43632,7 @@ title: "Create a HubSpot base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/hubspot"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:39:01.078515+00:00"
+created_at: "2026-10-01T17:35:53.322224+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -43841,7 +43841,7 @@ title: "Create a HubSpot source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/hubspot"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:39:03.750194+00:00"
+created_at: "2026-10-01T17:35:56.423368+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -43920,7 +43920,7 @@ title: "Create a local file upload source connector in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/local-system/local-file-upload"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:36.657029+00:00"
+created_at: "2026-10-01T17:39:45.906184+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -44007,7 +44007,7 @@ title: "Create a Mailchimp Campaigns source connection using Experience Platform
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/mailchimp-campaigns"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:49.681056+00:00"
+created_at: "2026-10-01T17:40:01.020608+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -44116,7 +44116,7 @@ title: "Create a Mailchimp Members source connection using Experience Platform U
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/mailchimp-members"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:51.509134+00:00"
+created_at: "2026-10-01T17:40:03.283972+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -44225,7 +44225,7 @@ title: "Create a Marketo Engage source connection and dataflow for custom activi
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/marketo-custom-activities"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:33:26.910417+00:00"
+created_at: "2026-10-01T17:29:45.766744+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -44378,7 +44378,7 @@ title: "Create a Marketo Engage source connection and dataflow in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/marketo"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:33:25.581883+00:00"
+created_at: "2026-10-01T17:29:44.787990+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -44575,7 +44575,7 @@ title: "Create a Merkury Enterprise Identity Resolution source connection and da
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/data-partner/merkury"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:28.273568+00:00"
+created_at: "2026-10-01T17:39:36.372443+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -44796,7 +44796,7 @@ title: "Create a Microsoft Dynamics source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/crm/dynamics"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:43.288140+00:00"
+created_at: "2026-10-01T17:38:49.207959+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -44890,7 +44890,7 @@ title: "Create a Microsoft SQL Server base connection using the Flow Service API
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/sql-server"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:13.750758+00:00"
+created_at: "2026-10-01T17:39:21.495155+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -45020,7 +45020,7 @@ title: "Create a Microsoft SQL Server source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/sql-server"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:14.533884+00:00"
+created_at: "2026-10-01T17:39:22.393278+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -45099,7 +45099,7 @@ title: "Create a Mixpanel source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/analytics/mixpanel"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:25.612907+00:00"
+created_at: "2026-10-01T17:38:31.036486+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -45245,7 +45245,7 @@ title: "Create a OneTrust Integration source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/consent/onetrust"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:38.352062+00:00"
+created_at: "2026-10-01T17:38:43.897639+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -45326,7 +45326,7 @@ title: "Create a Oracle NetSuite Activities source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/oracle-netsuite-activities"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:55.166662+00:00"
+created_at: "2026-10-01T17:40:07.142795+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -45412,7 +45412,7 @@ title: "Create a Oracle NetSuite Entities source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/oracle-netsuite-entities"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:57.396970+00:00"
+created_at: "2026-10-01T17:40:09.475233+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -45510,7 +45510,7 @@ title: "Create a PathFactory base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/pathfactory"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:58.248464+00:00"
+created_at: "2026-10-01T17:40:10.396142+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -45646,7 +45646,7 @@ title: "Create a Pendo source connection dataflow and in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/analytics/pendo-webhook"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:27.472591+00:00"
+created_at: "2026-10-01T17:38:32.940981+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -45812,7 +45812,7 @@ title: "Create a Salesforce Service Cloud source connection using the Flow Servi
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/customer-success/salesforce-service-cloud"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:52.630162+00:00"
+created_at: "2026-10-01T17:38:58.730526+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -45934,7 +45934,7 @@ title: "Create a SAP Commerce source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/ecommerce/sap-commerce"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:30.258374+00:00"
+created_at: "2026-10-01T17:39:38.456870+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -46105,7 +46105,7 @@ title: "Create a schema using the Schema Editor"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui"
 category: "tutorials"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:32:34.033293+00:00"
+created_at: "2026-10-01T17:28:46.574295+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -46466,7 +46466,7 @@ title: "Create a schema using the Schema Registry API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-api"
 category: "tutorials"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:34:35.237493+00:00"
+created_at: "2026-10-01T17:30:58.582070+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -47937,7 +47937,7 @@ title: "Create a segment definition using the Segmentation Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/tutorials/create-a-segment"
 category: "tutorials"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-10-01T13:32:54.755391+00:00"
+created_at: "2026-10-01T17:29:09.176409+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -48058,7 +48058,7 @@ title: "Create a ServiceNow base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/customer-success/servicenow"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:55.966281+00:00"
+created_at: "2026-10-01T17:39:02.246053+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -48190,7 +48190,7 @@ title: "Create a ServiceNow source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/customer-success/servicenow"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:56.934070+00:00"
+created_at: "2026-10-01T17:39:03.177685+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -48265,7 +48265,7 @@ title: "Create a Shopify base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/ecommerce/shopify"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:31.888410+00:00"
+created_at: "2026-10-01T17:39:40.895555+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -48375,7 +48375,7 @@ title: "Create a Shopify source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/ecommerce/shopify"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:33.818033+00:00"
+created_at: "2026-10-01T17:39:42.858869+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -48446,7 +48446,7 @@ title: "Create a source connection and dataflow for Chatlio using the Flow Servi
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/chatlio-webhook"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:45.785620+00:00"
+created_at: "2026-10-01T17:39:56.887332+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -48950,7 +48950,7 @@ title: "Create a source connection and dataflow for Customer.io using the Flow S
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/customerio-webhook"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:47.844084+00:00"
+created_at: "2026-10-01T17:39:58.986391+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -49454,7 +49454,7 @@ title: "Create a source connection and dataflow for Mixpanel using the Flow Serv
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/analytics/mixpanel"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:26.478941+00:00"
+created_at: "2026-10-01T17:38:32.083657+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -50252,7 +50252,7 @@ title: "Create a source connection and dataflow for Oracle NetSuite Activities u
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/oracle-netsuite-activities"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:54.303425+00:00"
+created_at: "2026-10-01T17:40:06.160375+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -50809,7 +50809,7 @@ title: "Create a source connection and dataflow for Oracle NetSuite Entities usi
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/oracle-netsuite-entities"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:56.590437+00:00"
+created_at: "2026-10-01T17:40:08.501674+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -51381,7 +51381,7 @@ title: "Create a source connection and dataflow for Pendo using the Flow Service
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/analytics/pendo-webhook"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:28.663938+00:00"
+created_at: "2026-10-01T17:38:33.997435+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -51885,7 +51885,7 @@ title: "Create a source connection and dataflow for SAP Commerce using the Flow 
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/ecommerce/sap-commerce"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:29.415027+00:00"
+created_at: "2026-10-01T17:39:37.520333+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -52454,7 +52454,7 @@ title: "Create a source connection and dataflow for Shopify Streaming data using
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/ecommerce/shopify-streaming"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:35.807438+00:00"
+created_at: "2026-10-01T17:39:44.925388+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -52557,7 +52557,7 @@ title: "Create a source connection and dataflow for SugarCRM Accounts & Contacts
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/crm/sugarcrm-accounts-contacts"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:48.204629+00:00"
+created_at: "2026-10-01T17:38:54.232071+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -53196,7 +53196,7 @@ title: "Create a source connection and dataflow to stream LAVA data using the Fl
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/loyalty/lava"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:40.186512+00:00"
+created_at: "2026-10-01T17:39:49.917095+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -53864,7 +53864,7 @@ title: "Create a source connection and dataflow to stream LAVA data using the UI
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/loyalty/lava"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:41.064065+00:00"
+created_at: "2026-10-01T17:39:51.489898+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -54064,7 +54064,7 @@ title: "Create a sources dataflow using templates in the UI create-a-sources-dat
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/templates"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:49:15.263243+00:00"
+created_at: "2026-10-01T17:47:07.214960+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -54283,7 +54283,7 @@ title: "Create a Square base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/payments/square"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:43:01.515921+00:00"
+created_at: "2026-10-01T17:40:14.619524+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -54422,7 +54422,7 @@ title: "Create a Square source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/payments/square"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:43:03.428870+00:00"
+created_at: "2026-10-01T17:40:16.529072+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -54499,7 +54499,7 @@ title: "Create a streaming connection using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/create-streaming-connection-ui"
 category: "tutorials"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-10-01T13:49:46.880457+00:00"
+created_at: "2026-10-01T17:47:42.453763+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -54531,7 +54531,7 @@ title: "Create a streaming dataflow for a cloud storage source in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/dataflow/cloud-storage-streaming"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:04.490374+00:00"
+created_at: "2026-10-01T17:38:07.917870+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -54661,7 +54661,7 @@ title: "Create a streaming dataflow for raw data using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/collect/streaming"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:02.663645+00:00"
+created_at: "2026-10-01T17:38:05.985261+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -55211,7 +55211,7 @@ title: "Create a streaming source connection and dataflow for Shopify data using
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/ecommerce/shopify-streaming"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:34.743138+00:00"
+created_at: "2026-10-01T17:39:43.990567+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -55992,7 +55992,7 @@ title: "Create a SugarCRM Accounts & Contacts source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/crm/sugarcrm-accounts-contacts"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:49.381041+00:00"
+created_at: "2026-10-01T17:38:55.238561+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -56106,7 +56106,7 @@ title: "Create a SugarCRM Events source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/crm/sugarcrm-events"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:50.252164+00:00"
+created_at: "2026-10-01T17:38:56.115386+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -56208,7 +56208,7 @@ title: "Create a Teradata Vantage base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/teradata-vantage"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:21.318481+00:00"
+created_at: "2026-10-01T17:39:29.251360+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -56332,7 +56332,7 @@ title: "Create a Teradata Vantage source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/teradata-vantage"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:22.278638+00:00"
+created_at: "2026-10-01T17:39:30.388307+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -56405,7 +56405,7 @@ title: "Create a Veeva CRM base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/crm/veeva"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:51.013956+00:00"
+created_at: "2026-10-01T17:38:57.073428+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -56551,7 +56551,7 @@ title: "Create a Veeva CRM source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/crm/veeva"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:51.785776+00:00"
+created_at: "2026-10-01T17:38:57.956288+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -56626,7 +56626,7 @@ title: "Create a Zendesk source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/customer-success/zendesk"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:58.981258+00:00"
+created_at: "2026-10-01T17:39:05.331277+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -56810,7 +56810,7 @@ title: "Create an Acxiom Data Ingestion source connection and dataflow in the UI
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/data-partner/acxiom-data-ingestion"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:23.195709+00:00"
+created_at: "2026-10-01T17:39:31.292629+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -57023,7 +57023,7 @@ title: "Create an Acxiom Prospecting Data Import source connection and dataflow 
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/data-partner/acxiom-prospecting-data-import"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:24.352346+00:00"
+created_at: "2026-10-01T17:39:32.172829+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -57236,7 +57236,7 @@ title: "Create an ad-hoc schema"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/ad-hoc"
 category: "tutorials"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:37:25.745939+00:00"
+created_at: "2026-10-01T17:34:06.745771+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -57562,7 +57562,7 @@ title: "Create an Adobe Analytics source connection for classifications data in 
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:33:16.692291+00:00"
+created_at: "2026-10-01T17:29:36.331882+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -57636,7 +57636,7 @@ title: "Create an Adobe Audience Manager source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/audience-manager"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:33:15.062834+00:00"
+created_at: "2026-10-01T17:29:34.163195+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -57710,7 +57710,7 @@ title: "Create an Adobe Campaign Managed Cloud Services source connection using 
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/campaign"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:33:21.619309+00:00"
+created_at: "2026-10-01T17:29:40.067311+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -57829,7 +57829,7 @@ title: "Create an Amazon Kinesis source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/kinesis"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:03.507874+00:00"
+created_at: "2026-10-01T17:38:06.905883+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -57908,7 +57908,7 @@ title: "Create an Amazon Kinesis source connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/kinesis"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:02.105593+00:00"
+created_at: "2026-10-01T17:38:05.034428+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -58123,7 +58123,7 @@ title: "Create an Apache HDFS base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/hdfs"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:39:06.556427+00:00"
+created_at: "2026-10-01T17:35:59.669123+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -58245,7 +58245,7 @@ title: "Create an Apache HDFS source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/hdfs"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:31.167463+00:00"
+created_at: "2026-10-01T17:38:37.128505+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -58320,7 +58320,7 @@ title: "Create an Apache Hive on Azure HDInsights base connection using the Flow
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/hive"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:59.774323+00:00"
+created_at: "2026-10-01T17:39:06.251888+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -58450,7 +58450,7 @@ title: "Create an Apache Hive on Azure HDInsights source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/hive"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:00.758853+00:00"
+created_at: "2026-10-01T17:39:07.296674+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -58529,7 +58529,7 @@ title: "Create an Apache Spark on Azure HDInsights base connection using the Flo
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/spark"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:01.634462+00:00"
+created_at: "2026-10-01T17:39:08.165950+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -58665,7 +58665,7 @@ title: "Create an Apache Spark on Azure HDInsights source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/spark"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:02.432374+00:00"
+created_at: "2026-10-01T17:39:09.204618+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -58744,7 +58744,7 @@ title: "Create an authenticated streaming connection"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/create-authenticated-streaming-connection"
 category: "tutorials"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-10-01T13:47:02.801898+00:00"
+created_at: "2026-10-01T17:44:39.628562+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -58774,7 +58774,7 @@ title: "Create an Azure Azure Data Explorer base connection using the Flow Servi
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/data-explorer"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:03.224331+00:00"
+created_at: "2026-10-01T17:39:10.366463+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -58917,7 +58917,7 @@ title: "Create an Azure Data Explorer source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/data-explorer"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:03.966286+00:00"
+created_at: "2026-10-01T17:39:11.549656+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -58996,7 +58996,7 @@ title: "Create an Azure Data Lake Storage Gen2 base connection using the Flow Se
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/adls-gen2"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:39:08.480697+00:00"
+created_at: "2026-10-01T17:36:01.903761+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -59133,7 +59133,7 @@ title: "Create an Azure Data Lake Storage Gen2 source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/adls-gen2"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:29.482436+00:00"
+created_at: "2026-10-01T17:38:34.968567+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -59210,7 +59210,7 @@ title: "Create an Azure Event Hubs source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/eventhub"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:11.399658+00:00"
+created_at: "2026-10-01T17:38:15.325022+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -59341,7 +59341,7 @@ title: "Create an Azure Event Hubs source connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/eventhub"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:10.243925+00:00"
+created_at: "2026-10-01T17:38:14.250518+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -59636,7 +59636,7 @@ title: "Create an Azure File Storage base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/azure-file-storage"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:39:09.283984+00:00"
+created_at: "2026-10-01T17:36:02.856706+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -59766,7 +59766,7 @@ title: "Create an Azure File Storage source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/azure-file-storage"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:32.050068+00:00"
+created_at: "2026-10-01T17:38:37.866701+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -59841,7 +59841,7 @@ title: "Create an Azure Synapse Analytics source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/synapse-analytics"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:13.387502+00:00"
+created_at: "2026-10-01T17:38:17.412500+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -59920,7 +59920,7 @@ title: "Create an Azure Table Storage base connection using the Flow Service API
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/ats"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:04.830939+00:00"
+created_at: "2026-10-01T17:39:12.303391+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -60051,7 +60051,7 @@ title: "Create an Azure Table Storage source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/ats"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:05.911208+00:00"
+created_at: "2026-10-01T17:39:13.137974+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -60124,7 +60124,7 @@ title: "Create an FTP base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/ftp"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:39:10.963404+00:00"
+created_at: "2026-10-01T17:36:04.687947+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -60255,7 +60255,7 @@ title: "Create an FTP source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/ftp"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:34.030014+00:00"
+created_at: "2026-10-01T17:38:39.677555+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -60332,7 +60332,7 @@ title: "Create an HP Vertica base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/hp-vertica"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:08.586623+00:00"
+created_at: "2026-10-01T17:39:16.269276+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -60461,7 +60461,7 @@ title: "Create an HP Vertica source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/hp-vertica"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:09.393173+00:00"
+created_at: "2026-10-01T17:39:17.109259+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -60537,7 +60537,7 @@ title: "Create an HTTP API streaming connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/streaming/http"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:40:46.909282+00:00"
+created_at: "2026-10-01T17:37:50.092906+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -61094,7 +61094,7 @@ title: "Create an HTTP API streaming connection using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/streaming/http"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:43:07.086707+00:00"
+created_at: "2026-10-01T17:40:20.653379+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -61217,7 +61217,7 @@ title: "Create an IBM DB2 source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/ibm-db2"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:11.042686+00:00"
+created_at: "2026-10-01T17:39:18.762901+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -61298,7 +61298,7 @@ title: "Create an IBM IBM DB2 base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/ibm-db2"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:10.284733+00:00"
+created_at: "2026-10-01T17:39:17.972037+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -61431,7 +61431,7 @@ title: "Create an Oracle Eloqua base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/marketing-automation/oracle-eloqua"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:49:19.334607+00:00"
+created_at: "2026-10-01T17:47:11.886990+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -61580,7 +61580,7 @@ title: "Create an Oracle Eloqua source connection using Experience Platform UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/marketing-automation/oracle-eloqua"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:49:20.261613+00:00"
+created_at: "2026-10-01T17:47:12.798637+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -61679,7 +61679,7 @@ title: "Create an Oracle Object Storage base connection using the Flow Service A
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/oracle-object-storage"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:39:12.591617+00:00"
+created_at: "2026-10-01T17:36:06.820763+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -61822,7 +61822,7 @@ title: "Create an Oracle Object Storage Source Connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/oracle-object-storage"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:35.590038+00:00"
+created_at: "2026-10-01T17:38:41.287276+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -61900,7 +61900,7 @@ title: "Create an SFTP base connection using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/cloud-storage/sftp"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:39:13.637226+00:00"
+created_at: "2026-10-01T17:36:07.833487+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -62032,7 +62032,7 @@ title: "Create an SFTP source connection in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/cloud-storage/sftp"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:39:54.765700+00:00"
+created_at: "2026-10-01T17:36:53.200631+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -62128,7 +62128,7 @@ title: "Create audiences with predicted scores"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/intelligent-services/customer-ai/user-guide/create-segment"
 category: "guides"
 topic: "experience-platform/intelligent-services-guide"
-created_at: "2026-10-01T13:46:12.102672+00:00"
+created_at: "2026-10-01T17:43:43.394022+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Intelligent Services Guide
 
@@ -62172,7 +62172,7 @@ title: "Create datasets for capturing IAB TCF 2.0 consent data"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/consent/iab/dataset"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-10-01T13:49:46.156076+00:00"
+created_at: "2026-10-01T17:47:41.328935+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -62330,7 +62330,7 @@ title: "Create drafts of your Flow Service entities using the API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/draft"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:46:21.883905+00:00"
+created_at: "2026-10-01T17:43:54.351291+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -62819,7 +62819,7 @@ title: "Creating a streaming connection using the API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/create-streaming-connection"
 category: "tutorials"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-10-01T13:33:11.054076+00:00"
+created_at: "2026-10-01T17:29:27.601724+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -62851,7 +62851,7 @@ title: "CSV template to schema conversion API endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/csv-to-schema"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:50:11.381210+00:00"
+created_at: "2026-10-01T17:48:10.103997+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -63094,7 +63094,7 @@ title: "Customer AI overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/intelligent-services/customer-ai/overview"
 category: "overview"
 topic: "experience-platform/intelligent-services-guide"
-created_at: "2026-10-01T13:35:59.878287+00:00"
+created_at: "2026-10-01T17:32:29.961591+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Intelligent Services Guide
 
@@ -63157,7 +63157,7 @@ title: "Dashboard customization overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/customize/overview"
 category: "overview"
 topic: "experience-platform/dashboards-guide"
-created_at: "2026-10-01T13:50:54.941891+00:00"
+created_at: "2026-10-01T17:48:58.687356+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dashboards Guide
 
@@ -63220,7 +63220,7 @@ title: "Dashboards overview dashboards"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/home"
 category: "overview"
 topic: "experience-platform/dashboards-guide"
-created_at: "2026-10-01T13:31:22.642119+00:00"
+created_at: "2026-10-01T17:27:22.929458+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dashboards Guide
 
@@ -63273,7 +63273,7 @@ title: "Data Access API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-access/api"
 category: "reference"
 topic: "experience-platform/data-access-guide"
-created_at: "2026-10-01T13:37:43.751724+00:00"
+created_at: "2026-10-01T17:34:26.422986+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Access Guide
 
@@ -63545,7 +63545,7 @@ title: "Data Access overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-access/home"
 category: "overview"
 topic: "experience-platform/data-access-guide"
-created_at: "2026-10-01T13:31:23.378531+00:00"
+created_at: "2026-10-01T17:27:23.852741+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Access Guide
 
@@ -63587,7 +63587,7 @@ title: "Data collection overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/web-sdk/home"
 category: "overview"
 topic: "experience-platform/data-collection"
-created_at: "2026-10-01T13:31:18.462608+00:00"
+created_at: "2026-10-01T17:27:18.743523+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Collection
 
@@ -63636,7 +63636,7 @@ title: "Data collection overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/collection/home"
 category: "overview"
 topic: "experience-platform/data-collection"
-created_at: "2026-10-01T13:31:16.949528+00:00"
+created_at: "2026-10-01T17:27:14.782975+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Collection
 
@@ -63685,7 +63685,7 @@ title: "Data Distiller overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/data-distiller/overview"
 category: "overview"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-10-01T13:44:22.398125+00:00"
+created_at: "2026-10-01T17:41:45.537007+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -63747,7 +63747,7 @@ title: "Data Distiller Templates"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/sql-insights-query-pro-mode/templates/overview"
 category: "overview"
 topic: "experience-platform/dashboards-guide"
-created_at: "2026-10-01T13:48:58.133566+00:00"
+created_at: "2026-10-01T17:46:47.719936+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dashboards Guide
 
@@ -63808,7 +63808,7 @@ title: "Data elements endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/data-elements"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:51:57.608926+00:00"
+created_at: "2026-10-01T17:50:09.494026+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -65404,7 +65404,7 @@ title: "Data encryption in Adobe Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/encryption"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-10-01T13:37:31.061565+00:00"
+created_at: "2026-10-01T17:34:12.724315+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -65510,7 +65510,7 @@ title: "Data governance end-to-end guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/e2e"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-10-01T13:34:42.149199+00:00"
+created_at: "2026-10-01T17:31:06.210633+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -65663,7 +65663,7 @@ title: "Data Governance in Real-Time CDP"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/privacy/data-governance-overview"
 category: "guides"
 topic: "experience-platform/real-time-customer-data-platform-guide"
-created_at: "2026-10-01T13:31:41.096302+00:00"
+created_at: "2026-10-01T17:27:42.841528+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Data Platform Guide
 
@@ -65738,7 +65738,7 @@ title: "Data Governance overview data-governance-overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/home"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-10-01T13:30:47.609411+00:00"
+created_at: "2026-10-01T17:26:41.973221+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -65899,7 +65899,7 @@ title: "Data governance policies endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/api/policies"
 category: "reference"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-10-01T13:48:17.993475+00:00"
+created_at: "2026-10-01T17:46:03.251423+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -66734,7 +66734,7 @@ title: "Data Hygiene API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-lifecycle/api/overview"
 category: "reference"
 topic: "experience-platform/advanced-data-lifecycle-management-guide"
-created_at: "2026-10-01T13:38:02.167131+00:00"
+created_at: "2026-10-01T17:34:45.269451+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Advanced Data Lifecycle Management Guide
 
@@ -66806,7 +66806,7 @@ title: "Data Ingestion overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/home"
 category: "overview"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-10-01T13:31:24.832087+00:00"
+created_at: "2026-10-01T17:27:24.703459+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -66965,7 +66965,7 @@ title: "Data lifecycle UI guide lifecycle-ui-guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-lifecycle/ui/overview"
 category: "overview"
 topic: "experience-platform/advanced-data-lifecycle-management-guide"
-created_at: "2026-10-01T13:39:51.923737+00:00"
+created_at: "2026-10-01T17:36:50.129611+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Advanced Data Lifecycle Management Guide
 
@@ -67005,7 +67005,7 @@ title: "Data Management Platform (DMP) destinations overview dmp-destinations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/data-management/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:35:31.448278+00:00"
+created_at: "2026-10-01T17:31:58.468831+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -67038,7 +67038,7 @@ title: "Data Mirror overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/data-mirror/overview"
 category: "overview"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:37:26.694251+00:00"
+created_at: "2026-10-01T17:34:07.764162+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -67206,7 +67206,7 @@ title: "Data Prep overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-prep/home"
 category: "overview"
 topic: "experience-platform/data-prep-guide"
-created_at: "2026-10-01T13:31:25.552049+00:00"
+created_at: "2026-10-01T17:27:25.551635+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Prep Guide
 
@@ -67303,7 +67303,7 @@ title: "Data quality in Adobe Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/quality/overview"
 category: "overview"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-10-01T13:35:05.620882+00:00"
+created_at: "2026-10-01T17:31:31.372914+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -67416,7 +67416,7 @@ title: "Data Science Workspace overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/home"
 category: "overview"
 topic: "experience-platform/data-science-workspace-guide"
-created_at: "2026-10-01T13:31:30.592575+00:00"
+created_at: "2026-10-01T17:27:30.944515+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Science Workspace Guide
 
@@ -67620,7 +67620,7 @@ title: "Data Science Workspace troubleshooting guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/troubleshooting-guide"
 category: "guides"
 topic: "experience-platform/data-science-workspace-guide"
-created_at: "2026-10-01T13:37:11.608762+00:00"
+created_at: "2026-10-01T17:33:51.391731+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Science Workspace Guide
 
@@ -67768,7 +67768,7 @@ title: "Data types endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/data-types"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:40:44.853487+00:00"
+created_at: "2026-10-01T17:37:47.840430+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -68483,7 +68483,7 @@ title: "Data usage labels glossary data-usage-labels-glossary"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/reference"
 category: "reference"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-10-01T13:32:34.588551+00:00"
+created_at: "2026-10-01T17:28:47.567675+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -68677,7 +68677,7 @@ title: "Data usage labels overview overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/overview"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-10-01T13:30:48.392940+00:00"
+created_at: "2026-10-01T17:26:42.687421+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -68764,7 +68764,7 @@ title: "Data usage policies overview policies-overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/overview"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-10-01T13:30:49.189648+00:00"
+created_at: "2026-10-01T17:26:43.604759+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -68875,7 +68875,7 @@ title: "Dataflows overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dataflows/home"
 category: "overview"
 topic: "experience-platform/dataflows-guide"
-created_at: "2026-10-01T13:31:26.381111+00:00"
+created_at: "2026-10-01T17:27:26.387194+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dataflows Guide
 
@@ -68919,7 +68919,7 @@ title: "Dataset expiration endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-lifecycle/api/dataset-expiration"
 category: "reference"
 topic: "experience-platform/advanced-data-lifecycle-management-guide"
-created_at: "2026-10-01T13:37:58.663793+00:00"
+created_at: "2026-10-01T17:34:41.767810+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Advanced Data Lifecycle Management Guide
 
@@ -69685,7 +69685,7 @@ title: "Datasets overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/overview"
 category: "overview"
 topic: "experience-platform/catalog-and-datasets-guide"
-created_at: "2026-10-01T13:30:40.946091+00:00"
+created_at: "2026-10-01T17:26:35.112270+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Catalog and Datasets Guide
 
@@ -69768,7 +69768,7 @@ title: "Datasets UI guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/user-guide"
 category: "guides"
 topic: "experience-platform/catalog-and-datasets-guide"
-created_at: "2026-10-01T13:32:46.238098+00:00"
+created_at: "2026-10-01T17:28:59.862518+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Catalog and Datasets Guide
 
@@ -70108,7 +70108,7 @@ title: "Datastreams overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/datastreams/overview"
 category: "overview"
 topic: "experience-platform/datastreams-guide"
-created_at: "2026-10-01T13:31:17.767028+00:00"
+created_at: "2026-10-01T17:27:17.992960+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Datastreams Guide
 
@@ -70188,7 +70188,7 @@ title: "defaultConsent"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/collection/js/commands/configure/defaultconsent"
 category: "guides"
 topic: "experience-platform/data-collection"
-created_at: "2026-10-01T13:50:44.370300+00:00"
+created_at: "2026-10-01T17:48:46.569902+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Collection
 
@@ -70266,7 +70266,7 @@ title: "Define a many-to-one relationship between two schemas in Real-Time Custo
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/relationship-b2b"
 category: "tutorials"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:35:00.762417+00:00"
+created_at: "2026-10-01T17:31:26.866260+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -70394,7 +70394,7 @@ title: "Define a one-to-one relationship between two schemas using the Schema Ed
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/relationship-ui"
 category: "tutorials"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:34:30.240109+00:00"
+created_at: "2026-10-01T17:30:52.654729+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -70520,7 +70520,7 @@ title: "Define a relationship between two schemas using the Schema Registry API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/relationship-api"
 category: "tutorials"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:43:13.305167+00:00"
+created_at: "2026-10-01T17:40:27.534502+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -71027,7 +71027,7 @@ title: "Define XDM fields in the Schema Registry API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/custom-fields-api"
 category: "tutorials"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:34:36.211842+00:00"
+created_at: "2026-10-01T17:30:59.554927+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -71446,7 +71446,7 @@ title: "Define XDM fields in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/ui/fields/overview"
 category: "overview"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:36:16.265063+00:00"
+created_at: "2026-10-01T17:32:47.844587+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -71632,7 +71632,7 @@ title: "Delegate descriptor IDs"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/guides/delegate-descriptor-ids"
 category: "guides"
 topic: "tags/api/guides"
-created_at: "2026-10-01T13:52:55.863047+00:00"
+created_at: "2026-10-01T17:51:13.913861+00:00"
 ---
 Breadcrumbs: Documentation > Tags
 
@@ -71698,7 +71698,7 @@ title: "Delete a dataflow using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/delete-dataflows"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:46:53.520934+00:00"
+created_at: "2026-10-01T17:44:29.320771+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -71778,7 +71778,7 @@ title: "Delete a destination account using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/delete-destination-account"
 category: "reference"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:50:42.997680+00:00"
+created_at: "2026-10-01T17:48:45.772602+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -71907,7 +71907,7 @@ title: "Delete a destination dataflow using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/delete-destination-dataflow"
 category: "reference"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:52:33.159934+00:00"
+created_at: "2026-10-01T17:50:48.045386+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -72018,7 +72018,7 @@ title: "Delete an account using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/delete"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:46:54.351913+00:00"
+created_at: "2026-10-01T17:44:30.327372+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -72102,7 +72102,7 @@ title: "Delete dataflows in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/delete"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:00.166946+00:00"
+created_at: "2026-10-01T17:38:03.402344+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -72165,7 +72165,7 @@ title: "Delete source connection accounts"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/delete-accounts"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:50:10.535388+00:00"
+created_at: "2026-10-01T17:48:09.186885+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -72230,7 +72230,7 @@ title: "Deploy JavaScript tags to manage customer consent"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/client-side/consent"
 category: "guides"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:44:32.596684+00:00"
+created_at: "2026-10-01T17:41:56.063620+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -72303,7 +72303,7 @@ title: "Deprecate an XDM field in the API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/field-deprecation-api"
 category: "tutorials"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:43:14.172402+00:00"
+created_at: "2026-10-01T17:40:28.384075+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -72592,7 +72592,7 @@ title: "Deprecate an XDM field in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/field-deprecation-ui"
 category: "tutorials"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:49:23.529709+00:00"
+created_at: "2026-10-01T17:47:16.380553+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -72658,7 +72658,7 @@ title: "Derived datasets"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/data-distiller/derived-datasets/overview"
 category: "overview"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-10-01T13:40:11.502090+00:00"
+created_at: "2026-10-01T17:37:10.086878+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -72726,7 +72726,7 @@ title: "Descriptors endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/descriptors"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:34:29.474720+00:00"
+created_at: "2026-10-01T17:30:51.818135+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -73549,7 +73549,7 @@ title: "Destinations catalog overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:30:50.028342+00:00"
+created_at: "2026-10-01T17:26:44.389381+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -73603,7 +73603,7 @@ title: "Destinations dashboard"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/destinations"
 category: "guides"
 topic: "experience-platform/dashboards-guide"
-created_at: "2026-10-01T13:44:09.309224+00:00"
+created_at: "2026-10-01T17:41:31.263745+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dashboards Guide
 
@@ -73845,7 +73845,7 @@ title: "Destinations in Real-Time Customer Data Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/destinations/overview"
 category: "overview"
 topic: "experience-platform/real-time-customer-data-platform-guide"
-created_at: "2026-10-01T13:31:40.301109+00:00"
+created_at: "2026-10-01T17:27:42.073785+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Data Platform Guide
 
@@ -73876,7 +73876,7 @@ title: "Destinations overview overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/home"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:31:32.345146+00:00"
+created_at: "2026-10-01T17:27:32.995248+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -74087,7 +74087,7 @@ title: "Developing ETL Integrations for Adobe Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/etl/home"
 category: "overview"
 topic: "experience-platform/etl-guide"
-created_at: "2026-10-01T13:43:21.839926+00:00"
+created_at: "2026-10-01T17:40:36.249169+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > ETL Guide
 
@@ -74912,7 +74912,7 @@ title: "Didomi"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/connectors/consent/didomi"
 category: "guides"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:33:45.199372+00:00"
+created_at: "2026-10-01T17:30:05.600149+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -75070,7 +75070,7 @@ title: "Discover insights with Customer AI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/intelligent-services/customer-ai/user-guide/discover-insights"
 category: "guides"
 topic: "experience-platform/intelligent-services-guide"
-created_at: "2026-10-01T13:35:59.080086+00:00"
+created_at: "2026-10-01T17:32:29.179305+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Intelligent Services Guide
 
@@ -75256,7 +75256,7 @@ title: "Download scores in Customer AI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/intelligent-services/customer-ai/user-guide/download-scores"
 category: "guides"
 topic: "experience-platform/intelligent-services-guide"
-created_at: "2026-10-01T13:46:12.944964+00:00"
+created_at: "2026-10-01T17:43:44.403591+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Intelligent Services Guide
 
@@ -75571,7 +75571,7 @@ title: "Draft dataflows in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/draft"
 category: "tutorials"
 topic: "sources/ui-tutorials/draft"
-created_at: "2026-10-01T13:46:20.530612+00:00"
+created_at: "2026-10-01T17:43:53.180830+00:00"
 ---
 Breadcrumbs: Documentation > Source Connectors Guide
 
@@ -75653,7 +75653,7 @@ title: "Dynamic datastream configuration overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/datastreams/dynamic-datastream/overview"
 category: "overview"
 topic: "experience-platform/datastreams-guide"
-created_at: "2026-10-01T13:48:05.942123+00:00"
+created_at: "2026-10-01T17:45:50.326052+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Datastreams Guide
 
@@ -75757,7 +75757,7 @@ title: "Edit destination connections using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/edit-destination"
 category: "reference"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:49:56.828965+00:00"
+created_at: "2026-10-01T17:47:52.974352+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -76147,7 +76147,7 @@ title: "Effective policies endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/api/effective-policies"
 category: "reference"
 topic: "experience-platform/access-control-guide"
-created_at: "2026-10-01T13:47:00.153794+00:00"
+created_at: "2026-10-01T17:44:36.472390+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Access Control Guide
 
@@ -76314,7 +76314,7 @@ title: "Email marketing destinations overview email-marketing-destinations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/email-marketing/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:35:32.381870+00:00"
+created_at: "2026-10-01T17:31:59.544860+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -76414,7 +76414,7 @@ title: "Enable change data capture for source connections in the API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/change-data-capture"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:37:28.507776+00:00"
+created_at: "2026-10-01T17:34:09.870541+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -76748,7 +76748,7 @@ title: "Encrypted data ingestion"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/encrypt-data"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:31:58.603321+00:00"
+created_at: "2026-10-01T17:28:04.328608+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -77201,7 +77201,7 @@ title: "Encrypting values"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/guides/encrypting-values"
 category: "guides"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:55.120977+00:00"
+created_at: "2026-10-01T17:51:13.039711+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -77303,7 +77303,7 @@ title: "Enforce data usage compliance for a segment definition using APIs"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/tutorials/governance"
 category: "tutorials"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-10-01T13:44:37.892042+00:00"
+created_at: "2026-10-01T17:42:01.513472+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -77723,7 +77723,7 @@ title: "Enforce data usage policies using the Policy Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/enforcement/api-enforcement"
 category: "reference"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-10-01T13:44:36.109939+00:00"
+created_at: "2026-10-01T17:41:59.405468+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -78143,7 +78143,7 @@ title: "Engines endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/engines"
 category: "reference"
 topic: "experience-platform/data-science-workspace-guide"
-created_at: "2026-10-01T13:49:05.448199+00:00"
+created_at: "2026-10-01T17:46:55.358208+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Science Workspace Guide
 
@@ -78693,7 +78693,7 @@ title: "Entities endpoint (Profile access)"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/api/entities"
 category: "reference"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-10-01T13:32:52.822371+00:00"
+created_at: "2026-10-01T17:29:07.272183+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -79184,7 +79184,7 @@ title: "Environments endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/environments"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:50:35.055663+00:00"
+created_at: "2026-10-01T17:48:36.815792+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -80231,7 +80231,7 @@ title: "Evaluate and access segment definition results"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/tutorials/evaluate-a-segment"
 category: "tutorials"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-10-01T13:32:58.873985+00:00"
+created_at: "2026-10-01T17:29:13.371084+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -80483,7 +80483,7 @@ title: "Event forwarding extensions reference"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:50:24.774231+00:00"
+created_at: "2026-10-01T17:48:25.187490+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -80542,7 +80542,7 @@ title: "Event Forwarding guided setup overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/event-forwarding/guided-setup"
 category: "guides"
 topic: "tags/event-forwarding/guided-setup"
-created_at: "2026-10-01T13:53:00.431993+00:00"
+created_at: "2026-10-01T17:51:18.776407+00:00"
 ---
 Breadcrumbs: Documentation > Tags
 
@@ -80651,7 +80651,7 @@ title: "Event forwarding overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/event-forwarding/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:31:20.730495+00:00"
+created_at: "2026-10-01T17:27:21.133824+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -80768,7 +80768,7 @@ title: "Examples"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/use-cases/overview"
 category: "overview"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-10-01T13:48:31.316171+00:00"
+created_at: "2026-10-01T17:46:18.587656+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -80805,7 +80805,7 @@ title: "Experience Platform API fundamentals"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/platform-apis/api-fundamentals"
 category: "reference"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-10-01T13:31:09.700674+00:00"
+created_at: "2026-10-01T17:27:05.718583+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -80954,7 +80954,7 @@ title: "Experience Platform documentation overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/documentation/overview"
 category: "overview"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-10-01T13:31:07.667302+00:00"
+created_at: "2026-10-01T17:27:03.906253+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -80995,7 +80995,7 @@ title: "Experiments endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/experiments"
 category: "reference"
 topic: "experience-platform/data-science-workspace-guide"
-created_at: "2026-10-01T13:49:06.321973+00:00"
+created_at: "2026-10-01T17:46:56.461369+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Science Workspace Guide
 
@@ -81458,7 +81458,7 @@ title: "Explore a payment system using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/explore/payments"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:49:22.735574+00:00"
+created_at: "2026-10-01T17:47:15.562826+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -81657,7 +81657,7 @@ title: "Explore data tables using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/explore/tabular"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:39:01.944185+00:00"
+created_at: "2026-10-01T17:35:54.250455+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -81878,7 +81878,7 @@ title: "Explore your cloud storage folders using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/explore/cloud-storage"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:39:53.755729+00:00"
+created_at: "2026-10-01T17:36:52.162254+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -82099,7 +82099,7 @@ title: "Export a list of audit events"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/audit-logs/audit-api/export"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-10-01T13:50:39.786437+00:00"
+created_at: "2026-10-01T17:48:41.564030+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -82203,7 +82203,7 @@ title: "Export datasets by using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/export-datasets"
 category: "reference"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:32:11.674631+00:00"
+created_at: "2026-10-01T17:28:20.092146+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -83193,7 +83193,7 @@ title: "Export endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/export"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:47:17.287770+00:00"
+created_at: "2026-10-01T17:44:55.244224+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -83409,7 +83409,7 @@ title: "Extension packages endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/extension-packages"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:51:59.820990+00:00"
+created_at: "2026-10-01T17:50:11.961250+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -84774,7 +84774,7 @@ title: "Extension submission process overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extension-dev/submit/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:53:11.694044+00:00"
+created_at: "2026-10-01T17:51:32.224229+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -84818,7 +84818,7 @@ title: "Extensions endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/extensions"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:00.863869+00:00"
+created_at: "2026-10-01T17:50:13.096444+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -86275,7 +86275,7 @@ title: "Extensions"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/extensions/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:37:37.485718+00:00"
+created_at: "2026-10-01T17:34:19.785359+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -86355,7 +86355,7 @@ title: "External audiences endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/external-audiences"
 category: "reference"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-10-01T13:46:32.696737+00:00"
+created_at: "2026-10-01T17:44:08.027901+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -86936,7 +86936,7 @@ title: "Filter Catalog data using query parameters"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/api/filter-data"
 category: "reference"
 topic: "experience-platform/catalog-and-datasets-guide"
-created_at: "2026-10-01T13:37:06.360789+00:00"
+created_at: "2026-10-01T17:33:45.710508+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Catalog and Datasets Guide
 
@@ -87751,7 +87751,7 @@ title: "Filter row-level data for a source using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/filter"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:36:12.733444+00:00"
+created_at: "2026-10-01T17:32:44.292321+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -88336,7 +88336,7 @@ title: "Filter sources objects in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/filter"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:49:17.660854+00:00"
+created_at: "2026-10-01T17:47:09.760796+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -88539,7 +88539,7 @@ title: "Filtering responses in the Reactor API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/guides/filtering"
 category: "guides"
 topic: "tags/api/guides"
-created_at: "2026-10-01T13:52:30.374618+00:00"
+created_at: "2026-10-01T17:50:44.843169+00:00"
 ---
 Breadcrumbs: Documentation > Tags
 
@@ -88662,7 +88662,7 @@ title: "Functions endpoints"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-prep/api/functions"
 category: "reference"
 topic: "experience-platform/data-prep-guide"
-created_at: "2026-10-01T13:47:38.530833+00:00"
+created_at: "2026-10-01T17:45:19.969505+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Prep Guide
 
@@ -88855,7 +88855,7 @@ title: "Generate the dataset overlap report"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/tutorials/dataset-overlap-report"
 category: "tutorials"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-10-01T13:36:09.036807+00:00"
+created_at: "2026-10-01T17:32:39.374956+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -88994,7 +88994,7 @@ title: "Generic Consent Field data type"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/data-types/consent-field"
 category: "guides"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:51:19.713433+00:00"
+created_at: "2026-10-01T17:49:26.349707+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -89090,7 +89090,7 @@ title: "Get the cluster history of an identity"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/api/list-cluster-history"
 category: "reference"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-10-01T13:49:24.454886+00:00"
+created_at: "2026-10-01T17:47:17.184498+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -89318,7 +89318,7 @@ title: "Get the native ID for an identity"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/api/list-native-id"
 category: "reference"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-10-01T13:46:17.100084+00:00"
+created_at: "2026-10-01T17:43:48.955733+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -89375,7 +89375,7 @@ title: "Getting started with Adobe Experience Platform APIs"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/platform-apis/api-guide"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-10-01T13:33:05.885386+00:00"
+created_at: "2026-10-01T17:29:21.397966+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -89562,7 +89562,7 @@ title: "Getting started with Real-Time Customer Data Platform B2B Edition"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/intro/rtcdpb2b-intro/b2b-tutorial"
 category: "tutorials"
 topic: "experience-platform/real-time-customer-data-platform-guide"
-created_at: "2026-10-01T13:37:04.911205+00:00"
+created_at: "2026-10-01T17:33:43.601745+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Data Platform Guide
 
@@ -89679,7 +89679,7 @@ title: "Getting started with the Audit Query API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/audit-logs/audit-api/getting-started"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-10-01T13:47:39.974999+00:00"
+created_at: "2026-10-01T17:45:21.863487+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -89738,7 +89738,7 @@ title: "Getting started with the Data Prep API getting-started"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-prep/api/getting-started"
 category: "reference"
 topic: "experience-platform/data-prep-guide"
-created_at: "2026-10-01T13:47:37.752718+00:00"
+created_at: "2026-10-01T17:45:18.733089+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Prep Guide
 
@@ -89778,7 +89778,7 @@ title: "Getting started with the MTLS Service API getting-started"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/mtls-api/getting-started"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-10-01T13:46:59.376688+00:00"
+created_at: "2026-10-01T17:44:35.675620+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -89824,7 +89824,7 @@ title: "Getting started with the Observability Insights API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/observability/api/getting-started"
 category: "reference"
 topic: "experience-platform/observability-insights-guide"
-created_at: "2026-10-01T13:44:24.839073+00:00"
+created_at: "2026-10-01T17:41:48.308582+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Observability Insights Guide
 
@@ -89872,7 +89872,7 @@ title: "Getting started with the Policy Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/api/getting-started"
 category: "reference"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-10-01T13:35:26.522778+00:00"
+created_at: "2026-10-01T17:31:53.107274+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -89943,7 +89943,7 @@ title: "Getting started with the Real-Time Customer Profile API getting-started"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/api/getting-started"
 category: "reference"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-10-01T13:39:22.249887+00:00"
+created_at: "2026-10-01T17:36:16.987101+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -90006,7 +90006,7 @@ title: "Getting started with the Sandbox API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/api/getting-started"
 category: "reference"
 topic: "experience-platform/sandboxes-guide"
-created_at: "2026-10-01T13:32:07.350014+00:00"
+created_at: "2026-10-01T17:28:15.104279+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Sandboxes Guide
 
@@ -90064,7 +90064,7 @@ title: "Getting started with the Schema Registry API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/getting-started"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:33:09.373770+00:00"
+created_at: "2026-10-01T17:29:25.450959+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -90376,7 +90376,7 @@ title: "Getting started with the Segmentation Service API getting-started"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/getting-started"
 category: "reference"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-10-01T13:40:31.354004+00:00"
+created_at: "2026-10-01T17:37:33.258048+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -90438,7 +90438,7 @@ title: "Google Cloud Platform event forwarding extension"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/google-cloud-platform/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:18.975410+00:00"
+created_at: "2026-10-01T17:50:32.184126+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -90518,7 +90518,7 @@ title: "Google Data Layer extension"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/google-data-layer/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:50:32.088601+00:00"
+created_at: "2026-10-01T17:48:33.562666+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -90695,7 +90695,7 @@ title: "Governance, privacy, and security in Adobe Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/overview"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-10-01T13:47:24.430409+00:00"
+created_at: "2026-10-01T17:45:04.143744+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -90799,7 +90799,7 @@ title: "Health Checks"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/run-and-operate/health-checks/overview"
 category: "overview"
 topic: "experience-platform/run-and-operate-guide"
-created_at: "2026-10-01T13:31:54.528577+00:00"
+created_at: "2026-10-01T17:27:59.658058+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Run and Operate Guide
 
@@ -90927,7 +90927,7 @@ title: "Honoring consent in segment definitions"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/tutorials/consents"
 category: "tutorials"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-10-01T13:35:10.275382+00:00"
+created_at: "2026-10-01T17:31:36.075232+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -91015,7 +91015,7 @@ title: "Hosts endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/hosts"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:04.164881+00:00"
+created_at: "2026-10-01T17:50:16.245476+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -91591,7 +91591,7 @@ title: "IAB TCF 2.0 support in Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/consent/iab/overview"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-10-01T13:44:25.972711+00:00"
+created_at: "2026-10-01T17:41:49.514576+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -91903,7 +91903,7 @@ title: "Identity data for privacy requests"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/identity-data"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-10-01T13:35:17.693376+00:00"
+created_at: "2026-10-01T17:31:43.246607+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -91962,7 +91962,7 @@ title: "Identity Graph Linking Rules overview identity-graph-linking-rules-overv
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/features/identity-graph-linking-rules/overview"
 category: "overview"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-10-01T13:38:54.078789+00:00"
+created_at: "2026-10-01T17:35:45.712814+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -92142,7 +92142,7 @@ title: "Identity in Data Collection"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/collection/identity/overview"
 category: "overview"
 topic: "experience-platform/data-collection"
-created_at: "2026-10-01T13:46:16.348315+00:00"
+created_at: "2026-10-01T17:43:48.066214+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Collection
 
@@ -92198,7 +92198,7 @@ title: "Identity Service API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/api/getting-started"
 category: "reference"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-10-01T13:40:42.404166+00:00"
+created_at: "2026-10-01T17:37:45.072712+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -92301,7 +92301,7 @@ title: "Identity Service troubleshooting guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/troubleshooting-guide"
 category: "guides"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-10-01T13:34:31.132547+00:00"
+created_at: "2026-10-01T17:30:53.553226+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -92652,7 +92652,7 @@ title: "Implementation guide for Identity Graph Linking Rules"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/features/identity-graph-linking-rules/implementation-guide"
 category: "guides"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-10-01T13:47:49.783961+00:00"
+created_at: "2026-10-01T17:45:33.009111+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -92871,7 +92871,7 @@ title: "Implementing the Adobe Experience Platform Assurance extension"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/assurance/tutorials/implement-assurance"
 category: "tutorials"
 topic: "experience-platform/assurance-guide"
-created_at: "2026-10-01T13:47:26.738338+00:00"
+created_at: "2026-10-01T17:45:06.535561+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Assurance Guide
 
@@ -92932,7 +92932,7 @@ title: "Import endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/import"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:47:18.335105+00:00"
+created_at: "2026-10-01T17:44:56.088903+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -93304,7 +93304,7 @@ title: "Industry data models overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/schema/industries/overview"
 category: "overview"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:39:49.342890+00:00"
+created_at: "2026-10-01T17:36:47.435344+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -93365,7 +93365,7 @@ title: "Ingest Algolia User Profiles data into Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/data-partner/algolia-user-profiles"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:25.570896+00:00"
+created_at: "2026-10-01T17:39:33.117961+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -93536,7 +93536,7 @@ title: "Ingest batch data from Talon.One into Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/loyalty/talon-one-batch"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:42.674083+00:00"
+created_at: "2026-10-01T17:39:53.822481+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -93709,7 +93709,7 @@ title: "Ingest data into Adobe Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/ingest-batch-data"
 category: "tutorials"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-10-01T13:32:20.924507+00:00"
+created_at: "2026-10-01T17:28:29.026773+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -93841,7 +93841,7 @@ title: "Ingest Meta Ads data to Experience Platform in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/advertising/meta-ads"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:24.776600+00:00"
+created_at: "2026-10-01T17:38:30.093772+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -93929,7 +93929,7 @@ title: "Ingest payments data from your Stripe account to Experience Platform usi
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/payments/stripe"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:43:05.378790+00:00"
+created_at: "2026-10-01T17:40:18.426541+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -94437,7 +94437,7 @@ title: "Ingest payments data from your Stripe account to Experience Platform usi
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/payments/stripe"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:43:06.252700+00:00"
+created_at: "2026-10-01T17:40:19.795322+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -94630,7 +94630,7 @@ title: "Insights endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/insights"
 category: "reference"
 topic: "experience-platform/data-science-workspace-guide"
-created_at: "2026-10-01T13:49:06.908683+00:00"
+created_at: "2026-10-01T17:46:57.765108+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Science Workspace Guide
 
@@ -94964,7 +94964,7 @@ title: "Integrate the Experience Platform Web SDK to process customer consent da
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/consent/sdk"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-10-01T13:48:51.845441+00:00"
+created_at: "2026-10-01T17:46:40.666293+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -95198,7 +95198,7 @@ title: "Intelligent Services overview intelligent-services-overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/intelligent-services/home"
 category: "overview"
 topic: "experience-platform/intelligent-services-guide"
-created_at: "2026-10-01T13:31:31.507581+00:00"
+created_at: "2026-10-01T17:27:31.900385+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Intelligent Services Guide
 
@@ -95265,7 +95265,7 @@ title: "JupyterLab UI overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/jupyterlab/overview"
 category: "overview"
 topic: "experience-platform/data-science-workspace-guide"
-created_at: "2026-10-01T13:32:43.398019+00:00"
+created_at: "2026-10-01T17:28:56.909347+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Science Workspace Guide
 
@@ -95543,7 +95543,7 @@ title: "Labels endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/api/labels"
 category: "reference"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-10-01T13:35:24.803646+00:00"
+created_at: "2026-10-01T17:31:50.893180+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -95802,7 +95802,7 @@ title: "Libraries endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/libraries"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:01.935592+00:00"
+created_at: "2026-10-01T17:50:14.091831+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -97493,7 +97493,7 @@ title: "License usage dashboard license-usage-dashboard"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/license-usage"
 category: "guides"
 topic: "experience-platform/dashboards-guide"
-created_at: "2026-10-01T13:30:45.712600+00:00"
+created_at: "2026-10-01T17:26:40.156355+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dashboards Guide
 
@@ -97752,7 +97752,7 @@ title: "LinkedIn conversions API extension"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/linkedin/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:19.730227+00:00"
+created_at: "2026-10-01T17:50:33.024181+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -97876,7 +97876,7 @@ title: "List all identities in a cluster"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/api/list-cluster-identites"
 category: "reference"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-10-01T13:43:15.245942+00:00"
+created_at: "2026-10-01T17:40:29.285104+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -98128,7 +98128,7 @@ title: "List available identity namespaces"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/api/list-namespaces"
 category: "reference"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-10-01T13:43:15.977034+00:00"
+created_at: "2026-10-01T17:40:30.103782+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -98219,7 +98219,7 @@ title: "List Catalog objects"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/api/list-objects"
 category: "reference"
 topic: "experience-platform/catalog-and-datasets-guide"
-created_at: "2026-10-01T13:43:39.383073+00:00"
+created_at: "2026-10-01T17:40:57.073311+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Catalog and Datasets Guide
 
@@ -98321,7 +98321,7 @@ title: "List identity mappings"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/api/list-identity-mappings"
 category: "reference"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-10-01T13:51:29.229188+00:00"
+created_at: "2026-10-01T17:49:37.924057+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -98521,7 +98521,7 @@ title: "Look up a Catalog object"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/api/look-up-object"
 category: "reference"
 topic: "experience-platform/catalog-and-datasets-guide"
-created_at: "2026-10-01T13:49:39.395076+00:00"
+created_at: "2026-10-01T17:47:34.010039+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Catalog and Datasets Guide
 
@@ -98609,7 +98609,7 @@ title: "Mailchimp event forwarding extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/mailchimp/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:20.527868+00:00"
+created_at: "2026-10-01T17:50:34.056402+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -98802,7 +98802,7 @@ title: "Manage data usage labels for a schema"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/labels"
 category: "tutorials"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:35:23.570004+00:00"
+created_at: "2026-10-01T17:31:50.088391+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -98879,7 +98879,7 @@ title: "Manage data usage labels for datasets using APIs"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/dataset-api"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-10-01T13:34:43.676657+00:00"
+created_at: "2026-10-01T17:31:07.961308+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -99222,7 +99222,7 @@ title: "Manage data usage labels in the UI user-guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/user-guide"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-10-01T13:34:42.904103+00:00"
+created_at: "2026-10-01T17:31:07.117250+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -99328,7 +99328,7 @@ title: "Manage data usage policies in the UI user-guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/user-guide"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-10-01T13:32:41.493749+00:00"
+created_at: "2026-10-01T17:28:55.086542+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -99556,7 +99556,7 @@ title: "Manage Experience Event Dataset Retention in the data lake using TTL"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide"
 category: "guides"
 topic: "experience-platform/catalog-and-datasets-guide"
-created_at: "2026-10-01T13:36:13.690795+00:00"
+created_at: "2026-10-01T17:32:45.166750+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Catalog and Datasets Guide
 
@@ -99950,7 +99950,7 @@ title: "Manage permissions for Privacy Service"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/permissions"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-10-01T13:36:18.330187+00:00"
+created_at: "2026-10-01T17:32:49.774401+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -100086,7 +100086,7 @@ title: "Manage privacy jobs in the Privacy Service UI user-guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/ui/user-guide"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-10-01T13:32:42.475001+00:00"
+created_at: "2026-10-01T17:28:56.006370+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -100331,7 +100331,7 @@ title: "Manage resources"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:47:34.180936+00:00"
+created_at: "2026-10-01T17:45:14.873741+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -100365,7 +100365,7 @@ title: "Manage suggested values in the API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/suggested-values"
 category: "tutorials"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:43:19.843406+00:00"
+created_at: "2026-10-01T17:40:34.362772+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -100586,7 +100586,7 @@ title: "Map a CSV file to an existing XDM schema"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/map-csv/existing-schema"
 category: "tutorials"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-10-01T13:48:45.901891+00:00"
+created_at: "2026-10-01T17:46:34.002945+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -100702,7 +100702,7 @@ title: "Map a CSV file to an XDM schema using AI-generated recommendations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/map-csv/recommendations"
 category: "tutorials"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-10-01T13:39:50.209287+00:00"
+created_at: "2026-10-01T17:36:48.315298+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -100807,7 +100807,7 @@ title: "Map a CSV file to an XDM schema"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/map-csv/overview"
 category: "tutorials"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-10-01T13:39:55.551267+00:00"
+created_at: "2026-10-01T17:36:53.980217+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -100844,7 +100844,7 @@ title: "Mapping Service API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-prep/api/overview"
 category: "reference"
 topic: "experience-platform/data-prep-guide"
-created_at: "2026-10-01T13:37:53.380280+00:00"
+created_at: "2026-10-01T17:34:36.739732+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Prep Guide
 
@@ -100890,7 +100890,7 @@ title: "Mapping sets endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-prep/api/mapping-set"
 category: "reference"
 topic: "experience-platform/data-prep-guide"
-created_at: "2026-10-01T13:37:50.924585+00:00"
+created_at: "2026-10-01T17:34:33.917730+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Prep Guide
 
@@ -101896,7 +101896,7 @@ title: "Marketing actions endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/api/marketing-actions"
 category: "reference"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-10-01T13:38:46.175436+00:00"
+created_at: "2026-10-01T17:35:36.705575+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -102175,7 +102175,7 @@ title: "Marketo Munchkin extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/marketo/overview"
 category: "overview"
 topic: "tags/extensions/client"
-created_at: "2026-10-01T13:50:33.159948+00:00"
+created_at: "2026-10-01T17:48:34.334346+00:00"
 ---
 Breadcrumbs: Documentation > Tags
 
@@ -102231,7 +102231,7 @@ title: "Merge policies overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/merge-policies/overview"
 category: "overview"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-10-01T13:35:03.923679+00:00"
+created_at: "2026-10-01T17:31:29.547566+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -102325,7 +102325,7 @@ title: "Merge policies UI guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/merge-policies/ui-guide"
 category: "guides"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-10-01T13:32:55.611145+00:00"
+created_at: "2026-10-01T17:29:10.066652+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -102504,7 +102504,7 @@ title: "Meta Conversions API extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/meta/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:21.293778+00:00"
+created_at: "2026-10-01T17:50:35.220934+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -102731,7 +102731,7 @@ title: "Meta Pixel extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/meta/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:59.695401+00:00"
+created_at: "2026-10-01T17:51:17.862830+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -102819,7 +102819,7 @@ title: "Metrics endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/observability/api/metrics"
 category: "reference"
 topic: "experience-platform/observability-insights-guide"
-created_at: "2026-10-01T13:35:08.563827+00:00"
+created_at: "2026-10-01T17:31:34.291378+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Observability Insights Guide
 
@@ -103203,7 +103203,7 @@ title: "Microsoft Azure extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/azure/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:21.992523+00:00"
+created_at: "2026-10-01T17:50:36.405704+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -103300,7 +103300,7 @@ title: "Mixpanel Track Events API event forwarding extension"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/mixpanel/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:24.855126+00:00"
+created_at: "2026-10-01T17:50:38.203862+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -103440,7 +103440,7 @@ title: "MLInstances endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/mlinstances"
 category: "reference"
 topic: "experience-platform/data-science-workspace-guide"
-created_at: "2026-10-01T13:49:07.791104+00:00"
+created_at: "2026-10-01T17:46:58.808090+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Science Workspace Guide
 
@@ -103934,7 +103934,7 @@ title: "MLServices endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/mlservices"
 category: "reference"
 topic: "experience-platform/data-science-workspace-guide"
-created_at: "2026-10-01T13:49:08.733554+00:00"
+created_at: "2026-10-01T17:46:59.986779+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Science Workspace Guide
 
@@ -104321,7 +104321,7 @@ title: "Mobile engagement destinations overview mobile-destinations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/mobile-engagement/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:35:33.112102+00:00"
+created_at: "2026-10-01T17:32:00.551375+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -104358,7 +104358,7 @@ title: "Models endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-science-workspace/api/models"
 category: "reference"
 topic: "experience-platform/data-science-workspace-guide"
-created_at: "2026-10-01T13:49:09.708933+00:00"
+created_at: "2026-10-01T17:47:00.941010+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Science Workspace Guide
 
@@ -104861,7 +104861,7 @@ title: "Monitor Dataflows for Streaming Sources in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/monitor-streaming"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:49:18.445727+00:00"
+created_at: "2026-10-01T17:47:10.762284+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -104979,7 +104979,7 @@ title: "Monitor dataflows in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/monitor"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:48:28.091975+00:00"
+created_at: "2026-10-01T17:46:14.885606+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -105009,7 +105009,7 @@ title: "Monitor dataflows using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dataflows/api/monitor"
 category: "reference"
 topic: "experience-platform/dataflows-guide"
-created_at: "2026-10-01T13:37:54.468341+00:00"
+created_at: "2026-10-01T17:34:37.578549+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dataflows Guide
 
@@ -105239,7 +105239,7 @@ title: "Monitor sources dataflows using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/monitor"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:39:14.493062+00:00"
+created_at: "2026-10-01T17:36:08.703632+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -105497,7 +105497,7 @@ title: "MTLS Service API overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/mtls-api/overview"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-10-01T13:37:07.178540+00:00"
+created_at: "2026-10-01T17:33:46.614792+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -105537,7 +105537,7 @@ title: "Multi-entity segmentation overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/tutorials/multi-entity-segmentation"
 category: "tutorials"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-10-01T13:34:59.068718+00:00"
+created_at: "2026-10-01T17:31:25.075687+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -105610,7 +105610,7 @@ title: "Observability Insights API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/observability/api/overview"
 category: "reference"
 topic: "experience-platform/observability-insights-guide"
-created_at: "2026-10-01T13:35:06.980901+00:00"
+created_at: "2026-10-01T17:31:32.958536+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Observability Insights Guide
 
@@ -105644,7 +105644,7 @@ title: "Observability Insights overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/observability/home"
 category: "overview"
 topic: "experience-platform/observability-insights-guide"
-created_at: "2026-10-01T13:31:26.932677+00:00"
+created_at: "2026-10-01T17:27:27.213006+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Observability Insights Guide
 
@@ -105704,7 +105704,7 @@ title: "On-demand ingestion for sources dataflows in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/on-demand-ingestion"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:51:28.399908+00:00"
+created_at: "2026-10-01T17:49:36.991312+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -105778,7 +105778,7 @@ title: "OneTrust Integration source"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/connectors/consent/onetrust"
 category: "guides"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:33:46.019580+00:00"
+created_at: "2026-10-01T17:30:06.388145+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -105823,7 +105823,7 @@ title: "Personalization destinations overview personalization-destinations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/personalization/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:35:33.905901+00:00"
+created_at: "2026-10-01T17:32:01.403097+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -105879,7 +105879,7 @@ title: "Pinterest event forwarding extension"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/pinterest/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:25.704153+00:00"
+created_at: "2026-10-01T17:50:39.097571+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -106111,7 +106111,7 @@ title: "Policy enforcement overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/enforcement/overview"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-10-01T13:40:03.445992+00:00"
+created_at: "2026-10-01T17:37:01.512807+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -106157,7 +106157,7 @@ title: "Policy evaluation endpoints"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/api/evaluation"
 category: "reference"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-10-01T13:49:04.462094+00:00"
+created_at: "2026-10-01T17:46:54.359727+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -106940,7 +106940,7 @@ title: "Policy Service API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/api/overview"
 category: "reference"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-10-01T13:40:43.118983+00:00"
+created_at: "2026-10-01T17:37:45.966947+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -107005,7 +107005,7 @@ title: "Preview sample status endpoint (Profile preview)"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/api/preview-sample-status"
 category: "reference"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-10-01T13:36:10.048910+00:00"
+created_at: "2026-10-01T17:32:40.681806+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -107275,7 +107275,7 @@ title: "Previews and estimates endpoints"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/previews-and-estimates"
 category: "reference"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-10-01T13:40:33.548028+00:00"
+created_at: "2026-10-01T17:37:35.234250+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -107457,7 +107457,7 @@ title: "Privacy jobs endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/privacy-jobs"
 category: "reference"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-10-01T13:36:19.181345+00:00"
+created_at: "2026-10-01T17:32:50.733101+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -108007,7 +108007,7 @@ title: "Privacy regulations FAQ"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/regulations/faq"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-10-01T13:44:28.025277+00:00"
+created_at: "2026-10-01T17:41:51.172962+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -108244,7 +108244,7 @@ title: "Privacy regulations overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/regulations/overview"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-10-01T13:35:15.928099+00:00"
+created_at: "2026-10-01T17:31:41.550108+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -108444,7 +108444,7 @@ title: "Privacy regulations terminology"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/regulations/terminology"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-10-01T13:44:28.837395+00:00"
+created_at: "2026-10-01T17:41:52.192894+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -108656,7 +108656,7 @@ title: "Privacy request processing in Identity Service"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/identity/privacy"
 category: "guides"
 topic: "experience-platform/experience-platform-identity-service-guide"
-created_at: "2026-10-01T13:44:30.748882+00:00"
+created_at: "2026-10-01T17:41:54.210122+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform Identity Service Guide
 
@@ -108803,7 +108803,7 @@ title: "Privacy request processing in Real-Time Customer Profile"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/privacy"
 category: "guides"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-10-01T13:44:31.568656+00:00"
+created_at: "2026-10-01T17:41:55.187432+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -109066,7 +109066,7 @@ title: "Privacy request processing in the data lake"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/privacy"
 category: "guides"
 topic: "experience-platform/catalog-and-datasets-guide"
-created_at: "2026-10-01T13:44:29.811582+00:00"
+created_at: "2026-10-01T17:41:53.195237+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Catalog and Datasets Guide
 
@@ -109327,7 +109327,7 @@ title: "Privacy, Security, and Governance in AI Assistant (Legacy)"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/privacy"
 category: "guides"
 topic: "experience-platform/ai-assistant-in-adobe-experience-platform-guide"
-created_at: "2026-10-01T13:37:18.818297+00:00"
+created_at: "2026-10-01T17:33:59.589626+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > AI Assistant in Adobe Experience Platform Guide
 
@@ -109370,7 +109370,7 @@ title: "Privacy Service and Experience Cloud applications"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/experience-cloud-apps"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-10-01T13:35:16.721622+00:00"
+created_at: "2026-10-01T17:31:42.443549+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -109525,7 +109525,7 @@ title: "Privacy Service API guide appendix"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/appendix"
 category: "reference"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-10-01T13:44:33.597715+00:00"
+created_at: "2026-10-01T17:41:56.892158+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -109674,7 +109674,7 @@ title: "Privacy Service API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/overview"
 category: "reference"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-10-01T13:35:18.370813+00:00"
+created_at: "2026-10-01T17:31:44.226094+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -109722,7 +109722,7 @@ title: "Privacy Service overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/home"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-10-01T13:30:46.817943+00:00"
+created_at: "2026-10-01T17:26:41.194916+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -109847,7 +109847,7 @@ title: "Privacy Service troubleshooting guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/troubleshooting-guide"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-10-01T13:36:19.986446+00:00"
+created_at: "2026-10-01T17:32:51.690352+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -109993,7 +109993,7 @@ title: "Privacy Service UI overview privacy-ui-guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/ui/overview"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-10-01T13:35:19.127229+00:00"
+created_at: "2026-10-01T17:31:45.018980+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -110042,7 +110042,7 @@ title: "Private Link Support for Sources in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/private-link"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:48:14.283685+00:00"
+created_at: "2026-10-01T17:45:59.833714+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -110143,7 +110143,7 @@ title: "Profile endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/profile"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:07.561097+00:00"
+created_at: "2026-10-01T17:50:20.009282+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -110261,7 +110261,7 @@ title: "Profile export jobs endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/api/export-jobs"
 category: "reference"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-10-01T13:40:35.454485+00:00"
+created_at: "2026-10-01T17:37:37.496422+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -110801,7 +110801,7 @@ title: "Profile Query Language (PQL) overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/pql/overview"
 category: "overview"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-10-01T13:34:48.752047+00:00"
+created_at: "2026-10-01T17:31:13.938115+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -110986,7 +110986,7 @@ title: "Profile system jobs endpoint (Delete requests)"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/api/profile-system-jobs"
 category: "reference"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-10-01T13:40:08.922088+00:00"
+created_at: "2026-10-01T17:37:07.435235+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -111207,7 +111207,7 @@ title: "Profiles dashboard"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/profiles"
 category: "guides"
 topic: "experience-platform/dashboards-guide"
-created_at: "2026-10-01T13:39:57.712386+00:00"
+created_at: "2026-10-01T17:36:56.064764+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dashboards Guide
 
@@ -111562,7 +111562,7 @@ title: "Properties endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/properties"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:51:56.651525+00:00"
+created_at: "2026-10-01T17:50:08.495119+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -113076,7 +113076,7 @@ title: "Public certificate endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/mtls-api/public-certificate-endpoint"
 category: "guides"
 topic: "experience-platform/data-governance-guide"
-created_at: "2026-10-01T13:45:50.986021+00:00"
+created_at: "2026-10-01T17:43:21.068688+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Governance Guide
 
@@ -113185,7 +113185,7 @@ title: "Publishing overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/publish/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:46:17.845820+00:00"
+created_at: "2026-10-01T17:43:49.824390+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -113256,7 +113256,7 @@ title: "Queries endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/queries"
 category: "reference"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-10-01T13:43:40.307359+00:00"
+created_at: "2026-10-01T17:40:58.003564+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -113701,7 +113701,7 @@ title: "Query Editor UI guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/ui/user-guide"
 category: "guides"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-10-01T13:39:24.036449+00:00"
+created_at: "2026-10-01T17:36:18.858828+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -113966,7 +113966,7 @@ title: "Query Service and Data Distiller frequently asked questions"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/troubleshooting-guide"
 category: "guides"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-10-01T13:37:12.771197+00:00"
+created_at: "2026-10-01T17:33:52.934991+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -114761,7 +114761,7 @@ title: "Query Service API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/getting-started"
 category: "reference"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-10-01T13:34:44.419241+00:00"
+created_at: "2026-10-01T17:31:08.844820+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -114835,7 +114835,7 @@ title: "Query Service audit log integration"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/data-governance/audit-log-guide"
 category: "guides"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-10-01T13:47:10.762713+00:00"
+created_at: "2026-10-01T17:44:47.736432+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -114967,7 +114967,7 @@ title: "Query Service overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/home"
 category: "overview"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-10-01T13:30:42.204836+00:00"
+created_at: "2026-10-01T17:26:36.088653+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -115048,7 +115048,7 @@ title: "Query Service SQL reference"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/sql/overview"
 category: "overview"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-10-01T13:43:44.790138+00:00"
+created_at: "2026-10-01T17:41:03.085034+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -115077,7 +115077,7 @@ title: "Query Service UI guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/ui/overview"
 category: "overview"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-10-01T13:32:47.286347+00:00"
+created_at: "2026-10-01T17:29:00.981390+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -115297,7 +115297,7 @@ title: "Query templates endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/query-templates"
 category: "reference"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-10-01T13:43:42.668980+00:00"
+created_at: "2026-10-01T17:41:00.780758+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -115728,7 +115728,7 @@ title: "Quota endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-lifecycle/api/quota"
 category: "reference"
 topic: "experience-platform/advanced-data-lifecycle-management-guide"
-created_at: "2026-10-01T13:38:01.395635+00:00"
+created_at: "2026-10-01T17:34:44.429330+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Advanced Data Lifecycle Management Guide
 
@@ -115857,7 +115857,7 @@ title: "Reactor API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/overview"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:49:59.472581+00:00"
+created_at: "2026-10-01T17:47:55.674172+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -115997,7 +115997,7 @@ title: "Real-Time CDP Guardrails"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/guardrails/overview"
 category: "overview"
 topic: "experience-platform/real-time-customer-data-platform-guide"
-created_at: "2026-10-01T13:31:00.504381+00:00"
+created_at: "2026-10-01T17:26:55.580404+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Data Platform Guide
 
@@ -116078,7 +116078,7 @@ title: "Real-Time Customer Data Platform overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/intro/rtcdp-intro/overview"
 category: "overview"
 topic: "experience-platform/real-time-customer-data-platform-guide"
-created_at: "2026-10-01T13:30:25.496953+00:00"
+created_at: "2026-10-01T17:26:17.801002+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Data Platform Guide
 
@@ -116175,7 +116175,7 @@ title: "Real-Time Customer Profile API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/api/overview"
 category: "reference"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-10-01T13:35:11.187789+00:00"
+created_at: "2026-10-01T17:31:37.041859+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -116249,7 +116249,7 @@ title: "Real-Time Customer Profile overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/home"
 category: "overview"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-10-01T13:30:43.871543+00:00"
+created_at: "2026-10-01T17:26:38.141520+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -116392,7 +116392,7 @@ title: "Real-Time Customer Profile UI guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/profile/ui/user-guide"
 category: "guides"
 topic: "experience-platform/real-time-customer-profile-guide"
-created_at: "2026-10-01T13:32:39.579770+00:00"
+created_at: "2026-10-01T17:28:53.229069+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Profile Guide
 
@@ -116581,7 +116581,7 @@ title: "Record delete work orders work-order-endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-lifecycle/api/workorder"
 category: "reference"
 topic: "experience-platform/advanced-data-lifecycle-management-guide"
-created_at: "2026-10-01T13:37:57.453841+00:00"
+created_at: "2026-10-01T17:34:40.583201+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Advanced Data Lifecycle Management Guide
 
@@ -117515,7 +117515,7 @@ title: "Reference endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/access-control/api/permissions-and-resource-types"
 category: "reference"
 topic: "experience-platform/access-control-guide"
-created_at: "2026-10-01T13:49:03.387529+00:00"
+created_at: "2026-10-01T17:46:53.264586+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Access Control Guide
 
@@ -117612,7 +117612,7 @@ title: "Relationships in the Reactor API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/guides/relationships"
 category: "guides"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:50:38.946863+00:00"
+created_at: "2026-10-01T17:48:40.549286+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -118039,7 +118039,7 @@ title: "Repair data element references repair-data-element-references"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/configure/repair-data-element-references"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:51:27.590521+00:00"
+created_at: "2026-10-01T17:49:35.834464+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -118077,7 +118077,7 @@ title: "Rule components endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/rule-components"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:31.399382+00:00"
+created_at: "2026-10-01T17:50:45.896565+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -119140,7 +119140,7 @@ title: "Rules endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/rules"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:51:58.909085+00:00"
+created_at: "2026-10-01T17:50:10.658495+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -120230,7 +120230,7 @@ title: "Run and Operate overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/run-and-operate/overview"
 category: "overview"
 topic: "experience-platform/run-and-operate-guide"
-created_at: "2026-10-01T13:31:33.924655+00:00"
+created_at: "2026-10-01T17:27:34.782769+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Run and Operate Guide
 
@@ -120339,7 +120339,7 @@ title: "Sample data endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/sample-data"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:47:19.149601+00:00"
+created_at: "2026-10-01T17:44:56.938126+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -120521,7 +120521,7 @@ title: "Sample use cases in Real-Time CDP"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/overview"
 category: "overview"
 topic: "experience-platform/real-time-customer-data-platform-guide"
-created_at: "2026-10-01T13:30:35.939730+00:00"
+created_at: "2026-10-01T17:26:29.377687+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Real-Time Customer Data Platform Guide
 
@@ -120585,7 +120585,7 @@ title: "Sandbox API guide appendix"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/api/appendix"
 category: "reference"
 topic: "experience-platform/sandboxes-guide"
-created_at: "2026-10-01T13:46:25.653735+00:00"
+created_at: "2026-10-01T17:43:59.484970+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Sandboxes Guide
 
@@ -120629,7 +120629,7 @@ title: "Sandbox API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/api/overview"
 category: "reference"
 topic: "experience-platform/sandboxes-guide"
-created_at: "2026-10-01T13:35:53.660351+00:00"
+created_at: "2026-10-01T17:32:22.930277+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Sandboxes Guide
 
@@ -120675,7 +120675,7 @@ title: "Sandbox management endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/api/sandboxes"
 category: "reference"
 topic: "experience-platform/sandboxes-guide"
-created_at: "2026-10-01T13:36:21.017102+00:00"
+created_at: "2026-10-01T17:32:52.704582+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Sandboxes Guide
 
@@ -121268,7 +121268,7 @@ title: "Sandbox Types endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/api/types"
 category: "reference"
 topic: "experience-platform/sandboxes-guide"
-created_at: "2026-10-01T13:46:08.162884+00:00"
+created_at: "2026-10-01T17:43:39.289325+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Sandboxes Guide
 
@@ -121333,7 +121333,7 @@ title: "Sandbox UI guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/ui/user-guide"
 category: "guides"
 topic: "experience-platform/sandboxes-guide"
-created_at: "2026-10-01T13:32:06.496650+00:00"
+created_at: "2026-10-01T17:28:14.312605+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Sandboxes Guide
 
@@ -121447,7 +121447,7 @@ title: "Sandbox UI overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/ui/overview"
 category: "overview"
 topic: "experience-platform/sandboxes-guide"
-created_at: "2026-10-01T13:35:52.951614+00:00"
+created_at: "2026-10-01T17:32:21.996691+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Sandboxes Guide
 
@@ -121482,7 +121482,7 @@ title: "Sandboxes overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/home"
 category: "overview"
 topic: "experience-platform/sandboxes-guide"
-created_at: "2026-10-01T13:30:55.673541+00:00"
+created_at: "2026-10-01T17:26:49.927736+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Sandboxes Guide
 
@@ -121577,7 +121577,7 @@ title: "Sandboxes troubleshooting guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/troubleshooting-guide"
 category: "guides"
 topic: "experience-platform/sandboxes-guide"
-created_at: "2026-10-01T13:37:14.468731+00:00"
+created_at: "2026-10-01T17:33:54.753609+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Sandboxes Guide
 
@@ -121657,7 +121657,7 @@ title: "Scheduled query runs endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/runs-scheduled-queries"
 category: "reference"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-10-01T13:43:41.886833+00:00"
+created_at: "2026-10-01T17:40:59.931917+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -122012,7 +122012,7 @@ title: "Schedules endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/api/scheduled-queries"
 category: "reference"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-10-01T13:40:25.691736+00:00"
+created_at: "2026-10-01T17:37:24.965275+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -122593,7 +122593,7 @@ title: "Schedules endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/schedules"
 category: "reference"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-10-01T13:32:57.904593+00:00"
+created_at: "2026-10-01T17:29:12.298909+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -123189,7 +123189,7 @@ title: "Schema field groups endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/field-groups"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:43:18.605705+00:00"
+created_at: "2026-10-01T17:40:33.399109+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -123991,7 +123991,7 @@ title: "Schema Registry API guide appendix"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/appendix"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:47:19.719784+00:00"
+created_at: "2026-10-01T17:44:58.019041+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -124200,7 +124200,7 @@ title: "Schema Registry API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/overview"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:37:24.939385+00:00"
+created_at: "2026-10-01T17:34:05.956203+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -124312,7 +124312,7 @@ title: "Schemas endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/schemas"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:37:27.709299+00:00"
+created_at: "2026-10-01T17:34:08.761728+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -125212,7 +125212,7 @@ title: "Schemas UI overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/ui/overview"
 category: "overview"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:37:24.238616+00:00"
+created_at: "2026-10-01T17:34:05.102994+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -125306,7 +125306,7 @@ title: "Search endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/search"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:08.614197+00:00"
+created_at: "2026-10-01T17:50:21.306083+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -125589,7 +125589,7 @@ title: "Searching resources in the Reactor API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/guides/search"
 category: "guides"
 topic: "tags/api/guides"
-created_at: "2026-10-01T13:52:57.434537+00:00"
+created_at: "2026-10-01T17:51:15.420409+00:00"
 ---
 Breadcrumbs: Documentation > Tags
 
@@ -125849,7 +125849,7 @@ title: "Secrets endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/endpoints/secrets"
 category: "reference"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:47:36.109727+00:00"
+created_at: "2026-10-01T17:45:16.887948+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -126999,7 +126999,7 @@ title: "Secrets in the Reactor API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/api/guides/secrets"
 category: "guides"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:47:33.508243+00:00"
+created_at: "2026-10-01T17:45:14.048794+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -127182,7 +127182,7 @@ title: "Segment definitions endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/segment-definitions"
 category: "reference"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-10-01T13:40:32.366191+00:00"
+created_at: "2026-10-01T17:37:34.303139+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -127525,7 +127525,7 @@ title: "Segment export jobs endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/export-jobs"
 category: "reference"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-10-01T13:32:59.813781+00:00"
+created_at: "2026-10-01T17:29:14.587662+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -127753,7 +127753,7 @@ title: "Segment jobs endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/segment-jobs"
 category: "reference"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-10-01T13:32:56.688430+00:00"
+created_at: "2026-10-01T17:29:11.235363+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -127999,7 +127999,7 @@ title: "Segment Match overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/ui/segment-match/overview"
 category: "overview"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-10-01T13:35:13.921611+00:00"
+created_at: "2026-10-01T17:31:39.897578+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -128203,7 +128203,7 @@ title: "Segment Search endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/segment-search"
 category: "reference"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-10-01T13:48:16.648567+00:00"
+created_at: "2026-10-01T17:46:02.247908+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -128544,7 +128544,7 @@ title: "Segmentation Service API guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/api/overview"
 category: "reference"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-10-01T13:38:45.366412+00:00"
+created_at: "2026-10-01T17:35:35.841342+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -128629,7 +128629,7 @@ title: "Segmentation Service overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/home"
 category: "overview"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-10-01T13:30:43.089962+00:00"
+created_at: "2026-10-01T17:26:36.831470+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -128800,7 +128800,7 @@ title: "Segmentation Service UI guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/ui/overview"
 category: "overview"
 topic: "experience-platform/segmentation-service-guide"
-created_at: "2026-10-01T13:32:40.489961+00:00"
+created_at: "2026-10-01T17:28:54.101944+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Segmentation Service Guide
 
@@ -129021,7 +129021,7 @@ title: "Self-Serve Sources (Batch SDK) API Guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/sdk/self-serve-api/api-overview"
 category: "reference"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:36:48.691184+00:00"
+created_at: "2026-10-01T17:33:25.345154+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -129081,7 +129081,7 @@ title: "Self-Serve Sources (Batch SDK) overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/sdk/overview"
 category: "overview"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:31:06.155832+00:00"
+created_at: "2026-10-01T17:27:01.901168+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -129141,7 +129141,7 @@ title: "Send multiple messages in a single HTTP request"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/streaming-multiple-messages"
 category: "tutorials"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-10-01T13:47:03.956358+00:00"
+created_at: "2026-10-01T17:44:40.810864+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -129741,7 +129741,7 @@ title: "sendEvent"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/collection/js/commands/sendevent/overview"
 category: "overview"
 topic: "experience-platform/data-collection"
-created_at: "2026-10-01T13:47:20.449153+00:00"
+created_at: "2026-10-01T17:44:58.889282+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Collection
 
@@ -129795,7 +129795,7 @@ title: "Set consent"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/actions/set-consent"
 category: "guides"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:47:58.613764+00:00"
+created_at: "2026-10-01T17:45:42.210803+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -129892,7 +129892,7 @@ title: "Set primary identities in an ad hoc dataset"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/data-governance/ad-hoc-schema-identities"
 category: "guides"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-10-01T13:43:54.668699+00:00"
+created_at: "2026-10-01T17:41:15.680196+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -129988,7 +129988,7 @@ title: "setConsent"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/collection/js/commands/setconsent"
 category: "guides"
 topic: "experience-platform/data-collection"
-created_at: "2026-10-01T13:47:57.848747+00:00"
+created_at: "2026-10-01T17:45:41.377535+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Collection
 
@@ -130128,7 +130128,7 @@ title: "Snowflake overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/snowflake/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:26.243396+00:00"
+created_at: "2026-10-01T17:50:39.865687+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -130182,7 +130182,7 @@ title: "Social destinations overview social-network-destinations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/social/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:35:34.695620+00:00"
+created_at: "2026-10-01T17:32:02.391633+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -130226,7 +130226,7 @@ title: "Source connectors overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/home"
 category: "overview"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:30:39.516815+00:00"
+created_at: "2026-10-01T17:26:33.267088+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -130738,7 +130738,7 @@ title: "Splunk extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/splunk/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:27.174606+00:00"
+created_at: "2026-10-01T17:50:40.782080+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -130861,7 +130861,7 @@ title: "SQL Insights for extended app reporting"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/sql-insights-query-pro-mode/overview"
 category: "overview"
 topic: "experience-platform/dashboards-guide"
-created_at: "2026-10-01T13:44:08.459856+00:00"
+created_at: "2026-10-01T17:41:30.112241+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Dashboards Guide
 
@@ -130993,7 +130993,7 @@ title: "SQL Insights"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/query/data-distiller/sql-insights/overview"
 category: "overview"
 topic: "experience-platform/query-service-guide"
-created_at: "2026-10-01T13:40:13.249334+00:00"
+created_at: "2026-10-01T17:37:11.956293+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Query Service Guide
 
@@ -131085,7 +131085,7 @@ title: "Stream data from Kobie Streaming Events to Experience Platform using the
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/loyalty/kobie-streaming"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:38.438878+00:00"
+created_at: "2026-10-01T17:39:48.004989+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -131198,7 +131198,7 @@ title: "Stream data from your Snowflake database to Experience Platform using th
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/databases/snowflake-streaming"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:19.030568+00:00"
+created_at: "2026-10-01T17:38:23.323469+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -131357,7 +131357,7 @@ title: "Stream record data using Streaming Ingestion APIs"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/streaming-record-data"
 category: "tutorials"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-10-01T13:44:24.069809+00:00"
+created_at: "2026-10-01T17:41:47.532217+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -131846,7 +131846,7 @@ title: "Stream Snowflake data to Experience Platform using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/create/databases/snowflake-streaming"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:18.243249+00:00"
+created_at: "2026-10-01T17:38:22.374873+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -132181,7 +132181,7 @@ title: "Stream Talon.One data to Experience Platform using the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/create/loyalty/talon-one-streaming"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:42:41.879845+00:00"
+created_at: "2026-10-01T17:39:52.523165+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -132298,7 +132298,7 @@ title: "Stream time-series data using Streaming Ingestion APIs"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/tutorials/streaming-time-series-data"
 category: "tutorials"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-10-01T13:49:11.470247+00:00"
+created_at: "2026-10-01T17:47:02.641349+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -132868,7 +132868,7 @@ title: "Streaming ingestion overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/streaming/overview"
 category: "overview"
 topic: "experience-platform/data-ingestion-guide"
-created_at: "2026-10-01T13:30:38.595879+00:00"
+created_at: "2026-10-01T17:26:31.992362+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Ingestion Guide
 
@@ -132954,7 +132954,7 @@ title: "Submit a productized destination for review"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/guides/submit-destination"
 category: "guides"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:36:34.488786+00:00"
+created_at: "2026-10-01T17:33:07.753816+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -133239,7 +133239,7 @@ title: "Subscribe to alerts for sources dataflows in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/alerts"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:40:53.783808+00:00"
+created_at: "2026-10-01T17:37:56.254420+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -133346,7 +133346,7 @@ title: "Subscribe to Privacy Service Events"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/privacy/privacy-events"
 category: "guides"
 topic: "experience-platform/privacy-service-guide"
-created_at: "2026-10-01T13:35:19.842742+00:00"
+created_at: "2026-10-01T17:31:45.943141+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Privacy Service Guide
 
@@ -133450,7 +133450,7 @@ title: "Survey destinations overview survey-destinations"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/survey/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:35:36.315713+00:00"
+created_at: "2026-10-01T17:32:04.406386+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -133496,7 +133496,7 @@ title: "Tag extensions in Adobe Experience Platform"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/launch-extensions/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:35:44.905889+00:00"
+created_at: "2026-10-01T17:32:13.699309+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -133566,7 +133566,7 @@ title: "Tag extensions reference"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:47:31.664631+00:00"
+created_at: "2026-10-01T17:45:11.880752+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -133696,7 +133696,7 @@ title: "Tags overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/home"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:37:34.320421+00:00"
+created_at: "2026-10-01T17:34:16.100712+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -133795,7 +133795,7 @@ title: "TikTok web events API extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/tiktok/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:28.638689+00:00"
+created_at: "2026-10-01T17:50:42.834057+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -133960,7 +133960,7 @@ title: "Twitter event forwarding extension"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/twitter/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:28.096068+00:00"
+created_at: "2026-10-01T17:50:41.700215+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -134142,7 +134142,7 @@ title: "Unified tags overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/administrative-tags/overview"
 category: "overview"
 topic: "experience-platform/unified-tags-guide"
-created_at: "2026-10-01T13:31:15.240212+00:00"
+created_at: "2026-10-01T17:27:12.904696+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Unified Tags Guide
 
@@ -134218,7 +134218,7 @@ title: "Unions endpoint"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/api/unions"
 category: "reference"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:43:12.449833+00:00"
+created_at: "2026-10-01T17:40:26.179005+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -134521,7 +134521,7 @@ title: "Update a Catalog object"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/catalog/api/update-object"
 category: "reference"
 topic: "experience-platform/catalog-and-datasets-guide"
-created_at: "2026-10-01T13:35:21.579582+00:00"
+created_at: "2026-10-01T17:31:48.159693+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Catalog and Datasets Guide
 
@@ -134802,7 +134802,7 @@ title: "Update account details in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/update"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:38:03.872035+00:00"
+created_at: "2026-10-01T17:34:47.160955+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -134863,7 +134863,7 @@ title: "Update accounts using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/update"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:46:52.677591+00:00"
+created_at: "2026-10-01T17:44:28.409939+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -135059,7 +135059,7 @@ title: "Update dataflows in the UI"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/ui-tutorials/update-dataflows"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:41:00.931675+00:00"
+created_at: "2026-10-01T17:38:04.177436+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -135149,7 +135149,7 @@ title: "Update dataflows using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/sources/api-tutorials/update-dataflows"
 category: "tutorials"
 topic: "experience-platform/source-connectors-guide"
-created_at: "2026-10-01T13:46:51.805013+00:00"
+created_at: "2026-10-01T17:44:27.492420+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Source Connectors Guide
 
@@ -135477,7 +135477,7 @@ title: "Update destination dataflows using the Flow Service API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/api/update-destination-dataflows"
 category: "reference"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:38:48.097215+00:00"
+created_at: "2026-10-01T17:35:38.882378+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -136399,7 +136399,7 @@ title: "Update your trust store for Adobe’s new mTLS certificate hierarchy upd
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/mtls-trust-chain-migration"
 category: "guides"
 topic: "experience-platform/experience-platform-overview"
-created_at: "2026-10-01T13:37:08.166275+00:00"
+created_at: "2026-10-01T17:33:47.891959+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Platform overview
 
@@ -136924,7 +136924,7 @@ title: "Usage Insights"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/run-and-operate/usage-insights/overview"
 category: "overview"
 topic: "experience-platform/run-and-operate-guide"
-created_at: "2026-10-01T13:38:25.814942+00:00"
+created_at: "2026-10-01T17:35:12.131026+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Run and Operate Guide
 
@@ -137013,7 +137013,7 @@ title: "Use Case Playbooks overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/use-case-playbooks/playbooks/overview"
 category: "overview"
 topic: "experience-platform/adobe-experience-platform-use-case-playbooks"
-created_at: "2026-10-01T13:30:27.276861+00:00"
+created_at: "2026-10-01T17:26:19.763166+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Adobe Experience Platform Use Case Playbooks
 
@@ -137087,7 +137087,7 @@ title: "Use Destination SDK to configure a file-based destination"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/guides/configure-file-based-destination-instructions"
 category: "guides"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:36:32.235363+00:00"
+created_at: "2026-10-01T17:33:04.511426+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -137535,7 +137535,7 @@ title: "Use Destination SDK to configure a streaming destination"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/guides/configure-destination-instructions"
 category: "guides"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:36:31.363024+00:00"
+created_at: "2026-10-01T17:33:03.545620+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -137856,7 +137856,7 @@ title: "Using Adobe Experience Platform Assurance"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/assurance/tutorials/using-assurance"
 category: "tutorials"
 topic: "experience-platform/assurance-guide"
-created_at: "2026-10-01T13:37:33.545927+00:00"
+created_at: "2026-10-01T17:34:15.052143+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Assurance Guide
 
@@ -137966,7 +137966,7 @@ title: "View dataset data using Data Access API"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/data-access/tutorials/dataset-data"
 category: "tutorials"
 topic: "experience-platform/data-access-guide"
-created_at: "2026-10-01T13:40:34.442604+00:00"
+created_at: "2026-10-01T17:37:36.529600+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Access Guide
 
@@ -138511,7 +138511,7 @@ title: "Voice of the Customer destinations overview voice-of-customer-destinatio
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/voice/overview"
 category: "overview"
 topic: "experience-platform/destinations-guide"
-created_at: "2026-10-01T13:35:37.128837+00:00"
+created_at: "2026-10-01T17:32:05.336970+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Destinations Guide
 
@@ -138557,7 +138557,7 @@ title: "Web SDK installation overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/collection/js/install/overview"
 category: "overview"
 topic: "experience-platform/data-collection"
-created_at: "2026-10-01T13:51:23.226699+00:00"
+created_at: "2026-10-01T17:49:30.411640+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Data Collection
 
@@ -138597,7 +138597,7 @@ title: "XDM System overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/home"
 category: "overview"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:31:16.283424+00:00"
+created_at: "2026-10-01T17:27:13.908406+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -138776,7 +138776,7 @@ title: "XDM System troubleshooting guide"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/xdm/troubleshooting-guide"
 category: "guides"
 topic: "experience-platform/experience-data-model-xdm-guide"
-created_at: "2026-10-01T13:36:17.344928+00:00"
+created_at: "2026-10-01T17:32:48.873148+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Experience Data Model (XDM) Guide
 
@@ -139152,7 +139152,7 @@ title: "YouTube Video Tracking extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/youtube/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:50:34.183354+00:00"
+created_at: "2026-10-01T17:48:35.295099+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 
@@ -139272,7 +139272,7 @@ title: "Zendesk Events API extension overview"
 url: "https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/server/zendesk/overview"
 category: "overview"
 topic: "experience-platform/tags"
-created_at: "2026-10-01T13:52:29.623331+00:00"
+created_at: "2026-10-01T17:50:43.925857+00:00"
 ---
 Breadcrumbs: Documentation > Experience Platform > Tags
 

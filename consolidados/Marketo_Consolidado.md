@@ -8,7 +8,7 @@ title: "Acessar a nova instância do Sales Connect accessing-your-new-sales-conn
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:40.131803+00:00"
+created_at: "2026-10-01T19:48:10.960893+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -46,7 +46,7 @@ title: "Adicionando um novo dispositivo de teste adding-a-new-test-device"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:41.757410+00:00"
+created_at: "2026-10-01T19:52:51.983795+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -79,7 +79,7 @@ title: "Adicionar a guia Marketo a Salesforce add-marketo-tab-to-salesforce"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:29.823495+00:00"
+created_at: "2026-10-01T19:47:58.283830+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -104,7 +104,7 @@ title: "Adicionar ao programa de engajamento add-to-engagement-program"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:49.768264+00:00"
+created_at: "2026-10-01T19:53:01.769952+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -131,7 +131,7 @@ title: "Adicionar campos de link de objeto personalizado do Marketo add-marketo-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:11.309951+00:00"
+created_at: "2026-10-01T19:47:36.828068+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -200,7 +200,7 @@ title: "Adicionar campos de objeto personalizados do Marketo add-marketo-custom-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:35.661707+00:00"
+created_at: "2026-10-01T19:44:30.893924+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -241,7 +241,7 @@ title: "Adicionar clientes em potencial a um público-alvo personalizado em Face
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:01.869523+00:00"
+created_at: "2026-10-01T19:43:52.027695+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -275,7 +275,7 @@ title: "Adicionar colunas de oportunidade a um relatório de leads add-opportuni
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:13.791846+00:00"
+created_at: "2026-10-01T19:45:16.037400+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -306,7 +306,7 @@ title: "Adicionar colunas personalizadas a um relatório de pessoas add-custom-c
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:13.056872+00:00"
+created_at: "2026-10-01T19:45:14.740682+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -336,7 +336,7 @@ title: "Adicionar conjunto de permissões Sales Insight add-sales-insight-permis
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:39.463908+00:00"
+created_at: "2026-10-01T19:52:48.899668+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -413,7 +413,7 @@ title: "Adicionar conteúdo a um fluxo add-content-to-a-stream"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:35.802032+00:00"
+created_at: "2026-10-01T19:42:09.934993+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -451,7 +451,7 @@ title: "Adicionar conteúdo a um snippet add-content-to-a-snippet"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:29.115713+00:00"
+created_at: "2026-10-01T19:45:33.803970+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -510,7 +510,7 @@ title: "Adicionar e gerenciar usuários do Dynamic Chat"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/user-management"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:36:31.275648+00:00"
+created_at: "2026-10-01T19:43:17.219215+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -547,7 +547,7 @@ title: "Adicionar, editar ou excluir campos de atividade personalizados do Marke
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:58.292488+00:00"
+created_at: "2026-10-01T19:49:41.953042+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -600,7 +600,7 @@ title: "Adicionar Facebook públicos-alvo personalizados como um serviço de Lau
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:29.688233+00:00"
+created_at: "2026-10-01T19:44:24.488606+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -638,7 +638,7 @@ title: "Adicionar Google AdWords como um Serviço LaunchPoint add-google-adwords
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:01.016684+00:00"
+created_at: "2026-10-01T19:43:51.131051+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -686,7 +686,7 @@ title: "Adicionar Google AdWords como um Serviço Launchpoint com uma Conta de G
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:44.736152+00:00"
+created_at: "2026-10-01T19:47:04.983257+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -735,7 +735,7 @@ title: "Adicionar GoToWebinar como um Serviço LaunchPoint add-gotowebinar-as-a-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:18.735105+00:00"
+created_at: "2026-10-01T19:47:44.960947+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -780,7 +780,7 @@ title: "Adicionar imagens de mensagens no aplicativo add-in-app-message-images"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:57.537157+00:00"
+created_at: "2026-10-01T19:52:01.032500+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -826,7 +826,7 @@ title: "Adicionar imagens e arquivos ao Marketo add-images-and-files-to-marketo"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:08.395683+00:00"
+created_at: "2026-10-01T19:46:20.181070+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -856,7 +856,7 @@ title: "Adicionar LinkedIn Públicos-alvo correspondentes como um serviço Launc
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:47.117999+00:00"
+created_at: "2026-10-01T19:47:07.805663+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -901,7 +901,7 @@ title: "Adicionar links rastreados a um email de texto add-tracked-links-to-a-te
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:24.862618+00:00"
+created_at: "2026-10-01T19:52:30.836921+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -937,7 +937,7 @@ title: "Adicionar módulos ao email add-modules-to-your-email"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:47.853503+00:00"
+created_at: "2026-10-01T19:47:08.717468+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -981,7 +981,7 @@ title: "Adicionar múltiplos valores a um filtro de lista inteligente add-multip
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:20.365140+00:00"
+created_at: "2026-10-01T19:47:46.682242+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -1018,7 +1018,7 @@ title: "Adicionar o Adobe Connect as a LaunchPoint Service add-adobe-connect-as-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:15.509785+00:00"
+created_at: "2026-10-01T19:47:41.432288+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -1061,7 +1061,7 @@ title: "Adicionar o código de rastreamento Munchkin ao seu site add-munchkin-tr
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:45.314453+00:00"
+created_at: "2026-10-01T19:41:10.148547+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -1130,7 +1130,7 @@ title: "Adicionar o Vibes como um serviço do LaunchPoint add-vibes-as-a-launchp
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:37.894394+00:00"
+created_at: "2026-10-01T19:48:08.169206+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -1168,7 +1168,7 @@ title: "Adicionar ou remover admin de produto add-or-remove-a-product-admin"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/add-or-remove-a-product-admin"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:07.068600+00:00"
+created_at: "2026-10-01T19:46:18.239533+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -1226,7 +1226,7 @@ title: "Adicionar ou remover usuário add-or-remove-a-user"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/add-or-remove-a-user"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:07.631682+00:00"
+created_at: "2026-10-01T19:46:18.808952+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -1282,7 +1282,7 @@ title: "Adicionar ou remover usuário add-or-remove-a-user"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:23.240803+00:00"
+created_at: "2026-10-01T19:43:07.198509+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -1338,7 +1338,7 @@ title: "Adicionar ou remover usuários do chat add-or-remove-chat-users"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:25.735517+00:00"
+created_at: "2026-10-01T19:43:10.261559+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -1396,7 +1396,7 @@ title: "Adicionar pessoa à lista de bloqueio add-person-to-blocklist"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:52.947859+00:00"
+created_at: "2026-10-01T19:41:19.885815+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -1446,7 +1446,7 @@ title: "Adicionar pessoas a um programa de engajamento add-people-to-an-engageme
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-people-to-an-engagement-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:15.618251+00:00"
+created_at: "2026-10-01T19:52:21.133620+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -1478,7 +1478,7 @@ title: "Adicionar pessoas a uma Conta nomeada add-people-to-a-named-account"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:57.674101+00:00"
+created_at: "2026-10-01T19:48:31.878544+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -1525,7 +1525,7 @@ title: "Adicionar Sales Insight Acesso a Perfis add-sales-insight-access-to-prof
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:30.640685+00:00"
+created_at: "2026-10-01T19:47:59.133082+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -1592,7 +1592,7 @@ title: "Adicionar texto e tokens a uma página de destino add-text-and-tokens-to
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:31.817317+00:00"
+created_at: "2026-10-01T19:49:10.047930+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -1637,7 +1637,7 @@ title: "Adicionar tokens a um link de email add-tokens-to-an-email-link"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:01.578525+00:00"
+created_at: "2026-10-01T19:48:36.306819+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -1669,7 +1669,7 @@ title: "Adicionar um aplicativo móvel add-a-mobile-app"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/admin/add-a-mobile-app"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:32.621658+00:00"
+created_at: "2026-10-01T19:46:50.296449+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -1706,7 +1706,7 @@ title: "Adicionar um campo a um formulário add-a-field-to-a-form"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:32.549331+00:00"
+created_at: "2026-10-01T19:49:10.805638+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -1741,7 +1741,7 @@ title: "Adicionar um campo Salesforce existente à sincronização do Marketo ad
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:47.589967+00:00"
+created_at: "2026-10-01T19:41:12.648204+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -1774,7 +1774,7 @@ title: "Adicionar um conjunto de campos a um formulário add-a-fieldset-to-a-for
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:36.852635+00:00"
+created_at: "2026-10-01T19:48:07.308439+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -1809,7 +1809,7 @@ title: "Adicionar um fluxo add-a-stream"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:35.059851+00:00"
+created_at: "2026-10-01T19:42:08.842816+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -1837,7 +1837,7 @@ title: "Adicionar um link “Exibir como página da Web” a um email add-a-view
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:45.924917+00:00"
+created_at: "2026-10-01T19:48:18.040403+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -1875,7 +1875,7 @@ title: "Adicionar um novo domínio de marca add-an-additional-branding-domain"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:46.892527+00:00"
+created_at: "2026-10-01T19:50:39.432319+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -1950,7 +1950,7 @@ title: "Adicionar um novo formulário a uma página de destino de forma livre ad
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:30.469456+00:00"
+created_at: "2026-10-01T19:50:20.192463+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -1985,7 +1985,7 @@ title: "Adicionar um programa a um fluxo de programa de engajamento adding-a-pro
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:29.842876+00:00"
+created_at: "2026-10-01T19:45:34.746243+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2051,7 +2051,7 @@ title: "Adicionar um snippet a um email add-a-snippet-to-an-email"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:34.125164+00:00"
+created_at: "2026-10-01T19:49:12.626688+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2089,7 +2089,7 @@ title: "Adicionar um snippet a uma página de destino add-a-snippet-to-a-landing
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:30.897103+00:00"
+created_at: "2026-10-01T19:49:09.110718+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2121,7 +2121,7 @@ title: "Adicionar um teste A/B add-an-a-b-test"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:49.138807+00:00"
+created_at: "2026-10-01T19:41:14.604160+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2161,7 +2161,7 @@ title: "Adicionar um token de script de email ao seu email add-an-email-script-t
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:34.909745+00:00"
+created_at: "2026-10-01T19:49:13.775243+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2200,7 +2200,7 @@ title: "Adicionar um token do sistema como um link em um email add-a-system-toke
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:00.044070+00:00"
+created_at: "2026-10-01T19:48:34.582479+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2256,7 +2256,7 @@ title: "Adicionar uma Conta nomeada existente a uma Lista de Contas add-an-exist
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:35.837487+00:00"
+created_at: "2026-10-01T19:50:25.980929+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2290,7 +2290,7 @@ title: "Adicionar uma equipe de webinário add-a-webinar-team"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:02.002066+00:00"
+created_at: "2026-10-01T19:50:57.055534+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2345,7 +2345,7 @@ title: "Adicionar uma etapa de fluxo a uma campanha inteligente add-a-flow-step-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:15.874197+00:00"
+created_at: "2026-10-01T19:41:47.031777+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2386,7 +2386,7 @@ title: "Adicionar uma lista de opções de país ao formulário add-a-country-pi
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:26.515039+00:00"
+created_at: "2026-10-01T19:51:26.398947+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2425,7 +2425,7 @@ title: "Adicionar uma restrição a um filtro de lista inteligente add-a-constra
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:03.824672+00:00"
+created_at: "2026-10-01T19:41:32.493783+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2463,7 +2463,7 @@ title: "Adicionar usuário somente de API para assinaturas habilitadas para o Ad
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/create-api-only-user"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:47.204832+00:00"
+created_at: "2026-10-01T19:52:58.768309+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2497,7 +2497,7 @@ title: "Adicionar Webex como um Serviço LaunchPoint add-webex-as-a-launchpoint-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:14.711626+00:00"
+created_at: "2026-10-01T19:47:40.618202+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2536,7 +2536,7 @@ title: "Adicionar Zoom como um Serviço LaunchPoint add-zoom-as-a-launchpoint-se
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:19.476081+00:00"
+created_at: "2026-10-01T19:47:45.766801+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2580,7 +2580,7 @@ title: "Adicionar à campanha do SFDC add-to-sfdc-campaign"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:44.332372+00:00"
+created_at: "2026-10-01T19:45:51.586325+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2611,7 +2611,7 @@ title: "Adicionar à lista add-to-list"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:57.757968+00:00"
+created_at: "2026-10-01T19:44:57.155710+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2637,7 +2637,7 @@ title: "Adicionar/remover campo de objeto personalizado como restrições de lis
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:50.763187+00:00"
+created_at: "2026-10-01T19:45:58.982952+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2676,7 +2676,7 @@ title: "Adicione um Email Champion/Challenger add-an-email-champion-challenger"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:22.485543+00:00"
+created_at: "2026-10-01T19:52:28.044552+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2717,7 +2717,7 @@ title: "Adobe Marketo Engage adobe-marketo-engage"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:58.896951+00:00"
+created_at: "2026-10-01T19:42:37.827054+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2775,7 +2775,7 @@ title: "Agendar mensagem no aplicativo schedule-your-in-app-message"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:55.374137+00:00"
+created_at: "2026-10-01T19:53:07.964796+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2806,7 +2806,7 @@ title: "Agendar o teste A/B schedule-the-a-b-test"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:03.125921+00:00"
+created_at: "2026-10-01T19:49:48.396278+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2840,7 +2840,7 @@ title: "Agendar programas de email com o fuso horário do destinatário schedule
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:51.009693+00:00"
+created_at: "2026-10-01T19:43:39.684516+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2928,7 +2928,7 @@ title: "Agendar programas de engajamento com fuso horário do destinatário sche
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/engagement-program-streams/schedule-engagement-programs-with-recipient-time-zone"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:01.649462+00:00"
+created_at: "2026-10-01T19:47:25.488708+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2960,7 +2960,7 @@ title: "Agendar seu programa de email schedule-your-email-program"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:38.183438+00:00"
+created_at: "2026-10-01T19:44:34.078960+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -2999,7 +2999,7 @@ title: "Agrupar relatórios de email por segmentações group-email-reports-by-s
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/group-email-reports-by-segmentations"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:53.949848+00:00"
+created_at: "2026-10-01T19:49:37.143254+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3034,7 +3034,7 @@ title: "Agrupar relatórios de pessoa por atributo group-person-reports-by-attri
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:11.416111+00:00"
+created_at: "2026-10-01T19:45:12.982142+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3062,7 +3062,7 @@ title: "Agrupar relatórios de pessoas por segmento group-person-reports-by-segm
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:12.222053+00:00"
+created_at: "2026-10-01T19:45:13.909140+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3094,7 +3094,7 @@ title: "Alertar o(a) representante de vendas alert-the-sales-rep"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/quick-wins/alert-the-sales-rep"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:16.601823+00:00"
+created_at: "2026-10-01T19:50:03.297636+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3160,7 +3160,7 @@ title: "Alterar cadência do programa de envolvimento change-engagement-program-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:50.511386+00:00"
+created_at: "2026-10-01T19:53:02.620821+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3189,7 +3189,7 @@ title: "Alterar dados de membros do programa change-program-member-data"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:13.428688+00:00"
+created_at: "2026-10-01T19:50:00.019535+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3229,7 +3229,7 @@ title: "Alterar fluxo do programa de envolvimento change-engagement-program-stre
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:51.247382+00:00"
+created_at: "2026-10-01T19:53:03.439289+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3256,7 +3256,7 @@ title: "Alterar Fuso Horário change-time-zone"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/settings/change-time-zone"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:51.716724+00:00"
+created_at: "2026-10-01T19:43:40.689058+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3286,7 +3286,7 @@ title: "Alterar Limites de Recuperação de Objeto Personalizado em Velocity Scr
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/email-setup/change-custom-object-retrieval-limits-in-velocity-scripting"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:31.681294+00:00"
+created_at: "2026-10-01T19:46:49.272361+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3326,7 +3326,7 @@ title: "Alterar o email padrão e rótulo de remetente change-the-default-from-e
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/email-setup/change-the-default-from-email-and-from-label"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:05.720970+00:00"
+created_at: "2026-10-01T19:49:51.000894+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3360,7 +3360,7 @@ title: "Alterar o intervalo de tempo do relatório change-a-report-time-frame"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:14.900920+00:00"
+created_at: "2026-10-01T19:44:07.147872+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3389,7 +3389,7 @@ title: "Alterar o URL da página de destino change-the-landing-page-url"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-actions/change-the-landing-page-url"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:12.544851+00:00"
+created_at: "2026-10-01T19:52:18.231152+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3417,7 +3417,7 @@ title: "Alterar pontuação change-score"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:40.375274+00:00"
+created_at: "2026-10-01T19:49:20.131756+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3446,7 +3446,7 @@ title: "Alterar proprietário change-owner"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:41.939975+00:00"
+created_at: "2026-10-01T19:45:48.778386+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3472,7 +3472,7 @@ title: "Alterar status de campanha do SFDC change-status-in-sfdc-campaign"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:45.908494+00:00"
+created_at: "2026-10-01T19:45:53.294896+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3503,7 +3503,7 @@ title: "Alterar status do programa change-program-status"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:37.400454+00:00"
+created_at: "2026-10-01T19:46:56.119811+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3538,7 +3538,7 @@ title: "Alterar sucesso do programa change-program-success"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-success"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:20.043350+00:00"
+created_at: "2026-10-01T19:52:25.361821+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3568,7 +3568,7 @@ title: "Alterar valor dos dados change-data-value"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:25.636538+00:00"
+created_at: "2026-10-01T19:44:20.087811+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3599,7 +3599,7 @@ title: "Alternar dinamicamente a visibilidade de um campo de formulário dynamic
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:25.732151+00:00"
+created_at: "2026-10-01T19:50:14.194934+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3648,7 +3648,7 @@ title: "Analytics analytics"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/analytics"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:05.555591+00:00"
+created_at: "2026-10-01T19:46:16.638994+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3708,7 +3708,7 @@ title: "Anexar dados a um campo append-data-to-a-field"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:05.619428+00:00"
+created_at: "2026-10-01T19:47:30.036132+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3745,7 +3745,7 @@ title: "Antes de criar notificações por push e mensagens no aplicativo before-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:33.692685+00:00"
+created_at: "2026-10-01T19:48:03.818039+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3790,7 +3790,7 @@ title: "API incorporada do Adobe PDF adobe-pdf-embed-api"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:20.899428+00:00"
+created_at: "2026-10-01T19:46:34.991088+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3824,7 +3824,7 @@ title: "Aplicar limites de comunicação à campanha inteligente apply-communica
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:24.828866+00:00"
+created_at: "2026-10-01T19:45:28.806730+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3863,7 +3863,7 @@ title: "Aprovar, cancelar aprovação de ou excluir uma página de destino appro
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:29.109951+00:00"
+created_at: "2026-10-01T19:51:29.035163+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3918,7 +3918,7 @@ title: "Aprovar mensagem no aplicativo approve-your-in-app-message"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:45:00.940980+00:00"
+created_at: "2026-10-01T19:53:14.522110+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3957,7 +3957,7 @@ title: "Aprovar um email approve-an-email"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/approve-an-email"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:10.655602+00:00"
+created_at: "2026-10-01T19:45:12.118760+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -3995,7 +3995,7 @@ title: "Aprovar um formulário approve-a-form"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/approve-a-form"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:43.249561+00:00"
+created_at: "2026-10-01T19:52:53.873099+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -4035,7 +4035,7 @@ title: "Aprovar um objeto personalizado approve-a-custom-object"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-custom-objects/approve-a-custom-object"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:34.061975+00:00"
+created_at: "2026-10-01T19:44:29.040905+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -4079,7 +4079,7 @@ title: "Aprovar um snippet approve-a-snippet"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:51.742783+00:00"
+created_at: "2026-10-01T19:48:25.175794+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -4112,7 +4112,7 @@ title: "Aprovar um snippet sem rascunho approve-a-snippet-with-no-draft"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:32.249844+00:00"
+created_at: "2026-10-01T19:50:22.021037+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -4149,7 +4149,7 @@ title: "Aprovar um título para conteúdo preditivo approve-a-title-for-predicti
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:08.860268+00:00"
+created_at: "2026-10-01T19:47:33.899200+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -4189,7 +4189,7 @@ title: "Aprovar uma segmentação approve-a-segmentation"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:16.866968+00:00"
+created_at: "2026-10-01T19:46:30.143354+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -4231,7 +4231,7 @@ title: "Aprovar várias páginas de destino de uma vez approve-multiple-landing-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:59.225955+00:00"
+created_at: "2026-10-01T19:52:03.304110+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -4259,7 +4259,7 @@ title: "Aprovar/cancelar aprovação de um programa de email approve-unapprove-a
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:12.921093+00:00"
+created_at: "2026-10-01T19:47:38.866962+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -4305,7 +4305,7 @@ title: "Arquivar e desarquivar conteúdo de fluxo archive-and-unarchive-stream-c
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:20.248831+00:00"
+created_at: "2026-10-01T19:44:13.625971+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -4342,7 +4342,7 @@ title: "Assinar um relatório básico subscribe-to-a-basic-report"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:37.773250+00:00"
+created_at: "2026-10-01T19:45:44.413071+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -4371,7 +4371,7 @@ title: "Assinar uma lista inteligente subscribe-to-a-smart-list"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:28.882925+00:00"
+created_at: "2026-10-01T19:52:35.769177+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -4447,7 +4447,7 @@ title: "Ativar a Integração do Marketo com o Dynamic Chat"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/marketo-integration"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:36:30.305944+00:00"
+created_at: "2026-10-01T19:43:16.331527+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -4484,7 +4484,7 @@ title: "Ativar a opção Sem rascunho para trechos enable-no-draft-for-snippets"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/enable-no-draft-for-snippets"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:51.159295+00:00"
+created_at: "2026-10-01T19:50:44.426583+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -4528,7 +4528,7 @@ title: "Atualizar a Solução Marketo para Microsoft Dynamics update-the-marketo
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/update-the-marketo-solution-for-microsoft-dynamics"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:58.603504+00:00"
+created_at: "2026-10-01T19:46:08.952036+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -4572,7 +4572,7 @@ title: "Atualizar dados da pessoa update-person-data"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/quick-wins/update-person-data"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:16.604660+00:00"
+created_at: "2026-10-01T19:51:14.192452+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -4626,7 +4626,7 @@ title: "Atualização do pacote MSI upgrading-your-msi-package"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:45.769740+00:00"
+created_at: "2026-10-01T19:50:38.453525+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -4661,7 +4661,7 @@ title: "Atualizações de registro de evento ON24 on-event-registration-updates"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:22.561355+00:00"
+created_at: "2026-10-01T19:51:20.977190+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -4707,7 +4707,7 @@ title: "Biblioteca de respostas response-library"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/response-library"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:19.551808+00:00"
+created_at: "2026-10-01T19:43:02.802789+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -4769,7 +4769,7 @@ title: "Bloquear atualizações em um campo block-updates-to-a-field"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/field-management/block-updates-to-a-field"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:03.982504+00:00"
+created_at: "2026-10-01T19:47:28.292190+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -4800,7 +4800,7 @@ title: "Bloquear conteúdo em modelos de email lock-content-email-templates"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/content-locking"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:10.804440+00:00"
+created_at: "2026-10-01T19:46:23.333212+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -4910,7 +4910,7 @@ title: "Caixa de entrada do agente agent-inbox"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:17.797001+00:00"
+created_at: "2026-10-01T19:43:00.680558+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -5007,7 +5007,7 @@ title: "Campos personalizados de membros de programas program-member-custom-fiel
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:12.684656+00:00"
+created_at: "2026-10-01T19:49:59.074817+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -5072,7 +5072,7 @@ title: "Cancelamento de assinatura durável durable-unsubscribe"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/deliverability/durable-unsubscribe"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:08.536018+00:00"
+created_at: "2026-10-01T19:41:38.141283+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -5124,7 +5124,7 @@ title: "Captura de atributos inferidos"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/capture-inferred-attributes"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:36:35.495872+00:00"
+created_at: "2026-10-01T19:43:21.769070+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -5161,7 +5161,7 @@ title: "Capturar as imagens de uma página da Web grab-the-images-from-a-web-pag
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:16.046569+00:00"
+created_at: "2026-10-01T19:42:58.739702+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -5198,7 +5198,7 @@ title: "Chamadas Não Estão Registrando em Log para Salesforce calls-arent-logg
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:38.591635+00:00"
+created_at: "2026-10-01T19:48:09.186078+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -5230,7 +5230,7 @@ title: "Chamar webhook call-webhook"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:46.842152+00:00"
+created_at: "2026-10-01T19:41:11.825072+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -5266,7 +5266,7 @@ title: "Classificar relatório em colunas sort-report-on-columns"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:24.849052+00:00"
+created_at: "2026-10-01T19:44:19.241938+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -5295,7 +5295,7 @@ title: "Clonagem de um grupo de teste de página de destino cloning-a-landing-pa
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:23.362158+00:00"
+created_at: "2026-10-01T19:44:17.417732+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -5327,7 +5327,7 @@ title: "Clonar um ativo em um programa clone-an-asset-in-a-program"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:00.747263+00:00"
+created_at: "2026-10-01T19:41:28.165480+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -5363,7 +5363,7 @@ title: "Clonar um fluxo clone-a-stream"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:01.510182+00:00"
+created_at: "2026-10-01T19:41:29.021824+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -5390,7 +5390,7 @@ title: "Clonar um programa clone-a-program"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:59.884960+00:00"
+created_at: "2026-10-01T19:41:27.262665+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -5420,7 +5420,7 @@ title: "Clonar um relatório para agrupar relatórios clone-a-report-to-group-re
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:48.146478+00:00"
+created_at: "2026-10-01T19:49:30.834534+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -5449,7 +5449,7 @@ title: "Clonar uma campanha da Web clone-a-web-campaign"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:12.522425+00:00"
+created_at: "2026-10-01T19:44:04.273373+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -5484,7 +5484,7 @@ title: "Como auditar uma instância herdada do Marketo Engage"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/auditing-an-inherited-instance/audit-an-inherted-instance"
 category: "tutorials"
 topic: "marketo-engage/tutorial-dicas-e-truques-para-auditar-uma-instância-herdada-do-marketo-engage"
-created_at: "2026-10-01T15:43:43.751944+00:00"
+created_at: "2026-10-01T19:51:45.765624+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutorial - Dicas e truques para auditar uma instância herdada do Marketo Engage
 
@@ -5521,7 +5521,7 @@ title: "Como configurar e gerenciar uma central de assinaturas"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:44:16.781337+00:00"
+created_at: "2026-10-01T19:52:22.164167+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -5552,7 +5552,7 @@ title: "Como criar um programa de pontuação de cliente potencial/pessoa"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:44:18.364063+00:00"
+created_at: "2026-10-01T19:52:23.556277+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -5584,7 +5584,7 @@ title: "Como fazer a correspondência entre os status do programa e Salesforce s
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:48.233886+00:00"
+created_at: "2026-10-01T19:45:55.995545+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -5617,7 +5617,7 @@ title: "Como instalar botões do Sales Connect no Salesforce how-to-install-sale
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:28.231647+00:00"
+created_at: "2026-10-01T19:51:28.213495+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -5650,7 +5650,7 @@ title: "Comparação de recursos do Email Designer/Editor de email feature-compa
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:10.697913+00:00"
+created_at: "2026-10-01T19:42:52.762816+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -5888,7 +5888,7 @@ title: "Compartilhar segmentações entre espaços de trabalho e partições sha
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:23.240821+00:00"
+created_at: "2026-10-01T19:45:27.113764+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -5944,7 +5944,7 @@ title: "Compartilhar uma definição de filtro no calendário de marketing shari
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:55.981634+00:00"
+created_at: "2026-10-01T19:51:59.151600+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -5978,7 +5978,7 @@ title: "Compreender atividades anônimas e pessoas understanding-anonymous-activ
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:03.208027+00:00"
+created_at: "2026-10-01T19:47:27.339561+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -6028,7 +6028,7 @@ title: "Conceder acesso a usuários granting-access-to-users"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/marketo/granting-access-to-users"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:23.451603+00:00"
+created_at: "2026-10-01T19:47:50.580874+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -6062,7 +6062,7 @@ title: "Conceder aos usuários acesso ao aplicativo de check-in grant-users-acce
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:02.393359+00:00"
+created_at: "2026-10-01T19:47:26.438638+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -6105,7 +6105,7 @@ title: "Conceder consentimento para a ID do cliente e o registro do aplicativo g
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/grant-consent-for-client-id-and-app-registration"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:14.318999+00:00"
+created_at: "2026-10-01T19:48:50.887638+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -6145,7 +6145,7 @@ title: "Conectar BrightTALK ao Marketo connect-brighttalk-to-marketo"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/additional-integrations/connect-brighttalk-to-marketo"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:40.990869+00:00"
+created_at: "2026-10-01T19:52:50.814499+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -6200,7 +6200,7 @@ title: "Conectar sua conta do Sales Connect ao Salesforce connect-your-sales-con
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:22.672601+00:00"
+created_at: "2026-10-01T19:47:49.399162+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -6240,7 +6240,7 @@ title: "Conectar sua Conta do Sales Insight Actions ao Salesforce connect-your-s
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:31.520404+00:00"
+created_at: "2026-10-01T19:52:38.492584+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -6280,7 +6280,7 @@ title: "Conectar visitantes a agentes ativos"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/connect-visitors-to-live-agents"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:36:40.485759+00:00"
+created_at: "2026-10-01T19:43:27.313140+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -6317,7 +6317,7 @@ title: "Configurar a API SOAP configuring-your-soap-api-settings"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/additional-integrations/configuring-your-soap-api-settings"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:11.900408+00:00"
+created_at: "2026-10-01T19:49:58.166240+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -6353,7 +6353,7 @@ title: "Configurar a conexão do Marketo set-up-your-marketo-connection"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:41.736446+00:00"
+created_at: "2026-10-01T19:48:12.787742+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -6393,7 +6393,7 @@ title: "Configurar a criação de perfis progressiva do formulário configure-fo
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/forms/form-actions/configure-form-progressive-profiling"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:44.878905+00:00"
+created_at: "2026-10-01T19:52:55.906450+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -6435,7 +6435,7 @@ title: "Configurar a personalização dos detalhes da atividade Salesforce confi
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:00.044256+00:00"
+created_at: "2026-10-01T19:52:04.168408+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -6529,7 +6529,7 @@ title: "Configurar a SPF e o DKIM para a sua capacidade de entrega de emails set
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:43.404059+00:00"
+created_at: "2026-10-01T19:41:07.646195+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -6584,7 +6584,7 @@ title: "Configurar anúncios de lead no Facebook set-up-facebook-lead-ads"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-lead-ads"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:45.573282+00:00"
+created_at: "2026-10-01T19:47:05.883214+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -6629,7 +6629,7 @@ title: "Configurar categorias set-up-categories"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/predictive-content/getting-started/set-up-categories"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:14.392498+00:00"
+created_at: "2026-10-01T19:50:01.363452+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -6667,7 +6667,7 @@ title: "Configurar e adicionar uma pessoa get-set-up-and-add-a-person"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/quick-wins/get-set-up-and-add-a-person"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:30.533571+00:00"
+created_at: "2026-10-01T19:40:52.725962+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -6720,7 +6720,7 @@ title: "Configurar e instalar seu chatbot"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/setup"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:36:29.531305+00:00"
+created_at: "2026-10-01T19:43:15.423563+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -6757,7 +6757,7 @@ title: "Configurar notificação por push para dispositivo móvel configure-mobi
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:24.206699+00:00"
+created_at: "2026-10-01T19:50:11.915168+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -6816,7 +6816,7 @@ title: "Configurar o acesso por push do Android para aplicativos móveis configu
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:59.871245+00:00"
+created_at: "2026-10-01T19:49:44.303499+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -6846,7 +6846,7 @@ title: "Configurar o acesso por push do iOS para aplicativos móveis configure-m
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:00.653114+00:00"
+created_at: "2026-10-01T19:49:45.375493+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -6878,7 +6878,7 @@ title: "Configurar o botão Dispensar e aprovar a mensagem set-up-the-dismiss-bu
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:45:05.671537+00:00"
+created_at: "2026-10-01T19:53:20.691298+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -6927,7 +6927,7 @@ title: "Configurar o botão Mensagens no aplicativo set-up-the-in-app-message-bu
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:56.186846+00:00"
+created_at: "2026-10-01T19:53:08.883624+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -6970,7 +6970,7 @@ title: "Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimited co
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:51.635233+00:00"
+created_at: "2026-10-01T19:44:50.170003+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -7079,7 +7079,7 @@ title: "Configurar o Marketo Sales Insight no Salesforce Professional Edition co
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:28.206620+00:00"
+created_at: "2026-10-01T19:47:56.543500+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -7185,7 +7185,7 @@ title: "Configurar o plano de fundo das mensagens no aplicativo set-up-the-in-ap
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:45:01.759288+00:00"
+created_at: "2026-10-01T19:53:15.562928+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -7221,7 +7221,7 @@ title: "Configurar protocolos do Marketo Engage configure-protocols-for-marketo-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:29.763007+00:00"
+created_at: "2026-10-01T19:40:51.873510+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -7480,7 +7480,7 @@ title: "Configurar tamanho do relatório configure-report-size"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/configure-report-size"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:46.825743+00:00"
+created_at: "2026-10-01T19:48:19.209513+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -7510,7 +7510,7 @@ title: "Configurar uma assinatura personalizada do DKIM set-up-a-custom-dkim-sig
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:44.375443+00:00"
+created_at: "2026-10-01T19:41:08.678406+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -7545,7 +7545,7 @@ title: "Configurar uma campanha inteligente acionável para vendas usando “A c
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:00.795346+00:00"
+created_at: "2026-10-01T19:52:05.229890+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -7583,7 +7583,7 @@ title: "Configuração configuration"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:00.583586+00:00"
+created_at: "2026-10-01T19:42:39.588589+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -7653,7 +7653,7 @@ title: "Configuração de admin admin-setup"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:22.137164+00:00"
+created_at: "2026-10-01T19:43:06.019741+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -7696,7 +7696,7 @@ title: "Configuração de Sales Insight Actions em Salesforce sales-insight-acti
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:49.432067+00:00"
+created_at: "2026-10-01T19:50:42.366079+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -7749,7 +7749,7 @@ title: "Configuração inicial initial-setup"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:23.993355+00:00"
+created_at: "2026-10-01T19:43:08.066670+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -7786,7 +7786,7 @@ title: "Configurações De Fluxo De Conversação Para O Marketo Engage Forms co
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:02.208517+00:00"
+created_at: "2026-10-01T19:46:12.879572+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -7820,7 +7820,7 @@ title: "Configurações de Insights de Desempenho performance-insights-settings"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/performance-insights/performance-insights-settings"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:20.590501+00:00"
+created_at: "2026-10-01T19:45:24.005559+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -7884,7 +7884,7 @@ title: "Configurações do agente agent-settings"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:01.457509+00:00"
+created_at: "2026-10-01T19:42:40.565888+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -7981,7 +7981,7 @@ title: "Confirmar entradas diretamente no calendário de marketing confirm-entri
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:28.067917+00:00"
+created_at: "2026-10-01T19:52:34.780829+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -8009,7 +8009,7 @@ title: "Conteúdo condicional conditional-content"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:13.261426+00:00"
+created_at: "2026-10-01T19:42:56.256277+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -8060,7 +8060,7 @@ title: "Conteúdo condicional"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/shorts/conditional-content"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:34:25.545906+00:00"
+created_at: "2026-10-01T19:40:47.244927+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -8093,7 +8093,7 @@ title: "Controlador/variante: análise champion-challenger-analytics"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:45:04.882561+00:00"
+created_at: "2026-10-01T19:53:19.430472+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -8132,7 +8132,7 @@ title: "Controlador/variante: definir critérios de um controlador champion-chal
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:45:00.170398+00:00"
+created_at: "2026-10-01T19:53:13.540811+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -8170,7 +8170,7 @@ title: "Controlador/variante: emails inteiros champion-challenger-whole-emails"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:51.971847+00:00"
+created_at: "2026-10-01T19:53:04.353046+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -8202,7 +8202,7 @@ title: "Controlador/variante: endereço de remetente champion-challenger-from-ad
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:53.568344+00:00"
+created_at: "2026-10-01T19:53:06.135909+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -8233,7 +8233,7 @@ title: "Controlador/variante: linha de assunto champion-challenger-subject-line"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:52.782375+00:00"
+created_at: "2026-10-01T19:53:05.131685+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -8264,7 +8264,7 @@ title: "Converter imagens em modelos HTML image-to-html"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/image-to-html"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:15.196976+00:00"
+created_at: "2026-10-01T19:46:28.109646+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -8388,7 +8388,7 @@ title: "Converter pessoa convert-person"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:41.207112+00:00"
+created_at: "2026-10-01T19:45:47.923242+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -8418,7 +8418,7 @@ title: "Convidar usuários invite-users"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/admin/invite-users"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:40.987744+00:00"
+created_at: "2026-10-01T19:48:11.951332+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -8448,7 +8448,7 @@ title: "Correspondência entre leads e contas lead-to-account-matching"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/target-account-management/target/named-accounts/lead-to-account-matching"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:34.050076+00:00"
+created_at: "2026-10-01T19:50:24.048992+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -8514,7 +8514,7 @@ title: "Corrigir problemas de sincronização de validação do Dynamics fix-dyn
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/fix-dynamics-validation-sync-issues"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:41.929219+00:00"
+created_at: "2026-10-01T19:50:33.887465+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -8600,7 +8600,7 @@ title: "Criar campanhas secundárias e ativos locais create-child-campaigns-and-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:19.408627+00:00"
+created_at: "2026-10-01T19:51:17.099431+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -8705,7 +8705,7 @@ title: "Criar, Deletar, Editar e Alterar uma Atribuição do Usuário create-del
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:20.458293+00:00"
+created_at: "2026-10-01T19:48:57.367609+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -8771,7 +8771,7 @@ title: "Criar e gerenciar caixas de diálogo personalizadas"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/dialogue-management"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:36:32.968768+00:00"
+created_at: "2026-10-01T19:43:19.161615+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -8808,7 +8808,7 @@ title: "Criar e medir um programa padrão"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:41:50.797402+00:00"
+created_at: "2026-10-01T19:49:33.743555+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -8839,7 +8839,7 @@ title: "Criar e usar um campo de string concatenada (fórmula) create-and-use-a-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:31.177911+00:00"
+created_at: "2026-10-01T19:44:26.417246+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -8878,7 +8878,7 @@ title: "Criar entradas diretamente no calendário de marketing create-entries-di
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:25.698460+00:00"
+created_at: "2026-10-01T19:52:31.778690+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -8915,7 +8915,7 @@ title: "Criar nova pasta do Campaign create-new-campaign-folder"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:57.219836+00:00"
+created_at: "2026-10-01T19:41:24.506100+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -8949,7 +8949,7 @@ title: "Criar objetos personalizados do Marketo create-marketo-custom-objects"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:33.307428+00:00"
+created_at: "2026-10-01T19:44:28.069688+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -9023,7 +9023,7 @@ title: "Criar seu evento de webinário no ON24 create-your-webinar-event-in-on"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:42.993935+00:00"
+created_at: "2026-10-01T19:44:40.329780+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -9063,7 +9063,7 @@ title: "Criar tags personalizadas create-custom-tags"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/tags/create-custom-tags"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:30.729120+00:00"
+created_at: "2026-10-01T19:45:35.741084+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -9106,7 +9106,7 @@ title: "Criar tarefa create-task"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:42.721405+00:00"
+created_at: "2026-10-01T19:45:49.804139+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -9154,7 +9154,7 @@ title: "Criar texto de mensagem no aplicativo create-in-app-message-text"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:30.705383+00:00"
+created_at: "2026-10-01T19:52:37.574931+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -9197,7 +9197,7 @@ title: "Criar tipos de entrada personalizados create-custom-entry-types"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:07.461839+00:00"
+created_at: "2026-10-01T19:49:52.985715+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -9232,7 +9232,7 @@ title: "Criar um arquivo de evento de calendário (.ics) create-a-calendar-event
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:08.350319+00:00"
+created_at: "2026-10-01T19:45:09.250399+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -9267,7 +9267,7 @@ title: "Criar um campo personalizado no Marketo create-a-custom-field-in-marketo
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:06.177430+00:00"
+created_at: "2026-10-01T19:41:35.403826+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -9305,7 +9305,7 @@ title: "Criar um campo personalizado para descoberta de CRM create-a-custom-fiel
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/target-account-management/setup/create-a-custom-field-for-crm-discovery"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:54.401316+00:00"
+created_at: "2026-10-01T19:48:28.004224+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -9337,7 +9337,7 @@ title: "Criar um canal de programa create-a-program-channel"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/tags/create-a-program-channel"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:59.106569+00:00"
+created_at: "2026-10-01T19:41:26.264413+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -9379,7 +9379,7 @@ title: "Criar um Contato em Microsoft Dynamics create-a-contact-in-microsoft-dyn
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/create-a-contact-in-microsoft-dynamics"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:56.952652+00:00"
+created_at: "2026-10-01T19:46:07.014904+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -9407,7 +9407,7 @@ title: "Criar um diálogo create-a-dialogue"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:21.639172+00:00"
+created_at: "2026-10-01T19:46:36.228002+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -9443,7 +9443,7 @@ title: "Criar um email create-an-email"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/create-an-email"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:04.143906+00:00"
+created_at: "2026-10-01T19:43:54.815647+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -9489,7 +9489,7 @@ title: "Criar um email para um programa de email create-an-email-for-an-email-pr
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:55.852750+00:00"
+created_at: "2026-10-01T19:43:45.408746+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -9525,7 +9525,7 @@ title: "Criar um email somente texto create-a-text-only-email"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:51.725028+00:00"
+created_at: "2026-10-01T19:51:54.619086+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -9565,7 +9565,7 @@ title: "Criar um Evento com GotoWebinar create-an-event-with-gotowebinar"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:43.781522+00:00"
+created_at: "2026-10-01T19:44:41.235320+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -9641,7 +9641,7 @@ title: "Criar um evento com o Adobe Connect create-an-event-with-adobe-connect"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:42.264478+00:00"
+created_at: "2026-10-01T19:44:39.508551+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -9684,7 +9684,7 @@ title: "Criar um evento com o Marketo ON24 Adapter create-an-event-with-the-mark
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-with-the-marketo-on24-adapter"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:18.817980+00:00"
+created_at: "2026-10-01T19:50:06.132451+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -9739,7 +9739,7 @@ title: "Criar um Evento com Webex create-an-event-with-webex"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:41.501431+00:00"
+created_at: "2026-10-01T19:44:38.381802+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -9825,7 +9825,7 @@ title: "Criar um Evento com Zoom create-an-event-with-zoom"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:44.552702+00:00"
+created_at: "2026-10-01T19:44:42.184484+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -9886,7 +9886,7 @@ title: "Criar um evento no Marketo create-an-event-in-marketo"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:16.974459+00:00"
+created_at: "2026-10-01T19:47:43.220349+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -9918,7 +9918,7 @@ title: "Criar um filtro de sincronização Dynamics personalizado create-a-custo
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynamics-sync-filter-details/create-a-custom-dynamics-sync-filter"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:15.157428+00:00"
+created_at: "2026-10-01T19:48:51.809808+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -10015,7 +10015,7 @@ title: "Criar um fluxo de conversa create-a-conversational-flow"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:03.011639+00:00"
+created_at: "2026-10-01T19:46:13.741888+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -10046,7 +10046,7 @@ title: "Criar um formulário create-a-form"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:01.962713+00:00"
+created_at: "2026-10-01T19:45:01.840594+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -10085,7 +10085,7 @@ title: "Criar um modelo de email create-an-email-template"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:33.329881+00:00"
+created_at: "2026-10-01T19:49:11.708065+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -10133,7 +10133,7 @@ title: "Criar um modelo de página de destino de forma livre create-a-free-form-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:41.121350+00:00"
+created_at: "2026-10-01T19:49:21.095153+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -10163,7 +10163,7 @@ title: "Criar um modelo de página de destino guiada create-a-guided-landing-pag
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:32.153456+00:00"
+created_at: "2026-10-01T19:48:00.914784+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -10336,7 +10336,7 @@ title: "Criar um novo espaço de trabalho create-a-new-workspace"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:22.623578+00:00"
+created_at: "2026-10-01T19:44:16.408366+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -10384,7 +10384,7 @@ title: "Criar um novo programa de email na visualização Cronograma creating-a-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:09.000497+00:00"
+created_at: "2026-10-01T19:49:54.752951+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -10415,7 +10415,7 @@ title: "Criar um novo programa de evento create-a-new-event-program"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:40.678276+00:00"
+created_at: "2026-10-01T19:44:37.506246+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -10453,7 +10453,7 @@ title: "Criar um programa create-a-program"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:06.833220+00:00"
+created_at: "2026-10-01T19:43:57.570011+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -10484,7 +10484,7 @@ title: "Criar um programa de email create-an-email-program"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:48.684861+00:00"
+created_at: "2026-10-01T19:43:36.696664+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -10518,7 +10518,7 @@ title: "Criar um programa de engajamento create-an-engagement-program"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:17.184297+00:00"
+created_at: "2026-10-01T19:44:09.891814+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -10546,7 +10546,7 @@ title: "Criar um Público-alvo Personalizado em Facebook create-a-custom-audienc
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:05.334575+00:00"
+created_at: "2026-10-01T19:41:34.527443+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -10583,7 +10583,7 @@ title: "Criar um relatório de desempenho do programa create-a-program-performan
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:30.584630+00:00"
+created_at: "2026-10-01T19:42:04.075006+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -10631,7 +10631,7 @@ title: "Criar um relatório em um programa create-a-report-in-a-program"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:13.356099+00:00"
+created_at: "2026-10-01T19:44:05.182627+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -10664,7 +10664,7 @@ title: "Criar um segmento básico da web create-a-basic-web-segment"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:01.531405+00:00"
+created_at: "2026-10-01T19:49:46.379378+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -10701,7 +10701,7 @@ title: "Criar um segmento usando dados de uma pessoa conhecida create-a-segment-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:10.447821+00:00"
+created_at: "2026-10-01T19:49:56.471872+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -10740,7 +10740,7 @@ title: "Criar um segmento usando uma lista de contas create-a-segment-using-an-a
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:37.443850+00:00"
+created_at: "2026-10-01T19:50:27.942528+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -10776,7 +10776,7 @@ title: "Criar um serviço personalizado para usar com a API REST create-a-custom
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:07.751616+00:00"
+created_at: "2026-10-01T19:52:12.795953+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -10828,7 +10828,7 @@ title: "Criar um snippet create-a-snippet"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:34.289506+00:00"
+created_at: "2026-10-01T19:42:07.642441+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -10862,7 +10862,7 @@ title: "Criar um teste A/B"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:44:21.612252+00:00"
+created_at: "2026-10-01T19:52:26.919293+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -10893,7 +10893,7 @@ title: "Criar um token de script de email create-an-email-script-token"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/using-tokens/create-an-email-script-token"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:10.511494+00:00"
+created_at: "2026-10-01T19:47:35.862672+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -10931,7 +10931,7 @@ title: "Criar um Webhook create-a-webhook"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:46.089713+00:00"
+created_at: "2026-10-01T19:41:11.003090+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -10965,7 +10965,7 @@ title: "Criar um webinário interativo create-an-interactive-webinar"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:38.733889+00:00"
+created_at: "2026-10-01T19:49:18.423668+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -11001,7 +11001,7 @@ title: "Criar um webinário interativo eficiente design-an-effective-interactive
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/events/design-an-effective-interactive-webinar"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:34:40.866664+00:00"
+created_at: "2026-10-01T19:41:04.740496+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -11032,7 +11032,7 @@ title: "Criar uma atividade personalizada create-a-custom-activity"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-custom-activities/create-a-custom-activity"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:59.020248+00:00"
+created_at: "2026-10-01T19:49:43.088214+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -11067,7 +11067,7 @@ title: "Criar uma campanha create-a-campaign"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/campaigns/create-a-campaign"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:54.671652+00:00"
+created_at: "2026-10-01T19:41:21.834608+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -11107,7 +11107,7 @@ title: "Criar uma Conta nomeada create-a-named-account"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/target-account-management/target/named-accounts/create-a-named-account"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:56.866799+00:00"
+created_at: "2026-10-01T19:48:30.951892+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -11136,7 +11136,7 @@ title: "Criar uma função de usuário somente de API create-an-api-only-user-ro
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:32.309202+00:00"
+created_at: "2026-10-01T19:52:39.572033+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -11173,7 +11173,7 @@ title: "Criar uma guia personalizada para a página Detalhes da pessoa creating-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:26.618372+00:00"
+created_at: "2026-10-01T19:47:54.256720+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -11203,7 +11203,7 @@ title: "Criar uma lista de permissões de acesso à API baseada em IP create-an-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:07.655350+00:00"
+created_at: "2026-10-01T19:51:03.986738+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -11237,7 +11237,7 @@ title: "Criar uma lista estática create-a-static-list"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:00.034015+00:00"
+created_at: "2026-10-01T19:45:00.106529+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -11265,7 +11265,7 @@ title: "Criar uma lista inteligente create-a-smart-list"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:26.387451+00:00"
+created_at: "2026-10-01T19:44:20.938794+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -11295,7 +11295,7 @@ title: "Criar uma mensagem de SMS create-an-sms-message"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:03.757665+00:00"
+created_at: "2026-10-01T19:45:03.777443+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -11339,7 +11339,7 @@ title: "Criar uma Mensagem no aplicativo create-an-in-app-message"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:23.362742+00:00"
+created_at: "2026-10-01T19:50:11.020826+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -11374,7 +11374,7 @@ title: "Criar uma notificação por push create-a-push-notification"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/push-notifications/create-a-push-notification"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:34.378728+00:00"
+created_at: "2026-10-01T19:48:04.678752+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -11404,7 +11404,7 @@ title: "Criar uma nova caixa de diálogo da campanha da web create-a-new-dialog-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:55.560534+00:00"
+created_at: "2026-10-01T19:41:22.841917+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -11520,7 +11520,7 @@ title: "Criar uma nova campanha da web do widget create-a-new-widget-web-campaig
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:40.769697+00:00"
+created_at: "2026-10-01T19:42:15.949263+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -11615,7 +11615,7 @@ title: "Criar uma nova campanha da Web na zona create-a-new-in-zone-web-campaign
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:39.973465+00:00"
+created_at: "2026-10-01T19:42:14.994720+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -11703,7 +11703,7 @@ title: "Criar uma nova campanha inteligente create-a-new-smart-campaign"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:58.062046+00:00"
+created_at: "2026-10-01T19:42:36.779085+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -11735,7 +11735,7 @@ title: "Criar uma nova lista de contas create-a-new-account-list"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:59.239155+00:00"
+created_at: "2026-10-01T19:48:33.716575+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -11784,7 +11784,7 @@ title: "Criar uma nova tag de programa e valores de tag create-a-new-program-tag
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/tags/create-a-new-program-tag-and-tag-values"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:47.693330+00:00"
+created_at: "2026-10-01T19:50:40.401746+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -11823,7 +11823,7 @@ title: "Criar uma partição de pessoa create-a-person-partition"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:24.061742+00:00"
+created_at: "2026-10-01T19:45:27.887207+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -11860,7 +11860,7 @@ title: "Criar uma página de destino de forma livre create-a-free-form-landing-p
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:53.865946+00:00"
+created_at: "2026-10-01T19:44:53.120463+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -11912,7 +11912,7 @@ title: "Criar uma página de destino guiada create-a-guided-landing-page"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:54.688846+00:00"
+created_at: "2026-10-01T19:44:53.898945+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -11968,7 +11968,7 @@ title: "Criar uma segmentação create-a-segmentation"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:33.235376+00:00"
+created_at: "2026-10-01T19:42:06.739679+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -11998,7 +11998,7 @@ title: "Criação de email email-authoring"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/email-authoring"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:08.016305+00:00"
+created_at: "2026-10-01T19:42:49.020274+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -12205,7 +12205,7 @@ title: "Criação de modelo de email email-template-authoring"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/email-template-authoring"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:08.954953+00:00"
+created_at: "2026-10-01T19:42:50.323128+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -12414,7 +12414,7 @@ title: "Criação de uma campanha inteligente em lote na visualização do crono
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:08.256353+00:00"
+created_at: "2026-10-01T19:49:53.856817+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -12448,7 +12448,7 @@ title: "Criação de uma entrada na visualização Cronograma do programa creati
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:49.445391+00:00"
+created_at: "2026-10-01T19:47:10.842587+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -12494,7 +12494,7 @@ title: "Criação de webinários interativos designing-interactive-webinars"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:39.619379+00:00"
+created_at: "2026-10-01T19:49:19.228903+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -12543,7 +12543,7 @@ title: "Crie um diagrama de fluxo de dados visual para entender sua pilha de tec
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/auditing-an-inherited-instance/create-a-visual-data-flow-diagram"
 category: "tutorials"
 topic: "marketo-engage/tutorial-dicas-e-truques-para-auditar-uma-instância-herdada-do-marketo-engage"
-created_at: "2026-10-01T15:43:45.913638+00:00"
+created_at: "2026-10-01T19:51:47.657659+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutorial - Dicas e truques para auditar uma instância herdada do Marketo Engage
 
@@ -12620,7 +12620,7 @@ title: "Critérios de público-alvo audience-criteria"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:01.400168+00:00"
+created_at: "2026-10-01T19:46:11.694865+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -12713,7 +12713,7 @@ title: "CT-MM-AAAA-Conteúdo de página de destino não gerenciado pelo Marketo 
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:58.673311+00:00"
+created_at: "2026-10-01T19:50:53.548941+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -12815,7 +12815,7 @@ title: "CT-MM-AAAA-Conteúdo na página de destino do Marketo ct-yyyy-mm-content
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-on-marketo-landing-page"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:57.740154+00:00"
+created_at: "2026-10-01T19:50:52.571480+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -12938,7 +12938,7 @@ title: "Definir a moeda padrão set-default-currency"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/settings/set-default-currency"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:43.497378+00:00"
+created_at: "2026-10-01T19:45:50.752630+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -12969,7 +12969,7 @@ title: "Definir cadência dos fluxos set-stream-cadence"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:21.057792+00:00"
+created_at: "2026-10-01T19:44:14.585260+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -13022,7 +13022,7 @@ title: "Definir como a campanha da web será exibida set-how-your-web-campaign-d
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:09.073319+00:00"
+created_at: "2026-10-01T19:44:00.429587+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -13079,7 +13079,7 @@ title: "Definir configurações de evento e sincronizar o Marketo com seu webin�
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:18.095353+00:00"
+created_at: "2026-10-01T19:50:05.135354+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -13121,7 +13121,7 @@ title: "Definir filtros de lista inteligente define-smart-list-filters"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:45.323166+00:00"
+created_at: "2026-10-01T19:44:43.094671+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -13160,7 +13160,7 @@ title: "Definir lista inteligente para campanha inteligente | Acionável define-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:39.223284+00:00"
+created_at: "2026-10-01T19:42:13.903482+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -13195,7 +13195,7 @@ title: "Definir lista inteligente para campanha inteligente | Lote define-smart-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:34.723940+00:00"
+created_at: "2026-10-01T19:45:40.670559+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -13226,7 +13226,7 @@ title: "Definir o público-alvo da mensagem no aplicativo set-your-in-app-messag
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:56.776839+00:00"
+created_at: "2026-10-01T19:52:00.072580+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -13261,7 +13261,7 @@ title: "Definir os critérios do vencedor do teste A/B define-the-a-b-test-winne
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:43.829225+00:00"
+created_at: "2026-10-01T19:47:04.078799+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -13304,7 +13304,7 @@ title: "Definir regras de segmento define-segment-rules"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:28.116586+00:00"
+created_at: "2026-10-01T19:45:32.413229+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -13348,7 +13348,7 @@ title: "Definir sobrenome da pessoa e nome da empresa padrão set-default-person
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:04.364634+00:00"
+created_at: "2026-10-01T19:48:39.646462+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -13378,7 +13378,7 @@ title: "Definir um campo de formulário como oculto set-a-form-field-as-hidden"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:08.517678+00:00"
+created_at: "2026-10-01T19:52:13.661823+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -13410,7 +13410,7 @@ title: "Definir um formulário da página de agradecimento set-a-form-thank-you-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:39.854747+00:00"
+created_at: "2026-10-01T19:46:59.077210+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -13480,7 +13480,7 @@ title: "Definir um prefixo de campo personalizado padrão set-a-default-custom-f
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynamics-sync-filter-details/set-a-default-custom-field-prefix"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:42.643561+00:00"
+created_at: "2026-10-01T19:50:34.806555+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -13512,7 +13512,7 @@ title: "Definir um público-alvo com uma lista inteligente define-an-audience-wi
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:53.330164+00:00"
+created_at: "2026-10-01T19:43:42.633879+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -13566,7 +13566,7 @@ title: "Definir um público-alvo importando uma lista define-an-audience-by-impo
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:54.362647+00:00"
+created_at: "2026-10-01T19:43:43.562940+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -13624,7 +13624,7 @@ title: "Definir um valor de campo de formulário oculto set-a-hidden-form-field-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:09.277274+00:00"
+created_at: "2026-10-01T19:52:14.480502+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -13689,7 +13689,7 @@ title: "Definir uma página substituta set-a-fallback-page"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/settings/set-a-fallback-page"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:53.718695+00:00"
+created_at: "2026-10-01T19:51:56.564559+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -13720,7 +13720,7 @@ title: "Desabilitar preenchimento prévio de um campo de formulário disable-pre
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:58.565228+00:00"
+created_at: "2026-10-01T19:53:11.608434+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -13761,7 +13761,7 @@ title: "Descobrir contas discover-accounts"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/target-account-management/target/named-accounts/discover-accounts"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:55.893988+00:00"
+created_at: "2026-10-01T19:48:29.988347+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -13822,7 +13822,7 @@ title: "Descrições de permissões de função descriptions-of-role-permissions
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/descriptions-of-role-permissions"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:21.481797+00:00"
+created_at: "2026-10-01T19:48:58.315453+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -13999,7 +13999,7 @@ title: "Desenvolver um guia de governança de instância com a documentação"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide"
 category: "tutorials"
 topic: "marketo-engage/tutorial-dicas-e-truques-para-auditar-uma-instância-herdada-do-marketo-engage"
-created_at: "2026-10-01T15:41:55.531768+00:00"
+created_at: "2026-10-01T19:49:39.038819+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutorial - Dicas e truques para auditar uma instância herdada do Marketo Engage
 
@@ -14108,7 +14108,7 @@ title: "Designer de fluxo stream-designer"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:18.658051+00:00"
+created_at: "2026-10-01T19:43:01.565981+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -14217,7 +14217,7 @@ title: "Detalhar um relatório de desempenho de pessoas drill-down-in-a-people-p
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:14.700914+00:00"
+created_at: "2026-10-01T19:45:16.836026+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -14248,7 +14248,7 @@ title: "Detalhes da alteração na trilha de auditoria change-details-in-audit-t
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/audit-trail/change-details-in-audit-trail"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:48.217031+00:00"
+created_at: "2026-10-01T19:51:50.657128+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -14768,7 +14768,7 @@ title: "Detalhes de acesso do usuário user-access-details"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/admin/user-access-details"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:43.618805+00:00"
+created_at: "2026-10-01T19:48:15.006018+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -14814,7 +14814,7 @@ title: "Dicas e truques para auditar uma instância herdada do Marketo Engage - 
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/auditing-an-inherited-instance/overview"
 category: "tutorials"
 topic: "marketo-engage/tutorial-dicas-e-truques-para-auditar-uma-instância-herdada-do-marketo-engage"
-created_at: "2026-10-01T15:43:06.065701+00:00"
+created_at: "2026-10-01T19:51:01.681967+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutorial - Dicas e truques para auditar uma instância herdada do Marketo Engage
 
@@ -14855,7 +14855,7 @@ title: "Diferenças entre páginas de destino de forma livre e guiadas understan
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:19.764970+00:00"
+created_at: "2026-10-01T19:41:51.898208+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -14894,7 +14894,7 @@ title: "Documentação do desenvolvedor do Marketo Engage"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home"
 category: "overview"
 topic: "home"
-created_at: "2026-10-01T15:34:41.726359+00:00"
+created_at: "2026-10-01T19:41:05.807256+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Marketo
 
@@ -14932,7 +14932,7 @@ title: "Documentos de produto do Marketo Engage"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/home?lang=pt-BR"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:30.106839+00:00"
+created_at: "2026-10-01T19:46:46.949588+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -14978,7 +14978,7 @@ title: "Documentos de produto do Marketo Engage"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:26.081628+00:00"
+created_at: "2026-10-01T19:49:03.578375+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -15024,7 +15024,7 @@ title: "Documentos de produto do Marketo Engage"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/home"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:21.694374+00:00"
+created_at: "2026-10-01T19:40:42.868936+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -15070,7 +15070,7 @@ title: "Download da solução de gerenciamento de leads do Marketo download-the-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/download-the-marketo-lead-management-solution"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:13.536720+00:00"
+created_at: "2026-10-01T19:48:49.806487+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -15110,7 +15110,7 @@ title: "Dynamic Chat atividades dynamic-chat-activities"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:06.277173+00:00"
+created_at: "2026-10-01T19:46:17.396808+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -15159,7 +15159,7 @@ title: "Dynamic Chat Visão geral dynamic-chat-overview"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:35.338483+00:00"
+created_at: "2026-10-01T19:40:58.669475+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -15266,7 +15266,7 @@ title: "Editando Campos para Sincronização Antes de Excluí-los em Dynamics ed
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/editing-fields-to-sync-before-deleting-them-in-dynamics"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:12.829110+00:00"
+created_at: "2026-10-01T19:48:48.973713+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -15307,7 +15307,7 @@ title: "Editar a mensagem de cancelamento de inscrição edit-the-unsubscribe-me
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/email-setup/edit-the-unsubscribe-message"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:37.104408+00:00"
+created_at: "2026-10-01T19:52:45.535779+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -15351,7 +15351,7 @@ title: "Editar as configurações de suporte “Não rastrear” do navegador ed
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/settings/edit-do-not-track-browser-support-settings"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:38.690005+00:00"
+created_at: "2026-10-01T19:52:47.699156+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -15386,7 +15386,7 @@ title: "Editar configurações da página de destino edit-landing-page-settings"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/settings/edit-landing-page-settings"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:11.785573+00:00"
+created_at: "2026-10-01T19:51:08.981770+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -15419,7 +15419,7 @@ title: "Editar conteúdo preditivo da barra de recomendação edit-predictive-co
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:08.083714+00:00"
+created_at: "2026-10-01T19:47:32.962092+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -15452,7 +15452,7 @@ title: "Editar conteúdo preditivo para emails edit-predictive-content-for-email
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:06.369468+00:00"
+created_at: "2026-10-01T19:47:31.103797+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -15491,7 +15491,7 @@ title: "Editar conteúdo preditivo para mídia avançada edit-predictive-content
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:07.286684+00:00"
+created_at: "2026-10-01T19:47:32.074459+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -15527,7 +15527,7 @@ title: "Editar disponibilidade de conteúdo de fluxo edit-availability-of-stream
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:18.758863+00:00"
+created_at: "2026-10-01T19:44:11.645821+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -15555,7 +15555,7 @@ title: "Editar e excluir campos de objeto personalizado do Marketo edit-and-dele
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:36.386608+00:00"
+created_at: "2026-10-01T19:44:32.088000+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -15597,7 +15597,7 @@ title: "Editar e excluir um objeto personalizado do Marketo edit-and-delete-a-ma
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:34.849968+00:00"
+created_at: "2026-10-01T19:44:29.914566+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -15647,7 +15647,7 @@ title: "Editar elementos em um email edit-elements-in-an-email"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:42.228448+00:00"
+created_at: "2026-10-01T19:47:02.409630+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -15698,7 +15698,7 @@ title: "Editar entradas diretamente no calendário de marketing edit-entries-dir
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:26.445083+00:00"
+created_at: "2026-10-01T19:52:32.722065+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -15752,7 +15752,7 @@ title: "Editar expiração de link em relatórios e alertas edit-link-expiration
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:54.493098+00:00"
+created_at: "2026-10-01T19:51:57.480031+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -15789,7 +15789,7 @@ title: "Editar HTML de um email edit-an-emails-html"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:09.706952+00:00"
+created_at: "2026-10-01T19:49:55.608336+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -15846,7 +15846,7 @@ title: "Editar imagens com o Adobe Express edit-images-with-adobe-express"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/edit-images-adobe-express"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:11.666819+00:00"
+created_at: "2026-10-01T19:46:24.307905+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -15983,7 +15983,7 @@ title: "Editar mapeamentos de campo iniciais edit-initial-field-mappings"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:08.612773+00:00"
+created_at: "2026-10-01T19:48:44.582372+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16033,7 +16033,7 @@ title: "Editar modelos de email com o editor avançado do HTML advanced-html-mod
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/advanced-html-mode"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:15.947277+00:00"
+created_at: "2026-10-01T19:46:29.209614+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16084,7 +16084,7 @@ title: "Editar o cabeçalho do email edit-your-email-header"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/edit-your-email-header"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:48.741835+00:00"
+created_at: "2026-10-01T19:47:09.760910+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16131,7 +16131,7 @@ title: "Editar o CSS de um tema de formulário edit-the-css-of-a-form-theme"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:24.998805+00:00"
+created_at: "2026-10-01T19:50:13.091332+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16169,7 +16169,7 @@ title: "Editar regras de qualificação em uma campanha inteligente edit-qualifi
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:31.391668+00:00"
+created_at: "2026-10-01T19:42:04.973636+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16196,7 +16196,7 @@ title: "Editar seu domínio de marca padrão edit-your-default-branding-domain"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:34.022948+00:00"
+created_at: "2026-10-01T19:51:34.989739+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16235,7 +16235,7 @@ title: "Editar título e metadados da página de destino edit-landing-page-title
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-actions/edit-landing-page-title-and-metadata"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:13.265588+00:00"
+created_at: "2026-10-01T19:52:19.189680+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16264,7 +16264,7 @@ title: "Editar um canal de evento edit-an-event-channel"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/understanding-events/edit-an-event-channel"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:16.219910+00:00"
+created_at: "2026-10-01T19:47:42.219000+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16315,7 +16315,7 @@ title: "Editar um espaço de trabalho edit-a-workspace"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:33.123705+00:00"
+created_at: "2026-10-01T19:52:40.546494+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16354,7 +16354,7 @@ title: "Editar um formulário edit-a-form"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/forms/form-actions/edit-a-form"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:57.777916+00:00"
+created_at: "2026-10-01T19:53:10.694164+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16381,7 +16381,7 @@ title: "Editar um modelo de página de destino do Marketo edit-a-marketo-landing
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:11.593854+00:00"
+created_at: "2026-10-01T19:52:17.249653+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16409,7 +16409,7 @@ title: "Editar uma assinatura de lista inteligente edit-a-smart-list-subscriptio
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:41.849605+00:00"
+created_at: "2026-10-01T19:49:22.016649+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16447,7 +16447,7 @@ title: "Editar uma partição de pessoa existente edit-an-existing-person-partit
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:33.910326+00:00"
+created_at: "2026-10-01T19:52:41.482228+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16482,7 +16482,7 @@ title: "Edite a mensagem “Exibir como página da Web” edit-the-view-as-web-p
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/email-setup/edit-the-view-as-web-page-message"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:28.833992+00:00"
+created_at: "2026-10-01T19:50:18.360242+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16533,7 +16533,7 @@ title: "EM-DD-MM-AAAA-Envio de email único em-yyyy-mm-dd-single-email-send"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/em-yyyy-mm-dd-single-email-send"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:51.893998+00:00"
+created_at: "2026-10-01T19:50:45.401862+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16621,7 +16621,7 @@ title: "Email de relatório, desempenho de campanha em espaços de trabalho repo
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:48.890347+00:00"
+created_at: "2026-10-01T19:49:31.662251+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16651,7 +16651,7 @@ title: "Emitir ou Revogar uma Licença de Calendário de Marketing issue-revoke-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:25.236806+00:00"
+created_at: "2026-10-01T19:49:02.762640+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16682,7 +16682,7 @@ title: "Emitir uma licença issue-a-license"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/target-account-management/setup/issue-a-license"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:52.664285+00:00"
+created_at: "2026-10-01T19:48:26.128892+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16712,7 +16712,7 @@ title: "Encaminhar para Sales Connect push-to-sales-connect"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:27.423398+00:00"
+created_at: "2026-10-01T19:51:27.347379+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16752,7 +16752,7 @@ title: "Entender e ativar o foco do programa understand-enable-program-focus"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:52.875977+00:00"
+created_at: "2026-10-01T19:51:55.549482+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16789,7 +16789,7 @@ title: "Entre no ar com o Dynamic Chat em apenas 15 minutos!"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/go-live-in-15-minutes"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:36:28.791222+00:00"
+created_at: "2026-10-01T19:43:14.545632+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -16822,7 +16822,7 @@ title: "Enviar alerta send-alert"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:51.470692+00:00"
+created_at: "2026-10-01T19:41:17.607077+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16853,7 +16853,7 @@ title: "Enviar código do SDK para um desenvolvedor send-sdk-code-to-a-developer
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:20.617888+00:00"
+created_at: "2026-10-01T19:50:07.979002+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16892,7 +16892,7 @@ title: "Enviar email de exemplo send-a-sample-email"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/send-a-sample-email"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:32.423879+00:00"
+created_at: "2026-10-01T19:42:05.902411+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16945,7 +16945,7 @@ title: "Enviar sua mensagem no aplicativo send-your-in-app-message"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:24.309298+00:00"
+created_at: "2026-10-01T19:51:23.184567+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -16978,7 +16978,7 @@ title: "Enviar um email send-an-email"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/quick-wins/send-an-email"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:48.397785+00:00"
+created_at: "2026-10-01T19:41:13.696051+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -17039,7 +17039,7 @@ title: "Enviar uma notificação por push para dispositivos móveis send-a-mobil
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:35.213644+00:00"
+created_at: "2026-10-01T19:48:05.472477+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -17076,7 +17076,7 @@ title: "Escolha um layout para a mensagem no aplicativo choose-a-layout-for-your
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:25.001203+00:00"
+created_at: "2026-10-01T19:51:24.282113+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -17131,7 +17131,7 @@ title: "Escolher um email existente choose-an-existing-email"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:55.133943+00:00"
+created_at: "2026-10-01T19:43:44.544278+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -17175,7 +17175,7 @@ title: "Estímulo gota a gota drip-drip-nurture"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/quick-wins/drip-drip-nurture"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:37.417975+00:00"
+created_at: "2026-10-01T19:44:32.968697+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -17255,7 +17255,7 @@ title: "Etapa 1 de 3: Adicionar Campos do Marketo a Salesforce (Empresarial/Ilim
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:53.015194+00:00"
+created_at: "2026-10-01T19:46:02.075665+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -17401,7 +17401,7 @@ title: "Etapa 1 de 3: Adicionar campos do Marketo ao Salesforce (Professional) s
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:39.243670+00:00"
+created_at: "2026-10-01T19:50:29.861952+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -17531,7 +17531,7 @@ title: "Etapa 1 de 3: Instalar a solução da Marketo com conexão de servidor a
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:32.359270+00:00"
+created_at: "2026-10-01T19:51:32.764702+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -17575,7 +17575,7 @@ title: "Etapa 1 de 4: instalar a solução Marketo com a conexão de controle de
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:57.785015+00:00"
+created_at: "2026-10-01T19:46:08.023523+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -17621,7 +17621,7 @@ title: "Etapa 2 de 3: Configurar a solução da Marketo com conexão de servidor
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:41.126319+00:00"
+created_at: "2026-10-01T19:50:32.483943+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -17689,7 +17689,7 @@ title: "Etapa 2 de 3: Criar um Usuário Salesforce para Marketo (Enterprise/Unli
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:50.564879+00:00"
+created_at: "2026-10-01T19:42:27.808585+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -17761,7 +17761,7 @@ title: "Etapa 2 de 3: Criar um Usuário Salesforce para o Marketo (Professional)
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:06.814678+00:00"
+created_at: "2026-10-01T19:48:42.767187+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -17817,7 +17817,7 @@ title: "Etapa 2 de 4: Configurar a Solução da Marketo com a Conexão de Contro
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:56.330924+00:00"
+created_at: "2026-10-01T19:42:34.863774+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -17886,7 +17886,7 @@ title: "Etapa 3 de 3: Conectar a solução da Marketo com conexão de servidor a
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:33.195670+00:00"
+created_at: "2026-10-01T19:51:33.852240+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -17957,7 +17957,7 @@ title: "Etapa 3 de 3: Conectar o Marketo e o Salesforce (Professional) step-of-c
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:39.993780+00:00"
+created_at: "2026-10-01T19:50:31.418394+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -18017,7 +18017,7 @@ title: "Etapa 3 de 3: Conectar o Marketo e Salesforce (Empresa/Ilimitado) step-o
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:53.866817+00:00"
+created_at: "2026-10-01T19:46:03.103289+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -18079,7 +18079,7 @@ title: "Etapa 3 de 4: Configurar o Aplicativo Cliente no MS Dynamics step-3-of-4
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:59.358595+00:00"
+created_at: "2026-10-01T19:46:09.839515+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -18128,7 +18128,7 @@ title: "Etapa 4 de 4: Conectar a solução Marketo com a conexão de controle de
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:56.189332+00:00"
+created_at: "2026-10-01T19:46:05.835324+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -18198,7 +18198,7 @@ title: "Etapas de configuração setup-steps"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/initial-setup/setup-steps"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:28.873039+00:00"
+created_at: "2026-10-01T19:40:50.933794+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -18433,7 +18433,7 @@ title: "EV-DD-MM-AAAA-Programa de evento ev-yyyy-mm-dd-event-program"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/ev-yyyy-mm-dd-event-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:54.416496+00:00"
+created_at: "2026-10-01T19:50:48.648486+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -18629,7 +18629,7 @@ title: "Evitar o envio de conteúdo duplicado avoid-sending-duplicate-content"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/using-engagement-programs/avoid-sending-duplicate-content"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:19.325105+00:00"
+created_at: "2026-10-01T19:52:24.461084+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -18685,7 +18685,7 @@ title: "Excluir entradas diretamente no calendário de marketing delete-entries-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:27.192123+00:00"
+created_at: "2026-10-01T19:52:33.983903+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -18717,7 +18717,7 @@ title: "Excluir um canal de programa delete-a-program-channel"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/tags/delete-a-program-channel"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:56.914440+00:00"
+created_at: "2026-10-01T19:53:09.717792+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -18749,7 +18749,7 @@ title: "Excluir um lead ou contato deleting-a-lead-or-contact"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/deleting-a-lead-or-contact"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:54.673968+00:00"
+created_at: "2026-10-01T19:46:04.030975+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -18778,7 +18778,7 @@ title: "Excluir um relatório delete-a-report"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/delete-a-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:16.424558+00:00"
+created_at: "2026-10-01T19:45:18.846189+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -18805,7 +18805,7 @@ title: "Excluir um status de programa de um canal de programa delete-a-program-s
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/tags/delete-a-program-status-from-a-program-channel"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:45:02.517865+00:00"
+created_at: "2026-10-01T19:53:16.436919+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -18836,7 +18836,7 @@ title: "Executar campanha execute-campaign"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:05.237838+00:00"
+created_at: "2026-10-01T19:51:00.923080+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -18933,7 +18933,7 @@ title: "Executar novamente uma campanha inteligente na visualização Cronograma
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:10.960146+00:00"
+created_at: "2026-10-01T19:51:08.016038+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -18964,7 +18964,7 @@ title: "Executar uma única etapa de fluxo de uma lista inteligente run-a-single
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:16.683680+00:00"
+created_at: "2026-10-01T19:41:48.203781+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -19002,7 +19002,7 @@ title: "Exemplo de integração de evento do ON24 example-on-event-integration"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:20.984507+00:00"
+created_at: "2026-10-01T19:51:18.986254+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -19070,7 +19070,7 @@ title: "Exibir a lista de campanhas como outro usuário view-campaigns-list-as-a
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:28.085035+00:00"
+created_at: "2026-10-01T19:50:17.183037+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -19100,7 +19100,7 @@ title: "Exibir a lista de modelos como outro usuário view-template-list-as-anot
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:27.366924+00:00"
+created_at: "2026-10-01T19:50:16.065573+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -19130,7 +19130,7 @@ title: "Exibir o URL de serviço da organização view-the-organization-service-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/view-the-organization-service-url"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:10.357527+00:00"
+created_at: "2026-10-01T19:48:46.373235+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -19160,7 +19160,7 @@ title: "Exibir pessoas ou visitantes anônimos em relatórios da web display-peo
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:24.130527+00:00"
+created_at: "2026-10-01T19:44:18.377761+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -19193,7 +19193,7 @@ title: "Exibição de detalhes da pessoa person-detail-view"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/people/person-detail-view"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:05.247701+00:00"
+created_at: "2026-10-01T19:45:05.752136+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -19290,7 +19290,7 @@ title: "Exportar os dados “Usado por” de um campo export-used-by-data-for-a-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/field-management/export-used-by-data-for-a-field"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:36.313670+00:00"
+created_at: "2026-10-01T19:52:44.463399+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -19322,7 +19322,7 @@ title: "Exportar um relatório para Excel export-a-report-to-excel"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:56.851021+00:00"
+created_at: "2026-10-01T19:47:19.508952+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -19350,7 +19350,7 @@ title: "Exportar uma lista de todos os nomes de campos da API do Marketo export-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:35.573011+00:00"
+created_at: "2026-10-01T19:52:43.462426+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -19384,7 +19384,7 @@ title: "Fazer a transição de pessoas entre fluxos de engajamento transition-pe
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:59.316905+00:00"
+created_at: "2026-10-01T19:53:12.618803+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -19414,7 +19414,7 @@ title: "Fazer logon usando OAuth 2.0 log-in-using-oauth-2-0"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:07.707039+00:00"
+created_at: "2026-10-01T19:48:43.827222+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -19488,7 +19488,7 @@ title: "Fazer o check-in de pessoas no evento pelo tablet check-people-into-your
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:39.821561+00:00"
+created_at: "2026-10-01T19:44:36.263417+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -19590,7 +19590,7 @@ title: "Fazer referência a uma lista ou lista inteligente em espaços de trabal
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:22.514963+00:00"
+created_at: "2026-10-01T19:45:26.262620+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -19627,7 +19627,7 @@ title: "Fazer um teste A/B em sua campanha da web ab-test-your-web-campaign"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:35.490141+00:00"
+created_at: "2026-10-01T19:45:41.810255+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -19680,7 +19680,7 @@ title: "Fazer upload de imagens e arquivos do Box upload-images-and-files-from-b
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:20.195145+00:00"
+created_at: "2026-10-01T19:46:34.135979+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -19714,7 +19714,7 @@ title: "Filtragem da atividade do bot de email filtering-email-bot-activity"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/email-setup/filtering-email-bot-activity"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:50.007659+00:00"
+created_at: "2026-10-01T19:49:32.837310+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -19826,7 +19826,7 @@ title: "Filtragem na trilha de auditoria filtering-in-audit-trail"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/audit-trail/filtering-in-audit-trail"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:49.728803+00:00"
+created_at: "2026-10-01T19:51:52.467966+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -19859,7 +19859,7 @@ title: "Filtrar ativos em relatórios de email de campanha filter-assets-in-a-ca
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:16.443631+00:00"
+created_at: "2026-10-01T19:44:09.039002+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -19891,7 +19891,7 @@ title: "Filtrar ativos em um relatório de email filter-assets-in-an-email-repor
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:00.910709+00:00"
+created_at: "2026-10-01T19:47:24.619240+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -19925,7 +19925,7 @@ title: "Filtrar campanhas da web filter-web-campaigns"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:11.719234+00:00"
+created_at: "2026-10-01T19:44:03.176287+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -19954,7 +19954,7 @@ title: "Filtrar o calendário de marketing filtering-the-marketing-calendar"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:17.360353+00:00"
+created_at: "2026-10-01T19:50:04.196447+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -19985,7 +19985,7 @@ title: "Filtrar pessoas em um relatório com uma lista inteligente filter-people
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:15.534090+00:00"
+created_at: "2026-10-01T19:45:17.800069+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -20026,7 +20026,7 @@ title: "Filtrar registros excluídos/mesclados em um relatório de desempenho de
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-email-performance-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:50.982463+00:00"
+created_at: "2026-10-01T19:47:12.676838+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -20059,7 +20059,7 @@ title: "Filtrar tipos de atividade no log de atividades de uma pessoa filter-act
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:50.198252+00:00"
+created_at: "2026-10-01T19:47:11.730207+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -20103,7 +20103,7 @@ title: "Filtrar um relatório de atividades de campanha filter-a-campaign-activi
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:53.123080+00:00"
+created_at: "2026-10-01T19:49:36.261014+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -20136,7 +20136,7 @@ title: "Filtrar um relatório de desempenho de página de destino filter-a-landi
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:51.525927+00:00"
+created_at: "2026-10-01T19:49:34.618612+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -20166,7 +20166,7 @@ title: "Filtrar um relatório de programa por custo do período filter-a-program
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:17.938905+00:00"
+created_at: "2026-10-01T19:45:20.641030+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -20198,7 +20198,7 @@ title: "Filtrar um relatório de programa por programa filter-a-program-report-b
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:47.542143+00:00"
+created_at: "2026-10-01T19:48:20.377235+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -20230,7 +20230,7 @@ title: "Filtrar um relatório de programa por tag filter-a-program-report-by-tag
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:29.560848+00:00"
+created_at: "2026-10-01T19:50:19.338940+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -20263,7 +20263,7 @@ title: "Filtro de Sincronização do Dynamics Microsoft: Mesclar microsoft-dynam
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynamics-sync-filter-details/microsoft-dynamics-sync-filter-merge"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:44.914224+00:00"
+created_at: "2026-10-01T19:50:37.532386+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -20308,7 +20308,7 @@ title: "Filtro de Sincronização Microsoft Dynamics: Qualificar microsoft-dynam
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynamics-sync-filter-details/microsoft-dynamics-sync-filter-qualify"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:44.108892+00:00"
+created_at: "2026-10-01T19:50:36.486204+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -20351,7 +20351,7 @@ title: "Fluxos reutilizáveis"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/reusable-flows"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:36:38.864868+00:00"
+created_at: "2026-10-01T19:43:25.460817+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -20382,7 +20382,7 @@ title: "Formulários de conversação"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/conversational-forms"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:34:27.239314+00:00"
+created_at: "2026-10-01T19:40:48.865423+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -20415,7 +20415,7 @@ title: "Fragmentos personalizáveis customizable-fragments"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:09.161291+00:00"
+created_at: "2026-10-01T19:46:21.140764+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -20635,7 +20635,7 @@ title: "Fragmentos"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/fragments"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:09.817328+00:00"
+created_at: "2026-10-01T19:42:51.400104+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -20886,7 +20886,7 @@ title: "Funções de retorno de chamada callback-functions"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:21.365817+00:00"
+created_at: "2026-10-01T19:43:05.099638+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -21173,7 +21173,7 @@ title: "Gerar conteúdo no Designer de email generate-content"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/generate-content"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:09.945277+00:00"
+created_at: "2026-10-01T19:46:22.107445+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -21290,7 +21290,7 @@ title: "Geração de perguntas question-generation"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:04.114404+00:00"
+created_at: "2026-10-01T19:46:14.674220+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -21342,7 +21342,7 @@ title: "Gerenciamento de agentes agent-management"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:17.059455+00:00"
+created_at: "2026-10-01T19:42:59.814912+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -21413,7 +21413,7 @@ title: "Gerenciamento de agentes"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/agent-management"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:36:32.250802+00:00"
+created_at: "2026-10-01T19:43:18.310935+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -21444,7 +21444,7 @@ title: "Gerenciamento de Conta de Destino target-account-management-overview"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:37.360763+00:00"
+created_at: "2026-10-01T19:42:11.781056+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -21514,7 +21514,7 @@ title: "Gerenciamento de funções e permissões de usuário managing-user-roles
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:22.378160+00:00"
+created_at: "2026-10-01T19:46:37.335484+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -21592,7 +21592,7 @@ title: "Gerenciamento de privacidade privacy-management"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:10.168449+00:00"
+created_at: "2026-10-01T19:52:15.536537+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -21633,7 +21633,7 @@ title: "Gerenciamento de usuários e licenças user-and-license-management"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/user-and-license-management"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:26.930674+00:00"
+created_at: "2026-10-01T19:49:04.467765+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -21711,7 +21711,7 @@ title: "Gerenciamento de valores de tag managing-tag-values"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/tags/managing-tag-values"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:24.458594+00:00"
+created_at: "2026-10-01T19:49:01.944771+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -21765,7 +21765,7 @@ title: "Gerenciar assinaturas de relatório manage-report-subscriptions"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:03.613877+00:00"
+created_at: "2026-10-01T19:48:38.679043+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -21795,7 +21795,7 @@ title: "Gerenciar dados de pessoa manage-person-data"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/using-web-segments/manage-person-data"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:54.103482+00:00"
+created_at: "2026-10-01T19:47:16.443859+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -21861,7 +21861,7 @@ title: "Gerenciar e exibir membros manage-and-view-members"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:02.328953+00:00"
+created_at: "2026-10-01T19:49:47.509913+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -21925,7 +21925,7 @@ title: "Gerenciar meus tokens managing-my-tokens"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:24.939324+00:00"
+created_at: "2026-10-01T19:41:57.650347+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -21984,7 +21984,7 @@ title: "Globalização de conteúdo estático"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/globalization-of-static-content"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:36:37.018769+00:00"
+created_at: "2026-10-01T19:43:23.860148+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -22021,7 +22021,7 @@ title: "Glossário de operadores de filtro de lista inteligente smart-list-filte
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:30.425810+00:00"
+created_at: "2026-10-01T19:44:25.566734+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -22173,7 +22173,7 @@ title: "Glossário de tipos de campos personalizados custom-field-type-glossary"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:06.908570+00:00"
+created_at: "2026-10-01T19:41:36.413122+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -22317,7 +22317,7 @@ title: "Glossário de tokens do sistema system-tokens-glossary"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/using-tokens/system-tokens-glossary"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:33.967839+00:00"
+created_at: "2026-10-01T19:45:39.864371+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -22392,7 +22392,7 @@ title: "Glossário do Marketo Engage marketo-engage-glossary"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/things-to-know/marketo-engage-glossary"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:31.968007+00:00"
+created_at: "2026-10-01T19:40:54.601721+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -23387,7 +23387,7 @@ title: "Grupos de teste de páginas de destino landing-page-test-groups"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:02.991420+00:00"
+created_at: "2026-10-01T19:45:02.654693+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -23419,7 +23419,7 @@ title: "Guia Configuração Marketo Sales Insight em Salesforce marketo-sales-in
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:28.585531+00:00"
+created_at: "2026-10-01T19:49:06.371401+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -23493,7 +23493,7 @@ title: "Guia de configuração de admin do recurso Ações de insight de vendas 
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:27.765385+00:00"
+created_at: "2026-10-01T19:49:05.400155+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -23607,7 +23607,7 @@ title: "Guia de Introdução para Sales Connect Administradores getting-started-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:07.561032+00:00"
+created_at: "2026-10-01T19:45:08.398610+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -23671,7 +23671,7 @@ title: "Habilitar a barra de recomendação de conteúdo enable-the-content-reco
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:27.983433+00:00"
+created_at: "2026-10-01T19:44:22.709814+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -23715,7 +23715,7 @@ title: "Habilitar conteúdo preditivo em emails enable-predictive-content-in-ema
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:15.212963+00:00"
+created_at: "2026-10-01T19:50:02.310820+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -23777,7 +23777,7 @@ title: "Habilitar conteúdo preditivo para mídia avançada da Web enable-predic
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:28.839385+00:00"
+created_at: "2026-10-01T19:44:23.603716+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -23829,7 +23829,7 @@ title: "Habilitar limites de comunicação enable-communication-limits"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:48.408262+00:00"
+created_at: "2026-10-01T19:48:21.618326+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -23865,7 +23865,7 @@ title: "Habilitar ou desabilitar recursos do Baú do tesouro enable-or-disable-t
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/settings/enable-or-disable-treasure-chest-features"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:53.172137+00:00"
+created_at: "2026-10-01T19:44:52.323686+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -23896,7 +23896,7 @@ title: "Habilitar restrições de pessoa para campanhas inteligentes enable-pers
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:23.749429+00:00"
+created_at: "2026-10-01T19:49:01.068432+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -23931,7 +23931,7 @@ title: "Habilitar sincronização para uma entidade personalizada enable-sync-fo
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:55.516745+00:00"
+created_at: "2026-10-01T19:42:33.961189+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -23978,7 +23978,7 @@ title: "Habilitar trilha de auditoria enable-audit-trail"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/audit-trail/enable-audit-trail"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:50.922255+00:00"
+created_at: "2026-10-01T19:51:53.501450+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -24023,7 +24023,7 @@ title: "Habilitar URLs personalizados para sua conta enable-personalized-urls-fo
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:31.583770+00:00"
+created_at: "2026-10-01T19:45:36.910326+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -24062,7 +24062,7 @@ title: "Habilitar/desabilitar a sincronização de objetos personalizados enable
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:05.201032+00:00"
+created_at: "2026-10-01T19:48:40.592722+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -24108,7 +24108,7 @@ title: "Habilitar/Desabilitar a Sincronização do Salesforce enable-disable-the
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:12.087423+00:00"
+created_at: "2026-10-01T19:48:48.191536+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -24137,7 +24137,7 @@ title: "Habilitar/desabilitar sincronização de campanha enable-disable-campaig
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:46.708937+00:00"
+created_at: "2026-10-01T19:45:54.188934+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -24174,7 +24174,7 @@ title: "Histórico de logon do usuário user-login-history"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/audit-trail/user-login-history"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:48.974991+00:00"
+created_at: "2026-10-01T19:51:51.531756+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -24220,7 +24220,7 @@ title: "IA gerativa no Dynamic Chat generative-ai-overview"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:05.490413+00:00"
+created_at: "2026-10-01T19:42:45.927591+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -24297,7 +24297,7 @@ title: "Implantar o RTP em JavaScript deploy-the-rtp-javascript"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:35.168311+00:00"
+created_at: "2026-10-01T19:46:53.243099+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -24329,7 +24329,7 @@ title: "Importar Contas Nomeadas import-named-accounts"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/target-account-management/target/named-accounts/import-named-accounts"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:55.106401+00:00"
+created_at: "2026-10-01T19:48:29.135898+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -24381,7 +24381,7 @@ title: "Importar contatos via CSV import-contacts-via-csv"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:39.395780+00:00"
+created_at: "2026-10-01T19:48:09.961181+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -24412,7 +24412,7 @@ title: "Importar dados de objeto personalizado import-custom-object-data"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-custom-objects/import-custom-object-data"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:31.958980+00:00"
+created_at: "2026-10-01T19:44:27.272061+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -24448,7 +24448,7 @@ title: "Importar membros de uma planilha para um programa import-members-from-a-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:36.643346+00:00"
+created_at: "2026-10-01T19:46:55.046773+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -24488,7 +24488,7 @@ title: "Importar modelo template-import"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/import-template"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:12.474718+00:00"
+created_at: "2026-10-01T19:42:55.295788+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -24596,7 +24596,7 @@ title: "Importar modelo"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/shorts/template-import"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:34:24.763653+00:00"
+created_at: "2026-10-01T19:40:46.268381+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -24628,7 +24628,7 @@ title: "Importar um programa import-a-program"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:36.468756+00:00"
+created_at: "2026-10-01T19:49:15.761785+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -24692,7 +24692,7 @@ title: "Importar uma ID do Salesforce para o Sales Connect import-a-salesforce-i
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:26.490509+00:00"
+created_at: "2026-10-01T19:50:15.091553+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -24722,7 +24722,7 @@ title: "Importar uma lista de pessoas import-a-list-of-people"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started-with-marketo/quick-wins/import-a-list-of-people"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:20.851994+00:00"
+created_at: "2026-10-01T19:52:25.957412+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -24790,7 +24790,7 @@ title: "Importar uma lista de pessoas import-a-list-of-people"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:59.288757+00:00"
+created_at: "2026-10-01T19:44:59.218201+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -24858,7 +24858,7 @@ title: "Incluir um arquivo ICS de evento de calendário em uma página de destin
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:45.162428+00:00"
+created_at: "2026-10-01T19:48:16.947708+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -24893,7 +24893,7 @@ title: "Incluir um evento de calendário (.ics) em um email include-a-calendar-e
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:44.436450+00:00"
+created_at: "2026-10-01T19:48:15.995891+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -24926,7 +24926,7 @@ title: "Incorporar o PDF em conversas"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/document-cloud-integration"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:36:33.984429+00:00"
+created_at: "2026-10-01T19:43:20.131787+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -24957,7 +24957,7 @@ title: "Incorporar um formulário ao seu site embed-a-form-on-your-website"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:11.178963+00:00"
+created_at: "2026-10-01T19:49:57.422688+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -24989,7 +24989,7 @@ title: "Insights da lista de contas account-list-insights"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/target-account-management/measure/account-list-insights"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:36.690693+00:00"
+created_at: "2026-10-01T19:50:26.854512+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -25037,7 +25037,7 @@ title: "Insights de Desempenho Gráficos Rápidos performance-insights-quick-cha
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/performance-insights/performance-insights-quick-charts"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:21.776804+00:00"
+created_at: "2026-10-01T19:45:25.160071+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -25087,7 +25087,7 @@ title: "Inspetor de campanhas campaign-inspector"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/settings/campaign-inspector"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:29.361209+00:00"
+created_at: "2026-10-01T19:49:07.329408+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -25126,7 +25126,7 @@ title: "Instalar o Pacote Marketo Sales Insight no AppExchange Salesforce instal
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:27.404198+00:00"
+created_at: "2026-10-01T19:47:55.317815+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -25174,7 +25174,7 @@ title: "Instância herdada: documentar sua configuração inherited-instance-doc
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/inheriting-a-marketo-engage-instance/document-your-setup"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:05.327941+00:00"
+created_at: "2026-10-01T19:52:09.949729+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -25237,7 +25237,7 @@ title: "Instância herdada: lista de verificação da seção de admins inherite
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:01.799461+00:00"
+created_at: "2026-10-01T19:52:06.208916+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -25497,7 +25497,7 @@ title: "Instância herdada: lista de verificação de atividades de marketing in
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:04.399490+00:00"
+created_at: "2026-10-01T19:52:08.974090+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -25631,7 +25631,7 @@ title: "Instância herdada: lista de verificação do banco de dados inherited-i
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/inheriting-a-marketo-engage-instance/database-checklist"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:02.711157+00:00"
+created_at: "2026-10-01T19:52:07.088742+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -25718,7 +25718,7 @@ title: "Instância herdada: lista de verificação do estúdio de design inherit
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:03.556376+00:00"
+created_at: "2026-10-01T19:52:08.043169+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -25832,7 +25832,7 @@ title: "Integração ao Dynamic Chat dynamic-chat-integration"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:16.123833+00:00"
+created_at: "2026-10-01T19:48:52.877328+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -25924,7 +25924,7 @@ title: "Integração do GenStudio para Marketo Engage genstudio-integration-for-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/genstudio"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:13.357739+00:00"
+created_at: "2026-10-01T19:46:26.124273+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -25990,7 +25990,7 @@ title: "Interromper a entrega de programas de email agendados com o fuso horári
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:39.006531+00:00"
+created_at: "2026-10-01T19:46:58.103642+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -26025,7 +26025,7 @@ title: "Introdução ao TAM getting-started-with-tam"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/target-account-management/setup/getting-started-with-tam"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:32.455500+00:00"
+created_at: "2026-10-01T19:45:37.754442+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -26068,7 +26068,7 @@ title: "Introdução aos programas de email head-start-for-email-programs"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:47.692829+00:00"
+created_at: "2026-10-01T19:43:35.824063+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -26114,7 +26114,7 @@ title: "Introdução às campanhas inteligentes"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/programs-and-campaigns/smart-campaigns-101"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:34:26.460109+00:00"
+created_at: "2026-10-01T19:40:48.038300+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -26156,7 +26156,7 @@ title: "Limpar valores do campo clear-field-values"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/clear-field-values"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:04.807248+00:00"
+created_at: "2026-10-01T19:47:29.120837+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -26183,7 +26183,7 @@ title: "Limpeza de campanha com acionamento automático automatic-trigger-campai
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:46.437028+00:00"
+created_at: "2026-10-01T19:52:57.793091+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -26238,7 +26238,7 @@ title: "Lista de reuniões meeting-list"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/meeting-list"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:02.172019+00:00"
+created_at: "2026-10-01T19:42:41.497972+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -26268,7 +26268,7 @@ title: "Lista de verificação de campanha inteligente smart-campaign-checklist"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:46.854167+00:00"
+created_at: "2026-10-01T19:44:44.895807+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -26328,7 +26328,7 @@ title: "Lista de verificação de configuração do usuário user-setup-checklis
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/initial-setup/user-setup"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:39.323744+00:00"
+created_at: "2026-10-01T19:41:02.807825+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -26424,7 +26424,7 @@ title: "Listas de contas account-lists"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/target-account-management/target/account-lists"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:58.483046+00:00"
+created_at: "2026-10-01T19:48:32.773783+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -26486,7 +26486,7 @@ title: "Localizar campanhas da web que estão usando um segmento específico fin
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/using-web-segments/find-web-campaigns-that-are-using-a-specific-segment"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:10.888191+00:00"
+created_at: "2026-10-01T19:52:16.402926+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -26520,7 +26520,7 @@ title: "Localizar e adicionar filtros a uma lista inteligente find-and-add-filte
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:15.010704+00:00"
+created_at: "2026-10-01T19:41:46.035292+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -26559,7 +26559,7 @@ title: "Localizar e mesclar pessoas duplicadas find-and-merge-duplicate-people"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:56.693516+00:00"
+created_at: "2026-10-01T19:43:46.471435+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -26621,7 +26621,7 @@ title: "Localizar o log de atividades de uma pessoa locate-the-activity-log-for-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:05.996876+00:00"
+created_at: "2026-10-01T19:43:56.682784+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -26657,7 +26657,7 @@ title: "Localizar o URL de uma imagem ou arquivo carregado find-the-url-of-an-up
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:19.415891+00:00"
+created_at: "2026-10-01T19:46:33.216237+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -26688,7 +26688,7 @@ title: "Localizar pessoas duplicadas com lógica personalizada find-duplicate-pe
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:42.991815+00:00"
+created_at: "2026-10-01T19:47:03.178134+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -26720,7 +26720,7 @@ title: "Mapear campos personalizados para o Marketo map-custom-fields-to-marketo
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/facebook/map-custom-fields-to-marketo"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:04.273453+00:00"
+created_at: "2026-10-01T19:49:49.327540+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -26762,7 +26762,7 @@ title: "Marcar campo como confidencial mark-a-field-as-sensitive"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/field-management/mark-a-field-as-sensitive"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:45:03.309963+00:00"
+created_at: "2026-10-01T19:53:17.383945+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -26791,7 +26791,7 @@ title: "Marketing na web baseado em conta com o TAM account-based-web-marketing-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:33.216874+00:00"
+created_at: "2026-10-01T19:45:38.710791+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -26832,7 +26832,7 @@ title: "Marketo Engage na Adobe Experience Cloud"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/fundamentals/marketo-engage-aec"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:34:23.968305+00:00"
+created_at: "2026-10-01T19:40:45.443667+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -26864,7 +26864,7 @@ title: "Modelo de email de início rápido quick-start-email-template"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:02.773953+00:00"
+created_at: "2026-10-01T19:50:57.847453+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -26938,7 +26938,7 @@ title: "Modelo de página de destino de início rápido quick-start-landing-page
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:39.746687+00:00"
+created_at: "2026-10-01T19:51:41.226554+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -27007,7 +27007,7 @@ title: "Momento interessante interesting-moment"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:24.182133+00:00"
+created_at: "2026-10-01T19:47:51.424418+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -27040,7 +27040,7 @@ title: "Momentos interessantes em Sales Connect interesting-moments-in-sales-con
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:48.616181+00:00"
+created_at: "2026-10-01T19:44:46.955802+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -27096,7 +27096,7 @@ title: "Mover um email move-an-email"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/move-an-email"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:41.520351+00:00"
+created_at: "2026-10-01T19:47:01.013968+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -27124,7 +27124,7 @@ title: "Navegar pelo calendário de marketing navigating-the-marketing-calendar"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:13.815451+00:00"
+created_at: "2026-10-01T19:47:39.751316+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -27186,7 +27186,7 @@ title: "Navegação na página inicial do Analytics navigating-the-analytics-hom
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:03.510121+00:00"
+created_at: "2026-10-01T19:50:58.750825+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -27214,7 +27214,7 @@ title: "Navegação na visualização Cronograma do programa navigating-the-prog
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:05.058932+00:00"
+created_at: "2026-10-01T19:43:55.939295+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -27263,7 +27263,7 @@ title: "NL-MM-AAAA-Boletim informativo nl-yyyy-mm-newsletter"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/nl-yyyy-mm-newsletter"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:52.619715+00:00"
+created_at: "2026-10-01T19:50:46.278118+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -27351,7 +27351,7 @@ title: "Novas práticas recomendadas da instância: documentar sua configuraçã
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/document-your-setup"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:27.143899+00:00"
+created_at: "2026-10-01T19:46:43.218672+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -27422,7 +27422,7 @@ title: "Novas práticas recomendadas da instância: lista de verificação da se
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:23.199836+00:00"
+created_at: "2026-10-01T19:46:38.562478+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -27562,7 +27562,7 @@ title: "Novas práticas recomendadas da instância: lista de verificação de at
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:25.521291+00:00"
+created_at: "2026-10-01T19:46:41.410161+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -27688,7 +27688,7 @@ title: "Novas práticas recomendadas da instância: lista de verificação do An
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:26.292866+00:00"
+created_at: "2026-10-01T19:46:42.354908+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -27806,7 +27806,7 @@ title: "Novas práticas recomendadas da instância: lista de verificação do ba
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/database-checklist"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:23.948272+00:00"
+created_at: "2026-10-01T19:46:39.475986+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -27876,7 +27876,7 @@ title: "Novas práticas recomendadas da instância: lista de verificação do es
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:24.680714+00:00"
+created_at: "2026-10-01T19:46:40.464443+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -27970,7 +27970,7 @@ title: "Noções básicas da sincronização com o Microsoft Dynamics understand
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/understanding-the-microsoft-dynamics-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:33.512588+00:00"
+created_at: "2026-10-01T19:40:56.724893+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -28018,7 +28018,7 @@ title: "Noções básicas da sincronização com o Salesforce understanding-the-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:32.758745+00:00"
+created_at: "2026-10-01T19:40:55.689428+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -28067,7 +28067,7 @@ title: "Noções básicas de atividades personalizadas understanding-custom-acti
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-custom-activities/understanding-custom-activities"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:29.415094+00:00"
+created_at: "2026-10-01T19:46:46.259242+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -28113,7 +28113,7 @@ title: "Noções básicas de listas inteligentes understanding-smart-lists"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:20.490472+00:00"
+created_at: "2026-10-01T19:41:52.908231+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -28164,7 +28164,7 @@ title: "Noções básicas de objetos personalizados do Marketo understanding-mar
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:07.716701+00:00"
+created_at: "2026-10-01T19:41:37.315731+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -28242,7 +28242,7 @@ title: "Noções básicas de programas de engajamento understanding-engagement-p
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:58.323858+00:00"
+created_at: "2026-10-01T19:41:25.433243+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -28323,7 +28323,7 @@ title: "Noções básicas de programas understanding-programs"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:42.607738+00:00"
+created_at: "2026-10-01T19:41:06.717091+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -28372,7 +28372,7 @@ title: "Noções básicas sobre a pontuação de engajamento understanding-the-e
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:11.954259+00:00"
+created_at: "2026-10-01T19:41:42.385638+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -28408,7 +28408,7 @@ title: "Noções básicas sobre análise de conteúdo understanding-content-anal
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:04.586355+00:00"
+created_at: "2026-10-01T19:41:33.607939+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -28497,7 +28497,7 @@ title: "Noções básicas sobre assinaturas de programas understanding-program-m
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:49.424110+00:00"
+created_at: "2026-10-01T19:43:37.572861+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -28553,7 +28553,7 @@ title: "Noções básicas sobre ativos locais em um programa understanding-local
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:22.002445+00:00"
+created_at: "2026-10-01T19:41:54.788124+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -28591,7 +28591,7 @@ title: "Noções básicas sobre campanhas inteligentes em lote e acionáveis und
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:52.210666+00:00"
+created_at: "2026-10-01T19:41:18.690729+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -28647,7 +28647,7 @@ title: "Noções básicas sobre campanhas inteligentes understanding-smart-campa
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:34.519971+00:00"
+created_at: "2026-10-01T19:40:57.565381+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -28704,7 +28704,7 @@ title: "Noções básicas sobre campos gerenciados pelo sistema understanding-sy
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/field-management/understanding-system-managed-fields"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:25.816156+00:00"
+created_at: "2026-10-01T19:47:53.296493+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -28816,7 +28816,7 @@ title: "Noções básicas sobre cancelamento de inscrição understanding-unsubs
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:11.060907+00:00"
+created_at: "2026-10-01T19:41:41.511791+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -28860,7 +28860,7 @@ title: "Noções básicas sobre conteúdo dinâmico understanding-dynamic-conten
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:09.285517+00:00"
+created_at: "2026-10-01T19:41:39.467377+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -28914,7 +28914,7 @@ title: "Noções Básicas sobre Custos do Período understanding-period-costs"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:27.401523+00:00"
+created_at: "2026-10-01T19:42:00.222325+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -28957,7 +28957,7 @@ title: "Noções Básicas sobre Espaços de Trabalho e Partições de Pessoas un
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:28.952660+00:00"
+created_at: "2026-10-01T19:42:02.149494+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -29063,7 +29063,7 @@ title: "Noções básicas sobre integrações de rede de publicidade understandi
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:50.709172+00:00"
+created_at: "2026-10-01T19:41:16.759060+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -29109,7 +29109,7 @@ title: "Noções básicas sobre listas estáticas understanding-static-lists"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:21.237025+00:00"
+created_at: "2026-10-01T19:41:53.735760+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -29166,7 +29166,7 @@ title: "Noções básicas sobre mensagens no aplicativo understanding-in-app-mes
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:58.341090+00:00"
+created_at: "2026-10-01T19:52:02.076538+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -29213,7 +29213,7 @@ title: "Noções básicas sobre meus relatórios e relatórios de grupo understa
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/creating-reports/understanding-my-reports-and-group-reports"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:47.453713+00:00"
+created_at: "2026-10-01T19:49:29.595581+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -29251,7 +29251,7 @@ title: "Noções básicas sobre meus tokens em um programa understanding-my-toke
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:23.765709+00:00"
+created_at: "2026-10-01T19:41:56.573236+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -29339,7 +29339,7 @@ title: "Noções básicas sobre notificações por push understanding-push-notif
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:01.249253+00:00"
+created_at: "2026-10-01T19:45:00.941164+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -29383,7 +29383,7 @@ title: "Noções básicas sobre notificações understanding-notifications"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:26.572836+00:00"
+created_at: "2026-10-01T19:43:11.195759+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -29429,7 +29429,7 @@ title: "Noções básicas sobre o fuso horário do destinatário understanding-r
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:35.925095+00:00"
+created_at: "2026-10-01T19:46:54.100349+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -29488,7 +29488,7 @@ title: "Noções básicas sobre opções de envio understanding-send-options"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/campaigns/understanding-send-options"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:52.472635+00:00"
+created_at: "2026-10-01T19:47:14.400356+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -29551,7 +29551,7 @@ title: "Noções básicas sobre opções de teste de email understanding-email-t
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:42.453217+00:00"
+created_at: "2026-10-01T19:52:52.795820+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -29585,7 +29585,7 @@ title: "Noções básicas sobre os eventos do Marketo ON24 Adapter understanding
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:17.918067+00:00"
+created_at: "2026-10-01T19:47:44.073433+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -29617,7 +29617,7 @@ title: "Noções básicas sobre os programas e as campanhas do Marketo"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/fundamentals/programs-and-campaigns"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:34:27.977039+00:00"
+created_at: "2026-10-01T19:40:49.856361+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -29660,7 +29660,7 @@ title: "Noções básicas sobre os status do programa de webinário understandin
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:21.863539+00:00"
+created_at: "2026-10-01T19:51:20.089341+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -29722,7 +29722,7 @@ title: "Noções básicas sobre pastas understanding-folders"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:37.247326+00:00"
+created_at: "2026-10-01T19:49:16.717083+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -29808,7 +29808,7 @@ title: "Noções básicas sobre programas de email understanding-email-programs"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:10.213505+00:00"
+created_at: "2026-10-01T19:41:40.551139+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -29883,7 +29883,7 @@ title: "Noções básicas sobre programas de evento understanding-event-programs
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:12.728367+00:00"
+created_at: "2026-10-01T19:41:43.238315+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -29924,7 +29924,7 @@ title: "Noções básicas sobre tags understanding-tags"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:36.540185+00:00"
+created_at: "2026-10-01T19:42:10.899173+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -29984,7 +29984,7 @@ title: "NUR-MM-AAAA-Estímulo avançado nur-yyyy-mm-advanced-nurture"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-advanced-nurture"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:56.902465+00:00"
+created_at: "2026-10-01T19:50:51.547435+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -30104,7 +30104,7 @@ title: "NUR-MM-AAAA-Estímulo simples nur-yyyy-mm-simple-nurture"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-simple-nurture"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:56.117804+00:00"
+created_at: "2026-10-01T19:50:50.629821+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -30205,7 +30205,7 @@ title: "O painel de engajamento the-engagement-dashboard"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:39.016844+00:00"
+created_at: "2026-10-01T19:44:35.341717+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -30271,7 +30271,7 @@ title: "OA-MM-AAAA-Página de destino de publicidade online do Marketo oa-yyyy-m
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/oa-yyyy-mm-online-advertising-marketo-landing-page"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:00.359243+00:00"
+created_at: "2026-10-01T19:50:55.284607+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -30399,7 +30399,7 @@ title: "Ocultar e reexibir um campo hide-and-unhide-a-field"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/field-management/hide-and-unhide-a-field"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:38.282809+00:00"
+created_at: "2026-10-01T19:50:29.010368+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -30438,7 +30438,7 @@ title: "Ocultar um campo Salesforce da sincronização do Marketo hide-a-salesfo
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:06.044369+00:00"
+created_at: "2026-10-01T19:48:41.553573+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -30471,7 +30471,7 @@ title: "Ocultar/reexibir um canal de programa hide-unhide-a-program-channel"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/tags/hide-unhide-a-program-channel"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:34.707735+00:00"
+created_at: "2026-10-01T19:52:42.622431+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -30508,7 +30508,7 @@ title: "OP-Aquisição-API op-acquisition-api"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-acquisition-api"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:01.249309+00:00"
+created_at: "2026-10-01T19:50:56.180691+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -30566,7 +30566,7 @@ title: "OP-Gerenciamento de capacidade de entrega op-deliverability-management"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:45.173179+00:00"
+created_at: "2026-10-01T19:49:26.476815+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -30643,7 +30643,7 @@ title: "OP-Gerenciamento de dados op-data-management"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-data-management"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:44.331345+00:00"
+created_at: "2026-10-01T19:49:25.501146+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -30744,7 +30744,7 @@ title: "OP-Gerenciamento de leads op-lead-management"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-lead-management"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:45.950831+00:00"
+created_at: "2026-10-01T19:49:27.662307+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -30810,7 +30810,7 @@ title: "OP-Pontuação-Comportamento op-scoring-behavior"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-scoring-behavior"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:42.680633+00:00"
+created_at: "2026-10-01T19:49:23.173378+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -30957,7 +30957,7 @@ title: "OP-Pontuação-Demográfica op-scoring-demographic"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:43.463853+00:00"
+created_at: "2026-10-01T19:49:24.357590+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -31103,7 +31103,7 @@ title: "Organizar imagens e arquivos usando pastas organize-your-images-and-file
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:18.651186+00:00"
+created_at: "2026-10-01T19:46:32.069248+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -31136,7 +31136,7 @@ title: "Painel de banco de dados database-dashboard"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:30.117068+00:00"
+created_at: "2026-10-01T19:49:08.192801+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -31176,7 +31176,7 @@ title: "Parceiros de evento event-partners"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/understanding-events/event-partners"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:13.492943+00:00"
+created_at: "2026-10-01T19:41:44.083837+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -31213,7 +31213,7 @@ title: "Pausar pessoas em um programa de engajamento pause-people-in-an-engageme
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:45:04.095048+00:00"
+created_at: "2026-10-01T19:53:18.270333+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -31240,7 +31240,7 @@ title: "Perguntas frequentes sobre o Dynamic Chat dynamic-chat-faq"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/faq"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:06.332364+00:00"
+created_at: "2026-10-01T19:42:46.946962+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -31356,7 +31356,7 @@ title: "Perguntas não respondidas unanswered-questions"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:20.565435+00:00"
+created_at: "2026-10-01T19:43:03.898491+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -31388,7 +31388,7 @@ title: "Permissões permissions"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/target-account-management/setup/permissions"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:53.536597+00:00"
+created_at: "2026-10-01T19:48:26.898494+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -31419,7 +31419,7 @@ title: "Permissões permissions"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:24.806032+00:00"
+created_at: "2026-10-01T19:43:09.235919+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -31699,7 +31699,7 @@ title: "Permitir acesso do usuário a um espaço de trabalho allow-user-access-t
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:22.977814+00:00"
+created_at: "2026-10-01T19:49:00.124812+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -31736,7 +31736,7 @@ title: "Permitir que as pessoas agendem reuniões com a sua equipe de vendas"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/meeting-booking"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:36:41.379191+00:00"
+created_at: "2026-10-01T19:43:28.115575+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -31772,7 +31772,7 @@ title: "Personalizar estrelas e chamas customize-stars-and-flames"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:40.217000+00:00"
+created_at: "2026-10-01T19:52:49.986946+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -31810,7 +31810,7 @@ title: "Personalizar os URLs da página de destino com um CNAME customize-your-l
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:02.263368+00:00"
+created_at: "2026-10-01T19:41:30.109056+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -31873,7 +31873,7 @@ title: "Personalizar sincronização de atividades customize-activities-sync"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:51.514903+00:00"
+created_at: "2026-10-01T19:46:00.091011+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -31937,7 +31937,7 @@ title: "Personalizar um email personalize-an-email"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/quick-wins/personalize-an-email"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:12.182751+00:00"
+created_at: "2026-10-01T19:47:37.926608+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -32003,7 +32003,7 @@ title: "Pesquisar imagens e arquivos carregados search-uploaded-images-and-files
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:18.778294+00:00"
+created_at: "2026-10-01T19:48:55.617111+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -32037,7 +32037,7 @@ title: "Pesquisar no Designer de Stream"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/search-in-stream-designer"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:36:34.740286+00:00"
+created_at: "2026-10-01T19:43:20.995612+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -32074,7 +32074,7 @@ title: "Pessoas com conteúdo esgotado people-who-have-exhausted-content"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:14.212873+00:00"
+created_at: "2026-10-01T19:41:45.066460+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -32115,7 +32115,7 @@ title: "Pessoas por relatório de status people-by-status-report"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/people-by-status-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:58.313879+00:00"
+created_at: "2026-10-01T19:47:21.620418+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -32143,7 +32143,7 @@ title: "Pontuação da conta account-score"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/target-account-management/setup/account-score"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:49.953588+00:00"
+created_at: "2026-10-01T19:41:15.658334+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -32201,7 +32201,7 @@ title: "Pontuação simples simple-scoring"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:17.614727+00:00"
+created_at: "2026-10-01T19:52:22.736153+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -32265,7 +32265,7 @@ title: "Pontuação simples simple-scoring"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/quick-wins/simple-scoring"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:40.802293+00:00"
+created_at: "2026-10-01T19:47:00.204949+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -32329,7 +32329,7 @@ title: "Por onde começar where-to-start"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:42.936875+00:00"
+created_at: "2026-10-01T19:51:44.841418+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -32410,7 +32410,7 @@ title: "Por onde começar Where-to-start"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:27.315341+00:00"
+created_at: "2026-10-01T19:43:12.491900+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -32465,7 +32465,7 @@ title: "Power Pack de capacidade de entrega de email: como importar uma lista de
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:23.325151+00:00"
+created_at: "2026-10-01T19:52:28.892159+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -32507,7 +32507,7 @@ title: "Prioridade da ordem de segmentação segmentation-order-priority"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:27.371952+00:00"
+created_at: "2026-10-01T19:45:31.598476+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -32544,7 +32544,7 @@ title: "Prioridade, Urgência, Pontuação Relativa e Best Bets priority-urgency
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:29.046279+00:00"
+created_at: "2026-10-01T19:47:57.415896+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -32600,7 +32600,7 @@ title: "Priorizar conteúdo de fluxo prioritize-stream-content"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:18.012424+00:00"
+created_at: "2026-10-01T19:44:10.800247+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -32628,7 +32628,7 @@ title: "Processo essencial de garantia de qualidade de pré-lançamento do progr
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/auditing-an-inherited-instance/essential-program-pre-launch-qa"
 category: "tutorials"
 topic: "marketo-engage/tutorial-dicas-e-truques-para-auditar-uma-instância-herdada-do-marketo-engage"
-created_at: "2026-10-01T15:43:47.128210+00:00"
+created_at: "2026-10-01T19:51:49.388321+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutorial - Dicas e truques para auditar uma instância herdada do Marketo Engage
 
@@ -32840,7 +32840,7 @@ title: "Programar uma campanha em lote recorrente schedule-a-recurring-batch-cam
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:57.306114+00:00"
+created_at: "2026-10-01T19:42:35.898348+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -32876,7 +32876,7 @@ title: "Proteger a configuração de administração de assinatura secure-the-su
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:54.632019+00:00"
+created_at: "2026-10-01T19:53:06.972311+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -32906,7 +32906,7 @@ title: "Prática recomendada: como organizar seus programas best-practice-how-to
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:35.702331+00:00"
+created_at: "2026-10-01T19:49:14.795214+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -33007,7 +33007,7 @@ title: "Práticas recomendadas para organizar uma nova instância do Marketo Eng
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:41:54.776198+00:00"
+created_at: "2026-10-01T19:49:38.110333+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -33050,7 +33050,7 @@ title: "Pré-visualizar e testar uma campanha da web preview-and-test-a-web-camp
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:53.312668+00:00"
+created_at: "2026-10-01T19:47:15.415786+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -33112,7 +33112,7 @@ title: "Pré-visualizar um email com conteúdo dinâmico preview-an-email-with-d
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:25.728262+00:00"
+created_at: "2026-10-01T19:45:29.706459+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -33148,7 +33148,7 @@ title: "Pré-visualizar um snippet preview-a-snippet"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:51.002750+00:00"
+created_at: "2026-10-01T19:48:24.342095+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -33181,7 +33181,7 @@ title: "Pré-visualizar uma página de destino com conteúdo dinâmico preview-a
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:31.475838+00:00"
+created_at: "2026-10-01T19:50:21.160659+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -33214,7 +33214,7 @@ title: "Pré-visualizar uma página de destino preview-a-landing-page"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:30.682426+00:00"
+created_at: "2026-10-01T19:51:30.966095+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -33264,7 +33264,7 @@ title: "Página de destino com formulário landing-page-with-a-form"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started-with-marketo/quick-wins/landing-page-with-a-form"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:14.122949+00:00"
+created_at: "2026-10-01T19:52:19.769354+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -33339,7 +33339,7 @@ title: "Página de destino com formulário landing-page-with-a-form"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/quick-wins/landing-page-with-a-form"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:52.509153+00:00"
+created_at: "2026-10-01T19:43:41.646437+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -33414,7 +33414,7 @@ title: "Páginas da web exibidas, relatório de atividades de página da web web
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/web-pages-viewed-web-page-activity-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:37.024587+00:00"
+created_at: "2026-10-01T19:45:43.634794+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -33445,7 +33445,7 @@ title: "Páginas de destino de conversa"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/conversational-landing-pages"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:36:39.751045+00:00"
+created_at: "2026-10-01T19:43:26.411729+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -33483,7 +33483,7 @@ title: "Rastreamento de atividades anônimas e pessoas tracking-anonymous-activi
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:36.279850+00:00"
+created_at: "2026-10-01T19:45:42.718752+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -33509,7 +33509,7 @@ title: "Reconfigurar método de autenticação do Dynamics reconfigure-dynamics-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/reconfigure-dynamics-authentication-method"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:09.610753+00:00"
+created_at: "2026-10-01T19:48:45.596740+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -33548,7 +33548,7 @@ title: "Recursos gerais de IA do Dynamic Chat"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/gen-ai-features"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:36:42.091409+00:00"
+created_at: "2026-10-01T19:43:28.999429+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -33579,7 +33579,7 @@ title: "Redirecionamento com dados Web Personalization retargeting-with-web-pers
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:43.140937+00:00"
+created_at: "2026-10-01T19:42:19.096757+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -33637,7 +33637,7 @@ title: "Redirecionar um caminho de URL redirect-a-url-path"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:48.986043+00:00"
+created_at: "2026-10-01T19:53:00.723473+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -33673,7 +33673,7 @@ title: "Redirecionar uma página de destino do Marketo para outra página redire
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:37.835641+00:00"
+created_at: "2026-10-01T19:52:46.386085+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -33706,7 +33706,7 @@ title: "Redirecionar uma página de destino redirect-a-landing-page"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started-with-marketo/quick-wins/redirect-a-landing-page"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:14.900850+00:00"
+created_at: "2026-10-01T19:52:20.343904+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -33754,7 +33754,7 @@ title: "Redirecionar uma página de destino redirect-a-landing-page"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/quick-wins/redirect-a-landing-page"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:55.195255+00:00"
+created_at: "2026-10-01T19:51:58.198972+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -33802,7 +33802,7 @@ title: "Referência da API do Forms"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/forms-api-reference"
 category: "reference"
 topic: "javascriptapi/forms-api-reference"
-created_at: "2026-10-01T15:43:13.491862+00:00"
+created_at: "2026-10-01T19:51:10.741942+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Marketo
 
@@ -33949,7 +33949,7 @@ title: "Referência da API do Munchkin"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/leadtracking/api-reference"
 category: "reference"
 topic: "javascriptapi/leadtracking/api-reference"
-created_at: "2026-10-01T15:40:31.419300+00:00"
+created_at: "2026-10-01T19:48:00.013028+00:00"
 ---
 Breadcrumbs: Documentação > Guia do desenvolvedor do Marketo
 
@@ -34103,7 +34103,7 @@ title: "Registrar erros de sincronização do CRM para facilitar a solução de 
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/auditing-an-inherited-instance/log-crm-sync-errors-for-easy-troubleshootig"
 category: "tutorials"
 topic: "marketo-engage/tutorial-dicas-e-truques-para-auditar-uma-instância-herdada-do-marketo-engage"
-created_at: "2026-10-01T15:43:45.016462+00:00"
+created_at: "2026-10-01T19:51:46.639233+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutorial - Dicas e truques para auditar uma instância herdada do Marketo Engage
 
@@ -34169,7 +34169,7 @@ title: "Registro de atividades activity-log"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:04.802781+00:00"
+created_at: "2026-10-01T19:46:15.481788+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -34197,7 +34197,7 @@ title: "Regras de filtro de sincronização personalizado para um endereço de e
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynamics-sync-filter-details/custom-sync-filter-rules-for-an-email-address"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:43.373040+00:00"
+created_at: "2026-10-01T19:50:35.675688+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -34226,7 +34226,7 @@ title: "Regras globais de validação de formulários global-form-validation-rul
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/settings/global-form-validation-rules"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:43.992084+00:00"
+created_at: "2026-10-01T19:52:54.921244+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -34283,7 +34283,7 @@ title: "Rejeições permanentes e temporárias no email hard-and-soft-bounces-in
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:53.881252+00:00"
+created_at: "2026-10-01T19:41:20.758499+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -34332,7 +34332,7 @@ title: "Relatório de atividades da empresa na web company-web-activity-report"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/company-web-activity-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:03.092224+00:00"
+created_at: "2026-10-01T19:41:31.107245+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -34387,7 +34387,7 @@ title: "Relatório de atividades de campanha campaign-activity-report"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:52.332179+00:00"
+created_at: "2026-10-01T19:49:35.384921+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -34457,7 +34457,7 @@ title: "Relatório de atividades de página da web web-page-activity-report"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/web-page-activity-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:41.526575+00:00"
+created_at: "2026-10-01T19:42:16.946870+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -34524,7 +34524,7 @@ title: "Relatório de desempenho da página de destino landing-page-performance-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:59.173283+00:00"
+created_at: "2026-10-01T19:47:22.612200+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -34558,7 +34558,7 @@ title: "Relatório de desempenho de email da campanha campaign-email-performance
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:56.412254+00:00"
+created_at: "2026-10-01T19:41:23.641380+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -34586,7 +34586,7 @@ title: "Relatório de desempenho de emails do Insight de vendas sales-insight-em
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:57.575032+00:00"
+created_at: "2026-10-01T19:47:20.349541+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -34628,7 +34628,7 @@ title: "Relatório de desempenho de emails email-performance-report"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:07.560494+00:00"
+created_at: "2026-10-01T19:43:58.410983+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -34704,7 +34704,7 @@ title: "Relatório de desempenho de link de email email-link-performance-report"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:51.686678+00:00"
+created_at: "2026-10-01T19:47:13.535715+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -34764,7 +34764,7 @@ title: "Relatório de desempenho de pessoas people-performance-report"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/people-performance-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:26.631374+00:00"
+created_at: "2026-10-01T19:41:59.332492+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -34807,7 +34807,7 @@ title: "Relatório de desempenho do fluxo de engajamento engagement-stream-perfo
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:00.012878+00:00"
+created_at: "2026-10-01T19:47:23.655921+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -34847,7 +34847,7 @@ title: "Relatório de engajamento"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/engagement-report"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:36:42.905648+00:00"
+created_at: "2026-10-01T19:43:29.856995+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -34884,7 +34884,7 @@ title: "Relatório de spam de email email-spam-report"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/spam-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:14.227658+00:00"
+created_at: "2026-10-01T19:46:27.110939+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -34934,7 +34934,7 @@ title: "Remarketing personalizado em Facebook personalized-remarketing-in-facebo
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:39.366782+00:00"
+created_at: "2026-10-01T19:45:46.175547+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -35009,7 +35009,7 @@ title: "Remarketing personalizado no Google personalized-remarketing-in-google"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:38.545391+00:00"
+created_at: "2026-10-01T19:45:45.356788+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -35083,7 +35083,7 @@ title: "Remover acesso de Sales Insight remove-sales-insight-access"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:19.862447+00:00"
+created_at: "2026-10-01T19:50:07.107305+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -35161,7 +35161,7 @@ title: "Remover conteúdo de fluxo remove-stream-content"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:19.499900+00:00"
+created_at: "2026-10-01T19:44:12.592627+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -35189,7 +35189,7 @@ title: "Remover da campanha do SFDC remove-from-sfdc-campaign"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:45.134013+00:00"
+created_at: "2026-10-01T19:45:52.488189+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -35219,7 +35219,7 @@ title: "Remover da lista remove-from-list"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:58.463325+00:00"
+created_at: "2026-10-01T19:44:58.280259+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -35245,7 +35245,7 @@ title: "Remover do fluxo remove-from-flow"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:42.149360+00:00"
+created_at: "2026-10-01T19:51:43.811621+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -35279,7 +35279,7 @@ title: "Renomear um ativo do Marketo rename-a-marketo-asset"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:56.265425+00:00"
+created_at: "2026-10-01T19:44:54.865038+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -35306,7 +35306,7 @@ title: "Reordenar Adicionar Escolha em uma Etapa de Fluxo reorder-add-choice-in-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:21.873871+00:00"
+created_at: "2026-10-01T19:47:48.555258+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -35335,7 +35335,7 @@ title: "Reordenar as etapas de fluxo em uma campanha inteligente reorder-the-flo
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:46.051807+00:00"
+created_at: "2026-10-01T19:44:43.996868+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -35365,7 +35365,7 @@ title: "Reordenar campos em um formulário reorder-fields-in-a-form"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:38.782444+00:00"
+created_at: "2026-10-01T19:51:40.362764+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -35395,7 +35395,7 @@ title: "Resposta automática por email email-auto-response"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/quick-wins/email-auto-response"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:32.985310+00:00"
+created_at: "2026-10-01T19:48:01.713037+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -35465,7 +35465,7 @@ title: "Roteamento routing"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:03.019001+00:00"
+created_at: "2026-10-01T19:42:42.371493+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -35538,7 +35538,7 @@ title: "Rotular o segmento label-your-segment"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/using-web-segments/label-your-segment"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:31.576949+00:00"
+created_at: "2026-10-01T19:51:31.852505+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -35571,7 +35571,7 @@ title: "Saiba mais sobre como configurar e gerenciar uma central de assinaturas"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:41:46.675601+00:00"
+created_at: "2026-10-01T19:49:28.562123+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -35602,7 +35602,7 @@ title: "Sales Connect e Conformidade com o GDPR sales-connect-and-gdpr-complianc
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:17.459378+00:00"
+created_at: "2026-10-01T19:41:49.022593+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -35749,7 +35749,7 @@ title: "Sales Connect Personalizações para o CRM sales-connect-customizations-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:42.816585+00:00"
+created_at: "2026-10-01T19:48:14.133219+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -35879,7 +35879,7 @@ title: "Salesforce Erros de sincronização salesforce-sync-errors"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:07.036533+00:00"
+created_at: "2026-10-01T19:52:11.969229+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -35931,7 +35931,7 @@ title: "Salvar a campanha como um modelo save-your-campaign-as-a-template"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/using-templates/save-your-campaign-as-a-template"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:56.005414+00:00"
+created_at: "2026-10-01T19:47:18.526521+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -35961,7 +35961,7 @@ title: "Salvar um relatório save-a-report"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/creating-reports/save-a-report"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:04.481271+00:00"
+created_at: "2026-10-01T19:50:59.799582+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -35995,7 +35995,7 @@ title: "Salvar uma definição de filtro no calendário de marketing saving-a-fi
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:18.391661+00:00"
+created_at: "2026-10-01T19:51:16.067245+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -36025,7 +36025,7 @@ title: "Sandbox do Marketo marketo-sandbox"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:22.263049+00:00"
+created_at: "2026-10-01T19:48:59.143064+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -36070,7 +36070,7 @@ title: "SDK de conversas"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/conversations-sdk"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:36:37.758740+00:00"
+created_at: "2026-10-01T19:43:24.714641+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -36101,7 +36101,7 @@ title: "Segmentos da web web-segments"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/using-web-segments/web-segments"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:35.141523+00:00"
+created_at: "2026-10-01T19:50:25.112413+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -36342,7 +36342,7 @@ title: "Selecionar colunas do relatório select-report-columns"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/select-report-columns"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:15.626643+00:00"
+created_at: "2026-10-01T19:44:08.129052+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -36370,7 +36370,7 @@ title: "Selecionar mensagem no aplicativo select-your-in-app-message"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:29.810578+00:00"
+created_at: "2026-10-01T19:52:36.602463+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -36399,7 +36399,7 @@ title: "Selecionar um tema de formulário select-a-form-theme"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:35.994776+00:00"
+created_at: "2026-10-01T19:48:06.353180+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -36433,7 +36433,7 @@ title: "Sincronizando Cancelamentos de Assinatura com Salesforce syncing-unsubsc
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:35.658668+00:00"
+created_at: "2026-10-01T19:51:36.889880+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -36503,7 +36503,7 @@ title: "Sincronizar atividades de vendas com o Salesforce sync-sales-activities-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:37.365474+00:00"
+created_at: "2026-10-01T19:51:38.880904+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -36597,7 +36597,7 @@ title: "Sincronizar campos personalizados de membros de programas program-member
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:15.033749+00:00"
+created_at: "2026-10-01T19:51:12.298650+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -36680,7 +36680,7 @@ title: "Sincronizar dados de ação de vendas com o Marketo e o Salesforce sync-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:48.561935+00:00"
+created_at: "2026-10-01T19:50:41.460517+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -36800,7 +36800,7 @@ title: "Sincronizar pessoa ao SFDC sync-person-to-sfdc"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:40.495461+00:00"
+created_at: "2026-10-01T19:45:47.027427+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -36829,7 +36829,7 @@ title: "Sincronizar pessoa com a Microsoft sync-person-to-microsoft"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:55.408234+00:00"
+created_at: "2026-10-01T19:46:04.933786+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -36863,7 +36863,7 @@ title: "Sincronizar uma campanha do SFDC com um programa sync-an-sfdc-campaign-w
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:49.281664+00:00"
+created_at: "2026-10-01T19:45:56.937037+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -36900,7 +36900,7 @@ title: "Sincronização de Microsoft Dynamics: Sincronização de Cliente Potenc
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:51.347364+00:00"
+created_at: "2026-10-01T19:42:28.803396+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -36954,7 +36954,7 @@ title: "Sincronização de Microsoft Dynamics: Sincronização de Conta microsof
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:52.891952+00:00"
+created_at: "2026-10-01T19:42:30.898371+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -36998,7 +36998,7 @@ title: "Sincronização de Microsoft Dynamics: Sincronização de Contatos micro
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:52.176210+00:00"
+created_at: "2026-10-01T19:42:29.731169+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -37048,7 +37048,7 @@ title: "Sincronização de Microsoft Dynamics: Sincronização de Oportunidade m
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:54.552081+00:00"
+created_at: "2026-10-01T19:42:33.033472+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -37091,7 +37091,7 @@ title: "Sincronização de Tarefa de Lembrete com Salesforce reminder-task-sync-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:38.101620+00:00"
+created_at: "2026-10-01T19:51:39.658196+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -37174,7 +37174,7 @@ title: "Sincronização do Microsoft Dynamics: Sincronização de Usuário micro
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:53.686924+00:00"
+created_at: "2026-10-01T19:42:31.934877+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -37212,7 +37212,7 @@ title: "Sincronização do SFDC: sincronização de atividade sfdc-sync-activity
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:49.787955+00:00"
+created_at: "2026-10-01T19:42:26.937931+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -37263,7 +37263,7 @@ title: "Sincronização do SFDC: sincronização de campanha sfdc-sync-campaign-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:48.094395+00:00"
+created_at: "2026-10-01T19:42:25.034655+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -37344,7 +37344,7 @@ title: "Sincronização do SFDC: sincronização de campos sfdc-sync-field-sync"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:50.066608+00:00"
+created_at: "2026-10-01T19:45:57.985358+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -37414,7 +37414,7 @@ title: "Sincronização do SFDC: sincronização de conta sfdc-sync-account-sync
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:45.631487+00:00"
+created_at: "2026-10-01T19:42:21.803340+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -37460,7 +37460,7 @@ title: "Sincronização do SFDC: sincronização de contato sfdc-sync-contact-sy
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:44.956157+00:00"
+created_at: "2026-10-01T19:42:20.936303+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -37512,7 +37512,7 @@ title: "Sincronização do SFDC: sincronização de lead/proprietário da conta 
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:46.409532+00:00"
+created_at: "2026-10-01T19:42:22.843920+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -37569,7 +37569,7 @@ title: "Sincronização do SFDC: sincronização de leads sfdc-sync-lead-sync"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:44.116366+00:00"
+created_at: "2026-10-01T19:42:19.992937+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -37619,7 +37619,7 @@ title: "Sincronização do SFDC: sincronização de objeto personalizado sfdc-sy
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:49.054356+00:00"
+created_at: "2026-10-01T19:42:26.104345+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -37673,7 +37673,7 @@ title: "Sincronização do SFDC: sincronização de oportunidade sfdc-sync-oppor
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:47.285627+00:00"
+created_at: "2026-10-01T19:42:24.058696+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -37740,7 +37740,7 @@ title: "Sintaxe do modelo de email email-template-syntax"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/email-template-syntax"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:50.281911+00:00"
+created_at: "2026-10-01T19:48:23.473042+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -38110,7 +38110,7 @@ title: "Solicitar campanha request-campaign"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:40.534929+00:00"
+created_at: "2026-10-01T19:51:42.095981+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -38145,7 +38145,7 @@ title: "Solicitações de privacidade privacy-requests"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-requests"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:48.151463+00:00"
+created_at: "2026-10-01T19:52:59.756324+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -38335,7 +38335,7 @@ title: "Substituir domínio primário dos emails overwrite-primary-domain-for-em
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:34.913477+00:00"
+created_at: "2026-10-01T19:51:35.855991+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -38363,7 +38363,7 @@ title: "Substituir restrições de pessoa em uma campanha inteligente override-p
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:21.090556+00:00"
+created_at: "2026-10-01T19:47:47.525704+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -38395,7 +38395,7 @@ title: "Substituir uma imagem ou arquivo carregado replace-an-uploaded-image-or-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:19.689453+00:00"
+created_at: "2026-10-01T19:48:56.561614+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -38427,7 +38427,7 @@ title: "Temas da marca brand-themes"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/brands/brand-themes"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:11.591787+00:00"
+created_at: "2026-10-01T19:42:54.229479+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -38648,7 +38648,7 @@ title: "Testar renderização de email com Litmus test-email-rendering-with-litm
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:12.520228+00:00"
+created_at: "2026-10-01T19:46:25.370340+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -38703,7 +38703,7 @@ title: "Teste a integração de evento do ON24 test-your-on-event-integration"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:20.212464+00:00"
+created_at: "2026-10-01T19:51:17.971106+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -38745,7 +38745,7 @@ title: "Tipos de de entrada da visualização Cronograma do programa program-sch
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:17.531138+00:00"
+created_at: "2026-10-01T19:51:15.203049+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -38791,7 +38791,7 @@ title: "Tipos de etapa da campanha campaign-step-types"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/campaigns/campaign-step-types"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:08.357584+00:00"
+created_at: "2026-10-01T19:43:59.479153+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -38843,7 +38843,7 @@ title: "Tipos de notificação notification-types"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:06.213183+00:00"
+created_at: "2026-10-01T19:52:10.853352+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -38907,7 +38907,7 @@ title: "Tokens acionadores de momentos interessantes trigger-tokens-for-interest
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:49.851718+00:00"
+created_at: "2026-10-01T19:44:48.094634+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -39089,7 +39089,7 @@ title: "Tornar um campo de formulário obrigatório make-a-form-field-required"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:50.196556+00:00"
+created_at: "2026-10-01T19:50:43.337473+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -39125,7 +39125,7 @@ title: "Tornar um email operacional make-an-email-operational"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:25.859422+00:00"
+created_at: "2026-10-01T19:41:58.438597+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -39162,7 +39162,7 @@ title: "Tornar uma campanha visível para Sales Connect usuários make-a-campaig
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:06.759102+00:00"
+created_at: "2026-10-01T19:45:07.579536+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -39196,7 +39196,7 @@ title: "Tour de produto do Dynamic Chat [2022]"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/product-tour-2022"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:39:27.862952+00:00"
+created_at: "2026-10-01T19:46:44.215194+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -39234,7 +39234,7 @@ title: "Tour de produto do Dynamic Chat [2023]"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/product-tour"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:36:28.070494+00:00"
+created_at: "2026-10-01T19:43:13.591670+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -39268,7 +39268,7 @@ title: "Transformar o usuário de sincronização do Marketo em um usuário de m
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/make-marketo-sync-user-a-marketing-user"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:47.464086+00:00"
+created_at: "2026-10-01T19:45:55.136195+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -39299,7 +39299,7 @@ title: "TS-DD-MM-AAAA-Programa de feira de vendas ts-yyyy-mm-dd-tradeshow-progra
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/ts-yyyy-mm-dd-tradeshow-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:55.346443+00:00"
+created_at: "2026-10-01T19:50:49.512602+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -39427,7 +39427,7 @@ title: "Tutoriais do Dynamic Chat"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:34:40.088633+00:00"
+created_at: "2026-10-01T19:41:03.691417+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -39463,7 +39463,7 @@ title: "Tutoriais do Marketo Engage"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/overview"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:34:20.918841+00:00"
+created_at: "2026-10-01T19:40:42.126426+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -39504,7 +39504,7 @@ title: "Tutoriais do rastreador da caixa de entrada inbox-tracker-tutorials"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials"
 category: "tutorials"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:24.082442+00:00"
+created_at: "2026-10-01T19:52:29.791169+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -39565,7 +39565,7 @@ title: "Usando o Editor de Rich Text Web Personalization using-the-web-personali
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:09.798764+00:00"
+created_at: "2026-10-01T19:44:01.392028+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -39610,7 +39610,7 @@ title: "Usar a opção Adicionar escolha em uma etapa de fluxo use-add-choice-in
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:47.616755+00:00"
+created_at: "2026-10-01T19:44:45.755080+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -39642,7 +39642,7 @@ title: "Usar conteúdo dinâmico em um email using-dynamic-content-in-an-email"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:26.536974+00:00"
+created_at: "2026-10-01T19:45:30.719800+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -39697,7 +39697,7 @@ title: "Usar conteúdo dinâmico em uma página de destino de forma livre use-dy
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:40:49.258695+00:00"
+created_at: "2026-10-01T19:48:22.521008+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -39756,7 +39756,7 @@ title: "Usar conteúdo dinâmico em uma página de destino use-dynamic-content-i
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:29.859734+00:00"
+created_at: "2026-10-01T19:51:30.025635+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -39805,7 +39805,7 @@ title: "Usar filtros de inatividade em uma lista inteligente use-inactivity-filt
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:52.245197+00:00"
+created_at: "2026-10-01T19:46:01.046739+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -39834,7 +39834,7 @@ title: "Usar filtros de segmento em uma Smart List use-segment-filters-in-a-smar
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:16.844731+00:00"
+created_at: "2026-10-01T19:48:53.746732+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -39866,7 +39866,7 @@ title: "Usar filtros e acionadores de anúncios de leads em uma campanha intelig
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:04.991800+00:00"
+created_at: "2026-10-01T19:49:50.139336+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -39893,7 +39893,7 @@ title: "Usar o filtro Alteração do valor de dados em uma lista inteligente use
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:27.190856+00:00"
+created_at: "2026-10-01T19:44:21.782821+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -39926,7 +39926,7 @@ title: "Usar o token de envio de informações de alerta use-the-send-alert-info
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:15.815860+00:00"
+created_at: "2026-10-01T19:51:13.186828+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -39981,7 +39981,7 @@ title: "Usar Smart Lists do Sistema Integradas use-built-in-system-smart-lists"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:57.018435+00:00"
+created_at: "2026-10-01T19:44:55.966740+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -40029,7 +40029,7 @@ title: "Usar tags em um programa use-tags-in-a-program"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:38.169495+00:00"
+created_at: "2026-10-01T19:46:57.182274+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -40077,7 +40077,7 @@ title: "Usar teste A/B de “Data/Hora” use-date-time-a-b-testing"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:59.986607+00:00"
+created_at: "2026-10-01T19:43:50.243033+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -40111,7 +40111,7 @@ title: "Usar teste A/B de “Email inteiro” use-whole-email-a-b-testing"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:58.370086+00:00"
+created_at: "2026-10-01T19:43:48.467354+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -40146,7 +40146,7 @@ title: "Usar Teste A/B “Do Endereço” use-from-address-a-b-testing"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:59.122532+00:00"
+created_at: "2026-10-01T19:43:49.333592+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -40178,7 +40178,7 @@ title: "Usar tokens em etapas de fluxo use-tokens-in-flow-steps"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:09.169056+00:00"
+created_at: "2026-10-01T19:45:10.210397+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -40214,7 +40214,7 @@ title: "Usar um formulário em um Lightbox use-a-form-in-a-lightbox"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:12.586295+00:00"
+created_at: "2026-10-01T19:51:09.772359+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -40246,7 +40246,7 @@ title: "Usar um webhook em uma campanha inteligente use-a-webhook-in-a-smart-cam
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:50.159428+00:00"
+created_at: "2026-10-01T19:43:38.580092+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -40278,7 +40278,7 @@ title: "Usar uma lista ou lista inteligente do Marketo como segmento de público
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:03.398096+00:00"
+created_at: "2026-10-01T19:43:53.977378+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -40314,7 +40314,7 @@ title: "Use O Teste A/B “Linha De Assunto” use-subject-line-a-b-testing"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:57.498767+00:00"
+created_at: "2026-10-01T19:43:47.375050+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -40345,7 +40345,7 @@ title: "Uso da lógica avançada de regras de lista inteligente using-advanced-s
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:00.858757+00:00"
+created_at: "2026-10-01T19:48:35.423525+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -40396,7 +40396,7 @@ title: "Uso da página Detalhes da pessoa using-the-person-detail-page"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:50.787799+00:00"
+created_at: "2026-10-01T19:44:49.143529+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -40578,7 +40578,7 @@ title: "Uso de custos do período em um programa using-period-costs-in-a-program
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:17.171373+00:00"
+created_at: "2026-10-01T19:45:19.688890+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -40627,7 +40627,7 @@ title: "Uso de modelos para criar campanhas da web using-templates-to-create-web
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:10.563100+00:00"
+created_at: "2026-10-01T19:44:02.310934+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -40666,7 +40666,7 @@ title: "Uso de momentos interessantes using-interesting-moments"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:18.187520+00:00"
+created_at: "2026-10-01T19:41:50.084375+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -40738,7 +40738,7 @@ title: "Uso de personas using-personas"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/target-account-management/measure/using-personas"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:29.796609+00:00"
+created_at: "2026-10-01T19:42:03.128567+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -40782,7 +40782,7 @@ title: "Uso do editor de rich text using-the-rich-text-editor"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:39:55.195176+00:00"
+created_at: "2026-10-01T19:47:17.495796+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -40933,7 +40933,7 @@ title: "Utilização de URLs em Meus tokens using-urls-in-my-tokens"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:09.943635+00:00"
+created_at: "2026-10-01T19:45:11.260416+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -40970,7 +40970,7 @@ title: "Validar a sincronização de Microsoft Dynamics validate-microsoft-dynam
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/validate-microsoft-dynamics-sync"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:11.165106+00:00"
+created_at: "2026-10-01T19:48:47.272575+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -41009,7 +41009,7 @@ title: "Verificar configuração de push verify-push-configuration"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/mobile-marketing/admin/verify-push-configuration"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:22.654122+00:00"
+created_at: "2026-10-01T19:50:10.166545+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -41045,7 +41045,7 @@ title: "Verificação de Cancelamento de Inscrição do Marketo marketo-unsubscr
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:36.559253+00:00"
+created_at: "2026-10-01T19:51:37.866248+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -41086,7 +41086,7 @@ title: "Visualização do diálogo"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/dialogue-preview"
 category: "tutorials"
 topic: "marketo-engage/tutoriais-do-marketo-engage"
-created_at: "2026-10-01T15:36:36.261225+00:00"
+created_at: "2026-10-01T19:43:22.923962+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Tutoriais do Marketo Engage
 
@@ -41123,7 +41123,7 @@ title: "Visão geral da biblioteca de importação do programa program-import-li
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:41:38.001936+00:00"
+created_at: "2026-10-01T19:49:17.581179+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -41171,7 +41171,7 @@ title: "Visão geral da Conta nomeada named-account-overview"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/target-account-management/target/named-accounts/named-account-overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:33.281027+00:00"
+created_at: "2026-10-01T19:50:23.152005+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -41243,7 +41243,7 @@ title: "Visão geral da contribuição do Performance Insights performance-insig
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/performance-insights/performance-insights-contribution-overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:19.014279+00:00"
+created_at: "2026-10-01T19:45:21.474388+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -41305,7 +41305,7 @@ title: "Visão geral da personalização da web web-personalization-overview"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:42.377177+00:00"
+created_at: "2026-10-01T19:42:18.203368+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -41431,7 +41431,7 @@ title: "Visão geral da tendência do Performance Insights performance-insights-
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/performance-insights/performance-insights-trend-overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:19.744642+00:00"
+created_at: "2026-10-01T19:45:22.815529+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -41475,7 +41475,7 @@ title: "Visão geral da trilha de auditoria audit-trail-overview"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:06.925815+00:00"
+created_at: "2026-10-01T19:51:02.784800+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -41558,7 +41558,7 @@ title: "Visão geral de momentos interessantes interesting-moments-overview"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:44:45.655372+00:00"
+created_at: "2026-10-01T19:52:56.815998+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -41598,7 +41598,7 @@ title: "Visão geral do Adobe Identity Management adobe-identity-management-over
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:07.037993+00:00"
+created_at: "2026-10-01T19:42:47.859623+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -41652,7 +41652,7 @@ title: "Visão geral do chat ao vivo live-chat-overview"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:03.892452+00:00"
+created_at: "2026-10-01T19:42:43.624557+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -41753,7 +41753,7 @@ title: "Visão geral do check-in do evento event-check-in-overview"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:21.784894+00:00"
+created_at: "2026-10-01T19:44:15.510996+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -41813,7 +41813,7 @@ title: "Visão geral do Designer de email overview"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:34:36.193992+00:00"
+created_at: "2026-10-01T19:40:59.620171+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -41911,7 +41911,7 @@ title: "Visão geral do diálogo dialogue-overview"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:59.813536+00:00"
+created_at: "2026-10-01T19:42:38.709301+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -41966,7 +41966,7 @@ title: "Visão geral do Editor de email v2.0 email-editor-v2-overview"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:06.702334+00:00"
+created_at: "2026-10-01T19:49:52.053833+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -42053,7 +42053,7 @@ title: "Visão geral do feed ao vivo live-feed-overview"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:04.509952+00:00"
+created_at: "2026-10-01T19:45:04.714204+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -42120,7 +42120,7 @@ title: "Visão geral do fluxo de conversa conversational-flow-overview"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:36:04.746971+00:00"
+created_at: "2026-10-01T19:42:44.833307+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -42186,7 +42186,7 @@ title: "Visão geral do Performance Insights performance-insights-overview"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/performance-insights/performance-insights-overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:28.140100+00:00"
+created_at: "2026-10-01T19:42:01.142367+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -42236,7 +42236,7 @@ title: "Visão geral do Sales Connect sales-connect-overview"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/sales-connect-overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:22.767259+00:00"
+created_at: "2026-10-01T19:41:55.691133+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -42302,7 +42302,7 @@ title: "Visão geral do seletor de modelos de email email-template-picker-overvi
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:43:09.288885+00:00"
+created_at: "2026-10-01T19:51:06.267567+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -42354,7 +42354,7 @@ title: "Visão geral do telefone de vendas sales-phone-overview"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-sales-connect/phone/sales-phone-overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:38:05.956148+00:00"
+created_at: "2026-10-01T19:45:06.608343+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -42404,7 +42404,7 @@ title: "Visão geral do tipo de relatório report-type-overview"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:37:14.163002+00:00"
+created_at: "2026-10-01T19:44:06.090696+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -42456,7 +42456,7 @@ title: "Visão geral dos tokens tokens-overview"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:35:38.334128+00:00"
+created_at: "2026-10-01T19:42:12.963908+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -42628,7 +42628,7 @@ title: "WBN-DD-MM-AAAA-Programa de webinário wbn-yyyy-mm-dd-webinar-program"
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:53.584559+00:00"
+created_at: "2026-10-01T19:50:47.508451+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 
@@ -42823,7 +42823,7 @@ title: "WR-MM-AAAA-Programa de solicitação da web wr-yyyy-mm-web-request-progr
 url: "https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program"
 category: "guides"
 topic: "marketo-engage/guia-do-marketo"
-created_at: "2026-10-01T15:42:59.506854+00:00"
+created_at: "2026-10-01T19:50:54.477583+00:00"
 ---
 Breadcrumbs: Documentação > Marketo Engage > Guia do Marketo
 

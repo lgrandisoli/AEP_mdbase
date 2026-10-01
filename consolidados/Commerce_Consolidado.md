@@ -7,7 +7,7 @@
 
 **Fonte original:** https://developer.adobe.com/commerce
 
-**Coletado em (UTC):** 2026-10-01T15:29:55.297671+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:13.717583+00:00
 
 ---
 
@@ -83,7 +83,7 @@ Accelerate Adobe Commerce integrations with enterprise systems using the integra
 
 **Fonte original:** https://developer.adobe.com/commerce/admin-developer
 
-**Coletado em (UTC):** 2026-10-01T15:29:12.973673+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:32.863001+00:00
 
 ---
 
@@ -150,7 +150,7 @@ GitHub
 
 **Fonte original:** https://developer.adobe.com/commerce/admin-developer/pattern-library/containers/slideouts-modals-overlays
 
-**Coletado em (UTC):** 2026-10-01T15:32:21.706572+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:42.140901+00:00
 
 ---
 
@@ -335,7 +335,7 @@ Technically slideouts and modals are implemented using the [modal widget](https:
 
 **Fonte original:** https://developer.adobe.com/commerce/admin-developer/pattern-library/controls/button-bar
 
-**Coletado em (UTC):** 2026-10-01T15:33:30.576654+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:52.246573+00:00
 
 ---
 
@@ -423,7 +423,7 @@ Buttons should make use of CSS and HTML so that button text is never dependent o
 
 **Fonte original:** https://developer.adobe.com/commerce/admin-developer/pattern-library/controls/buttons
 
-**Coletado em (UTC):** 2026-10-01T15:33:52.579326+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:14.440135+00:00
 
 ---
 
@@ -722,7 +722,7 @@ Left/Right margin spacing should not be less than 10px
 
 **Fonte original:** https://developer.adobe.com/commerce/admin-developer/pattern-library/displaying-data/datatable
 
-**Coletado em (UTC):** 2026-10-01T15:33:36.257438+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:57.038516+00:00
 
 ---
 
@@ -1060,7 +1060,7 @@ This new version of the data-table will fully support the existing data-table fu
 
 **Fonte original:** https://developer.adobe.com/commerce/admin-developer/pattern-library/displaying-data/filters
 
-**Coletado em (UTC):** 2026-10-01T15:33:36.826389+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:56.497234+00:00
 
 ---
 
@@ -1108,7 +1108,7 @@ In some unique instances a table may have "Quick Filters" associated with it. Th
 
 **Fonte original:** https://developer.adobe.com/commerce/cloud-tools
 
-**Coletado em (UTC):** 2026-10-01T15:29:10.354572+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:30.825840+00:00
 
 ---
 
@@ -1166,7 +1166,7 @@ GitHub
 
 **Fonte original:** https://developer.adobe.com/commerce/code-samples
 
-**Coletado em (UTC):** 2026-10-01T15:29:11.053509+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:32.307253+00:00
 
 ---
 
@@ -1230,7 +1230,7 @@ background-color-white, center
 
 **Fonte original:** https://developer.adobe.com/commerce/contributor
 
-**Coletado em (UTC):** 2026-10-01T15:27:52.183951+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:01.866690+00:00
 
 ---
 
@@ -1299,7 +1299,7 @@ GitHub
 
 **Fonte original:** https://developer.adobe.com/commerce/contributor/guides/install/clone-repository
 
-**Coletado em (UTC):** 2026-10-01T15:29:03.590385+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:23.938080+00:00
 
 ---
 
@@ -1350,7 +1350,7 @@ After completing the tasks discussed on this page, see [update installation depe
 
 **Fonte original:** https://developer.adobe.com/commerce/contributor/guides/install/update-dependencies
 
-**Coletado em (UTC):** 2026-10-01T15:30:20.187858+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:05.628527+00:00
 
 ---
 
@@ -1414,7 +1414,7 @@ guide.
 
 **Fonte original:** https://developer.adobe.com/commerce/docs
 
-**Coletado em (UTC):** 2026-10-01T15:28:15.752603+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:28.395917+00:00
 
 ---
 
@@ -1546,7 +1546,7 @@ Find detailed information about installation, configuration, data migration, upg
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility
 
-**Coletado em (UTC):** 2026-10-01T15:27:47.396939+00:00
+**Coletado em (UTC):** 2026-10-01T19:33:56.345302+00:00
 
 ---
 
@@ -1644,7 +1644,7 @@ Regardless of whether you start from an empty App Builder project or a starter k
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk
 
-**Coletado em (UTC):** 2026-10-01T15:27:57.431848+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:10.435124+00:00
 
 ---
 
@@ -1687,7 +1687,7 @@ The Admin UI SDK supports only the extensions type. An App Builder project using
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/api
 
-**Coletado em (UTC):** 2026-10-01T15:31:17.396507+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:38.977269+00:00
 
 ---
 
@@ -2047,7 +2047,7 @@ curl -X PUT \
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/app-registration
 
-**Coletado em (UTC):** 2026-10-01T15:31:13.150325+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:20.015321+00:00
 
 ---
 
@@ -2205,7 +2205,7 @@ Complete this file with the actions from your app.
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/app-review-checklist
 
-**Coletado em (UTC):** 2026-10-01T15:29:33.102400+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:52.963091+00:00
 
 ---
 
@@ -2346,7 +2346,7 @@ Required
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/configuration
 
-**Coletado em (UTC):** 2026-10-01T15:29:33.659890+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:42.785055+00:00
 
 ---
 
@@ -2480,7 +2480,7 @@ aio app build
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/eligible-extensions-config
 
-**Coletado em (UTC):** 2026-10-01T15:29:48.526923+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:43.316327+00:00
 
 ---
 
@@ -2519,7 +2519,7 @@ The **Manual Extensions Selection** tab allows you to select the extensions that
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/extension-points
 
-**Coletado em (UTC):** 2026-10-01T15:29:37.752179+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:42.168700+00:00
 
 ---
 
@@ -2595,7 +2595,7 @@ bin/magento cache:clean
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/extension-points/menu
 
-**Coletado em (UTC):** 2026-10-01T15:31:13.669744+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:35.259201+00:00
 
 ---
 
@@ -2676,7 +2676,7 @@ The Adobe Commerce Extensibility Code Samples repository demonstrates how to cus
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/extension-points/page
 
-**Coletado em (UTC):** 2026-10-01T15:32:07.538759+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:27.181180+00:00
 
 ---
 
@@ -2711,7 +2711,7 @@ Page title to display in the Adobe Commerce Admin Panel when loading the applica
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/installation
 
-**Coletado em (UTC):** 2026-10-01T15:28:38.346446+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:35.104527+00:00
 
 ---
 
@@ -2800,7 +2800,7 @@ The Admin UI SDK is automatically updated for SaaS projects. For PaaS projects, 
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/publish
 
-**Coletado em (UTC):** 2026-10-01T15:31:15.272261+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:20.540819+00:00
 
 ---
 
@@ -2840,7 +2840,7 @@ To update the credentials or services used by an already published application, 
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/troubleshooting
 
-**Coletado em (UTC):** 2026-10-01T15:29:39.365849+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:57.270469+00:00
 
 ---
 
@@ -2910,7 +2910,7 @@ To solve the issue, add the following line to the composer.json:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-development
 
-**Coletado em (UTC):** 2026-10-01T15:28:00.962298+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:06.710110+00:00
 
 ---
 
@@ -3031,7 +3031,7 @@ Choosing the right extensibility method depends on the specific needs of the bus
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-development/app-submission-guidelines
 
-**Coletado em (UTC):** 2026-10-01T15:28:23.760312+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:40.489648+00:00
 
 ---
 
@@ -3162,7 +3162,7 @@ Option 2
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-development/best-practices/credentials
 
-**Coletado em (UTC):** 2026-10-01T15:29:34.785391+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:52.435303+00:00
 
 ---
 
@@ -3351,7 +3351,7 @@ const credentials: Credentials =
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-development/best-practices/logging-troubleshooting
 
-**Coletado em (UTC):** 2026-10-01T15:30:56.446136+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:09.147794+00:00
 
 ---
 
@@ -3572,7 +3572,7 @@ In such instances, investigate the root cause of the timeout error, which could 
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-development/extension-compatibility
 
-**Coletado em (UTC):** 2026-10-01T15:28:25.318927+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:42.180431+00:00
 
 ---
 
@@ -3663,7 +3663,7 @@ for more information.
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-development/learning-path
 
-**Coletado em (UTC):** 2026-10-01T15:29:09.800447+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:30.297162+00:00
 
 ---
 
@@ -3707,7 +3707,7 @@ The following resources will help you get to know the extensibility options offe
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-management
 
-**Coletado em (UTC):** 2026-10-01T15:28:00.361106+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:06.088606+00:00
 
 ---
 
@@ -3777,7 +3777,7 @@ To set up and deploy an App Builder application with App Management, follow thes
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-management/app-metadata
 
-**Coletado em (UTC):** 2026-10-01T15:28:32.373126+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:34.050518+00:00
 
 ---
 
@@ -3854,7 +3854,7 @@ app.commerce.config
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-management/build-deploy
 
-**Coletado em (UTC):** 2026-10-01T15:27:59.837169+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:09.237718+00:00
 
 ---
 
@@ -4000,7 +4000,7 @@ Search text and both dropdowns apply together (logical AND). To display the full
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-management/configuration-schema
 
-**Coletado em (UTC):** 2026-10-01T15:28:33.980579+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:31.365157+00:00
 
 ---
 
@@ -4545,7 +4545,7 @@ Watch this video to learn how to define a configuration schema and see the auto-
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-management/define-app
 
-**Coletado em (UTC):** 2026-10-01T15:27:58.660787+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:05.564994+00:00
 
 ---
 
@@ -4697,7 +4697,7 @@ See [Initialize your app](/commerce/extensibility/app-management/initialize-app)
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-management/initialize-app
 
-**Coletado em (UTC):** 2026-10-01T15:28:35.087732+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:32.969886+00:00
 
 ---
 
@@ -4917,7 +4917,7 @@ The postinstall hook refreshes generated artifacts when you install or update th
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-management/installation
 
-**Coletado em (UTC):** 2026-10-01T15:29:12.392774+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:36.092544+00:00
 
 ---
 
@@ -4938,7 +4938,7 @@ The Installation section covers how to configure event subscriptions, declare Co
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-management/installation/admin-ui-sdk
 
-**Coletado em (UTC):** 2026-10-01T15:28:34.512655+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:33.501660+00:00
 
 ---
 
@@ -5667,7 +5667,7 @@ After changing adminUi, rebuild and deploy your app so the pre-app-build hook re
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-management/installation/customize
 
-**Coletado em (UTC):** 2026-10-01T15:28:33.421928+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:31.905516+00:00
 
 ---
 
@@ -5891,7 +5891,7 @@ After you modify custom installation scripts, you must manually run the npx aio-
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-management/installation/events
 
-**Coletado em (UTC):** 2026-10-01T15:28:31.850862+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:34.575602+00:00
 
 ---
 
@@ -6148,7 +6148,7 @@ Optional unique key for the provider. Maximum 50 characters, alphanumeric with h
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-management/installation/webhooks
 
-**Coletado em (UTC):** 2026-10-01T15:28:32.892921+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:32.432400+00:00
 
 ---
 
@@ -6457,7 +6457,7 @@ When your runtime action **handles** the HTTP callback from Commerce, you build 
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/app-management/troubleshooting
 
-**Coletado em (UTC):** 2026-10-01T15:28:37.819662+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:35.631991+00:00
 
 ---
 
@@ -6731,7 +6731,7 @@ bun x aio-commerce-lib-config encryption validate
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/developer-agent
 
-**Coletado em (UTC):** 2026-10-01T15:27:56.787948+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:08.610040+00:00
 
 ---
 
@@ -6896,7 +6896,7 @@ The following capabilities are not available:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/developer-agent/assessment-development
 
-**Coletado em (UTC):** 2026-10-01T15:29:41.437394+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:50.845002+00:00
 
 ---
 
@@ -7046,7 +7046,7 @@ To continue to iterate on your design refer to the [integrate](/commerce/extensi
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/developer-agent/deployment
 
-**Coletado em (UTC):** 2026-10-01T15:31:18.465403+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:34.732572+00:00
 
 ---
 
@@ -7097,7 +7097,7 @@ Your app is now deployed, installed, and configured. Any events, webhooks, or bu
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/developer-agent/getting-started
 
-**Coletado em (UTC):** 2026-10-01T15:28:27.933343+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:39.963719+00:00
 
 ---
 
@@ -7193,7 +7193,7 @@ If you need additional capacity, contact your Adobe Commerce representative. An 
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/developer-agent/integrations
 
-**Coletado em (UTC):** 2026-10-01T15:31:18.984598+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:34.197854+00:00
 
 ---
 
@@ -7414,7 +7414,7 @@ After you configure integrations, [deploy and install your app](/commerce/extens
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/developer-agent/new-development
 
-**Coletado em (UTC):** 2026-10-01T15:29:41.953027+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:51.900239+00:00
 
 ---
 
@@ -7544,7 +7544,7 @@ The agent retains all project context across your session and across return visi
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/developer-agent/prompting
 
-**Coletado em (UTC):** 2026-10-01T15:29:40.920005+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:51.372166+00:00
 
 ---
 
@@ -7769,7 +7769,7 @@ Consider the following tips when working with the agent's memory:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/developer-agent/support
 
-**Coletado em (UTC):** 2026-10-01T15:28:27.414613+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:39.396363+00:00
 
 ---
 
@@ -7864,7 +7864,7 @@ You may be contacted by the product team to discuss specific feedback in more de
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events
 
-**Coletado em (UTC):** 2026-10-01T15:27:48.419800+00:00
+**Coletado em (UTC):** 2026-10-01T19:33:57.428473+00:00
 
 ---
 
@@ -7888,7 +7888,7 @@ This architecture helps merchants efficiently customize processes and integrate 
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/api
 
-**Coletado em (UTC):** 2026-10-01T15:29:39.883416+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:56.164504+00:00
 
 ---
 
@@ -8486,7 +8486,7 @@ curl --request GET \
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/commands
 
-**Coletado em (UTC):** 2026-10-01T15:31:16.311178+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:36.851442+00:00
 
 ---
 
@@ -8934,7 +8934,7 @@ Module was generated in the app/code/Magento directory
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/conditional-events
 
-**Coletado em (UTC):** 2026-10-01T15:32:08.302350+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:27.709517+00:00
 
 ---
 
@@ -9090,7 +9090,7 @@ You can use the bin/magento events:list -v command to display the contents of yo
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/configure-commerce
 
-**Coletado em (UTC):** 2026-10-01T15:29:44.731978+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:01.991301+00:00
 
 ---
 
@@ -9248,7 +9248,7 @@ Cloud infrastructure and on-premises instances require different cron management
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/consume-events-examples/runtime-action-commerce-callback
 
-**Coletado em (UTC):** 2026-10-01T15:32:08.841198+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:28.276069+00:00
 
 ---
 
@@ -9343,7 +9343,7 @@ After creating a runtime action using this code, you can create an event registr
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/consume-events
 
-**Coletado em (UTC):** 2026-10-01T15:31:20.107938+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:40.620846+00:00
 
 ---
 
@@ -9401,7 +9401,7 @@ You can configure an Adobe I/O event registration to forward received Commerce e
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/context-fields
 
-**Coletado em (UTC):** 2026-10-01T15:31:17.940103+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:37.387392+00:00
 
 ---
 
@@ -9979,7 +9979,7 @@ Active: Yes
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/convert-field-values
 
-**Coletado em (UTC):** 2026-10-01T15:31:15.791023+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:38.444750+00:00
 
 ---
 
@@ -10168,7 +10168,7 @@ This setting takes effect immediately for any environment running version 1.22.0
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/create-events
 
-**Coletado em (UTC):** 2026-10-01T15:29:38.849347+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:55.101294+00:00
 
 ---
 
@@ -10335,7 +10335,7 @@ Click **Select** > **Delete** in the **Action** column to delete an event subscr
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/custom-event-fields
 
-**Coletado em (UTC):** 2026-10-01T15:31:16.836424+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:37.919804+00:00
 
 ---
 
@@ -10465,7 +10465,7 @@ table in Adobe Commerce.
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/events-original-data
 
-**Coletado em (UTC):** 2026-10-01T15:33:21.767875+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:43.784090+00:00
 
 ---
 
@@ -10585,7 +10585,7 @@ The original data can be used in conditional events using the onChange operator 
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/installation
 
-**Coletado em (UTC):** 2026-10-01T15:29:44.210579+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:01.466066+00:00
 
 ---
 
@@ -10648,7 +10648,7 @@ composer update magento/commerce-eventing --with-dependencies
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/module-development
 
-**Coletado em (UTC):** 2026-10-01T15:29:38.332146+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:56.700814+00:00
 
 ---
 
@@ -10868,7 +10868,7 @@ The resulting configuration:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/project-setup
 
-**Coletado em (UTC):** 2026-10-01T15:31:19.547829+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:39.516804+00:00
 
 ---
 
@@ -10918,7 +10918,7 @@ You've completed the basic setup of your project. The next step is to install Ad
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/events/troubleshooting
 
-**Coletado em (UTC):** 2026-10-01T15:31:20.627732+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:40.088795+00:00
 
 ---
 
@@ -11032,7 +11032,7 @@ By default, the consumer will restart within one minute, but this value may vary
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/observability
 
-**Coletado em (UTC):** 2026-10-01T15:28:01.590438+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:07.990596+00:00
 
 ---
 
@@ -11083,7 +11083,7 @@ The following diagram illustrates the high-level architecture of observability i
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/oope-modules
 
-**Coletado em (UTC):** 2026-10-01T15:27:55.591427+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:07.330571+00:00
 
 ---
 
@@ -11133,7 +11133,7 @@ These modules are included by default on Adobe Commerce as a Cloud Service. For 
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/oope-modules/api-integration
 
-**Coletado em (UTC):** 2026-10-01T15:28:22.201184+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:36.712299+00:00
 
 ---
 
@@ -11252,7 +11252,7 @@ This module is included by default in Adobe Commerce as a Cloud Service. For on-
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/oope-modules/custom-attributes
 
-**Coletado em (UTC):** 2026-10-01T15:28:21.139784+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:38.340865+00:00
 
 ---
 
@@ -11275,7 +11275,7 @@ For details on how to use these modules, see the following documentation:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout
 
-**Coletado em (UTC):** 2026-10-01T15:27:56.205935+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:09.777290+00:00
 
 ---
 
@@ -11317,7 +11317,7 @@ For more information on other technologies relevant to this project, see the fol
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/configure
 
-**Coletado em (UTC):** 2026-10-01T15:29:35.349854+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:54.015368+00:00
 
 ---
 
@@ -11348,7 +11348,7 @@ OAuth Server-to-Server credential setup happens as part of [initializing your ap
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/connect
 
-**Coletado em (UTC):** 2026-10-01T15:29:34.225132+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:53.490599+00:00
 
 ---
 
@@ -11407,7 +11407,7 @@ You can debug your application and access customized logs using the LOG_LEVEL en
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/development
 
-**Coletado em (UTC):** 2026-10-01T15:29:40.404005+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:54.540728+00:00
 
 ---
 
@@ -11507,7 +11507,7 @@ npm test
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/eds
 
-**Coletado em (UTC):** 2026-10-01T15:31:14.233093+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:35.785271+00:00
 
 ---
 
@@ -11545,7 +11545,7 @@ If you want to retrieve OOPE payment method information from the Commerce instan
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/getting-started
 
-**Coletado em (UTC):** 2026-10-01T15:28:26.896400+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:41.596734+00:00
 
 ---
 
@@ -11614,7 +11614,7 @@ To install the individual modules, refer to the following topics:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/payment-install
 
-**Coletado em (UTC):** 2026-10-01T15:28:25.838131+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:43.852182+00:00
 
 ---
 
@@ -11666,7 +11666,7 @@ Uninstalling the app disables this payment method via the same endpoint, so it i
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/payment-reference
 
-**Coletado em (UTC):** 2026-10-01T15:29:37.187549+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:55.634560+00:00
 
 ---
 
@@ -12010,7 +12010,7 @@ fragment CHECKOUT_DATA_FRAGMENT on Cart {
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/payment-usage
 
-**Coletado em (UTC):** 2026-10-01T15:31:14.751985+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:36.310780+00:00
 
 ---
 
@@ -12196,7 +12196,7 @@ try {
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/payment-use-cases
 
-**Coletado em (UTC):** 2026-10-01T15:28:22.717643+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:37.807300+00:00
 
 ---
 
@@ -12518,7 +12518,7 @@ You can find examples of how to filter out payment methods using customer data o
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/shipping-install
 
-**Coletado em (UTC):** 2026-10-01T15:28:26.353992+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:42.755690+00:00
 
 ---
 
@@ -12570,7 +12570,7 @@ Uninstalling the app disables these carriers using the same endpoint, so they im
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/shipping-reference
 
-**Coletado em (UTC):** 2026-10-01T15:29:29.721032+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:49.256881+00:00
 
 ---
 
@@ -13046,7 +13046,7 @@ Additionally, you can use additional_data in a query to get carts with available
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/shipping-use-cases
 
-**Coletado em (UTC):** 2026-10-01T15:28:21.656098+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:38.863828+00:00
 
 ---
 
@@ -13346,7 +13346,7 @@ If you use the flatrate shipping method, but want to disable it, you must update
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/tax-install
 
-**Coletado em (UTC):** 2026-10-01T15:28:24.284837+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:41.029707+00:00
 
 ---
 
@@ -13417,7 +13417,7 @@ If you need to use another tax extension, Adobe recommends disabling this extens
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/tax-reference
 
-**Coletado em (UTC):** 2026-10-01T15:29:32.535762+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:44.905689+00:00
 
 ---
 
@@ -13797,7 +13797,7 @@ Yes
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/tax-use-cases
 
-**Coletado em (UTC):** 2026-10-01T15:28:23.239112+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:36.167484+00:00
 
 ---
 
@@ -14182,7 +14182,7 @@ This consistency is critical for third-party integrations that rely on tax class
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/totals-collector-development-considerations
 
-**Coletado em (UTC):** 2026-10-01T15:29:27.519497+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:46.531578+00:00
 
 ---
 
@@ -14214,7 +14214,7 @@ If your endpoint fails or times out, the webhook framework uses the configured f
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/totals-collector-fees
 
-**Coletado em (UTC):** 2026-10-01T15:29:36.095890+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:57.795604+00:00
 
 ---
 
@@ -14450,7 +14450,7 @@ For implementation guidance and development considerations, see [Development con
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/totals-collector-install
 
-**Coletado em (UTC):** 2026-10-01T15:28:24.801863+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:43.327284+00:00
 
 ---
 
@@ -14500,7 +14500,7 @@ After installation, register one or more webhooks so that Adobe Commerce can cal
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/totals-collector-item-prices
 
-**Coletado em (UTC):** 2026-10-01T15:29:36.619027+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:58.321860+00:00
 
 ---
 
@@ -14641,7 +14641,7 @@ For implementation guidance and development considerations, see [Development con
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/totals-collector-use-cases
 
-**Coletado em (UTC):** 2026-10-01T15:28:20.620746+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:37.279949+00:00
 
 ---
 
@@ -14862,7 +14862,7 @@ For totals collector implementation scenarios and guidance, see [Development con
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/checkout/use-cases
 
-**Coletado em (UTC):** 2026-10-01T15:29:25.939432+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:44.383829+00:00
 
 ---
 
@@ -14885,7 +14885,7 @@ For module-specific use cases, refer to the following pages:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/integration
 
-**Coletado em (UTC):** 2026-10-01T15:27:59.175784+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:11.053124+00:00
 
 ---
 
@@ -14936,7 +14936,7 @@ Integrate quickly and easily using the starter kit template, which works with th
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/integration/create-integration
 
-**Coletado em (UTC):** 2026-10-01T15:28:35.654034+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:44.947484+00:00
 
 ---
 
@@ -15266,7 +15266,7 @@ product_id
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/integration/customers
 
-**Coletado em (UTC):** 2026-10-01T15:29:46.348548+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:59.370434+00:00
 
 ---
 
@@ -15315,7 +15315,7 @@ Backoffice integrations support the following create/update methods:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/integration/data-flows
 
-**Coletado em (UTC):** 2026-10-01T15:28:37.258474+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:44.423399+00:00
 
 ---
 
@@ -15350,7 +15350,7 @@ The starter kit supports the following data flows:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/integration/orders
 
-**Coletado em (UTC):** 2026-10-01T15:29:47.485488+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:00.942890+00:00
 
 ---
 
@@ -15382,7 +15382,7 @@ Backoffice integrations support the following update methods:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/integration/products
 
-**Coletado em (UTC):** 2026-10-01T15:29:46.919512+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:58.847193+00:00
 
 ---
 
@@ -15425,7 +15425,7 @@ Backoffice integrations support the following update methods:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/integration/receive-data
 
-**Coletado em (UTC):** 2026-10-01T15:28:36.185022+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:45.494146+00:00
 
 ---
 
@@ -16194,7 +16194,7 @@ The stock synchronization that connects a third-party system and Adobe Commerce 
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/integration/send-data
 
-**Coletado em (UTC):** 2026-10-01T15:28:36.731938+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:46.034101+00:00
 
 ---
 
@@ -16352,7 +16352,7 @@ deleted:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/integration/shipments
 
-**Coletado em (UTC):** 2026-10-01T15:29:48.004359+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:59.895955+00:00
 
 ---
 
@@ -16377,7 +16377,7 @@ Adobe Commerce and backoffice integrations support the following create methods:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/starter-kit/integration/stock
 
-**Coletado em (UTC):** 2026-10-01T15:29:45.780535+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:00.419276+00:00
 
 ---
 
@@ -16429,7 +16429,7 @@ Backoffice integrations support the following update methods:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks
 
-**Coletado em (UTC):** 2026-10-01T15:27:58.070268+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:11.672949+00:00
 
 ---
 
@@ -16464,7 +16464,7 @@ Use these guidelines to develop your own webhooks:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/api
 
-**Coletado em (UTC):** 2026-10-01T15:28:30.793045+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:49.328445+00:00
 
 ---
 
@@ -16725,7 +16725,7 @@ curl --request GET \
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/commands
 
-**Coletado em (UTC):** 2026-10-01T15:28:29.695554+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:46.560393+00:00
 
 ---
 
@@ -17044,7 +17044,7 @@ The webhook endpoint receives the following payload, according to fields configu
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/conditional-webhooks
 
-**Coletado em (UTC):** 2026-10-01T15:29:43.007761+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:03.057274+00:00
 
 ---
 
@@ -17235,7 +17235,7 @@ You can use the bin/magento webhooks:list command to display the contents of you
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/create-webhooks
 
-**Coletado em (UTC):** 2026-10-01T15:29:26.465513+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:45.997125+00:00
 
 ---
 
@@ -17568,7 +17568,7 @@ true
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/hooks
 
-**Coletado em (UTC):** 2026-10-01T15:28:30.258370+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:47.707746+00:00
 
 ---
 
@@ -18676,7 +18676,7 @@ If the instance is in developer mode, these configuration changes are detected a
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/installation
 
-**Coletado em (UTC):** 2026-10-01T15:30:56.965754+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:08.621832+00:00
 
 ---
 
@@ -18719,7 +18719,7 @@ Use the following procedure to update minor or patch versions of Adobe Commerce 
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/responses
 
-**Coletado em (UTC):** 2026-10-01T15:28:31.321322+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:48.270187+00:00
 
 ---
 
@@ -19011,7 +19011,7 @@ You can filter logs by multiple fields, such as webhook method, type, hook name,
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/signature-verification
 
-**Coletado em (UTC):** 2026-10-01T15:29:26.996395+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:45.442576+00:00
 
 ---
 
@@ -19182,7 +19182,7 @@ exports.main = main
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/testing
 
-**Coletado em (UTC):** 2026-10-01T15:28:29.173384+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:48.801930+00:00
 
 ---
 
@@ -19328,7 +19328,7 @@ Or, to specify the path to the SSL certificate:
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/tutorial/best-practices
 
-**Coletado em (UTC):** 2026-10-01T15:29:42.491178+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:04.241547+00:00
 
 ---
 
@@ -19494,7 +19494,7 @@ For further assistance or inquiries, please post your question in the [#app-buil
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/use-cases
 
-**Coletado em (UTC):** 2026-10-01T15:28:28.451790+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:47.090549+00:00
 
 ---
 
@@ -19510,7 +19510,7 @@ This section uses common scenarios to describe how to implement webhooks on Adob
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/use-cases/order-placement-validation
 
-**Coletado em (UTC):** 2026-10-01T15:29:31.976534+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:47.584504+00:00
 
 ---
 
@@ -19794,7 +19794,7 @@ response.body = JSON.stringify({
 
 **Fonte original:** https://developer.adobe.com/commerce/extensibility/webhooks/xml-schema
 
-**Coletado em (UTC):** 2026-10-01T15:29:30.868584+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:43.850191+00:00
 
 ---
 
@@ -20091,7 +20091,7 @@ Not applicable
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core
 
-**Coletado em (UTC):** 2026-10-01T15:27:50.293431+00:00
+**Coletado em (UTC):** 2026-10-01T19:33:59.373957+00:00
 
 ---
 
@@ -20164,7 +20164,7 @@ GitHub
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/css/debug
 
-**Coletado em (UTC):** 2026-10-01T15:34:11.539587+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:31.341988+00:00
 
 ---
 
@@ -20221,7 +20221,7 @@ To change or override any of these variables, simply create a file in <theme-dir
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/css/fonts
 
-**Coletado em (UTC):** 2026-10-01T15:34:11.019601+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:30.816030+00:00
 
 ---
 
@@ -20331,7 +20331,7 @@ CSS rule.
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/css/preprocess
 
-**Coletado em (UTC):** 2026-10-01T15:34:00.386707+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:19.609723+00:00
 
 ---
 
@@ -20610,7 +20610,7 @@ By default, the core code base imports all CSS from all modules, regardless of w
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/css/themes
 
-**Coletado em (UTC):** 2026-10-01T15:33:52.038571+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:11.082181+00:00
 
 ---
 
@@ -20730,7 +20730,7 @@ topic.
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/css/ui-library
 
-**Coletado em (UTC):** 2026-10-01T15:32:10.437679+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:40.555053+00:00
 
 ---
 
@@ -20964,7 +20964,7 @@ Each file is named after the mixin it describes, and contains detailed mixin des
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/layouts/extend
 
-**Coletado em (UTC):** 2026-10-01T15:33:49.919463+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:13.283255+00:00
 
 ---
 
@@ -21020,7 +21020,7 @@ The application merges layout files as follows:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/layouts/override
 
-**Coletado em (UTC):** 2026-10-01T15:33:50.463869+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:11.609685+00:00
 
 ---
 
@@ -21135,7 +21135,7 @@ Although the layout overriding mechanism provides great customization flexibilit
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/layouts/types
 
-**Coletado em (UTC):** 2026-10-01T15:33:58.387381+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:20.187653+00:00
 
 ---
 
@@ -21485,7 +21485,7 @@ Sample generic layout:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions
 
-**Coletado em (UTC):** 2026-10-01T15:34:02.560278+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:22.989894+00:00
 
 ---
 
@@ -22191,7 +22191,7 @@ $helperMethodResult = $block->getData('helper_method_result'); // or $block->get
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage
 
-**Coletado em (UTC):** 2026-10-01T15:34:01.514655+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:23.539015+00:00
 
 ---
 
@@ -23108,7 +23108,7 @@ These files must be placed in the appropriate folders for layout XML files. They
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/templates/override
 
-**Coletado em (UTC):** 2026-10-01T15:34:19.291171+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:39.837737+00:00
 
 ---
 
@@ -23229,7 +23229,7 @@ In order to support the translation of content, the text must be wrapped inside 
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/templates/sample
 
-**Coletado em (UTC):** 2026-10-01T15:33:51.515371+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:12.759141+00:00
 
 ---
 
@@ -23259,7 +23259,7 @@ When the Orange theme was applied, the mini shopping cart with products looked l
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/templates/walkthrough
 
-**Coletado em (UTC):** 2026-10-01T15:34:17.640785+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:38.253679+00:00
 
 ---
 
@@ -23325,7 +23325,7 @@ Here's how the form will look when the Orange theme is applied in a store:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/themes/apply-admin
 
-**Coletado em (UTC):** 2026-10-01T15:34:10.464342+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:31.869554+00:00
 
 ---
 
@@ -23410,7 +23410,7 @@ The last step is to open the Admin in browser and view the new theme applied.
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/themes/apply-storefront
 
-**Coletado em (UTC):** 2026-10-01T15:33:50.978720+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:12.189489+00:00
 
 ---
 
@@ -23494,7 +23494,7 @@ If the changes you configure in the Admin are not applied after you clear the ca
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/themes/configure
 
-**Coletado em (UTC):** 2026-10-01T15:34:09.895027+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:32.394733+00:00
 
 ---
 
@@ -23732,7 +23732,7 @@ Variables may be used within the scope of modules than the defined one.
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/themes/create-admin
 
-**Coletado em (UTC):** 2026-10-01T15:34:17.120388+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:37.163547+00:00
 
 ---
 
@@ -23821,7 +23821,7 @@ See the [Apply a custom Admin theme topic](/commerce/frontend-core/guide/themes/
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/themes/create-storefront
 
-**Coletado em (UTC):** 2026-10-01T15:33:59.332041+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:21.289846+00:00
 
 ---
 
@@ -24088,7 +24088,7 @@ For information on how to apply the theme for the storefront, see the [Apply and
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/themes/debug
 
-**Coletado em (UTC):** 2026-10-01T15:34:12.095429+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:34.008453+00:00
 
 ---
 
@@ -24200,7 +24200,7 @@ After you determine which .css or .less file defines the class, you can override
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/themes/inheritance
 
-**Coletado em (UTC):** 2026-10-01T15:33:22.326228+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:50.655228+00:00
 
 ---
 
@@ -24371,7 +24371,7 @@ For more information about overriding layout refer to the [Override a layout](/c
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/themes/structure
 
-**Coletado em (UTC):** 2026-10-01T15:32:10.989575+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:40.025276+00:00
 
 ---
 
@@ -24568,7 +24568,7 @@ Dynamic view files are located in a theme directory as follows:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/guide/tools/grunt
 
-**Coletado em (UTC):** 2026-10-01T15:33:59.871772+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:20.761931+00:00
 
 ---
 
@@ -24658,7 +24658,7 @@ To tell Grunt to use a custom configuration file, instead of the default one, ad
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/custom
 
-**Coletado em (UTC):** 2026-10-01T15:34:12.665399+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:33.458577+00:00
 
 ---
 
@@ -24827,7 +24827,7 @@ $(mage.apply);
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/debug
 
-**Coletado em (UTC):** 2026-10-01T15:33:32.152606+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:51.718406+00:00
 
 ---
 
@@ -24882,7 +24882,7 @@ There is no mage/menu.js in the current theme or parent theme JS files, so the s
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/init
 
-**Coletado em (UTC):** 2026-10-01T15:32:22.229286+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:41.610894+00:00
 
 ---
 
@@ -25117,7 +25117,7 @@ $.ajax({
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/accordion
 
-**Coletado em (UTC):** 2026-10-01T15:33:32.709491+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:51.186625+00:00
 
 ---
 
@@ -25376,7 +25376,7 @@ The result is three sections with separate swapped content.
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/alert
 
-**Coletado em (UTC):** 2026-10-01T15:33:31.624494+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:52.772768+00:00
 
 ---
 
@@ -25620,7 +25620,7 @@ require([
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/collapsible
 
-**Coletado em (UTC):** 2026-10-01T15:34:00.905103+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:21.861880+00:00
 
 ---
 
@@ -26217,7 +26217,7 @@ The result is two sections with separate collapsible content.
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/confirm
 
-**Coletado em (UTC):** 2026-10-01T15:33:31.102059+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:53.298794+00:00
 
 ---
 
@@ -26482,7 +26482,7 @@ require([
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/gallery
 
-**Coletado em (UTC):** 2026-10-01T15:34:16.532150+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:37.716701+00:00
 
 ---
 
@@ -27106,7 +27106,7 @@ The breakpoints options are set in the view.xml configuration file of a theme. T
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/magnifier
 
-**Coletado em (UTC):** 2026-10-01T15:34:18.729072+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:39.308031+00:00
 
 ---
 
@@ -27240,7 +27240,7 @@ For an example of setting the gallery option, see the [view.xml](https://github.
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/modal
 
-**Coletado em (UTC):** 2026-10-01T15:31:29.929569+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:47.986157+00:00
 
 ---
 
@@ -27644,7 +27644,7 @@ The result is a modal and a button (*Click Here*) that opens the modal.
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/prompt
 
-**Coletado em (UTC):** 2026-10-01T15:33:29.486742+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:53.826188+00:00
 
 ---
 
@@ -27953,7 +27953,7 @@ The prompt widget implements the following events:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/tabs
 
-**Coletado em (UTC):** 2026-10-01T15:33:53.097222+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:13.855280+00:00
 
 ---
 
@@ -28224,7 +28224,7 @@ The result is three tabs with content, where the last tab is disabled based on i
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/mixins
 
-**Coletado em (UTC):** 2026-10-01T15:29:56.461471+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:09.860598+00:00
 
 ---
 
@@ -28462,7 +28462,7 @@ The following is a list of files in the [Magento_CheckoutAgreement](https://gith
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/javascript/requirejs
 
-**Coletado em (UTC):** 2026-10-01T15:34:02.040903+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:22.459323+00:00
 
 ---
 
@@ -28670,7 +28670,7 @@ config: {
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/action-delete
 
-**Coletado em (UTC):** 2026-10-01T15:33:03.257920+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:07.815999+00:00
 
 ---
 
@@ -28757,7 +28757,7 @@ This is an example of how ActionDelete component integrates with [DynamicRows](/
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/actions-column
 
-**Coletado em (UTC):** 2026-10-01T15:32:51.792694+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:50.577145+00:00
 
 ---
 
@@ -28911,7 +28911,7 @@ class Actions extends Column
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/bookmarks
 
-**Coletado em (UTC):** 2026-10-01T15:32:44.360015+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:49.484471+00:00
 
 ---
 
@@ -28987,7 +28987,7 @@ This is an example of how to integrate the Bookmarks component with the [Listing
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/button
 
-**Coletado em (UTC):** 2026-10-01T15:32:43.327950+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:01.131166+00:00
 
 ---
 
@@ -29180,7 +29180,7 @@ This is an example of how to integrate the Button component with the [Form](/com
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/checkbox-set
 
-**Coletado em (UTC):** 2026-10-01T15:33:03.792595+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:08.350473+00:00
 
 ---
 
@@ -29279,7 +29279,7 @@ This is an example of how to integrate the Checkboxset component with the [Form]
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/checkbox
 
-**Coletado em (UTC):** 2026-10-01T15:33:01.677479+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:12.395210+00:00
 
 ---
 
@@ -29462,7 +29462,7 @@ This is an example of how to integrate the Checkbox component with the [Form](/c
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/column
 
-**Coletado em (UTC):** 2026-10-01T15:32:48.600121+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:54.480496+00:00
 
 ---
 
@@ -29655,7 +29655,7 @@ This is an example of how the fieldAction option can be configured for the Colum
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/columns-controls
 
-**Coletado em (UTC):** 2026-10-01T15:32:54.450163+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:47.247646+00:00
 
 ---
 
@@ -29748,7 +29748,7 @@ return Collection.extend({
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/columns
 
-**Coletado em (UTC):** 2026-10-01T15:32:53.929488+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:00.600029+00:00
 
 ---
 
@@ -29954,7 +29954,7 @@ This is an example of how the Columns component with the list display mode integ
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/date-column
 
-**Coletado em (UTC):** 2026-10-01T15:32:42.248226+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:51.667381+00:00
 
 ---
 
@@ -30028,7 +30028,7 @@ This is an example of how the DateColumn component integrates with the [Listing]
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/drag-and-drop
 
-**Coletado em (UTC):** 2026-10-01T15:32:45.411932+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:58.378053+00:00
 
 ---
 
@@ -30115,7 +30115,7 @@ This example disables the DragAndDrop component for the [Columns](/commerce/fron
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/dynamic-rows
 
-**Coletado em (UTC):** 2026-10-01T15:33:37.909353+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:00.220531+00:00
 
 ---
 
@@ -30298,7 +30298,7 @@ This is an example of how the DynamicRows component integrates with the [Form](/
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/email
 
-**Coletado em (UTC):** 2026-10-01T15:32:55.503708+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:08.882803+00:00
 
 ---
 
@@ -30368,7 +30368,7 @@ This example integrates the Paging component with the [Form](/commerce/frontend-
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/expandable-column
 
-**Coletado em (UTC):** 2026-10-01T15:32:50.201984+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:50.050770+00:00
 
 ---
 
@@ -30479,7 +30479,7 @@ The following API methods are available:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/export-button
 
-**Coletado em (UTC):** 2026-10-01T15:32:50.716496+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:47.782158+00:00
 
 ---
 
@@ -30588,7 +30588,7 @@ Extends [UiElement](/commerce/frontend-core/ui-components/concepts/element):
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/fieldset
 
-**Coletado em (UTC):** 2026-10-01T15:33:00.089467+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:14.612835+00:00
 
 ---
 
@@ -30697,7 +30697,7 @@ Extends [uiCollection](/commerce/frontend-core/ui-components/concepts/collection
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/file-uploader
 
-**Coletado em (UTC):** 2026-10-01T15:32:54.988362+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:11.601108+00:00
 
 ---
 
@@ -30805,7 +30805,7 @@ Extends abstract:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/file
 
-**Coletado em (UTC):** 2026-10-01T15:32:56.579384+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:06.121110+00:00
 
 ---
 
@@ -30897,7 +30897,7 @@ This is an example of how the File component integrates with the [Form](/commerc
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/filters-chips
 
-**Coletado em (UTC):** 2026-10-01T15:32:48.059340+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:57.813427+00:00
 
 ---
 
@@ -30966,7 +30966,7 @@ This is an example of how the FiltersChips component integrates with the [Filter
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/filters
 
-**Coletado em (UTC):** 2026-10-01T15:32:52.332319+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:48.351643+00:00
 
 ---
 
@@ -31098,7 +31098,7 @@ This example integrates the Filters component with the [Listing](/commerce/front
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/form
 
-**Coletado em (UTC):** 2026-10-01T15:31:53.560291+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:57.206104+00:00
 
 ---
 
@@ -31430,7 +31430,7 @@ Extends [uiCollection](/commerce/frontend-core/ui-components/concepts/collection
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/hidden
 
-**Coletado em (UTC):** 2026-10-01T15:33:04.329749+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:11.076718+00:00
 
 ---
 
@@ -31491,7 +31491,7 @@ This example integrates the Hidden component with the [Form](/commerce/frontend-
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/html-content
 
-**Coletado em (UTC):** 2026-10-01T15:32:57.117687+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:04.984205+00:00
 
 ---
 
@@ -31614,7 +31614,7 @@ Extends uiComponent:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/image-preview
 
-**Coletado em (UTC):** 2026-10-01T15:32:43.846038+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:55.008846+00:00
 
 ---
 
@@ -31697,7 +31697,7 @@ Extends Column:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/input
 
-**Coletado em (UTC):** 2026-10-01T15:32:58.418341+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:14.049232+00:00
 
 ---
 
@@ -31826,7 +31826,7 @@ This example integrates the Input component with the [Form](/commerce/frontend-c
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/insert-listing
 
-**Coletado em (UTC):** 2026-10-01T15:33:37.387218+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:57.594753+00:00
 
 ---
 
@@ -32114,7 +32114,7 @@ As a result, we see the button which opens the modal pop-up with listing:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/link-column
 
-**Coletado em (UTC):** 2026-10-01T15:32:51.257197+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:59.508177+00:00
 
 ---
 
@@ -32217,7 +32217,7 @@ class CustomDataProvider extends DataProvider
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/listing-grid
 
-**Coletado em (UTC):** 2026-10-01T15:31:53.001142+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:55.564992+00:00
 
 ---
 
@@ -32327,7 +32327,7 @@ The listing component requires the data source to be properly configured and ass
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/mass-actions
 
-**Coletado em (UTC):** 2026-10-01T15:32:49.142644+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:52.820490+00:00
 
 ---
 
@@ -32501,7 +32501,7 @@ The following API methods are available:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/modal
 
-**Coletado em (UTC):** 2026-10-01T15:33:30.007901+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:54.354717+00:00
 
 ---
 
@@ -32731,7 +32731,7 @@ Extends [uiCollection](/commerce/frontend-core/ui-components/concepts/collection
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/multiline
 
-**Coletado em (UTC):** 2026-10-01T15:33:05.061602+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:12.961297+00:00
 
 ---
 
@@ -32882,7 +32882,7 @@ Extends [UiCollection](/commerce/frontend-core/ui-components/concepts/collection
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/multiselect-column
 
-**Coletado em (UTC):** 2026-10-01T15:32:49.686794+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:57.244342+00:00
 
 ---
 
@@ -33053,7 +33053,7 @@ No events are generated. Any other component that can retrieve access to this co
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/multiselect
 
-**Coletado em (UTC):** 2026-10-01T15:33:00.629335+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:07.290569+00:00
 
 ---
 
@@ -33146,7 +33146,7 @@ Extends [Select](/commerce/frontend-core/ui-components/components/select)
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/on-off-column
 
-**Coletado em (UTC):** 2026-10-01T15:32:45.946102+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:52.244474+00:00
 
 ---
 
@@ -33218,7 +33218,7 @@ This example integrates the OnOffColumn component with the [Listing](/commerce/f
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/paging
 
-**Coletado em (UTC):** 2026-10-01T15:32:46.460316+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:56.673673+00:00
 
 ---
 
@@ -33326,7 +33326,7 @@ This example configures the Paging component with the page size and options:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/radio-set
 
-**Coletado em (UTC):** 2026-10-01T15:32:59.532671+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:09.978928+00:00
 
 ---
 
@@ -33416,7 +33416,7 @@ This is an example of how the Radioset component integrates with the [Form](/com
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/range
 
-**Coletado em (UTC):** 2026-10-01T15:32:53.393112+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:53.951851+00:00
 
 ---
 
@@ -33519,7 +33519,7 @@ The following API methods are available:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/search
 
-**Coletado em (UTC):** 2026-10-01T15:32:41.476871+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:51.142601+00:00
 
 ---
 
@@ -33589,7 +33589,7 @@ This is an example of how the Search component integrates with the [Listing](/co
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/secondary-ui-select
 
-**Coletado em (UTC):** 2026-10-01T15:32:40.958810+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:58.938539+00:00
 
 ---
 
@@ -33871,7 +33871,7 @@ Navigation keys:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/select-column
 
-**Coletado em (UTC):** 2026-10-01T15:32:52.871349+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:55.533829+00:00
 
 ---
 
@@ -33985,7 +33985,7 @@ This is an example of how the SelectColumn component integrates with the [Listin
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/select
 
-**Coletado em (UTC):** 2026-10-01T15:32:56.042835+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:09.450661+00:00
 
 ---
 
@@ -34082,7 +34082,7 @@ Extends [Abstract](https://github.com/magento/magento2/blob/2.4/app/code/Magento
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/sizes
 
-**Coletado em (UTC):** 2026-10-01T15:32:44.875705+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:00.031819+00:00
 
 ---
 
@@ -34181,7 +34181,7 @@ This example integrates the Sizes component with the [Paging](/commerce/frontend
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/text-area
 
-**Coletado em (UTC):** 2026-10-01T15:33:02.192188+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:05.554156+00:00
 
 ---
 
@@ -34273,7 +34273,7 @@ This example integrates the Textarea component with the [Form](/commerce/fronten
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/text
 
-**Coletado em (UTC):** 2026-10-01T15:32:57.900877+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:13.523252+00:00
 
 ---
 
@@ -34366,7 +34366,7 @@ The following example integrates the Text component with the [Form](/commerce/fr
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/thumbnail-column
 
-**Coletado em (UTC):** 2026-10-01T15:32:42.785456+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:53.386957+00:00
 
 ---
 
@@ -34425,7 +34425,7 @@ Extends [Column](/commerce/frontend-core/ui-components/components/column):
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/toolbar
 
-**Coletado em (UTC):** 2026-10-01T15:32:46.979690+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:48.917070+00:00
 
 ---
 
@@ -34510,7 +34510,7 @@ Extends [UiCollection](/commerce/frontend-core/ui-components/concepts/collection
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/components/tree-mass-actions
 
-**Coletado em (UTC):** 2026-10-01T15:32:47.517879+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:56.103125+00:00
 
 ---
 
@@ -34621,7 +34621,7 @@ Extends [MassActions](/commerce/frontend-core/ui-components/components/mass-acti
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/class
 
-**Coletado em (UTC):** 2026-10-01T15:33:38.431992+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:59.696998+00:00
 
 ---
 
@@ -34703,7 +34703,7 @@ defaults: {
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/collection
 
-**Coletado em (UTC):** 2026-10-01T15:33:01.163989+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:06.687991+00:00
 
 ---
 
@@ -34765,7 +34765,7 @@ Here elems is the collection of the child elements of uiCollection. As far as el
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/configuration-flow
 
-**Coletado em (UTC):** 2026-10-01T15:33:38.951605+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:59.171529+00:00
 
 ---
 
@@ -34824,7 +34824,7 @@ Now it is the client's turn to process this JSON and generate the UI component's
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/data-source
 
-**Coletado em (UTC):** 2026-10-01T15:32:58.956741+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:10.505192+00:00
 
 ---
 
@@ -34938,7 +34938,7 @@ In the example above, it will return the totalRecords property of the data objec
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/element
 
-**Coletado em (UTC):** 2026-10-01T15:33:35.495384+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:55.972448+00:00
 
 ---
 
@@ -34964,7 +34964,7 @@ uiElement source code is <Magento_Ui_module_dir>/view/base/web/js/lib/core/eleme
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/linking
 
-**Coletado em (UTC):** 2026-10-01T15:33:02.732617+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:04.453237+00:00
 
 ---
 
@@ -35180,7 +35180,7 @@ We can also build complex templates strings using this syntax, as follows:
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/modifier
 
-**Coletado em (UTC):** 2026-10-01T15:33:54.154398+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:14.971698+00:00
 
 ---
 
@@ -35306,7 +35306,7 @@ For illustration see [\Magento\Catalog\Ui\DataProvider\Product\Form\Modifier\Lay
 
 **Fonte original:** https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/xml-declaration
 
-**Coletado em (UTC):** 2026-10-01T15:33:53.638549+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:15.500656+00:00
 
 ---
 
@@ -35450,7 +35450,7 @@ For more information about the configuration flow, refer to the [Configuration F
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace
 
-**Coletado em (UTC):** 2026-10-01T15:27:52.782948+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:02.485649+00:00
 
 ---
 
@@ -35532,7 +35532,7 @@ We encourage you to participate in our open documentation initiative. If you hav
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/account-setup-process
 
-**Coletado em (UTC):** 2026-10-01T15:30:09.669466+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:26.904239+00:00
 
 ---
 
@@ -35573,7 +35573,7 @@ Your [account information](/commerce/marketplace/guides/sellers/profile-informat
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/account-setup
 
-**Coletado em (UTC):** 2026-10-01T15:28:57.553900+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:08.131105+00:00
 
 ---
 
@@ -35593,7 +35593,7 @@ Create a new Commerce Marketplace account, or use your existing Magento account.
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/analytics
 
-**Coletado em (UTC):** 2026-10-01T15:31:35.502351+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:53.459441+00:00
 
 ---
 
@@ -35622,7 +35622,7 @@ Shows page hits for your top five products. All products and their page hits ar
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/before-you-begin
 
-**Coletado em (UTC):** 2026-10-01T15:28:08.471805+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:18.869674+00:00
 
 ---
 
@@ -35655,7 +35655,7 @@ Before you begin the submission process, you need to have the following items re
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/branding
 
-**Coletado em (UTC):** 2026-10-01T15:30:04.453515+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:16.516624+00:00
 
 ---
 
@@ -35705,7 +35705,7 @@ Approved Magento trademarks can be used in your extension listing or website onl
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/code-sniffer
 
-**Coletado em (UTC):** 2026-10-01T15:30:07.048365+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:21.792260+00:00
 
 ---
 
@@ -35791,7 +35791,7 @@ We welcome feedback and discussion on the [Magento Community Engineering Slack](
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/content
 
-**Coletado em (UTC):** 2026-10-01T15:28:55.486645+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:05.968294+00:00
 
 ---
 
@@ -35878,7 +35878,7 @@ Supported formats: PDF
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/copy-paste-detector
 
-**Coletado em (UTC):** 2026-10-01T15:30:06.019835+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:24.190954+00:00
 
 ---
 
@@ -35927,7 +35927,7 @@ We always welcome feedback and discussion on the [Magento Community Engineering 
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/developer-portal
 
-**Coletado em (UTC):** 2026-10-01T15:30:10.185554+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:26.378868+00:00
 
 ---
 
@@ -35973,7 +35973,7 @@ Account Information<br/>Sign Out
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/developer-register
 
-**Coletado em (UTC):** 2026-10-01T15:30:10.772889+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:27.476758+00:00
 
 ---
 
@@ -36008,7 +36008,7 @@ When prompted, select the type of account you want to create, and click **Choose
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/extension-create
 
-**Coletado em (UTC):** 2026-10-01T15:28:58.583547+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:09.710631+00:00
 
 ---
 
@@ -36045,7 +36045,7 @@ Commerce Marketplace does not support encrypted extensions at this time.
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/extension-information
 
-**Coletado em (UTC):** 2026-10-01T15:30:01.808823+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:19.078252+00:00
 
 ---
 
@@ -36117,7 +36117,7 @@ Are subscription payments ALSO required to your company for the integration
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/extension-quality-program
 
-**Coletado em (UTC):** 2026-10-01T15:30:11.289825+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:28.001801+00:00
 
 ---
 
@@ -36159,7 +36159,7 @@ When your [code passes](/commerce/marketplace/guides/sellers/sales) Technical Re
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/extension-resubmit
 
-**Coletado em (UTC):** 2026-10-01T15:31:36.581076+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:55.040268+00:00
 
 ---
 
@@ -36188,7 +36188,7 @@ If an listing fails a test at any time during the review process, you can correc
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/extension-version
 
-**Coletado em (UTC):** 2026-10-01T15:28:56.001572+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:05.394939+00:00
 
 ---
 
@@ -36217,7 +36217,7 @@ You can save progress and edit the extension information as needed.
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/extensions
 
-**Coletado em (UTC):** 2026-10-01T15:31:36.022741+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:54.513280+00:00
 
 ---
 
@@ -36286,7 +36286,7 @@ The date of the last change made to the version.
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/image-tips
 
-**Coletado em (UTC):** 2026-10-01T15:30:00.781947+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:24.716510+00:00
 
 ---
 
@@ -36315,7 +36315,7 @@ PNG
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/installation-and-varnish-tests
 
-**Coletado em (UTC):** 2026-10-01T15:30:07.585357+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:20.694435+00:00
 
 ---
 
@@ -36448,7 +36448,7 @@ In this situation, the extension must be reviewed manually.
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/malware-scan
 
-**Coletado em (UTC):** 2026-10-01T15:30:05.503639+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:20.169749+00:00
 
 ---
 
@@ -36502,7 +36502,7 @@ We always welcome feedback and discussion on the [Magento Community Engineering 
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/marketing-review-guidelines
 
-**Coletado em (UTC):** 2026-10-01T15:30:00.265869+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:25.287404+00:00
 
 ---
 
@@ -36593,7 +36593,7 @@ The Magento name and its related logos are trademarks owned by Adobe. Your exten
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/mftf-magento
 
-**Coletado em (UTC):** 2026-10-01T15:30:04.969437+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:23.620426+00:00
 
 ---
 
@@ -36686,7 +36686,7 @@ See [MFTF Reporting](https://developer.adobe.com/commerce/testing/functional-tes
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/mftf-vendor
 
-**Coletado em (UTC):** 2026-10-01T15:30:08.101424+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:21.259597+00:00
 
 ---
 
@@ -36768,7 +36768,7 @@ The Allure results returned to Marketplace can be downloaded and displayed as an
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/product-descriptions
 
-**Coletado em (UTC):** 2026-10-01T15:30:03.938856+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:17.317853+00:00
 
 ---
 
@@ -36875,7 +36875,7 @@ ATTENTION: Use this extension at your own risk. Sensitive customer payment data 
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/profile-information
 
-**Coletado em (UTC):** 2026-10-01T15:31:34.920932+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:53.982640+00:00
 
 ---
 
@@ -37034,7 +37034,7 @@ Click **Partner Portal** to open the Adobe Commerce Partner Portal dashboard.
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/revenue-share
 
-**Coletado em (UTC):** 2026-10-01T15:30:09.156616+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:28.525554+00:00
 
 ---
 
@@ -37065,7 +37065,7 @@ Adobe reserves the right to charge commission on sales of Apps submitted after 2
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/review-report
 
-**Coletado em (UTC):** 2026-10-01T15:32:26.409057+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:46.682766+00:00
 
 ---
 
@@ -37109,7 +37109,7 @@ To resolve this issue, change the stability value to stable or beta in the packa
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/sales
 
-**Coletado em (UTC):** 2026-10-01T15:28:57.035503+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:09.183894+00:00
 
 ---
 
@@ -37189,7 +37189,7 @@ Lists all payouts you've received.
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/seller-overview
 
-**Coletado em (UTC):** 2026-10-01T15:28:09.592724+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:19.419441+00:00
 
 ---
 
@@ -37255,7 +37255,7 @@ Although you are not prevented from listing and selling your products and servic
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/semantic-version-check
 
-**Coletado em (UTC):** 2026-10-01T15:30:06.534473+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:22.324601+00:00
 
 ---
 
@@ -37325,7 +37325,7 @@ We always welcome feedback and discussion on the [Magento Community Engineering 
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/shared-packages
 
-**Coletado em (UTC):** 2026-10-01T15:30:03.424436+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:18.518351+00:00
 
 ---
 
@@ -37358,7 +37358,7 @@ The date of the last change made to the version.
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/submit-for-marketing-review
 
-**Coletado em (UTC):** 2026-10-01T15:28:54.425149+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:07.556964+00:00
 
 ---
 
@@ -37460,7 +37460,7 @@ If issues, errors, or changes are required, you will receive an email failure no
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/submit-for-review
 
-**Coletado em (UTC):** 2026-10-01T15:28:58.070053+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:08.654697+00:00
 
 ---
 
@@ -37501,7 +37501,7 @@ You must complete both the technical and marketing review to fully list your pro
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/submit-for-technical-review
 
-**Coletado em (UTC):** 2026-10-01T15:28:54.944434+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:06.493914+00:00
 
 ---
 
@@ -37650,7 +37650,7 @@ If applicable, identifies each shared package that is required by this extension
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/subscriptions/buying-subscriptions
 
-**Coletado em (UTC):** 2026-10-01T15:28:09.032070+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:18.344913+00:00
 
 ---
 
@@ -37720,7 +37720,7 @@ Thank you for using the Adobe Commerce Marketplace. For all questions and sugges
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/technical-review-guidelines
 
-**Coletado em (UTC):** 2026-10-01T15:28:56.516110+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:07.024907+00:00
 
 ---
 
@@ -37875,7 +37875,7 @@ Extensions that claim to support Magento Page Builder are subject to the followi
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/themes
 
-**Coletado em (UTC):** 2026-10-01T15:30:02.323129+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:19.604389+00:00
 
 ---
 
@@ -37910,7 +37910,7 @@ The date of the last change made to the version.
 
 **Fonte original:** https://developer.adobe.com/commerce/marketplace/guides/sellers/video-tips
 
-**Coletado em (UTC):** 2026-10-01T15:30:01.295059+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:25.814121+00:00
 
 ---
 
@@ -37962,7 +37962,7 @@ Most video editing tools manage audio in layers that are separate from the video
 
 **Fonte original:** https://developer.adobe.com/commerce/php
 
-**Coletado em (UTC):** 2026-10-01T15:27:50.895463+00:00
+**Coletado em (UTC):** 2026-10-01T19:33:59.997976+00:00
 
 ---
 
@@ -38051,7 +38051,7 @@ GitHub
 
 **Fonte original:** https://developer.adobe.com/commerce/php/architecture/modules/areas
 
-**Coletado em (UTC):** 2026-10-01T15:31:29.369974+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:48.520184+00:00
 
 ---
 
@@ -38124,7 +38124,7 @@ Note that only the **execute()** method of any given controller is executed.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/coding-standards/less
 
-**Coletado em (UTC):** 2026-10-01T15:33:22.848708+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:50.119413+00:00
 
 ---
 
@@ -38987,7 +38987,7 @@ Use single quotes.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/build/component-file-structure
 
-**Coletado em (UTC):** 2026-10-01T15:31:22.265544+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:47.453785+00:00
 
 ---
 
@@ -39136,7 +39136,7 @@ For more information about language packages, see [Translation dictionaries and 
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/build/component-load-order
 
-**Coletado em (UTC):** 2026-10-01T15:32:40.441231+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:03.324855+00:00
 
 ---
 
@@ -39220,7 +39220,7 @@ in multiple components because it's possible to define circular dependencies. If
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/build/component-name
 
-**Coletado em (UTC):** 2026-10-01T15:31:22.787493+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:46.804743+00:00
 
 ---
 
@@ -39333,7 +39333,7 @@ repository.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/build/component-registration
 
-**Coletado em (UTC):** 2026-10-01T15:31:32.707086+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:51.191508+00:00
 
 ---
 
@@ -39447,7 +39447,7 @@ ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Magento_AdminNotificat
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/build/composer-integration
 
-**Coletado em (UTC):** 2026-10-01T15:32:22.746559+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:42.723877+00:00
 
 ---
 
@@ -39657,7 +39657,7 @@ Using Adobe Commerce and Magento Open Source code as an example, marketing versi
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/build/dependency-injection-file
 
-**Coletado em (UTC):** 2026-10-01T15:32:38.850925+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:02.253504+00:00
 
 ---
 
@@ -40209,7 +40209,7 @@ Plugins for the Preference:
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/build/required-configuration-files
 
-**Coletado em (UTC):** 2026-10-01T15:32:11.541205+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:39.440378+00:00
 
 ---
 
@@ -40294,7 +40294,7 @@ Keep in mind that you might be able to handle your module's configuration solely
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/build/schema-validation
 
-**Coletado em (UTC):** 2026-10-01T15:32:39.906056+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:03.888420+00:00
 
 ---
 
@@ -40377,7 +40377,7 @@ The relative path to other XSDs cannot be used from inside the XSD file, because
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/cli-commands/custom
 
-**Coletado em (UTC):** 2026-10-01T15:32:09.893648+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:41.082918+00:00
 
 ---
 
@@ -40438,7 +40438,7 @@ bin/magento my:first:command --name 'John'
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/add-attributes
 
-**Coletado em (UTC):** 2026-10-01T15:31:54.126424+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:58.291625+00:00
 
 ---
 
@@ -40754,7 +40754,7 @@ In third, array one (in JSON for a change):
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/attributes
 
-**Coletado em (UTC):** 2026-10-01T15:33:43.357604+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:10.545721+00:00
 
 ---
 
@@ -41256,7 +41256,7 @@ Catalog EAV Attribute is_wysiwyg_enabled - used for enabling wysiwyg editor for 
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/code-generation
 
-**Coletado em (UTC):** 2026-10-01T15:33:34.412862+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:58.122662+00:00
 
 ---
 
@@ -41315,7 +41315,7 @@ The code compiler creates the generated/metadata/global.php file, which is a PHP
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/declarative-schema/configuration
 
-**Coletado em (UTC):** 2026-10-01T15:34:07.801567+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:30.276100+00:00
 
 ---
 
@@ -41935,7 +41935,7 @@ When a module is disabled in app/etc/config.php, its database schema configurati
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/declarative-schema/migration-scripts
 
-**Coletado em (UTC):** 2026-10-01T15:34:14.363319+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:36.633742+00:00
 
 ---
 
@@ -42154,7 +42154,7 @@ name
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/declarative-schema/patches
 
-**Coletado em (UTC):** 2026-10-01T15:33:57.114026+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:19.084386+00:00
 
 ---
 
@@ -42313,7 +42313,7 @@ Old scripts will work with new versions of Magento. However, if you want to conv
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/dependency-injection
 
-**Coletado em (UTC):** 2026-10-01T15:31:51.818199+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:56.140063+00:00
 
 ---
 
@@ -42433,7 +42433,7 @@ To get around this limitation, injectable objects can depend on [factories](/com
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/factories
 
-**Coletado em (UTC):** 2026-10-01T15:32:39.373909+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:02.798873+00:00
 
 ---
 
@@ -42548,7 +42548,7 @@ It instructs the application to use the specific [Item](https://github.com/magen
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/message-queues/bulk-operations-example
 
-**Coletado em (UTC):** 2026-10-01T15:30:54.018651+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:04.858064+00:00
 
 ---
 
@@ -42970,7 +42970,7 @@ Message queue configuration files
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/message-queues/bulk-operations
 
-**Coletado em (UTC):** 2026-10-01T15:29:05.436484+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:23.410016+00:00
 
 ---
 
@@ -43089,7 +43089,7 @@ FINISHED_WITH_FAILURE
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/message-queues/configuration
 
-**Coletado em (UTC):** 2026-10-01T15:31:55.269367+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:58.818058+00:00
 
 ---
 
@@ -43715,7 +43715,7 @@ See [Migrate message queue configuration](/commerce/php/development/components/m
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/message-queues/migration
 
-**Coletado em (UTC):** 2026-10-01T15:33:06.119731+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:15.715417+00:00
 
 ---
 
@@ -44153,7 +44153,7 @@ Not present in 2.0. Omit this parameter to accept the default value.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/plugins
 
-**Coletado em (UTC):** 2026-10-01T15:31:52.376757+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:56.665453+00:00
 
 ---
 
@@ -44779,7 +44779,7 @@ When disabling the plugin, make sure to use the same path format to call and dis
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/proxies
 
-**Coletado em (UTC):** 2026-10-01T15:32:38.308518+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:01.726961+00:00
 
 ---
 
@@ -44869,7 +44869,7 @@ The following excerpt from the application code passes the storeManager argument
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/components/web-api/services
 
-**Coletado em (UTC):** 2026-10-01T15:28:03.995395+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:12.290189+00:00
 
 ---
 
@@ -45145,7 +45145,7 @@ The above example create a new parameter override available for use in webapi.xm
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/configuration/sensitive-environment-settings
 
-**Coletado em (UTC):** 2026-10-01T15:33:34.974610+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:58.647042+00:00
 
 ---
 
@@ -45254,7 +45254,7 @@ To set a configuration setting as both sensitive and system-specific, create two
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/package/component
 
-**Coletado em (UTC):** 2026-10-01T15:30:02.836445+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:17.884028+00:00
 
 ---
 
@@ -45467,7 +45467,7 @@ Refer to the [official documentation](https://packagist.com/features/private-vcs
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/payments-integrations/base-integration/facade-configuration
 
-**Coletado em (UTC):** 2026-10-01T15:33:05.581481+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:15.147210+00:00
 
 ---
 
@@ -45616,7 +45616,7 @@ Then, the newly created validator needs to be added to the global pool of valida
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/payments-integrations/base-integration/formblocktype
 
-**Coletado em (UTC):** 2026-10-01T15:33:39.510512+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:01.271698+00:00
 
 ---
 
@@ -45710,7 +45710,7 @@ The following example adds the Braintree-specific template [app/code/Magento/Pay
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/payments-integrations/base-integration/payment-option-config
 
-**Coletado em (UTC):** 2026-10-01T15:31:54.701105+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:57.737122+00:00
 
 ---
 
@@ -45839,7 +45839,7 @@ Following is the illustration of such configuration (config.xml of the Braintree
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/payments-integrations/payment-gateway/command-pool
 
-**Coletado em (UTC):** 2026-10-01T15:33:40.068765+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:00.748348+00:00
 
 ---
 
@@ -45897,7 +45897,7 @@ Following is an example of the command pool configuring for the Braintree paymen
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/payments-integrations/payment-gateway/gateway-client
 
-**Coletado em (UTC):** 2026-10-01T15:34:03.290601+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:24.158385+00:00
 
 ---
 
@@ -45982,7 +45982,7 @@ public function create(array $request)
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/payments-integrations/payment-gateway/gateway-command
 
-**Coletado em (UTC):** 2026-10-01T15:33:54.674110+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:16.073032+00:00
 
 ---
 
@@ -46044,7 +46044,7 @@ Optional arguments :
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/payments-integrations/payment-gateway/request-builder
 
-**Coletado em (UTC):** 2026-10-01T15:34:04.370197+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:24.713836+00:00
 
 ---
 
@@ -46113,7 +46113,7 @@ Example of adding composite builders for the Braintree payment provider ([app/co
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/payments-integrations/payment-gateway/response-handler
 
-**Coletado em (UTC):** 2026-10-01T15:34:03.835213+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:25.843912+00:00
 
 ---
 
@@ -46197,7 +46197,7 @@ class PayPalDetailsHandler implements HandlerInterface
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/payments-integrations/payment-gateway/response-validator
 
-**Coletado em (UTC):** 2026-10-01T15:34:04.887918+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:25.280157+00:00
 
 ---
 
@@ -46299,7 +46299,7 @@ Now, the newly added validator should be specified for a specific command. Below
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/security/content-security-policies
 
-**Coletado em (UTC):** 2026-10-01T15:34:13.187814+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:32.924187+00:00
 
 ---
 
@@ -46696,7 +46696,7 @@ To fix this issue, [whitelist](#whitelist-an-inline-script-or-style) the blocked
 
 **Fonte original:** https://developer.adobe.com/commerce/php/development/versioning/dependencies
 
-**Coletado em (UTC):** 2026-10-01T15:30:08.617310+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:22.851389+00:00
 
 ---
 
@@ -46855,7 +46855,7 @@ PATCH
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-b2b
 
-**Coletado em (UTC):** 2026-10-01T15:30:33.914090+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:00.904259+00:00
 
 ---
 
@@ -46893,7 +46893,7 @@ The version of this module is 100.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-bundle-negotiable-quote
 
-**Coletado em (UTC):** 2026-10-01T15:30:28.582578+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:48.497618+00:00
 
 ---
 
@@ -46936,7 +46936,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-bundle-requisition-list-graph-ql
 
-**Coletado em (UTC):** 2026-10-01T15:30:34.995735+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:41.279513+00:00
 
 ---
 
@@ -46958,7 +46958,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-bundle-requisition-list
 
-**Coletado em (UTC):** 2026-10-01T15:30:27.520544+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:46.314156+00:00
 
 ---
 
@@ -47001,7 +47001,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-bundle-shared-catalog
 
-**Coletado em (UTC):** 2026-10-01T15:30:44.195883+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:44.059945+00:00
 
 ---
 
@@ -47058,7 +47058,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-checkout-address-search-negotiable-quote
 
-**Coletado em (UTC):** 2026-10-01T15:30:41.547825+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:52.936510+00:00
 
 ---
 
@@ -47082,7 +47082,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-checkout-agreements-negotiable-quote
 
-**Coletado em (UTC):** 2026-10-01T15:30:53.481322+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:45.756405+00:00
 
 ---
 
@@ -47104,7 +47104,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-checkout-agreements-purchase-order
 
-**Coletado em (UTC):** 2026-10-01T15:30:39.142558+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:59.764295+00:00
 
 ---
 
@@ -47126,7 +47126,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-asynchronous-operations
 
-**Coletado em (UTC):** 2026-10-01T15:30:37.696613+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:55.669316+00:00
 
 ---
 
@@ -47152,7 +47152,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-credit-graph-ql
 
-**Coletado em (UTC):** 2026-10-01T15:30:20.727377+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:45.182711+00:00
 
 ---
 
@@ -47174,7 +47174,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-credit
 
-**Coletado em (UTC):** 2026-10-01T15:30:42.601263+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:34.117440+00:00
 
 ---
 
@@ -47235,7 +47235,7 @@ The version of this module is 100.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-customer-import-export
 
-**Coletado em (UTC):** 2026-10-01T15:30:47.975083+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:37.353211+00:00
 
 ---
 
@@ -47261,7 +47261,7 @@ The version of this module is 1.5.1.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-graph-ql
 
-**Coletado em (UTC):** 2026-10-01T15:30:30.194030+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:38.458532+00:00
 
 ---
 
@@ -47283,7 +47283,7 @@ The version of this module is 1.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-negotiable-quote-template
 
-**Coletado em (UTC):** 2026-10-01T15:30:25.884126+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:50.158117+00:00
 
 ---
 
@@ -47309,7 +47309,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-negotiable-quote
 
-**Coletado em (UTC):** 2026-10-01T15:30:52.959729+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:39.022897+00:00
 
 ---
 
@@ -47335,7 +47335,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-payment
 
-**Coletado em (UTC):** 2026-10-01T15:30:34.452794+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:01.477469+00:00
 
 ---
 
@@ -47387,7 +47387,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-quote-graph-ql
 
-**Coletado em (UTC):** 2026-10-01T15:30:26.421955+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:47.409340+00:00
 
 ---
 
@@ -47407,7 +47407,7 @@ The version of this module is 1.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-quote
 
-**Coletado em (UTC):** 2026-10-01T15:30:32.851350+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:03.729790+00:00
 
 ---
 
@@ -47433,7 +47433,7 @@ The version of this module is 1.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-relation-shared-catalog
 
-**Coletado em (UTC):** 2026-10-01T15:30:46.354789+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:58.670054+00:00
 
 ---
 
@@ -47477,7 +47477,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-relation
 
-**Coletado em (UTC):** 2026-10-01T15:30:50.659568+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:40.712745+00:00
 
 ---
 
@@ -47521,7 +47521,7 @@ The version of this module is 1.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company-shipping
 
-**Coletado em (UTC):** 2026-10-01T15:30:51.195738+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:04.295692+00:00
 
 ---
 
@@ -47573,7 +47573,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-company
 
-**Coletado em (UTC):** 2026-10-01T15:30:36.609760+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:51.810083+00:00
 
 ---
 
@@ -47627,7 +47627,7 @@ The version of this module is 102.0.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-configurable-negotiable-quote
 
-**Coletado em (UTC):** 2026-10-01T15:30:44.736384+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:53.464657+00:00
 
 ---
 
@@ -47668,7 +47668,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-configurable-requisition-list-graph-ql
 
-**Coletado em (UTC):** 2026-10-01T15:30:23.056023+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:32.989888+00:00
 
 ---
 
@@ -47690,7 +47690,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-configurable-requisition-list
 
-**Coletado em (UTC):** 2026-10-01T15:30:46.892924+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:51.287111+00:00
 
 ---
 
@@ -47731,7 +47731,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-configurable-shared-catalog
 
-**Coletado em (UTC):** 2026-10-01T15:30:47.433884+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:32.421005+00:00
 
 ---
 
@@ -47786,7 +47786,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-downloadable-company
 
-**Coletado em (UTC):** 2026-10-01T15:30:36.070774+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:42.931151+00:00
 
 ---
 
@@ -47808,7 +47808,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-downloadable-negotiable-quote
 
-**Coletado em (UTC):** 2026-10-01T15:30:43.140475+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:00.337598+00:00
 
 ---
 
@@ -47847,7 +47847,7 @@ The version of this module is 1.5.0.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-downloadable-requisition-list-graph-ql
 
-**Coletado em (UTC):** 2026-10-01T15:30:24.810928+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:02.604632+00:00
 
 ---
 
@@ -47869,7 +47869,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-gift-card-negotiable-quote
 
-**Coletado em (UTC):** 2026-10-01T15:30:45.276637+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:56.237044+00:00
 
 ---
 
@@ -47908,7 +47908,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-gift-card-requisition-list-graph-ql
 
-**Coletado em (UTC):** 2026-10-01T15:30:32.314140+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:55.103406+00:00
 
 ---
 
@@ -47930,7 +47930,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-gift-card-requisition-list
 
-**Coletado em (UTC):** 2026-10-01T15:30:29.656385+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:44.620723+00:00
 
 ---
 
@@ -47969,7 +47969,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-gift-card-shared-catalog
 
-**Coletado em (UTC):** 2026-10-01T15:30:22.345905+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:40.146719+00:00
 
 ---
 
@@ -48028,7 +48028,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-grouped-requisition-list
 
-**Coletado em (UTC):** 2026-10-01T15:30:43.658856+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:41.841167+00:00
 
 ---
 
@@ -48076,7 +48076,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-grouped-shared-catalog
 
-**Coletado em (UTC):** 2026-10-01T15:30:48.510132+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:56.803986+00:00
 
 ---
 
@@ -48131,7 +48131,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote-async-order
 
-**Coletado em (UTC):** 2026-10-01T15:30:49.049087+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:52.373210+00:00
 
 ---
 
@@ -48153,7 +48153,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote-duplicate-graph-ql
 
-**Coletado em (UTC):** 2026-10-01T15:30:29.118595+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:42.400926+00:00
 
 ---
 
@@ -48173,7 +48173,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote-duplicate
 
-**Coletado em (UTC):** 2026-10-01T15:30:37.158452+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:33.553337+00:00
 
 ---
 
@@ -48197,7 +48197,7 @@ The version of this module is 1.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote-graph-ql
 
-**Coletado em (UTC):** 2026-10-01T15:30:30.736661+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:03.169950+00:00
 
 ---
 
@@ -48217,7 +48217,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote-requisition-list-graph-ql
 
-**Coletado em (UTC):** 2026-10-01T15:30:50.121272+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:46.836946+00:00
 
 ---
 
@@ -48239,7 +48239,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote-requisition-list
 
-**Coletado em (UTC):** 2026-10-01T15:30:28.067131+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:47.934970+00:00
 
 ---
 
@@ -48261,7 +48261,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote-shared-catalog
 
-**Coletado em (UTC):** 2026-10-01T15:30:21.272053+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:35.207925+00:00
 
 ---
 
@@ -48303,7 +48303,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote-template-graph-ql
 
-**Coletado em (UTC):** 2026-10-01T15:30:23.592650+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:36.830639+00:00
 
 ---
 
@@ -48323,7 +48323,7 @@ The version of this module is 1.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote-template-shared-catalog
 
-**Coletado em (UTC):** 2026-10-01T15:30:25.346994+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:43.495216+00:00
 
 ---
 
@@ -48365,7 +48365,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote-template
 
-**Coletado em (UTC):** 2026-10-01T15:30:24.274790+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:35.733954+00:00
 
 ---
 
@@ -48387,7 +48387,7 @@ The version of this module is 1.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote-weee
 
-**Coletado em (UTC):** 2026-10-01T15:30:39.695511+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:53.997337+00:00
 
 ---
 
@@ -48409,7 +48409,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-negotiable-quote
 
-**Coletado em (UTC):** 2026-10-01T15:30:31.770905+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:59.240493+00:00
 
 ---
 
@@ -48472,7 +48472,7 @@ The version of this module is 101.0.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-order-history-search
 
-**Coletado em (UTC):** 2026-10-01T15:30:40.475687+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:49.590643+00:00
 
 ---
 
@@ -48518,7 +48518,7 @@ The version of this module is 100.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-paypal-negotiable-quote
 
-**Coletado em (UTC):** 2026-10-01T15:30:51.729287+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:50.716874+00:00
 
 ---
 
@@ -48546,7 +48546,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-paypal-purchase-order
 
-**Coletado em (UTC):** 2026-10-01T15:30:49.583639+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:34.678698+00:00
 
 ---
 
@@ -48574,7 +48574,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-purchase-order-graph-ql
 
-**Coletado em (UTC):** 2026-10-01T15:30:21.806315+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:31.860133+00:00
 
 ---
 
@@ -48602,7 +48602,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-purchase-order-rule-graph-ql
 
-**Coletado em (UTC):** 2026-10-01T15:30:52.421067+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:39.585777+00:00
 
 ---
 
@@ -48632,7 +48632,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-purchase-order-rule
 
-**Coletado em (UTC):** 2026-10-01T15:30:45.815419+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:37.925630+00:00
 
 ---
 
@@ -48707,7 +48707,7 @@ The version of this module is 100.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-purchase-order
 
-**Coletado em (UTC):** 2026-10-01T15:30:31.252765+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:49.027111+00:00
 
 ---
 
@@ -48783,7 +48783,7 @@ The version of this module is 100.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-quick-order-graph-ql
 
-**Coletado em (UTC):** 2026-10-01T15:30:42.065514+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:02.040905+00:00
 
 ---
 
@@ -48813,7 +48813,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-quick-order
 
-**Coletado em (UTC):** 2026-10-01T15:30:26.963089+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:57.899686+00:00
 
 ---
 
@@ -48857,7 +48857,7 @@ The version of this module is 100.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-requisition-list-graph-ql
 
-**Coletado em (UTC):** 2026-10-01T15:30:38.238351+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:36.259431+00:00
 
 ---
 
@@ -48879,7 +48879,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-requisition-list
 
-**Coletado em (UTC):** 2026-10-01T15:30:35.533325+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:54.576877+00:00
 
 ---
 
@@ -48936,7 +48936,7 @@ The version of this module is 100.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-shared-catalog-graph-ql
 
-**Coletado em (UTC):** 2026-10-01T15:30:41.011665+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:31.272488+00:00
 
 ---
 
@@ -48958,7 +48958,7 @@ The version of this module is 1.5.2.
 
 **Fonte original:** https://developer.adobe.com/commerce/php/module-reference/module-shared-catalog
 
-**Coletado em (UTC):** 2026-10-01T15:30:33.394349+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:57.364719+00:00
 
 ---
 
@@ -49021,7 +49021,7 @@ The version of this module is 100.5.3.
 
 **Fonte original:** https://developer.adobe.com/commerce/pwa-studio
 
-**Coletado em (UTC):** 2026-10-01T15:29:15.976693+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:29.673429+00:00
 
 ---
 
@@ -49122,7 +49122,7 @@ We encourage you to participate in our open documentation initiative. If you hav
 
 **Fonte original:** https://developer.adobe.com/commerce/services
 
-**Coletado em (UTC):** 2026-10-01T15:27:49.666885+00:00
+**Coletado em (UTC):** 2026-10-01T19:33:58.707218+00:00
 
 ---
 
@@ -49200,7 +49200,7 @@ We encourage you to participate in our open documentation initiative. If you hav
 
 **Fonte original:** https://developer.adobe.com/commerce/services/optimizer
 
-**Coletado em (UTC):** 2026-10-01T15:28:05.096382+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:16.670717+00:00
 
 ---
 
@@ -49257,7 +49257,7 @@ Adobe Commerce Optimizer Merchandising Services provides the following APIs:
 
 **Fonte original:** https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case
 
-**Coletado em (UTC):** 2026-10-01T15:29:59.203056+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:10.966744+00:00
 
 ---
 
@@ -50212,7 +50212,7 @@ The response returns the product details for a single SKU, Bolt Atlas battery.
 
 **Fonte original:** https://developer.adobe.com/commerce/services/optimizer/data-ingestion
 
-**Coletado em (UTC):** 2026-10-01T15:28:06.301920+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:15.391983+00:00
 
 ---
 
@@ -50334,7 +50334,7 @@ Get started with the [Data Ingestion API](/commerce/services/optimizer/data-inge
 
 **Fonte original:** https://developer.adobe.com/commerce/services/optimizer/data-ingestion/api-testing
 
-**Coletado em (UTC):** 2026-10-01T15:29:58.102369+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:12.024556+00:00
 
 ---
 
@@ -50491,7 +50491,7 @@ After successfully testing API operations:
 
 **Fonte original:** https://developer.adobe.com/commerce/services/optimizer/data-ingestion/authentication
 
-**Coletado em (UTC):** 2026-10-01T15:29:58.664088+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:11.497620+00:00
 
 ---
 
@@ -50609,7 +50609,7 @@ Adobe Commerce REST Guide
 
 **Fonte original:** https://developer.adobe.com/commerce/services/optimizer/data-ingestion/using-the-api
 
-**Coletado em (UTC):** 2026-10-01T15:28:52.354816+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:01.933348+00:00
 
 ---
 
@@ -50776,7 +50776,7 @@ This guide covers direct API access using bearer tokens. For user authentication
 
 **Fonte original:** https://developer.adobe.com/commerce/services/optimizer/manage-catalogs
 
-**Coletado em (UTC):** 2026-10-01T15:31:32.145083+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:50.665600+00:00
 
 ---
 
@@ -50800,7 +50800,7 @@ For details, see the [Adobe Commerce Optimizer Guide](https://experienceleague.a
 
 **Fonte original:** https://developer.adobe.com/commerce/services/optimizer/merchandising-services
 
-**Coletado em (UTC):** 2026-10-01T15:28:47.193110+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:04.773323+00:00
 
 ---
 
@@ -50911,7 +50911,7 @@ For additional support and community resources, visit the [Adobe Commerce Develo
 
 **Fonte original:** https://developer.adobe.com/commerce/services/optimizer/merchandising-services/use-cases
 
-**Coletado em (UTC):** 2026-10-01T15:29:55.918112+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:13.135782+00:00
 
 ---
 
@@ -51899,7 +51899,7 @@ Response:
 
 **Fonte original:** https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api
 
-**Coletado em (UTC):** 2026-10-01T15:29:53.391808+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:15.983094+00:00
 
 ---
 
@@ -52112,7 +52112,7 @@ Merchandising API Reference
 
 **Fonte original:** https://developer.adobe.com/commerce/services/product-recommendations
 
-**Coletado em (UTC):** 2026-10-01T15:28:04.516700+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:17.289726+00:00
 
 ---
 
@@ -52415,7 +52415,7 @@ document.body.insertAdjacentHTML("beforeend", markup)
 
 **Fonte original:** https://developer.adobe.com/commerce/services/reference/graphql
 
-**Coletado em (UTC):** 2026-10-01T15:29:53.914199+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:15.366881+00:00
 
 ---
 
@@ -52442,7 +52442,7 @@ data-src=../../includes/autogenerated/merchandising-api.md
 
 **Fonte original:** https://developer.adobe.com/commerce/services/reference/rest
 
-**Coletado em (UTC):** 2026-10-01T15:28:51.777678+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:02.504631+00:00
 
 ---
 
@@ -52462,7 +52462,7 @@ data-hideLoading=
 
 **Fonte original:** https://developer.adobe.com/commerce/services/reporting
 
-**Coletado em (UTC):** 2026-10-01T15:28:06.882106+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:16.053517+00:00
 
 ---
 
@@ -52528,7 +52528,7 @@ You must specify this key in the X-RJM-API-Key header of every export request. �
 
 **Fonte original:** https://developer.adobe.com/commerce/services/reporting/export-api
 
-**Coletado em (UTC):** 2026-10-01T15:28:52.872344+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:04.234805+00:00
 
 ---
 
@@ -52730,7 +52730,7 @@ curl -H "X-RJM-API-Key: your\_key" https://api.rjmetrics.com/0.1/chart/2038112/i
 
 **Fonte original:** https://developer.adobe.com/commerce/services/reporting/import-api
 
-**Coletado em (UTC):** 2026-10-01T15:28:53.904304+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:03.120829+00:00
 
 ---
 
@@ -53603,7 +53603,7 @@ if client.authenticate():
 
 **Fonte original:** https://developer.adobe.com/commerce/services/reporting/libraries
 
-**Coletado em (UTC):** 2026-10-01T15:28:53.389544+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:03.708170+00:00
 
 ---
 
@@ -53748,7 +53748,7 @@ For more information, check out the [source code on Github](https://github.com/R
 
 **Fonte original:** https://developer.adobe.com/commerce/services/reporting/update-cycle
 
-**Coletado em (UTC):** 2026-10-01T15:29:59.748064+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:12.594254+00:00
 
 ---
 
@@ -53930,7 +53930,7 @@ The base path /0.1 matches the Export API version. Backwards-compatible fields m
 
 **Fonte original:** https://developer.adobe.com/commerce/services/shared-services/implementation/tutorial
 
-**Coletado em (UTC):** 2026-10-01T15:28:48.360010+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:01.397179+00:00
 
 ---
 
@@ -54631,7 +54631,7 @@ bin/magento setup:static-content:deploy -f && bin/magento cache:flush
 
 **Fonte original:** https://developer.adobe.com/commerce/services/shared-services/storefront-events
 
-**Coletado em (UTC):** 2026-10-01T15:28:05.691786+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:14.756988+00:00
 
 ---
 
@@ -55108,7 +55108,7 @@ These events are also part of the [Live Search](#live-search) collection of even
 
 **Fonte original:** https://developer.adobe.com/commerce/services/shared-services/storefront-events/collector
 
-**Coletado em (UTC):** 2026-10-01T15:28:48.929518+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:00.643506+00:00
 
 ---
 
@@ -55376,7 +55376,7 @@ Cart<br/>Mini cart
 
 **Fonte original:** https://developer.adobe.com/commerce/services/shared-services/storefront-events/collector/verify
 
-**Coletado em (UTC):** 2026-10-01T15:28:47.837663+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:00.116943+00:00
 
 ---
 
@@ -55467,7 +55467,7 @@ disabled
 
 **Fonte original:** https://developer.adobe.com/commerce/services/shared-services/storefront-events/reference/storefront-events
 
-**Coletado em (UTC):** 2026-10-01T15:28:50.630032+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:59.530127+00:00
 
 ---
 
@@ -56975,7 +56975,7 @@ schema
 
 **Fonte original:** https://developer.adobe.com/commerce/services/shared-services/storefront-events/sdk
 
-**Coletado em (UTC):** 2026-10-01T15:28:51.183600+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:57.899612+00:00
 
 ---
 
@@ -56991,7 +56991,7 @@ In this section, you learn how to programatically publish and subscribe to Adobe
 
 **Fonte original:** https://developer.adobe.com/commerce/services/shared-services/storefront-events/sdk/context
 
-**Coletado em (UTC):** 2026-10-01T15:29:57.011191+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:09.284335+00:00
 
 ---
 
@@ -57397,7 +57397,7 @@ mse.context.setContext(ctx);
 
 **Fonte original:** https://developer.adobe.com/commerce/services/shared-services/storefront-events/sdk/install
 
-**Coletado em (UTC):** 2026-10-01T15:29:57.558645+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:10.392882+00:00
 
 ---
 
@@ -57494,7 +57494,7 @@ If you have any questions or encounter any issues, create a GitHub issue in the 
 
 **Fonte original:** https://developer.adobe.com/commerce/services/shared-services/storefront-events/sdk/publish
 
-**Coletado em (UTC):** 2026-10-01T15:31:30.981379+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:49.045626+00:00
 
 ---
 
@@ -57987,7 +57987,7 @@ mse.publish.updateCart(ctx);
 
 **Fonte original:** https://developer.adobe.com/commerce/services/shared-services/storefront-events/sdk/subscribe
 
-**Coletado em (UTC):** 2026-10-01T15:31:31.572122+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:49.585223+00:00
 
 ---
 
@@ -58537,7 +58537,7 @@ mse.subscribe.updateCart(handler, options);
 
 **Fonte original:** https://developer.adobe.com/commerce/services/shared-services/storefront-events/sdk/unsubscribe
 
-**Coletado em (UTC):** 2026-10-01T15:31:30.453565+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:50.127589+00:00
 
 ---
 
@@ -59003,7 +59003,7 @@ mse.unsubscribe.updateCart(handler);
 
 **Fonte original:** https://developer.adobe.com/commerce/testing
 
-**Coletado em (UTC):** 2026-10-01T15:27:51.549752+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:01.165577+00:00
 
 ---
 
@@ -59068,7 +59068,7 @@ GitHub
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/commands/codeception
 
-**Coletado em (UTC):** 2026-10-01T15:32:23.786368+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:46.119669+00:00
 
 ---
 
@@ -59181,7 +59181,7 @@ Options:
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/commands/mftf
 
-**Coletado em (UTC):** 2026-10-01T15:32:23.263334+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:45.572461+00:00
 
 ---
 
@@ -59974,7 +59974,7 @@ You may want to limit the usage of this Codeception command with arguments and o
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/configuration
 
-**Coletado em (UTC):** 2026-10-01T15:32:14.743382+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:37.011126+00:00
 
 ---
 
@@ -60429,7 +60429,7 @@ MAGENTO_ADMIN_WEBAPI_TOKEN_LIFETIME=10800
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/credentials
 
-**Coletado em (UTC):** 2026-10-01T15:31:25.204773+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:44.513806+00:00
 
 ---
 
@@ -60715,7 +60715,7 @@ The test delivered with the Adobe Commerce and Magento Open Source application d
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/data
 
-**Coletado em (UTC):** 2026-10-01T15:32:12.596117+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:35.900207+00:00
 
 ---
 
@@ -61123,7 +61123,7 @@ entity in which to assign a value. By default numeric key will be generated.
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/extending
 
-**Coletado em (UTC):** 2026-10-01T15:32:25.891833+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:45.042071+00:00
 
 ---
 
@@ -61472,7 +61472,7 @@ Entities without "extends":
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/getting-started
 
-**Coletado em (UTC):** 2026-10-01T15:32:14.223697+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:36.439059+00:00
 
 ---
 
@@ -61850,7 +61850,7 @@ allure serve dev/tests/acceptance/tests/_output/allure-results/
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/interactive-pause
 
-**Coletado em (UTC):** 2026-10-01T15:32:12.082190+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:38.269059+00:00
 
 ---
 
@@ -61934,7 +61934,7 @@ The Functional Testing Framework command "--debug" option has different meaning 
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/merging
 
-**Coletado em (UTC):** 2026-10-01T15:32:25.371663+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:44.468974+00:00
 
 ---
 
@@ -62483,7 +62483,7 @@ The _defaultSample results corresponds to:
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/metadata
 
-**Coletado em (UTC):** 2026-10-01T15:32:13.150680+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:37.655615+00:00
 
 ---
 
@@ -63290,7 +63290,7 @@ Example:
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/page
 
-**Coletado em (UTC):** 2026-10-01T15:33:33.852814+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:55.440888+00:00
 
 ---
 
@@ -63515,7 +63515,7 @@ to remove this element during parsing.
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/reporting
 
-**Coletado em (UTC):** 2026-10-01T15:31:33.784080+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:52.928805+00:00
 
 ---
 
@@ -63829,7 +63829,7 @@ Refer to the [Reporting section](https://allurereport.org/docs/) for more Allure
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/section/parameterized-selectors
 
-**Coletado em (UTC):** 2026-10-01T15:32:24.819370+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:43.295564+00:00
 
 ---
 
@@ -64001,7 +64001,7 @@ Any data can be used in parameterized elements, as well as entered in test actio
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/suite
 
-**Coletado em (UTC):** 2026-10-01T15:33:33.286875+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:54.907188+00:00
 
 ---
 
@@ -64319,7 +64319,7 @@ Removing the filter during merging.
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/test-writing/best-practices
 
-**Coletado em (UTC):** 2026-10-01T15:31:34.350668+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:51.716969+00:00
 
 ---
 
@@ -64502,7 +64502,7 @@ For example, when you write a test step to create a gift card product, set your 
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/test-writing/tips-tricks
 
-**Coletado em (UTC):** 2026-10-01T15:31:33.261423+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:52.398184+00:00
 
 ---
 
@@ -64860,7 +64860,7 @@ When working with input type checkbox, do not use the click action; use checkOpt
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/test/action-groups
 
-**Coletado em (UTC):** 2026-10-01T15:32:13.704345+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:38.832894+00:00
 
 ---
 
@@ -65111,7 +65111,7 @@ entity
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/test/actions
 
-**Coletado em (UTC):** 2026-10-01T15:31:23.346772+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:45.044759+00:00
 
 ---
 
@@ -69679,7 +69679,7 @@ of preceding action.
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/test/annotations
 
-**Coletado em (UTC):** 2026-10-01T15:32:24.300539+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:43.934730+00:00
 
 ---
 
@@ -69956,7 +69956,7 @@ required
 
 **Fonte original:** https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication
 
-**Coletado em (UTC):** 2026-10-01T15:29:50.740532+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:05.900721+00:00
 
 ---
 
@@ -70027,7 +70027,7 @@ Note: You will need to set the secret for any non-default admin users first, bef
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi
 
-**Coletado em (UTC):** 2026-10-01T15:27:49.039921+00:00
+**Coletado em (UTC):** 2026-10-01T19:33:58.086636+00:00
 
 ---
 
@@ -70088,7 +70088,7 @@ We encourage you to participate in our open documentation initiative. If you hav
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/get-started/api-security
 
-**Coletado em (UTC):** 2026-10-01T15:34:18.162391+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:38.777897+00:00
 
 ---
 
@@ -70286,7 +70286,7 @@ bin/magento config:set webapi/validation/default_page_size 30
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/get-started/authentication/gs-authentication-oauth
 
-**Coletado em (UTC):** 2026-10-01T15:28:41.089504+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:55.163904+00:00
 
 ---
 
@@ -70797,7 +70797,7 @@ class OauthClient extends AbstractService
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/get-started/authentication/gs-authentication-session
 
-**Coletado em (UTC):** 2026-10-01T15:31:56.320426+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:25.465269+00:00
 
 ---
 
@@ -70866,7 +70866,7 @@ The session based authentication functionality is restricted to Ajax calls. Dire
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/get-started/authentication/gs-authentication-token
 
-**Coletado em (UTC):** 2026-10-01T15:28:41.654080+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:54.632833+00:00
 
 ---
 
@@ -71186,7 +71186,7 @@ For example, to make a web API call with a customer token: curl -X GET "http://<
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/get-started/authentication/oauth-errors
 
-**Coletado em (UTC):** 2026-10-01T15:29:50.172372+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:08.563465+00:00
 
 ---
 
@@ -71280,7 +71280,7 @@ The Consumer Key is invalid.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/get-started/create-integration
 
-**Coletado em (UTC):** 2026-10-01T15:29:49.608189+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:08.031362+00:00
 
 ---
 
@@ -71446,7 +71446,7 @@ The callback page must be able to perform the following tasks:
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/get-started/gs-curl
 
-**Coletado em (UTC):** 2026-10-01T15:29:51.260127+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:06.426415+00:00
 
 ---
 
@@ -71745,7 +71745,7 @@ First off all the cURL client instance is created in __construct. Method getPart
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/get-started/gs-web-api-request
 
-**Coletado em (UTC):** 2026-10-01T15:29:49.046374+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:06.959366+00:00
 
 ---
 
@@ -72046,7 +72046,7 @@ Run the web API call through a [cURL command](/commerce/webapi/get-started/gs-cu
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/get-started/gs-web-api-response
 
-**Coletado em (UTC):** 2026-10-01T15:31:25.768635+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:45.742332+00:00
 
 ---
 
@@ -72158,7 +72158,7 @@ As an example, the application returns a code of 400 and the following message w
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql
 
-**Coletado em (UTC):** 2026-10-01T15:28:03.417973+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:12.824245+00:00
 
 ---
 
@@ -72253,7 +72253,7 @@ The [Commerce API playground](https://experienceleague.adobe.com/en/tools/commer
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/payment-methods/braintree-vault
 
-**Coletado em (UTC):** 2026-10-01T15:31:07.093927+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:27.510737+00:00
 
 ---
 
@@ -72353,7 +72353,7 @@ Thanks to Something Digital (now Rightpoint) for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/payment-methods/braintree
 
-**Coletado em (UTC):** 2026-10-01T15:31:10.433358+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:25.404474+00:00
 
 ---
 
@@ -72458,7 +72458,7 @@ Thanks to Something Digital (now Rightpoint) for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/payment-methods/hosted-pro
 
-**Coletado em (UTC):** 2026-10-01T15:31:10.992700+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:24.878498+00:00
 
 ---
 
@@ -72551,7 +72551,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/payment-methods/payflow-express
 
-**Coletado em (UTC):** 2026-10-01T15:31:07.655136+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:26.456262+00:00
 
 ---
 
@@ -72647,7 +72647,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/payment-methods/payflow-link
 
-**Coletado em (UTC):** 2026-10-01T15:31:08.218614+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:24.351865+00:00
 
 ---
 
@@ -72740,7 +72740,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/payment-methods/payflow-pro-vault
 
-**Coletado em (UTC):** 2026-10-01T15:31:08.787981+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:22.118900+00:00
 
 ---
 
@@ -72851,7 +72851,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/payment-methods/payflow-pro
 
-**Coletado em (UTC):** 2026-10-01T15:31:09.873534+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:22.646270+00:00
 
 ---
 
@@ -72995,7 +72995,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/payment-methods/payments-advanced
 
-**Coletado em (UTC):** 2026-10-01T15:31:09.346855+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:23.173196+00:00
 
 ---
 
@@ -73088,7 +73088,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/payment-methods/paypal-express-checkout
 
-**Coletado em (UTC):** 2026-10-01T15:31:11.548416+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:25.931008+00:00
 
 ---
 
@@ -73178,7 +73178,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/interfaces
 
-**Coletado em (UTC):** 2026-10-01T15:34:05.588294+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:27.984805+00:00
 
 ---
 
@@ -73265,7 +73265,7 @@ data-src=../../../../includes/graphql/examples/customer-s3-download.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/mutations
 
-**Coletado em (UTC):** 2026-10-01T15:29:28.600472+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:48.634912+00:00
 
 ---
 
@@ -73332,7 +73332,7 @@ data-src=../../../../includes/custom-attribute-installation.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/mutations/set-custom-cart-item
 
-**Coletado em (UTC):** 2026-10-01T15:31:00.617669+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:29.123426+00:00
 
 ---
 
@@ -73441,7 +73441,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/mutations/set-custom-cart
 
-**Coletado em (UTC):** 2026-10-01T15:31:00.101628+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:28.560441+00:00
 
 ---
 
@@ -73541,7 +73541,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/mutations/set-custom-company
 
-**Coletado em (UTC):** 2026-10-01T15:31:02.223128+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:31.404424+00:00
 
 ---
 
@@ -73641,7 +73641,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/mutations/set-custom-credit-memo-item
 
-**Coletado em (UTC):** 2026-10-01T15:31:03.274112+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:29.690067+00:00
 
 ---
 
@@ -73740,7 +73740,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/mutations/set-custom-credit-memo
 
-**Coletado em (UTC):** 2026-10-01T15:31:03.807311+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:32.537245+00:00
 
 ---
 
@@ -73839,7 +73839,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/mutations/set-custom-invoice-item
 
-**Coletado em (UTC):** 2026-10-01T15:31:01.133859+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:31.968014+00:00
 
 ---
 
@@ -73938,7 +73938,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/mutations/set-custom-invoice
 
-**Coletado em (UTC):** 2026-10-01T15:31:02.737273+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:30.269897+00:00
 
 ---
 
@@ -74036,7 +74036,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/mutations/set-custom-negotiable-quote
 
-**Coletado em (UTC):** 2026-10-01T15:31:01.682702+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:30.834783+00:00
 
 ---
 
@@ -74136,7 +74136,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/queries/attributes-metadata
 
-**Coletado em (UTC):** 2026-10-01T15:33:28.967617+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:49.563282+00:00
 
 ---
 
@@ -74282,7 +74282,7 @@ data-src=../../../../includes/graphql/attribute-metadata.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/queries/custom-attribute-metadata-v2
 
-**Coletado em (UTC):** 2026-10-01T15:32:21.166894+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:35.375263+00:00
 
 ---
 
@@ -74556,7 +74556,7 @@ The swatch options are the possible values of the attribute.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/attributes/queries/custom-attribute-metadata
 
-**Coletado em (UTC):** 2026-10-01T15:31:28.244477+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:42.362536+00:00
 
 ---
 
@@ -74844,7 +74844,7 @@ parameters.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/company/mutations/create-address
 
-**Coletado em (UTC):** 2026-10-01T15:31:04.834043+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:33.625993+00:00
 
 ---
 
@@ -75115,7 +75115,7 @@ Missing add or set-default ACL
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/company/queries/is-company-admin-email-available
 
-**Coletado em (UTC):** 2026-10-01T15:33:43.885574+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:09.499078+00:00
 
 ---
 
@@ -75179,7 +75179,7 @@ query{
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/company/queries/is-company-email-available
 
-**Coletado em (UTC):** 2026-10-01T15:33:09.969562+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:42.011228+00:00
 
 ---
 
@@ -75243,7 +75243,7 @@ query{
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/company/queries/is-company-user-email-available
 
-**Coletado em (UTC):** 2026-10-01T15:33:44.444689+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:08.973574+00:00
 
 ---
 
@@ -75307,7 +75307,7 @@ query{
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/purchase-order-rule
 
-**Coletado em (UTC):** 2026-10-01T15:33:12.669160+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:39.679825+00:00
 
 ---
 
@@ -75624,7 +75624,7 @@ The following example returns the metadata necessary to render the form for [cre
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/b2b/purchase-order
 
-**Coletado em (UTC):** 2026-10-01T15:33:13.314223+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:41.391876+00:00
 
 ---
 
@@ -75888,7 +75888,7 @@ The following example returns true if the customer has the purchase order functi
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/add-bundle-products
 
-**Coletado em (UTC):** 2026-10-01T15:33:26.753504+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:48.512787+00:00
 
 ---
 
@@ -76150,7 +76150,7 @@ Thanks to Atwix for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/add-configurable-products
 
-**Coletado em (UTC):** 2026-10-01T15:33:23.996222+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:45.884232+00:00
 
 ---
 
@@ -76327,7 +76327,7 @@ is not available.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/add-downloadable-products
 
-**Coletado em (UTC):** 2026-10-01T15:33:48.807002+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:03.018878+00:00
 
 ---
 
@@ -76626,7 +76626,7 @@ Thanks to Atwix for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/add-products
 
-**Coletado em (UTC):** 2026-10-01T15:31:27.157448+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:43.416142+00:00
 
 ---
 
@@ -77305,7 +77305,7 @@ Thanks to Atwix for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/add-simple-products
 
-**Coletado em (UTC):** 2026-10-01T15:32:05.926412+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:16.438196+00:00
 
 ---
 
@@ -77619,7 +77619,7 @@ A simple product has customizable options that were not specified in the mutatio
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/add-virtual-products
 
-**Coletado em (UTC):** 2026-10-01T15:33:25.631717+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:44.309057+00:00
 
 ---
 
@@ -77772,7 +77772,7 @@ A virtual product has customizable options that were not specified in the mutati
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/apply-giftcard
 
-**Coletado em (UTC):** 2026-10-01T15:33:27.840211+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:47.465076+00:00
 
 ---
 
@@ -77893,7 +77893,7 @@ is empty.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/create-empty-cart
 
-**Coletado em (UTC):** 2026-10-01T15:32:05.386275+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:15.229910+00:00
 
 ---
 
@@ -78003,7 +78003,7 @@ The cart ID is not the required length.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/create-guest-cart
 
-**Coletado em (UTC):** 2026-10-01T15:33:21.242671+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:28.939232+00:00
 
 ---
 
@@ -78111,7 +78111,7 @@ A logged in customer is trying to create a guest customer cart.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/place-order
 
-**Coletado em (UTC):** 2026-10-01T15:32:00.807087+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:19.359314+00:00
 
 ---
 
@@ -78255,7 +78255,7 @@ The error message does not match any error code
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/redeem-giftcard-balance
 
-**Coletado em (UTC):** 2026-10-01T15:33:27.320643+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:46.938530+00:00
 
 ---
 
@@ -78360,7 +78360,7 @@ argument is empty.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/remove-coupon
 
-**Coletado em (UTC):** 2026-10-01T15:33:18.618416+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:34.204912+00:00
 
 ---
 
@@ -78497,7 +78497,7 @@ does not exist in specified store.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/remove-giftcard
 
-**Coletado em (UTC):** 2026-10-01T15:33:28.407078+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:46.413781+00:00
 
 ---
 
@@ -78578,7 +78578,7 @@ field is invalid or the gift card with that specific ID does not exist in the ca
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/set-billing-address
 
-**Coletado em (UTC):** 2026-10-01T15:32:07.020492+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:15.910080+00:00
 
 ---
 
@@ -78934,7 +78934,7 @@ set.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/set-guest-email
 
-**Coletado em (UTC):** 2026-10-01T15:33:20.411013+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:30.054733+00:00
 
 ---
 
@@ -79023,7 +79023,7 @@ mutation.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/set-payment-method
 
-**Coletado em (UTC):** 2026-10-01T15:29:31.455969+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:47.056166+00:00
 
 ---
 
@@ -79233,7 +79233,7 @@ shows the order placement sequence.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/set-shipping-address
 
-**Coletado em (UTC):** 2026-10-01T15:29:29.198389+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:49.791930+00:00
 
 ---
 
@@ -79610,7 +79610,7 @@ set.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/mutations/set-shipping-method
 
-**Coletado em (UTC):** 2026-10-01T15:29:30.310960+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:50.319112+00:00
 
 ---
 
@@ -79781,7 +79781,7 @@ You can set only one delivery method for an order.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/cart/queries/cart
 
-**Coletado em (UTC):** 2026-10-01T15:31:12.105302+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:21.066766+00:00
 
 ---
 
@@ -80646,7 +80646,7 @@ argument is empty.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/catalog-service
 
-**Coletado em (UTC):** 2026-10-01T15:28:44.106364+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:53.443783+00:00
 
 ---
 
@@ -80670,7 +80670,7 @@ If your Commerce instance uses Live Search or Product Recommendations, the Catal
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/catalog-service/queries/categories
 
-**Coletado em (UTC):** 2026-10-01T15:28:46.054362+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:51.679549+00:00
 
 ---
 
@@ -80946,7 +80946,7 @@ data-src=../../../../includes/graphql/catalog-service/categories.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/catalog-service/queries/products
 
-**Coletado em (UTC):** 2026-10-01T15:28:42.888601+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:51.124061+00:00
 
 ---
 
@@ -82337,7 +82337,7 @@ URL key of the product.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/checkout/mutations/create-braintree-client-token
 
-**Coletado em (UTC):** 2026-10-01T15:32:04.849933+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:23.361690+00:00
 
 ---
 
@@ -82405,7 +82405,7 @@ Thanks to Something Digital (now Rightpoint) for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/checkout/mutations/create-payflow-pro-token
 
-**Coletado em (UTC):** 2026-10-01T15:32:03.768092+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:20.415428+00:00
 
 ---
 
@@ -82519,7 +82519,7 @@ attribute.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/checkout/mutations/create-paypal-express-token
 
-**Coletado em (UTC):** 2026-10-01T15:32:01.895774+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:23.884979+00:00
 
 ---
 
@@ -82634,7 +82634,7 @@ is missing.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/checkout/mutations/delete-payment-token
 
-**Coletado em (UTC):** 2026-10-01T15:32:02.433658+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:18.835163+00:00
 
 ---
 
@@ -82742,7 +82742,7 @@ table.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/checkout/mutations/handle-payflow-pro-response
 
-**Coletado em (UTC):** 2026-10-01T15:32:04.306290+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:19.889215+00:00
 
 ---
 
@@ -82824,7 +82824,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/checkout/queries/customer-payment-tokens
 
-**Coletado em (UTC):** 2026-10-01T15:32:01.355650+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:17.779353+00:00
 
 ---
 
@@ -82918,7 +82918,7 @@ table.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/create-address
 
-**Coletado em (UTC):** 2026-10-01T15:33:06.675938+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:37.971438+00:00
 
 ---
 
@@ -83219,7 +83219,7 @@ table.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/create-v2
 
-**Coletado em (UTC):** 2026-10-01T15:33:08.835588+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:36.872651+00:00
 
 ---
 
@@ -83512,7 +83512,7 @@ argument was omitted or contains an empty value.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/create
 
-**Coletado em (UTC):** 2026-10-01T15:33:41.711889+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:04.776606+00:00
 
 ---
 
@@ -83641,7 +83641,7 @@ argument was omitted or contains an empty value.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/delete-address-v2
 
-**Coletado em (UTC):** 2026-10-01T15:33:42.792830+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:06.355715+00:00
 
 ---
 
@@ -83766,7 +83766,7 @@ table.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/delete-address
 
-**Coletado em (UTC):** 2026-10-01T15:33:07.753153+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:38.540919+00:00
 
 ---
 
@@ -83886,7 +83886,7 @@ table.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/generate-token-as-admin
 
-**Coletado em (UTC):** 2026-10-01T15:33:18.090869+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:35.259283+00:00
 
 ---
 
@@ -83960,7 +83960,7 @@ Thanks to EY for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/generate-token
 
-**Coletado em (UTC):** 2026-10-01T15:31:05.905785+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:33.063390+00:00
 
 ---
 
@@ -84081,7 +84081,7 @@ Authentication error. The email account is not confirmed.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/revoke-token
 
-**Coletado em (UTC):** 2026-10-01T15:31:56.878387+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:24.416978+00:00
 
 ---
 
@@ -84155,7 +84155,7 @@ table.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/update-address-v2
 
-**Coletado em (UTC):** 2026-10-01T15:33:42.236198+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:05.302123+00:00
 
 ---
 
@@ -84362,7 +84362,7 @@ table.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/update-address
 
-**Coletado em (UTC):** 2026-10-01T15:33:07.212838+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:36.311112+00:00
 
 ---
 
@@ -84558,7 +84558,7 @@ table.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/update-email
 
-**Coletado em (UTC):** 2026-10-01T15:33:08.288772+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:37.406169+00:00
 
 ---
 
@@ -84622,7 +84622,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/update-v2
 
-**Coletado em (UTC):** 2026-10-01T15:31:55.801047+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:24.940649+00:00
 
 ---
 
@@ -84785,7 +84785,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/mutations/update
 
-**Coletado em (UTC):** 2026-10-01T15:33:40.623714+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:04.249436+00:00
 
 ---
 
@@ -84899,7 +84899,7 @@ table.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/queries/customer
 
-**Coletado em (UTC):** 2026-10-01T15:31:58.030503+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:25.990411+00:00
 
 ---
 
@@ -86021,7 +86021,7 @@ data-src=../../../../includes/graphql/examples/customer-s3-download.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/customer/queries/downloadable-products
 
-**Coletado em (UTC):** 2026-10-01T15:33:25.071403+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:49.038816+00:00
 
 ---
 
@@ -86105,7 +86105,7 @@ table.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/live-search
 
-**Coletado em (UTC):** 2026-10-01T15:28:44.742166+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:52.205991+00:00
 
 ---
 
@@ -86149,7 +86149,7 @@ invalid_argument_exception
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/live-search/queries/attribute-metadata
 
-**Coletado em (UTC):** 2026-10-01T15:31:28.814338+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:43.988381+00:00
 
 ---
 
@@ -86349,7 +86349,7 @@ Indicates whether this attribute has a numeric value, such as a price or integer
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/live-search/queries/product-search
 
-**Coletado em (UTC):** 2026-10-01T15:29:52.838144+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:05.315137+00:00
 
 ---
 
@@ -88180,7 +88180,7 @@ URL key of the product.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/interfaces/credit-memo-item
 
-**Coletado em (UTC):** 2026-10-01T15:33:12.129938+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:40.297450+00:00
 
 ---
 
@@ -88304,7 +88304,7 @@ The following query returns items that were refunded in order ID 000000005. The 
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/interfaces/invoice-item
 
-**Coletado em (UTC):** 2026-10-01T15:33:10.510326+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:39.110938+00:00
 
 ---
 
@@ -88503,7 +88503,7 @@ The following query returns invoice details about order ID 000000005. The Bundle
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/interfaces/order-item
 
-**Coletado em (UTC):** 2026-10-01T15:33:11.047161+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:40.824791+00:00
 
 ---
 
@@ -88714,7 +88714,7 @@ The following query returns details about order ID 000000005. The BundleOrderIte
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/interfaces/shipment-item
 
-**Coletado em (UTC):** 2026-10-01T15:33:11.582863+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:42.583366+00:00
 
 ---
 
@@ -88890,7 +88890,7 @@ The following query returns shipping details about order ID 000000005. The Bundl
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/mutations/add-return-comment
 
-**Coletado em (UTC):** 2026-10-01T15:34:07.246321+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:29.229574+00:00
 
 ---
 
@@ -88989,7 +88989,7 @@ mutation{
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/mutations/add-return-tracking
 
-**Coletado em (UTC):** 2026-10-01T15:34:06.727684+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:29.753053+00:00
 
 ---
 
@@ -89070,7 +89070,7 @@ mutation{
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/mutations/remove-return-tracking
 
-**Coletado em (UTC):** 2026-10-01T15:34:06.196529+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:28.705526+00:00
 
 ---
 
@@ -89170,7 +89170,7 @@ mutation{
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/mutations/request-return
 
-**Coletado em (UTC):** 2026-10-01T15:33:56.573156+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:18.514397+00:00
 
 ---
 
@@ -89465,7 +89465,7 @@ The total number of return requests
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/orders/queries/guest-order-by-token
 
-**Coletado em (UTC):** 2026-10-01T15:33:19.849993+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:30.578848+00:00
 
 ---
 
@@ -89542,7 +89542,7 @@ The guestOrderByToken reference provides detailed information about the types an
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/product-recommendations
 
-**Coletado em (UTC):** 2026-10-01T15:28:43.421148+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:50.505074+00:00
 
 ---
 
@@ -89562,7 +89562,7 @@ For instructions on how to install, implement, and use the Product Recommendatio
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces
 
-**Coletado em (UTC):** 2026-10-01T15:31:26.513419+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:41.679814+00:00
 
 ---
 
@@ -89613,7 +89613,7 @@ The custom_attributesV2 attribute is defined in ProductInterface. In this exampl
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/attribute-metadata
 
-**Coletado em (UTC):** 2026-10-01T15:32:17.946983+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:33.228810+00:00
 
 ---
 
@@ -89644,7 +89644,7 @@ data-src=../../../../includes/graphql/attribute-metadata.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/attributes
 
-**Coletado em (UTC):** 2026-10-01T15:33:24.552842+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:45.356656+00:00
 
 ---
 
@@ -89664,7 +89664,7 @@ Any type that implements [ProductInterface](/commerce/webapi/reference/graphql/l
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/customizable-option
 
-**Coletado em (UTC):** 2026-10-01T15:32:15.260896+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:34.850781+00:00
 
 ---
 
@@ -89830,7 +89830,7 @@ The following query returns information about the customizable options configure
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/pwa-implementations
 
-**Coletado em (UTC):** 2026-10-01T15:32:16.347114+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:30.467517+00:00
 
 ---
 
@@ -90230,7 +90230,7 @@ UiInputTypeInterface
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/routable
 
-**Coletado em (UTC):** 2026-10-01T15:33:57.851778+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:16.762746+00:00
 
 ---
 
@@ -90457,7 +90457,7 @@ In the following example, an internal URL support.html is configured to redirect
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/types
 
-**Coletado em (UTC):** 2026-10-01T15:33:49.321740+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:03.587967+00:00
 
 ---
 
@@ -90627,7 +90627,7 @@ For example, to return GroupedProduct attributes, construct your query like this
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/types/bundle
 
-**Coletado em (UTC):** 2026-10-01T15:32:20.093617+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:33.752290+00:00
 
 ---
 
@@ -90897,7 +90897,7 @@ The following query returns information about bundle product 24-WG080, which is 
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/types/configurable
 
-**Coletado em (UTC):** 2026-10-01T15:32:15.786356+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:31.041887+00:00
 
 ---
 
@@ -92101,7 +92101,7 @@ The following query returns the color and text swatches assigned to configurable
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/types/downloadable
 
-**Coletado em (UTC):** 2026-10-01T15:32:18.482579+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:34.275918+00:00
 
 ---
 
@@ -92229,7 +92229,7 @@ The following query returns information about downloadable product 240-LV04, whi
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/types/gift-card
 
-**Coletado em (UTC):** 2026-10-01T15:32:20.630965+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:32.661223+00:00
 
 ---
 
@@ -92334,7 +92334,7 @@ The following query returns information about gift card product GiftCard25. (It 
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/types/grouped
 
-**Coletado em (UTC):** 2026-10-01T15:32:16.892885+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:32.093865+00:00
 
 ---
 
@@ -92431,7 +92431,7 @@ The following query returns information about downloadable product 24-WG085_Grou
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/types/simple
 
-**Coletado em (UTC):** 2026-10-01T15:32:17.409419+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:31.569205+00:00
 
 ---
 
@@ -92555,7 +92555,7 @@ Thanks to Atwix for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/interfaces/types/virtual
 
-**Coletado em (UTC):** 2026-10-01T15:32:19.555044+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:29.339132+00:00
 
 ---
 
@@ -92673,7 +92673,7 @@ Thanks to Atwix for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/queries/categories
 
-**Coletado em (UTC):** 2026-10-01T15:34:14.919643+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:34.535977+00:00
 
 ---
 
@@ -92869,7 +92869,7 @@ The following query returns the top-level categories (as well as two levels of c
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/queries/category-list
 
-**Coletado em (UTC):** 2026-10-01T15:34:08.853330+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:26.410224+00:00
 
 ---
 
@@ -93195,7 +93195,7 @@ The following query returns breadcrumb information about categories that have th
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/queries/products
 
-**Coletado em (UTC):** 2026-10-01T15:29:52.309061+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:04.771097+00:00
 
 ---
 
@@ -95265,7 +95265,7 @@ The following query returns information about each variant of the configurable p
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/products/queries/route
 
-**Coletado em (UTC):** 2026-10-01T15:34:08.334583+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:26.937232+00:00
 
 ---
 
@@ -95386,7 +95386,7 @@ The following query returns information about the product with the URL key of jo
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/store/queries/cms-blocks
 
-**Coletado em (UTC):** 2026-10-01T15:34:16.001896+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:35.586886+00:00
 
 ---
 
@@ -95474,7 +95474,7 @@ array parameter is required for identifying the CMS blocks.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/store/queries/cms-page
 
-**Coletado em (UTC):** 2026-10-01T15:34:09.373973+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:27.460304+00:00
 
 ---
 
@@ -95571,7 +95571,7 @@ parameter is required for identifying the CMS page.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/store/queries/store-config
 
-**Coletado em (UTC):** 2026-10-01T15:32:02.972769+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:18.306383+00:00
 
 ---
 
@@ -95942,7 +95942,7 @@ The following query returns the store's order cancellation settings, indicating 
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/uploads
 
-**Coletado em (UTC):** 2026-10-01T15:33:55.201329+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:17.287198+00:00
 
 ---
 
@@ -96085,7 +96085,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/uploads/mutations/finish-upload
 
-**Coletado em (UTC):** 2026-10-01T15:33:56.034907+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:17.952040+00:00
 
 ---
 
@@ -96230,7 +96230,7 @@ mutation {
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/schema/uploads/mutations/initiate-upload
 
-**Coletado em (UTC):** 2026-10-01T15:33:41.145775+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:05.828051+00:00
 
 ---
 
@@ -96393,7 +96393,7 @@ After you call the [finishUpload mutation](/commerce/webapi/graphql/schema/uploa
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/tutorials/checkout
 
-**Coletado em (UTC):** 2026-10-01T15:31:06.444357+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:23.697148+00:00
 
 ---
 
@@ -96445,7 +96445,7 @@ Thanks to Atwix for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/tutorials/checkout/add-product-to-cart
 
-**Coletado em (UTC):** 2026-10-01T15:33:19.177716+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:34.730651+00:00
 
 ---
 
@@ -96635,7 +96635,7 @@ Thanks to Atwix for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/tutorials/checkout/apply-coupon
 
-**Coletado em (UTC):** 2026-10-01T15:32:00.271052+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:22.262609+00:00
 
 ---
 
@@ -96774,7 +96774,7 @@ Thanks to Atwix for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/usage
 
-**Coletado em (UTC):** 2026-10-01T15:32:06.440428+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:16.964884+00:00
 
 ---
 
@@ -97064,7 +97064,7 @@ Commerce stores timestamps as UTC (Coordinated Universal time) values and return
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/usage/authorization-tokens
 
-**Coletado em (UTC):** 2026-10-01T15:31:59.724773+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:22.832649+00:00
 
 ---
 
@@ -97183,7 +97183,7 @@ Thanks to Atwix for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/usage/caching
 
-**Coletado em (UTC):** 2026-10-01T15:33:48.287028+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:01.795112+00:00
 
 ---
 
@@ -97379,7 +97379,7 @@ The application invalidates the cache when any of the following events occur:
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/usage/custom-filters
 
-**Coletado em (UTC):** 2026-10-01T15:31:27.682702+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:42.887915+00:00
 
 ---
 
@@ -97534,7 +97534,7 @@ This example adds field_to_sort and other_field_to_sort attributes to the additi
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/usage/headers
 
-**Coletado em (UTC):** 2026-10-01T15:33:17.569970+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:29.488080+00:00
 
 ---
 
@@ -97665,7 +97665,7 @@ curl 'http://magento.config/graphql' -H 'Authorization: Bearer hoyz7k697ubv5hcpq
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/usage/security-configuration
 
-**Coletado em (UTC):** 2026-10-01T15:34:15.439228+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:35.062189+00:00
 
 ---
 
@@ -97808,7 +97808,7 @@ If the depth of the query exceeds the value queryDepth, the system returns an er
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/graphql/usage/staging-queries
 
-**Coletado em (UTC):** 2026-10-01T15:33:17.048611+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:35.784034+00:00
 
 ---
 
@@ -98130,7 +98130,7 @@ Preview-Version: 1576389600
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/2-4-8
 
-**Coletado em (UTC):** 2026-10-01T15:28:46.577394+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:52.824520+00:00
 
 ---
 
@@ -98148,7 +98148,7 @@ data-src=../../../includes/autogenerated/graphql-api-2-4-8-queries.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/latest/mutations
 
-**Coletado em (UTC):** 2026-10-01T15:31:05.369068+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:26.982478+00:00
 
 ---
 
@@ -98166,7 +98166,7 @@ data-src=../../../includes/autogenerated/graphql-api-2-4-9-mutations.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/latest/types-a-b
 
-**Coletado em (UTC):** 2026-10-01T15:33:26.199164+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:47.990471+00:00
 
 ---
 
@@ -98184,7 +98184,7 @@ data-src=../../../includes/autogenerated/graphql-api-2-4-9-types-a-b.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/latest/types-c-e
 
-**Coletado em (UTC):** 2026-10-01T15:31:12.627335+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:21.595266+00:00
 
 ---
 
@@ -98202,7 +98202,7 @@ data-src=../../../includes/autogenerated/graphql-api-2-4-9-types-c-e.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/latest/types-f-i
 
-**Coletado em (UTC):** 2026-10-01T15:33:45.002465+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:07.404358+00:00
 
 ---
 
@@ -98220,7 +98220,7 @@ data-src=../../../includes/autogenerated/graphql-api-2-4-9-types-f-i.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/latest/types-k-p
 
-**Coletado em (UTC):** 2026-10-01T15:32:18.999860+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:29.904931+00:00
 
 ---
 
@@ -98238,7 +98238,7 @@ data-src=../../../includes/autogenerated/graphql-api-2-4-9-types-k-p.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/latest/types-q-s
 
-**Coletado em (UTC):** 2026-10-01T15:33:23.431942+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:44.834403+00:00
 
 ---
 
@@ -98256,7 +98256,7 @@ data-src=../../../includes/autogenerated/graphql-api-2-4-9-types-q-s.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/saas
 
-**Coletado em (UTC):** 2026-10-01T15:28:45.367914+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:49.889977+00:00
 
 ---
 
@@ -98274,7 +98274,7 @@ data-src=../../../includes/autogenerated/graphql-api-saas-queries.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/saas/mutations
 
-**Coletado em (UTC):** 2026-10-01T15:31:04.321627+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:28.037499+00:00
 
 ---
 
@@ -98292,7 +98292,7 @@ data-src=../../../includes/autogenerated/graphql-api-saas-mutations.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/saas/types-a-b
 
-**Coletado em (UTC):** 2026-10-01T15:34:13.807599+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:36.110649+00:00
 
 ---
 
@@ -98310,7 +98310,7 @@ data-src=../../../includes/autogenerated/graphql-api-saas-types-a-b.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/saas/types-c-e
 
-**Coletado em (UTC):** 2026-10-01T15:33:47.158587+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:07.928513+00:00
 
 ---
 
@@ -98328,7 +98328,7 @@ data-src=../../../includes/autogenerated/graphql-api-saas-types-c-e.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/saas/types-f-i
 
-**Coletado em (UTC):** 2026-10-01T15:33:45.602142+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:06.881390+00:00
 
 ---
 
@@ -98346,7 +98346,7 @@ data-src=../../../includes/autogenerated/graphql-api-saas-types-f-i.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/saas/types-k-p
 
-**Coletado em (UTC):** 2026-10-01T15:33:46.121342+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:08.450506+00:00
 
 ---
 
@@ -98364,7 +98364,7 @@ data-src=../../../includes/autogenerated/graphql-api-saas-types-k-p.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/graphql/saas/types-q-s
 
-**Coletado em (UTC):** 2026-10-01T15:33:46.640101+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:10.022768+00:00
 
 ---
 
@@ -98382,7 +98382,7 @@ data-src=../../../includes/autogenerated/graphql-api-saas-types-q-s.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/rest/paas
 
-**Coletado em (UTC):** 2026-10-01T15:28:39.425897+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:57.374579+00:00
 
 ---
 
@@ -98404,7 +98404,7 @@ data-src=https://adobe-commerce.redoc.ly
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/reference/rest/saas
 
-**Coletado em (UTC):** 2026-10-01T15:28:38.868142+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:55.701669+00:00
 
 ---
 
@@ -98426,7 +98426,7 @@ data-src=https://adobe-commerce-saas.redoc.ly
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest
 
-**Coletado em (UTC):** 2026-10-01T15:28:02.783088+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:13.447933+00:00
 
 ---
 
@@ -98513,7 +98513,7 @@ curl --location 'https://<server>.api.commerce.adobe.com/<tenant-id>/<endpoint>'
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/authentication
 
-**Coletado em (UTC):** 2026-10-01T15:28:40.465504+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:56.225148+00:00
 
 ---
 
@@ -98593,7 +98593,7 @@ The following permission scopes are required for Adobe Commerce as a Cloud Servi
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/authentication/server-to-server
 
-**Coletado em (UTC):** 2026-10-01T15:28:42.196582+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:54.105793+00:00
 
 ---
 
@@ -98918,7 +98918,7 @@ If you encounter issues during implementation, consider the following troublesho
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/authentication/user
 
-**Coletado em (UTC):** 2026-10-01T15:28:39.945029+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:56.846324+00:00
 
 ---
 
@@ -99044,7 +99044,7 @@ This section provides guidance on common issues and their resolutions when imple
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/b2b
 
-**Coletado em (UTC):** 2026-10-01T15:28:13.146376+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:29.915683+00:00
 
 ---
 
@@ -99159,7 +99159,7 @@ Yes
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/inventory
 
-**Coletado em (UTC):** 2026-10-01T15:33:47.677443+00:00
+**Coletado em (UTC):** 2026-10-01T19:40:02.358477+00:00
 
 ---
 
@@ -99211,7 +99211,7 @@ When merchants are ready to make a partial or full shipment, they select the sou
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/modules/custom-attributes
 
-**Coletado em (UTC):** 2026-10-01T15:29:28.080327+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:48.109799+00:00
 
 ---
 
@@ -99519,7 +99519,7 @@ data-src=../../includes/custom-attribute-installation.md
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/modules/import
 
-**Coletado em (UTC):** 2026-10-01T15:33:09.352716+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:43.107420+00:00
 
 ---
 
@@ -100576,7 +100576,7 @@ The "entity": "customer_composite" represents a composite entity that includes b
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/quick-reference/generate-local
 
-**Coletado em (UTC):** 2026-10-01T15:33:13.947231+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:31.779767+00:00
 
 ---
 
@@ -100689,7 +100689,7 @@ You may also use web server rewrite rules to redirect users trying to access the
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/reference
 
-**Coletado em (UTC):** 2026-10-01T15:28:02.188191+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:14.136190+00:00
 
 ---
 
@@ -100708,7 +100708,7 @@ This comprehensive reference provides detailed documentation for all available R
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/saas-integrations/login-as-customer
 
-**Coletado em (UTC):** 2026-10-01T15:31:57.434028+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:26.520900+00:00
 
 ---
 
@@ -100782,7 +100782,7 @@ After generating an OTC, you exchange it for a customer access token using one o
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/tutorials
 
-**Coletado em (UTC):** 2026-10-01T15:31:59.147066+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:20.939500+00:00
 
 ---
 
@@ -100868,7 +100868,7 @@ This section lists the information that Commerce sends to the REST client. These
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/tutorials/bulk-configurable-product
 
-**Coletado em (UTC):** 2026-10-01T15:33:14.464730+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:33.584704+00:00
 
 ---
 
@@ -100913,7 +100913,7 @@ Thanks to comwrap GmbH for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product
 
-**Coletado em (UTC):** 2026-10-01T15:33:15.129567+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:31.102491+00:00
 
 ---
 
@@ -100944,7 +100944,7 @@ This **5-step tutorial** generally takes **45 minutes**.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product
 
-**Coletado em (UTC):** 2026-10-01T15:33:15.734256+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:32.306386+00:00
 
 ---
 
@@ -101205,7 +101205,7 @@ POST /V1/carts/mine/items
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/tutorials/inventory
 
-**Coletado em (UTC):** 2026-10-01T15:33:16.385807+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:32.966952+00:00
 
 ---
 
@@ -101240,7 +101240,7 @@ This **14-step tutorial** generally takes **1 hour**.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/tutorials/orders
 
-**Coletado em (UTC):** 2026-10-01T15:31:58.548540+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:21.643253+00:00
 
 ---
 
@@ -101280,7 +101280,7 @@ The sample data defines a functional store, called Luma, that sells fitness clot
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks
 
-**Coletado em (UTC):** 2026-10-01T15:29:43.528862+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:03.584818+00:00
 
 ---
 
@@ -101349,7 +101349,7 @@ There are no additional verification steps. Tokens are not displayed in Admin.
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/use-rest/anonymous-api-security
 
-**Coletado em (UTC):** 2026-10-01T15:29:51.782594+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:07.492108+00:00
 
 ---
 
@@ -101706,7 +101706,7 @@ POST
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/use-rest/asynchronous-web-endpoints
 
-**Coletado em (UTC):** 2026-10-01T15:29:45.259867+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:02.530090+00:00
 
 ---
 
@@ -101894,7 +101894,7 @@ Thanks to comwrap GmbH for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/use-rest/bulk-endpoints
 
-**Coletado em (UTC):** 2026-10-01T15:32:09.377861+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:28.800911+00:00
 
 ---
 
@@ -102159,7 +102159,7 @@ Thanks to comwrap GmbH for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/use-rest/operation-status-endpoints
 
-**Coletado em (UTC):** 2026-10-01T15:31:21.213230+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:41.148486+00:00
 
 ---
 
@@ -102493,7 +102493,7 @@ Thanks to comwrap GmbH for contributing this topic!
 
 **Fonte original:** https://developer.adobe.com/commerce/webapi/rest/use-rest/performing-searches
 
-**Coletado em (UTC):** 2026-10-01T15:31:21.736168+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:46.268129+00:00
 
 ---
 
@@ -103009,7 +103009,7 @@ fields=items[increment_id,entity_id]
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/dropins/all/introduction
 
-**Coletado em (UTC):** 2026-10-01T15:29:15.122742+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:31.444894+00:00
 
 ---
 
@@ -103361,7 +103361,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/get-started
 
-**Coletado em (UTC):** 2026-10-01T15:29:54.517768+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:14.413004+00:00
 
 ---
 
@@ -103680,7 +103680,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/get-started/boilerplate-project
 
-**Coletado em (UTC):** 2026-10-01T15:29:14.417226+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:33.482050+00:00
 
 ---
 
@@ -103697,7 +103697,7 @@ to
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/launch
 
-**Coletado em (UTC):** 2026-10-01T15:29:11.576754+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:34.423454+00:00
 
 ---
 
@@ -103714,7 +103714,7 @@ to
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/playgrounds/commerce-services
 
-**Coletado em (UTC):** 2026-10-01T15:29:13.556173+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:35.213993+00:00
 
 ---
 
@@ -103985,7 +103985,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/sdk
 
-**Coletado em (UTC):** 2026-10-01T15:27:53.631765+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:03.517061+00:00
 
 ---
 
@@ -104281,7 +104281,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/developer/commerce/storefront/setup/analytics/instrumentation
 
-**Coletado em (UTC):** 2026-10-01T15:28:49.773019+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:58.514543+00:00
 
 ---
 
@@ -104971,7 +104971,7 @@ AdChoices
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-companies
 
-**Coletado em (UTC):** 2026-10-01T15:31:37.983367+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:08.595643+00:00
 
 ---
 
@@ -105065,7 +105065,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-company-admin
 
-**Coletado em (UTC):** 2026-10-01T15:32:33.331212+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:17.188603+00:00
 
 ---
 
@@ -105111,7 +105111,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-company-approve
 
-**Coletado em (UTC):** 2026-10-01T15:32:35.871686+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:19.879659+00:00
 
 ---
 
@@ -105175,7 +105175,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-company-create
 
-**Coletado em (UTC):** 2026-10-01T15:32:30.585033+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:20.850457+00:00
 
 ---
 
@@ -105559,7 +105559,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-company-customer-group
 
-**Coletado em (UTC):** 2026-10-01T15:32:37.512820+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:28.024550+00:00
 
 ---
 
@@ -105607,7 +105607,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-company-manage
 
-**Coletado em (UTC):** 2026-10-01T15:31:45.784701+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:03.115429+00:00
 
 ---
 
@@ -106137,7 +106137,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/credit-company
 
-**Coletado em (UTC):** 2026-10-01T15:32:27.765642+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:26.171087+00:00
 
 ---
 
@@ -106354,7 +106354,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/email-company-configuration
 
-**Coletado em (UTC):** 2026-10-01T15:32:26.922687+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:25.267525+00:00
 
 ---
 
@@ -106395,7 +106395,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/users/account-company-roles-permissions
 
-**Coletado em (UTC):** 2026-10-01T15:31:42.165303+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:00.184269+00:00
 
 ---
 
@@ -106655,7 +106655,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/users/account-company-structure
 
-**Coletado em (UTC):** 2026-10-01T15:31:41.358940+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:59.361209+00:00
 
 ---
 
@@ -106771,7 +106771,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/users/account-company-users
 
-**Coletado em (UTC):** 2026-10-01T15:32:29.797718+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:16.298225+00:00
 
 ---
 
@@ -106889,7 +106889,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/company-management/manage-companies
 
-**Coletado em (UTC):** 2026-10-01T15:31:40.534078+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:09.387556+00:00
 
 ---
 
@@ -107006,7 +107006,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/company-management/manage-company-hierarchy
 
-**Coletado em (UTC):** 2026-10-01T15:32:28.700492+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:18.066515+00:00
 
 ---
 
@@ -107128,7 +107128,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/enable-basic-features
 
-**Coletado em (UTC):** 2026-10-01T15:30:19.112924+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:14.638602+00:00
 
 ---
 
@@ -107247,7 +107247,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/guide-overview
 
-**Coletado em (UTC):** 2026-10-01T15:30:13.668182+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:16.940644+00:00
 
 ---
 
@@ -107341,7 +107341,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/install
 
-**Coletado em (UTC):** 2026-10-01T15:29:02.558887+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:40.233824+00:00
 
 ---
 
@@ -107521,7 +107521,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/introduction
 
-**Coletado em (UTC):** 2026-10-01T15:31:38.900755+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:10.315345+00:00
 
 ---
 
@@ -107636,7 +107636,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules
 
-**Coletado em (UTC):** 2026-10-01T15:30:14.195926+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:13.590971+00:00
 
 ---
 
@@ -107758,7 +107758,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/purchase-orders/account-dashboard-my-purchase-orders
 
-**Coletado em (UTC):** 2026-10-01T15:31:47.158338+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:14.403408+00:00
 
 ---
 
@@ -107837,7 +107837,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow
 
-**Coletado em (UTC):** 2026-10-01T15:30:17.182016+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:19.128148+00:00
 
 ---
 
@@ -107968,7 +107968,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/quick-order
 
-**Coletado em (UTC):** 2026-10-01T15:31:37.140480+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:02.150855+00:00
 
 ---
 
@@ -108044,7 +108044,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes
 
-**Coletado em (UTC):** 2026-10-01T15:32:32.507643+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:22.261903+00:00
 
 ---
 
@@ -108294,7 +108294,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/quotes/configure-quotes
 
-**Coletado em (UTC):** 2026-10-01T15:32:36.780565+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:27.208709+00:00
 
 ---
 
@@ -108344,7 +108344,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/quotes/quote-price-negotiation
 
-**Coletado em (UTC):** 2026-10-01T15:31:49.704081+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:13.306952+00:00
 
 ---
 
@@ -108639,7 +108639,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/quotes/quote-request
 
-**Coletado em (UTC):** 2026-10-01T15:31:48.893591+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:12.049785+00:00
 
 ---
 
@@ -108683,7 +108683,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/quotes/quotes
 
-**Coletado em (UTC):** 2026-10-01T15:30:18.074751+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:18.058523+00:00
 
 ---
 
@@ -108821,7 +108821,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/quotes/sales-rep-initiates-quote
 
-**Coletado em (UTC):** 2026-10-01T15:31:48.026844+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:11.067090+00:00
 
 ---
 
@@ -108898,7 +108898,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/reference/packages
 
-**Coletado em (UTC):** 2026-10-01T15:30:15.907616+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:12.023883+00:00
 
 ---
 
@@ -109545,7 +109545,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/requisition-lists/configure-requisition-lists
 
-**Coletado em (UTC):** 2026-10-01T15:31:50.949607+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:01.254920+00:00
 
 ---
 
@@ -109588,7 +109588,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/requisition-lists/requisition-lists
 
-**Coletado em (UTC):** 2026-10-01T15:31:39.671835+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:04.430337+00:00
 
 ---
 
@@ -109713,7 +109713,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/catalog-shared-manage
 
-**Coletado em (UTC):** 2026-10-01T15:31:44.821324+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:06.442518+00:00
 
 ---
 
@@ -109894,7 +109894,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/catalog-shared
 
-**Coletado em (UTC):** 2026-10-01T15:30:15.033006+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:16.029155+00:00
 
 ---
 
@@ -110014,7 +110014,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/catalog-views-manage
 
-**Coletado em (UTC):** 2026-10-01T15:32:31.569595+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:18.972618+00:00
 
 ---
 
@@ -110117,7 +110117,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-assign-companies
 
-**Coletado em (UTC):** 2026-10-01T15:31:44.048584+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:07.407322+00:00
 
 ---
 
@@ -110166,7 +110166,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create
 
-**Coletado em (UTC):** 2026-10-01T15:32:35.068319+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:24.399901+00:00
 
 ---
 
@@ -110324,7 +110324,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-pricing-structure
 
-**Coletado em (UTC):** 2026-10-01T15:31:43.153905+00:00
+**Coletado em (UTC):** 2026-10-01T19:38:05.353499+00:00
 
 ---
 
@@ -110422,7 +110422,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-product-add
 
-**Coletado em (UTC):** 2026-10-01T15:32:34.213915+00:00
+**Coletado em (UTC):** 2026-10-01T19:39:23.184791+00:00
 
 ---
 
@@ -110477,7 +110477,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/account-companies
 
-**Coletado em (UTC):** 2026-10-01T15:28:17.193514+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:22.222050+00:00
 
 ---
 
@@ -110487,12 +110487,18 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"bd989d82-1e15-4534-88db-f1f51dd77ffa"},{"id":"c1256247-af4b-46d8-9dca-0c654ecfa157"},{"id":"d1e21356-0064-4f48-9089-16e3f0dbd2a6"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Contas](#)
+- [Sistema de gerenciamento de pedidos](#)
+- [Vitrine](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"b69b2659-1057-424e-8fc5-ed9e016dc554"},{"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"},{"id":"f8a45b24-4be7-4f1b-909b-60d06b483a20"}
+- Intermediário
+- Iniciante
+- Usuário
+- Admin
+- Líder
 
 Ao incorporar contas de empresas B2B em sua loja, você pode simplificar a experiência de compra corporativa, permitindo que as empresas criem várias subcontas com permissões flexíveis com base nas funções de usuário em sua organização.
 
@@ -110565,7 +110571,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/account-company-admin
 
-**Coletado em (UTC):** 2026-10-01T15:30:12.584960+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:29.091540+00:00
 
 ---
 
@@ -110575,12 +110581,14 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"bd989d82-1e15-4534-88db-f1f51dd77ffa"}](#)
+- [Contas](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"b69b2659-1057-424e-8fc5-ed9e016dc554"},{"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"}
+- Intermediário
+- Iniciante
+- Usuário
+- Admin
 
 O administrador da empresa é atribuído inicialmente quando a conta da empresa é criada pela primeira vez e só pode ser modificado por um administrador de loja do Administrador.
 
@@ -110609,7 +110617,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/account-company-approve
 
-**Coletado em (UTC):** 2026-10-01T15:30:11.803564+00:00
+**Coletado em (UTC):** 2026-10-01T19:36:30.106522+00:00
 
 ---
 
@@ -110619,12 +110627,15 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"d1e21356-0064-4f48-9089-16e3f0dbd2a6"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Vitrine](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"b69b2659-1057-424e-8fc5-ed9e016dc554"},{"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"}
+- Intermediário
+- Iniciante
+- Usuário
+- Admin
 
 O status das solicitações recebidas da loja para criar uma empresa é Pending Approval até que a solicitação seja revisada pelo administrador da loja e seja aprovada ou rejeitada. O status de uma conta de empresa pode ser definido como qualquer um dos seguintes:
 
@@ -110670,7 +110681,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/account-company-create
 
-**Coletado em (UTC):** 2026-10-01T15:29:17.413941+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:10.271631+00:00
 
 ---
 
@@ -110680,12 +110691,19 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"ba9e5be9-7de1-4f71-a5d2-baead0e425ee"},{"id":"bd989d82-1e15-4534-88db-f1f51dd77ffa"},{"id":"c1256247-af4b-46d8-9dca-0c654ecfa157"},{"id":"d1e21356-0064-4f48-9089-16e3f0dbd2a6"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"},{"id":"f42e0a1a-0d79-488d-a83f-f2c30672b137"}](#)
+- [Segurança](#)
+- [Contas](#)
+- [Sistema de gerenciamento de pedidos](#)
+- [Vitrine](#)
+- [Configuração](#)
+- [Relatórios](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"b69b2659-1057-424e-8fc5-ed9e016dc554"},{"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"}
+- Intermediário
+- Iniciante
+- Usuário
+- Admin
 
 As contas da empresa permitem que as empresas B2B gerenciem suas compras, usuários e crédito no Adobe Commerce. Este tópico aborda o processo completo de criação, configuração e ativação de contas da empresa.
 
@@ -111047,7 +111065,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/account-company-customer-group
 
-**Coletado em (UTC):** 2026-10-01T15:30:58.168978+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:07.190819+00:00
 
 ---
 
@@ -111057,12 +111075,16 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"bd989d82-1e15-4534-88db-f1f51dd77ffa"},{"id":"d1e21356-0064-4f48-9089-16e3f0dbd2a6"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Contas](#)
+- [Vitrine](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"b69b2659-1057-424e-8fc5-ed9e016dc554"},{"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"}
+- Intermediário
+- Iniciante
+- Usuário
+- Admin
 
 Atribuir um grupo de clientes a uma empresa é basicamente o mesmo que atribuir um catálogo compartilhado. Se o Catálogo Compartilhado não estiver [habilitado na configuração](/pt-br/docs/commerce-admin/b2b/enable-basic-features), um Grupo de Clientes — em vez de um Catálogo Compartilhado — será atribuído a uma empresa.
 
@@ -111091,7 +111113,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/account-company-manage
 
-**Coletado em (UTC):** 2026-10-01T15:28:59.098065+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:16.126023+00:00
 
 ---
 
@@ -111099,14 +111121,22 @@ Documentação
 Adobe Commerce B2B
 # Gerenciar contas da empresa
 
-Última atualização: 16 de junho de 2026
+Última atualização: 1 de outubro de 2026
 - Tópicos:
-- [{"id":"bd989d82-1e15-4534-88db-f1f51dd77ffa"},{"id":"c1256247-af4b-46d8-9dca-0c654ecfa157"},{"id":"d1e21356-0064-4f48-9089-16e3f0dbd2a6"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"},{"id":"f42e0a1a-0d79-488d-a83f-f2c30672b137"}](#)
+- [Contas](#)
+- [Sistema de gerenciamento de pedidos](#)
+- [Gerenciamento de catálogo](#)
+- [Vitrine](#)
+- [Configuração](#)
+- [Relatórios](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"b69b2659-1057-424e-8fc5-ed9e016dc554"},{"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"},{"id":"f8a45b24-4be7-4f1b-909b-60d06b483a20"}
+- Intermediário
+- Iniciante
+- Usuário
+- Admin
+- Líder
 
 A página *Companies*​lista todas as contas da empresa atual, independentemente do status. Todas as solicitações pendentes de aprovação são exibidas na parte superior da lista.
 
@@ -111257,6 +111287,16 @@ Depois que uma empresa é criada, os usuários administradores com as permissõe
 Se uma empresa foi adicionada a uma hierarquia, a grade Company Hierarchy exibe a empresa principal e todas as empresas atribuídas na grade.
 
 Consulte [Gerenciar hierarquia da empresa](/pt-br/docs/commerce-admin/b2b/company-management/manage-company-hierarchy) para obter mais informações.
+
+## Gerenciar configuração de exibição de catálogo
+
+Com a extensão Adobe Commerce Optimizer Connector for B2B instalada, a seção *Catalog Views*​de uma conta da empresa lista as exibições de catálogo Adobe Commerce Optimizer projetadas do catálogo compartilhado atribuído à empresa e permite gerenciar as chaves de acesso restrito que as protegem.
+
+- Na barra lateral Admin , vá para Customers > Companies .
+- Localize a empresa que você deseja revisar e selecione Edit na coluna Action .
+- Expanda a seção Catalog Views .
+
+Para saber mais sobre exibições de catálogo e edição de chaves de acesso restrito, consulte [Gerenciar configuração de exibição de catálogo](/pt-br/docs/commerce-admin/b2b/shared-catalogs/catalog-views-manage).
 
 ## Opções e colunas da empresa
 
@@ -111464,6 +111504,32 @@ Company Admin
 O nome completo do administrador da empresa.
 Action
 A lista de ações possíveis para essa linha de empresa.
+#### Catalog Views
+
+A grade lista uma linha para cada exibição de catálogo criada quando um catálogo compartilhado é sincronizado com Adobe Commerce Optimizer. A grade é somente leitura além da ação de atribuição de chave. As exibições de catálogo são criadas e removidas automaticamente conforme o conector sincroniza catálogos compartilhados configurados no Adobe Commerce. Se um catálogo for removido, haverá um [período de carência](/pt-br/docs/commerce-admin/systems/data-transfer/data-sync/catalog-view-sync/catalog-view-sync-status#configure-the-deletion-grace-period) antes da exibição do catálogo correspondente e da exclusão dos dados.
+
+Para atribuir ou desatribuir chaves de acesso restrito, consulte [Atribuir chaves a uma exibição de catálogo](/pt-br/docs/commerce-admin/systems/data-transfer/data-sync/catalog-view-sync/restricted-access-keys#assign-keys-to-a-catalog-view).
+
+Campo
+Descrição
+ACO Catalog View ID
+O identificador da exibição de catálogo correspondente em Adobe Commerce Optimizer. Consulte
+Resumo do Status de Sincronização da Exibição de Catálogo
+para verificar sua integridade de sincronização.
+Store View
+A exibição de loja que a exibição de catálogo representa. Consulte
+Exibições de armazenamento
+.
+Access Keys
+Os títulos das chaves de acesso restrito atualmente atribuídas à exibição de catálogo. Consulte
+Gerenciamento de Chaves de Acesso Restrito
+.
+Actions
+Selecione
+Edit Restricted Access Keys
+para atribuir ou cancelar a atribuição de chaves para a exibição do catálogo. Consulte
+Atribuir chaves a uma exibição de catálogo
+.
 #### Legal Address
 
 Colunas
@@ -111577,7 +111643,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/credit-company
 
-**Coletado em (UTC):** 2026-10-01T15:29:18.459303+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:13.927571+00:00
 
 ---
 
@@ -111587,12 +111653,18 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"b5f00040-57a0-4a6d-a39e-383b1936c2c9"},{"id":"ba9e5be9-7de1-4f71-a5d2-baead0e425ee"},{"id":"bd989d82-1e15-4534-88db-f1f51dd77ffa"},{"id":"c1256247-af4b-46d8-9dca-0c654ecfa157"},{"id":"d1e21356-0064-4f48-9089-16e3f0dbd2a6"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Conformidade](#)
+- [Segurança](#)
+- [Contas](#)
+- [Sistema de gerenciamento de pedidos](#)
+- [Vitrine](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"}
+- Intermediário
+- Iniciante
+- Admin
 
 O crédito da empresa permite que empresas B2B façam compras com uma linha de crédito pré-aprovada, em vez de exigir pagamento imediato. Quando o [Pagamento na Conta](/pt-br/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account) está habilitado, as empresas podem comprar até o limite de crédito e exibir seu status de crédito no painel de contas.
 
@@ -111786,7 +111858,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/email-company-configuration
 
-**Coletado em (UTC):** 2026-10-01T15:29:16.621367+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:19.513493+00:00
 
 ---
 
@@ -111796,12 +111868,14 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"bd989d82-1e15-4534-88db-f1f51dd77ffa"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Contas](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"}
+- Intermediário
+- Iniciante
+- Admin
 
 O [representante de vendas](/pt-br/docs/commerce-admin/b2b/companies/account-company-manage) que é atribuído como o contato principal de uma empresa é configurado por padrão como o remetente de muitas mensagens de email automatizadas enviadas para a empresa.
 
@@ -111825,7 +111899,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/users/account-company-roles-permissions
 
-**Coletado em (UTC):** 2026-10-01T15:29:00.819397+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:12.534454+00:00
 
 ---
 
@@ -111835,12 +111909,15 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"bd989d82-1e15-4534-88db-f1f51dd77ffa"},{"id":"c1256247-af4b-46d8-9dca-0c654ecfa157"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Contas](#)
+- [Sistema de gerenciamento de pedidos](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"}
+- Intermediário
+- Iniciante
+- Admin
 
 Você configura funções para usuários da empresa com vários níveis de permissão para acessar informações e recursos de vendas. Por padrão, o administrador da empresa é um *superusuário* com permissões totais. A página [Acesso Negado](/pt-br/docs/commerce-admin/content-design/elements/pages/pages#access-denied) será exibida se um usuário não tiver permissão para acessar a página.
 
@@ -112082,7 +112159,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/users/account-company-structure
 
-**Coletado em (UTC):** 2026-10-01T15:29:19.521212+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:14.917700+00:00
 
 ---
 
@@ -112092,12 +112169,13 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"bd989d82-1e15-4534-88db-f1f51dd77ffa"}](#)
+- [Contas](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"}
+- Intermediário
+- Iniciante
+- Admin
 
 Uma conta de empresa pode ser configurada para refletir a estrutura da empresa. Inicialmente, a estrutura da empresa inclui apenas o administrador da empresa, mas pode ser expandida para incluir equipes de usuários. Os usuários podem ser associados a equipes ou organizados dentro de uma hierarquia de divisões e subdivisões dentro da empresa.
 
@@ -112197,7 +112275,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/users/account-company-users
 
-**Coletado em (UTC):** 2026-10-01T15:29:21.276902+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:18.515517+00:00
 
 ---
 
@@ -112207,12 +112285,14 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"bd989d82-1e15-4534-88db-f1f51dd77ffa"}](#)
+- [Contas](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"b69b2659-1057-424e-8fc5-ed9e016dc554"},{"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"}
+- Intermediário
+- Iniciante
+- Usuário
+- Admin
 
 Na loja, os usuários da empresa são atribuídos pelo administrador da empresa e ficam visíveis na página *Company Users*. Normalmente, esses indivíduos são compradores com diferentes níveis de permissão para acessar serviços e recursos da loja.
 
@@ -112313,7 +112393,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/company-management/manage-companies
 
-**Coletado em (UTC):** 2026-10-01T15:28:18.936087+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:20.994740+00:00
 
 ---
 
@@ -112323,12 +112403,15 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"ba9e5be9-7de1-4f71-a5d2-baead0e425ee"},{"id":"bd989d82-1e15-4534-88db-f1f51dd77ffa"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Segurança](#)
+- [Contas](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"}
+- Intermediário
+- Iniciante
+- Admin
 
 O gerenciamento de empresas no Adobe Commerce fornece ferramentas abrangentes para administradores organizarem, configurarem e supervisionarem relações comerciais B2B. Esse recurso é essencial para empresas que trabalham com vários clientes corporativos, subsidiárias ou estruturas organizacionais complexas.
 
@@ -112427,7 +112510,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/company-management/manage-company-hierarchy
 
-**Coletado em (UTC):** 2026-10-01T15:29:20.424489+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:11.583008+00:00
 
 ---
 
@@ -112437,12 +112520,14 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"c1256247-af4b-46d8-9dca-0c654ecfa157"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Sistema de gerenciamento de pedidos](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"}
+- Intermediário
+- Iniciante
+- Admin
 
 O recurso Company Hierarchy permite organizar várias empresas relacionadas em uma única estrutura de empresa principal. Isso é ideal para empresas com subsidiárias, franquias, vários locais ou estruturas organizacionais complexas que precisam de gerenciamento centralizado e, ao mesmo tempo, mantêm identidades de empresas individuais.
 
@@ -112547,7 +112632,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/enable-basic-features
 
-**Coletado em (UTC):** 2026-10-01T15:28:10.220070+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:25.114519+00:00
 
 ---
 
@@ -112557,12 +112642,16 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"bd989d82-1e15-4534-88db-f1f51dd77ffa"},{"id":"c1256247-af4b-46d8-9dca-0c654ecfa157"},{"id":"d1e21356-0064-4f48-9089-16e3f0dbd2a6"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Contas](#)
+- [Sistema de gerenciamento de pedidos](#)
+- [Vitrine](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"}
+- Intermediário
+- Iniciante
+- Admin
 
 Por padrão, todos os recursos B2B são inicialmente desativados. Um administrador de loja pode ativar ou desativar os recursos B2B conforme necessário para lojas Commerce. Para obter uma lista completa de definições de configuração B2B, consulte [Referência de configuração de Recursos B2B](/pt-br/docs/commerce-admin/config/general/b2b-features).
 
@@ -112662,7 +112751,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/guide-overview
 
-**Coletado em (UTC):** 2026-10-01T15:27:54.550649+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:04.496701+00:00
 
 ---
 
@@ -112670,14 +112759,21 @@ Documentação
 Adobe Commerce B2B
 # Guia B2B do Adobe Commerce
 
-Última atualização: 21 de agosto de 2026
+Última atualização: 1 de outubro de 2026
 - Tópicos:
-- [{"id":"bd989d82-1e15-4534-88db-f1f51dd77ffa"},{"id":"c1256247-af4b-46d8-9dca-0c654ecfa157"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"},{"id":"e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75"},{"id":"f42e0a1a-0d79-488d-a83f-f2c30672b137"}](#)
+- [Contas](#)
+- [Sistema de gerenciamento de pedidos](#)
+- [Configuração](#)
+- [Arquitetura](#)
+- [Relatórios](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"b69b2659-1057-424e-8fc5-ed9e016dc554"},{"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"},{"id":"f8a45b24-4be7-4f1b-909b-60d06b483a20"}
+- Intermediário
+- Iniciante
+- Usuário
+- Admin
+- Líder
 
 Este guia destina-se aos administradores que trabalham no Adobe Commerce Admin. Ela fornece informações detalhadas sobre a instalação e habilitação deste módulo, incluindo a configuração e o gerenciamento de seus recursos. Ele pressupõe uma compreensão básica da configuração e funcionalidade principais do Commerce.
 
@@ -112704,7 +112800,7 @@ Saiba mais sobre as contas da empresa e como elas fornecem o elemento principal 
 Gerenciamento da Empresa
 Saiba como os administradores de site do Commerce B2B podem criar hierarquias de empresa para simplificar o gerenciamento de várias empresas que pertencem à mesma empresa.
 Catálogos compartilhados
-Saiba mais sobre como usar catálogos compartilhados para manter catálogos fechados com preços personalizados para diferentes empresas.
+Saiba mais sobre como usar catálogos compartilhados para manter catálogos privados com preços personalizados para diferentes empresas. Para clientes com o Adobe Commerce Optimizer Connector for B2B, saiba como sincronizar catálogos compartilhados B2B para Adobe Commerce Optimizer como exibições de catálogo privado para potencializar experiências de vitrine usando recursos avançados de merchandising.
 Pedidos rápidos
 Saiba mais sobre a funcionalidade de pedidos rápidos e como habilitá-la para seus clientes.
 Ordens de Compra
@@ -112749,7 +112845,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/install
 
-**Coletado em (UTC):** 2026-10-01T15:28:13.777435+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:23.999760+00:00
 
 ---
 
@@ -112761,12 +112857,16 @@ Adobe Commerce B2B
 
 Última atualização: 21 de agosto de 2026
 - Tópicos:
-- [{"id":"c1256247-af4b-46d8-9dca-0c654ecfa157"},{"id":"d1e21356-0064-4f48-9089-16e3f0dbd2a6"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Sistema de gerenciamento de pedidos](#)
+- [Vitrine](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"},{"id":"ff6a42d2-313e-452e-93a6-792e4fad9ff8"}
+- Intermediário
+- Iniciante
+- Admin
+- Desenvolvedor
 
 A extensão B2B do Adobe Commerce magento/extension-b2b está disponível para todas as versões do Adobe Commerce com suporte. Ele é instalado após a instalação do Adobe Commerce.
 
@@ -112921,11 +113021,11 @@ commerce-admin-help-b2b
 # FILE: experienceleague-adobe-com__pt-br__docs__commerce-admin__b2b__introduction.md
 ---
 
-# Introdução a Adobe Commerce B2B | Adobe Commerce
+# Introdução ao Adobe Commerce B2B | Adobe Commerce
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/introduction
 
-**Coletado em (UTC):** 2026-10-01T15:28:11.292660+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:23.155074+00:00
 
 ---
 
@@ -112933,14 +113033,19 @@ Documentação
 Adobe Commerce B2B
 # Introdução ao Adobe Commerce B2B
 
-Última atualização: 21 de agosto de 2026
+Última atualização: 1 de outubro de 2026
 - Tópicos:
-- [{"id":"bd989d82-1e15-4534-88db-f1f51dd77ffa"},{"id":"c1256247-af4b-46d8-9dca-0c654ecfa157"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Contas](#)
+- [Sistema de gerenciamento de pedidos](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"b69b2659-1057-424e-8fc5-ed9e016dc554"},{"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"},{"id":"f8a45b24-4be7-4f1b-909b-60d06b483a20"}
+- Intermediário
+- Iniciante
+- Usuário
+- Admin
+- Líder
 
 Diferentemente do modelo padrão B2B (Business to Business), os recursos integrados B2B são projetados para atender às necessidades de vendedores (comerciantes da Adobe Commerce) que têm clientes que são empresas. Ele acomoda empresas com estruturas organizacionais complexas e vários usuários com várias funções e níveis de permissão de compra. Um cliente B2B típico pode ser o gerente de uma loja de varejo ou um comprador que faz compras em nome de uma empresa. Em ambos os casos, a transação ocorre entre a sua empresa e a deles. Você também pode vender produtos diretamente para o consumidor. Adobe Commerce B2B é uma solução integrada que oferece suporte aos modelos B2B e B2C.
 
@@ -112973,6 +113078,13 @@ Os serviços da Adobe Commerce são serviços hospedados que fornecem recursos e
 - [Serviço de catálogo](/pt-br/docs/commerce/catalog-service/guide-overview)
 - [Live Search](/pt-br/docs/commerce/live-search/overview)
 - [Recomendações de produto](/pt-br/docs/commerce/product-recommendations/guide-overview)
+- [Adobe Commerce Optimizer Connector](/pt-br/docs/commerce/aco-optimizer-connector/overview)
+
+O Adobe Commerce Optimizer Connector sincroniza dados de catálogo e preço do Adobe Commerce no Adobe Commerce Optimizer para potencializar a descoberta de produtos orientada por IA, recomendações e lojas headless, enquanto o Adobe Commerce permanece o sistema de registro.
+
+NOTE
+Para comerciantes B2B, o Adobe Commerce Optimizer Connector for B2B sincroniza automaticamente seus catálogos compartilhados no Adobe Commerce Optimizer como exibições de catálogo protegidas, protegidas por chaves de acesso restritas, de modo que a variedade e o preço do produto específico do contrato permaneçam sincronizados entre os dois sistemas.
+Para obter mais informações, consulte o [Adobe Commerce Optimizer Connector Guia de Integração](/pt-br/docs/commerce/aco-optimizer-connector/overview).
 
 ## Catálogos compartilhados
 
@@ -112980,6 +113092,12 @@ Catálogos compartilhados são os níveis de preços que permitem definir preço
 
 Para obter mais informações, consulte [Trabalhando com Catálogos Compartilhados](/pt-br/docs/commerce-admin/b2b/shared-catalogs/catalog-shared).
 
+NOTE
+Se a extensão Adobe Commerce Optimizer Connector for B2B estiver instalada, cada catálogo compartilhado personalizado também será projetado em Adobe Commerce Optimizer como uma ou mais exibições de catálogo, uma por exibição de loja no catálogo compartilhado. Para obter mais informações, consulte
+Gerenciar configuração de exibição do catálogo
+e
+Monitoramento do status de sincronização da exibição do catálogo
+.
 ## Pedido rápido
 
 Configure o Pedido rápido para reduzir o processo de pedido a vários cliques para clientes conectados quando eles souberem o nome do produto ou SKU dos produtos que desejam solicitar.
@@ -113022,7 +113140,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules
 
-**Coletado em (UTC):** 2026-10-01T15:29:05.975522+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:17.143809+00:00
 
 ---
 
@@ -113032,12 +113150,14 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"c1256247-af4b-46d8-9dca-0c654ecfa157"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Sistema de gerenciamento de pedidos](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"}
+- Intermediário
+- Iniciante
+- Admin
 
 A maioria das empresas exige aprovação de pedidos para pedidos de compra. Ao adicionar regras de aprovação para a conta da empresa, é possível controlar quem pode criar ordens de compra e quanto pode gastar. Por exemplo:
 
@@ -113142,7 +113262,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/purchase-orders/account-dashboard-my-purchase-orders
 
-**Coletado em (UTC):** 2026-10-01T15:29:22.071679+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:28.617450+00:00
 
 ---
 
@@ -113152,12 +113272,15 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"c1256247-af4b-46d8-9dca-0c654ecfa157"}](#)
+- [Sistema de gerenciamento de pedidos](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"b69b2659-1057-424e-8fc5-ed9e016dc554"},{"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"},{"id":"f8a45b24-4be7-4f1b-909b-60d06b483a20"}
+- Intermediário
+- Iniciante
+- Usuário
+- Admin
+- Líder
 
 Quando as ordens de compra são [habilitadas para uma empresa](/pt-br/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow), qualquer ordem de um cliente conectado a uma conta de usuário da empresa é automaticamente criada como uma ordem de compra (OC). Os usuários da empresa com as permissões necessárias podem criar, editar e excluir as OCs que eles criam, juntamente com as OCs criadas por usuários subordinados.
 
@@ -113218,7 +113341,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow
 
-**Coletado em (UTC):** 2026-10-01T15:28:18.171296+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:27.509276+00:00
 
 ---
 
@@ -113228,12 +113351,16 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"ba9e5be9-7de1-4f71-a5d2-baead0e425ee"},{"id":"c1256247-af4b-46d8-9dca-0c654ecfa157"}](#)
+- [Segurança](#)
+- [Sistema de gerenciamento de pedidos](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"b69b2659-1057-424e-8fc5-ed9e016dc554"},{"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"},{"id":"f8a45b24-4be7-4f1b-909b-60d06b483a20"}
+- Intermediário
+- Iniciante
+- Usuário
+- Admin
+- Líder
 
 As ordens de compra (OCs) são uma maneira comum de as empresas rastrearem e controlarem os gastos. A [Ordem de compra](/pt-br/docs/commerce-admin/stores-sales/payments/offline/purchase-order) é um dos métodos de pagamento offline padrão com suporte no Adobe Commerce e no Magento Open Source. Quando o B2B do Adobe Commerce está instalado e a opção *Habilitar Ordens de Compra* é ativada para uma conta da empresa, todas as ordens são criadas automaticamente como Ordens de Compra (OC). Usuários da empresa com as [permissões](/pt-br/docs/commerce-admin/b2b/companies/users/account-company-roles-permissions) necessárias podem criar, editar e excluir OCs que eles criam e OCs criadas por usuários subordinados.
 
@@ -113345,7 +113472,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/quick-order
 
-**Coletado em (UTC):** 2026-10-01T15:28:16.370059+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:19.945135+00:00
 
 ---
 
@@ -113355,12 +113482,17 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"bd989d82-1e15-4534-88db-f1f51dd77ffa"},{"id":"c1256247-af4b-46d8-9dca-0c654ecfa157"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Contas](#)
+- [Sistema de gerenciamento de pedidos](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"b69b2659-1057-424e-8fc5-ed9e016dc554"},{"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"},{"id":"f8a45b24-4be7-4f1b-909b-60d06b483a20"}
+- Intermediário
+- Iniciante
+- Usuário
+- Admin
+- Líder
 
 O recurso *Pedido rápido* reduz o processo de pedido a vários cliques para clientes que sabem o nome do produto ou a SKU dos produtos que desejam solicitar. Pedidos com vários SKUs podem ser informados manualmente ou importados para o formulário Pedido rápido. O Pedido rápido pode ser usado por clientes que estão conectados a suas contas e por convidados. Quando habilitado, o link *Pedido Rápido* aparece na parte superior da página, ao lado do nome do cliente.
 
@@ -113416,7 +113548,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes
 
-**Coletado em (UTC):** 2026-10-01T15:29:01.666364+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:41.202675+00:00
 
 ---
 
@@ -113426,12 +113558,15 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"c1256247-af4b-46d8-9dca-0c654ecfa157"}](#)
+- [Sistema de gerenciamento de pedidos](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"b69b2659-1057-424e-8fc5-ed9e016dc554"},{"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"},{"id":"f8a45b24-4be7-4f1b-909b-60d06b483a20"}
+- Intermediário
+- Iniciante
+- Usuário
+- Admin
+- Líder
 
 Se as cotações estiverem habilitadas, a seção *My Quotes*​do painel da conta do cliente listará todas as cotações enviadas pelo cliente. Dependendo das permissões, somente os compradores que fazem compras em nome de uma empresa podem enviar solicitações para negociar o preço de uma compra.
 
@@ -113663,7 +113798,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/quotes/configure-quotes
 
-**Coletado em (UTC):** 2026-10-01T15:30:59.325713+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:06.153237+00:00
 
 ---
 
@@ -113673,12 +113808,14 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"bd989d82-1e15-4534-88db-f1f51dd77ffa"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Contas](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"}
+- Intermediário
+- Iniciante
+- Admin
 
 Se as cotações estiverem habilitadas nos [recursos B2B](/pt-br/docs/commerce-admin/b2b/enable-basic-features) gerais, você poderá configurar o suporte para cotações no Administrador. A configuração da cotação determina o valor mínimo exigido do pedido para solicitações de cotação, o tempo de vida da cotação e os formatos de arquivo compatíveis para arquivos anexados.
 
@@ -113709,7 +113846,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/quotes/quote-price-negotiation
 
-**Coletado em (UTC):** 2026-10-01T15:29:22.910753+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:27.565807+00:00
 
 ---
 
@@ -113719,12 +113856,17 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"c1256247-af4b-46d8-9dca-0c654ecfa157"},{"id":"d1e21356-0064-4f48-9089-16e3f0dbd2a6"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Sistema de gerenciamento de pedidos](#)
+- [Vitrine](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"b69b2659-1057-424e-8fc5-ed9e016dc554"},{"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"},{"id":"f8a45b24-4be7-4f1b-909b-60d06b483a20"}
+- Intermediário
+- Iniciante
+- Usuário
+- Admin
+- Líder
 
 Se as [Cotações B2B estiverem habilitadas](/pt-br/docs/commerce-admin/b2b/quotes/configure-quotes) na configuração, a negociação de preço poderá ser iniciada por um comprador autorizado de uma empresa ou um representante de vendas.
 
@@ -113999,7 +114141,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/quotes/quote-request
 
-**Coletado em (UTC):** 2026-10-01T15:29:25.085900+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:26.360672+00:00
 
 ---
 
@@ -114009,12 +114151,14 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"b69b2659-1057-424e-8fc5-ed9e016dc554"},{"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"}
+- Intermediário
+- Iniciante
+- Usuário
+- Admin
 
 Se as cotações estiverem habilitadas na [Configuração dos recursos de vendas](/pt-br/docs/commerce-admin/b2b/quotes/configure-quotes), um comprador autorizado de uma empresa poderá iniciar o processo de negociação de preços solicitando uma cota do carrinho de compras. Se um comprador não estiver pronto para submeter uma cota para negociação, ele poderá salvá-la como uma preliminar.
 
@@ -114041,7 +114185,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/quotes/quotes
 
-**Coletado em (UTC):** 2026-10-01T15:28:19.809394+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:26.469723+00:00
 
 ---
 
@@ -114051,12 +114195,18 @@ Adobe Commerce B2B
 
 Última atualização: 1 de junho de 2026
 - Tópicos:
-- [{"id":"bd989d82-1e15-4534-88db-f1f51dd77ffa"},{"id":"c1256247-af4b-46d8-9dca-0c654ecfa157"},{"id":"d1e21356-0064-4f48-9089-16e3f0dbd2a6"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Contas](#)
+- [Sistema de gerenciamento de pedidos](#)
+- [Vitrine](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"b69b2659-1057-424e-8fc5-ed9e016dc554"},{"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"},{"id":"f8a45b24-4be7-4f1b-909b-60d06b483a20"}
+- Intermediário
+- Iniciante
+- Usuário
+- Admin
+- Líder
 
 Compradores e vendedores usam Cotações para gerenciar o processo de negociação de itens de adição de uma ordem, atualização de quantidades, solicitação e aplicação de descontos, etc., até chegarem a um acordo. O processo de negociação de cota pode ser iniciado por um comprador autorizado da empresa ou por um representante de vendas da empresa.
 
@@ -114173,7 +114323,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/quotes/sales-rep-initiates-quote
 
-**Coletado em (UTC):** 2026-10-01T15:29:24.083425+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:25.461736+00:00
 
 ---
 
@@ -114183,12 +114333,15 @@ Adobe Commerce B2B
 
 Última atualização: 21 de agosto de 2026
 - Tópicos:
-- [{"id":"bd989d82-1e15-4534-88db-f1f51dd77ffa"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Contas](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"b69b2659-1057-424e-8fc5-ed9e016dc554"},{"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"}
+- Intermediário
+- Iniciante
+- Usuário
+- Admin
 
 Se as cotações estiverem habilitadas na [Configuração de recursos de vendas](/pt-br/docs/commerce-admin/b2b/quotes/configure-quotes), um representante de vendas poderá iniciar o processo de negociação com um comprador da empresa criando uma cota do Administrador.
 
@@ -114247,7 +114400,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/reference/packages
 
-**Coletado em (UTC):** 2026-10-01T15:29:04.128337+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:21.899433+00:00
 
 ---
 
@@ -114257,12 +114410,16 @@ Adobe Commerce B2B
 
 Última atualização: 12 de maio de 2026
 - Tópicos:
-- [{"id":"ba9e5be9-7de1-4f71-a5d2-baead0e425ee"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Segurança](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"b69b2659-1057-424e-8fc5-ed9e016dc554"},{"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"},{"id":"f8a45b24-4be7-4f1b-909b-60d06b483a20"}
+- Intermediário
+- Iniciante
+- Usuário
+- Admin
+- Líder
 
 O Adobe Commerce B2B usa o Composer para gerenciar pacotes PHP.
 
@@ -114890,7 +115047,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/requisition-lists/configure-requisition-lists
 
-**Coletado em (UTC):** 2026-10-01T15:29:00.097478+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:24.464370+00:00
 
 ---
 
@@ -114900,12 +115057,13 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"}
+- Intermediário
+- Iniciante
+- Admin
 
 Quando o recurso de lista de requisições estiver ativado, os clientes poderão criar várias listas de itens comprados com frequência e usar essas listas para colocação de ordem. Ele está disponível tanto para usuários conectados quanto para convidados. Você pode habilitar listas de requisições ao [configurar os recursos B2B](/pt-br/docs/commerce-admin/b2b/enable-basic-features).
 
@@ -114932,7 +115090,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/requisition-lists/requisition-lists
 
-**Coletado em (UTC):** 2026-10-01T15:28:12.232311+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:30.539022+00:00
 
 ---
 
@@ -114942,12 +115100,17 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"c1256247-af4b-46d8-9dca-0c654ecfa157"},{"id":"d1e21356-0064-4f48-9089-16e3f0dbd2a6"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Sistema de gerenciamento de pedidos](#)
+- [Vitrine](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"b69b2659-1057-424e-8fc5-ed9e016dc554"},{"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"},{"id":"f8a45b24-4be7-4f1b-909b-60d06b483a20"}
+- Intermediário
+- Iniciante
+- Usuário
+- Admin
+- Líder
 
 O uso de uma lista de requisições economiza tempo ao comprar produtos solicitados com frequência, pois os itens são adicionados ao carrinho diretamente da lista. Os compradores podem manter várias listas que se concentram em produtos de diferentes fornecedores, compradores, equipes, campanhas ou qualquer outra coisa que simplifique o fluxo de trabalho. O recurso de lista de requisições está disponível para usuários conectados.
 
@@ -115052,7 +115215,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/shared-catalogs/catalog-shared-manage
 
-**Coletado em (UTC):** 2026-10-01T15:29:08.533296+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:36.755325+00:00
 
 ---
 
@@ -115060,20 +115223,29 @@ Documentação
 Adobe Commerce B2B
 # Gerenciar seus catálogos compartilhados
 
-Última atualização: 16 de junho de 2026
+Última atualização: 1 de outubro de 2026
 - Tópicos:
-- [{"id":"bd989d82-1e15-4534-88db-f1f51dd77ffa"},{"id":"c1256247-af4b-46d8-9dca-0c654ecfa157"},{"id":"c18ed297-2187-4aec-affb-9d9654eca6fc"},{"id":"d1e21356-0064-4f48-9089-16e3f0dbd2a6"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Contas](#)
+- [Sistema de gerenciamento de pedidos](#)
+- [Gerenciamento de catálogo](#)
+- [Vitrine](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"b69b2659-1057-424e-8fc5-ed9e016dc554"},{"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"},{"id":"f8a45b24-4be7-4f1b-909b-60d06b483a20"}
+- Intermediário
+- Iniciante
+- Usuário
+- Admin
+- Líder
 
-A página *Shared Catalogs*​fornece acesso às ferramentas necessárias para gerenciar seus catálogos compartilhados. A página é semelhante ao espaço de trabalho padrão de Administração, com filtros e controles de ação. A grade lista todos os catálogos compartilhados, incluindo o catálogo público compartilhado padrão e todos os catálogos personalizados que você configurou.
+A página *Shared Catalogs*​fornece acesso às ferramentas necessárias para gerenciar seus catálogos compartilhados, incluindo seleção de produtos, preços personalizados, permissões de categoria e detalhes de catálogo. A página é semelhante ao espaço de trabalho padrão de Administração, com filtros e controles de ação. A grade lista todos os catálogos compartilhados, incluindo o catálogo público compartilhado padrão e todos os catálogos personalizados que você configurou.
+
+Se a extensão Adobe Commerce Optimizer Connector for B2B estiver instalada, a página também fornecerá acesso às Adobe Commerce Optimizer exibições de catálogo criadas quando o conector sincroniza dados de cada catálogo compartilhado para Adobe Commerce Optimizer, e às chaves de acesso restritas que protegem as exibições de catálogo para experiências da loja B2B.
 
 ## Atualizar a seleção de produtos
 
-A seleção de produtos em qualquer catálogo compartilhado pode ser facilmente atualizada a partir da coluna *Action*​da grade de catálogos compartilhados. As alterações feitas estão visíveis para os membros de qualquer conta da empresa associada. O processo é essencialmente o mesmo que escolher produtos para uma nova [estrutura de catálogo](/pt-br/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-pricing-structure), exceto que o escopo da configuração não pode ser alterado.
+A seleção de produtos em qualquer catálogo compartilhado pode ser facilmente atualizada a partir da coluna *Action*​da grade de catálogos compartilhados. As alterações feitas estão visíveis para os membros de qualquer conta da empresa associada. O processo é o mesmo que escolher produtos para uma nova [estrutura de catálogo](/pt-br/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-pricing-structure), exceto que o escopo da configuração não pode ser alterado.
 
 - Na barra lateral Admin , vá para Catalog > Shared Catalogs .
 - Para o catálogo compartilhado na grade, vá para a coluna Action e selecione Set Pricing and Structure . {width="700" modal="regular"}
@@ -115085,7 +115257,7 @@ Se você estiver trabalhando com um produto específico, a seção *Products In 
 
 ## Atualizar preços personalizados
 
-Os preços personalizados de produtos em qualquer catálogo compartilhado podem ser facilmente atualizados na coluna Ação da grade Catálogos compartilhados. As alterações feitas estão visíveis na loja para membros da empresa associada ou grupo de clientes. O processo é basicamente o mesmo que definir preços personalizados para um novo [catálogo compartilhado](/pt-br/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-pricing-structure), exceto que o escopo da configuração não pode ser alterado.
+Os preços personalizados de produtos em qualquer catálogo compartilhado podem ser facilmente atualizados na coluna Ação da grade Catálogos compartilhados. As alterações feitas estão visíveis na loja para membros da empresa associada ou grupo de clientes. O processo é o mesmo que definir preços personalizados para um novo [catálogo compartilhado](/pt-br/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-pricing-structure), exceto que o escopo da configuração não pode ser alterado.
 
 - Na barra lateral Admin , vá para Catalog > Shared Catalogs .
 - Para o catálogo compartilhado na grade que você deseja atualizar, vá para a coluna Action e selecione Set Pricing and Structure .
@@ -115101,23 +115273,22 @@ Versão 1.3.0
 e posterior
 do B2B — Quando você cria um catálogo compartilhado, cada
 permissão de categoria
-para o catálogo é definida como
+é definida como
 Allow
-para o
+para
 Display Product Prices
-​e_Add to Cart_ para grupos de clientes aos quais é atribuído esse acesso nas configurações de permissão do catálogo. Anteriormente, essas configurações eram automaticamente definidas como
+​e_Add to Cart_ para grupos de clientes atribuídos. Anteriormente, essas configurações eram automaticamente definidas como
 Deny
 , mesmo quando as permissões do catálogo eram definidas como
 Allow
 .
 IMPORTANT
-Todas as
-configurações de permissão de grupo
-existentes são ignoradas por
-todas
-categorias no catálogo quando o recurso
 Shared Catalog
-está habilitado. Shared Catalog controla totalmente todas as permissões de categoria no catálogo quando ele é habilitado.
+substitui todas as
+configurações de permissão de grupo
+existentes para
+todas
+categorias no catálogo quando habilitado. Shared Catalog controla totalmente todas as permissões de categoria no catálogo quando ele é habilitado.
 - Na barra lateral Admin , vá para Catalog > Categories .
 - Na árvore de categorias, selecione a categoria dos produtos que deseja atualizar. Para incluir todos os produtos, selecione a categoria de nível superior na árvore.
 - Role para baixo e expanda na seção Category Permissions .
@@ -115132,8 +115303,18 @@ As informações detalhadas de qualquer catálogo compartilhado podem ser facilm
 
 - Na barra lateral Admin , vá para Catalog > Shared Catalogs .
 - Para o catálogo compartilhado que você deseja atualizar, vá para a coluna Action e selecione General Settings . {width="600" modal="regular"}
-- Atualize as informações detalhadas do catálogo conforme necessário. Alterar o nome de um catálogo compartilhado também altera o nome do grupo de clientes correspondente. Alterar o tipo de catálogo de Custom para Public converte o catálogo público existente em um catálogo personalizado. Todas as empresas associadas ao catálogo público original são reatribuídas à substituição. Um catálogo público não pode ser convertido em um catálogo personalizado.
+- Atualize as informações detalhadas do catálogo conforme necessário. Alterar o nome de um catálogo compartilhado também altera o nome do grupo de clientes correspondente. Alterar o tipo de catálogo de Custom para Public converte o catálogo público existente em um catálogo personalizado. Todas as empresas associadas ao catálogo público original são reatribuídas à substituição. Um catálogo público não pode ser convertido em um catálogo personalizado. Para identificar a classificação de imposto aplicada às compras feitas por meio do catálogo compartilhado, selecione o Customer Tax Class.
 - Quando terminar, clique em Save .
+
+## Gerenciar configuração de exibição de catálogo
+
+Com a extensão Adobe Commerce Optimizer Connector for B2B instalada, a seção *Catalog Views*​de um catálogo compartilhado lista as exibições de catálogo Adobe Commerce Optimizer projetadas do catálogo compartilhado e permite gerenciar as chaves de acesso restrito que as protegem.
+
+- Na barra lateral Admin , vá para Catalog > Shared Catalogs .
+- Para o catálogo compartilhado que você deseja revisar, vá para a coluna Action e selecione General Settings .
+- No painel Shared Catalog Information , selecione Catalog Views .
+
+Para saber mais sobre exibições de catálogo e edição de chaves de acesso restrito, consulte [Gerenciar configuração de exibição de catálogo](/pt-br/docs/commerce-admin/b2b/shared-catalogs/catalog-views-manage).
 
 ## Referência de página do catálogo compartilhado
 
@@ -115171,9 +115352,37 @@ Custom
 Public
 - Identifica o catálogo compartilhado que está disponível para todos os visitantes convidados e para clientes conectados que não estão associados a uma empresa. Um catálogo público compartilhado “padrão” é criado quando o Adobe Commerce B2B é instalado, mas deve ser configurado pelo administrador. Somente um catálogo público compartilhado pode existir por vez.
 Customer Tax Class
-Determina a classe de imposto usada para compras feitas do catálogo. As opções incluem todas as classes de imposto disponíveis.
+Determina a classe de imposto usada para compras feitas do catálogo. As opções incluem todas as classes de imposto disponíveis. A classe de imposto está associada ao grupo de clientes criado ou usado para o catálogo compartilhado. Consulte
+Classes de imposto
+.
 Description
 Uma breve explicação de como o catálogo deve ser usado.
+### Exibições de catálogo
+
+A grade lista uma linha para cada exibição de catálogo criada quando um catálogo compartilhado é sincronizado com Adobe Commerce Optimizer. A grade é somente leitura além da ação de atribuição de chave. As exibições de catálogo são criadas e removidas automaticamente conforme o conector sincroniza catálogos compartilhados configurados no Adobe Commerce. Se um catálogo for removido, haverá um [período de carência](/pt-br/docs/commerce-admin/systems/data-transfer/data-sync/catalog-view-sync/catalog-view-sync-status#configure-the-deletion-grace-period) antes da exibição do catálogo correspondente e da exclusão dos dados.
+
+Para atribuir ou desatribuir chaves de acesso restrito, consulte [Atribuir chaves a uma exibição de catálogo](/pt-br/docs/commerce-admin/systems/data-transfer/data-sync/catalog-view-sync/restricted-access-keys#assign-keys-to-a-catalog-view).
+
+Campo
+Descrição
+ACO Catalog View ID
+O identificador da exibição de catálogo correspondente em Adobe Commerce Optimizer. Consulte
+Resumo do Status de Sincronização da Exibição de Catálogo
+para verificar sua integridade de sincronização.
+Store View
+A exibição de loja que a exibição de catálogo representa. Consulte
+Exibições de armazenamento
+.
+Access Keys
+Os títulos das chaves de acesso restrito atualmente atribuídas à exibição de catálogo. Consulte
+Gerenciamento de Chaves de Acesso Restrito
+.
+Actions
+Selecione
+Edit Restricted Access Keys
+para atribuir ou cancelar a atribuição de chaves para a exibição do catálogo. Consulte
+Atribuir chaves a uma exibição de catálogo
+.
 recommendation-more-help
 commerce-admin-help-b2b
 
@@ -115185,7 +115394,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/shared-catalogs/catalog-shared
 
-**Coletado em (UTC):** 2026-10-01T15:28:14.792695+00:00
+**Coletado em (UTC):** 2026-10-01T19:34:29.017739+00:00
 
 ---
 
@@ -115195,12 +115404,17 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"bd989d82-1e15-4534-88db-f1f51dd77ffa"},{"id":"c18ed297-2187-4aec-affb-9d9654eca6fc"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Contas](#)
+- [Gerenciamento de catálogo](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"b69b2659-1057-424e-8fc5-ed9e016dc554"},{"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"},{"id":"f8a45b24-4be7-4f1b-909b-60d06b483a20"}
+- Intermediário
+- Iniciante
+- Usuário
+- Admin
+- Líder
 
 O Adobe Commerce B2B oferece a capacidade de manter catálogos *compartilhados* com barreira com preços personalizados para diferentes empresas. Além do catálogo de produtos padrão, *primário*, ele fornece ao cliente acesso a dois tipos de catálogos compartilhados com estruturas de preços diferentes.
 
@@ -115291,6 +115505,109 @@ recommendation-more-help
 commerce-admin-help-b2b
 
 ---
+# FILE: experienceleague-adobe-com__pt-br__docs__commerce-admin__b2b__shared-catalogs__catalog-views-manage.md
+---
+
+# Gerenciar configuração de exibição do catálogo | Adobe Commerce
+
+**Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/shared-catalogs/catalog-views-manage
+
+**Coletado em (UTC):** 2026-10-01T19:35:20.714587+00:00
+
+---
+
+Documentação
+Adobe Commerce B2B
+# Gerenciar configuração de exibição de catálogo
+
+Última atualização: 1 de outubro de 2026
+- Tópicos:
+- [Gerenciamento de catálogo](#)
+- [Configuração](#)
+
+Criado para:
+
+- Intermediário
+- Admin
+
+Com a extensão Adobe Commerce Optimizer Connector for B2B instalada, a página Exibições de Catálogo lista as Adobe Commerce Optimizer [projeções de exibição de catálogo](https://experienceleague-review.adobe.com/en/docs/commerce/aco-optimizer-connector/b2b-shared-catalog-projection#_blank) criadas para o catálogo compartilhado personalizado. Uma *projeção* é a exibição de catálogo criada quando o conector sincroniza os dados de catálogo compartilhado com Adobe Commerce Optimizer. O conector cria uma projeção separada para cada exibição de loja no catálogo compartilhado, de modo que um catálogo compartilhado pode ter várias exibições de catálogo. Nas experiências da loja, essas exibições de catálogo são acessíveis somente para empresas atribuídas ao catálogo compartilhado associado.
+
+Por exemplo, suponha que a Acme Industrial esteja atribuída a um catálogo compartilhado, EU Business, que pertence ao site da UE. Esse site tem duas visualizações de loja:
+
+- English (UK)
+- German (Germany)
+
+O conector projeta o catálogo compartilhado em duas Adobe Commerce Optimizer exibições de catálogo:
+
+- EU Business – English (UK)
+- EU Business – German (Germany)
+
+A empresa tem exibições de catálogo em inglês e alemão, mas apenas uma atribuição de catálogo compartilhado. Cada exibição de armazenamento exibe dados de sua exibição de catálogo correspondente.
+
+Ambas as exibições de catálogo podem compartilhar o mesmo catálogo de preços quando usam o mesmo site e escopo de precificação de grupo de clientes.
+
+## Autenticação de visualização de catálogo
+
+O conector protege as exibições de catálogo com chaves de acesso restritas. A Adobe Commerce usa a chave privada para assinar um token de acesso para um comprador autorizado. Antes de retornar os dados do catálogo protegido, Adobe Commerce Optimizer valida o token com a chave pública correspondente associada à exibição do catálogo solicitada.
+
+Para configurar a duração do token ou desabilitar a emissão de token, consulte [Serviços > Exibição do Catálogo ACO](/pt-br/docs/commerce-admin/config/services/aco-catalog-view).
+
+Você pode revisar essas exibições de catálogo e gerenciar suas chaves atribuídas a partir da guia *Catalog Views*​do catálogo compartilhado ou da seção​*Catalog Views* da empresa associada - ambas listam as mesmas exibições de catálogo e atribuições de chave atuais. Consulte [Editar chaves de acesso restrito](#edit-restricted-access-keys) para obter o caminho de navegação exato de cada local.
+
+Para monitorar a sincronização de dados do catálogo compartilhado com Adobe Commerce Optimizer, consulte [Monitoramento do status de sincronização da exibição do catálogo](/pt-br/docs/commerce-admin/systems/data-transfer/data-sync/catalog-view-sync/catalog-view-sync-status).
+
+## Referência de exibições de catálogo
+
+A grade lista uma linha para cada exibição de catálogo criada quando um catálogo compartilhado é sincronizado com Adobe Commerce Optimizer. A grade é somente leitura além da ação de atribuição de chave. As exibições de catálogo são criadas e removidas automaticamente conforme o conector sincroniza catálogos compartilhados configurados no Adobe Commerce. Se um catálogo for removido, haverá um [período de carência](/pt-br/docs/commerce-admin/systems/data-transfer/data-sync/catalog-view-sync/catalog-view-sync-status#configure-the-deletion-grace-period) antes da exibição do catálogo correspondente e da exclusão dos dados.
+
+Para atribuir ou desatribuir chaves de acesso restrito, consulte [Atribuir chaves a uma exibição de catálogo](/pt-br/docs/commerce-admin/systems/data-transfer/data-sync/catalog-view-sync/restricted-access-keys#assign-keys-to-a-catalog-view).
+
+Campo
+Descrição
+ACO Catalog View ID
+O identificador da exibição de catálogo correspondente em Adobe Commerce Optimizer. Consulte
+Resumo do Status de Sincronização da Exibição de Catálogo
+para verificar sua integridade de sincronização.
+Store View
+A exibição de loja que a exibição de catálogo representa. Consulte
+Exibições de armazenamento
+.
+Access Keys
+Os títulos das chaves de acesso restrito atualmente atribuídas à exibição de catálogo. Consulte
+Gerenciamento de Chaves de Acesso Restrito
+.
+Actions
+Selecione
+Edit Restricted Access Keys
+para atribuir ou cancelar a atribuição de chaves para a exibição do catálogo. Consulte
+Atribuir chaves a uma exibição de catálogo
+.
+## Editar chaves de acesso restrito
+
+Atribuir ou cancelar atribuição de chaves de uma exibição de catálogo, não da grade Restricted Access Keys principal. Você pode fazer essa alteração na guia *Catalog Views*​do catálogo compartilhado ou na seção​*Catalog Views* da empresa associada — ambas listam as mesmas exibições de catálogo e atribuições de chave atuais.
+
+Uma exibição de catálogo deve ter pelo menos uma chave e pode ter no máximo três. Se você tentar atribuir uma quarta chave, o salvamento falhará, com uma mensagem informando que você remova uma primeiro.
+
+- Abra a grade Catalog Views ​da exibição de catálogo que deseja atualizar, usando um dos seguintes caminhos: No catálogo compartilhado — Na barra lateral Admin , vá para Catalog > Shared Catalogs . Para o catálogo compartilhado, selecione General Settings na coluna Action . No painel Shared Catalog Information , selecione Catalog Views . Da empresa — Na barra lateral Administrador , vá para Customers > Companies . Para a empresa, selecione Edit na coluna Action . Expanda a seção Catalog Views . Ambas as grades listam as exibições de catálogo criadas para o catálogo compartilhado atribuído à empresa, incluindo suas chaves atribuídas.
+- Selecione Edit Restricted Access Keys para a exibição de catálogo que você deseja atualizar. {width="500" modal="regular"}
+- No campo Access Keys , selecione uma chave não atribuída pelo valor Key ID. As chaves já atribuídas a uma exibição de catálogo diferente são rotuladas de acordo.
+- Selecione Done para atribuir a chave à exibição do catálogo.
+- Para remover uma chave do campo Access Keys , selecione x na entrada de nome de chave para removê-la.
+- Clique em Save .
+
+Para obter detalhes adicionais, consulte [Gerenciar chaves de acesso restrito](/pt-br/docs/commerce-admin/systems/data-transfer/data-sync/catalog-view-sync/restricted-access-keys).
+
+Related Articles
+- [Projeção de catálogo compartilhado B2B](https://experienceleague-review.adobe.com/en/docs/commerce/aco-optimizer-connector/b2b-shared-catalog-projection#_blank)
+- [Serviços > Exibição do catálogo de ACO](/pt-br/docs/commerce-admin/config/services/aco-catalog-view)
+- [Monitoramento do Status de Sincronização da Exibição de Catálogo](/pt-br/docs/commerce-admin/systems/data-transfer/data-sync/catalog-view-sync/catalog-view-sync-status)
+- [Gerenciar seus catálogos compartilhados](/pt-br/docs/commerce-admin/b2b/shared-catalogs/catalog-shared-manage)
+- [Gerenciar contas da empresa](/pt-br/docs/commerce-admin/b2b/companies/account-company-manage)
+
+recommendation-more-help
+commerce-admin-help-b2b
+
+---
 # FILE: experienceleague-adobe-com__pt-br__docs__commerce-admin__b2b__shared-catalogs__define__catalog-shared-assign-companies.md
 ---
 
@@ -115298,7 +115615,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-assign-companies
 
-**Coletado em (UTC):** 2026-10-01T15:29:07.735697+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:39.279756+00:00
 
 ---
 
@@ -115308,12 +115625,13 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"c18ed297-2187-4aec-affb-9d9654eca6fc"}](#)
+- [Gerenciamento de catálogo](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"}
+- Intermediário
+- Iniciante
+- Admin
 
 Há duas maneiras de atribuir uma empresa a um catálogo compartilhado. Você pode fazer a atribuição a partir da grade *Shared Catalogs*​ou editar a empresa e atribuir o catálogo compartilhado como escolheria um grupo de clientes.
 
@@ -115346,7 +115664,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create
 
-**Coletado em (UTC):** 2026-10-01T15:30:54.754354+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:10.936375+00:00
 
 ---
 
@@ -115356,12 +115674,15 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"bd989d82-1e15-4534-88db-f1f51dd77ffa"},{"id":"c18ed297-2187-4aec-affb-9d9654eca6fc"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Contas](#)
+- [Gerenciamento de catálogo](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"}
+- Intermediário
+- Iniciante
+- Admin
 
 Quando um [catálogo compartilhado](/pt-br/docs/commerce-admin/b2b/shared-catalogs/catalog-shared) é criado, o sistema cria automaticamente um [grupo de clientes](/pt-br/docs/commerce-admin/b2b/companies/account-company-customer-group) com o mesmo nome. Por exemplo, se você criar um catálogo compartilhado chamado *Catálogo ABC*, o sistema também criará um grupo de clientes *Catálogo ABC* correspondente. Atribuir uma empresa ao catálogo personalizado compartilhado é basicamente o mesmo que atribuí-la a um grupo de clientes.
 
@@ -115499,7 +115820,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-pricing-structure
 
-**Coletado em (UTC):** 2026-10-01T15:29:06.778503+00:00
+**Coletado em (UTC):** 2026-10-01T19:35:37.730792+00:00
 
 ---
 
@@ -115509,12 +115830,15 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"c18ed297-2187-4aec-affb-9d9654eca6fc"},{"id":"d1e21356-0064-4f48-9089-16e3f0dbd2a6"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Gerenciamento de catálogo](#)
+- [Vitrine](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"}
+- Intermediário
+- Iniciante
+- Admin
 
 A definição de preços e da estrutura de um catálogo compartilhado é um processo de duas etapas. O local atual no processo é realçado com um número na barra de progresso na parte superior da página. É possível exibir a outra etapa do processo a qualquer momento, clicando na barra de progresso. Por exemplo, se estiver trabalhando em preços personalizados, talvez você queira retornar à página de seleção de produto para referência. Basta clicar em **Products** na barra de progresso na parte superior da página e em **Pricing** para retornar à página de preços personalizados. Seu trabalho não está perdido neste processo.
 
@@ -115594,7 +115918,7 @@ commerce-admin-help-b2b
 
 **Fonte original:** https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-product-add
 
-**Coletado em (UTC):** 2026-10-01T15:30:55.599441+00:00
+**Coletado em (UTC):** 2026-10-01T19:37:10.013313+00:00
 
 ---
 
@@ -115604,12 +115928,17 @@ Adobe Commerce B2B
 
 Última atualização: 16 de junho de 2026
 - Tópicos:
-- [{"id":"c18ed297-2187-4aec-affb-9d9654eca6fc"},{"id":"d1e21356-0064-4f48-9089-16e3f0dbd2a6"},{"id":"dac87252-6066-4d6e-a9d2-f6d84c323de7"}](#)
+- [Gerenciamento de catálogo](#)
+- [Vitrine](#)
+- [Configuração](#)
 
 Criado para:
 
-- {"id":"b5a62a22-46f7-4f0d-b151-3fc640bef588"},{"id":"e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5"}
-- {"id":"b69b2659-1057-424e-8fc5-ed9e016dc554"},{"id":"c66ffd68-0f65-42bb-aa23-b4020f12e0bd"},{"id":"f8a45b24-4be7-4f1b-909b-60d06b483a20"}
+- Intermediário
+- Iniciante
+- Usuário
+- Admin
+- Líder
 
 Os produtos podem ser adicionados a um catálogo compartilhado individualmente ou em grupos de vários produtos por categoria.
 
